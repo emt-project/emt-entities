@@ -1,0 +1,19 @@
+[flake8]
+ignore = D203 W504
+max-line-length = 120
+exclude =
+    */migrations,
+    */migrations,
+    manage.py
+    .git,
+    .tox,
+    docs/conf.py,
+    build,
+    dist
+    env
+    infos
+    appcreator
+    djangobaseproject/settings
+    webpage
+    djangobaseproject/settings/pg_local.py
+    stanza

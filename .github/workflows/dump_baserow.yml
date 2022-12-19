@@ -22,6 +22,7 @@ jobs:
       - name: dump the data
         run: |
           python dump_data.py
+          python make_xml.py
       - name: Commit data
         uses: stefanzweifel/git-auto-commit-action@v4
         with:

@@ -1,2 +1,5 @@
 acdh-baserow-pyutils>=0.2.0,<3
 acdh-tei-pyutils
+acdh-id-reconciler
+jinja2
+acdh-arche-assets>=3.6,<4
