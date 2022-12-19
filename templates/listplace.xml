@@ -59,11 +59,11 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
    </teiHeader>
    <text>
       <body>
-         <div type="index_persons">
-            <listPerson xml:id="listperson">
+         <div type="index_places">
+            <listPlace xml:id="listplace">
             {% for x in objects %}
-               <person xml:id="{{ x.emt_id }}">
-                  <persName>{{ x.name }}</persName>
+               <place xml:id="{{ x.emt_id }}">
+                  <placeName>{{ x.name }}</placeName>
                   {% if x.birth_day is string %}
                   <birth>
                      <date when-iso="{{ x.birth_day }}">{{ x.birth_day }}</date>
@@ -97,9 +97,9 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                   {% if x.wikidata|length > 0 %}
                   <idno type="WIKIDATA">{{ x.wikidata }}</idno>
                   {% endif %}
-               </person>
+               </place>
             {% endfor %}
-            </listPerson>
+            </listPlace>
          </div>
       </body>
    </text>
