@@ -2,7 +2,7 @@
    <teiHeader>
       <fileDesc>
          <titleStmt>
-            <title type="main">Personenregister</title>
+            <title type="main">Ortsregister</title>
             <title type="sub">
 Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiserin Eleonora Magdalena von Pfalz-Neuburg (1655-1720)
 </title>
@@ -17,7 +17,7 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                <name>Peter Andorfer</name>
             </respStmt>
             <funder xmlns="http://www.tei-c.org/ns/1.0">
-               <name>FWF Der Wissenschaftsfond.</name>
+               <name>FWF Der Wissenschaftsfond</name>
                <address>
                      <street>Sensengasse 1</street>
                      <postCode>1090 Wien</postCode>
@@ -29,7 +29,7 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
             </funder>
          </titleStmt>
          <publicationStmt>
-            <publisher>Austrian Centre for Digital Humanities and Cultural Heritage</publisher>
+            <publisher>Institut für die Erforschung der Habsburgermonarchie und des Balkanraumes</publisher>
             <pubPlace>Wien</pubPlace>
             <date when="2022">2022</date>
             <availability>
@@ -53,7 +53,7 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
             </availability>
          </publicationStmt>
          <sourceDesc>
-            <p>Register der im Projekt erwähnten Personen</p>
+            <p>Register der im Projekt erwähnten Orte</p>
          </sourceDesc>
       </fileDesc>
    </teiHeader>
