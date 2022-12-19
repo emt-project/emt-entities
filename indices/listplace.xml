@@ -1,0 +1,349 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Personenregister</title>
+            <title type="sub">
+Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiserin Eleonora Magdalena von Pfalz-Neuburg (1655-1720)
+</title>
+            <respStmt>
+               <resp>Aufbereitung der Daten</resp>
+               <name>Keller, Katrin</name>
+               <name>Spitzbart, Anna</name>
+               <name>Pepper, Ines</name>
+            </respStmt>
+            <respStmt>
+               <resp>converted to XML encoding</resp>
+               <name>Peter Andorfer</name>
+            </respStmt>
+            <funder xmlns="http://www.tei-c.org/ns/1.0">
+               <name>FWF Der Wissenschaftsfond.</name>
+               <address>
+                     <street>Sensengasse 1</street>
+                     <postCode>1090 Wien</postCode>
+                     <placeName>
+                        <country>Österreich</country>
+                        <settlement>Wien</settlement>
+                     </placeName>
+               </address>
+            </funder>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>Austrian Centre for Digital Humanities and Cultural Heritage</publisher>
+            <pubPlace>Wien</pubPlace>
+            <date when="2022">2022</date>
+            <availability>
+               <licence target="https://creativecommons.org/licenses/by/4.0">
+                  <p>Sie dürfen: Teilen — das Material in jedwedem Format oder Medium vervielfältigen und weiterverbreiten</p>
+                  <p>Bearbeiten — das Material remixen, verändern und darauf aufbauen und zwar für beliebige Zwecke, sogar kommerziell.</p>
+                  <p>Der Lizenzgeber kann diese Freiheiten nicht widerrufen solange Sie sich an die Lizenzbedingungen halten. Unter folgenden Bedingungen:</p>
+                  <p>Namensnennung — Sie müssen angemessene Urheber- und Rechteangaben machen, einen Link zur Lizenz beifügen und angeben, ob Änderungen vorgenommen wurden.
+                     Diese Angaben dürfen in jeder angemessenen Art und Weise gemacht werden, allerdings nicht so, dass der Eindruck entsteht, der Lizenzgeber unterstütze
+                     gerade Sie oder Ihre Nutzung besonders.</p>
+                  <p>Keine weiteren Einschränkungen — Sie dürfen keine zusätzlichen Klauseln oder technische Verfahren einsetzen, 
+                     die anderen rechtlich irgendetwas untersagen, was die Lizenz erlaubt.</p>
+                  <p>Hinweise:</p>
+                  <p>Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Materials, die gemeinfrei sind, oder soweit Ihre Nutzungshandlungen durch Ausnahmen und
+                     Schranken des Urheberrechts gedeckt sind.</p>
+                  <p>Es werden keine Garantien gegeben und auch keine Gewähr geleistet.
+                     Die Lizenz verschafft Ihnen möglicherweise nicht alle Erlaubnisse,
+                     die Sie für die jeweilige Nutzung brauchen. 
+                     Es können beispielsweise andere Rechte wie Persönlichkeits- undDatenschutzrechte zu beachten sein, die Ihre Nutzung des Materials entsprechend beschränken.</p>
+               </licence>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <p>Register der im Projekt erwähnten Personen</p>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div type="index_persons">
+            <listPerson xml:id="listperson">
+               <person xml:id="emt_place_id__1">
+                  <persName>im Schiff</persName>
+               </person>
+               <person xml:id="emt_place_id__2">
+                  <persName>?</persName>
+               </person>
+               <person xml:id="emt_place_id__3">
+                  <persName>Aachen</persName>
+                  <idno type="GEONAMES">https://sws.geonames.org/3247449/</idno>
+               </person>
+               <person xml:id="emt_place_id__4">
+                  <persName>Altötting</persName>
+                  <idno type="GEONAMES">https://sws.geonames.org/2956940/</idno>
+               </person>
+               <person xml:id="emt_place_id__5">
+                  <persName>Augsburg</persName>
+                  <idno type="GEONAMES">https://sws.geonames.org/6557107/</idno>
+               </person>
+               <person xml:id="emt_place_id__6">
+                  <persName>Benrath</persName>
+                  <idno type="GEONAMES">https://sws.geonames.org/6947823/</idno>
+               </person>
+               <person xml:id="emt_place_id__7">
+                  <persName>Bensberg</persName>
+                  <idno type="GEONAMES">https://sws.geonames.org/2950990/</idno>
+               </person>
+               <person xml:id="emt_place_id__8">
+                  <persName>Brandeis / Brandýs nad Labem</persName>
+                  <idno type="GEONAMES">https://sws.geonames.org/3078838/</idno>
+               </person>
+               <person xml:id="emt_place_id__9">
+                  <persName>Budweis / České Budějovice</persName>
+                  <idno type="GEONAMES">https://sws.geonames.org/3077916/</idno>
+               </person>
+               <person xml:id="emt_place_id__10">
+                  <persName>Madrid, Buen Retiro</persName>
+                  <idno type="GEONAMES">https://sws.geonames.org/6255078/</idno>
+               </person>
+               <person xml:id="emt_place_id__11">
+                  <persName>Burglengenfeld</persName>
+                  <idno type="GEONAMES">https://sws.geonames.org/2941190/</idno>
+               </person>
+               <person xml:id="emt_place_id__12">
+                  <persName>Den Haag</persName>
+                  <idno type="GEONAMES">https://sws.geonames.org/2747373/</idno>
+               </person>
+               <person xml:id="emt_place_id__13">
+                  <persName>Düsseldorf</persName>
+                  <idno type="GEONAMES">https://sws.geonames.org/2934246/</idno>
+               </person>
+               <person xml:id="emt_place_id__14">
+                  <persName>Ebersberg</persName>
+                  <idno type="GEONAMES">https://sws.geonames.org/2933945/</idno>
+               </person>
+               <person xml:id="emt_place_id__15">
+                  <persName>Wien, Ebersdorf</persName>
+                  <idno type="GEONAMES">https://sws.geonames.org/3322696/</idno>
+               </person>
+               <person xml:id="emt_place_id__16">
+                  <persName>Erfurt</persName>
+                  <idno type="GEONAMES">https://sws.geonames.org/2929670/</idno>
+               </person>
+               <person xml:id="emt_place_id__17">
+                  <persName>Eschwege</persName>
+                  <idno type="GEONAMES">https://sws.geonames.org/2928967/</idno>
+               </person>
+               <person xml:id="emt_place_id__18">
+                  <persName>Wien, Favorita</persName>
+                  <idno type="GEONAMES">https://sws.geonames.org/12500694/</idno>
+               </person>
+               <person xml:id="emt_place_id__19">
+                  <persName>Feldlager bei Ofen / Buda</persName>
+                  <idno type="GEONAMES">https://sws.geonames.org/3054643/</idno>
+               </person>
+               <person xml:id="emt_place_id__20">
+                  <persName>Frankfurt</persName>
+                  <idno type="GEONAMES">https://sws.geonames.org/2925533/</idno>
+               </person>
+               <person xml:id="emt_place_id__21">
+                  <persName>Friedrichsburg</persName>
+                  <idno type="GEONAMES">https://sws.geonames.org/8629938/</idno>
+               </person>
+               <person xml:id="emt_place_id__22">
+                  <persName>Geldrop</persName>
+                  <idno type="GEONAMES">https://sws.geonames.org/2755619/</idno>
+               </person>
+               <person xml:id="emt_place_id__23">
+                  <persName>Grünau ?</persName>
+                  <idno type="GEONAMES">https://sws.geonames.org/11996450/</idno>
+               </person>
+               <person xml:id="emt_place_id__24">
+                  <persName>Hambach</persName>
+                  <idno type="GEONAMES">https://sws.geonames.org/2911360/</idno>
+               </person>
+               <person xml:id="emt_place_id__25">
+                  <persName>Heidelberg</persName>
+                  <idno type="GEONAMES">https://sws.geonames.org/2907911/</idno>
+               </person>
+               <person xml:id="emt_place_id__26">
+                  <persName>Heiligenkreuz</persName>
+                  <idno type="GEONAMES">https://sws.geonames.org/2776586/</idno>
+               </person>
+               <person xml:id="emt_place_id__27">
+                  <persName>Innsbruck</persName>
+                  <idno type="GEONAMES">https://sws.geonames.org/2775220/</idno>
+               </person>
+               <person xml:id="emt_place_id__28">
+                  <persName>Jenieau</persName>
+               </person>
+               <person xml:id="emt_place_id__29">
+                  <persName>Korneuburg</persName>
+                  <idno type="GEONAMES">https://sws.geonames.org/2773698/</idno>
+               </person>
+               <person xml:id="emt_place_id__30">
+                  <persName>Lambach</persName>
+                  <idno type="GEONAMES">https://sws.geonames.org/7872188/</idno>
+               </person>
+               <person xml:id="emt_place_id__31">
+                  <persName>Laxenburg</persName>
+                  <idno type="GEONAMES">https://sws.geonames.org/2772810/</idno>
+               </person>
+               <person xml:id="emt_place_id__32">
+                  <persName>Linz</persName>
+                  <idno type="GEONAMES">https://sws.geonames.org/2772400/</idno>
+               </person>
+               <person xml:id="emt_place_id__33">
+                  <persName>Lissabon</persName>
+                  <idno type="GEONAMES">https://sws.geonames.org/2267057/</idno>
+               </person>
+               <person xml:id="emt_place_id__34">
+                  <persName>Luzzara</persName>
+                  <idno type="GEONAMES">https://sws.geonames.org/3174416/</idno>
+               </person>
+               <person xml:id="emt_place_id__35">
+                  <persName>Maastricht</persName>
+                  <idno type="GEONAMES">https://sws.geonames.org/2751283/</idno>
+               </person>
+               <person xml:id="emt_place_id__36">
+                  <persName>Madrid</persName>
+                  <idno type="GEONAMES">https://sws.geonames.org/3117735/</idno>
+               </person>
+               <person xml:id="emt_place_id__37">
+                  <persName>Mainz</persName>
+                  <idno type="GEONAMES">https://sws.geonames.org/2874225/</idno>
+               </person>
+               <person xml:id="emt_place_id__38">
+                  <persName>Nassau</persName>
+                  <idno type="GEONAMES">https://sws.geonames.org/2867037/</idno>
+               </person>
+               <person xml:id="emt_place_id__39">
+                  <persName>Neuburg</persName>
+                  <idno type="GEONAMES">https://sws.geonames.org/2866070/</idno>
+               </person>
+               <person xml:id="emt_place_id__40">
+                  <persName>Neustadt an der Haardt?</persName>
+                  <idno type="GEONAMES">https://sws.geonames.org/2864054/</idno>
+               </person>
+               <person xml:id="emt_place_id__41">
+                  <persName>Pardubice</persName>
+                  <idno type="GEONAMES">https://sws.geonames.org/3068582/</idno>
+               </person>
+               <person xml:id="emt_place_id__42">
+                  <persName>Paris</persName>
+                  <idno type="GEONAMES">https://sws.geonames.org/2988507/</idno>
+               </person>
+               <person xml:id="emt_place_id__43">
+                  <persName>Parma</persName>
+                  <idno type="GEONAMES">https://sws.geonames.org/3171457/</idno>
+               </person>
+               <person xml:id="emt_place_id__44">
+                  <persName>Passau</persName>
+                  <idno type="GEONAMES">https://sws.geonames.org/2855328/</idno>
+               </person>
+               <person xml:id="emt_place_id__45">
+                  <persName>Pisa</persName>
+                  <idno type="GEONAMES">https://sws.geonames.org/3170647/</idno>
+               </person>
+               <person xml:id="emt_place_id__46">
+                  <persName>Pottendorf</persName>
+                  <idno type="GEONAMES">https://sws.geonames.org/2768472/</idno>
+               </person>
+               <person xml:id="emt_place_id__47">
+                  <persName>Prag</persName>
+                  <idno type="GEONAMES">https://sws.geonames.org/3067696/</idno>
+               </person>
+               <person xml:id="emt_place_id__48">
+                  <persName>Preßburg</persName>
+                  <idno type="GEONAMES">https://sws.geonames.org/3060972/</idno>
+               </person>
+               <person xml:id="emt_place_id__49">
+                  <persName>Reichstadt</persName>
+                  <idno type="GEONAMES">https://sws.geonames.org/6550513/</idno>
+               </person>
+               <person xml:id="emt_place_id__50">
+                  <persName>Rom</persName>
+                  <idno type="GEONAMES">https://sws.geonames.org/3169070/</idno>
+               </person>
+               <person xml:id="emt_place_id__51">
+                  <persName>Sagan / Żagań</persName>
+                  <idno type="GEONAMES">https://sws.geonames.org/3080944/</idno>
+               </person>
+               <person xml:id="emt_place_id__52">
+                  <persName>Schwetzingen</persName>
+                  <idno type="GEONAMES">https://sws.geonames.org/2834240/</idno>
+               </person>
+               <person xml:id="emt_place_id__53">
+                  <persName>Schwetzingen im Fasans Haus</persName>
+                  <idno type="GEONAMES">https://sws.geonames.org/2834240/</idno>
+               </person>
+               <person xml:id="emt_place_id__54">
+                  <persName>Schöntal</persName>
+                  <idno type="GEONAMES">https://sws.geonames.org/2836466/</idno>
+               </person>
+               <person xml:id="emt_place_id__55">
+                  <persName>Siegburg</persName>
+                  <idno type="GEONAMES">https://sws.geonames.org/2832521/</idno>
+               </person>
+               <person xml:id="emt_place_id__56">
+                  <persName>Steyr</persName>
+                  <idno type="GEONAMES">https://sws.geonames.org/2764359/</idno>
+               </person>
+               <person xml:id="emt_place_id__57">
+                  <persName>Strengberg</persName>
+                  <idno type="GEONAMES">https://sws.geonames.org/7872827/</idno>
+               </person>
+               <person xml:id="emt_place_id__58">
+                  <persName>Swolinewetz?</persName>
+               </person>
+               <person xml:id="emt_place_id__59">
+                  <persName>Warschau</persName>
+                  <idno type="GEONAMES">https://sws.geonames.org/756135/</idno>
+               </person>
+               <person xml:id="emt_place_id__60">
+                  <persName>Weinheim</persName>
+                  <idno type="GEONAMES">https://sws.geonames.org/2812174/</idno>
+               </person>
+               <person xml:id="emt_place_id__61">
+                  <persName>Welz</persName>
+                  <idno type="GEONAMES">https://sws.geonames.org/2811359/</idno>
+               </person>
+               <person xml:id="emt_place_id__62">
+                  <persName>Wesel</persName>
+                  <idno type="GEONAMES">https://sws.geonames.org/2810678/</idno>
+               </person>
+               <person xml:id="emt_place_id__63">
+                  <persName>Wien</persName>
+                  <idno type="GEONAMES">https://sws.geonames.org/2761369/</idno>
+               </person>
+               <person xml:id="emt_place_id__64">
+                  <persName>Wien, Königinkloster</persName>
+                  <idno type="GEONAMES">https://sws.geonames.org/2761369/</idno>
+               </person>
+               <person xml:id="emt_place_id__65">
+                  <persName>Wien ?</persName>
+               </person>
+               <person xml:id="emt_place_id__66">
+                  <persName>Wiener Neustadt</persName>
+                  <idno type="GEONAMES">https://sws.geonames.org/2761353/</idno>
+               </person>
+               <person xml:id="emt_place_id__67">
+                  <persName>Wolfenbüttel</persName>
+                  <idno type="GEONAMES">https://sws.geonames.org/2806914/</idno>
+               </person>
+               <person xml:id="emt_place_id__68">
+                  <persName>Zangberg</persName>
+                  <idno type="GEONAMES">https://sws.geonames.org/2805261/</idno>
+               </person>
+               <person xml:id="emt_place_id__69">
+                  <persName>auf der beis</persName>
+               </person>
+               <person xml:id="emt_place_id__70">
+                  <persName>Traunsee</persName>
+                  <idno type="GEONAMES">https://sws.geonames.org/2763413/</idno>
+               </person>
+               <person xml:id="emt_place_id__71">
+                  <persName>o.O.</persName>
+               </person>
+               <person xml:id="emt_place_id__72">
+                  <persName>Ödenburg / Sopron</persName>
+                  <idno type="GEONAMES">https://sws.geonames.org/3045190/</idno>
+               </person>
+            </listPerson>
+         </div>
+      </body>
+   </text>
+</TEI>
