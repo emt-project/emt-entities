@@ -1,0 +1,506 @@
+{
+  "1": {
+    "id": 1,
+    "order": "1.00000000000000000000",
+    "name": "im Schiff",
+    "geonames": "",
+    "emt_id": "emt_place_id__1"
+  },
+  "2": {
+    "id": 2,
+    "order": "2.00000000000000000000",
+    "name": "?",
+    "geonames": "",
+    "emt_id": "emt_place_id__2"
+  },
+  "3": {
+    "id": 3,
+    "order": "3.00000000000000000000",
+    "name": "Aachen",
+    "geonames": "https://www.geonames.org/3247449/aachen.html",
+    "emt_id": "emt_place_id__3"
+  },
+  "4": {
+    "id": 4,
+    "order": "4.00000000000000000000",
+    "name": "Altötting",
+    "geonames": "https://www.geonames.org/2956940/altoetting.html",
+    "emt_id": "emt_place_id__4"
+  },
+  "5": {
+    "id": 5,
+    "order": "5.00000000000000000000",
+    "name": "Augsburg",
+    "geonames": "https://www.geonames.org/6557107/augsburg.html",
+    "emt_id": "emt_place_id__5"
+  },
+  "6": {
+    "id": 6,
+    "order": "6.00000000000000000000",
+    "name": "Benrath",
+    "geonames": "https://www.geonames.org/6947823/schloss-benrath.html",
+    "emt_id": "emt_place_id__6"
+  },
+  "7": {
+    "id": 7,
+    "order": "7.00000000000000000000",
+    "name": "Bensberg",
+    "geonames": "https://www.geonames.org/2950990/bensberg.html",
+    "emt_id": "emt_place_id__7"
+  },
+  "8": {
+    "id": 8,
+    "order": "8.00000000000000000000",
+    "name": "Brandeis / Brandýs nad Labem",
+    "geonames": "https://www.geonames.org/3078838/brandys-nad-labem.html",
+    "emt_id": "emt_place_id__8"
+  },
+  "9": {
+    "id": 9,
+    "order": "9.00000000000000000000",
+    "name": "Budweis / České Budějovice",
+    "geonames": "https://www.geonames.org/3077916/ceske-budejovice.html",
+    "emt_id": "emt_place_id__9"
+  },
+  "10": {
+    "id": 10,
+    "order": "10.00000000000000000000",
+    "name": "Madrid, Buen Retiro",
+    "geonames": "https://www.geonames.org/6255078/parque-del-retiro.html",
+    "emt_id": "emt_place_id__10"
+  },
+  "11": {
+    "id": 11,
+    "order": "11.00000000000000000000",
+    "name": "Burglengenfeld",
+    "geonames": "https://www.geonames.org/2941190/burglengenfeld.html",
+    "emt_id": "emt_place_id__11"
+  },
+  "12": {
+    "id": 12,
+    "order": "12.00000000000000000000",
+    "name": "Den Haag",
+    "geonames": "https://www.geonames.org/2747373/the-hague.html",
+    "emt_id": "emt_place_id__12"
+  },
+  "13": {
+    "id": 13,
+    "order": "13.00000000000000000000",
+    "name": "Düsseldorf",
+    "geonames": "https://www.geonames.org/2934246/duesseldorf.html",
+    "emt_id": "emt_place_id__13"
+  },
+  "14": {
+    "id": 14,
+    "order": "14.00000000000000000000",
+    "name": "Ebersberg",
+    "geonames": "https://www.geonames.org/2933945/ebersberg.html",
+    "emt_id": "emt_place_id__14"
+  },
+  "15": {
+    "id": 15,
+    "order": "15.00000000000000000000",
+    "name": "Wien, Ebersdorf",
+    "geonames": "https://www.geonames.org/3322696/kaiserebersdorf.html",
+    "emt_id": "emt_place_id__15"
+  },
+  "16": {
+    "id": 16,
+    "order": "16.00000000000000000000",
+    "name": "Erfurt",
+    "geonames": "https://www.geonames.org/2929670/erfurt.html",
+    "emt_id": "emt_place_id__16"
+  },
+  "17": {
+    "id": 17,
+    "order": "17.00000000000000000000",
+    "name": "Eschwege",
+    "geonames": "https://www.geonames.org/2928967/eschwege.html",
+    "emt_id": "emt_place_id__17"
+  },
+  "18": {
+    "id": 18,
+    "order": "18.00000000000000000000",
+    "name": "Wien, Favorita",
+    "geonames": "https://www.geonames.org/12500694/theresianum.html",
+    "emt_id": "emt_place_id__18"
+  },
+  "19": {
+    "id": 19,
+    "order": "19.00000000000000000000",
+    "name": "Feldlager bei Ofen / Buda",
+    "geonames": "https://www.geonames.org/3054643/budapest.html",
+    "emt_id": "emt_place_id__19"
+  },
+  "20": {
+    "id": 20,
+    "order": "20.00000000000000000000",
+    "name": "Frankfurt",
+    "geonames": "https://www.geonames.org/2925533/frankfurt-am-main.html",
+    "emt_id": "emt_place_id__20"
+  },
+  "21": {
+    "id": 21,
+    "order": "21.00000000000000000000",
+    "name": "Friedrichsburg",
+    "geonames": "https://www.geonames.org/8629938/friedrichsburg.html",
+    "emt_id": "emt_place_id__21"
+  },
+  "22": {
+    "id": 22,
+    "order": "22.00000000000000000000",
+    "name": "Geldrop",
+    "geonames": "https://www.geonames.org/2755619/geldrop.html",
+    "emt_id": "emt_place_id__22"
+  },
+  "23": {
+    "id": 23,
+    "order": "23.00000000000000000000",
+    "name": "Grünau ?",
+    "geonames": "https://www.geonames.org/11996450/gruenau.html",
+    "emt_id": "emt_place_id__23"
+  },
+  "24": {
+    "id": 24,
+    "order": "24.00000000000000000000",
+    "name": "Hambach",
+    "geonames": "https://www.geonames.org/2911360/hambach.html",
+    "emt_id": "emt_place_id__24"
+  },
+  "25": {
+    "id": 25,
+    "order": "25.00000000000000000000",
+    "name": "Heidelberg",
+    "geonames": "https://www.geonames.org/2907911/heidelberg.html",
+    "emt_id": "emt_place_id__25"
+  },
+  "26": {
+    "id": 26,
+    "order": "26.00000000000000000000",
+    "name": "Heiligenkreuz",
+    "geonames": "https://www.geonames.org/2776586/heiligenkreuz.html",
+    "emt_id": "emt_place_id__26"
+  },
+  "27": {
+    "id": 27,
+    "order": "27.00000000000000000000",
+    "name": "Innsbruck",
+    "geonames": "https://www.geonames.org/2775220/innsbruck.html",
+    "emt_id": "emt_place_id__27"
+  },
+  "28": {
+    "id": 28,
+    "order": "28.00000000000000000000",
+    "name": "Jenieau",
+    "geonames": "",
+    "emt_id": "emt_place_id__28"
+  },
+  "29": {
+    "id": 29,
+    "order": "29.00000000000000000000",
+    "name": "Korneuburg",
+    "geonames": "https://www.geonames.org/2773698/korneuburg.html",
+    "emt_id": "emt_place_id__29"
+  },
+  "30": {
+    "id": 30,
+    "order": "30.00000000000000000000",
+    "name": "Lambach",
+    "geonames": "https://www.geonames.org/7872188/lambach.html",
+    "emt_id": "emt_place_id__30"
+  },
+  "31": {
+    "id": 31,
+    "order": "31.00000000000000000000",
+    "name": "Laxenburg",
+    "geonames": "https://www.geonames.org/2772810/laxenburg.html",
+    "emt_id": "emt_place_id__31"
+  },
+  "32": {
+    "id": 32,
+    "order": "32.00000000000000000000",
+    "name": "Linz",
+    "geonames": "https://www.geonames.org/2772400/linz.html",
+    "emt_id": "emt_place_id__32"
+  },
+  "33": {
+    "id": 33,
+    "order": "33.00000000000000000000",
+    "name": "Lissabon",
+    "geonames": "https://www.geonames.org/2267057/lisbon.html",
+    "emt_id": "emt_place_id__33"
+  },
+  "34": {
+    "id": 34,
+    "order": "34.00000000000000000000",
+    "name": "Luzzara",
+    "geonames": "https://www.geonames.org/3174416/luzzara.html",
+    "emt_id": "emt_place_id__34"
+  },
+  "35": {
+    "id": 35,
+    "order": "35.00000000000000000000",
+    "name": "Maastricht",
+    "geonames": "https://www.geonames.org/2751283/maastricht.html",
+    "emt_id": "emt_place_id__35"
+  },
+  "36": {
+    "id": 36,
+    "order": "36.00000000000000000000",
+    "name": "Madrid",
+    "geonames": "https://www.geonames.org/3117735/madrid.html",
+    "emt_id": "emt_place_id__36"
+  },
+  "37": {
+    "id": 37,
+    "order": "37.00000000000000000000",
+    "name": "Mainz",
+    "geonames": "https://www.geonames.org/2874225/mainz.html",
+    "emt_id": "emt_place_id__37"
+  },
+  "38": {
+    "id": 38,
+    "order": "38.00000000000000000000",
+    "name": "Nassau",
+    "geonames": "https://www.geonames.org/2867037/nassau.html",
+    "emt_id": "emt_place_id__38"
+  },
+  "39": {
+    "id": 39,
+    "order": "39.00000000000000000000",
+    "name": "Neuburg",
+    "geonames": "https://www.geonames.org/2866070/neuburg-an-der-donau.html",
+    "emt_id": "emt_place_id__39"
+  },
+  "40": {
+    "id": 40,
+    "order": "40.00000000000000000000",
+    "name": "Neustadt an der Haardt?",
+    "geonames": "https://www.geonames.org/2864054/neustadt.html",
+    "emt_id": "emt_place_id__40"
+  },
+  "41": {
+    "id": 41,
+    "order": "41.00000000000000000000",
+    "name": "Pardubice",
+    "geonames": "https://www.geonames.org/3068582/pardubice.html",
+    "emt_id": "emt_place_id__41"
+  },
+  "42": {
+    "id": 42,
+    "order": "42.00000000000000000000",
+    "name": "Paris",
+    "geonames": "https://www.geonames.org/2988507/paris.html",
+    "emt_id": "emt_place_id__42"
+  },
+  "43": {
+    "id": 43,
+    "order": "43.00000000000000000000",
+    "name": "Parma",
+    "geonames": "https://www.geonames.org/3171457/parma.html",
+    "emt_id": "emt_place_id__43"
+  },
+  "44": {
+    "id": 44,
+    "order": "44.00000000000000000000",
+    "name": "Passau",
+    "geonames": "https://www.geonames.org/2855328/passau.html",
+    "emt_id": "emt_place_id__44"
+  },
+  "45": {
+    "id": 45,
+    "order": "45.00000000000000000000",
+    "name": "Pisa",
+    "geonames": "https://www.geonames.org/3170647/pisa.html",
+    "emt_id": "emt_place_id__45"
+  },
+  "46": {
+    "id": 46,
+    "order": "46.00000000000000000000",
+    "name": "Pottendorf",
+    "geonames": "https://www.geonames.org/2768472/pottendorf.html",
+    "emt_id": "emt_place_id__46"
+  },
+  "47": {
+    "id": 47,
+    "order": "47.00000000000000000000",
+    "name": "Prag",
+    "geonames": "https://www.geonames.org/3067696/prague.html",
+    "emt_id": "emt_place_id__47"
+  },
+  "48": {
+    "id": 48,
+    "order": "48.00000000000000000000",
+    "name": "Preßburg",
+    "geonames": "https://www.geonames.org/3060972/bratislava.html",
+    "emt_id": "emt_place_id__48"
+  },
+  "49": {
+    "id": 49,
+    "order": "49.00000000000000000000",
+    "name": "Reichstadt",
+    "geonames": "https://www.geonames.org/6550513/reichstaedt.html",
+    "emt_id": "emt_place_id__49"
+  },
+  "50": {
+    "id": 50,
+    "order": "50.00000000000000000000",
+    "name": "Rom",
+    "geonames": "https://www.geonames.org/3169070/rome.html",
+    "emt_id": "emt_place_id__50"
+  },
+  "51": {
+    "id": 51,
+    "order": "51.00000000000000000000",
+    "name": "Sagan / Żagań",
+    "geonames": "https://www.geonames.org/3080944/zagan.html",
+    "emt_id": "emt_place_id__51"
+  },
+  "52": {
+    "id": 52,
+    "order": "52.00000000000000000000",
+    "name": "Schwetzingen",
+    "geonames": "https://www.geonames.org/2834240/schwetzingen.html",
+    "emt_id": "emt_place_id__52"
+  },
+  "53": {
+    "id": 53,
+    "order": "53.00000000000000000000",
+    "name": "Schwetzingen im Fasans Haus",
+    "geonames": "https://www.geonames.org/2834240/schwetzingen.html",
+    "emt_id": "emt_place_id__53"
+  },
+  "54": {
+    "id": 54,
+    "order": "54.00000000000000000000",
+    "name": "Schöntal",
+    "geonames": "https://www.geonames.org/2836466/schoental.html",
+    "emt_id": "emt_place_id__54"
+  },
+  "55": {
+    "id": 55,
+    "order": "55.00000000000000000000",
+    "name": "Siegburg",
+    "geonames": "https://www.geonames.org/2832521/siegburg.html",
+    "emt_id": "emt_place_id__55"
+  },
+  "56": {
+    "id": 56,
+    "order": "56.00000000000000000000",
+    "name": "Steyr",
+    "geonames": "https://www.geonames.org/2764359/steyr.html",
+    "emt_id": "emt_place_id__56"
+  },
+  "57": {
+    "id": 57,
+    "order": "57.00000000000000000000",
+    "name": "Strengberg",
+    "geonames": "https://www.geonames.org/7872827/strengberg.html",
+    "emt_id": "emt_place_id__57"
+  },
+  "58": {
+    "id": 58,
+    "order": "58.00000000000000000000",
+    "name": "Swolinewetz?",
+    "geonames": "",
+    "emt_id": "emt_place_id__58"
+  },
+  "59": {
+    "id": 59,
+    "order": "59.00000000000000000000",
+    "name": "Warschau",
+    "geonames": "https://www.geonames.org/756135/warsaw.html",
+    "emt_id": "emt_place_id__59"
+  },
+  "60": {
+    "id": 60,
+    "order": "60.00000000000000000000",
+    "name": "Weinheim",
+    "geonames": "https://www.geonames.org/2812174/weinheim.html",
+    "emt_id": "emt_place_id__60"
+  },
+  "61": {
+    "id": 61,
+    "order": "61.00000000000000000000",
+    "name": "Welz",
+    "geonames": "https://www.geonames.org/2811359/welz.html",
+    "emt_id": "emt_place_id__61"
+  },
+  "62": {
+    "id": 62,
+    "order": "62.00000000000000000000",
+    "name": "Wesel",
+    "geonames": "https://www.geonames.org/2810678/wesel.html",
+    "emt_id": "emt_place_id__62"
+  },
+  "63": {
+    "id": 63,
+    "order": "63.00000000000000000000",
+    "name": "Wien",
+    "geonames": "https://www.geonames.org/2761369/vienna.html",
+    "emt_id": "emt_place_id__63"
+  },
+  "64": {
+    "id": 64,
+    "order": "64.00000000000000000000",
+    "name": "Wien, Königinkloster",
+    "geonames": "https://www.geonames.org/2761369/vienna.html",
+    "emt_id": "emt_place_id__64"
+  },
+  "65": {
+    "id": 65,
+    "order": "65.00000000000000000000",
+    "name": "Wien ?",
+    "geonames": "",
+    "emt_id": "emt_place_id__65"
+  },
+  "66": {
+    "id": 66,
+    "order": "66.00000000000000000000",
+    "name": "Wiener Neustadt",
+    "geonames": "https://www.geonames.org/2761353/wiener-neustadt.html",
+    "emt_id": "emt_place_id__66"
+  },
+  "67": {
+    "id": 67,
+    "order": "67.00000000000000000000",
+    "name": "Wolfenbüttel",
+    "geonames": "https://www.geonames.org/2806914/wolfenbuettel.html",
+    "emt_id": "emt_place_id__67"
+  },
+  "68": {
+    "id": 68,
+    "order": "68.00000000000000000000",
+    "name": "Zangberg",
+    "geonames": "https://www.geonames.org/2805261/zangberg.html",
+    "emt_id": "emt_place_id__68"
+  },
+  "69": {
+    "id": 69,
+    "order": "69.00000000000000000000",
+    "name": "auf der beis",
+    "geonames": "",
+    "emt_id": "emt_place_id__69"
+  },
+  "70": {
+    "id": 70,
+    "order": "70.00000000000000000000",
+    "name": "Traunsee",
+    "geonames": "https://www.geonames.org/2763413/traunsee.html",
+    "emt_id": "emt_place_id__70"
+  },
+  "71": {
+    "id": 71,
+    "order": "71.00000000000000000000",
+    "name": "o.O.",
+    "geonames": "",
+    "emt_id": "emt_place_id__71"
+  },
+  "72": {
+    "id": 72,
+    "order": "72.00000000000000000000",
+    "name": "Ödenburg / Sopron",
+    "geonames": "https://www.geonames.org/3045190/sopron.html",
+    "emt_id": "emt_place_id__72"
+  }
+}
