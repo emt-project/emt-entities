@@ -6,7 +6,8 @@
     "gnd": "",
     "wikidata": "",
     "emt_id": "emt_person_id__2",
-    "interne Anmerkungen zur Nachbearbeitung": null
+    "interne Anmerkungen zur Nachbearbeitung": null,
+    "color": null
   },
   "3": {
     "id": 3,
@@ -15,7 +16,8 @@
     "gnd": "https://d-nb.info/gnd/119426099",
     "wikidata": "",
     "emt_id": "emt_person_id__3",
-    "interne Anmerkungen zur Nachbearbeitung": null
+    "interne Anmerkungen zur Nachbearbeitung": null,
+    "color": null
   },
   "4": {
     "id": 4,
@@ -24,7 +26,8 @@
     "gnd": "https://d-nb.info/gnd/138385211",
     "wikidata": "",
     "emt_id": "emt_person_id__4",
-    "interne Anmerkungen zur Nachbearbeitung": null
+    "interne Anmerkungen zur Nachbearbeitung": null,
+    "color": null
   },
   "5": {
     "id": 5,
@@ -33,7 +36,8 @@
     "gnd": "",
     "wikidata": "",
     "emt_id": "emt_person_id__5",
-    "interne Anmerkungen zur Nachbearbeitung": null
+    "interne Anmerkungen zur Nachbearbeitung": null,
+    "color": null
   },
   "6": {
     "id": 6,
@@ -42,7 +46,8 @@
     "gnd": "",
     "wikidata": "",
     "emt_id": "emt_person_id__6",
-    "interne Anmerkungen zur Nachbearbeitung": null
+    "interne Anmerkungen zur Nachbearbeitung": null,
+    "color": null
   },
   "7": {
     "id": 7,
@@ -51,7 +56,8 @@
     "gnd": "https://d-nb.info/gnd/124899242",
     "wikidata": "",
     "emt_id": "emt_person_id__7",
-    "interne Anmerkungen zur Nachbearbeitung": null
+    "interne Anmerkungen zur Nachbearbeitung": null,
+    "color": null
   },
   "8": {
     "id": 8,
@@ -60,7 +66,8 @@
     "gnd": "https://d-nb.info/gnd/12227671X",
     "wikidata": "",
     "emt_id": "emt_person_id__8",
-    "interne Anmerkungen zur Nachbearbeitung": null
+    "interne Anmerkungen zur Nachbearbeitung": null,
+    "color": null
   },
   "9": {
     "id": 9,
@@ -69,7 +76,8 @@
     "gnd": "https://d-nb.info/gnd/101026641",
     "wikidata": "",
     "emt_id": "emt_person_id__9",
-    "interne Anmerkungen zur Nachbearbeitung": null
+    "interne Anmerkungen zur Nachbearbeitung": null,
+    "color": "#8f1f0b"
   },
   "10": {
     "id": 10,
@@ -78,7 +86,8 @@
     "gnd": "https://d-nb.info/gnd/12890285X",
     "wikidata": "",
     "emt_id": "emt_person_id__10",
-    "interne Anmerkungen zur Nachbearbeitung": null
+    "interne Anmerkungen zur Nachbearbeitung": null,
+    "color": null
   },
   "11": {
     "id": 11,
@@ -87,7 +96,8 @@
     "gnd": "https://d-nb.info/gnd/1024116751",
     "wikidata": "",
     "emt_id": "emt_person_id__11",
-    "interne Anmerkungen zur Nachbearbeitung": null
+    "interne Anmerkungen zur Nachbearbeitung": null,
+    "color": null
   },
   "12": {
     "id": 12,
@@ -96,7 +106,8 @@
     "gnd": "https://d-nb.info/gnd/120089874",
     "wikidata": "",
     "emt_id": "emt_person_id__12",
-    "interne Anmerkungen zur Nachbearbeitung": null
+    "interne Anmerkungen zur Nachbearbeitung": null,
+    "color": null
   },
   "13": {
     "id": 13,
@@ -105,7 +116,8 @@
     "gnd": "https://d-nb.info/gnd/123623790",
     "wikidata": "",
     "emt_id": "emt_person_id__13",
-    "interne Anmerkungen zur Nachbearbeitung": null
+    "interne Anmerkungen zur Nachbearbeitung": null,
+    "color": null
   },
   "14": {
     "id": 14,
@@ -114,7 +126,8 @@
     "gnd": "https://d-nb.info/gnd/118613871",
     "wikidata": "",
     "emt_id": "emt_person_id__14",
-    "interne Anmerkungen zur Nachbearbeitung": null
+    "interne Anmerkungen zur Nachbearbeitung": null,
+    "color": null
   },
   "15": {
     "id": 15,
@@ -123,7 +136,8 @@
     "gnd": "https://d-nb.info/gnd/118535730",
     "wikidata": "",
     "emt_id": "emt_person_id__15",
-    "interne Anmerkungen zur Nachbearbeitung": null
+    "interne Anmerkungen zur Nachbearbeitung": null,
+    "color": null
   },
   "16": {
     "id": 16,
@@ -132,7 +146,8 @@
     "gnd": "https://d-nb.info/gnd/118610058",
     "wikidata": "",
     "emt_id": "emt_person_id__16",
-    "interne Anmerkungen zur Nachbearbeitung": null
+    "interne Anmerkungen zur Nachbearbeitung": null,
+    "color": null
   },
   "17": {
     "id": 17,
@@ -141,7 +156,8 @@
     "gnd": "https://d-nb.info/gnd/119220318",
     "wikidata": "",
     "emt_id": "emt_person_id__17",
-    "interne Anmerkungen zur Nachbearbeitung": null
+    "interne Anmerkungen zur Nachbearbeitung": null,
+    "color": null
   },
   "18": {
     "id": 18,
@@ -150,7 +166,8 @@
     "gnd": "https://d-nb.info/gnd/118712411",
     "wikidata": "",
     "emt_id": "emt_person_id__18",
-    "interne Anmerkungen zur Nachbearbeitung": null
+    "interne Anmerkungen zur Nachbearbeitung": null,
+    "color": "#0b2966"
   },
   "19": {
     "id": 19,
@@ -159,7 +176,8 @@
     "gnd": "https://d-nb.info/gnd/116953470",
     "wikidata": "",
     "emt_id": "emt_person_id__19",
-    "interne Anmerkungen zur Nachbearbeitung": null
+    "interne Anmerkungen zur Nachbearbeitung": null,
+    "color": null
   },
   "20": {
     "id": 20,
@@ -168,7 +186,8 @@
     "gnd": "https://d-nb.info/gnd/124549101",
     "wikidata": "",
     "emt_id": "emt_person_id__20",
-    "interne Anmerkungen zur Nachbearbeitung": null
+    "interne Anmerkungen zur Nachbearbeitung": null,
+    "color": null
   },
   "21": {
     "id": 21,
@@ -177,7 +196,8 @@
     "gnd": "https://d-nb.info/gnd/132640562",
     "wikidata": "",
     "emt_id": "emt_person_id__21",
-    "interne Anmerkungen zur Nachbearbeitung": null
+    "interne Anmerkungen zur Nachbearbeitung": null,
+    "color": null
   },
   "22": {
     "id": 22,
@@ -186,7 +206,8 @@
     "gnd": "",
     "wikidata": "",
     "emt_id": "emt_person_id__22",
-    "interne Anmerkungen zur Nachbearbeitung": null
+    "interne Anmerkungen zur Nachbearbeitung": null,
+    "color": null
   },
   "23": {
     "id": 23,
@@ -195,7 +216,8 @@
     "gnd": "",
     "wikidata": "https://www.wikidata.org/wiki/Q16006181",
     "emt_id": "emt_person_id__23",
-    "interne Anmerkungen zur Nachbearbeitung": null
+    "interne Anmerkungen zur Nachbearbeitung": null,
+    "color": null
   },
   "24": {
     "id": 24,
@@ -204,7 +226,8 @@
     "gnd": "https://d-nb.info/gnd/11909990X",
     "wikidata": "",
     "emt_id": "emt_person_id__24",
-    "interne Anmerkungen zur Nachbearbeitung": null
+    "interne Anmerkungen zur Nachbearbeitung": null,
+    "color": null
   },
   "25": {
     "id": 25,
@@ -213,7 +236,8 @@
     "gnd": "https://d-nb.info/gnd/118558390",
     "wikidata": "",
     "emt_id": "emt_person_id__25",
-    "interne Anmerkungen zur Nachbearbeitung": null
+    "interne Anmerkungen zur Nachbearbeitung": null,
+    "color": null
   },
   "26": {
     "id": 26,
@@ -222,7 +246,8 @@
     "gnd": "https://d-nb.info/gnd/100008143",
     "wikidata": "",
     "emt_id": "emt_person_id__26",
-    "interne Anmerkungen zur Nachbearbeitung": null
+    "interne Anmerkungen zur Nachbearbeitung": null,
+    "color": null
   },
   "27": {
     "id": 27,
@@ -231,7 +256,8 @@
     "gnd": "https://d-nb.info/gnd/104174552",
     "wikidata": "",
     "emt_id": "emt_person_id__27",
-    "interne Anmerkungen zur Nachbearbeitung": null
+    "interne Anmerkungen zur Nachbearbeitung": null,
+    "color": null
   },
   "28": {
     "id": 28,
@@ -240,7 +266,8 @@
     "gnd": "https://d-nb.info/gnd/126443688",
     "wikidata": "",
     "emt_id": "emt_person_id__28",
-    "interne Anmerkungen zur Nachbearbeitung": null
+    "interne Anmerkungen zur Nachbearbeitung": null,
+    "color": null
   },
   "29": {
     "id": 29,
@@ -249,7 +276,8 @@
     "gnd": "https://d-nb.info/gnd/118720953",
     "wikidata": "",
     "emt_id": "emt_person_id__29",
-    "interne Anmerkungen zur Nachbearbeitung": null
+    "interne Anmerkungen zur Nachbearbeitung": null,
+    "color": null
   },
   "30": {
     "id": 30,
@@ -258,7 +286,8 @@
     "gnd": "https://d-nb.info/gnd/104302100",
     "wikidata": "",
     "emt_id": "emt_person_id__30",
-    "interne Anmerkungen zur Nachbearbeitung": null
+    "interne Anmerkungen zur Nachbearbeitung": null,
+    "color": null
   },
   "31": {
     "id": 31,
@@ -267,7 +296,8 @@
     "gnd": "https://d-nb.info/gnd/118560107",
     "wikidata": "",
     "emt_id": "emt_person_id__31",
-    "interne Anmerkungen zur Nachbearbeitung": null
+    "interne Anmerkungen zur Nachbearbeitung": null,
+    "color": null
   },
   "32": {
     "id": 32,
@@ -276,7 +306,8 @@
     "gnd": "",
     "wikidata": "https://www.wikidata.org/wiki/Q870668",
     "emt_id": "emt_person_id__32",
-    "interne Anmerkungen zur Nachbearbeitung": null
+    "interne Anmerkungen zur Nachbearbeitung": null,
+    "color": null
   },
   "33": {
     "id": 33,
@@ -285,7 +316,8 @@
     "gnd": "https://d-nb.info/gnd/118720902",
     "wikidata": "",
     "emt_id": "emt_person_id__33",
-    "interne Anmerkungen zur Nachbearbeitung": null
+    "interne Anmerkungen zur Nachbearbeitung": null,
+    "color": null
   },
   "34": {
     "id": 34,
@@ -294,7 +326,8 @@
     "gnd": "",
     "wikidata": "",
     "emt_id": "emt_person_id__34",
-    "interne Anmerkungen zur Nachbearbeitung": null
+    "interne Anmerkungen zur Nachbearbeitung": null,
+    "color": null
   },
   "35": {
     "id": 35,
@@ -303,7 +336,8 @@
     "gnd": "https://d-nb.info/gnd/118571869",
     "wikidata": "",
     "emt_id": "emt_person_id__35",
-    "interne Anmerkungen zur Nachbearbeitung": null
+    "interne Anmerkungen zur Nachbearbeitung": null,
+    "color": null
   },
   "36": {
     "id": 36,
@@ -312,7 +346,8 @@
     "gnd": "https://d-nb.info/gnd/118729500",
     "wikidata": "",
     "emt_id": "emt_person_id__36",
-    "interne Anmerkungen zur Nachbearbeitung": null
+    "interne Anmerkungen zur Nachbearbeitung": null,
+    "color": null
   },
   "37": {
     "id": 37,
@@ -321,7 +356,8 @@
     "gnd": "https://d-nb.info/gnd/118781863",
     "wikidata": "",
     "emt_id": "emt_person_id__37",
-    "interne Anmerkungen zur Nachbearbeitung": null
+    "interne Anmerkungen zur Nachbearbeitung": null,
+    "color": null
   },
   "38": {
     "id": 38,
@@ -330,7 +366,8 @@
     "gnd": "https://d-nb.info/gnd/123154405",
     "wikidata": "",
     "emt_id": "emt_person_id__38",
-    "interne Anmerkungen zur Nachbearbeitung": null
+    "interne Anmerkungen zur Nachbearbeitung": null,
+    "color": null
   },
   "39": {
     "id": 39,
@@ -339,7 +376,8 @@
     "gnd": "",
     "wikidata": "",
     "emt_id": "emt_person_id__39",
-    "interne Anmerkungen zur Nachbearbeitung": null
+    "interne Anmerkungen zur Nachbearbeitung": null,
+    "color": null
   },
   "40": {
     "id": 40,
@@ -348,7 +386,8 @@
     "gnd": "",
     "wikidata": "",
     "emt_id": "emt_person_id__40",
-    "interne Anmerkungen zur Nachbearbeitung": null
+    "interne Anmerkungen zur Nachbearbeitung": null,
+    "color": null
   },
   "41": {
     "id": 41,
@@ -357,7 +396,8 @@
     "gnd": "",
     "wikidata": "",
     "emt_id": "emt_person_id__41",
-    "interne Anmerkungen zur Nachbearbeitung": null
+    "interne Anmerkungen zur Nachbearbeitung": null,
+    "color": null
   },
   "42": {
     "id": 42,
@@ -366,7 +406,8 @@
     "gnd": "https://d-nb.info/gnd/189551283",
     "wikidata": "",
     "emt_id": "emt_person_id__42",
-    "interne Anmerkungen zur Nachbearbeitung": null
+    "interne Anmerkungen zur Nachbearbeitung": null,
+    "color": null
   },
   "43": {
     "id": 43,
@@ -375,7 +416,8 @@
     "gnd": "",
     "wikidata": "",
     "emt_id": "emt_person_id__43",
-    "interne Anmerkungen zur Nachbearbeitung": null
+    "interne Anmerkungen zur Nachbearbeitung": null,
+    "color": null
   },
   "44": {
     "id": 44,
@@ -384,7 +426,8 @@
     "gnd": "",
     "wikidata": "",
     "emt_id": "emt_person_id__44",
-    "interne Anmerkungen zur Nachbearbeitung": null
+    "interne Anmerkungen zur Nachbearbeitung": null,
+    "color": null
   },
   "45": {
     "id": 45,
@@ -393,7 +436,8 @@
     "gnd": "https://d-nb.info/gnd/10030673X",
     "wikidata": "",
     "emt_id": "emt_person_id__45",
-    "interne Anmerkungen zur Nachbearbeitung": null
+    "interne Anmerkungen zur Nachbearbeitung": null,
+    "color": null
   },
   "46": {
     "id": 46,
@@ -402,7 +446,8 @@
     "gnd": "https://d-nb.info/gnd/120710102",
     "wikidata": "",
     "emt_id": "emt_person_id__46",
-    "interne Anmerkungen zur Nachbearbeitung": null
+    "interne Anmerkungen zur Nachbearbeitung": null,
+    "color": null
   },
   "47": {
     "id": 47,
@@ -411,7 +456,8 @@
     "gnd": "https://d-nb.info/gnd/121164721",
     "wikidata": "",
     "emt_id": "emt_person_id__47",
-    "interne Anmerkungen zur Nachbearbeitung": null
+    "interne Anmerkungen zur Nachbearbeitung": null,
+    "color": null
   },
   "48": {
     "id": 48,
@@ -420,7 +466,8 @@
     "gnd": "",
     "wikidata": "",
     "emt_id": "emt_person_id__48",
-    "interne Anmerkungen zur Nachbearbeitung": null
+    "interne Anmerkungen zur Nachbearbeitung": null,
+    "color": null
   },
   "49": {
     "id": 49,
@@ -429,7 +476,8 @@
     "gnd": "https://d-nb.info/gnd/123697056X",
     "wikidata": "",
     "emt_id": "emt_person_id__49",
-    "interne Anmerkungen zur Nachbearbeitung": null
+    "interne Anmerkungen zur Nachbearbeitung": null,
+    "color": null
   },
   "50": {
     "id": 50,
@@ -438,7 +486,8 @@
     "gnd": "https://d-nb.info/gnd/118742221",
     "wikidata": "",
     "emt_id": "emt_person_id__50",
-    "interne Anmerkungen zur Nachbearbeitung": null
+    "interne Anmerkungen zur Nachbearbeitung": null,
+    "color": "#d45121"
   },
   "51": {
     "id": 51,
@@ -447,7 +496,8 @@
     "gnd": "https://d-nb.info/gnd/119139162",
     "wikidata": "",
     "emt_id": "emt_person_id__51",
-    "interne Anmerkungen zur Nachbearbeitung": null
+    "interne Anmerkungen zur Nachbearbeitung": null,
+    "color": null
   },
   "52": {
     "id": 52,
@@ -456,7 +506,8 @@
     "gnd": "",
     "wikidata": "",
     "emt_id": "emt_person_id__52",
-    "interne Anmerkungen zur Nachbearbeitung": null
+    "interne Anmerkungen zur Nachbearbeitung": null,
+    "color": null
   },
   "53": {
     "id": 53,
@@ -465,7 +516,8 @@
     "gnd": "",
     "wikidata": "",
     "emt_id": "emt_person_id__53",
-    "interne Anmerkungen zur Nachbearbeitung": null
+    "interne Anmerkungen zur Nachbearbeitung": null,
+    "color": null
   },
   "54": {
     "id": 54,
@@ -474,7 +526,8 @@
     "gnd": "",
     "wikidata": "",
     "emt_id": "emt_person_id__54",
-    "interne Anmerkungen zur Nachbearbeitung": null
+    "interne Anmerkungen zur Nachbearbeitung": null,
+    "color": null
   },
   "55": {
     "id": 55,
@@ -483,7 +536,8 @@
     "gnd": "",
     "wikidata": "",
     "emt_id": "emt_person_id__55",
-    "interne Anmerkungen zur Nachbearbeitung": null
+    "interne Anmerkungen zur Nachbearbeitung": null,
+    "color": null
   },
   "56": {
     "id": 56,
@@ -492,7 +546,8 @@
     "gnd": "https://d-nb.info/gnd/119316900",
     "wikidata": "",
     "emt_id": "emt_person_id__56",
-    "interne Anmerkungen zur Nachbearbeitung": null
+    "interne Anmerkungen zur Nachbearbeitung": null,
+    "color": null
   },
   "57": {
     "id": 57,
@@ -501,7 +556,8 @@
     "gnd": "",
     "wikidata": "",
     "emt_id": "emt_person_id__57",
-    "interne Anmerkungen zur Nachbearbeitung": null
+    "interne Anmerkungen zur Nachbearbeitung": null,
+    "color": null
   },
   "58": {
     "id": 58,
@@ -510,6 +566,7 @@
     "gnd": "",
     "wikidata": "",
     "emt_id": "emt_person_id__58",
-    "interne Anmerkungen zur Nachbearbeitung": null
+    "interne Anmerkungen zur Nachbearbeitung": null,
+    "color": null
   }
 }
