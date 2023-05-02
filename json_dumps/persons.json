@@ -568,5 +568,15 @@
     "emt_id": "emt_person_id__58",
     "interne Anmerkungen zur Nachbearbeitung": null,
     "color": null
+  },
+  "59": {
+    "id": 59,
+    "order": "59.00000000000000000000",
+    "name": "",
+    "gnd": "",
+    "wikidata": "",
+    "emt_id": "emt_person_id__59",
+    "interne Anmerkungen zur Nachbearbeitung": "",
+    "color": ""
   }
 }
