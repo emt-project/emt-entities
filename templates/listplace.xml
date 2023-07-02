@@ -64,29 +64,10 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
             {% for x in objects %}
                <place xml:id="{{ x.emt_id }}">
                   <placeName>{{ x.name }}</placeName>
-                  {% if x.birth_day is string %}
-                  <birth>
-                     <date when-iso="{{ x.birth_day }}">{{ x.birth_day }}</date>
-                     {% if x.birth_place %}
-                     {% for p in x.birth_place %}
-                     <settlement key="emt_place_id_{{ p.id }}">
-                        <placeName>{{ p.value }}</placeName>
-                     </settlement>
-                     {% endfor %}
-                     {% endif %}
-                  </birth>
-                  {% endif %}
-                  {% if x.death_day is string %}
-                  <death>
-                     <date when-iso="{{ x.death_day }}">{{ x.death_day }}</date>
-                     {% if x.death_place %}
-                     {% for p in x.death_place %}
-                     <settlement key="emt_place_id_{{ p.id }}">
-                        <placeName>{{ p.value }}</placeName>
-                     </settlement>
-                     {% endfor %}
-                     {% endif %}
-                  </death>
+                  {% if x.lat %}
+                  <location type="coords">
+                     <geo>{{ x.lat }} {{ x.long }}</geo>
+                  </location>
                   {% endif %}
                   {% if x.geonames|length > 0 %}
                   <idno type="GEONAMES">{{ x.geonames }}</idno>
