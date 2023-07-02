@@ -5,7 +5,9 @@
     "name": "im Schiff",
     "geonames": "",
     "emt_id": "emt_place_id__1",
-    "place_type": null
+    "place_type": null,
+    "lat": null,
+    "long": null
   },
   "2": {
     "id": 2,
@@ -13,7 +15,9 @@
     "name": "?",
     "geonames": "",
     "emt_id": "emt_place_id__2",
-    "place_type": null
+    "place_type": null,
+    "lat": null,
+    "long": null
   },
   "3": {
     "id": 3,
@@ -21,7 +25,9 @@
     "name": "Aachen",
     "geonames": "https://www.geonames.org/3247449/aachen.html",
     "emt_id": "emt_place_id__3",
-    "place_type": null
+    "place_type": null,
+    "lat": "50.77664",
+    "long": "6.083420"
   },
   "4": {
     "id": 4,
@@ -29,7 +35,9 @@
     "name": "Altötting",
     "geonames": "https://www.geonames.org/2956940/altoetting.html",
     "emt_id": "emt_place_id__4",
-    "place_type": null
+    "place_type": null,
+    "lat": "48.22533",
+    "long": "12.676650"
   },
   "5": {
     "id": 5,
@@ -37,7 +45,9 @@
     "name": "Augsburg",
     "geonames": "https://www.geonames.org/6557107/augsburg.html",
     "emt_id": "emt_place_id__5",
-    "place_type": null
+    "place_type": null,
+    "lat": "48.36733",
+    "long": "10.892130"
   },
   "6": {
     "id": 6,
@@ -45,7 +55,9 @@
     "name": "Benrath",
     "geonames": "https://www.geonames.org/6947823/schloss-benrath.html",
     "emt_id": "emt_place_id__6",
-    "place_type": null
+    "place_type": null,
+    "lat": "51.16080",
+    "long": "6.870000"
   },
   "7": {
     "id": 7,
@@ -53,7 +65,9 @@
     "name": "Bensberg",
     "geonames": "https://www.geonames.org/2950990/bensberg.html",
     "emt_id": "emt_place_id__7",
-    "place_type": null
+    "place_type": null,
+    "lat": "50.96486",
+    "long": "7.163340"
   },
   "8": {
     "id": 8,
@@ -61,7 +75,9 @@
     "name": "Brandeis / Brandýs nad Labem",
     "geonames": "https://www.geonames.org/3078838/brandys-nad-labem.html",
     "emt_id": "emt_place_id__8",
-    "place_type": null
+    "place_type": null,
+    "lat": "50.18356",
+    "long": "14.672440"
   },
   "9": {
     "id": 9,
@@ -69,7 +85,9 @@
     "name": "Budweis / České Budějovice",
     "geonames": "https://www.geonames.org/3077916/ceske-budejovice.html",
     "emt_id": "emt_place_id__9",
-    "place_type": null
+    "place_type": null,
+    "lat": "48.97447",
+    "long": "14.474340"
   },
   "10": {
     "id": 10,
@@ -77,7 +95,9 @@
     "name": "Madrid, Buen Retiro",
     "geonames": "https://www.geonames.org/6255078/parque-del-retiro.html",
     "emt_id": "emt_place_id__10",
-    "place_type": null
+    "place_type": null,
+    "lat": "40.41546",
+    "long": "-3.684200"
   },
   "11": {
     "id": 11,
@@ -85,7 +105,9 @@
     "name": "Burglengenfeld",
     "geonames": "https://www.geonames.org/2941190/burglengenfeld.html",
     "emt_id": "emt_place_id__11",
-    "place_type": null
+    "place_type": null,
+    "lat": "49.20379",
+    "long": "12.044520"
   },
   "12": {
     "id": 12,
@@ -93,7 +115,9 @@
     "name": "Den Haag",
     "geonames": "https://www.geonames.org/2747373/the-hague.html",
     "emt_id": "emt_place_id__12",
-    "place_type": null
+    "place_type": null,
+    "lat": "52.07667",
+    "long": "4.298610"
   },
   "13": {
     "id": 13,
@@ -101,7 +125,9 @@
     "name": "Düsseldorf",
     "geonames": "https://www.geonames.org/2934246/duesseldorf.html",
     "emt_id": "emt_place_id__13",
-    "place_type": null
+    "place_type": null,
+    "lat": "51.22172",
+    "long": "6.776160"
   },
   "14": {
     "id": 14,
@@ -109,7 +135,9 @@
     "name": "Ebersberg",
     "geonames": "https://www.geonames.org/2933945/ebersberg.html",
     "emt_id": "emt_place_id__14",
-    "place_type": null
+    "place_type": null,
+    "lat": "48.07710",
+    "long": "11.970630"
   },
   "15": {
     "id": 15,
@@ -117,7 +145,9 @@
     "name": "Wien, Ebersdorf",
     "geonames": "https://www.geonames.org/3322696/kaiserebersdorf.html",
     "emt_id": "emt_place_id__15",
-    "place_type": null
+    "place_type": null,
+    "lat": "48.15833",
+    "long": "16.474170"
   },
   "16": {
     "id": 16,
@@ -125,7 +155,9 @@
     "name": "Erfurt",
     "geonames": "https://www.geonames.org/2929670/erfurt.html",
     "emt_id": "emt_place_id__16",
-    "place_type": null
+    "place_type": null,
+    "lat": "50.97870",
+    "long": "11.032830"
   },
   "17": {
     "id": 17,
@@ -133,7 +165,9 @@
     "name": "Eschwege",
     "geonames": "https://www.geonames.org/2928967/eschwege.html",
     "emt_id": "emt_place_id__17",
-    "place_type": null
+    "place_type": null,
+    "lat": "51.18386",
+    "long": "10.053290"
   },
   "18": {
     "id": 18,
@@ -141,7 +175,9 @@
     "name": "Wien, Favorita",
     "geonames": "https://www.geonames.org/12500694/theresianum.html",
     "emt_id": "emt_place_id__18",
-    "place_type": null
+    "place_type": null,
+    "lat": "48.19307",
+    "long": "16.371200"
   },
   "19": {
     "id": 19,
@@ -149,7 +185,9 @@
     "name": "Feldlager bei Ofen / Buda",
     "geonames": "https://www.geonames.org/3054643/budapest.html",
     "emt_id": "emt_place_id__19",
-    "place_type": null
+    "place_type": null,
+    "lat": "47.49835",
+    "long": "19.040450"
   },
   "20": {
     "id": 20,
@@ -157,7 +195,9 @@
     "name": "Frankfurt",
     "geonames": "https://www.geonames.org/2925533/frankfurt-am-main.html",
     "emt_id": "emt_place_id__20",
-    "place_type": null
+    "place_type": null,
+    "lat": "50.11552",
+    "long": "8.684170"
   },
   "21": {
     "id": 21,
@@ -165,7 +205,9 @@
     "name": "Friedrichsburg",
     "geonames": "https://www.geonames.org/8629938/friedrichsburg.html",
     "emt_id": "emt_place_id__21",
-    "place_type": null
+    "place_type": null,
+    "lat": "49.48423",
+    "long": "8.462970"
   },
   "22": {
     "id": 22,
@@ -173,7 +215,9 @@
     "name": "Geldrop",
     "geonames": "https://www.geonames.org/2755619/geldrop.html",
     "emt_id": "emt_place_id__22",
-    "place_type": null
+    "place_type": null,
+    "lat": "51.42167",
+    "long": "5.559720"
   },
   "23": {
     "id": 23,
@@ -181,7 +225,9 @@
     "name": "Grünau ?",
     "geonames": "https://www.geonames.org/11996450/gruenau.html",
     "emt_id": "emt_place_id__23",
-    "place_type": null
+    "place_type": null,
+    "lat": "48.73717",
+    "long": "11.264250"
   },
   "24": {
     "id": 24,
@@ -189,7 +235,9 @@
     "name": "Hambach",
     "geonames": "https://www.geonames.org/2911360/hambach.html",
     "emt_id": "emt_place_id__24",
-    "place_type": null
+    "place_type": null,
+    "lat": "50.89903",
+    "long": "6.444520"
   },
   "25": {
     "id": 25,
@@ -197,7 +245,9 @@
     "name": "Heidelberg",
     "geonames": "https://www.geonames.org/2907911/heidelberg.html",
     "emt_id": "emt_place_id__25",
-    "place_type": null
+    "place_type": null,
+    "lat": "49.40768",
+    "long": "8.690790"
   },
   "26": {
     "id": 26,
@@ -205,7 +255,9 @@
     "name": "Heiligenkreuz",
     "geonames": "https://www.geonames.org/2776586/heiligenkreuz.html",
     "emt_id": "emt_place_id__26",
-    "place_type": null
+    "place_type": null,
+    "lat": "48.05559",
+    "long": "16.124930"
   },
   "27": {
     "id": 27,
@@ -213,7 +265,9 @@
     "name": "Innsbruck",
     "geonames": "https://www.geonames.org/2775220/innsbruck.html",
     "emt_id": "emt_place_id__27",
-    "place_type": null
+    "place_type": null,
+    "lat": "47.26266",
+    "long": "11.394540"
   },
   "28": {
     "id": 28,
@@ -221,7 +275,9 @@
     "name": "Jankau/ Jankov",
     "geonames": "https://www.geonames.org/3074532/jankov.html",
     "emt_id": "emt_place_id__28",
-    "place_type": null
+    "place_type": null,
+    "lat": "49.41509",
+    "long": "15.386220"
   },
   "29": {
     "id": 29,
@@ -229,7 +285,9 @@
     "name": "Korneuburg",
     "geonames": "https://www.geonames.org/2773698/korneuburg.html",
     "emt_id": "emt_place_id__29",
-    "place_type": null
+    "place_type": null,
+    "lat": "48.35000",
+    "long": "16.333330"
   },
   "30": {
     "id": 30,
@@ -237,7 +295,9 @@
     "name": "Lambach",
     "geonames": "https://www.geonames.org/7872188/lambach.html",
     "emt_id": "emt_place_id__30",
-    "place_type": null
+    "place_type": null,
+    "lat": "48.09253",
+    "long": "13.869540"
   },
   "31": {
     "id": 31,
@@ -245,7 +305,9 @@
     "name": "Laxenburg",
     "geonames": "https://www.geonames.org/2772810/laxenburg.html",
     "emt_id": "emt_place_id__31",
-    "place_type": null
+    "place_type": null,
+    "lat": "48.06833",
+    "long": "16.356070"
   },
   "32": {
     "id": 32,
@@ -253,7 +315,9 @@
     "name": "Linz",
     "geonames": "https://www.geonames.org/2772400/linz.html",
     "emt_id": "emt_place_id__32",
-    "place_type": null
+    "place_type": null,
+    "lat": "48.30639",
+    "long": "14.286110"
   },
   "33": {
     "id": 33,
@@ -261,7 +325,9 @@
     "name": "Lissabon",
     "geonames": "https://www.geonames.org/2267057/lisbon.html",
     "emt_id": "emt_place_id__33",
-    "place_type": null
+    "place_type": null,
+    "lat": "38.71667",
+    "long": "-9.133330"
   },
   "34": {
     "id": 34,
@@ -269,7 +335,9 @@
     "name": "Luzzara",
     "geonames": "https://www.geonames.org/3174416/luzzara.html",
     "emt_id": "emt_place_id__34",
-    "place_type": null
+    "place_type": null,
+    "lat": "44.95925",
+    "long": "10.689530"
   },
   "35": {
     "id": 35,
@@ -277,7 +345,9 @@
     "name": "Maastricht",
     "geonames": "https://www.geonames.org/2751283/maastricht.html",
     "emt_id": "emt_place_id__35",
-    "place_type": null
+    "place_type": null,
+    "lat": "50.84833",
+    "long": "5.688890"
   },
   "36": {
     "id": 36,
@@ -285,7 +355,9 @@
     "name": "Madrid",
     "geonames": "https://www.geonames.org/3117735/madrid.html",
     "emt_id": "emt_place_id__36",
-    "place_type": null
+    "place_type": null,
+    "lat": "40.41650",
+    "long": "-3.702560"
   },
   "37": {
     "id": 37,
@@ -293,7 +365,9 @@
     "name": "Mainz",
     "geonames": "https://www.geonames.org/2874225/mainz.html",
     "emt_id": "emt_place_id__37",
-    "place_type": null
+    "place_type": null,
+    "lat": "49.98419",
+    "long": "8.279100"
   },
   "38": {
     "id": 38,
@@ -301,7 +375,9 @@
     "name": "Nassau",
     "geonames": "https://www.geonames.org/2867037/nassau.html",
     "emt_id": "emt_place_id__38",
-    "place_type": null
+    "place_type": null,
+    "lat": "50.31453",
+    "long": "7.800250"
   },
   "39": {
     "id": 39,
@@ -309,7 +385,9 @@
     "name": "Neuburg",
     "geonames": "https://www.geonames.org/2866070/neuburg-an-der-donau.html",
     "emt_id": "emt_place_id__39",
-    "place_type": null
+    "place_type": null,
+    "lat": "48.73218",
+    "long": "11.187090"
   },
   "40": {
     "id": 40,
@@ -317,7 +395,9 @@
     "name": "Neustadt an der Haardt?",
     "geonames": "https://www.geonames.org/2864054/neustadt.html",
     "emt_id": "emt_place_id__40",
-    "place_type": null
+    "place_type": null,
+    "lat": "49.35009",
+    "long": "8.138860"
   },
   "41": {
     "id": 41,
@@ -325,7 +405,9 @@
     "name": "Pardubice",
     "geonames": "https://www.geonames.org/3068582/pardubice.html",
     "emt_id": "emt_place_id__41",
-    "place_type": null
+    "place_type": null,
+    "lat": "50.04075",
+    "long": "15.776590"
   },
   "42": {
     "id": 42,
@@ -333,7 +415,9 @@
     "name": "Paris",
     "geonames": "https://www.geonames.org/2988507/paris.html",
     "emt_id": "emt_place_id__42",
-    "place_type": null
+    "place_type": null,
+    "lat": "48.85341",
+    "long": "2.348800"
   },
   "43": {
     "id": 43,
@@ -341,7 +425,9 @@
     "name": "Parma",
     "geonames": "https://www.geonames.org/3171457/parma.html",
     "emt_id": "emt_place_id__43",
-    "place_type": null
+    "place_type": null,
+    "lat": "44.79935",
+    "long": "10.326180"
   },
   "44": {
     "id": 44,
@@ -349,7 +435,9 @@
     "name": "Passau",
     "geonames": "https://www.geonames.org/2855328/passau.html",
     "emt_id": "emt_place_id__44",
-    "place_type": null
+    "place_type": null,
+    "lat": "48.56650",
+    "long": "13.431220"
   },
   "45": {
     "id": 45,
@@ -357,7 +445,9 @@
     "name": "Pisa",
     "geonames": "https://www.geonames.org/3170647/pisa.html",
     "emt_id": "emt_place_id__45",
-    "place_type": null
+    "place_type": null,
+    "lat": "43.70853",
+    "long": "10.403600"
   },
   "46": {
     "id": 46,
@@ -365,7 +455,9 @@
     "name": "Pottendorf",
     "geonames": "https://www.geonames.org/2768472/pottendorf.html",
     "emt_id": "emt_place_id__46",
-    "place_type": null
+    "place_type": null,
+    "lat": "47.90000",
+    "long": "16.383330"
   },
   "47": {
     "id": 47,
@@ -373,7 +465,9 @@
     "name": "Prag",
     "geonames": "https://www.geonames.org/3067696/prague.html",
     "emt_id": "emt_place_id__47",
-    "place_type": null
+    "place_type": null,
+    "lat": "50.08804",
+    "long": "14.420760"
   },
   "48": {
     "id": 48,
@@ -381,7 +475,9 @@
     "name": "Preßburg",
     "geonames": "https://www.geonames.org/3060972/bratislava.html",
     "emt_id": "emt_place_id__48",
-    "place_type": null
+    "place_type": null,
+    "lat": "48.14816",
+    "long": "17.106740"
   },
   "49": {
     "id": 49,
@@ -389,7 +485,9 @@
     "name": "Reichstadt",
     "geonames": "https://www.geonames.org/6550513/reichstaedt.html",
     "emt_id": "emt_place_id__49",
-    "place_type": null
+    "place_type": null,
+    "lat": "50.92500",
+    "long": "12.235000"
   },
   "50": {
     "id": 50,
@@ -397,7 +495,9 @@
     "name": "Rom",
     "geonames": "https://www.geonames.org/3169070/rome.html",
     "emt_id": "emt_place_id__50",
-    "place_type": null
+    "place_type": null,
+    "lat": "41.89193",
+    "long": "12.511330"
   },
   "51": {
     "id": 51,
@@ -405,7 +505,9 @@
     "name": "Sagan / Żagań",
     "geonames": "https://www.geonames.org/3080944/zagan.html",
     "emt_id": "emt_place_id__51",
-    "place_type": null
+    "place_type": null,
+    "lat": "51.61759",
+    "long": "15.314860"
   },
   "52": {
     "id": 52,
@@ -413,7 +515,9 @@
     "name": "Schwetzingen",
     "geonames": "https://www.geonames.org/2834240/schwetzingen.html",
     "emt_id": "emt_place_id__52",
-    "place_type": null
+    "place_type": null,
+    "lat": "49.38217",
+    "long": "8.582300"
   },
   "53": {
     "id": 53,
@@ -421,7 +525,9 @@
     "name": "Schwetzingen im Fasans Haus",
     "geonames": "https://www.geonames.org/2834240/schwetzingen.html",
     "emt_id": "emt_place_id__53",
-    "place_type": null
+    "place_type": null,
+    "lat": "49.38217",
+    "long": "8.582300"
   },
   "54": {
     "id": 54,
@@ -429,7 +535,9 @@
     "name": "Schöntal",
     "geonames": "https://www.geonames.org/2836466/schoental.html",
     "emt_id": "emt_place_id__54",
-    "place_type": null
+    "place_type": null,
+    "lat": "49.34496",
+    "long": "9.533900"
   },
   "55": {
     "id": 55,
@@ -437,7 +545,9 @@
     "name": "Siegburg",
     "geonames": "https://www.geonames.org/2832521/siegburg.html",
     "emt_id": "emt_place_id__55",
-    "place_type": null
+    "place_type": null,
+    "lat": "50.80019",
+    "long": "7.207690"
   },
   "56": {
     "id": 56,
@@ -445,7 +555,9 @@
     "name": "Steyr",
     "geonames": "https://www.geonames.org/2764359/steyr.html",
     "emt_id": "emt_place_id__56",
-    "place_type": null
+    "place_type": null,
+    "lat": "48.04274",
+    "long": "14.421270"
   },
   "57": {
     "id": 57,
@@ -453,7 +565,9 @@
     "name": "Strengberg",
     "geonames": "https://www.geonames.org/7872827/strengberg.html",
     "emt_id": "emt_place_id__57",
-    "place_type": null
+    "place_type": null,
+    "lat": "48.14954",
+    "long": "14.648140"
   },
   "58": {
     "id": 58,
@@ -461,7 +575,9 @@
     "name": "Swolinewetz?",
     "geonames": "",
     "emt_id": "emt_place_id__58",
-    "place_type": null
+    "place_type": null,
+    "lat": null,
+    "long": null
   },
   "59": {
     "id": 59,
@@ -469,7 +585,9 @@
     "name": "Warschau",
     "geonames": "https://www.geonames.org/756135/warsaw.html",
     "emt_id": "emt_place_id__59",
-    "place_type": null
+    "place_type": null,
+    "lat": "52.22977",
+    "long": "21.011780"
   },
   "60": {
     "id": 60,
@@ -477,7 +595,9 @@
     "name": "Weinheim",
     "geonames": "https://www.geonames.org/2812174/weinheim.html",
     "emt_id": "emt_place_id__60",
-    "place_type": null
+    "place_type": null,
+    "lat": "49.54887",
+    "long": "8.666970"
   },
   "61": {
     "id": 61,
@@ -485,7 +605,9 @@
     "name": "Welz",
     "geonames": "https://www.geonames.org/2811359/welz.html",
     "emt_id": "emt_place_id__61",
-    "place_type": null
+    "place_type": null,
+    "lat": "50.96005",
+    "long": "6.258600"
   },
   "62": {
     "id": 62,
@@ -493,7 +615,9 @@
     "name": "Wesel",
     "geonames": "https://www.geonames.org/2810678/wesel.html",
     "emt_id": "emt_place_id__62",
-    "place_type": null
+    "place_type": null,
+    "lat": "51.66690",
+    "long": "6.620370"
   },
   "63": {
     "id": 63,
@@ -501,7 +625,9 @@
     "name": "Wien",
     "geonames": "https://www.geonames.org/2761369/vienna.html",
     "emt_id": "emt_place_id__63",
-    "place_type": null
+    "place_type": null,
+    "lat": "48.20849",
+    "long": "16.372080"
   },
   "64": {
     "id": 64,
@@ -509,7 +635,9 @@
     "name": "Wien, Königinkloster",
     "geonames": "https://www.geonames.org/2761369/vienna.html",
     "emt_id": "emt_place_id__64",
-    "place_type": null
+    "place_type": null,
+    "lat": "48.20849",
+    "long": "16.372080"
   },
   "65": {
     "id": 65,
@@ -517,7 +645,9 @@
     "name": "Wien ?",
     "geonames": "",
     "emt_id": "emt_place_id__65",
-    "place_type": null
+    "place_type": null,
+    "lat": null,
+    "long": null
   },
   "66": {
     "id": 66,
@@ -525,7 +655,9 @@
     "name": "Wiener Neustadt",
     "geonames": "https://www.geonames.org/2761353/wiener-neustadt.html",
     "emt_id": "emt_place_id__66",
-    "place_type": null
+    "place_type": null,
+    "lat": "47.80485",
+    "long": "16.231960"
   },
   "67": {
     "id": 67,
@@ -533,7 +665,9 @@
     "name": "Wolfenbüttel",
     "geonames": "https://www.geonames.org/2806914/wolfenbuettel.html",
     "emt_id": "emt_place_id__67",
-    "place_type": null
+    "place_type": null,
+    "lat": "52.16442",
+    "long": "10.540950"
   },
   "68": {
     "id": 68,
@@ -541,7 +675,9 @@
     "name": "Zangberg",
     "geonames": "https://www.geonames.org/2805261/zangberg.html",
     "emt_id": "emt_place_id__68",
-    "place_type": null
+    "place_type": null,
+    "lat": "48.27480",
+    "long": "12.423110"
   },
   "69": {
     "id": 69,
@@ -549,7 +685,9 @@
     "name": "auf der beis",
     "geonames": "",
     "emt_id": "emt_place_id__69",
-    "place_type": null
+    "place_type": null,
+    "lat": null,
+    "long": null
   },
   "70": {
     "id": 70,
@@ -557,7 +695,9 @@
     "name": "Traunsee",
     "geonames": "https://www.geonames.org/2763413/traunsee.html",
     "emt_id": "emt_place_id__70",
-    "place_type": null
+    "place_type": null,
+    "lat": "47.85000",
+    "long": "13.800000"
   },
   "71": {
     "id": 71,
@@ -565,7 +705,9 @@
     "name": "o.O.",
     "geonames": "",
     "emt_id": "emt_place_id__71",
-    "place_type": null
+    "place_type": null,
+    "lat": null,
+    "long": null
   },
   "72": {
     "id": 72,
@@ -573,6 +715,8 @@
     "name": "Ödenburg / Sopron",
     "geonames": "https://www.geonames.org/3045190/sopron.html",
     "emt_id": "emt_place_id__72",
-    "place_type": null
+    "place_type": null,
+    "lat": "47.68501",
+    "long": "16.590490"
   }
 }
