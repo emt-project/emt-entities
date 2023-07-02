@@ -69,222 +69,387 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                </place>
                <place xml:id="emt_place_id__3">
                   <placeName>Aachen</placeName>
+                  <location type="coords">
+                     <geo>50.77664 6.083420</geo>
+                  </location>
                   <idno type="GEONAMES">https://sws.geonames.org/3247449/</idno>
                </place>
                <place xml:id="emt_place_id__4">
                   <placeName>Altötting</placeName>
+                  <location type="coords">
+                     <geo>48.22533 12.676650</geo>
+                  </location>
                   <idno type="GEONAMES">https://sws.geonames.org/2956940/</idno>
                </place>
                <place xml:id="emt_place_id__5">
                   <placeName>Augsburg</placeName>
+                  <location type="coords">
+                     <geo>48.36733 10.892130</geo>
+                  </location>
                   <idno type="GEONAMES">https://sws.geonames.org/6557107/</idno>
                </place>
                <place xml:id="emt_place_id__6">
                   <placeName>Benrath</placeName>
+                  <location type="coords">
+                     <geo>51.16080 6.870000</geo>
+                  </location>
                   <idno type="GEONAMES">https://sws.geonames.org/6947823/</idno>
                </place>
                <place xml:id="emt_place_id__7">
                   <placeName>Bensberg</placeName>
+                  <location type="coords">
+                     <geo>50.96486 7.163340</geo>
+                  </location>
                   <idno type="GEONAMES">https://sws.geonames.org/2950990/</idno>
                </place>
                <place xml:id="emt_place_id__8">
                   <placeName>Brandeis / Brandýs nad Labem</placeName>
+                  <location type="coords">
+                     <geo>50.18356 14.672440</geo>
+                  </location>
                   <idno type="GEONAMES">https://sws.geonames.org/3078838/</idno>
                </place>
                <place xml:id="emt_place_id__9">
                   <placeName>Budweis / České Budějovice</placeName>
+                  <location type="coords">
+                     <geo>48.97447 14.474340</geo>
+                  </location>
                   <idno type="GEONAMES">https://sws.geonames.org/3077916/</idno>
                </place>
                <place xml:id="emt_place_id__10">
                   <placeName>Madrid, Buen Retiro</placeName>
+                  <location type="coords">
+                     <geo>40.41546 -3.684200</geo>
+                  </location>
                   <idno type="GEONAMES">https://sws.geonames.org/6255078/</idno>
                </place>
                <place xml:id="emt_place_id__11">
                   <placeName>Burglengenfeld</placeName>
+                  <location type="coords">
+                     <geo>49.20379 12.044520</geo>
+                  </location>
                   <idno type="GEONAMES">https://sws.geonames.org/2941190/</idno>
                </place>
                <place xml:id="emt_place_id__12">
                   <placeName>Den Haag</placeName>
+                  <location type="coords">
+                     <geo>52.07667 4.298610</geo>
+                  </location>
                   <idno type="GEONAMES">https://sws.geonames.org/2747373/</idno>
                </place>
                <place xml:id="emt_place_id__13">
                   <placeName>Düsseldorf</placeName>
+                  <location type="coords">
+                     <geo>51.22172 6.776160</geo>
+                  </location>
                   <idno type="GEONAMES">https://sws.geonames.org/2934246/</idno>
                </place>
                <place xml:id="emt_place_id__14">
                   <placeName>Ebersberg</placeName>
+                  <location type="coords">
+                     <geo>48.07710 11.970630</geo>
+                  </location>
                   <idno type="GEONAMES">https://sws.geonames.org/2933945/</idno>
                </place>
                <place xml:id="emt_place_id__15">
                   <placeName>Wien, Ebersdorf</placeName>
+                  <location type="coords">
+                     <geo>48.15833 16.474170</geo>
+                  </location>
                   <idno type="GEONAMES">https://sws.geonames.org/3322696/</idno>
                </place>
                <place xml:id="emt_place_id__16">
                   <placeName>Erfurt</placeName>
+                  <location type="coords">
+                     <geo>50.97870 11.032830</geo>
+                  </location>
                   <idno type="GEONAMES">https://sws.geonames.org/2929670/</idno>
                </place>
                <place xml:id="emt_place_id__17">
                   <placeName>Eschwege</placeName>
+                  <location type="coords">
+                     <geo>51.18386 10.053290</geo>
+                  </location>
                   <idno type="GEONAMES">https://sws.geonames.org/2928967/</idno>
                </place>
                <place xml:id="emt_place_id__18">
                   <placeName>Wien, Favorita</placeName>
+                  <location type="coords">
+                     <geo>48.19307 16.371200</geo>
+                  </location>
                   <idno type="GEONAMES">https://sws.geonames.org/12500694/</idno>
                </place>
                <place xml:id="emt_place_id__19">
                   <placeName>Feldlager bei Ofen / Buda</placeName>
+                  <location type="coords">
+                     <geo>47.49835 19.040450</geo>
+                  </location>
                   <idno type="GEONAMES">https://sws.geonames.org/3054643/</idno>
                </place>
                <place xml:id="emt_place_id__20">
                   <placeName>Frankfurt</placeName>
+                  <location type="coords">
+                     <geo>50.11552 8.684170</geo>
+                  </location>
                   <idno type="GEONAMES">https://sws.geonames.org/2925533/</idno>
                </place>
                <place xml:id="emt_place_id__21">
                   <placeName>Friedrichsburg</placeName>
+                  <location type="coords">
+                     <geo>49.48423 8.462970</geo>
+                  </location>
                   <idno type="GEONAMES">https://sws.geonames.org/8629938/</idno>
                </place>
                <place xml:id="emt_place_id__22">
                   <placeName>Geldrop</placeName>
+                  <location type="coords">
+                     <geo>51.42167 5.559720</geo>
+                  </location>
                   <idno type="GEONAMES">https://sws.geonames.org/2755619/</idno>
                </place>
                <place xml:id="emt_place_id__23">
                   <placeName>Grünau ?</placeName>
+                  <location type="coords">
+                     <geo>48.73717 11.264250</geo>
+                  </location>
                   <idno type="GEONAMES">https://sws.geonames.org/11996450/</idno>
                </place>
                <place xml:id="emt_place_id__24">
                   <placeName>Hambach</placeName>
+                  <location type="coords">
+                     <geo>50.89903 6.444520</geo>
+                  </location>
                   <idno type="GEONAMES">https://sws.geonames.org/2911360/</idno>
                </place>
                <place xml:id="emt_place_id__25">
                   <placeName>Heidelberg</placeName>
+                  <location type="coords">
+                     <geo>49.40768 8.690790</geo>
+                  </location>
                   <idno type="GEONAMES">https://sws.geonames.org/2907911/</idno>
                </place>
                <place xml:id="emt_place_id__26">
                   <placeName>Heiligenkreuz</placeName>
+                  <location type="coords">
+                     <geo>48.05559 16.124930</geo>
+                  </location>
                   <idno type="GEONAMES">https://sws.geonames.org/2776586/</idno>
                </place>
                <place xml:id="emt_place_id__27">
                   <placeName>Innsbruck</placeName>
+                  <location type="coords">
+                     <geo>47.26266 11.394540</geo>
+                  </location>
                   <idno type="GEONAMES">https://sws.geonames.org/2775220/</idno>
                </place>
                <place xml:id="emt_place_id__28">
                   <placeName>Jankau/ Jankov</placeName>
+                  <location type="coords">
+                     <geo>49.41509 15.386220</geo>
+                  </location>
                   <idno type="GEONAMES">https://sws.geonames.org/3074532/</idno>
                </place>
                <place xml:id="emt_place_id__29">
                   <placeName>Korneuburg</placeName>
+                  <location type="coords">
+                     <geo>48.35000 16.333330</geo>
+                  </location>
                   <idno type="GEONAMES">https://sws.geonames.org/2773698/</idno>
                </place>
                <place xml:id="emt_place_id__30">
                   <placeName>Lambach</placeName>
+                  <location type="coords">
+                     <geo>48.09253 13.869540</geo>
+                  </location>
                   <idno type="GEONAMES">https://sws.geonames.org/7872188/</idno>
                </place>
                <place xml:id="emt_place_id__31">
                   <placeName>Laxenburg</placeName>
+                  <location type="coords">
+                     <geo>48.06833 16.356070</geo>
+                  </location>
                   <idno type="GEONAMES">https://sws.geonames.org/2772810/</idno>
                </place>
                <place xml:id="emt_place_id__32">
                   <placeName>Linz</placeName>
+                  <location type="coords">
+                     <geo>48.30639 14.286110</geo>
+                  </location>
                   <idno type="GEONAMES">https://sws.geonames.org/2772400/</idno>
                </place>
                <place xml:id="emt_place_id__33">
                   <placeName>Lissabon</placeName>
+                  <location type="coords">
+                     <geo>38.71667 -9.133330</geo>
+                  </location>
                   <idno type="GEONAMES">https://sws.geonames.org/2267057/</idno>
                </place>
                <place xml:id="emt_place_id__34">
                   <placeName>Luzzara</placeName>
+                  <location type="coords">
+                     <geo>44.95925 10.689530</geo>
+                  </location>
                   <idno type="GEONAMES">https://sws.geonames.org/3174416/</idno>
                </place>
                <place xml:id="emt_place_id__35">
                   <placeName>Maastricht</placeName>
+                  <location type="coords">
+                     <geo>50.84833 5.688890</geo>
+                  </location>
                   <idno type="GEONAMES">https://sws.geonames.org/2751283/</idno>
                </place>
                <place xml:id="emt_place_id__36">
                   <placeName>Madrid</placeName>
+                  <location type="coords">
+                     <geo>40.41650 -3.702560</geo>
+                  </location>
                   <idno type="GEONAMES">https://sws.geonames.org/3117735/</idno>
                </place>
                <place xml:id="emt_place_id__37">
                   <placeName>Mainz</placeName>
+                  <location type="coords">
+                     <geo>49.98419 8.279100</geo>
+                  </location>
                   <idno type="GEONAMES">https://sws.geonames.org/2874225/</idno>
                </place>
                <place xml:id="emt_place_id__38">
                   <placeName>Nassau</placeName>
+                  <location type="coords">
+                     <geo>50.31453 7.800250</geo>
+                  </location>
                   <idno type="GEONAMES">https://sws.geonames.org/2867037/</idno>
                </place>
                <place xml:id="emt_place_id__39">
                   <placeName>Neuburg</placeName>
+                  <location type="coords">
+                     <geo>48.73218 11.187090</geo>
+                  </location>
                   <idno type="GEONAMES">https://sws.geonames.org/2866070/</idno>
                </place>
                <place xml:id="emt_place_id__40">
                   <placeName>Neustadt an der Haardt?</placeName>
+                  <location type="coords">
+                     <geo>49.35009 8.138860</geo>
+                  </location>
                   <idno type="GEONAMES">https://sws.geonames.org/2864054/</idno>
                </place>
                <place xml:id="emt_place_id__41">
                   <placeName>Pardubice</placeName>
+                  <location type="coords">
+                     <geo>50.04075 15.776590</geo>
+                  </location>
                   <idno type="GEONAMES">https://sws.geonames.org/3068582/</idno>
                </place>
                <place xml:id="emt_place_id__42">
                   <placeName>Paris</placeName>
+                  <location type="coords">
+                     <geo>48.85341 2.348800</geo>
+                  </location>
                   <idno type="GEONAMES">https://sws.geonames.org/2988507/</idno>
                </place>
                <place xml:id="emt_place_id__43">
                   <placeName>Parma</placeName>
+                  <location type="coords">
+                     <geo>44.79935 10.326180</geo>
+                  </location>
                   <idno type="GEONAMES">https://sws.geonames.org/3171457/</idno>
                </place>
                <place xml:id="emt_place_id__44">
                   <placeName>Passau</placeName>
+                  <location type="coords">
+                     <geo>48.56650 13.431220</geo>
+                  </location>
                   <idno type="GEONAMES">https://sws.geonames.org/2855328/</idno>
                </place>
                <place xml:id="emt_place_id__45">
                   <placeName>Pisa</placeName>
+                  <location type="coords">
+                     <geo>43.70853 10.403600</geo>
+                  </location>
                   <idno type="GEONAMES">https://sws.geonames.org/3170647/</idno>
                </place>
                <place xml:id="emt_place_id__46">
                   <placeName>Pottendorf</placeName>
+                  <location type="coords">
+                     <geo>47.90000 16.383330</geo>
+                  </location>
                   <idno type="GEONAMES">https://sws.geonames.org/2768472/</idno>
                </place>
                <place xml:id="emt_place_id__47">
                   <placeName>Prag</placeName>
+                  <location type="coords">
+                     <geo>50.08804 14.420760</geo>
+                  </location>
                   <idno type="GEONAMES">https://sws.geonames.org/3067696/</idno>
                </place>
                <place xml:id="emt_place_id__48">
                   <placeName>Preßburg</placeName>
+                  <location type="coords">
+                     <geo>48.14816 17.106740</geo>
+                  </location>
                   <idno type="GEONAMES">https://sws.geonames.org/3060972/</idno>
                </place>
                <place xml:id="emt_place_id__49">
                   <placeName>Reichstadt</placeName>
+                  <location type="coords">
+                     <geo>50.92500 12.235000</geo>
+                  </location>
                   <idno type="GEONAMES">https://sws.geonames.org/6550513/</idno>
                </place>
                <place xml:id="emt_place_id__50">
                   <placeName>Rom</placeName>
+                  <location type="coords">
+                     <geo>41.89193 12.511330</geo>
+                  </location>
                   <idno type="GEONAMES">https://sws.geonames.org/3169070/</idno>
                </place>
                <place xml:id="emt_place_id__51">
                   <placeName>Sagan / Żagań</placeName>
+                  <location type="coords">
+                     <geo>51.61759 15.314860</geo>
+                  </location>
                   <idno type="GEONAMES">https://sws.geonames.org/3080944/</idno>
                </place>
                <place xml:id="emt_place_id__52">
                   <placeName>Schwetzingen</placeName>
+                  <location type="coords">
+                     <geo>49.38217 8.582300</geo>
+                  </location>
                   <idno type="GEONAMES">https://sws.geonames.org/2834240/</idno>
                </place>
                <place xml:id="emt_place_id__53">
                   <placeName>Schwetzingen im Fasans Haus</placeName>
+                  <location type="coords">
+                     <geo>49.38217 8.582300</geo>
+                  </location>
                   <idno type="GEONAMES">https://sws.geonames.org/2834240/</idno>
                </place>
                <place xml:id="emt_place_id__54">
                   <placeName>Schöntal</placeName>
+                  <location type="coords">
+                     <geo>49.34496 9.533900</geo>
+                  </location>
                   <idno type="GEONAMES">https://sws.geonames.org/2836466/</idno>
                </place>
                <place xml:id="emt_place_id__55">
                   <placeName>Siegburg</placeName>
+                  <location type="coords">
+                     <geo>50.80019 7.207690</geo>
+                  </location>
                   <idno type="GEONAMES">https://sws.geonames.org/2832521/</idno>
                </place>
                <place xml:id="emt_place_id__56">
                   <placeName>Steyr</placeName>
+                  <location type="coords">
+                     <geo>48.04274 14.421270</geo>
+                  </location>
                   <idno type="GEONAMES">https://sws.geonames.org/2764359/</idno>
                </place>
                <place xml:id="emt_place_id__57">
                   <placeName>Strengberg</placeName>
+                  <location type="coords">
+                     <geo>48.14954 14.648140</geo>
+                  </location>
                   <idno type="GEONAMES">https://sws.geonames.org/7872827/</idno>
                </place>
                <place xml:id="emt_place_id__58">
@@ -292,26 +457,44 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                </place>
                <place xml:id="emt_place_id__59">
                   <placeName>Warschau</placeName>
+                  <location type="coords">
+                     <geo>52.22977 21.011780</geo>
+                  </location>
                   <idno type="GEONAMES">https://sws.geonames.org/756135/</idno>
                </place>
                <place xml:id="emt_place_id__60">
                   <placeName>Weinheim</placeName>
+                  <location type="coords">
+                     <geo>49.54887 8.666970</geo>
+                  </location>
                   <idno type="GEONAMES">https://sws.geonames.org/2812174/</idno>
                </place>
                <place xml:id="emt_place_id__61">
                   <placeName>Welz</placeName>
+                  <location type="coords">
+                     <geo>50.96005 6.258600</geo>
+                  </location>
                   <idno type="GEONAMES">https://sws.geonames.org/2811359/</idno>
                </place>
                <place xml:id="emt_place_id__62">
                   <placeName>Wesel</placeName>
+                  <location type="coords">
+                     <geo>51.66690 6.620370</geo>
+                  </location>
                   <idno type="GEONAMES">https://sws.geonames.org/2810678/</idno>
                </place>
                <place xml:id="emt_place_id__63">
                   <placeName>Wien</placeName>
+                  <location type="coords">
+                     <geo>48.20849 16.372080</geo>
+                  </location>
                   <idno type="GEONAMES">https://sws.geonames.org/2761369/</idno>
                </place>
                <place xml:id="emt_place_id__64">
                   <placeName>Wien, Königinkloster</placeName>
+                  <location type="coords">
+                     <geo>48.20849 16.372080</geo>
+                  </location>
                   <idno type="GEONAMES">https://sws.geonames.org/2761369/</idno>
                </place>
                <place xml:id="emt_place_id__65">
@@ -319,14 +502,23 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                </place>
                <place xml:id="emt_place_id__66">
                   <placeName>Wiener Neustadt</placeName>
+                  <location type="coords">
+                     <geo>47.80485 16.231960</geo>
+                  </location>
                   <idno type="GEONAMES">https://sws.geonames.org/2761353/</idno>
                </place>
                <place xml:id="emt_place_id__67">
                   <placeName>Wolfenbüttel</placeName>
+                  <location type="coords">
+                     <geo>52.16442 10.540950</geo>
+                  </location>
                   <idno type="GEONAMES">https://sws.geonames.org/2806914/</idno>
                </place>
                <place xml:id="emt_place_id__68">
                   <placeName>Zangberg</placeName>
+                  <location type="coords">
+                     <geo>48.27480 12.423110</geo>
+                  </location>
                   <idno type="GEONAMES">https://sws.geonames.org/2805261/</idno>
                </place>
                <place xml:id="emt_place_id__69">
@@ -334,6 +526,9 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                </place>
                <place xml:id="emt_place_id__70">
                   <placeName>Traunsee</placeName>
+                  <location type="coords">
+                     <geo>47.85000 13.800000</geo>
+                  </location>
                   <idno type="GEONAMES">https://sws.geonames.org/2763413/</idno>
                </place>
                <place xml:id="emt_place_id__71">
@@ -341,6 +536,9 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                </place>
                <place xml:id="emt_place_id__72">
                   <placeName>Ödenburg / Sopron</placeName>
+                  <location type="coords">
+                     <geo>47.68501 16.590490</geo>
+                  </location>
                   <idno type="GEONAMES">https://sws.geonames.org/3045190/</idno>
                </place>
             </listPlace>
