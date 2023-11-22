@@ -34,3 +34,4 @@ for x in files:
         new_uri = get_normalized_uri(old_uri)
         idno.text = new_uri
     doc.tree_to_file(xml_name)
+
