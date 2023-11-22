@@ -766,5 +766,53 @@
     "color": "",
     "Lebensdaten": "",
     "Deutsche Biografie": ""
+  },
+  "66": {
+    "id": 66,
+    "order": "66.00000000000000000000",
+    "name": "Schellerer",
+    "GND": "",
+    "wikidata/ Treccani": "",
+    "emt_id": "emt_person_id__66",
+    "internal_comment": "",
+    "color": "",
+    "Lebensdaten": "",
+    "Deutsche Biografie": ""
+  },
+  "67": {
+    "id": 67,
+    "order": "67.00000000000000000000",
+    "name": "Hamilton, Maler 1677",
+    "GND": "",
+    "wikidata/ Treccani": "",
+    "emt_id": "emt_person_id__67",
+    "internal_comment": "",
+    "color": "",
+    "Lebensdaten": "",
+    "Deutsche Biografie": ""
+  },
+  "68": {
+    "id": 68,
+    "order": "68.00000000000000000000",
+    "name": "Hackh, Herr",
+    "GND": "",
+    "wikidata/ Treccani": "",
+    "emt_id": "emt_person_id__68",
+    "internal_comment": "hat Empfehlungsschreiben von EMT bekommen 1677",
+    "color": "",
+    "Lebensdaten": "",
+    "Deutsche Biografie": ""
+  },
+  "69": {
+    "id": 69,
+    "order": "69.00000000000000000000",
+    "name": "Hackh, Frau",
+    "GND": "",
+    "wikidata/ Treccani": "",
+    "emt_id": "emt_person_id__69",
+    "internal_comment": "",
+    "color": "",
+    "Lebensdaten": "",
+    "Deutsche Biografie": ""
   }
 }

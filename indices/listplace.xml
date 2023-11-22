@@ -565,6 +565,12 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                <place xml:id="emt_place_id__80">
                   <placeName>Erblande, habsburgische</placeName>
                </place>
+               <place xml:id="emt_place_id__81">
+                  <placeName>Polen</placeName>
+               </place>
+               <place xml:id="emt_place_id__82">
+                  <placeName/>
+               </place>
             </listPlace>
          </div>
       </body>

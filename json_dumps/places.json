@@ -878,5 +878,27 @@
     "lat": null,
     "long": null,
     "comments intern": ""
+  },
+  "81": {
+    "id": 81,
+    "order": "81.00000000000000000000",
+    "name": "Polen",
+    "geonames": "",
+    "emt_id": "emt_place_id__81",
+    "place_type": null,
+    "lat": null,
+    "long": null,
+    "comments intern": ""
+  },
+  "82": {
+    "id": 82,
+    "order": "82.00000000000000000000",
+    "name": "",
+    "geonames": "",
+    "emt_id": "emt_place_id__82",
+    "place_type": null,
+    "lat": null,
+    "long": null,
+    "comments intern": ""
   }
 }

@@ -1,48 +1,86 @@
 {
-  "1": {
-    "id": 1,
-    "order": "1.00000000000000000000",
-    "name": "Geburt von Eleonore Magdalene von Pfalz-Neuburg",
-    "emt_id": "emt_event_id__1",
-    "not_before": "1655-01-06",
-    "not_after": "1655-01-06",
-    "took_place_at": [
-      {
-        "id": 13,
-        "value": "Düsseldorf"
-      }
-    ],
-    "related_persons": [
-      {
-        "id": 9,
-        "value": "Kaiserin Eleonora Magdalena, geb. Pfalz-Neuburg"
-      }
-    ],
-    "description": null
-  },
-  "2": {
-    "id": 2,
-    "order": "2.00000000000000000000",
-    "name": "Hochzeit Eleonore Magdalene mit Kaiser Leopol I.",
-    "emt_id": "emt_event_id__2",
-    "not_before": "1676-12-14",
-    "not_after": "1676-12-14",
-    "took_place_at": [
-      {
-        "id": 44,
-        "value": "Passau"
-      }
-    ],
-    "related_persons": [
-      {
-        "id": 9,
-        "value": "Kaiserin Eleonora Magdalena, geb. Pfalz-Neuburg"
-      },
-      {
-        "id": 35,
-        "value": "Kaiser Leopold I."
-      }
-    ],
-    "description": null
-  }
+    "1": {
+        "id": 1,
+        "order": "1.00000000000000000000",
+        "name": "Geburt von Eleonore Magdalene von Pfalz-Neuburg",
+        "emt_id": "emt_event_id__1",
+        "not_before": "1655-01-06",
+        "not_after": "1655-01-06",
+        "took_place_at": [
+            {
+                "id": 13,
+                "order": "13.00000000000000000000",
+                "name": "Düsseldorf",
+                "geonames": "https://www.geonames.org/2934246/duesseldorf.html",
+                "emt_id": "emt_place_id__13",
+                "place_type": null,
+                "lat": "51.22172",
+                "long": "6.776160",
+                "comments intern": null
+            }
+        ],
+        "related_persons": [
+            {
+                "id": 9,
+                "order": "9.00000000000000000000",
+                "name": "Kaiserin Eleonora Magdalena, geb. Pfalz-Neuburg",
+                "GND": "https://d-nb.info/gnd/101026641",
+                "wikidata/ Treccani": "",
+                "emt_id": "emt_person_id__9",
+                "internal_comment": null,
+                "color": "#8f1f0b",
+                "Lebensdaten": "1655-1720",
+                "Deutsche Biografie": "https://www.deutsche-biographie.de/sfz56812.html"
+            }
+        ],
+        "description": null
+    },
+    "2": {
+        "id": 2,
+        "order": "2.00000000000000000000",
+        "name": "Hochzeit Eleonore Magdalene mit Kaiser Leopol I.",
+        "emt_id": "emt_event_id__2",
+        "not_before": "1676-12-14",
+        "not_after": "1676-12-14",
+        "took_place_at": [
+            {
+                "id": 44,
+                "order": "44.00000000000000000000",
+                "name": "Passau",
+                "geonames": "https://www.geonames.org/2855328/passau.html",
+                "emt_id": "emt_place_id__44",
+                "place_type": null,
+                "lat": "48.56650",
+                "long": "13.431220",
+                "comments intern": null
+            }
+        ],
+        "related_persons": [
+            {
+                "id": 9,
+                "order": "9.00000000000000000000",
+                "name": "Kaiserin Eleonora Magdalena, geb. Pfalz-Neuburg",
+                "GND": "https://d-nb.info/gnd/101026641",
+                "wikidata/ Treccani": "",
+                "emt_id": "emt_person_id__9",
+                "internal_comment": null,
+                "color": "#8f1f0b",
+                "Lebensdaten": "1655-1720",
+                "Deutsche Biografie": "https://www.deutsche-biographie.de/sfz56812.html"
+            },
+            {
+                "id": 35,
+                "order": "35.00000000000000000000",
+                "name": "Kaiser Leopold I.",
+                "GND": "https://d-nb.info/gnd/118571869",
+                "wikidata/ Treccani": "",
+                "emt_id": "emt_person_id__35",
+                "internal_comment": null,
+                "color": null,
+                "Lebensdaten": "1640-1705",
+                "Deutsche Biografie": "https://www.deutsche-biographie.de/sfz70500.html#indexcontent"
+            }
+        ],
+        "description": null
+    }
 }
