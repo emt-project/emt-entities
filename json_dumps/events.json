@@ -1,0 +1,48 @@
+{
+  "1": {
+    "id": 1,
+    "order": "1.00000000000000000000",
+    "name": "Geburt von Eleonore Magdalene von Pfalz-Neuburg",
+    "emt_id": "emt_event_id__1",
+    "not_before": "1655-01-06",
+    "not_after": "1655-01-06",
+    "took_place_at": [
+      {
+        "id": 13,
+        "value": "Düsseldorf"
+      }
+    ],
+    "related_persons": [
+      {
+        "id": 9,
+        "value": "Kaiserin Eleonora Magdalena, geb. Pfalz-Neuburg"
+      }
+    ],
+    "description": null
+  },
+  "2": {
+    "id": 2,
+    "order": "2.00000000000000000000",
+    "name": "Hochzeit Eleonore Magdalene mit Kaiser Leopol I.",
+    "emt_id": "emt_event_id__2",
+    "not_before": "1676-12-14",
+    "not_after": "1676-12-14",
+    "took_place_at": [
+      {
+        "id": 44,
+        "value": "Passau"
+      }
+    ],
+    "related_persons": [
+      {
+        "id": 9,
+        "value": "Kaiserin Eleonora Magdalena, geb. Pfalz-Neuburg"
+      },
+      {
+        "id": 35,
+        "value": "Kaiser Leopold I."
+      }
+    ],
+    "description": null
+  }
+}

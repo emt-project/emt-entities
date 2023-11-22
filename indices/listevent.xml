@@ -1,0 +1,74 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Ereignisse</title>
+            <title type="sub">
+Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiserin Eleonora Magdalena von Pfalz-Neuburg (1655-1720)
+</title>
+            <respStmt>
+               <resp>Aufbereitung der Daten</resp>
+               <name>Keller, Katrin</name>
+               <name>Spitzbart, Anna</name>
+               <name>Pepper, Ines</name>
+            </respStmt>
+            <respStmt>
+               <resp>converted to XML encoding</resp>
+               <name>Peter Andorfer</name>
+            </respStmt>
+            <funder xmlns="http://www.tei-c.org/ns/1.0">
+               <name>FWF Der Wissenschaftsfond</name>
+               <address>
+                     <street>Sensengasse 1</street>
+                     <postCode>1090 Wien</postCode>
+                     <placeName>
+                        <country>Österreich</country>
+                        <settlement>Wien</settlement>
+                     </placeName>
+               </address>
+            </funder>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>Institut für die Erforschung der Habsburgermonarchie und des Balkanraumes</publisher>
+            <pubPlace>Wien</pubPlace>
+            <date when="2022">2023</date>
+            <availability>
+               <licence target="https://creativecommons.org/licenses/by/4.0">
+                  <p>Sie dürfen: Teilen — das Material in jedwedem Format oder Medium vervielfältigen und weiterverbreiten</p>
+                  <p>Bearbeiten — das Material remixen, verändern und darauf aufbauen und zwar für beliebige Zwecke, sogar kommerziell.</p>
+                  <p>Der Lizenzgeber kann diese Freiheiten nicht widerrufen solange Sie sich an die Lizenzbedingungen halten. Unter folgenden Bedingungen:</p>
+                  <p>Namensnennung — Sie müssen angemessene Urheber- und Rechteangaben machen, einen Link zur Lizenz beifügen und angeben, ob Änderungen vorgenommen wurden.
+                     Diese Angaben dürfen in jeder angemessenen Art und Weise gemacht werden, allerdings nicht so, dass der Eindruck entsteht, der Lizenzgeber unterstütze
+                     gerade Sie oder Ihre Nutzung besonders.</p>
+                  <p>Keine weiteren Einschränkungen — Sie dürfen keine zusätzlichen Klauseln oder technische Verfahren einsetzen, 
+                     die anderen rechtlich irgendetwas untersagen, was die Lizenz erlaubt.</p>
+                  <p>Hinweise:</p>
+                  <p>Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Materials, die gemeinfrei sind, oder soweit Ihre Nutzungshandlungen durch Ausnahmen und
+                     Schranken des Urheberrechts gedeckt sind.</p>
+                  <p>Es werden keine Garantien gegeben und auch keine Gewähr geleistet.
+                     Die Lizenz verschafft Ihnen möglicherweise nicht alle Erlaubnisse,
+                     die Sie für die jeweilige Nutzung brauchen. 
+                     Es können beispielsweise andere Rechte wie Persönlichkeits- undDatenschutzrechte zu beachten sein, die Ihre Nutzung des Materials entsprechend beschränken.</p>
+               </licence>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <p>Register ausgewählter (biographischer) Ereignisse</p>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div type="index_events">
+            <listEvent xml:id="listplace">
+               <event xml:id="emt_event_id__1" notBefore="1655-01-06" notAfter="1655-01-06">
+                 <eventName>Geburt von Eleonore Magdalene von Pfalz-Neuburg</eventName>
+               </event>
+               <event xml:id="emt_event_id__2" notBefore="1676-12-14" notAfter="1676-12-14">
+                 <eventName>Hochzeit Eleonore Magdalene mit Kaiser Leopol I.</eventName>
+               </event>
+            </listEvent>
+         </div>
+      </body>
+   </text>
+</TEI>

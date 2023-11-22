@@ -541,6 +541,30 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                   </location>
                   <idno type="GEONAMES">https://sws.geonames.org/3045190/</idno>
                </place>
+               <place xml:id="emt_place_id__73">
+                  <placeName>Spanien</placeName>
+               </place>
+               <place xml:id="emt_place_id__74">
+                  <placeName>Spanische Niederlande</placeName>
+               </place>
+               <place xml:id="emt_place_id__75">
+                  <placeName>Sizilien</placeName>
+               </place>
+               <place xml:id="emt_place_id__76">
+                  <placeName>Wien, Sankt Veit</placeName>
+               </place>
+               <place xml:id="emt_place_id__77">
+                  <placeName>Mildenburg</placeName>
+               </place>
+               <place xml:id="emt_place_id__78">
+                  <placeName>Trient, Bistum</placeName>
+               </place>
+               <place xml:id="emt_place_id__79">
+                  <placeName>Brixen, Bistum</placeName>
+               </place>
+               <place xml:id="emt_place_id__80">
+                  <placeName>Erblande, habsburgische</placeName>
+               </place>
             </listPlace>
          </div>
       </body>
