@@ -63,7 +63,40 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
             <listEvent xml:id="listplace">
             {% for x in objects %}
                <event xml:id="{{ x.emt_id }}" notBefore="{{ x.not_before }}" notAfter="{{ x.not_after }}">
-                 <eventName>{{ x.name }}</eventName>
+                 <eventName>{{ x.name }}</eventName>{% if x.related_persons %}
+                 <listPerson type="related_persons">
+                     {% for y in x.related_persons %}
+                     <person>
+                        <persName>{{ y.name }}</persName>
+                        <idno type="EMT">{{ y.emt_id }}</idno>
+                     </person>
+                     {% endfor %}
+                 </listPerson>
+                 {% endif %}
+                 {% if x.took_place_at %}
+                 <listPlace type="took_place">
+                     {% for y in x.took_place_at %}
+                     <place>
+                        <placeName>{{ y.name }}</placeName>
+                        {% if y.lat %}
+                        <location type="coords">
+                           <geo>{{ y.lat }} {{ y.long }}</geo>
+                        </location>
+                        {% endif %}
+                        {% if y.geonames|length > 0 %}
+                        <idno type="GEONAMES">{{ y.geonames }}</idno>
+                        {% endif %}
+                        {% if y.gnd|length > 0 %}
+                        <idno type="GND">{{ y.gnd }}</idno>
+                        {% endif %}
+                        {% if y.wikidata|length > 0 %}
+                        <idno type="WIKIDATA">{{ y.wikidata }}</idno>
+                        {% endif %}
+                        <idno type="EMT">{{ y.emt_id }}</idno>
+                     </place>
+                     {% endfor %}
+                 </listPlace>
+                 {% endif %}
                </event>
             {% endfor %}
             </listEvent>

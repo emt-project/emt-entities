@@ -62,10 +62,44 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
          <div type="index_events">
             <listEvent xml:id="listplace">
                <event xml:id="emt_event_id__1" notBefore="1655-01-06" notAfter="1655-01-06">
-                 <eventName>Geburt von Eleonore Magdalene von Pfalz-Neuburg</eventName>
+                 <eventName>Geburt von Eleonore Magdalene von Pfalz-Neuburg</eventName>                 <listPerson type="related_persons">
+                     <person>
+                        <persName>Kaiserin Eleonora Magdalena, geb. Pfalz-Neuburg</persName>
+                        <idno type="EMT">emt_person_id__9</idno>
+                     </person>
+                 </listPerson>
+                 <listPlace type="took_place">
+                     <place>
+                        <placeName>Düsseldorf</placeName>
+                        <location type="coords">
+                           <geo>51.22172 6.776160</geo>
+                        </location>
+                        <idno type="GEONAMES">https://sws.geonames.org/2934246/</idno>
+                        <idno type="EMT">emt_place_id__13</idno>
+                     </place>
+                 </listPlace>
                </event>
                <event xml:id="emt_event_id__2" notBefore="1676-12-14" notAfter="1676-12-14">
-                 <eventName>Hochzeit Eleonore Magdalene mit Kaiser Leopol I.</eventName>
+                 <eventName>Hochzeit Eleonore Magdalene mit Kaiser Leopol I.</eventName>                 <listPerson type="related_persons">
+                     <person>
+                        <persName>Kaiserin Eleonora Magdalena, geb. Pfalz-Neuburg</persName>
+                        <idno type="EMT">emt_person_id__9</idno>
+                     </person>
+                     <person>
+                        <persName>Kaiser Leopold I.</persName>
+                        <idno type="EMT">emt_person_id__35</idno>
+                     </person>
+                 </listPerson>
+                 <listPlace type="took_place">
+                     <place>
+                        <placeName>Passau</placeName>
+                        <location type="coords">
+                           <geo>48.56650 13.431220</geo>
+                        </location>
+                        <idno type="GEONAMES">https://sws.geonames.org/2855328/</idno>
+                        <idno type="EMT">emt_place_id__44</idno>
+                     </place>
+                 </listPlace>
                </event>
             </listEvent>
          </div>
