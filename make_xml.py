@@ -31,7 +31,10 @@ for x in files:
     doc = TeiReader(xml_data)
     for idno in doc.any_xpath(".//tei:body//tei:idno"):
         old_uri = idno.text
-        new_uri = get_normalized_uri(old_uri)
+        try:
+            new_uri = get_normalized_uri(old_uri)
+        except TypeError:
+            new_uri = old_uri
         idno.text = new_uri
     doc.tree_to_file(xml_name)
 

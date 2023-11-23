@@ -33,7 +33,10 @@
                 "Deutsche Biografie": "https://www.deutsche-biographie.de/sfz56812.html"
             }
         ],
-        "description": null
+        "description": null,
+        "img_url": "",
+        "img_right": null,
+        "img_caption": null
     },
     "2": {
         "id": 2,
@@ -81,6 +84,9 @@
                 "Deutsche Biografie": "https://www.deutsche-biographie.de/sfz70500.html#indexcontent"
             }
         ],
-        "description": null
+        "description": null,
+        "img_url": "https://upload.wikimedia.org/wikipedia/commons/4/4d/Marriage_Leopold_of_Austria_Eleonore_of_Pfalz_Neuburg.jpg",
+        "img_right": "Ferdinand Wagner, Public domain, via Wikimedia Commons",
+        "img_caption": "Eleonore heiratet Kaiser Leopold I., historisierendes Gemälde aus dem Jahr 1890 im Rathaussaal Passau."
     }
 }

@@ -62,7 +62,11 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
          <div type="index_events">
             <listEvent xml:id="listplace">
                <event xml:id="emt_event_id__1" notBefore="1655-01-06" notAfter="1655-01-06">
-                 <eventName>Geburt von Eleonore Magdalene von Pfalz-Neuburg</eventName>                 <listPerson type="related_persons">
+                  <desc>
+                     <eventName>
+                        Geburt von Eleonore Magdalene von Pfalz-Neuburg
+                     </eventName>                  </desc>
+                 <listPerson type="related_persons">
                      <person>
                         <persName>Kaiserin Eleonora Magdalena, geb. Pfalz-Neuburg</persName>
                         <idno type="EMT">emt_person_id__9</idno>
@@ -80,7 +84,16 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                  </listPlace>
                </event>
                <event xml:id="emt_event_id__2" notBefore="1676-12-14" notAfter="1676-12-14">
-                 <eventName>Hochzeit Eleonore Magdalene mit Kaiser Leopol I.</eventName>                 <listPerson type="related_persons">
+                  <desc>
+                     <eventName>
+                        Hochzeit Eleonore Magdalene mit Kaiser Leopol I.
+                        <figure>
+                           <figDesc>Eleonore heiratet Kaiser Leopold I., historisierendes Gemälde aus dem Jahr 1890 im Rathaussaal Passau.</figDesc>
+                           <figDesc>Ferdinand Wagner, Public domain, via Wikimedia Commons</figDesc>
+                           <graphic url="https://upload.wikimedia.org/wikipedia/commons/4/4d/Marriage_Leopold_of_Austria_Eleonore_of_Pfalz_Neuburg.jpg"/>
+                        </figure>
+                     </eventName>                  </desc>
+                 <listPerson type="related_persons">
                      <person>
                         <persName>Kaiserin Eleonora Magdalena, geb. Pfalz-Neuburg</persName>
                         <idno type="EMT">emt_person_id__9</idno>

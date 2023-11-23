@@ -63,7 +63,20 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
             <listEvent xml:id="listplace">
             {% for x in objects %}
                <event xml:id="{{ x.emt_id }}" notBefore="{{ x.not_before }}" notAfter="{{ x.not_after }}">
-                 <eventName>{{ x.name }}</eventName>{% if x.related_persons %}
+                  <desc>
+                     <eventName>
+                        {{ x.name }}
+                        {% if x.img_url %}
+                        <figure>
+                           <figDesc>{{ x.img_caption }}</figDesc>
+                           <figDesc>{{ x.img_right }}</figDesc>
+                           <graphic url="{{ x.img_url }}"/>
+                        </figure>
+                        {% endif %}
+                     </eventName>{% if x.description %}
+                     {{ x.description }}{% endif %}
+                  </desc>
+                 {% if x.related_persons %}
                  <listPerson type="related_persons">
                      {% for y in x.related_persons %}
                      <person>
