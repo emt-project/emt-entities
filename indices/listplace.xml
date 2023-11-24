@@ -543,32 +543,126 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                </place>
                <place xml:id="emt_place_id__73">
                   <placeName>Spanien</placeName>
+                  <location type="coords">
+                     <geo>40.00000 -4.000000</geo>
+                  </location>
+                  <idno type="GEONAMES">https://sws.geonames.org/2510769/</idno>
                </place>
                <place xml:id="emt_place_id__74">
                   <placeName>Spanische Niederlande</placeName>
+                  <location type="coords">
+                     <geo>50.75000 4.500000</geo>
+                  </location>
+                  <idno type="GEONAMES">https://sws.geonames.org/2802361/</idno>
                </place>
                <place xml:id="emt_place_id__75">
                   <placeName>Sizilien</placeName>
+                  <location type="coords">
+                     <geo>37.62304 13.934570</geo>
+                  </location>
+                  <idno type="GEONAMES">https://sws.geonames.org/2523118/</idno>
                </place>
                <place xml:id="emt_place_id__76">
                   <placeName>Wien, Sankt Veit</placeName>
+                  <location type="coords">
+                     <geo>48.19035 16.265520</geo>
+                  </location>
+                  <idno type="GEONAMES">https://sws.geonames.org/2601120/</idno>
                </place>
                <place xml:id="emt_place_id__77">
                   <placeName>Mildenburg</placeName>
+                  <location type="coords">
+                     <geo>49.70452 9.267250</geo>
+                  </location>
+                  <idno type="GEONAMES">https://sws.geonames.org/2871079/</idno>
                </place>
                <place xml:id="emt_place_id__78">
                   <placeName>Trient, Bistum</placeName>
+                  <location type="coords">
+                     <geo>46.06787 11.121080</geo>
+                  </location>
+                  <idno type="GEONAMES">https://sws.geonames.org/3165243/</idno>
                </place>
                <place xml:id="emt_place_id__79">
                   <placeName>Brixen, Bistum</placeName>
+                  <location type="coords">
+                     <geo>46.71503 11.655980</geo>
+                  </location>
+                  <idno type="GEONAMES">https://sws.geonames.org/3181550/</idno>
                </place>
                <place xml:id="emt_place_id__80">
                   <placeName>Erblande, habsburgische</placeName>
                </place>
                <place xml:id="emt_place_id__81">
                   <placeName>Polen</placeName>
+                  <location type="coords">
+                     <geo>52.00000 20.000000</geo>
+                  </location>
+                  <idno type="GEONAMES">https://sws.geonames.org/798544/</idno>
                </place>
                <place xml:id="emt_place_id__82">
+                  <placeName>Osnabrück, Stift</placeName>
+                  <location type="coords">
+                     <geo>52.27264 8.049800</geo>
+                  </location>
+                  <idno type="GEONAMES">https://sws.geonames.org/2856883/</idno>
+               </place>
+               <place xml:id="emt_place_id__83">
+                  <placeName>Holland</placeName>
+                  <location type="coords">
+                     <geo>52.25000 5.750000</geo>
+                  </location>
+                  <idno type="GEONAMES">https://sws.geonames.org/2750405/</idno>
+               </place>
+               <place xml:id="emt_place_id__84">
+                  <placeName>Wesel</placeName>
+                  <location type="coords">
+                     <geo>51.66690 6.620370</geo>
+                  </location>
+                  <idno type="GEONAMES">https://sws.geonames.org/2810678/</idno>
+               </place>
+               <place xml:id="emt_place_id__85">
+                  <placeName>England</placeName>
+                  <location type="coords">
+                     <geo>52.16045 -0.703120</geo>
+                  </location>
+                  <idno type="GEONAMES">https://sws.geonames.org/6269131/</idno>
+               </place>
+               <place xml:id="emt_place_id__86">
+                  <placeName>Frankreich</placeName>
+                  <location type="coords">
+                     <geo>46.00000 2.000000</geo>
+                  </location>
+                  <idno type="GEONAMES">https://sws.geonames.org/3017382/</idno>
+               </place>
+               <place xml:id="emt_place_id__87">
+                  <placeName>Italien</placeName>
+                  <location type="coords">
+                     <geo>42.83333 12.833330</geo>
+                  </location>
+                  <idno type="GEONAMES">https://sws.geonames.org/3175395/</idno>
+               </place>
+               <place xml:id="emt_place_id__88">
+                  <placeName>Heiliges Römisches Reich</placeName>
+               </place>
+               <place xml:id="emt_place_id__89">
+                  <placeName>Wien, Favorita</placeName>
+                  <location type="coords">
+                     <geo>48.19307 16.371200</geo>
+                  </location>
+                  <idno type="GEONAMES">https://sws.geonames.org/12500694/</idno>
+               </place>
+               <place xml:id="emt_place_id__90">
+                  <placeName>Rom</placeName>
+                  <location type="coords">
+                     <geo>41.89193 12.511330</geo>
+                  </location>
+                  <idno type="GEONAMES">https://sws.geonames.org/3169070/</idno>
+               </place>
+               <place xml:id="emt_place_id__91">
+                  <placeName/>
+               </place>
+               <place xml:id="emt_place_id__92">
                   <placeName/>
                </place>
             </listPlace>
