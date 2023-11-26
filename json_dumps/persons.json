@@ -1270,5 +1270,17 @@
     "color": "",
     "Lebensdaten": "1626-1700",
     "Deutsche Biografie": "https://www.deutsche-biographie.de/pnd118948008.html#indexcontent"
+  },
+  "108": {
+    "id": 108,
+    "order": "108.00000000000000000000",
+    "name": "Albert Eusebius von Königsegg-Rothenfels",
+    "GND": "https://www.deutsche-biographie.de/sfz57371.html",
+    "wikidata/ Treccani": "",
+    "emt_id": "emt_person_id__108",
+    "internal_comment": "Domherr in Köln bis 1694",
+    "color": "",
+    "Lebensdaten": "1669-1736",
+    "Deutsche Biografie": "http://d-nb.info/116293934"
   }
 }

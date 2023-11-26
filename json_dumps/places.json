@@ -838,7 +838,7 @@
   "77": {
     "id": 77,
     "order": "77.00000000000000000000",
-    "name": "Mildenburg",
+    "name": "Miltenberg",
     "geonames": "https://www.geonames.org/2871079/miltenberg.html",
     "emt_id": "emt_place_id__77",
     "place_type": null,
@@ -992,7 +992,7 @@
   "91": {
     "id": 91,
     "order": "91.00000000000000000000",
-    "name": "",
+    "name": "Köln, Erzstift",
     "geonames": "",
     "emt_id": "emt_place_id__91",
     "place_type": null,
