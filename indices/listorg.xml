@@ -2,7 +2,7 @@
    <teiHeader>
       <fileDesc>
          <titleStmt>
-            <title type="main">Ereignisse</title>
+            <title type="main">Institutionenregister</title>
             <title type="sub">
 Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiserin Eleonora Magdalena von Pfalz-Neuburg (1655-1720)
 </title>
@@ -31,7 +31,7 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
          <publicationStmt>
             <publisher>Institut für die Erforschung der Habsburgermonarchie und des Balkanraumes</publisher>
             <pubPlace>Wien</pubPlace>
-            <date when="2022">2023</date>
+            <date when="2022">2022</date>
             <availability>
                <licence target="https://creativecommons.org/licenses/by/4.0">
                   <p>Sie dürfen: Teilen — das Material in jedwedem Format oder Medium vervielfältigen und weiterverbreiten</p>
@@ -53,68 +53,24 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
             </availability>
          </publicationStmt>
          <sourceDesc>
-            <p>Register ausgewählter (biographischer) Ereignisse</p>
+            <p>Register der im Projekt erwähnten Institutionen</p>
          </sourceDesc>
       </fileDesc>
    </teiHeader>
    <text>
       <body>
-         <div type="index_events">
-            <listEvent xml:id="listplace">
-               <event xml:id="emt_event_id__1" notBefore="1655-01-06" notAfter="1655-01-06">
-                  <desc>
-                     <eventName>
-                        Geburt von Eleonore Magdalene von Pfalz-Neuburg
-                     </eventName>                  </desc>
-                 <listPerson type="related_persons">
-                     <person>
-                        <persName>Kaiserin Eleonora Magdalena, geb. Pfalz-Neuburg</persName>
-                        <idno type="EMT">emt_person_id__9</idno>
-                     </person>
-                 </listPerson>
-                 <listPlace type="took_place">
-                     <place>
-                        <placeName>Düsseldorf</placeName>
-                        <location type="coords">
-                           <geo>51.22172 6.776160</geo>
-                        </location>
-                        <idno type="GEONAMES">https://sws.geonames.org/2934246/</idno>
-                        <idno type="EMT">emt_place_id__13</idno>
-                     </place>
-                 </listPlace>
-               </event>
-               <event xml:id="emt_event_id__2" notBefore="1676-12-14" notAfter="1676-12-14">
-                  <desc>
-                     <eventName>
-                        Hochzeit Eleonore Magdalene mit Kaiser Leopol I.
-                        <figure>
-                           <figDesc>Eleonore heiratet Kaiser Leopold I., historisierendes Gemälde aus dem Jahr 1890 im Rathaussaal Passau.</figDesc>
-                           <figDesc>Ferdinand Wagner, Public domain, via Wikimedia Commons</figDesc>
-                           <graphic url="https://upload.wikimedia.org/wikipedia/commons/4/4d/Marriage_Leopold_of_Austria_Eleonore_of_Pfalz_Neuburg.jpg"/>
-                        </figure>
-                     </eventName>                  </desc>
-                 <listPerson type="related_persons">
-                     <person>
-                        <persName>Kaiserin Eleonora Magdalena, geb. Pfalz-Neuburg</persName>
-                        <idno type="EMT">emt_person_id__9</idno>
-                     </person>
-                     <person>
-                        <persName>Kaiser Leopold I.</persName>
-                        <idno type="EMT">emt_person_id__35</idno>
-                     </person>
-                 </listPerson>
-                 <listPlace type="took_place">
-                     <place>
-                        <placeName>Passau</placeName>
-                        <location type="coords">
-                           <geo>48.56650 13.431220</geo>
-                        </location>
-                        <idno type="GEONAMES">https://sws.geonames.org/2855328/</idno>
-                        <idno type="EMT">emt_place_id__44</idno>
-                     </place>
-                 </listPlace>
-               </event>
-            </listEvent>
+         <div type="index_orgs">
+            <listOrg xml:id="listorg">
+               <org xml:id="emt_institution_id__1">
+                  <orgName/>
+               </org>
+               <org xml:id="emt_institution_id__2">
+                  <orgName/>
+               </org>
+               <org xml:id="emt_institution_id__3">
+                  <orgName/>
+               </org>
+            </listOrg>
          </div>
       </body>
    </text>

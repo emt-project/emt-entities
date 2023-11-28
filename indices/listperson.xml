@@ -66,9 +66,11 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                </person>
                <person xml:id="emt_person_id__3">
                   <persName>Anna Maria Franziska de' Medici, geb. Sachsen-Lauenburg, verw. Pfalz</persName>
+                  <idno type="GND">https://d-nb.info/gnd/119426099</idno>
                </person>
                <person xml:id="emt_person_id__4">
                   <persName>Balthasar Miller SJ</persName>
+                  <idno type="GND">https://d-nb.info/gnd/138385211</idno>
                </person>
                <person xml:id="emt_person_id__5">
                   <persName>Canonico Ecchellense</persName>
@@ -78,48 +80,63 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                </person>
                <person xml:id="emt_person_id__7">
                   <persName>Dominik Andreas von Kaunitz</persName>
+                  <idno type="GND">https://d-nb.info/gnd/124899242</idno>
                </person>
                <person xml:id="emt_person_id__8">
                   <persName>Dorothea Sophie von Parma, geb. Pfalz-Neuburg</persName>
+                  <idno type="GND">https://d-nb.info/gnd/12227671X</idno>
                </person>
                <person xml:id="emt_person_id__9">
                   <persName>Kaiserin Eleonora Magdalena, geb. Pfalz-Neuburg</persName>
+                  <idno type="GND">https://d-nb.info/gnd/101026641</idno>
                </person>
                <person xml:id="emt_person_id__10">
                   <persName>Elisabeth Amalie von Pfalz-Neuburg, geb. Hessen-Darmstadt</persName>
+                  <idno type="GND">https://d-nb.info/gnd/12890285X</idno>
                </person>
                <person xml:id="emt_person_id__11">
                   <persName>Ercole Turinetti de Priè</persName>
+                  <idno type="GND">https://d-nb.info/gnd/1024116751</idno>
                </person>
                <person xml:id="emt_person_id__12">
                   <persName>Ferdinand August von Lobkowitz</persName>
+                  <idno type="GND">https://d-nb.info/gnd/120089874</idno>
                </person>
                <person xml:id="emt_person_id__13">
                   <persName>Leopold Matthias von Lamberg</persName>
+                  <idno type="GND">https://d-nb.info/gnd/123623790</idno>
                </person>
                <person xml:id="emt_person_id__14">
                   <persName>Franziska Sibylla Augusta von Baden-Baden, geb. Sachsen-Lauenburg</persName>
+                  <idno type="GND">https://d-nb.info/gnd/118613871</idno>
                </person>
                <person xml:id="emt_person_id__15">
                   <persName>Friedrich I. von Preußen, Kurfürst von Brandenburg</persName>
+                  <idno type="GND">https://d-nb.info/gnd/118535730</idno>
                </person>
                <person xml:id="emt_person_id__16">
                   <persName>Friedrich Karl von Schönborn</persName>
+                  <idno type="GND">https://d-nb.info/gnd/118610058</idno>
                </person>
                <person xml:id="emt_person_id__17">
                   <persName>Gottlieb Amadeus von Windischgrätz</persName>
+                  <idno type="GND">https://d-nb.info/gnd/119220318</idno>
                </person>
                <person xml:id="emt_person_id__18">
                   <persName>Johann Wilhelm von Pfalz-Neuburg, Kurfürst von der Pfalz</persName>
+                  <idno type="GND">https://d-nb.info/gnd/118712411</idno>
                </person>
                <person xml:id="emt_person_id__19">
                   <persName>Johann Adam von Hoheneck</persName>
+                  <idno type="GND">https://d-nb.info/gnd/116953470</idno>
                </person>
                <person xml:id="emt_person_id__20">
                   <persName>Johann Ferdinand von Hertodt</persName>
+                  <idno type="GND">https://d-nb.info/gnd/124549101</idno>
                </person>
                <person xml:id="emt_person_id__21">
                   <persName>Johann Gottfried von Redinghoven</persName>
+                  <idno type="GND">https://d-nb.info/gnd/132640562</idno>
                </person>
                <person xml:id="emt_person_id__22">
                   <persName>Johanna Franziska von Miller, geb. Tänzl von Trazberg</persName>
@@ -129,48 +146,61 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                </person>
                <person xml:id="emt_person_id__24">
                   <persName>Joseph Clemens von Bayern, Kurfürst von Köln</persName>
+                  <idno type="GND">https://d-nb.info/gnd/11909990X</idno>
                </person>
                <person xml:id="emt_person_id__25">
                   <persName>Kaiser Joseph I.</persName>
+                  <idno type="GND">https://d-nb.info/gnd/118558390</idno>
                </person>
                <person xml:id="emt_person_id__26">
                   <persName>Alderano Cibo-Malaspina, Kardinal</persName>
+                  <idno type="GND">https://d-nb.info/gnd/100008143</idno>
                </person>
                <person xml:id="emt_person_id__27">
                   <persName>Christian August von Sachsen-Zeitz, Kardinal</persName>
+                  <idno type="GND">https://d-nb.info/gnd/104174552</idno>
                </person>
                <person xml:id="emt_person_id__28">
                   <persName>Vincenzo Grimani, Kardinal</persName>
+                  <idno type="GND">https://d-nb.info/gnd/126443688</idno>
                </person>
                <person xml:id="emt_person_id__29">
                   <persName>Karl Philipp von Pfalz-Neuburg</persName>
+                  <idno type="GND">https://d-nb.info/gnd/118720953</idno>
                </person>
                <person xml:id="emt_person_id__30">
                   <persName>Karl Theodor Otto zu Salm</persName>
+                  <idno type="GND">https://d-nb.info/gnd/104302100</idno>
                </person>
                <person xml:id="emt_person_id__31">
                   <persName>Kaiser Karl VI.</persName>
+                  <idno type="GND">https://d-nb.info/gnd/118560107</idno>
                </person>
                <person xml:id="emt_person_id__32">
                   <persName>Karl von Hessen-Wanfried</persName>
                </person>
                <person xml:id="emt_person_id__33">
                   <persName>Karl V. von Lothringen</persName>
+                  <idno type="GND">https://d-nb.info/gnd/118720902</idno>
                </person>
                <person xml:id="emt_person_id__34">
                   <persName>Leopold Litizcki von Schönau</persName>
                </person>
                <person xml:id="emt_person_id__35">
                   <persName>Kaiser Leopold I.</persName>
+                  <idno type="GND">https://d-nb.info/gnd/118571869</idno>
                </person>
                <person xml:id="emt_person_id__36">
                   <persName>Ludwig Wilhelm von Baden-Baden</persName>
+                  <idno type="GND">https://d-nb.info/gnd/118729500</idno>
                </person>
                <person xml:id="emt_person_id__37">
                   <persName>Maria Anna von Spanien, geb. Österreich</persName>
+                  <idno type="GND">https://d-nb.info/gnd/118781863</idno>
                </person>
                <person xml:id="emt_person_id__38">
                   <persName>Maria Anna von Spanien, geb. Pfalz-Neuburg</persName>
+                  <idno type="GND">https://d-nb.info/gnd/123154405</idno>
                </person>
                <person xml:id="emt_person_id__39">
                   <persName>Carlo Pio di Savoia, Kardinal</persName>
@@ -183,6 +213,7 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                </person>
                <person xml:id="emt_person_id__42">
                   <persName>Maria Sophie von Portugal, geb. Pfalz-Neuburg</persName>
+                  <idno type="GND">https://d-nb.info/gnd/189551283</idno>
                </person>
                <person xml:id="emt_person_id__43">
                   <persName>Marsilius Heüßlein von Eußenheim</persName>
@@ -192,24 +223,30 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                </person>
                <person xml:id="emt_person_id__45">
                   <persName>Maximilian Heinrich von Bayern, Kurfürst von Köln</persName>
+                  <idno type="GND">https://d-nb.info/gnd/10030673X</idno>
                </person>
                <person xml:id="emt_person_id__46">
                   <persName>Maximilian von Degenfeld</persName>
+                  <idno type="GND">https://d-nb.info/gnd/120710102</idno>
                </person>
                <person xml:id="emt_person_id__47">
                   <persName>Moritz Heinrich von Nassau-Hadamar</persName>
+                  <idno type="GND">https://d-nb.info/gnd/121164721</idno>
                </person>
                <person xml:id="emt_person_id__48">
                   <persName>NN</persName>
                </person>
                <person xml:id="emt_person_id__49">
                   <persName>Otto Ferdinand von Hohenfeld</persName>
+                  <idno type="GND">https://d-nb.info/gnd/123697056X</idno>
                </person>
                <person xml:id="emt_person_id__50">
                   <persName>Philipp Wilhelm von Pfalz-Neuburg, Kurfürst von der Pfalz</persName>
+                  <idno type="GND">https://d-nb.info/gnd/118742221</idno>
                </person>
                <person xml:id="emt_person_id__51">
                   <persName>Clemens XI. (Albani), Papst</persName>
+                  <idno type="GND">https://d-nb.info/gnd/119139162</idno>
                </person>
                <person xml:id="emt_person_id__52">
                   <persName>Pater Poitier</persName>
@@ -225,6 +262,7 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                </person>
                <person xml:id="emt_person_id__56">
                   <persName>Theodor Heinrich von Strattmann</persName>
+                  <idno type="GND">https://d-nb.info/gnd/119316900</idno>
                </person>
                <person xml:id="emt_person_id__57">
                   <persName>Velder ?</persName>
@@ -237,6 +275,7 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                </person>
                <person xml:id="emt_person_id__60">
                   <persName>Maria Anna von Pfalz-Neuburg, geb. Österreich</persName>
+                  <idno type="GND">https://d-nb.info/gnd/120100096</idno>
                </person>
                <person xml:id="emt_person_id__61">
                   <persName>Pfalz-Neuburg, Haus</persName>
@@ -246,18 +285,22 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                </person>
                <person xml:id="emt_person_id__63">
                   <persName>Maximilian Gandolf von Kuenburg, Erzbischof von Salzburg, Kardinal</persName>
+                  <idno type="GND">https://d-nb.info/gnd/115524991</idno>
                </person>
                <person xml:id="emt_person_id__64">
                   <persName>Marquard Schenk von Castell, Bischof von Eichstätt</persName>
+                  <idno type="GND">https://d-nb.info/gnd/118977636</idno>
                </person>
                <person xml:id="emt_person_id__65">
                   <persName>Peter Philipp von Dernbach, Bischof von Bamberg</persName>
+                  <idno type="GND">https://d-nb.info/gnd/118524801</idno>
                </person>
                <person xml:id="emt_person_id__66">
                   <persName>Andreas Schellerer</persName>
                </person>
                <person xml:id="emt_person_id__67">
                   <persName>Hamilton, Jacob de</persName>
+                  <idno type="GND">https://d-nb.info/gnd/131504274</idno>
                </person>
                <person xml:id="emt_person_id__68">
                   <persName>Hackh, Herr</persName>
@@ -267,21 +310,27 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                </person>
                <person xml:id="emt_person_id__70">
                   <persName>Albrecht Sigismund von Bayern, Fürstbischof von Freising</persName>
+                  <idno type="GND">https://d-nb.info/gnd/10422424X</idno>
                </person>
                <person xml:id="emt_person_id__71">
                   <persName>Wilhelm Franz von Nesselrode-Ehreshoven</persName>
+                  <idno type="GND">https://d-nb.info/gnd/116941715</idno>
                </person>
                <person xml:id="emt_person_id__72">
                   <persName>Leopold Wilhelm von Königsegg-Rothenfels</persName>
+                  <idno type="GND">https://d-nb.info/gnd/115880917</idno>
                </person>
                <person xml:id="emt_person_id__73">
                   <persName>Bernhard Gustav von Baden-Durlach, Kardinal</persName>
+                  <idno type="GND">https://d-nb.info/gnd/11892883X</idno>
                </person>
                <person xml:id="emt_person_id__74">
                   <persName>Johann Paul Hocher</persName>
+                  <idno type="GND">https://d-nb.info/gnd/119265648</idno>
                </person>
                <person xml:id="emt_person_id__75">
                   <persName>Friedrich von Hessen-Darmstadt, Kardinal</persName>
+                  <idno type="GND">https://d-nb.info/gnd/104366869</idno>
                </person>
                <person xml:id="emt_person_id__76">
                   <persName>Egelhoff, Fräulein von</persName>
@@ -294,45 +343,58 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                </person>
                <person xml:id="emt_person_id__79">
                   <persName>Felix Egon von Fürstenberg-Heiligenberg</persName>
+                  <idno type="GND">https://d-nb.info/gnd/129971219</idno>
                </person>
                <person xml:id="emt_person_id__80">
                   <persName>Hermann von Baden-Baden</persName>
+                  <idno type="GND">https://d-nb.info/gnd/118981722</idno>
                </person>
                <person xml:id="emt_person_id__81">
                   <persName>Froben Ferdinand von Fürstenberg-Meßkirch</persName>
+                  <idno type="GND">https://d-nb.info/gnd/133809668</idno>
                </person>
                <person xml:id="emt_person_id__82">
                   <persName>Wolfgang Georg Friedrich von Pfalz-Neuburg</persName>
+                  <idno type="GND">https://d-nb.info/gnd/118046055</idno>
                </person>
                <person xml:id="emt_person_id__83">
                   <persName>Johann von Goess, Bischof von Gurk</persName>
+                  <idno type="GND">https://d-nb.info/gnd/123662427</idno>
                </person>
                <person xml:id="emt_person_id__84">
                   <persName>Anna Katharina von Rietberg, geb. Salm-Reifferscheidt</persName>
+                  <idno type="GND">http://d-nb.info/118905414</idno>
                </person>
                <person xml:id="emt_person_id__85">
                   <persName>Friedrich Wilhelm von Rietberg</persName>
+                  <idno type="GND">https://d-nb.info/gnd/173286305</idno>
                </person>
                <person xml:id="emt_person_id__86">
                   <persName>Franz Egon von Fürstenberg-Heiligenberg, Bischof von Straßburg</persName>
+                  <idno type="GND">http://d-nb.info/115773371</idno>
                </person>
                <person xml:id="emt_person_id__87">
                   <persName>Karl Ferdinand von Waldstein</persName>
+                  <idno type="GND">http://d-nb.info/136864406</idno>
                </person>
                <person xml:id="emt_person_id__88">
                   <persName>Christoph Bernhard von Galen, Bischof von Münster</persName>
+                  <idno type="GND">http://d-nb.info/118520709</idno>
                </person>
                <person xml:id="emt_person_id__89">
                   <persName>Karl II. von Spanien</persName>
+                  <idno type="GND">http://d-nb.info/118776797</idno>
                </person>
                <person xml:id="emt_person_id__90">
                   <persName>Ferdinand Max Egon von Fürstenberg-Heiligenberg</persName>
                </person>
                <person xml:id="emt_person_id__91">
                   <persName>Wilhelm Egon von Fürstenberg-Heiligenberg, Bischof von Straßburg</persName>
+                  <idno type="GND">http://d-nb.info/118771868</idno>
                </person>
                <person xml:id="emt_person_id__92">
                   <persName>Adolf Johann von Pfalz-Zweibrücken-Kleeburg</persName>
+                  <idno type="GND">http://d-nb.info/104206489</idno>
                </person>
                <person xml:id="emt_person_id__93">
                   <persName>Elsa Elisabeth von Pfalz-Zweibrücken-Kleeburg, geb. Brahe, verw. Oxenstierna</persName>
@@ -348,21 +410,26 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                </person>
                <person xml:id="emt_person_id__97">
                   <persName>Johann Georg von Kollonitsch</persName>
+                  <idno type="GND">http://d-nb.info/121822598X</idno>
                </person>
                <person xml:id="emt_person_id__98">
                   <persName>Leibarzt EMT 1677 (betreut sie in Schwangerschaft)</persName>
                </person>
                <person xml:id="emt_person_id__99">
                   <persName>Vincenzo Gonzaga</persName>
+                  <idno type="GND">http://d-nb.info/1166465764</idno>
                </person>
                <person xml:id="emt_person_id__100">
                   <persName>Damian Hartard von der Leyen, Kurfürst von Mainz</persName>
+                  <idno type="GND">http://d-nb.info/11564976X</idno>
                </person>
                <person xml:id="emt_person_id__101">
                   <persName>Johann Hugo von Orsbeck, Kurfürst von Trier</persName>
+                  <idno type="GND">http://d-nb.info/11871239X</idno>
                </person>
                <person xml:id="emt_person_id__102">
                   <persName>Hans Eitel Diede zum Fürstenstein</persName>
+                  <idno type="GND">http://d-nb.info/1013454316</idno>
                </person>
                <person xml:id="emt_person_id__103">
                   <persName>Spanischer Botschafter in Düsseldorf 1677</persName>
@@ -378,9 +445,11 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                </person>
                <person xml:id="emt_person_id__107">
                   <persName>Francesco Buonvisi, Nuntius</persName>
+                  <idno type="GND">http://d-nb.info/118948008</idno>
                </person>
                <person xml:id="emt_person_id__108">
                   <persName>Albert Eusebius von Königsegg-Rothenfels</persName>
+                  <idno type="GND">https://www.deutsche-biographie.de/sfz57371.html</idno>
                </person>
             </listPerson>
          </div>

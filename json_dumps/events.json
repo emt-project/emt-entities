@@ -24,13 +24,15 @@
                 "id": 9,
                 "order": "9.00000000000000000000",
                 "name": "Kaiserin Eleonora Magdalena, geb. Pfalz-Neuburg",
-                "GND": "https://d-nb.info/gnd/101026641",
-                "wikidata/ Treccani": "",
+                "gnd": "https://d-nb.info/gnd/101026641",
+                "other_url": "",
                 "emt_id": "emt_person_id__9",
                 "internal_comment": null,
                 "color": "#8f1f0b",
-                "Lebensdaten": "1655-1720",
-                "Deutsche Biografie": "https://www.deutsche-biographie.de/sfz56812.html"
+                "lebensdaten": "1655-1720",
+                "dnb": "https://www.deutsche-biographie.de/sfz56812.html",
+                "year_of_birth": "1655",
+                "year_of_death": "1720"
             }
         ],
         "description": null,
@@ -63,25 +65,29 @@
                 "id": 9,
                 "order": "9.00000000000000000000",
                 "name": "Kaiserin Eleonora Magdalena, geb. Pfalz-Neuburg",
-                "GND": "https://d-nb.info/gnd/101026641",
-                "wikidata/ Treccani": "",
+                "gnd": "https://d-nb.info/gnd/101026641",
+                "other_url": "",
                 "emt_id": "emt_person_id__9",
                 "internal_comment": null,
                 "color": "#8f1f0b",
-                "Lebensdaten": "1655-1720",
-                "Deutsche Biografie": "https://www.deutsche-biographie.de/sfz56812.html"
+                "lebensdaten": "1655-1720",
+                "dnb": "https://www.deutsche-biographie.de/sfz56812.html",
+                "year_of_birth": "1655",
+                "year_of_death": "1720"
             },
             {
                 "id": 35,
                 "order": "35.00000000000000000000",
                 "name": "Kaiser Leopold I.",
-                "GND": "https://d-nb.info/gnd/118571869",
-                "wikidata/ Treccani": "",
+                "gnd": "https://d-nb.info/gnd/118571869",
+                "other_url": "",
                 "emt_id": "emt_person_id__35",
                 "internal_comment": null,
                 "color": null,
-                "Lebensdaten": "1640-1705",
-                "Deutsche Biografie": "https://www.deutsche-biographie.de/sfz70500.html#indexcontent"
+                "lebensdaten": "1640-1705",
+                "dnb": "https://www.deutsche-biographie.de/sfz70500.html#indexcontent",
+                "year_of_birth": null,
+                "year_of_death": null
             }
         ],
         "description": null,
