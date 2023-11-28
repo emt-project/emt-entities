@@ -27,7 +27,7 @@ for x in files:
     template_name = f"list{ent_type}.xml"
     template = templateEnv.get_template(template_name)
     xml_name = os.path.join(out_dir, template_name)
-    xml_data = template.render(context)
+    xml_data = template.render(context).replace("&", "&amp;")
     doc = TeiReader(xml_data)
     for idno in doc.any_xpath(".//tei:body//tei:idno"):
         old_uri = idno.text

@@ -31,7 +31,7 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
          <publicationStmt>
             <publisher>Institut für die Erforschung der Habsburgermonarchie und des Balkanraumes</publisher>
             <pubPlace>Wien</pubPlace>
-            <date when="2022">2022</date>
+            <date when="2023">2023</date>
             <availability>
                <licence target="https://creativecommons.org/licenses/by/4.0">
                   <p>Sie dürfen: Teilen — das Material in jedwedem Format oder Medium vervielfältigen und weiterverbreiten</p>
@@ -64,9 +64,9 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
             {% for x in objects %}
                <person xml:id="{{ x.emt_id }}">
                   <persName>{{ x.name }}</persName>
-                  {% if x.birth_day is string %}
+                  {% if x.year_of_birth is string %}
                   <birth>
-                     <date when-iso="{{ x.birth_day }}">{{ x.birth_day }}</date>
+                     <date notBefore="{{ x.year_of_birth }}-01-01" notAfter="{{ x.year_of_birth }}-12-31">{{ x.year_of_birth }}</date>
                      {% if x.birth_place %}
                      {% for p in x.birth_place %}
                      <settlement key="emt_place_id_{{ p.id }}">
@@ -76,9 +76,9 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                      {% endif %}
                   </birth>
                   {% endif %}
-                  {% if x.death_day is string %}
+                  {% if x.year_of_death is string %}
                   <death>
-                     <date when-iso="{{ x.death_day }}">{{ x.death_day }}</date>
+                     <date notBefore="{{ x.year_of_death }}-01-01" notAfter="{{ x.year_of_death }}-12-31">{{ x.year_of_death }}</date>
                      {% if x.death_place %}
                      {% for p in x.death_place %}
                      <settlement key="emt_place_id_{{ p.id }}">
@@ -91,8 +91,11 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                   {% if x.gnd|length > 0 %}
                   <idno type="GND">{{ x.gnd }}</idno>
                   {% endif %}
-                  {% if x.wikidata|length > 0 %}
-                  <idno type="WIKIDATA">{{ x.wikidata }}</idno>
+                  {% if x.ndb|length > 0 %}
+                  <idno type="NDB">{{ x.ndb }}</idno>
+                  {% endif %}
+                  {% if x.other_url|length > 0 %}
+                  <idno type="URL">{{ x.other_url }}</idno>
                   {% endif %}
                </person>
             {% endfor %}
