@@ -257,6 +257,12 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                </person>
                <person xml:id="emt_person_id__21">
                   <persName>Johann Gottfried von Redinghoven</persName>
+                  <birth>
+                     <date notBefore="1628-01-01" notAfter="1628-12-31">1628</date>
+                  </birth>
+                  <death>
+                     <date notBefore="1704-01-01" notAfter="1704-12-31">1704</date>
+                  </death>
                   <idno type="GND">https://d-nb.info/gnd/132640562</idno>
                   <idno type="NDB">https://www.deutsche-biographie.de/sfz75822.html#indexcontent</idno>
                </person>
@@ -265,54 +271,118 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                </person>
                <person xml:id="emt_person_id__23">
                   <persName>John James Hamilton</persName>
-                  <idno type="URL">http://www.wikidata.org/entity/Q16006181</idno>
+                  <birth>
+                     <date notBefore="1642-01-01" notAfter="1642-12-31">1642</date>
+                  </birth>
+                  <death>
+                     <date notBefore="1717-01-01" notAfter="1717-12-31">1717</date>
+                  </death>
                </person>
                <person xml:id="emt_person_id__24">
                   <persName>Joseph Clemens von Bayern, Kurfürst von Köln</persName>
+                  <birth>
+                     <date notBefore="1671-01-01" notAfter="1671-12-31">1671</date>
+                  </birth>
+                  <death>
+                     <date notBefore="1723-01-01" notAfter="1723-12-31">1723</date>
+                  </death>
                   <idno type="GND">https://d-nb.info/gnd/11909990X</idno>
                   <idno type="NDB">https://www.deutsche-biographie.de/sfz57278.html#indexcontent</idno>
                </person>
                <person xml:id="emt_person_id__25">
                   <persName>Kaiser Joseph I.</persName>
+                  <birth>
+                     <date notBefore="1678-01-01" notAfter="1678-12-31">1678</date>
+                  </birth>
+                  <death>
+                     <date notBefore="1711-01-01" notAfter="1711-12-31">1711</date>
+                  </death>
                   <idno type="GND">https://d-nb.info/gnd/118558390</idno>
                   <idno type="NDB">https://www.deutsche-biographie.de/sfz57275.html#indexcontent</idno>
                </person>
                <person xml:id="emt_person_id__26">
                   <persName>Alderano Cibo-Malaspina, Kardinal</persName>
+                  <birth>
+                     <date notBefore="1613-01-01" notAfter="1613-12-31">1613</date>
+                  </birth>
+                  <death>
+                     <date notBefore="1711-01-01" notAfter="1711-12-31">1711</date>
+                  </death>
                   <idno type="GND">https://d-nb.info/gnd/100008143</idno>
                   <idno type="URL">https://www.treccani.it/enciclopedia/ricerca/Alderano%20Cibo/?search=Alderano%20Cibo</idno>
                </person>
                <person xml:id="emt_person_id__27">
                   <persName>Christian August von Sachsen-Zeitz, Kardinal</persName>
+                  <birth>
+                     <date notBefore="1666-01-01" notAfter="1666-12-31">1666</date>
+                  </birth>
+                  <death>
+                     <date notBefore="1725-01-01" notAfter="1725-12-31">1725</date>
+                  </death>
                   <idno type="GND">https://d-nb.info/gnd/104174552</idno>
                   <idno type="NDB">https://www.deutsche-biographie.de/sfz68237.html#indexcontent</idno>
                </person>
                <person xml:id="emt_person_id__28">
                   <persName>Vincenzo Grimani, Kardinal</persName>
+                  <birth>
+                     <date notBefore="1655-01-01" notAfter="1655-12-31">1655</date>
+                  </birth>
+                  <death>
+                     <date notBefore="1710-01-01" notAfter="1710-12-31">1710</date>
+                  </death>
                   <idno type="GND">https://d-nb.info/gnd/126443688</idno>
                   <idno type="URL">https://www.treccani.it/enciclopedia/vincenzo-grimani_(Dizionario-Biografico)/?search=GRIMANI%2C%20Vincenzo</idno>
                </person>
                <person xml:id="emt_person_id__29">
                   <persName>Karl Philipp von Pfalz-Neuburg</persName>
+                  <birth>
+                     <date notBefore="1661-01-01" notAfter="1661-12-31">1661</date>
+                  </birth>
+                  <death>
+                     <date notBefore="1742-01-01" notAfter="1742-12-31">1742</date>
+                  </death>
                   <idno type="GND">https://d-nb.info/gnd/118720953</idno>
                   <idno type="NDB">https://www.deutsche-biographie.de/sfz57322.html#indexcontent</idno>
                </person>
                <person xml:id="emt_person_id__30">
                   <persName>Karl Theodor Otto zu Salm</persName>
+                  <birth>
+                     <date notBefore="1645-01-01" notAfter="1645-12-31">1645</date>
+                  </birth>
+                  <death>
+                     <date notBefore="1710-01-01" notAfter="1710-12-31">1710</date>
+                  </death>
                   <idno type="GND">https://d-nb.info/gnd/104302100</idno>
                   <idno type="NDB">https://www.deutsche-biographie.de/sfz109741.html#indexcontent</idno>
                </person>
                <person xml:id="emt_person_id__31">
                   <persName>Kaiser Karl VI.</persName>
+                  <birth>
+                     <date notBefore="1685-01-01" notAfter="1685-12-31">1685</date>
+                  </birth>
+                  <death>
+                     <date notBefore="1740-01-01" notAfter="1740-12-31">1740</date>
+                  </death>
                   <idno type="GND">https://d-nb.info/gnd/118560107</idno>
                   <idno type="NDB">https://www.deutsche-biographie.de/sfz57293.html#indexcontent</idno>
                </person>
                <person xml:id="emt_person_id__32">
                   <persName>Karl von Hessen-Wanfried</persName>
-                  <idno type="URL">http://www.wikidata.org/entity/Q870668</idno>
+                  <birth>
+                     <date notBefore="1649-01-01" notAfter="1649-12-31">1649</date>
+                  </birth>
+                  <death>
+                     <date notBefore="1711-01-01" notAfter="1711-12-31">1711</date>
+                  </death>
                </person>
                <person xml:id="emt_person_id__33">
                   <persName>Karl V. von Lothringen</persName>
+                  <birth>
+                     <date notBefore="1643-01-01" notAfter="1643-12-31">1643</date>
+                  </birth>
+                  <death>
+                     <date notBefore="1690-01-01" notAfter="1690-12-31">1690</date>
+                  </death>
                   <idno type="GND">https://d-nb.info/gnd/118720902</idno>
                   <idno type="NDB">https://www.deutsche-biographie.de/sfz70324.html#indexcontent</idno>
                </person>
@@ -321,38 +391,72 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                </person>
                <person xml:id="emt_person_id__35">
                   <persName>Kaiser Leopold I.</persName>
+                  <birth>
+                     <date notBefore="1640-01-01" notAfter="1640-12-31">1640</date>
+                  </birth>
+                  <death>
+                     <date notBefore="1705-01-01" notAfter="1705-12-31">1705</date>
+                  </death>
                   <idno type="GND">https://d-nb.info/gnd/118571869</idno>
                   <idno type="NDB">https://www.deutsche-biographie.de/sfz70500.html#indexcontent</idno>
                </person>
                <person xml:id="emt_person_id__36">
                   <persName>Ludwig Wilhelm von Baden-Baden</persName>
+                  <birth>
+                     <date notBefore="1655-01-01" notAfter="1655-12-31">1655</date>
+                  </birth>
+                  <death>
+                     <date notBefore="1707-01-01" notAfter="1707-12-31">1707</date>
+                  </death>
                   <idno type="GND">https://d-nb.info/gnd/118729500</idno>
                   <idno type="NDB">https://www.deutsche-biographie.de/sfz54702.html#indexcontent</idno>
                </person>
                <person xml:id="emt_person_id__37">
                   <persName>Maria Anna von Spanien, geb. Österreich</persName>
+                  <birth>
+                     <date notBefore="1634-01-01" notAfter="1634-12-31">1634</date>
+                  </birth>
+                  <death>
+                     <date notBefore="1696-01-01" notAfter="1696-12-31">1696</date>
+                  </death>
                   <idno type="GND">https://d-nb.info/gnd/118781863</idno>
                   <idno type="NDB">https://www.deutsche-biographie.de/sfz70634.html#indexcontent</idno>
                </person>
                <person xml:id="emt_person_id__38">
                   <persName>Maria Anna von Spanien, geb. Pfalz-Neuburg</persName>
+                  <birth>
+                     <date notBefore="1667-01-01" notAfter="1667-12-31">1667</date>
+                  </birth>
+                  <death>
+                     <date notBefore="1740-01-01" notAfter="1740-12-31">1740</date>
+                  </death>
                   <idno type="GND">https://d-nb.info/gnd/123154405</idno>
                   <idno type="NDB">https://www.deutsche-biographie.de/sfz58377.html#indexcontent</idno>
                </person>
                <person xml:id="emt_person_id__39">
                   <persName>Carlo Pio di Savoia, Kardinal</persName>
+                  <birth>
+                     <date notBefore="1622-01-01" notAfter="1622-12-31">1622</date>
+                  </birth>
+                  <death>
+                     <date notBefore="1622-01-01" notAfter="1622-12-31">1622</date>
+                  </death>
                   <idno type="URL">https://www.treccani.it/enciclopedia/pio-di-savoia-carlo/?search=Pio%20di%20Savoia%2C%20Carlo</idno>
                </person>
                <person xml:id="emt_person_id__40">
                   <persName>Maria Elisabeth von Polheim, geb. Windischgrätz</persName>
-                  <idno type="URL">http://www.wikidata.org/entity/Q1420310</idno>
                </person>
                <person xml:id="emt_person_id__41">
                   <persName>Maria Magdalena von Heister, geborene Hermbsinn von Perndorff</persName>
-                  <idno type="URL">http://www.wikidata.org/entity/Q27968966</idno>
                </person>
                <person xml:id="emt_person_id__42">
                   <persName>Maria Sophie von Portugal, geb. Pfalz-Neuburg</persName>
+                  <birth>
+                     <date notBefore="1666-01-01" notAfter="1666-12-31">1666</date>
+                  </birth>
+                  <death>
+                     <date notBefore="1699-01-01" notAfter="1699-12-31">1699</date>
+                  </death>
                   <idno type="GND">https://d-nb.info/gnd/189551283</idno>
                   <idno type="NDB">https://www.deutsche-biographie.de/sfz58351.html#indexcontent</idno>
                </person>
@@ -364,16 +468,34 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                </person>
                <person xml:id="emt_person_id__45">
                   <persName>Maximilian Heinrich von Bayern, Kurfürst von Köln</persName>
+                  <birth>
+                     <date notBefore="1621-01-01" notAfter="1621-12-31">1621</date>
+                  </birth>
+                  <death>
+                     <date notBefore="1688-01-01" notAfter="1688-12-31">1688</date>
+                  </death>
                   <idno type="GND">https://d-nb.info/gnd/10030673X</idno>
                   <idno type="NDB">https://www.deutsche-biographie.de/sfz59377.html#indexcontent</idno>
                </person>
                <person xml:id="emt_person_id__46">
                   <persName>Maximilian von Degenfeld</persName>
+                  <birth>
+                     <date notBefore="1645-01-01" notAfter="1645-12-31">1645</date>
+                  </birth>
+                  <death>
+                     <date notBefore="1697-01-01" notAfter="1697-12-31">1697</date>
+                  </death>
                   <idno type="GND">https://d-nb.info/gnd/120710102</idno>
                   <idno type="NDB">https://www.deutsche-biographie.de/sfz9509.html#indexcontent</idno>
                </person>
                <person xml:id="emt_person_id__47">
                   <persName>Moritz Heinrich von Nassau-Hadamar</persName>
+                  <birth>
+                     <date notBefore="1626-01-01" notAfter="1626-12-31">1626</date>
+                  </birth>
+                  <death>
+                     <date notBefore="1676-01-01" notAfter="1676-12-31">1676</date>
+                  </death>
                   <idno type="GND">https://d-nb.info/gnd/121164721</idno>
                   <idno type="NDB">https://www.deutsche-biographie.de/sfz65507.html#indexcontent</idno>
                </person>
@@ -382,6 +504,12 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                </person>
                <person xml:id="emt_person_id__49">
                   <persName>Otto Ferdinand von Hohenfeld</persName>
+                  <birth>
+                     <date notBefore="1648-01-01" notAfter="1648-12-31">1648</date>
+                  </birth>
+                  <death>
+                     <date notBefore="1713-01-01" notAfter="1713-12-31">1713</date>
+                  </death>
                   <idno type="GND">https://d-nb.info/gnd/123697056X</idno>
                   <idno type="NDB">https://www.deutsche-biographie.de/pnd1045066613.html#indexcontent</idno>
                </person>
@@ -392,6 +520,12 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                </person>
                <person xml:id="emt_person_id__51">
                   <persName>Clemens XI. (Albani), Papst</persName>
+                  <birth>
+                     <date notBefore="1649-01-01" notAfter="1649-12-31">1649</date>
+                  </birth>
+                  <death>
+                     <date notBefore="1721-01-01" notAfter="1721-12-31">1721</date>
+                  </death>
                   <idno type="GND">https://d-nb.info/gnd/119139162</idno>
                   <idno type="NDB">https://www.deutsche-biographie.de/sfz125772.html#indexcontent</idno>
                </person>
@@ -423,7 +557,6 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                   <death>
                      <date notBefore="1689-01-01" notAfter="1689-12-31">1689</date>
                   </death>
-                  <idno type="URL">http://www.wikidata.org/entity/Q88477</idno>
                </person>
                <person xml:id="emt_person_id__59">
                   <persName>Joseph Tanner SJ</persName>
@@ -643,8 +776,8 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                </person>
                <person xml:id="emt_person_id__108">
                   <persName>Albert Eusebius von Königsegg-Rothenfels</persName>
-                  <idno type="GND">https://www.deutsche-biographie.de/sfz57371.html</idno>
-                  <idno type="NDB">http://d-nb.info/116293934</idno>
+                  <idno type="GND">http://d-nb.info/116293934</idno>
+                  <idno type="NDB">https://www.deutsche-biographie.de/sfz57371.html</idno>
                </person>
             </listPerson>
          </div>

@@ -32,7 +32,8 @@
                 "lebensdaten": "1655-1720",
                 "ndb": "https://www.deutsche-biographie.de/sfz56812.html",
                 "year_of_birth": "1655",
-                "year_of_death": "1720"
+                "year_of_death": "1720",
+                "wikidata_url": ""
             }
         ],
         "description": null,
@@ -73,7 +74,8 @@
                 "lebensdaten": "1655-1720",
                 "ndb": "https://www.deutsche-biographie.de/sfz56812.html",
                 "year_of_birth": "1655",
-                "year_of_death": "1720"
+                "year_of_death": "1720",
+                "wikidata_url": ""
             },
             {
                 "id": 35,
@@ -86,8 +88,9 @@
                 "color": null,
                 "lebensdaten": "1640-1705",
                 "ndb": "https://www.deutsche-biographie.de/sfz70500.html#indexcontent",
-                "year_of_birth": null,
-                "year_of_death": null
+                "year_of_birth": "1640",
+                "year_of_death": "1705",
+                "wikidata_url": ""
             }
         ],
         "description": null,
