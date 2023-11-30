@@ -64,12 +64,20 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                <event xml:id="emt_event_id__1" notBefore="1655-01-06" notAfter="1655-01-06">
                   <desc>
                      <eventName>
-                        Geburt von Eleonore Magdalene von Pfalz-Neuburg
+                        Geburt von Eleonora Magdalena von Pfalz-Neuburg
                      </eventName>                  </desc>
                  <listPerson type="related_persons">
                      <person>
                         <persName>Kaiserin Eleonora Magdalena, geb. Pfalz-Neuburg</persName>
                         <idno type="EMT">emt_person_id__9</idno>
+                     </person>
+                     <person>
+                        <persName>Elisabeth Amalie von Pfalz-Neuburg, geb. Hessen-Darmstadt</persName>
+                        <idno type="EMT">emt_person_id__10</idno>
+                     </person>
+                     <person>
+                        <persName>Philipp Wilhelm von Pfalz-Neuburg, Kurfürst von der Pfalz</persName>
+                        <idno type="EMT">emt_person_id__50</idno>
                      </person>
                  </listPerson>
                  <listPlace type="took_place">
@@ -86,7 +94,7 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                <event xml:id="emt_event_id__2" notBefore="1676-12-14" notAfter="1676-12-14">
                   <desc>
                      <eventName>
-                        Hochzeit Eleonore Magdalene mit Kaiser Leopol I.
+                        Hochzeit Eleonora Magdalena von Pfalz-Neuburg mit Kaiser Leopol I.
                         <figure>
                            <figDesc>Eleonore heiratet Kaiser Leopold I., historisierendes Gemälde aus dem Jahr 1890 im Rathaussaal Passau.</figDesc>
                            <figDesc>Ferdinand Wagner, Public domain, via Wikimedia Commons</figDesc>
@@ -113,6 +121,624 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                         <idno type="EMT">emt_place_id__44</idno>
                      </place>
                  </listPlace>
+               </event>
+               <event xml:id="emt_event_id__3" notBefore="1720-01-19" notAfter="1720-01-19">
+                  <desc>
+                     <eventName>
+                        Tod von Eleonora Magdalena
+                     </eventName>                  </desc>
+                 <listPlace type="took_place">
+                     <place>
+                        <placeName>Wien</placeName>
+                        <location type="coords">
+                           <geo>48.20849 16.372080</geo>
+                        </location>
+                        <idno type="GEONAMES">https://sws.geonames.org/2761369/</idno>
+                        <idno type="EMT">emt_place_id__63</idno>
+                     </place>
+                 </listPlace>
+               </event>
+               <event xml:id="emt_event_id__4" notBefore="1705-05-05" notAfter="1705-05-05">
+                  <desc>
+                     <eventName>
+                        Tod Kaiser Leopolds I.
+                     </eventName>                  </desc>
+                 <listPerson type="related_persons">
+                     <person>
+                        <persName>Kaiserin Eleonora Magdalena, geb. Pfalz-Neuburg</persName>
+                        <idno type="EMT">emt_person_id__9</idno>
+                     </person>
+                     <person>
+                        <persName>Kaiser Joseph I.</persName>
+                        <idno type="EMT">emt_person_id__25</idno>
+                     </person>
+                 </listPerson>
+                 <listPlace type="took_place">
+                     <place>
+                        <placeName>Wien</placeName>
+                        <location type="coords">
+                           <geo>48.20849 16.372080</geo>
+                        </location>
+                        <idno type="GEONAMES">https://sws.geonames.org/2761369/</idno>
+                        <idno type="EMT">emt_place_id__63</idno>
+                     </place>
+                 </listPlace>
+               </event>
+               <event xml:id="emt_event_id__5" notBefore="1678-07-26" notAfter="1678-07-28">
+                  <desc>
+                     <eventName>
+                        Geburt Erzherzog Josephs
+                     </eventName>                  </desc>
+                 <listPerson type="related_persons">
+                     <person>
+                        <persName>Kaiserin Eleonora Magdalena, geb. Pfalz-Neuburg</persName>
+                        <idno type="EMT">emt_person_id__9</idno>
+                     </person>
+                     <person>
+                        <persName>Kaiser Leopold I.</persName>
+                        <idno type="EMT">emt_person_id__35</idno>
+                     </person>
+                 </listPerson>
+                 <listPlace type="took_place">
+                     <place>
+                        <placeName>Wien</placeName>
+                        <location type="coords">
+                           <geo>48.20849 16.372080</geo>
+                        </location>
+                        <idno type="GEONAMES">https://sws.geonames.org/2761369/</idno>
+                        <idno type="EMT">emt_place_id__63</idno>
+                     </place>
+                 </listPlace>
+               </event>
+               <event xml:id="emt_event_id__6" notBefore="1699-02-24" notAfter="1699-02-24">
+                  <desc>
+                     <eventName>
+                        Hochzeit König Josephs mit Amalie Wilhelmine von Braunschweig-Lüneburg
+                     </eventName>                  </desc>
+                 <listPerson type="related_persons">
+                     <person>
+                        <persName>Kaiserin Eleonora Magdalena, geb. Pfalz-Neuburg</persName>
+                        <idno type="EMT">emt_person_id__9</idno>
+                     </person>
+                     <person>
+                        <persName>Kaiser Joseph I.</persName>
+                        <idno type="EMT">emt_person_id__25</idno>
+                     </person>
+                     <person>
+                        <persName>Kaiser Leopold I.</persName>
+                        <idno type="EMT">emt_person_id__35</idno>
+                     </person>
+                     <person>
+                        <persName>Amalie Wilhelmine von Braunschweig-Lüneburg</persName>
+                        <idno type="EMT">emt_person_id__109</idno>
+                     </person>
+                 </listPerson>
+                 <listPlace type="took_place">
+                     <place>
+                        <placeName>Wien</placeName>
+                        <location type="coords">
+                           <geo>48.20849 16.372080</geo>
+                        </location>
+                        <idno type="GEONAMES">https://sws.geonames.org/2761369/</idno>
+                        <idno type="EMT">emt_place_id__63</idno>
+                     </place>
+                 </listPlace>
+               </event>
+               <event xml:id="emt_event_id__7" notBefore="1711-04-17" notAfter="1711-04-17">
+                  <desc>
+                     <eventName>
+                        Tod Kaiser Josephs I.
+                     </eventName>                  </desc>
+                 <listPerson type="related_persons">
+                     <person>
+                        <persName>Kaiserin Eleonora Magdalena, geb. Pfalz-Neuburg</persName>
+                        <idno type="EMT">emt_person_id__9</idno>
+                     </person>
+                     <person>
+                        <persName>Kaiser Joseph I.</persName>
+                        <idno type="EMT">emt_person_id__25</idno>
+                     </person>
+                     <person>
+                        <persName>Amalie Wilhelmine von Braunschweig-Lüneburg</persName>
+                        <idno type="EMT">emt_person_id__109</idno>
+                     </person>
+                 </listPerson>
+                 <listPlace type="took_place">
+                     <place>
+                        <placeName>Wien</placeName>
+                        <location type="coords">
+                           <geo>48.20849 16.372080</geo>
+                        </location>
+                        <idno type="GEONAMES">https://sws.geonames.org/2761369/</idno>
+                        <idno type="EMT">emt_place_id__63</idno>
+                     </place>
+                 </listPlace>
+               </event>
+               <event xml:id="emt_event_id__8" notBefore="1685-10-01" notAfter="1685-10-01">
+                  <desc>
+                     <eventName>
+                        Geburt Erzherzog Karls
+                     </eventName>                  </desc>
+                 <listPerson type="related_persons">
+                     <person>
+                        <persName>Kaiserin Eleonora Magdalena, geb. Pfalz-Neuburg</persName>
+                        <idno type="EMT">emt_person_id__9</idno>
+                     </person>
+                     <person>
+                        <persName>Kaiser Leopold I.</persName>
+                        <idno type="EMT">emt_person_id__35</idno>
+                     </person>
+                 </listPerson>
+                 <listPlace type="took_place">
+                     <place>
+                        <placeName>Wien</placeName>
+                        <location type="coords">
+                           <geo>48.20849 16.372080</geo>
+                        </location>
+                        <idno type="GEONAMES">https://sws.geonames.org/2761369/</idno>
+                        <idno type="EMT">emt_place_id__63</idno>
+                     </place>
+                 </listPlace>
+               </event>
+               <event xml:id="emt_event_id__9" notBefore="1708-04-23" notAfter="1708-04-23">
+                  <desc>
+                     <eventName>
+                        Hochzeit König Karls (III.) von Spanien
+                     </eventName>                  </desc>
+                 <listPerson type="related_persons">
+                     <person>
+                        <persName>Kaiserin Eleonora Magdalena, geb. Pfalz-Neuburg</persName>
+                        <idno type="EMT">emt_person_id__9</idno>
+                     </person>
+                     <person>
+                        <persName>Kaiser Joseph I.</persName>
+                        <idno type="EMT">emt_person_id__25</idno>
+                     </person>
+                     <person>
+                        <persName>Kaiser Karl VI.</persName>
+                        <idno type="EMT">emt_person_id__31</idno>
+                     </person>
+                     <person>
+                        <persName>Elisabeth Christine von Braunschweig-Wolfenbüttel</persName>
+                        <idno type="EMT">emt_person_id__110</idno>
+                     </person>
+                 </listPerson>
+                 <listPlace type="took_place">
+                     <place>
+                        <placeName>Wien</placeName>
+                        <location type="coords">
+                           <geo>48.20849 16.372080</geo>
+                        </location>
+                        <idno type="GEONAMES">https://sws.geonames.org/2761369/</idno>
+                        <idno type="EMT">emt_place_id__63</idno>
+                     </place>
+                 </listPlace>
+               </event>
+               <event xml:id="emt_event_id__10" notBefore="1681-12-09" notAfter="1681-12-09">
+                  <desc>
+                     <eventName>
+                        Krönung Eleonora Magdalenas als Königin in Ungarn
+                     </eventName>                  </desc>
+                 <listPerson type="related_persons">
+                     <person>
+                        <persName>Kaiserin Eleonora Magdalena, geb. Pfalz-Neuburg</persName>
+                        <idno type="EMT">emt_person_id__9</idno>
+                     </person>
+                     <person>
+                        <persName>Kaiser Leopold I.</persName>
+                        <idno type="EMT">emt_person_id__35</idno>
+                     </person>
+                 </listPerson>
+                 <listPlace type="took_place">
+                     <place>
+                        <placeName>Ödenburg / Sopron</placeName>
+                        <location type="coords">
+                           <geo>47.68501 16.590490</geo>
+                        </location>
+                        <idno type="GEONAMES">https://sws.geonames.org/3045190/</idno>
+                        <idno type="EMT">emt_place_id__72</idno>
+                     </place>
+                 </listPlace>
+               </event>
+               <event xml:id="emt_event_id__11" notBefore="1690-01-19" notAfter="1690-01-19">
+                  <desc>
+                     <eventName>
+                        Krönung Eleonora Magdalenas als Kaiserin
+                     </eventName>                  </desc>
+                 <listPerson type="related_persons">
+                     <person>
+                        <persName>Kaiserin Eleonora Magdalena, geb. Pfalz-Neuburg</persName>
+                        <idno type="EMT">emt_person_id__9</idno>
+                     </person>
+                     <person>
+                        <persName>Kaiser Leopold I.</persName>
+                        <idno type="EMT">emt_person_id__35</idno>
+                     </person>
+                 </listPerson>
+                 <listPlace type="took_place">
+                     <place>
+                        <placeName>Augsburg</placeName>
+                        <location type="coords">
+                           <geo>48.36733 10.892130</geo>
+                        </location>
+                        <idno type="GEONAMES">https://sws.geonames.org/6557107/</idno>
+                        <idno type="EMT">emt_place_id__5</idno>
+                     </place>
+                 </listPlace>
+               </event>
+               <event xml:id="emt_event_id__12" notBefore="1687-12-09" notAfter="1687-12-09">
+                  <desc>
+                     <eventName>
+                        Krönung Josephs I. in Ungarn
+                     </eventName>                  </desc>
+                 <listPerson type="related_persons">
+                     <person>
+                        <persName>Kaiserin Eleonora Magdalena, geb. Pfalz-Neuburg</persName>
+                        <idno type="EMT">emt_person_id__9</idno>
+                     </person>
+                     <person>
+                        <persName>Kaiser Joseph I.</persName>
+                        <idno type="EMT">emt_person_id__25</idno>
+                     </person>
+                     <person>
+                        <persName>Kaiser Leopold I.</persName>
+                        <idno type="EMT">emt_person_id__35</idno>
+                     </person>
+                 </listPerson>
+                 <listPlace type="took_place">
+                     <place>
+                        <placeName>Preßburg</placeName>
+                        <location type="coords">
+                           <geo>48.14816 17.106740</geo>
+                        </location>
+                        <idno type="GEONAMES">https://sws.geonames.org/3060972/</idno>
+                        <idno type="EMT">emt_place_id__48</idno>
+                     </place>
+                 </listPlace>
+               </event>
+               <event xml:id="emt_event_id__13" notBefore="1690-01-24" notAfter="1690-01-24">
+                  <desc>
+                     <eventName>
+                        Krönung Josephs I. als König im Heiligen Römischen Reich
+                     </eventName>                  </desc>
+                 <listPerson type="related_persons">
+                     <person>
+                        <persName>Kaiserin Eleonora Magdalena, geb. Pfalz-Neuburg</persName>
+                        <idno type="EMT">emt_person_id__9</idno>
+                     </person>
+                     <person>
+                        <persName>Kaiser Joseph I.</persName>
+                        <idno type="EMT">emt_person_id__25</idno>
+                     </person>
+                     <person>
+                        <persName>Kaiser Leopold I.</persName>
+                        <idno type="EMT">emt_person_id__35</idno>
+                     </person>
+                 </listPerson>
+                 <listPlace type="took_place">
+                     <place>
+                        <placeName>Augsburg</placeName>
+                        <location type="coords">
+                           <geo>48.36733 10.892130</geo>
+                        </location>
+                        <idno type="GEONAMES">https://sws.geonames.org/6557107/</idno>
+                        <idno type="EMT">emt_place_id__5</idno>
+                     </place>
+                 </listPlace>
+               </event>
+               <event xml:id="emt_event_id__14" notBefore="1711-12-22" notAfter="1711-12-22">
+                  <desc>
+                     <eventName>
+                        Krönung Kaiser Karls VI.
+                     </eventName>                  </desc>
+                 <listPerson type="related_persons">
+                     <person>
+                        <persName>Kaiser Karl VI.</persName>
+                        <idno type="EMT">emt_person_id__31</idno>
+                     </person>
+                 </listPerson>
+                 <listPlace type="took_place">
+                     <place>
+                        <placeName>Frankfurt</placeName>
+                        <location type="coords">
+                           <geo>50.11552 8.684170</geo>
+                        </location>
+                        <idno type="GEONAMES">https://sws.geonames.org/2925533/</idno>
+                        <idno type="EMT">emt_place_id__20</idno>
+                     </place>
+                 </listPlace>
+               </event>
+               <event xml:id="emt_event_id__15" notBefore="1712-05-22" notAfter="1712-05-22">
+                  <desc>
+                     <eventName>
+                        Krönung Kaiser Karls VI. als König in Ungarn
+                     </eventName>                  </desc>
+                 <listPerson type="related_persons">
+                     <person>
+                        <persName>Kaiser Karl VI.</persName>
+                        <idno type="EMT">emt_person_id__31</idno>
+                     </person>
+                 </listPerson>
+                 <listPlace type="took_place">
+                     <place>
+                        <placeName>Preßburg</placeName>
+                        <location type="coords">
+                           <geo>48.14816 17.106740</geo>
+                        </location>
+                        <idno type="GEONAMES">https://sws.geonames.org/3060972/</idno>
+                        <idno type="EMT">emt_place_id__48</idno>
+                     </place>
+                 </listPlace>
+               </event>
+               <event xml:id="emt_event_id__16" notBefore="1714-09-18" notAfter="1714-09-18">
+                  <desc>
+                     <eventName>
+                        Krönung Kaiserin Elisabeth Christines als Königin von Ungarn
+                     </eventName>                  </desc>
+                 <listPerson type="related_persons">
+                     <person>
+                        <persName>Kaiser Karl VI.</persName>
+                        <idno type="EMT">emt_person_id__31</idno>
+                     </person>
+                     <person>
+                        <persName>Elisabeth Christine von Braunschweig-Wolfenbüttel</persName>
+                        <idno type="EMT">emt_person_id__110</idno>
+                     </person>
+                 </listPerson>
+                 <listPlace type="took_place">
+                     <place>
+                        <placeName>Preßburg</placeName>
+                        <location type="coords">
+                           <geo>48.14816 17.106740</geo>
+                        </location>
+                        <idno type="GEONAMES">https://sws.geonames.org/3060972/</idno>
+                        <idno type="EMT">emt_place_id__48</idno>
+                     </place>
+                 </listPlace>
+               </event>
+               <event xml:id="emt_event_id__17" notBefore="1679-06-18" notAfter="1679-06-18">
+                  <desc>
+                     <eventName>
+                        Geburt und Tod von Erzherzogin Maria Christina Josepha
+                     </eventName>                  </desc>
+                 <listPerson type="related_persons">
+                     <person>
+                        <persName>Kaiserin Eleonora Magdalena, geb. Pfalz-Neuburg</persName>
+                        <idno type="EMT">emt_person_id__9</idno>
+                     </person>
+                 </listPerson>
+               </event>
+               <event xml:id="emt_event_id__18" notBefore="1680-12-13" notAfter="1680-12-13">
+                  <desc>
+                     <eventName>
+                        Geburt von Erzherzogin Maria Elisabeth
+                     </eventName>                  </desc>
+                 <listPerson type="related_persons">
+                     <person>
+                        <persName>Kaiserin Eleonora Magdalena, geb. Pfalz-Neuburg</persName>
+                        <idno type="EMT">emt_person_id__9</idno>
+                     </person>
+                 </listPerson>
+                 <listPlace type="took_place">
+                     <place>
+                        <placeName>Linz</placeName>
+                        <location type="coords">
+                           <geo>48.30639 14.286110</geo>
+                        </location>
+                        <idno type="GEONAMES">https://sws.geonames.org/2772400/</idno>
+                        <idno type="EMT">emt_place_id__32</idno>
+                     </place>
+                 </listPlace>
+               </event>
+               <event xml:id="emt_event_id__19" notBefore="1682-06-02" notAfter="1682-06-02">
+                  <desc>
+                     <eventName>
+                        Geburt von Erzherzog Leopold Joseph
+                     </eventName>                  </desc>
+                 <listPerson type="related_persons">
+                     <person>
+                        <persName>Kaiserin Eleonora Magdalena, geb. Pfalz-Neuburg</persName>
+                        <idno type="EMT">emt_person_id__9</idno>
+                     </person>
+                     <person>
+                        <persName>Leopold Joseph, Erzherzog</persName>
+                        <idno type="EMT">emt_person_id__112</idno>
+                     </person>
+                 </listPerson>
+               </event>
+               <event xml:id="emt_event_id__20" notBefore="1684-08-02" notAfter="1684-08-02">
+                  <desc>
+                     <eventName>
+                        Tod von Erzherzog Leopold Joseph
+                     </eventName>                  </desc>
+                 <listPerson type="related_persons">
+                     <person>
+                        <persName>Leopold Joseph, Erzherzog</persName>
+                        <idno type="EMT">emt_person_id__112</idno>
+                     </person>
+                 </listPerson>
+                 <listPlace type="took_place">
+                     <place>
+                        <placeName>Linz</placeName>
+                        <location type="coords">
+                           <geo>48.30639 14.286110</geo>
+                        </location>
+                        <idno type="GEONAMES">https://sws.geonames.org/2772400/</idno>
+                        <idno type="EMT">emt_place_id__32</idno>
+                     </place>
+                 </listPlace>
+               </event>
+               <event xml:id="emt_event_id__21" notBefore="1683-09-07" notAfter="1683-09-07">
+                  <desc>
+                     <eventName>
+                        Geburt von Erzherzogin Maria Anna
+                     </eventName>                  </desc>
+                 <listPerson type="related_persons">
+                     <person>
+                        <persName>Kaiserin Eleonora Magdalena, geb. Pfalz-Neuburg</persName>
+                        <idno type="EMT">emt_person_id__9</idno>
+                     </person>
+                     <person>
+                        <persName>Maria Anna Josepha, Erzherzogin</persName>
+                        <idno type="EMT">emt_person_id__113</idno>
+                     </person>
+                 </listPerson>
+                 <listPlace type="took_place">
+                     <place>
+                        <placeName>Linz</placeName>
+                        <location type="coords">
+                           <geo>48.30639 14.286110</geo>
+                        </location>
+                        <idno type="GEONAMES">https://sws.geonames.org/2772400/</idno>
+                        <idno type="EMT">emt_place_id__32</idno>
+                     </place>
+                 </listPlace>
+               </event>
+               <event xml:id="emt_event_id__22" notBefore="1708-07-09" notAfter="1708-07-09">
+                  <desc>
+                     <eventName>
+                        Hochzeit von Erzherzogin Maria Anna mit König Johann V. von Portugal
+                     </eventName>                  </desc>
+                 <listPerson type="related_persons">
+                     <person>
+                        <persName>Kaiserin Eleonora Magdalena, geb. Pfalz-Neuburg</persName>
+                        <idno type="EMT">emt_person_id__9</idno>
+                     </person>
+                     <person>
+                        <persName>Maria Anna Josepha, Erzherzogin</persName>
+                        <idno type="EMT">emt_person_id__113</idno>
+                     </person>
+                 </listPerson>
+                 <listPlace type="took_place">
+                     <place>
+                        <placeName>Wien</placeName>
+                        <location type="coords">
+                           <geo>48.20849 16.372080</geo>
+                        </location>
+                        <idno type="GEONAMES">https://sws.geonames.org/2761369/</idno>
+                        <idno type="EMT">emt_place_id__63</idno>
+                     </place>
+                 </listPlace>
+               </event>
+               <event xml:id="emt_event_id__23" notBefore="1684-08-22" notAfter="1684-08-22">
+                  <desc>
+                     <eventName>
+                        Geburt von Erzherzogin Maria Theresia
+                     </eventName>                  </desc>
+                 <listPerson type="related_persons">
+                     <person>
+                        <persName>Kaiserin Eleonora Magdalena, geb. Pfalz-Neuburg</persName>
+                        <idno type="EMT">emt_person_id__9</idno>
+                     </person>
+                     <person>
+                        <persName>Maria Theresia, Erzherzogin</persName>
+                        <idno type="EMT">emt_person_id__115</idno>
+                     </person>
+                 </listPerson>
+               </event>
+               <event xml:id="emt_event_id__24" notBefore="1696-09-28" notAfter="1696-09-28">
+                  <desc>
+                     <eventName>
+                        Tod von Erzherzogin Maria Theresia
+                     </eventName>                  </desc>
+                 <listPerson type="related_persons">
+                     <person>
+                        <persName>Maria Theresia, Erzherzogin</persName>
+                        <idno type="EMT">emt_person_id__115</idno>
+                     </person>
+                 </listPerson>
+               </event>
+               <event xml:id="emt_event_id__25" notBefore="1687-03-06" notAfter="1687-03-06">
+                  <desc>
+                     <eventName>
+                        Geburt von Erzherzogin Maria Josepha
+                     </eventName>                  </desc>
+                 <listPerson type="related_persons">
+                     <person>
+                        <persName>Kaiserin Eleonora Magdalena, geb. Pfalz-Neuburg</persName>
+                        <idno type="EMT">emt_person_id__9</idno>
+                     </person>
+                     <person>
+                        <persName>Maria Josepha, Erzherzogin</persName>
+                        <idno type="EMT">emt_person_id__114</idno>
+                     </person>
+                 </listPerson>
+               </event>
+               <event xml:id="emt_event_id__26" notBefore="1703-04-14" notAfter="1703-04-14">
+                  <desc>
+                     <eventName>
+                        Tod von Erzherzogin Maria Josepha
+                     </eventName>                  </desc>
+                 <listPerson type="related_persons">
+                     <person>
+                        <persName>Maria Josepha, Erzherzogin</persName>
+                        <idno type="EMT">emt_person_id__114</idno>
+                     </person>
+                 </listPerson>
+               </event>
+               <event xml:id="emt_event_id__27" notBefore="1689-03-26" notAfter="1689-03-26">
+                  <desc>
+                     <eventName>
+                        Geburt von Erzherzogin Maria Magdalena
+                     </eventName>                  </desc>
+                 <listPerson type="related_persons">
+                     <person>
+                        <persName>Kaiserin Eleonora Magdalena, geb. Pfalz-Neuburg</persName>
+                        <idno type="EMT">emt_person_id__9</idno>
+                     </person>
+                     <person>
+                        <persName>Maria Magdalena, Erzherzogin</persName>
+                        <idno type="EMT">emt_person_id__116</idno>
+                     </person>
+                 </listPerson>
+                 <listPlace type="took_place">
+                     <place>
+                        <placeName>Wien</placeName>
+                        <location type="coords">
+                           <geo>48.20849 16.372080</geo>
+                        </location>
+                        <idno type="GEONAMES">https://sws.geonames.org/2761369/</idno>
+                        <idno type="EMT">emt_place_id__63</idno>
+                     </place>
+                 </listPlace>
+               </event>
+               <event xml:id="emt_event_id__28" notBefore="1690-07-22" notAfter="1690-07-22">
+                  <desc>
+                     <eventName>
+                        Geburt von Erzherzogin Maria Margaretha
+                     </eventName>                  </desc>
+                 <listPerson type="related_persons">
+                     <person>
+                        <persName>Kaiserin Eleonora Magdalena, geb. Pfalz-Neuburg</persName>
+                        <idno type="EMT">emt_person_id__9</idno>
+                     </person>
+                     <person>
+                        <persName>Maria Margaretha, Erzherzogin</persName>
+                        <idno type="EMT">emt_person_id__117</idno>
+                     </person>
+                 </listPerson>
+                 <listPlace type="took_place">
+                     <place>
+                        <placeName>Wien</placeName>
+                        <location type="coords">
+                           <geo>48.20849 16.372080</geo>
+                        </location>
+                        <idno type="GEONAMES">https://sws.geonames.org/2761369/</idno>
+                        <idno type="EMT">emt_place_id__63</idno>
+                     </place>
+                 </listPlace>
+               </event>
+               <event xml:id="emt_event_id__29" notBefore="None" notAfter="None">
+                  <desc>
+                     <eventName>
+                        Tod von Erzherzogin Maria Margaretha
+                     </eventName>                  </desc>
+                 <listPerson type="related_persons">
+                     <person>
+                        <persName>Maria Margaretha, Erzherzogin</persName>
+                        <idno type="EMT">emt_person_id__117</idno>
+                     </person>
+                 </listPerson>
                </event>
             </listEvent>
          </div>

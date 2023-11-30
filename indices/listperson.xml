@@ -583,6 +583,12 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                </person>
                <person xml:id="emt_person_id__56">
                   <persName>Theodor Heinrich von Strattmann</persName>
+                  <birth>
+                     <date notBefore="1637-01-01" notAfter="1637-12-31">1637</date>
+                  </birth>
+                  <death>
+                     <date notBefore="1693-01-01" notAfter="1693-12-31">1693</date>
+                  </death>
                   <idno type="GND">https://d-nb.info/gnd/119316900</idno>
                   <idno type="NDB">https://www.deutsche-biographie.de/sfz6828.html#indexcontent</idno>
                   <idno type="WIKIDATA">http://www.wikidata.org/entity/Q7781639</idno>
@@ -605,6 +611,12 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                </person>
                <person xml:id="emt_person_id__60">
                   <persName>Maria Anna von Pfalz-Neuburg, geb. Österreich</persName>
+                  <birth>
+                     <date notBefore="1654-01-01" notAfter="1654-12-31">1654</date>
+                  </birth>
+                  <death>
+                     <date notBefore="1689-01-01" notAfter="1689-12-31">1689</date>
+                  </death>
                   <idno type="GND">https://d-nb.info/gnd/120100096</idno>
                   <idno type="NDB">https://www.deutsche-biographie.de/sfz099_00080_1.html#indexcontent</idno>
                   <idno type="WIKIDATA">http://www.wikidata.org/entity/Q112088</idno>
@@ -617,18 +629,36 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                </person>
                <person xml:id="emt_person_id__63">
                   <persName>Maximilian Gandolf von Kuenburg, Erzbischof von Salzburg, Kardinal</persName>
+                  <birth>
+                     <date notBefore="1622-01-01" notAfter="1622-12-31">1622</date>
+                  </birth>
+                  <death>
+                     <date notBefore="1687-01-01" notAfter="1687-12-31">1687</date>
+                  </death>
                   <idno type="GND">https://d-nb.info/gnd/115524991</idno>
                   <idno type="NDB">https://www.deutsche-biographie.de/sfz61329.html#indexcontent</idno>
                   <idno type="WIKIDATA">http://www.wikidata.org/entity/Q875530</idno>
                </person>
                <person xml:id="emt_person_id__64">
                   <persName>Marquard Schenk von Castell, Bischof von Eichstätt</persName>
+                  <birth>
+                     <date notBefore="1605-01-01" notAfter="1605-12-31">1605</date>
+                  </birth>
+                  <death>
+                     <date notBefore="1685-01-01" notAfter="1685-12-31">1685</date>
+                  </death>
                   <idno type="GND">https://d-nb.info/gnd/118977636</idno>
                   <idno type="NDB">https://www.deutsche-biographie.de/sfz58490.html#indexcontent</idno>
                   <idno type="WIKIDATA">http://www.wikidata.org/entity/Q1902418</idno>
                </person>
                <person xml:id="emt_person_id__65">
                   <persName>Peter Philipp von Dernbach, Bischof von Bamberg</persName>
+                  <birth>
+                     <date notBefore="1619-01-01" notAfter="1619-12-31">1619</date>
+                  </birth>
+                  <death>
+                     <date notBefore="1683-01-01" notAfter="1683-12-31">1683</date>
+                  </death>
                   <idno type="GND">https://d-nb.info/gnd/118524801</idno>
                   <idno type="NDB">https://www.deutsche-biographie.de/sfz60336.html#indexcontent</idno>
                   <idno type="WIKIDATA">http://www.wikidata.org/entity/Q90192</idno>
@@ -641,6 +671,12 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                </person>
                <person xml:id="emt_person_id__67">
                   <persName>Hamilton, Jacob de</persName>
+                  <birth>
+                     <date notBefore="1640-01-01" notAfter="1640-12-31">1640</date>
+                  </birth>
+                  <death>
+                     <date notBefore="1720-01-01" notAfter="1720-12-31">1720</date>
+                  </death>
                   <idno type="GND">https://d-nb.info/gnd/131504274</idno>
                   <idno type="NDB">https://www.deutsche-biographie.de/pnd131504274.html#indexcontent</idno>
                   <idno type="WIKIDATA">http://www.wikidata.org/entity/Q18596545</idno>
@@ -653,36 +689,72 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                </person>
                <person xml:id="emt_person_id__70">
                   <persName>Albrecht Sigismund von Bayern, Fürstbischof von Freising</persName>
+                  <birth>
+                     <date notBefore="1623-01-01" notAfter="1623-12-31">1623</date>
+                  </birth>
+                  <death>
+                     <date notBefore="1685-01-01" notAfter="1685-12-31">1685</date>
+                  </death>
                   <idno type="GND">https://d-nb.info/gnd/10422424X</idno>
                   <idno type="NDB">https://www.deutsche-biographie.de/sfz56548.html#indexcontent</idno>
                   <idno type="WIKIDATA">http://www.wikidata.org/entity/Q86017</idno>
                </person>
                <person xml:id="emt_person_id__71">
                   <persName>Wilhelm Franz von Nesselrode-Ehreshoven</persName>
+                  <birth>
+                     <date notBefore="1638-01-01" notAfter="1638-12-31">1638</date>
+                  </birth>
+                  <death>
+                     <date notBefore="1732-01-01" notAfter="1732-12-31">1732</date>
+                  </death>
                   <idno type="GND">https://d-nb.info/gnd/116941715</idno>
                   <idno type="NDB">https://www.deutsche-biographie.de/sfz71137.html</idno>
                   <idno type="WIKIDATA">http://www.wikidata.org/entity/Q56389655</idno>
                </person>
                <person xml:id="emt_person_id__72">
                   <persName>Leopold Wilhelm von Königsegg-Rothenfels</persName>
+                  <birth>
+                     <date notBefore="1630-01-01" notAfter="1630-12-31">1630</date>
+                  </birth>
+                  <death>
+                     <date notBefore="1694-01-01" notAfter="1694-12-31">1694</date>
+                  </death>
                   <idno type="GND">https://d-nb.info/gnd/115880917</idno>
                   <idno type="NDB">https://www.deutsche-biographie.de/sfz57376.html#indexcontent</idno>
                   <idno type="WIKIDATA">http://www.wikidata.org/entity/Q1819881</idno>
                </person>
                <person xml:id="emt_person_id__73">
                   <persName>Bernhard Gustav von Baden-Durlach, Kardinal</persName>
+                  <birth>
+                     <date notBefore="1631-01-01" notAfter="1631-12-31">1631</date>
+                  </birth>
+                  <death>
+                     <date notBefore="1677-01-01" notAfter="1677-12-31">1677</date>
+                  </death>
                   <idno type="GND">https://d-nb.info/gnd/11892883X</idno>
                   <idno type="NDB">https://www.deutsche-biographie.de/sfz3990.html#indexcontent</idno>
                   <idno type="WIKIDATA">http://www.wikidata.org/entity/Q91959</idno>
                </person>
                <person xml:id="emt_person_id__74">
                   <persName>Johann Paul Hocher</persName>
+                  <birth>
+                     <date notBefore="1616-01-01" notAfter="1616-12-31">1616</date>
+                  </birth>
+                  <death>
+                     <date notBefore="1683-01-01" notAfter="1683-12-31">1683</date>
+                  </death>
                   <idno type="GND">https://d-nb.info/gnd/119265648</idno>
                   <idno type="NDB">https://www.deutsche-biographie.de/sfz32711.html#indexcontent</idno>
                   <idno type="WIKIDATA">http://www.wikidata.org/entity/Q89445</idno>
                </person>
                <person xml:id="emt_person_id__75">
                   <persName>Friedrich von Hessen-Darmstadt, Kardinal</persName>
+                  <birth>
+                     <date notBefore="1616-01-01" notAfter="1616-12-31">1616</date>
+                  </birth>
+                  <death>
+                     <date notBefore="1682-01-01" notAfter="1682-12-31">1682</date>
+                  </death>
                   <idno type="GND">https://d-nb.info/gnd/104366869</idno>
                   <idno type="NDB">https://www.deutsche-biographie.de/sfz52990.html#indexcontent</idno>
                   <idno type="WIKIDATA">http://www.wikidata.org/entity/Q540532</idno>
@@ -698,103 +770,217 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                </person>
                <person xml:id="emt_person_id__79">
                   <persName>Felix Egon von Fürstenberg-Heiligenberg</persName>
+                  <birth>
+                     <date notBefore="1657-01-01" notAfter="1657-12-31">1657</date>
+                  </birth>
+                  <death>
+                     <date notBefore="1686-01-01" notAfter="1686-12-31">1686</date>
+                  </death>
                   <idno type="GND">https://d-nb.info/gnd/129971219</idno>
                   <idno type="NDB">https://www.deutsche-biographie.de/pnd129971219.html#indexcontent</idno>
                </person>
                <person xml:id="emt_person_id__80">
                   <persName>Hermann von Baden-Baden</persName>
+                  <birth>
+                     <date notBefore="1628-01-01" notAfter="1628-12-31">1628</date>
+                  </birth>
+                  <death>
+                     <date notBefore="1691-01-01" notAfter="1691-12-31">1691</date>
+                  </death>
                   <idno type="GND">https://d-nb.info/gnd/118981722</idno>
                   <idno type="NDB">https://www.deutsche-biographie.de/sfz53239.html#indexcontent</idno>
                   <idno type="WIKIDATA">http://www.wikidata.org/entity/Q1613177</idno>
                </person>
                <person xml:id="emt_person_id__81">
                   <persName>Froben Ferdinand von Fürstenberg-Meßkirch</persName>
+                  <birth>
+                     <date notBefore="1664-01-01" notAfter="1664-12-31">1664</date>
+                  </birth>
+                  <death>
+                     <date notBefore="1741-01-01" notAfter="1741-12-31">1741</date>
+                  </death>
                   <idno type="GND">https://d-nb.info/gnd/133809668</idno>
                   <idno type="NDB">https://www.deutsche-biographie.de/pnd133809668.html</idno>
                   <idno type="WIKIDATA">http://www.wikidata.org/entity/Q1469401</idno>
                </person>
                <person xml:id="emt_person_id__82">
                   <persName>Wolfgang Georg Friedrich von Pfalz-Neuburg</persName>
+                  <birth>
+                     <date notBefore="1659-01-01" notAfter="1659-12-31">1659</date>
+                  </birth>
+                  <death>
+                     <date notBefore="1683-01-01" notAfter="1683-12-31">1683</date>
+                  </death>
                   <idno type="GND">https://d-nb.info/gnd/118046055</idno>
                   <idno type="NDB">https://www.deutsche-biographie.de/sfz19011.html#indexcontent</idno>
                   <idno type="WIKIDATA">http://www.wikidata.org/entity/Q75770</idno>
                </person>
                <person xml:id="emt_person_id__83">
                   <persName>Johann von Goess, Bischof von Gurk</persName>
+                  <birth>
+                     <date notBefore="1612-01-01" notAfter="1612-12-31">1612</date>
+                  </birth>
+                  <death>
+                     <date notBefore="1696-01-01" notAfter="1696-12-31">1696</date>
+                  </death>
                   <idno type="GND">https://d-nb.info/gnd/123662427</idno>
                   <idno type="NDB">https://www.deutsche-biographie.de/sfz21459.html#indexcontent</idno>
                   <idno type="WIKIDATA">http://www.wikidata.org/entity/Q1696799</idno>
                </person>
                <person xml:id="emt_person_id__84">
                   <persName>Anna Katharina von Rietberg, geb. Salm-Reifferscheidt</persName>
+                  <birth>
+                     <date notBefore="1624-01-01" notAfter="1624-12-31">1624</date>
+                  </birth>
+                  <death>
+                     <date notBefore="1691-01-01" notAfter="1691-12-31">1691</date>
+                  </death>
                   <idno type="GND">https://d-nb.info/gnd/118905414</idno>
                   <idno type="NDB">https://www.deutsche-biographie.de/pnd118905414.html#indexcontent</idno>
                   <idno type="WIKIDATA">http://www.wikidata.org/entity/Q60844979</idno>
                </person>
                <person xml:id="emt_person_id__85">
                   <persName>Friedrich Wilhelm von Rietberg</persName>
+                  <birth>
+                     <date notBefore="1650-01-01" notAfter="1650-12-31">1650</date>
+                  </birth>
+                  <death>
+                     <date notBefore="1677-01-01" notAfter="1677-12-31">1677</date>
+                  </death>
                   <idno type="GND">https://d-nb.info/gnd/173286305</idno>
                   <idno type="NDB">https://www.deutsche-biographie.de/pnd173286305.html#indexcontent</idno>
                   <idno type="WIKIDATA">http://www.wikidata.org/entity/Q11219584</idno>
                </person>
                <person xml:id="emt_person_id__86">
                   <persName>Franz Egon von Fürstenberg-Heiligenberg, Bischof von Straßburg</persName>
+                  <birth>
+                     <date notBefore="1626-01-01" notAfter="1626-12-31">1626</date>
+                  </birth>
+                  <death>
+                     <date notBefore="1682-01-01" notAfter="1682-12-31">1682</date>
+                  </death>
                   <idno type="GND">https://d-nb.info/gnd/115773371</idno>
                   <idno type="NDB">https://www.deutsche-biographie.de/sfz56943.html#indexcontent</idno>
                   <idno type="WIKIDATA">http://www.wikidata.org/entity/Q530592</idno>
                </person>
                <person xml:id="emt_person_id__87">
                   <persName>Karl Ferdinand von Waldstein</persName>
+                  <birth>
+                     <date notBefore="1634-01-01" notAfter="1634-12-31">1634</date>
+                  </birth>
+                  <death>
+                     <date notBefore="1702-01-01" notAfter="1702-12-31">1702</date>
+                  </death>
                   <idno type="GND">https://d-nb.info/gnd/136864406</idno>
                   <idno type="NDB">https://www.deutsche-biographie.de/sfz60600.html#indexcontent</idno>
                   <idno type="WIKIDATA">http://www.wikidata.org/entity/Q20734959</idno>
                </person>
                <person xml:id="emt_person_id__88">
                   <persName>Christoph Bernhard von Galen, Bischof von Münster</persName>
+                  <birth>
+                     <date notBefore="1606-01-01" notAfter="1606-12-31">1606</date>
+                  </birth>
+                  <death>
+                     <date notBefore="1678-01-01" notAfter="1678-12-31">1678</date>
+                  </death>
                   <idno type="GND">https://d-nb.info/gnd/118520709</idno>
                   <idno type="NDB">https://www.deutsche-biographie.de/sfz23149.html#indexcontent</idno>
                   <idno type="WIKIDATA">http://www.wikidata.org/entity/Q76491</idno>
                </person>
                <person xml:id="emt_person_id__89">
                   <persName>Karl II. von Spanien</persName>
+                  <birth>
+                     <date notBefore="1661-01-01" notAfter="1661-12-31">1661</date>
+                  </birth>
+                  <death>
+                     <date notBefore="1700-01-01" notAfter="1700-12-31">1700</date>
+                  </death>
                   <idno type="GND">https://d-nb.info/gnd/118776797</idno>
                   <idno type="NDB">https://www.deutsche-biographie.de/sfz70328.html#indexcontent</idno>
                   <idno type="WIKIDATA">http://www.wikidata.org/entity/Q36174</idno>
                </person>
                <person xml:id="emt_person_id__90">
                   <persName>Ferdinand Max Egon von Fürstenberg-Heiligenberg</persName>
+                  <birth>
+                     <date notBefore="1661-01-01" notAfter="1661-12-31">1661</date>
+                  </birth>
+                  <death>
+                     <date notBefore="1696-01-01" notAfter="1696-12-31">1696</date>
+                  </death>
                   <idno type="URL">http://w.genealogy.euweb.cz/furstbg/furstenbg2.html</idno>
                </person>
                <person xml:id="emt_person_id__91">
                   <persName>Wilhelm Egon von Fürstenberg-Heiligenberg, Bischof von Straßburg</persName>
+                  <birth>
+                     <date notBefore="1629-01-01" notAfter="1629-12-31">1629</date>
+                  </birth>
+                  <death>
+                     <date notBefore="1704-01-01" notAfter="1704-12-31">1704</date>
+                  </death>
                   <idno type="GND">https://d-nb.info/gnd/118771868</idno>
                   <idno type="NDB">https://www.deutsche-biographie.de/sfz60658.html#indexcontent</idno>
                   <idno type="WIKIDATA">http://www.wikidata.org/entity/Q70876</idno>
                </person>
                <person xml:id="emt_person_id__92">
                   <persName>Adolf Johann von Pfalz-Zweibrücken-Kleeburg</persName>
+                  <birth>
+                     <date notBefore="1629-01-01" notAfter="1629-12-31">1629</date>
+                  </birth>
+                  <death>
+                     <date notBefore="1689-01-01" notAfter="1689-12-31">1689</date>
+                  </death>
                   <idno type="GND">https://d-nb.info/gnd/104206489</idno>
                   <idno type="NDB">https://www.deutsche-biographie.de/sfz35124.html#indexcontent</idno>
                   <idno type="WIKIDATA">http://www.wikidata.org/entity/Q67194</idno>
                </person>
                <person xml:id="emt_person_id__93">
                   <persName>Elsa Elisabeth von Pfalz-Zweibrücken-Kleeburg, geb. Brahe, verw. Oxenstierna</persName>
+                  <birth>
+                     <date notBefore="1632-01-01" notAfter="1632-12-31">1632</date>
+                  </birth>
+                  <death>
+                     <date notBefore="1689-01-01" notAfter="1689-12-31">1689</date>
+                  </death>
                   <idno type="URL">https://daten.digitale-sammlungen.de/0001/bsb00016325/images/index.html?fip=193.174.98.30&amp;id=00016325&amp;seite=349</idno>
                </person>
                <person xml:id="emt_person_id__94">
                   <persName>Katharina von Pfalz-Zweibrücken-Kleeburg, vereh. Gyllenstierna</persName>
+                  <birth>
+                     <date notBefore="1661-01-01" notAfter="1661-12-31">1661</date>
+                  </birth>
+                  <death>
+                     <date notBefore="1720-01-01" notAfter="1720-12-31">1720</date>
+                  </death>
                   <idno type="URL">https://daten.digitale-sammlungen.de/0001/bsb00016325/images/index.html?fip=193.174.98.30&amp;id=00016325&amp;seite=349</idno>
                </person>
                <person xml:id="emt_person_id__95">
                   <persName>Maria Elisabeth von Pfalz-Zweibrücken-Kleeburg, vereh. Gersdorff</persName>
+                  <birth>
+                     <date notBefore="1663-01-01" notAfter="1663-12-31">1663</date>
+                  </birth>
+                  <death>
+                     <date notBefore="1748-01-01" notAfter="1748-12-31">1748</date>
+                  </death>
                   <idno type="URL">https://daten.digitale-sammlungen.de/0001/bsb00016325/images/index.html?fip=193.174.98.30&amp;id=00016325&amp;seite=349</idno>
                </person>
                <person xml:id="emt_person_id__96">
                   <persName>Maria Theresia von Kollonitsch, geb. Aspremont-Lynden (Reckheim)</persName>
+                  <birth>
+                     <date notBefore="1654-01-01" notAfter="1654-12-31">1654</date>
+                  </birth>
+                  <death>
+                     <date notBefore="1732-01-01" notAfter="1732-12-31">1732</date>
+                  </death>
                   <idno type="URL">https://gw.geneanet.org/cvpolier?lang=de&amp;n=d+aspremont+lynden&amp;oc=0&amp;p=maria+theresia+ernestine</idno>
                </person>
                <person xml:id="emt_person_id__97">
                   <persName>Johann Georg von Kollonitsch</persName>
+                  <birth>
+                     <date notBefore="1644-01-01" notAfter="1644-12-31">1644</date>
+                  </birth>
+                  <death>
+                     <date notBefore="1688-01-01" notAfter="1688-12-31">1688</date>
+                  </death>
                   <idno type="GND">https://d-nb.info/gnd/121822598X</idno>
                   <idno type="NDB">https://www.deutsche-biographie.de/pnd121822598X.html#indexcontent</idno>
                </person>
@@ -803,23 +989,47 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                </person>
                <person xml:id="emt_person_id__99">
                   <persName>Vincenzo Gonzaga</persName>
+                  <birth>
+                     <date notBefore="1605-01-01" notAfter="1605-12-31">1605</date>
+                  </birth>
+                  <death>
+                     <date notBefore="1694-01-01" notAfter="1694-12-31">1694</date>
+                  </death>
                   <idno type="GND">https://d-nb.info/gnd/1166465764</idno>
                   <idno type="NDB">https://www.deutsche-biographie.de/pnd1166465764.html#indexcontent</idno>
                </person>
                <person xml:id="emt_person_id__100">
                   <persName>Damian Hartard von der Leyen, Kurfürst von Mainz</persName>
+                  <birth>
+                     <date notBefore="1624-01-01" notAfter="1624-12-31">1624</date>
+                  </birth>
+                  <death>
+                     <date notBefore="1678-01-01" notAfter="1678-12-31">1678</date>
+                  </death>
                   <idno type="GND">https://d-nb.info/gnd/11564976X</idno>
                   <idno type="NDB">https://www.deutsche-biographie.de/sfz60891.html#indexcontent</idno>
                   <idno type="WIKIDATA">http://www.wikidata.org/entity/Q73830</idno>
                </person>
                <person xml:id="emt_person_id__101">
                   <persName>Johann Hugo von Orsbeck, Kurfürst von Trier</persName>
+                  <birth>
+                     <date notBefore="1634-01-01" notAfter="1634-12-31">1634</date>
+                  </birth>
+                  <death>
+                     <date notBefore="1711-01-01" notAfter="1711-12-31">1711</date>
+                  </death>
                   <idno type="GND">https://d-nb.info/gnd/11871239X</idno>
                   <idno type="NDB">https://www.deutsche-biographie.de/sfz39453.html#indexcontent</idno>
                   <idno type="WIKIDATA">http://www.wikidata.org/entity/Q878159</idno>
                </person>
                <person xml:id="emt_person_id__102">
                   <persName>Hans Eitel Diede zum Fürstenstein</persName>
+                  <birth>
+                     <date notBefore="1624-01-01" notAfter="1624-12-31">1624</date>
+                  </birth>
+                  <death>
+                     <date notBefore="1685-01-01" notAfter="1685-12-31">1685</date>
+                  </death>
                   <idno type="GND">https://d-nb.info/gnd/1013454316</idno>
                   <idno type="NDB">https://www.deutsche-biographie.de/pnd1013454316.html#indexcontent</idno>
                   <idno type="WIKIDATA">http://www.wikidata.org/entity/Q1333635</idno>
@@ -838,6 +1048,12 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                </person>
                <person xml:id="emt_person_id__107">
                   <persName>Francesco Buonvisi, Nuntius</persName>
+                  <birth>
+                     <date notBefore="1626-01-01" notAfter="1626-12-31">1626</date>
+                  </birth>
+                  <death>
+                     <date notBefore="1700-01-01" notAfter="1700-12-31">1700</date>
+                  </death>
                   <idno type="GND">https://d-nb.info/gnd/118948008</idno>
                   <idno type="NDB">https://www.deutsche-biographie.de/pnd118948008.html#indexcontent</idno>
                   <idno type="WIKIDATA">http://www.wikidata.org/entity/Q744548</idno>
@@ -845,9 +1061,121 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                </person>
                <person xml:id="emt_person_id__108">
                   <persName>Albert Eusebius von Königsegg-Rothenfels</persName>
+                  <birth>
+                     <date notBefore="1669-01-01" notAfter="1669-12-31">1669</date>
+                  </birth>
+                  <death>
+                     <date notBefore="1736-01-01" notAfter="1736-12-31">1736</date>
+                  </death>
                   <idno type="GND">https://d-nb.info/gnd/116293934</idno>
                   <idno type="NDB">https://www.deutsche-biographie.de/sfz57371.html</idno>
                   <idno type="WIKIDATA">http://www.wikidata.org/entity/Q55890418</idno>
+               </person>
+               <person xml:id="emt_person_id__109">
+                  <persName>Amalie Wilhelmine von Braunschweig-Lüneburg</persName>
+                  <birth>
+                     <date notBefore="1673-01-01" notAfter="1673-12-31">1673</date>
+                  </birth>
+                  <death>
+                     <date notBefore="1742-01-01" notAfter="1742-12-31">1742</date>
+                  </death>
+                  <idno type="GND">https://d-nb.info/gnd/101076983</idno>
+                  <idno type="NDB">https://www.deutsche-biographie.de/sfz60662.html</idno>
+               </person>
+               <person xml:id="emt_person_id__110">
+                  <persName>Elisabeth Christine von Braunschweig-Wolfenbüttel</persName>
+                  <birth>
+                     <date notBefore="1691-01-01" notAfter="1691-12-31">1691</date>
+                  </birth>
+                  <death>
+                     <date notBefore="1750-01-01" notAfter="1750-12-31">1750</date>
+                  </death>
+                  <idno type="GND">https://d-nb.info/gnd/122035143</idno>
+                  <idno type="NDB">https://www.deutsche-biographie.de/sfz56823.html#indexcontent</idno>
+               </person>
+               <person xml:id="emt_person_id__111">
+                  <persName>Maria Elisabeth, Erzherzogin</persName>
+                  <birth>
+                     <date notBefore="1680-01-01" notAfter="1680-12-31">1680</date>
+                  </birth>
+                  <death>
+                     <date notBefore="1741-01-01" notAfter="1741-12-31">1741</date>
+                  </death>
+                  <idno type="GND">https://d-nb.info/gnd/118927426</idno>
+                  <idno type="NDB">https://www.deutsche-biographie.de/sfz58335.html#indexcontent</idno>
+               </person>
+               <person xml:id="emt_person_id__112">
+                  <persName>Leopold Joseph, Erzherzog</persName>
+                  <birth>
+                     <date notBefore="1682-01-01" notAfter="1682-12-31">1682</date>
+                  </birth>
+                  <death>
+                     <date notBefore="1684-01-01" notAfter="1684-12-31">1684</date>
+                  </death>
+               </person>
+               <person xml:id="emt_person_id__113">
+                  <persName>Maria Anna Josepha, Erzherzogin</persName>
+                  <birth>
+                     <date notBefore="1683-01-01" notAfter="1683-12-31">1683</date>
+                  </birth>
+                  <death>
+                     <date notBefore="1754-01-01" notAfter="1754-12-31">1754</date>
+                  </death>
+                  <idno type="GND">https://d-nb.info/gnd/119360691</idno>
+                  <idno type="NDB">https://www.deutsche-biographie.de/sfz58352.html#indexcontent</idno>
+               </person>
+               <person xml:id="emt_person_id__114">
+                  <persName>Maria Josepha, Erzherzogin</persName>
+                  <birth>
+                     <date notBefore="1687-01-01" notAfter="1687-12-31">1687</date>
+                  </birth>
+                  <death>
+                     <date notBefore="1703-01-01" notAfter="1703-12-31">1703</date>
+                  </death>
+               </person>
+               <person xml:id="emt_person_id__115">
+                  <persName>Maria Theresia, Erzherzogin</persName>
+                  <birth>
+                     <date notBefore="1684-01-01" notAfter="1684-12-31">1684</date>
+                  </birth>
+                  <death>
+                     <date notBefore="1696-01-01" notAfter="1696-12-31">1696</date>
+                  </death>
+               </person>
+               <person xml:id="emt_person_id__116">
+                  <persName>Maria Magdalena, Erzherzogin</persName>
+                  <birth>
+                     <date notBefore="1689-01-01" notAfter="1689-12-31">1689</date>
+                  </birth>
+                  <death>
+                     <date notBefore="1743-01-01" notAfter="1743-12-31">1743</date>
+                  </death>
+                  <idno type="GND">https://d-nb.info/gnd/1019759852</idno>
+                  <idno type="NDB">https://www.deutsche-biographie.de/sfz099_00044_1.html</idno>
+               </person>
+               <person xml:id="emt_person_id__117">
+                  <persName>Maria Margaretha, Erzherzogin</persName>
+                  <birth>
+                     <date notBefore="1690-01-01" notAfter="1690-12-31">1690</date>
+                  </birth>
+                  <death>
+                     <date notBefore="1691-01-01" notAfter="1691-12-31">1691</date>
+                  </death>
+               </person>
+               <person xml:id="emt_person_id__118">
+                  <persName>Fürst Dietrichstein, Obersthofmeister EMT</persName>
+               </person>
+               <person xml:id="emt_person_id__119">
+                  <persName>Graf von Velen, überbringt Gruß von Philipp Wilhelm 1677</persName>
+               </person>
+               <person xml:id="emt_person_id__120">
+                  <persName>Graf Wolf (wohl: Wolf von Metternich), überbringt Schreiben von PW 1677</persName>
+               </person>
+               <person xml:id="emt_person_id__121">
+                  <persName>Emmerich Sinelli SJ</persName>
+               </person>
+               <person xml:id="emt_person_id__122">
+                  <persName>Markgraf von Ansbach, zum Jagen in Wien 1677</persName>
                </person>
             </listPerson>
          </div>

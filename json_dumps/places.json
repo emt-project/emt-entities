@@ -547,7 +547,7 @@
     "place_type": null,
     "lat": "41.89193",
     "long": "12.511330",
-    "comments intern": null
+    "comments intern": "Rom gibt es zweimal in der Liste!!!!!!!! Ich benutze Nummer 90"
   },
   "51": {
     "id": 51,
@@ -1006,6 +1006,17 @@
     "name": "",
     "geonames": "",
     "emt_id": "emt_place_id__92",
+    "place_type": null,
+    "lat": null,
+    "long": null,
+    "comments intern": ""
+  },
+  "95": {
+    "id": 95,
+    "order": "93.00000000000000000000",
+    "name": "Braunschweig",
+    "geonames": "",
+    "emt_id": "emt_place_id__95",
     "place_type": null,
     "lat": null,
     "long": null,

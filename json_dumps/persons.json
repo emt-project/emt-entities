@@ -16,7 +16,9 @@
     "wikidata_enriched": false,
     "img_name": null,
     "img_fetched": false,
-    "img_source": null
+    "img_source": null,
+    "birth_date_written": null,
+    "death_date_written": null
   },
   "3": {
     "id": 3,
@@ -35,7 +37,9 @@
     "wikidata_enriched": true,
     "img_name": "Gabbiani, Giovanni Gaetano (attr.) - Official portrait of Anna Maria Franziska von Sachsen-Lauenburg as Grand Duchess of Tuscany.jpg",
     "img_fetched": true,
-    "img_source": "commonsMedia"
+    "img_source": "commonsMedia",
+    "birth_date_written": null,
+    "death_date_written": null
   },
   "4": {
     "id": 4,
@@ -54,7 +58,9 @@
     "wikidata_enriched": true,
     "img_name": null,
     "img_fetched": true,
-    "img_source": null
+    "img_source": null,
+    "birth_date_written": null,
+    "death_date_written": null
   },
   "5": {
     "id": 5,
@@ -73,7 +79,9 @@
     "wikidata_enriched": false,
     "img_name": null,
     "img_fetched": false,
-    "img_source": null
+    "img_source": null,
+    "birth_date_written": null,
+    "death_date_written": null
   },
   "6": {
     "id": 6,
@@ -92,7 +100,9 @@
     "wikidata_enriched": false,
     "img_name": null,
     "img_fetched": false,
-    "img_source": null
+    "img_source": null,
+    "birth_date_written": null,
+    "death_date_written": null
   },
   "7": {
     "id": 7,
@@ -111,7 +121,9 @@
     "wikidata_enriched": true,
     "img_name": "Dominik Andreas Graf von Kaunitz.jpg",
     "img_fetched": true,
-    "img_source": "commonsMedia"
+    "img_source": "commonsMedia",
+    "birth_date_written": null,
+    "death_date_written": null
   },
   "8": {
     "id": 8,
@@ -130,7 +142,9 @@
     "wikidata_enriched": true,
     "img_name": "Anonym - Herzogin Dorothea Sophia - Stadtmuseum Düsseldorf.jpg",
     "img_fetched": true,
-    "img_source": "commonsMedia"
+    "img_source": "commonsMedia",
+    "birth_date_written": null,
+    "death_date_written": null
   },
   "9": {
     "id": 9,
@@ -149,7 +163,9 @@
     "wikidata_enriched": true,
     "img_name": "Eleonore of Pfalz Neuburg.jpg",
     "img_fetched": true,
-    "img_source": "commonsMedia"
+    "img_source": "commonsMedia",
+    "birth_date_written": null,
+    "death_date_written": null
   },
   "10": {
     "id": 10,
@@ -168,7 +184,9 @@
     "wikidata_enriched": true,
     "img_name": "Elisabeth Amalia Magdalena im Jahr 1705.jpg",
     "img_fetched": true,
-    "img_source": "commonsMedia"
+    "img_source": "commonsMedia",
+    "birth_date_written": null,
+    "death_date_written": null
   },
   "11": {
     "id": 11,
@@ -187,7 +205,9 @@
     "wikidata_enriched": true,
     "img_name": "Ercole Turinetti Marchese di Prie.png",
     "img_fetched": true,
-    "img_source": "commonsMedia"
+    "img_source": "commonsMedia",
+    "birth_date_written": null,
+    "death_date_written": null
   },
   "12": {
     "id": 12,
@@ -206,7 +226,9 @@
     "wikidata_enriched": true,
     "img_name": "Ferdinand Lobkowicz medal avers.jpg",
     "img_fetched": true,
-    "img_source": "commonsMedia"
+    "img_source": "commonsMedia",
+    "birth_date_written": null,
+    "death_date_written": null
   },
   "13": {
     "id": 13,
@@ -225,7 +247,9 @@
     "wikidata_enriched": true,
     "img_name": "Franz Joseph von Lamberg.jpg",
     "img_fetched": true,
-    "img_source": "commonsMedia"
+    "img_source": "commonsMedia",
+    "birth_date_written": null,
+    "death_date_written": null
   },
   "14": {
     "id": 14,
@@ -244,7 +268,9 @@
     "wikidata_enriched": true,
     "img_name": "Franziska Sibylla Augusta von Baden.jpg",
     "img_fetched": true,
-    "img_source": "commonsMedia"
+    "img_source": "commonsMedia",
+    "birth_date_written": null,
+    "death_date_written": null
   },
   "15": {
     "id": 15,
@@ -263,7 +289,9 @@
     "wikidata_enriched": true,
     "img_name": "Antoine Pesne; Frederik I von Preußen.jpg",
     "img_fetched": true,
-    "img_source": "commonsMedia"
+    "img_source": "commonsMedia",
+    "birth_date_written": null,
+    "death_date_written": null
   },
   "16": {
     "id": 16,
@@ -282,7 +310,9 @@
     "wikidata_enriched": true,
     "img_name": "Friedrich C v Schönborn.jpg",
     "img_fetched": true,
-    "img_source": "commonsMedia"
+    "img_source": "commonsMedia",
+    "birth_date_written": null,
+    "death_date_written": null
   },
   "17": {
     "id": 17,
@@ -301,7 +331,9 @@
     "wikidata_enriched": true,
     "img_name": "Gottlieb Amadeus Windischgrätz (1630–1695).jpg",
     "img_fetched": true,
-    "img_source": "commonsMedia"
+    "img_source": "commonsMedia",
+    "birth_date_written": null,
+    "death_date_written": null
   },
   "18": {
     "id": 18,
@@ -320,7 +352,9 @@
     "wikidata_enriched": true,
     "img_name": "Jan Frans van Douven 003.jpg",
     "img_fetched": true,
-    "img_source": "commonsMedia"
+    "img_source": "commonsMedia",
+    "birth_date_written": null,
+    "death_date_written": null
   },
   "19": {
     "id": 19,
@@ -339,7 +373,9 @@
     "wikidata_enriched": true,
     "img_name": null,
     "img_fetched": true,
-    "img_source": null
+    "img_source": null,
+    "birth_date_written": null,
+    "death_date_written": null
   },
   "20": {
     "id": 20,
@@ -358,7 +394,9 @@
     "wikidata_enriched": true,
     "img_name": null,
     "img_fetched": true,
-    "img_source": null
+    "img_source": null,
+    "birth_date_written": null,
+    "death_date_written": null
   },
   "21": {
     "id": 21,
@@ -377,7 +415,9 @@
     "wikidata_enriched": true,
     "img_name": null,
     "img_fetched": true,
-    "img_source": null
+    "img_source": null,
+    "birth_date_written": null,
+    "death_date_written": null
   },
   "22": {
     "id": 22,
@@ -396,7 +436,9 @@
     "wikidata_enriched": false,
     "img_name": null,
     "img_fetched": false,
-    "img_source": null
+    "img_source": null,
+    "birth_date_written": null,
+    "death_date_written": null
   },
   "23": {
     "id": 23,
@@ -415,7 +457,9 @@
     "wikidata_enriched": true,
     "img_name": null,
     "img_fetched": true,
-    "img_source": null
+    "img_source": null,
+    "birth_date_written": null,
+    "death_date_written": null
   },
   "24": {
     "id": 24,
@@ -434,7 +478,9 @@
     "wikidata_enriched": true,
     "img_name": "Joseph Clemens of Bavaria.jpg",
     "img_fetched": true,
-    "img_source": "commonsMedia"
+    "img_source": "commonsMedia",
+    "birth_date_written": null,
+    "death_date_written": null
   },
   "25": {
     "id": 25,
@@ -453,7 +499,9 @@
     "wikidata_enriched": true,
     "img_name": "Joseph I Holy Roman Emperor 002.jpg",
     "img_fetched": true,
-    "img_source": "commonsMedia"
+    "img_source": "commonsMedia",
+    "birth_date_written": null,
+    "death_date_written": null
   },
   "26": {
     "id": 26,
@@ -472,7 +520,9 @@
     "wikidata_enriched": true,
     "img_name": "Maratta Cybo.jpg",
     "img_fetched": true,
-    "img_source": "commonsMedia"
+    "img_source": "commonsMedia",
+    "birth_date_written": null,
+    "death_date_written": null
   },
   "27": {
     "id": 27,
@@ -491,7 +541,9 @@
     "wikidata_enriched": true,
     "img_name": "Christian August Saxe-Zeitz.jpg",
     "img_fetched": true,
-    "img_source": "commonsMedia"
+    "img_source": "commonsMedia",
+    "birth_date_written": null,
+    "death_date_written": null
   },
   "28": {
     "id": 28,
@@ -510,7 +562,9 @@
     "wikidata_enriched": true,
     "img_name": "Jacopo tintoretto e bottega, ritratto di vincenzo grimani.jpg",
     "img_fetched": true,
-    "img_source": "commonsMedia"
+    "img_source": "commonsMedia",
+    "birth_date_written": null,
+    "death_date_written": null
   },
   "29": {
     "id": 29,
@@ -529,7 +583,9 @@
     "wikidata_enriched": true,
     "img_name": "Karl Philipp, Kurfürst (1716-1742).jpg",
     "img_fetched": true,
-    "img_source": "commonsMedia"
+    "img_source": "commonsMedia",
+    "birth_date_written": null,
+    "death_date_written": null
   },
   "30": {
     "id": 30,
@@ -548,7 +604,9 @@
     "wikidata_enriched": true,
     "img_name": "Carl Theodor Otto Fürst zu Salm.jpg",
     "img_fetched": true,
-    "img_source": "commonsMedia"
+    "img_source": "commonsMedia",
+    "birth_date_written": null,
+    "death_date_written": null
   },
   "31": {
     "id": 31,
@@ -567,7 +625,9 @@
     "wikidata_enriched": true,
     "img_name": "Martin van Meytens (attrib.) - Porträt Kaiser Karl VI.jpg",
     "img_fetched": true,
-    "img_source": "commonsMedia"
+    "img_source": "commonsMedia",
+    "birth_date_written": null,
+    "death_date_written": null
   },
   "32": {
     "id": 32,
@@ -586,7 +646,9 @@
     "wikidata_enriched": true,
     "img_name": null,
     "img_fetched": true,
-    "img_source": null
+    "img_source": null,
+    "birth_date_written": null,
+    "death_date_written": null
   },
   "33": {
     "id": 33,
@@ -605,7 +667,9 @@
     "wikidata_enriched": true,
     "img_name": "Charles V De Troy 974.png",
     "img_fetched": true,
-    "img_source": "commonsMedia"
+    "img_source": "commonsMedia",
+    "birth_date_written": null,
+    "death_date_written": null
   },
   "34": {
     "id": 34,
@@ -624,7 +688,9 @@
     "wikidata_enriched": false,
     "img_name": null,
     "img_fetched": false,
-    "img_source": null
+    "img_source": null,
+    "birth_date_written": null,
+    "death_date_written": null
   },
   "35": {
     "id": 35,
@@ -643,7 +709,9 @@
     "wikidata_enriched": true,
     "img_name": "Benjamin von Block 001.jpg",
     "img_fetched": true,
-    "img_source": "commonsMedia"
+    "img_source": "commonsMedia",
+    "birth_date_written": null,
+    "death_date_written": null
   },
   "36": {
     "id": 36,
@@ -662,7 +730,9 @@
     "wikidata_enriched": true,
     "img_name": "HGM Ludwig Wilhelm von Baden Baden.jpg",
     "img_fetched": true,
-    "img_source": "commonsMedia"
+    "img_source": "commonsMedia",
+    "birth_date_written": null,
+    "death_date_written": null
   },
   "37": {
     "id": 37,
@@ -681,7 +751,9 @@
     "wikidata_enriched": true,
     "img_name": "Mariana of Austria (Velázquez, c. 1652).jpg",
     "img_fetched": true,
-    "img_source": "commonsMedia"
+    "img_source": "commonsMedia",
+    "birth_date_written": null,
+    "death_date_written": null
   },
   "38": {
     "id": 38,
@@ -700,7 +772,9 @@
     "wikidata_enriched": true,
     "img_name": "Maria Anna, Countess Palatine of the Rhine in Neuburg, Queen of Spain.jpg",
     "img_fetched": true,
-    "img_source": "commonsMedia"
+    "img_source": "commonsMedia",
+    "birth_date_written": null,
+    "death_date_written": null
   },
   "39": {
     "id": 39,
@@ -719,7 +793,9 @@
     "wikidata_enriched": false,
     "img_name": null,
     "img_fetched": false,
-    "img_source": null
+    "img_source": null,
+    "birth_date_written": null,
+    "death_date_written": null
   },
   "40": {
     "id": 40,
@@ -738,7 +814,9 @@
     "wikidata_enriched": true,
     "img_name": null,
     "img_fetched": true,
-    "img_source": null
+    "img_source": null,
+    "birth_date_written": null,
+    "death_date_written": null
   },
   "41": {
     "id": 41,
@@ -757,7 +835,9 @@
     "wikidata_enriched": true,
     "img_name": null,
     "img_fetched": true,
-    "img_source": null
+    "img_source": null,
+    "birth_date_written": null,
+    "death_date_written": null
   },
   "42": {
     "id": 42,
@@ -776,7 +856,9 @@
     "wikidata_enriched": true,
     "img_name": "Mariasofianeuburgo.gif",
     "img_fetched": true,
-    "img_source": "commonsMedia"
+    "img_source": "commonsMedia",
+    "birth_date_written": null,
+    "death_date_written": null
   },
   "43": {
     "id": 43,
@@ -795,7 +877,9 @@
     "wikidata_enriched": false,
     "img_name": null,
     "img_fetched": false,
-    "img_source": null
+    "img_source": null,
+    "birth_date_written": null,
+    "death_date_written": null
   },
   "44": {
     "id": 44,
@@ -814,7 +898,9 @@
     "wikidata_enriched": false,
     "img_name": null,
     "img_fetched": false,
-    "img_source": null
+    "img_source": null,
+    "birth_date_written": null,
+    "death_date_written": null
   },
   "45": {
     "id": 45,
@@ -833,7 +919,9 @@
     "wikidata_enriched": true,
     "img_name": "Maximilian Heinrich von Bayern.jpg",
     "img_fetched": true,
-    "img_source": "commonsMedia"
+    "img_source": "commonsMedia",
+    "birth_date_written": null,
+    "death_date_written": null
   },
   "46": {
     "id": 46,
@@ -852,7 +940,9 @@
     "wikidata_enriched": true,
     "img_name": null,
     "img_fetched": true,
-    "img_source": null
+    "img_source": null,
+    "birth_date_written": null,
+    "death_date_written": null
   },
   "47": {
     "id": 47,
@@ -871,7 +961,9 @@
     "wikidata_enriched": true,
     "img_name": "Moritz Heinrich von Nassau-Hadamar.jpg",
     "img_fetched": true,
-    "img_source": "commonsMedia"
+    "img_source": "commonsMedia",
+    "birth_date_written": null,
+    "death_date_written": null
   },
   "48": {
     "id": 48,
@@ -890,7 +982,9 @@
     "wikidata_enriched": false,
     "img_name": null,
     "img_fetched": false,
-    "img_source": null
+    "img_source": null,
+    "birth_date_written": null,
+    "death_date_written": null
   },
   "49": {
     "id": 49,
@@ -909,7 +1003,9 @@
     "wikidata_enriched": true,
     "img_name": null,
     "img_fetched": false,
-    "img_source": null
+    "img_source": null,
+    "birth_date_written": null,
+    "death_date_written": null
   },
   "50": {
     "id": 50,
@@ -928,7 +1024,9 @@
     "wikidata_enriched": true,
     "img_name": "Anonym Herzog Philipp Wilhelm.jpg",
     "img_fetched": true,
-    "img_source": "commonsMedia"
+    "img_source": "commonsMedia",
+    "birth_date_written": null,
+    "death_date_written": null
   },
   "51": {
     "id": 51,
@@ -947,7 +1045,9 @@
     "wikidata_enriched": true,
     "img_name": "Pope Clement XI – Pier Leone Ghezzi (c. 1708).jpg",
     "img_fetched": true,
-    "img_source": "commonsMedia"
+    "img_source": "commonsMedia",
+    "birth_date_written": null,
+    "death_date_written": null
   },
   "52": {
     "id": 52,
@@ -966,7 +1066,9 @@
     "wikidata_enriched": false,
     "img_name": null,
     "img_fetched": false,
-    "img_source": null
+    "img_source": null,
+    "birth_date_written": null,
+    "death_date_written": null
   },
   "53": {
     "id": 53,
@@ -985,7 +1087,9 @@
     "wikidata_enriched": false,
     "img_name": null,
     "img_fetched": false,
-    "img_source": null
+    "img_source": null,
+    "birth_date_written": null,
+    "death_date_written": null
   },
   "54": {
     "id": 54,
@@ -1004,7 +1108,9 @@
     "wikidata_enriched": false,
     "img_name": null,
     "img_fetched": false,
-    "img_source": null
+    "img_source": null,
+    "birth_date_written": null,
+    "death_date_written": null
   },
   "55": {
     "id": 55,
@@ -1023,7 +1129,9 @@
     "wikidata_enriched": false,
     "img_name": null,
     "img_fetched": false,
-    "img_source": null
+    "img_source": null,
+    "birth_date_written": null,
+    "death_date_written": null
   },
   "56": {
     "id": 56,
@@ -1036,13 +1144,15 @@
     "color": null,
     "lebensdaten": "1637-1693",
     "ndb": "https://www.deutsche-biographie.de/sfz6828.html#indexcontent",
-    "year_of_birth": null,
-    "year_of_death": null,
+    "year_of_birth": "1637",
+    "year_of_death": "1693",
     "wikidata_url": "http://www.wikidata.org/entity/Q7781639",
     "wikidata_enriched": true,
     "img_name": "Theodor Heinrich von Strattmann.jpg",
     "img_fetched": true,
-    "img_source": "commonsMedia"
+    "img_source": "commonsMedia",
+    "birth_date_written": null,
+    "death_date_written": null
   },
   "57": {
     "id": 57,
@@ -1061,7 +1171,9 @@
     "wikidata_enriched": false,
     "img_name": null,
     "img_fetched": false,
-    "img_source": null
+    "img_source": null,
+    "birth_date_written": null,
+    "death_date_written": null
   },
   "58": {
     "id": 58,
@@ -1080,7 +1192,9 @@
     "wikidata_enriched": true,
     "img_name": null,
     "img_fetched": true,
-    "img_source": null
+    "img_source": null,
+    "birth_date_written": "um 1640",
+    "death_date_written": null
   },
   "59": {
     "id": 59,
@@ -1099,7 +1213,9 @@
     "wikidata_enriched": false,
     "img_name": null,
     "img_fetched": false,
-    "img_source": null
+    "img_source": null,
+    "birth_date_written": null,
+    "death_date_written": null
   },
   "60": {
     "id": 60,
@@ -1112,13 +1228,15 @@
     "color": "",
     "lebensdaten": "1654-1689",
     "ndb": "https://www.deutsche-biographie.de/sfz099_00080_1.html#indexcontent",
-    "year_of_birth": null,
-    "year_of_death": null,
+    "year_of_birth": "1654",
+    "year_of_death": "1689",
     "wikidata_url": "http://www.wikidata.org/entity/Q112088",
     "wikidata_enriched": true,
     "img_name": "J.F. Leonart - Maria Anna, Archduchess of Austria.jpg",
     "img_fetched": true,
-    "img_source": "commonsMedia"
+    "img_source": "commonsMedia",
+    "birth_date_written": null,
+    "death_date_written": null
   },
   "61": {
     "id": 61,
@@ -1137,7 +1255,9 @@
     "wikidata_enriched": false,
     "img_name": null,
     "img_fetched": false,
-    "img_source": null
+    "img_source": null,
+    "birth_date_written": null,
+    "death_date_written": null
   },
   "62": {
     "id": 62,
@@ -1156,7 +1276,9 @@
     "wikidata_enriched": false,
     "img_name": null,
     "img_fetched": false,
-    "img_source": null
+    "img_source": null,
+    "birth_date_written": null,
+    "death_date_written": null
   },
   "63": {
     "id": 63,
@@ -1169,13 +1291,15 @@
     "color": "",
     "lebensdaten": "1622-1687",
     "ndb": "https://www.deutsche-biographie.de/sfz61329.html#indexcontent",
-    "year_of_birth": null,
-    "year_of_death": null,
+    "year_of_birth": "1622",
+    "year_of_death": "1687",
     "wikidata_url": "http://www.wikidata.org/entity/Q875530",
     "wikidata_enriched": true,
     "img_name": "Portrait Max Gandolf.jpg",
     "img_fetched": true,
-    "img_source": "commonsMedia"
+    "img_source": "commonsMedia",
+    "birth_date_written": null,
+    "death_date_written": null
   },
   "64": {
     "id": 64,
@@ -1188,13 +1312,15 @@
     "color": "",
     "lebensdaten": "1605-1685",
     "ndb": "https://www.deutsche-biographie.de/sfz58490.html#indexcontent",
-    "year_of_birth": null,
-    "year_of_death": null,
+    "year_of_birth": "1605",
+    "year_of_death": "1685",
     "wikidata_url": "http://www.wikidata.org/entity/Q1902418",
     "wikidata_enriched": true,
     "img_name": "Marquard II. Schenk von Castell Bischof von Eichstätt.jpg",
     "img_fetched": true,
-    "img_source": "commonsMedia"
+    "img_source": "commonsMedia",
+    "birth_date_written": null,
+    "death_date_written": null
   },
   "65": {
     "id": 65,
@@ -1207,13 +1333,15 @@
     "color": "",
     "lebensdaten": "1619-1683",
     "ndb": "https://www.deutsche-biographie.de/sfz60336.html#indexcontent",
-    "year_of_birth": null,
-    "year_of_death": null,
+    "year_of_birth": "1619",
+    "year_of_death": "1683",
     "wikidata_url": "http://www.wikidata.org/entity/Q90192",
     "wikidata_enriched": true,
     "img_name": "Dernbach 007.png",
     "img_fetched": true,
-    "img_source": "commonsMedia"
+    "img_source": "commonsMedia",
+    "birth_date_written": null,
+    "death_date_written": null
   },
   "66": {
     "id": 66,
@@ -1232,7 +1360,9 @@
     "wikidata_enriched": false,
     "img_name": null,
     "img_fetched": false,
-    "img_source": null
+    "img_source": null,
+    "birth_date_written": null,
+    "death_date_written": null
   },
   "67": {
     "id": 67,
@@ -1245,13 +1375,15 @@
     "color": "",
     "lebensdaten": "1640-1720",
     "ndb": "https://www.deutsche-biographie.de/pnd131504274.html#indexcontent",
-    "year_of_birth": null,
-    "year_of_death": null,
+    "year_of_birth": "1640",
+    "year_of_death": "1720",
     "wikidata_url": "http://www.wikidata.org/entity/Q18596545",
     "wikidata_enriched": true,
     "img_name": null,
     "img_fetched": true,
-    "img_source": null
+    "img_source": null,
+    "birth_date_written": null,
+    "death_date_written": null
   },
   "68": {
     "id": 68,
@@ -1270,7 +1402,9 @@
     "wikidata_enriched": false,
     "img_name": null,
     "img_fetched": false,
-    "img_source": null
+    "img_source": null,
+    "birth_date_written": null,
+    "death_date_written": null
   },
   "69": {
     "id": 69,
@@ -1289,7 +1423,9 @@
     "wikidata_enriched": false,
     "img_name": null,
     "img_fetched": false,
-    "img_source": null
+    "img_source": null,
+    "birth_date_written": null,
+    "death_date_written": null
   },
   "70": {
     "id": 70,
@@ -1302,13 +1438,15 @@
     "color": "",
     "lebensdaten": "1623-1685",
     "ndb": "https://www.deutsche-biographie.de/sfz56548.html#indexcontent",
-    "year_of_birth": null,
-    "year_of_death": null,
+    "year_of_birth": "1623",
+    "year_of_death": "1685",
     "wikidata_url": "http://www.wikidata.org/entity/Q86017",
     "wikidata_enriched": true,
     "img_name": "Albrecht-Sigismund-von-Bayern.jpg",
     "img_fetched": true,
-    "img_source": "commonsMedia"
+    "img_source": "commonsMedia",
+    "birth_date_written": null,
+    "death_date_written": null
   },
   "71": {
     "id": 71,
@@ -1321,13 +1459,15 @@
     "color": "",
     "lebensdaten": "1638-1732",
     "ndb": "https://www.deutsche-biographie.de/sfz71137.html",
-    "year_of_birth": null,
-    "year_of_death": null,
+    "year_of_birth": "1638",
+    "year_of_death": "1732",
     "wikidata_url": "http://www.wikidata.org/entity/Q56389655",
     "wikidata_enriched": true,
     "img_name": null,
     "img_fetched": true,
-    "img_source": null
+    "img_source": null,
+    "birth_date_written": null,
+    "death_date_written": null
   },
   "72": {
     "id": 72,
@@ -1340,13 +1480,15 @@
     "color": "",
     "lebensdaten": "1630-1694",
     "ndb": "https://www.deutsche-biographie.de/sfz57376.html#indexcontent",
-    "year_of_birth": null,
-    "year_of_death": null,
+    "year_of_birth": "1630",
+    "year_of_death": "1694",
     "wikidata_url": "http://www.wikidata.org/entity/Q1819881",
     "wikidata_enriched": true,
     "img_name": "Adel im Wandel236.jpg",
     "img_fetched": true,
-    "img_source": "commonsMedia"
+    "img_source": "commonsMedia",
+    "birth_date_written": null,
+    "death_date_written": null
   },
   "73": {
     "id": 73,
@@ -1359,13 +1501,15 @@
     "color": "",
     "lebensdaten": "1631-1677",
     "ndb": "https://www.deutsche-biographie.de/sfz3990.html#indexcontent",
-    "year_of_birth": null,
-    "year_of_death": null,
+    "year_of_birth": "1631",
+    "year_of_death": "1677",
     "wikidata_url": "http://www.wikidata.org/entity/Q91959",
     "wikidata_enriched": true,
     "img_name": "Bernhard Gustav von Baden-Durlach.jpg",
     "img_fetched": true,
-    "img_source": "commonsMedia"
+    "img_source": "commonsMedia",
+    "birth_date_written": null,
+    "death_date_written": null
   },
   "74": {
     "id": 74,
@@ -1378,13 +1522,15 @@
     "color": "",
     "lebensdaten": "1616-1683",
     "ndb": "https://www.deutsche-biographie.de/sfz32711.html#indexcontent",
-    "year_of_birth": null,
-    "year_of_death": null,
+    "year_of_birth": "1616",
+    "year_of_death": "1683",
     "wikidata_url": "http://www.wikidata.org/entity/Q89445",
     "wikidata_enriched": true,
     "img_name": "Arolsen Klebeband 02 255.jpg",
     "img_fetched": true,
-    "img_source": "commonsMedia"
+    "img_source": "commonsMedia",
+    "birth_date_written": null,
+    "death_date_written": null
   },
   "75": {
     "id": 75,
@@ -1397,13 +1543,15 @@
     "color": "",
     "lebensdaten": "1616-1682",
     "ndb": "https://www.deutsche-biographie.de/sfz52990.html#indexcontent",
-    "year_of_birth": null,
-    "year_of_death": null,
+    "year_of_birth": "1616",
+    "year_of_death": "1682",
     "wikidata_url": "http://www.wikidata.org/entity/Q540532",
     "wikidata_enriched": true,
     "img_name": "Friedrich-Kardinal.jpg",
     "img_fetched": true,
-    "img_source": "commonsMedia"
+    "img_source": "commonsMedia",
+    "birth_date_written": null,
+    "death_date_written": null
   },
   "76": {
     "id": 76,
@@ -1422,7 +1570,9 @@
     "wikidata_enriched": false,
     "img_name": null,
     "img_fetched": false,
-    "img_source": null
+    "img_source": null,
+    "birth_date_written": null,
+    "death_date_written": null
   },
   "77": {
     "id": 77,
@@ -1441,7 +1591,9 @@
     "wikidata_enriched": false,
     "img_name": null,
     "img_fetched": false,
-    "img_source": null
+    "img_source": null,
+    "birth_date_written": null,
+    "death_date_written": null
   },
   "78": {
     "id": 78,
@@ -1460,7 +1612,9 @@
     "wikidata_enriched": false,
     "img_name": null,
     "img_fetched": false,
-    "img_source": null
+    "img_source": null,
+    "birth_date_written": null,
+    "death_date_written": null
   },
   "79": {
     "id": 79,
@@ -1473,13 +1627,15 @@
     "color": "",
     "lebensdaten": "1657-1686",
     "ndb": "https://www.deutsche-biographie.de/pnd129971219.html#indexcontent",
-    "year_of_birth": null,
-    "year_of_death": null,
+    "year_of_birth": "1657",
+    "year_of_death": "1686",
     "wikidata_url": "",
     "wikidata_enriched": true,
     "img_name": null,
     "img_fetched": false,
-    "img_source": null
+    "img_source": null,
+    "birth_date_written": null,
+    "death_date_written": null
   },
   "80": {
     "id": 80,
@@ -1492,13 +1648,15 @@
     "color": "",
     "lebensdaten": "1628-1691",
     "ndb": "https://www.deutsche-biographie.de/sfz53239.html#indexcontent",
-    "year_of_birth": null,
-    "year_of_death": null,
+    "year_of_birth": "1628",
+    "year_of_death": "1691",
     "wikidata_url": "http://www.wikidata.org/entity/Q1613177",
     "wikidata_enriched": true,
     "img_name": "Hermann von Baden-Baden.jpg",
     "img_fetched": true,
-    "img_source": "commonsMedia"
+    "img_source": "commonsMedia",
+    "birth_date_written": null,
+    "death_date_written": null
   },
   "81": {
     "id": 81,
@@ -1511,13 +1669,15 @@
     "color": "",
     "lebensdaten": "1664-1741",
     "ndb": "https://www.deutsche-biographie.de/pnd133809668.html",
-    "year_of_birth": null,
-    "year_of_death": null,
+    "year_of_birth": "1664",
+    "year_of_death": "1741",
     "wikidata_url": "http://www.wikidata.org/entity/Q1469401",
     "wikidata_enriched": true,
     "img_name": "FrobenFerdinand.jpg",
     "img_fetched": true,
-    "img_source": "commonsMedia"
+    "img_source": "commonsMedia",
+    "birth_date_written": null,
+    "death_date_written": null
   },
   "82": {
     "id": 82,
@@ -1530,13 +1690,15 @@
     "color": "",
     "lebensdaten": "1659-1683",
     "ndb": "https://www.deutsche-biographie.de/sfz19011.html#indexcontent",
-    "year_of_birth": null,
-    "year_of_death": null,
+    "year_of_birth": "1659",
+    "year_of_death": "1683",
     "wikidata_url": "http://www.wikidata.org/entity/Q75770",
     "wikidata_enriched": true,
     "img_name": "Nicolas de Largillière (^) - Pfalzgraf Wolfgang Georg von der Pfalz - 4693 - Bavarian State Painting Collections.jpg",
     "img_fetched": true,
-    "img_source": "commonsMedia"
+    "img_source": "commonsMedia",
+    "birth_date_written": null,
+    "death_date_written": null
   },
   "83": {
     "id": 83,
@@ -1549,13 +1711,15 @@
     "color": "",
     "lebensdaten": "1612-1696",
     "ndb": "https://www.deutsche-biographie.de/sfz21459.html#indexcontent",
-    "year_of_birth": null,
-    "year_of_death": null,
+    "year_of_birth": "1612",
+    "year_of_death": "1696",
     "wikidata_url": "http://www.wikidata.org/entity/Q1696799",
     "wikidata_enriched": true,
     "img_name": "Johann von Goess1.jpg",
     "img_fetched": true,
-    "img_source": "commonsMedia"
+    "img_source": "commonsMedia",
+    "birth_date_written": null,
+    "death_date_written": null
   },
   "84": {
     "id": 84,
@@ -1568,13 +1732,15 @@
     "color": "",
     "lebensdaten": "1624-1691",
     "ndb": "https://www.deutsche-biographie.de/pnd118905414.html#indexcontent",
-    "year_of_birth": null,
-    "year_of_death": null,
+    "year_of_birth": "1624",
+    "year_of_death": "1691",
     "wikidata_url": "http://www.wikidata.org/entity/Q60844979",
     "wikidata_enriched": true,
     "img_name": null,
     "img_fetched": true,
-    "img_source": null
+    "img_source": null,
+    "birth_date_written": null,
+    "death_date_written": null
   },
   "85": {
     "id": 85,
@@ -1587,13 +1753,15 @@
     "color": "",
     "lebensdaten": "1650-1677",
     "ndb": "https://www.deutsche-biographie.de/pnd173286305.html#indexcontent",
-    "year_of_birth": null,
-    "year_of_death": null,
+    "year_of_birth": "1650",
+    "year_of_death": "1677",
     "wikidata_url": "http://www.wikidata.org/entity/Q11219584",
     "wikidata_enriched": true,
     "img_name": null,
     "img_fetched": true,
-    "img_source": null
+    "img_source": null,
+    "birth_date_written": null,
+    "death_date_written": null
   },
   "86": {
     "id": 86,
@@ -1606,13 +1774,15 @@
     "color": "",
     "lebensdaten": "1626-1682",
     "ndb": "https://www.deutsche-biographie.de/sfz56943.html#indexcontent",
-    "year_of_birth": null,
-    "year_of_death": null,
+    "year_of_birth": "1626",
+    "year_of_death": "1682",
     "wikidata_url": "http://www.wikidata.org/entity/Q530592",
     "wikidata_enriched": true,
     "img_name": "Franz Egon von Fuerstenberg Strassburg.jpg",
     "img_fetched": true,
-    "img_source": "commonsMedia"
+    "img_source": "commonsMedia",
+    "birth_date_written": null,
+    "death_date_written": null
   },
   "87": {
     "id": 87,
@@ -1625,13 +1795,15 @@
     "color": "",
     "lebensdaten": "1634-1702",
     "ndb": "https://www.deutsche-biographie.de/sfz60600.html#indexcontent",
-    "year_of_birth": null,
-    "year_of_death": null,
+    "year_of_birth": "1634",
+    "year_of_death": "1702",
     "wikidata_url": "http://www.wikidata.org/entity/Q20734959",
     "wikidata_enriched": true,
     "img_name": "Arolsen Klebeband 02 468.jpg",
     "img_fetched": true,
-    "img_source": "commonsMedia"
+    "img_source": "commonsMedia",
+    "birth_date_written": null,
+    "death_date_written": null
   },
   "88": {
     "id": 88,
@@ -1644,13 +1816,15 @@
     "color": "",
     "lebensdaten": "1606-1678",
     "ndb": "https://www.deutsche-biographie.de/sfz23149.html#indexcontent",
-    "year_of_birth": null,
-    "year_of_death": null,
+    "year_of_birth": "1606",
+    "year_of_death": "1678",
     "wikidata_url": "http://www.wikidata.org/entity/Q76491",
     "wikidata_enriched": true,
     "img_name": "Heimbach-Brustbildnis des Fürstbischofs Christoph Bernhard von Galen-WUS03294.jpg",
     "img_fetched": true,
-    "img_source": "commonsMedia"
+    "img_source": "commonsMedia",
+    "birth_date_written": null,
+    "death_date_written": null
   },
   "89": {
     "id": 89,
@@ -1663,13 +1837,15 @@
     "color": "",
     "lebensdaten": "1661-1700",
     "ndb": "https://www.deutsche-biographie.de/sfz70328.html#indexcontent",
-    "year_of_birth": null,
-    "year_of_death": null,
+    "year_of_birth": "1661",
+    "year_of_death": "1700",
     "wikidata_url": "http://www.wikidata.org/entity/Q36174",
     "wikidata_enriched": true,
     "img_name": "Rey Carlos II.jpg",
     "img_fetched": true,
-    "img_source": "commonsMedia"
+    "img_source": "commonsMedia",
+    "birth_date_written": null,
+    "death_date_written": null
   },
   "90": {
     "id": 90,
@@ -1682,13 +1858,15 @@
     "color": "",
     "lebensdaten": "1661-1696",
     "ndb": "",
-    "year_of_birth": null,
-    "year_of_death": null,
+    "year_of_birth": "1661",
+    "year_of_death": "1696",
     "wikidata_url": "",
     "wikidata_enriched": false,
     "img_name": null,
     "img_fetched": false,
-    "img_source": null
+    "img_source": null,
+    "birth_date_written": null,
+    "death_date_written": null
   },
   "91": {
     "id": 91,
@@ -1701,13 +1879,15 @@
     "color": "",
     "lebensdaten": "1629-1704",
     "ndb": "https://www.deutsche-biographie.de/sfz60658.html#indexcontent",
-    "year_of_birth": null,
-    "year_of_death": null,
+    "year_of_birth": "1629",
+    "year_of_death": "1704",
     "wikidata_url": "http://www.wikidata.org/entity/Q70876",
     "wikidata_enriched": true,
     "img_name": "Portrait de Guillaume-Egon de Furstenberg, cardinal évêque de Strasbourg (phbw13 0489).jpg",
     "img_fetched": true,
-    "img_source": "commonsMedia"
+    "img_source": "commonsMedia",
+    "birth_date_written": null,
+    "death_date_written": null
   },
   "92": {
     "id": 92,
@@ -1720,13 +1900,15 @@
     "color": "",
     "lebensdaten": "1629-1689",
     "ndb": "https://www.deutsche-biographie.de/sfz35124.html#indexcontent",
-    "year_of_birth": null,
-    "year_of_death": null,
+    "year_of_birth": "1629",
+    "year_of_death": "1689",
     "wikidata_url": "http://www.wikidata.org/entity/Q67194",
     "wikidata_enriched": true,
     "img_name": "Adolph John of Sweden c 1660 by David Beck.jpg",
     "img_fetched": true,
-    "img_source": "commonsMedia"
+    "img_source": "commonsMedia",
+    "birth_date_written": null,
+    "death_date_written": null
   },
   "93": {
     "id": 93,
@@ -1739,13 +1921,15 @@
     "color": "",
     "lebensdaten": "1632-1689",
     "ndb": "",
-    "year_of_birth": null,
-    "year_of_death": null,
+    "year_of_birth": "1632",
+    "year_of_death": "1689",
     "wikidata_url": "",
     "wikidata_enriched": false,
     "img_name": null,
     "img_fetched": false,
-    "img_source": null
+    "img_source": null,
+    "birth_date_written": null,
+    "death_date_written": null
   },
   "94": {
     "id": 94,
@@ -1758,13 +1942,15 @@
     "color": "",
     "lebensdaten": "1661-1720",
     "ndb": "",
-    "year_of_birth": null,
-    "year_of_death": null,
+    "year_of_birth": "1661",
+    "year_of_death": "1720",
     "wikidata_url": "",
     "wikidata_enriched": false,
     "img_name": null,
     "img_fetched": false,
-    "img_source": null
+    "img_source": null,
+    "birth_date_written": null,
+    "death_date_written": null
   },
   "95": {
     "id": 95,
@@ -1777,13 +1963,15 @@
     "color": "",
     "lebensdaten": "1663-1748",
     "ndb": "",
-    "year_of_birth": null,
-    "year_of_death": null,
+    "year_of_birth": "1663",
+    "year_of_death": "1748",
     "wikidata_url": "",
     "wikidata_enriched": false,
     "img_name": null,
     "img_fetched": false,
-    "img_source": null
+    "img_source": null,
+    "birth_date_written": null,
+    "death_date_written": null
   },
   "96": {
     "id": 96,
@@ -1796,13 +1984,15 @@
     "color": "",
     "lebensdaten": "1654-1732",
     "ndb": "",
-    "year_of_birth": null,
-    "year_of_death": null,
+    "year_of_birth": "1654",
+    "year_of_death": "1732",
     "wikidata_url": "",
     "wikidata_enriched": false,
     "img_name": null,
     "img_fetched": false,
-    "img_source": null
+    "img_source": null,
+    "birth_date_written": null,
+    "death_date_written": null
   },
   "97": {
     "id": 97,
@@ -1815,13 +2005,15 @@
     "color": "",
     "lebensdaten": "1644-1688",
     "ndb": "https://www.deutsche-biographie.de/pnd121822598X.html#indexcontent",
-    "year_of_birth": null,
-    "year_of_death": null,
+    "year_of_birth": "1644",
+    "year_of_death": "1688",
     "wikidata_url": "",
     "wikidata_enriched": true,
     "img_name": null,
     "img_fetched": false,
-    "img_source": null
+    "img_source": null,
+    "birth_date_written": null,
+    "death_date_written": null
   },
   "98": {
     "id": 98,
@@ -1840,7 +2032,9 @@
     "wikidata_enriched": false,
     "img_name": null,
     "img_fetched": false,
-    "img_source": null
+    "img_source": null,
+    "birth_date_written": null,
+    "death_date_written": null
   },
   "99": {
     "id": 99,
@@ -1853,13 +2047,15 @@
     "color": "",
     "lebensdaten": "1605-1694",
     "ndb": "https://www.deutsche-biographie.de/pnd1166465764.html#indexcontent",
-    "year_of_birth": null,
-    "year_of_death": null,
+    "year_of_birth": "1605",
+    "year_of_death": "1694",
     "wikidata_url": "",
     "wikidata_enriched": true,
     "img_name": null,
     "img_fetched": false,
-    "img_source": null
+    "img_source": null,
+    "birth_date_written": null,
+    "death_date_written": null
   },
   "100": {
     "id": 100,
@@ -1872,13 +2068,15 @@
     "color": "",
     "lebensdaten": "1624-1678",
     "ndb": "https://www.deutsche-biographie.de/sfz60891.html#indexcontent",
-    "year_of_birth": null,
-    "year_of_death": null,
+    "year_of_birth": "1624",
+    "year_of_death": "1678",
     "wikidata_url": "http://www.wikidata.org/entity/Q73830",
     "wikidata_enriched": true,
     "img_name": "Damian hartard leyen.jpg",
     "img_fetched": true,
-    "img_source": "commonsMedia"
+    "img_source": "commonsMedia",
+    "birth_date_written": null,
+    "death_date_written": null
   },
   "101": {
     "id": 101,
@@ -1891,13 +2089,15 @@
     "color": "",
     "lebensdaten": "1634-1711",
     "ndb": "https://www.deutsche-biographie.de/sfz39453.html#indexcontent",
-    "year_of_birth": null,
-    "year_of_death": null,
+    "year_of_birth": "1634",
+    "year_of_death": "1711",
     "wikidata_url": "http://www.wikidata.org/entity/Q878159",
     "wikidata_enriched": true,
     "img_name": "Johann Hugo von Orsbeck (Mittelrhein-Museum).JPG",
     "img_fetched": true,
-    "img_source": "commonsMedia"
+    "img_source": "commonsMedia",
+    "birth_date_written": null,
+    "death_date_written": null
   },
   "102": {
     "id": 102,
@@ -1910,13 +2110,15 @@
     "color": "",
     "lebensdaten": "1624-1685",
     "ndb": "https://www.deutsche-biographie.de/pnd1013454316.html#indexcontent",
-    "year_of_birth": null,
-    "year_of_death": null,
+    "year_of_birth": "1624",
+    "year_of_death": "1685",
     "wikidata_url": "http://www.wikidata.org/entity/Q1333635",
     "wikidata_enriched": true,
     "img_name": null,
     "img_fetched": true,
-    "img_source": null
+    "img_source": null,
+    "birth_date_written": null,
+    "death_date_written": null
   },
   "103": {
     "id": 103,
@@ -1935,7 +2137,9 @@
     "wikidata_enriched": false,
     "img_name": null,
     "img_fetched": false,
-    "img_source": null
+    "img_source": null,
+    "birth_date_written": null,
+    "death_date_written": null
   },
   "104": {
     "id": 104,
@@ -1954,7 +2158,9 @@
     "wikidata_enriched": false,
     "img_name": null,
     "img_fetched": false,
-    "img_source": null
+    "img_source": null,
+    "birth_date_written": null,
+    "death_date_written": null
   },
   "105": {
     "id": 105,
@@ -1973,7 +2179,9 @@
     "wikidata_enriched": false,
     "img_name": null,
     "img_fetched": false,
-    "img_source": null
+    "img_source": null,
+    "birth_date_written": null,
+    "death_date_written": null
   },
   "106": {
     "id": 106,
@@ -1992,7 +2200,9 @@
     "wikidata_enriched": false,
     "img_name": null,
     "img_fetched": false,
-    "img_source": null
+    "img_source": null,
+    "birth_date_written": null,
+    "death_date_written": null
   },
   "107": {
     "id": 107,
@@ -2005,13 +2215,15 @@
     "color": "",
     "lebensdaten": "1626-1700",
     "ndb": "https://www.deutsche-biographie.de/pnd118948008.html#indexcontent",
-    "year_of_birth": null,
-    "year_of_death": null,
+    "year_of_birth": "1626",
+    "year_of_death": "1700",
     "wikidata_url": "http://www.wikidata.org/entity/Q744548",
     "wikidata_enriched": true,
     "img_name": "Portret van kardinaal Francesco Buonvisi Franciscvs S.R.E. presbyter die septembris MDCLXXXI (titel op object), RP-P-1909-5576.jpg",
     "img_fetched": true,
-    "img_source": "commonsMedia"
+    "img_source": "commonsMedia",
+    "birth_date_written": null,
+    "death_date_written": null
   },
   "108": {
     "id": 108,
@@ -2024,12 +2236,308 @@
     "color": "",
     "lebensdaten": "1669-1736",
     "ndb": "https://www.deutsche-biographie.de/sfz57371.html",
-    "year_of_birth": null,
-    "year_of_death": null,
+    "year_of_birth": "1669",
+    "year_of_death": "1736",
     "wikidata_url": "http://www.wikidata.org/entity/Q55890418",
     "wikidata_enriched": true,
     "img_name": null,
     "img_fetched": true,
-    "img_source": null
+    "img_source": null,
+    "birth_date_written": null,
+    "death_date_written": null
+  },
+  "109": {
+    "id": 109,
+    "order": "109.00000000000000000000",
+    "name": "Amalie Wilhelmine von Braunschweig-Lüneburg",
+    "gnd": "http://d-nb.info/101076983",
+    "other_url": "",
+    "emt_id": "emt_person_id__109",
+    "internal_comment": "",
+    "color": "",
+    "lebensdaten": "1673-1742",
+    "ndb": "https://www.deutsche-biographie.de/sfz60662.html",
+    "year_of_birth": "1673",
+    "year_of_death": "1742",
+    "wikidata_url": "",
+    "wikidata_enriched": false,
+    "img_name": "",
+    "img_fetched": false,
+    "img_source": "",
+    "birth_date_written": "",
+    "death_date_written": ""
+  },
+  "110": {
+    "id": 110,
+    "order": "110.00000000000000000000",
+    "name": "Elisabeth Christine von Braunschweig-Wolfenbüttel",
+    "gnd": "http://d-nb.info/122035143",
+    "other_url": "",
+    "emt_id": "emt_person_id__110",
+    "internal_comment": "",
+    "color": "",
+    "lebensdaten": "1691-1750",
+    "ndb": "https://www.deutsche-biographie.de/sfz56823.html#indexcontent",
+    "year_of_birth": "1691",
+    "year_of_death": "1750",
+    "wikidata_url": "",
+    "wikidata_enriched": false,
+    "img_name": "",
+    "img_fetched": false,
+    "img_source": "",
+    "birth_date_written": "",
+    "death_date_written": ""
+  },
+  "111": {
+    "id": 111,
+    "order": "111.00000000000000000000",
+    "name": "Maria Elisabeth, Erzherzogin",
+    "gnd": "http://d-nb.info/118927426",
+    "other_url": "",
+    "emt_id": "emt_person_id__111",
+    "internal_comment": "",
+    "color": "",
+    "lebensdaten": "1680-1741",
+    "ndb": "https://www.deutsche-biographie.de/sfz58335.html#indexcontent",
+    "year_of_birth": "1680",
+    "year_of_death": "1741",
+    "wikidata_url": "",
+    "wikidata_enriched": false,
+    "img_name": "",
+    "img_fetched": false,
+    "img_source": "",
+    "birth_date_written": "",
+    "death_date_written": ""
+  },
+  "112": {
+    "id": 112,
+    "order": "112.00000000000000000000",
+    "name": "Leopold Joseph, Erzherzog",
+    "gnd": "",
+    "other_url": "",
+    "emt_id": "emt_person_id__112",
+    "internal_comment": "",
+    "color": "",
+    "lebensdaten": "1682-1684",
+    "ndb": "",
+    "year_of_birth": "1682",
+    "year_of_death": "1684",
+    "wikidata_url": "",
+    "wikidata_enriched": false,
+    "img_name": "",
+    "img_fetched": false,
+    "img_source": "",
+    "birth_date_written": "",
+    "death_date_written": ""
+  },
+  "113": {
+    "id": 113,
+    "order": "113.00000000000000000000",
+    "name": "Maria Anna Josepha, Erzherzogin",
+    "gnd": "http://d-nb.info/119360691",
+    "other_url": "",
+    "emt_id": "emt_person_id__113",
+    "internal_comment": "",
+    "color": "",
+    "lebensdaten": "1683-1754",
+    "ndb": "https://www.deutsche-biographie.de/sfz58352.html#indexcontent",
+    "year_of_birth": "1683",
+    "year_of_death": "1754",
+    "wikidata_url": "",
+    "wikidata_enriched": false,
+    "img_name": "",
+    "img_fetched": false,
+    "img_source": "",
+    "birth_date_written": "",
+    "death_date_written": ""
+  },
+  "114": {
+    "id": 114,
+    "order": "114.00000000000000000000",
+    "name": "Maria Josepha, Erzherzogin",
+    "gnd": "",
+    "other_url": "",
+    "emt_id": "emt_person_id__114",
+    "internal_comment": "",
+    "color": "",
+    "lebensdaten": "1687-1703",
+    "ndb": "",
+    "year_of_birth": "1687",
+    "year_of_death": "1703",
+    "wikidata_url": "",
+    "wikidata_enriched": false,
+    "img_name": "",
+    "img_fetched": false,
+    "img_source": "",
+    "birth_date_written": "",
+    "death_date_written": ""
+  },
+  "115": {
+    "id": 115,
+    "order": "115.00000000000000000000",
+    "name": "Maria Theresia, Erzherzogin",
+    "gnd": "",
+    "other_url": "",
+    "emt_id": "emt_person_id__115",
+    "internal_comment": "",
+    "color": "",
+    "lebensdaten": "1684-1696",
+    "ndb": "",
+    "year_of_birth": "1684",
+    "year_of_death": "1696",
+    "wikidata_url": "",
+    "wikidata_enriched": false,
+    "img_name": "",
+    "img_fetched": false,
+    "img_source": "",
+    "birth_date_written": "",
+    "death_date_written": ""
+  },
+  "116": {
+    "id": 116,
+    "order": "116.00000000000000000000",
+    "name": "Maria Magdalena, Erzherzogin",
+    "gnd": "http://d-nb.info/1019759852",
+    "other_url": "",
+    "emt_id": "emt_person_id__116",
+    "internal_comment": "",
+    "color": "",
+    "lebensdaten": "1689-1743",
+    "ndb": "https://www.deutsche-biographie.de/sfz099_00044_1.html",
+    "year_of_birth": "1689",
+    "year_of_death": "1743",
+    "wikidata_url": "",
+    "wikidata_enriched": false,
+    "img_name": "",
+    "img_fetched": false,
+    "img_source": "",
+    "birth_date_written": "",
+    "death_date_written": ""
+  },
+  "117": {
+    "id": 117,
+    "order": "117.00000000000000000000",
+    "name": "Maria Margaretha, Erzherzogin",
+    "gnd": "",
+    "other_url": "",
+    "emt_id": "emt_person_id__117",
+    "internal_comment": "",
+    "color": "",
+    "lebensdaten": "1690-1691",
+    "ndb": "",
+    "year_of_birth": "1690",
+    "year_of_death": "1691",
+    "wikidata_url": "",
+    "wikidata_enriched": false,
+    "img_name": "",
+    "img_fetched": false,
+    "img_source": "",
+    "birth_date_written": "",
+    "death_date_written": ""
+  },
+  "118": {
+    "id": 118,
+    "order": "118.00000000000000000000",
+    "name": "Fürst Dietrichstein, Obersthofmeister EMT",
+    "gnd": "",
+    "other_url": "",
+    "emt_id": "emt_person_id__118",
+    "internal_comment": "",
+    "color": "",
+    "lebensdaten": "",
+    "ndb": "",
+    "year_of_birth": null,
+    "year_of_death": null,
+    "wikidata_url": "",
+    "wikidata_enriched": false,
+    "img_name": "",
+    "img_fetched": false,
+    "img_source": "",
+    "birth_date_written": "",
+    "death_date_written": ""
+  },
+  "119": {
+    "id": 119,
+    "order": "119.00000000000000000000",
+    "name": "Graf von Velen, überbringt Gruß von Philipp Wilhelm 1677",
+    "gnd": "",
+    "other_url": "",
+    "emt_id": "emt_person_id__119",
+    "internal_comment": "",
+    "color": "",
+    "lebensdaten": "",
+    "ndb": "",
+    "year_of_birth": null,
+    "year_of_death": null,
+    "wikidata_url": "",
+    "wikidata_enriched": false,
+    "img_name": "",
+    "img_fetched": false,
+    "img_source": "",
+    "birth_date_written": "",
+    "death_date_written": ""
+  },
+  "120": {
+    "id": 120,
+    "order": "120.00000000000000000000",
+    "name": "Graf Wolf (wohl: Wolf von Metternich), überbringt Schreiben von PW 1677",
+    "gnd": "",
+    "other_url": "",
+    "emt_id": "emt_person_id__120",
+    "internal_comment": "",
+    "color": "",
+    "lebensdaten": "",
+    "ndb": "",
+    "year_of_birth": null,
+    "year_of_death": null,
+    "wikidata_url": "",
+    "wikidata_enriched": false,
+    "img_name": "",
+    "img_fetched": false,
+    "img_source": "",
+    "birth_date_written": "",
+    "death_date_written": ""
+  },
+  "121": {
+    "id": 121,
+    "order": "121.00000000000000000000",
+    "name": "Emmerich Sinelli SJ",
+    "gnd": "",
+    "other_url": "",
+    "emt_id": "emt_person_id__121",
+    "internal_comment": "",
+    "color": "",
+    "lebensdaten": "",
+    "ndb": "",
+    "year_of_birth": null,
+    "year_of_death": null,
+    "wikidata_url": "",
+    "wikidata_enriched": false,
+    "img_name": "",
+    "img_fetched": false,
+    "img_source": "",
+    "birth_date_written": "",
+    "death_date_written": ""
+  },
+  "122": {
+    "id": 122,
+    "order": "122.00000000000000000000",
+    "name": "Markgraf von Ansbach, zum Jagen in Wien 1677",
+    "gnd": "",
+    "other_url": "",
+    "emt_id": "emt_person_id__122",
+    "internal_comment": "",
+    "color": "",
+    "lebensdaten": "",
+    "ndb": "",
+    "year_of_birth": null,
+    "year_of_death": null,
+    "wikidata_url": "",
+    "wikidata_enriched": false,
+    "img_name": "",
+    "img_fetched": false,
+    "img_source": "",
+    "birth_date_written": "",
+    "death_date_written": ""
   }
 }

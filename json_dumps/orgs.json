@@ -2,21 +2,21 @@
   "1": {
     "id": 1,
     "order": "1.00000000000000000000",
-    "name": "",
+    "name": "Fränkischer Kreis",
     "Anmerkungen": "",
     "emt_id": "emt_institution_id__1"
   },
   "2": {
     "id": 2,
     "order": "2.00000000000000000000",
-    "name": "",
+    "name": "Domkapitel zu Köln",
     "Anmerkungen": "",
     "emt_id": "emt_institution_id__2"
   },
   "3": {
     "id": 3,
     "order": "3.00000000000000000000",
-    "name": "",
+    "name": "Kapuzinerorden (OFM Cap)",
     "Anmerkungen": "",
     "emt_id": "emt_institution_id__3"
   }
