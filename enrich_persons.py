@@ -1,7 +1,6 @@
 import requests
 from tqdm import tqdm
 from config import br_client, BASEROW_DB_ID
-from acdh_geonames_utils.gn_client import gn_as_object
 from acdh_id_reconciler import gnd_to_wikidata
 
 
