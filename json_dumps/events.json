@@ -33,7 +33,8 @@
                 "ndb": "https://www.deutsche-biographie.de/sfz56812.html",
                 "year_of_birth": "1655",
                 "year_of_death": "1720",
-                "wikidata_url": ""
+                "wikidata_url": "http://www.wikidata.org/entity/Q57527",
+                "wikidata_enriched": true
             }
         ],
         "description": null,
@@ -75,7 +76,8 @@
                 "ndb": "https://www.deutsche-biographie.de/sfz56812.html",
                 "year_of_birth": "1655",
                 "year_of_death": "1720",
-                "wikidata_url": ""
+                "wikidata_url": "http://www.wikidata.org/entity/Q57527",
+                "wikidata_enriched": true
             },
             {
                 "id": 35,
@@ -90,7 +92,8 @@
                 "ndb": "https://www.deutsche-biographie.de/sfz70500.html#indexcontent",
                 "year_of_birth": "1640",
                 "year_of_death": "1705",
-                "wikidata_url": ""
+                "wikidata_url": "http://www.wikidata.org/entity/Q150494",
+                "wikidata_enriched": true
             }
         ],
         "description": null,

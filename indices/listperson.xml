@@ -81,6 +81,7 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                   </death>
                   <idno type="GND">https://d-nb.info/gnd/119426099</idno>
                   <idno type="NDB">https://www.deutsche-biographie.de/sfz92646.html#indexcontent</idno>
+                  <idno type="WIKIDATA">http://www.wikidata.org/entity/Q433395</idno>
                </person>
                <person xml:id="emt_person_id__4">
                   <persName>Balthasar Miller SJ</persName>
@@ -92,6 +93,7 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                   </death>
                   <idno type="GND">https://d-nb.info/gnd/138385211</idno>
                   <idno type="NDB">https://www.deutsche-biographie.de/sfz63383.html#indexcontent</idno>
+                  <idno type="WIKIDATA">http://www.wikidata.org/entity/Q55856674</idno>
                </person>
                <person xml:id="emt_person_id__5">
                   <persName>Canonico Ecchellense</persName>
@@ -109,6 +111,7 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                   </death>
                   <idno type="GND">https://d-nb.info/gnd/124899242</idno>
                   <idno type="NDB">https://www.deutsche-biographie.de/sfz40232.html#indexcontent</idno>
+                  <idno type="WIKIDATA">http://www.wikidata.org/entity/Q87030</idno>
                </person>
                <person xml:id="emt_person_id__8">
                   <persName>Dorothea Sophie von Parma, geb. Pfalz-Neuburg</persName>
@@ -120,6 +123,7 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                   </death>
                   <idno type="GND">https://d-nb.info/gnd/12227671X</idno>
                   <idno type="NDB">https://www.deutsche-biographie.de/sfz92836.html#indexcontent</idno>
+                  <idno type="WIKIDATA">http://www.wikidata.org/entity/Q60431</idno>
                   <idno type="URL">https://www.treccani.it/enciclopedia/dorotea-sofia-di-neuburg-duchessa-di-parma-e-piacenza_%28Dizionario-Biografico%29/</idno>
                </person>
                <person xml:id="emt_person_id__9">
@@ -132,6 +136,7 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                   </death>
                   <idno type="GND">https://d-nb.info/gnd/101026641</idno>
                   <idno type="NDB">https://www.deutsche-biographie.de/sfz56812.html</idno>
+                  <idno type="WIKIDATA">http://www.wikidata.org/entity/Q57527</idno>
                </person>
                <person xml:id="emt_person_id__10">
                   <persName>Elisabeth Amalie von Pfalz-Neuburg, geb. Hessen-Darmstadt</persName>
@@ -143,6 +148,7 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                   </death>
                   <idno type="GND">https://d-nb.info/gnd/12890285X</idno>
                   <idno type="NDB">https://www.deutsche-biographie.de/sfz56833.html</idno>
+                  <idno type="WIKIDATA">http://www.wikidata.org/entity/Q237761</idno>
                </person>
                <person xml:id="emt_person_id__11">
                   <persName>Ercole Turinetti de Priè</persName>
@@ -154,6 +160,7 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                   </death>
                   <idno type="GND">https://d-nb.info/gnd/1024116751</idno>
                   <idno type="NDB">https://www.deutsche-biographie.de/pnd1024116751.html#indexcontent</idno>
+                  <idno type="WIKIDATA">http://www.wikidata.org/entity/Q677757</idno>
                   <idno type="URL">https://www.treccani.it/enciclopedia/ricerca/Ercole%20Turinetti%20de%20Pri%C3%A8/?search=Ercole%20Turinetti%20de%20Pri%C3%A8</idno>
                </person>
                <person xml:id="emt_person_id__12">
@@ -166,6 +173,7 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                   </death>
                   <idno type="GND">https://d-nb.info/gnd/120089874</idno>
                   <idno type="NDB">https://www.deutsche-biographie.de/sfz52029.html</idno>
+                  <idno type="WIKIDATA">http://www.wikidata.org/entity/Q3068514</idno>
                </person>
                <person xml:id="emt_person_id__13">
                   <persName>Leopold Matthias von Lamberg</persName>
@@ -177,6 +185,7 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                   </death>
                   <idno type="GND">https://d-nb.info/gnd/123623790</idno>
                   <idno type="NDB">https://www.deutsche-biographie.de/sfz47509.html#indexcontent</idno>
+                  <idno type="WIKIDATA">http://www.wikidata.org/entity/Q51973772</idno>
                </person>
                <person xml:id="emt_person_id__14">
                   <persName>Franziska Sibylla Augusta von Baden-Baden, geb. Sachsen-Lauenburg</persName>
@@ -188,6 +197,7 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                   </death>
                   <idno type="GND">https://d-nb.info/gnd/118613871</idno>
                   <idno type="NDB">https://www.deutsche-biographie.de/sfz56295.html</idno>
+                  <idno type="WIKIDATA">http://www.wikidata.org/entity/Q70787</idno>
                </person>
                <person xml:id="emt_person_id__15">
                   <persName>Friedrich I. von Preußen, Kurfürst von Brandenburg</persName>
@@ -199,6 +209,7 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                   </death>
                   <idno type="GND">https://d-nb.info/gnd/118535730</idno>
                   <idno type="NDB">https://www.deutsche-biographie.de/sfz53015.html#indexcontent</idno>
+                  <idno type="WIKIDATA">http://www.wikidata.org/entity/Q151826</idno>
                </person>
                <person xml:id="emt_person_id__16">
                   <persName>Friedrich Karl von Schönborn</persName>
@@ -210,6 +221,7 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                   </death>
                   <idno type="GND">https://d-nb.info/gnd/118610058</idno>
                   <idno type="NDB">https://www.deutsche-biographie.de/sfz69825.html#indexcontent</idno>
+                  <idno type="WIKIDATA">http://www.wikidata.org/entity/Q67281</idno>
                </person>
                <person xml:id="emt_person_id__17">
                   <persName>Gottlieb Amadeus von Windischgrätz</persName>
@@ -221,6 +233,7 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                   </death>
                   <idno type="GND">https://d-nb.info/gnd/119220318</idno>
                   <idno type="NDB">https://www.deutsche-biographie.de/sfz85745.html#indexcontent</idno>
+                  <idno type="WIKIDATA">http://www.wikidata.org/entity/Q1539745</idno>
                </person>
                <person xml:id="emt_person_id__18">
                   <persName>Johann Wilhelm von Pfalz-Neuburg, Kurfürst von der Pfalz</persName>
@@ -232,6 +245,7 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                   </death>
                   <idno type="GND">https://d-nb.info/gnd/118712411</idno>
                   <idno type="NDB">https://www.deutsche-biographie.de/sfz57250.html#indexcontent</idno>
+                  <idno type="WIKIDATA">http://www.wikidata.org/entity/Q64266</idno>
                </person>
                <person xml:id="emt_person_id__19">
                   <persName>Johann Adam von Hoheneck</persName>
@@ -243,6 +257,7 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                   </death>
                   <idno type="GND">https://d-nb.info/gnd/116953470</idno>
                   <idno type="NDB">https://www.deutsche-biographie.de/sfz069_01034_1.html#indexcontent</idno>
+                  <idno type="WIKIDATA">http://www.wikidata.org/entity/Q19506614</idno>
                </person>
                <person xml:id="emt_person_id__20">
                   <persName>Johann Ferdinand von Hertodt</persName>
@@ -254,6 +269,7 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                   </death>
                   <idno type="GND">https://d-nb.info/gnd/124549101</idno>
                   <idno type="NDB">https://www.deutsche-biographie.de/pnd124549101.html#indexcontent</idno>
+                  <idno type="WIKIDATA">http://www.wikidata.org/entity/Q16859329</idno>
                </person>
                <person xml:id="emt_person_id__21">
                   <persName>Johann Gottfried von Redinghoven</persName>
@@ -265,6 +281,7 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                   </death>
                   <idno type="GND">https://d-nb.info/gnd/132640562</idno>
                   <idno type="NDB">https://www.deutsche-biographie.de/sfz75822.html#indexcontent</idno>
+                  <idno type="WIKIDATA">http://www.wikidata.org/entity/Q55126316</idno>
                </person>
                <person xml:id="emt_person_id__22">
                   <persName>Johanna Franziska von Miller, geb. Tänzl von Trazberg</persName>
@@ -277,6 +294,7 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                   <death>
                      <date notBefore="1717-01-01" notAfter="1717-12-31">1717</date>
                   </death>
+                  <idno type="WIKIDATA">http://www.wikidata.org/entity/Q16006181</idno>
                </person>
                <person xml:id="emt_person_id__24">
                   <persName>Joseph Clemens von Bayern, Kurfürst von Köln</persName>
@@ -288,6 +306,7 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                   </death>
                   <idno type="GND">https://d-nb.info/gnd/11909990X</idno>
                   <idno type="NDB">https://www.deutsche-biographie.de/sfz57278.html#indexcontent</idno>
+                  <idno type="WIKIDATA">http://www.wikidata.org/entity/Q76341</idno>
                </person>
                <person xml:id="emt_person_id__25">
                   <persName>Kaiser Joseph I.</persName>
@@ -299,6 +318,7 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                   </death>
                   <idno type="GND">https://d-nb.info/gnd/118558390</idno>
                   <idno type="NDB">https://www.deutsche-biographie.de/sfz57275.html#indexcontent</idno>
+                  <idno type="WIKIDATA">http://www.wikidata.org/entity/Q152480</idno>
                </person>
                <person xml:id="emt_person_id__26">
                   <persName>Alderano Cibo-Malaspina, Kardinal</persName>
@@ -309,6 +329,7 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                      <date notBefore="1711-01-01" notAfter="1711-12-31">1711</date>
                   </death>
                   <idno type="GND">https://d-nb.info/gnd/100008143</idno>
+                  <idno type="WIKIDATA">http://www.wikidata.org/entity/Q961920</idno>
                   <idno type="URL">https://www.treccani.it/enciclopedia/ricerca/Alderano%20Cibo/?search=Alderano%20Cibo</idno>
                </person>
                <person xml:id="emt_person_id__27">
@@ -321,6 +342,7 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                   </death>
                   <idno type="GND">https://d-nb.info/gnd/104174552</idno>
                   <idno type="NDB">https://www.deutsche-biographie.de/sfz68237.html#indexcontent</idno>
+                  <idno type="WIKIDATA">http://www.wikidata.org/entity/Q65772</idno>
                </person>
                <person xml:id="emt_person_id__28">
                   <persName>Vincenzo Grimani, Kardinal</persName>
@@ -331,6 +353,7 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                      <date notBefore="1710-01-01" notAfter="1710-12-31">1710</date>
                   </death>
                   <idno type="GND">https://d-nb.info/gnd/126443688</idno>
+                  <idno type="WIKIDATA">http://www.wikidata.org/entity/Q1247746</idno>
                   <idno type="URL">https://www.treccani.it/enciclopedia/vincenzo-grimani_(Dizionario-Biografico)/?search=GRIMANI%2C%20Vincenzo</idno>
                </person>
                <person xml:id="emt_person_id__29">
@@ -343,6 +366,7 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                   </death>
                   <idno type="GND">https://d-nb.info/gnd/118720953</idno>
                   <idno type="NDB">https://www.deutsche-biographie.de/sfz57322.html#indexcontent</idno>
+                  <idno type="WIKIDATA">http://www.wikidata.org/entity/Q62594</idno>
                </person>
                <person xml:id="emt_person_id__30">
                   <persName>Karl Theodor Otto zu Salm</persName>
@@ -354,6 +378,7 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                   </death>
                   <idno type="GND">https://d-nb.info/gnd/104302100</idno>
                   <idno type="NDB">https://www.deutsche-biographie.de/sfz109741.html#indexcontent</idno>
+                  <idno type="WIKIDATA">http://www.wikidata.org/entity/Q955938</idno>
                </person>
                <person xml:id="emt_person_id__31">
                   <persName>Kaiser Karl VI.</persName>
@@ -365,6 +390,7 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                   </death>
                   <idno type="GND">https://d-nb.info/gnd/118560107</idno>
                   <idno type="NDB">https://www.deutsche-biographie.de/sfz57293.html#indexcontent</idno>
+                  <idno type="WIKIDATA">http://www.wikidata.org/entity/Q150665</idno>
                </person>
                <person xml:id="emt_person_id__32">
                   <persName>Karl von Hessen-Wanfried</persName>
@@ -374,6 +400,7 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                   <death>
                      <date notBefore="1711-01-01" notAfter="1711-12-31">1711</date>
                   </death>
+                  <idno type="WIKIDATA">http://www.wikidata.org/entity/Q870668</idno>
                </person>
                <person xml:id="emt_person_id__33">
                   <persName>Karl V. von Lothringen</persName>
@@ -385,6 +412,7 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                   </death>
                   <idno type="GND">https://d-nb.info/gnd/118720902</idno>
                   <idno type="NDB">https://www.deutsche-biographie.de/sfz70324.html#indexcontent</idno>
+                  <idno type="WIKIDATA">http://www.wikidata.org/entity/Q156949</idno>
                </person>
                <person xml:id="emt_person_id__34">
                   <persName>Leopold Litizcki von Schönau</persName>
@@ -399,6 +427,7 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                   </death>
                   <idno type="GND">https://d-nb.info/gnd/118571869</idno>
                   <idno type="NDB">https://www.deutsche-biographie.de/sfz70500.html#indexcontent</idno>
+                  <idno type="WIKIDATA">http://www.wikidata.org/entity/Q150494</idno>
                </person>
                <person xml:id="emt_person_id__36">
                   <persName>Ludwig Wilhelm von Baden-Baden</persName>
@@ -410,6 +439,7 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                   </death>
                   <idno type="GND">https://d-nb.info/gnd/118729500</idno>
                   <idno type="NDB">https://www.deutsche-biographie.de/sfz54702.html#indexcontent</idno>
+                  <idno type="WIKIDATA">http://www.wikidata.org/entity/Q58755</idno>
                </person>
                <person xml:id="emt_person_id__37">
                   <persName>Maria Anna von Spanien, geb. Österreich</persName>
@@ -421,6 +451,7 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                   </death>
                   <idno type="GND">https://d-nb.info/gnd/118781863</idno>
                   <idno type="NDB">https://www.deutsche-biographie.de/sfz70634.html#indexcontent</idno>
+                  <idno type="WIKIDATA">http://www.wikidata.org/entity/Q311469</idno>
                </person>
                <person xml:id="emt_person_id__38">
                   <persName>Maria Anna von Spanien, geb. Pfalz-Neuburg</persName>
@@ -432,6 +463,7 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                   </death>
                   <idno type="GND">https://d-nb.info/gnd/123154405</idno>
                   <idno type="NDB">https://www.deutsche-biographie.de/sfz58377.html#indexcontent</idno>
+                  <idno type="WIKIDATA">http://www.wikidata.org/entity/Q57651</idno>
                </person>
                <person xml:id="emt_person_id__39">
                   <persName>Carlo Pio di Savoia, Kardinal</persName>
@@ -445,9 +477,11 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                </person>
                <person xml:id="emt_person_id__40">
                   <persName>Maria Elisabeth von Polheim, geb. Windischgrätz</persName>
+                  <idno type="WIKIDATA">http://www.wikidata.org/entity/Q1420310</idno>
                </person>
                <person xml:id="emt_person_id__41">
                   <persName>Maria Magdalena von Heister, geborene Hermbsinn von Perndorff</persName>
+                  <idno type="WIKIDATA">http://www.wikidata.org/entity/Q27968966</idno>
                </person>
                <person xml:id="emt_person_id__42">
                   <persName>Maria Sophie von Portugal, geb. Pfalz-Neuburg</persName>
@@ -459,6 +493,7 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                   </death>
                   <idno type="GND">https://d-nb.info/gnd/189551283</idno>
                   <idno type="NDB">https://www.deutsche-biographie.de/sfz58351.html#indexcontent</idno>
+                  <idno type="WIKIDATA">http://www.wikidata.org/entity/Q62048</idno>
                </person>
                <person xml:id="emt_person_id__43">
                   <persName>Marsilius Heüßlein von Eußenheim</persName>
@@ -476,6 +511,7 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                   </death>
                   <idno type="GND">https://d-nb.info/gnd/10030673X</idno>
                   <idno type="NDB">https://www.deutsche-biographie.de/sfz59377.html#indexcontent</idno>
+                  <idno type="WIKIDATA">http://www.wikidata.org/entity/Q76722</idno>
                </person>
                <person xml:id="emt_person_id__46">
                   <persName>Maximilian von Degenfeld</persName>
@@ -487,6 +523,7 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                   </death>
                   <idno type="GND">https://d-nb.info/gnd/120710102</idno>
                   <idno type="NDB">https://www.deutsche-biographie.de/sfz9509.html#indexcontent</idno>
+                  <idno type="WIKIDATA">http://www.wikidata.org/entity/Q55849151</idno>
                </person>
                <person xml:id="emt_person_id__47">
                   <persName>Moritz Heinrich von Nassau-Hadamar</persName>
@@ -498,6 +535,7 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                   </death>
                   <idno type="GND">https://d-nb.info/gnd/121164721</idno>
                   <idno type="NDB">https://www.deutsche-biographie.de/sfz65507.html#indexcontent</idno>
+                  <idno type="WIKIDATA">http://www.wikidata.org/entity/Q164377</idno>
                </person>
                <person xml:id="emt_person_id__48">
                   <persName>NN</persName>
@@ -517,6 +555,7 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                   <persName>Philipp Wilhelm von Pfalz-Neuburg, Kurfürst von der Pfalz</persName>
                   <idno type="GND">https://d-nb.info/gnd/118742221</idno>
                   <idno type="NDB">https://www.deutsche-biographie.de/sfz60354.html#indexcontent</idno>
+                  <idno type="WIKIDATA">http://www.wikidata.org/entity/Q60514</idno>
                </person>
                <person xml:id="emt_person_id__51">
                   <persName>Clemens XI. (Albani), Papst</persName>
@@ -528,6 +567,7 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                   </death>
                   <idno type="GND">https://d-nb.info/gnd/119139162</idno>
                   <idno type="NDB">https://www.deutsche-biographie.de/sfz125772.html#indexcontent</idno>
+                  <idno type="WIKIDATA">http://www.wikidata.org/entity/Q129967</idno>
                </person>
                <person xml:id="emt_person_id__52">
                   <persName>Pater Poitier</persName>
@@ -545,6 +585,7 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                   <persName>Theodor Heinrich von Strattmann</persName>
                   <idno type="GND">https://d-nb.info/gnd/119316900</idno>
                   <idno type="NDB">https://www.deutsche-biographie.de/sfz6828.html#indexcontent</idno>
+                  <idno type="WIKIDATA">http://www.wikidata.org/entity/Q7781639</idno>
                </person>
                <person xml:id="emt_person_id__57">
                   <persName>Velder ?</persName>
@@ -557,6 +598,7 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                   <death>
                      <date notBefore="1689-01-01" notAfter="1689-12-31">1689</date>
                   </death>
+                  <idno type="WIKIDATA">http://www.wikidata.org/entity/Q88477</idno>
                </person>
                <person xml:id="emt_person_id__59">
                   <persName>Joseph Tanner SJ</persName>
@@ -565,6 +607,7 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                   <persName>Maria Anna von Pfalz-Neuburg, geb. Österreich</persName>
                   <idno type="GND">https://d-nb.info/gnd/120100096</idno>
                   <idno type="NDB">https://www.deutsche-biographie.de/sfz099_00080_1.html#indexcontent</idno>
+                  <idno type="WIKIDATA">http://www.wikidata.org/entity/Q112088</idno>
                </person>
                <person xml:id="emt_person_id__61">
                   <persName>Pfalz-Neuburg, Haus</persName>
@@ -576,16 +619,19 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                   <persName>Maximilian Gandolf von Kuenburg, Erzbischof von Salzburg, Kardinal</persName>
                   <idno type="GND">https://d-nb.info/gnd/115524991</idno>
                   <idno type="NDB">https://www.deutsche-biographie.de/sfz61329.html#indexcontent</idno>
+                  <idno type="WIKIDATA">http://www.wikidata.org/entity/Q875530</idno>
                </person>
                <person xml:id="emt_person_id__64">
                   <persName>Marquard Schenk von Castell, Bischof von Eichstätt</persName>
                   <idno type="GND">https://d-nb.info/gnd/118977636</idno>
                   <idno type="NDB">https://www.deutsche-biographie.de/sfz58490.html#indexcontent</idno>
+                  <idno type="WIKIDATA">http://www.wikidata.org/entity/Q1902418</idno>
                </person>
                <person xml:id="emt_person_id__65">
                   <persName>Peter Philipp von Dernbach, Bischof von Bamberg</persName>
                   <idno type="GND">https://d-nb.info/gnd/118524801</idno>
                   <idno type="NDB">https://www.deutsche-biographie.de/sfz60336.html#indexcontent</idno>
+                  <idno type="WIKIDATA">http://www.wikidata.org/entity/Q90192</idno>
                </person>
                <person xml:id="emt_person_id__66">
                   <persName>Andreas Schellerer</persName>
@@ -597,6 +643,7 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                   <persName>Hamilton, Jacob de</persName>
                   <idno type="GND">https://d-nb.info/gnd/131504274</idno>
                   <idno type="NDB">https://www.deutsche-biographie.de/pnd131504274.html#indexcontent</idno>
+                  <idno type="WIKIDATA">http://www.wikidata.org/entity/Q18596545</idno>
                </person>
                <person xml:id="emt_person_id__68">
                   <persName>Hackh, Herr</persName>
@@ -608,31 +655,37 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                   <persName>Albrecht Sigismund von Bayern, Fürstbischof von Freising</persName>
                   <idno type="GND">https://d-nb.info/gnd/10422424X</idno>
                   <idno type="NDB">https://www.deutsche-biographie.de/sfz56548.html#indexcontent</idno>
+                  <idno type="WIKIDATA">http://www.wikidata.org/entity/Q86017</idno>
                </person>
                <person xml:id="emt_person_id__71">
                   <persName>Wilhelm Franz von Nesselrode-Ehreshoven</persName>
                   <idno type="GND">https://d-nb.info/gnd/116941715</idno>
                   <idno type="NDB">https://www.deutsche-biographie.de/sfz71137.html</idno>
+                  <idno type="WIKIDATA">http://www.wikidata.org/entity/Q56389655</idno>
                </person>
                <person xml:id="emt_person_id__72">
                   <persName>Leopold Wilhelm von Königsegg-Rothenfels</persName>
                   <idno type="GND">https://d-nb.info/gnd/115880917</idno>
                   <idno type="NDB">https://www.deutsche-biographie.de/sfz57376.html#indexcontent</idno>
+                  <idno type="WIKIDATA">http://www.wikidata.org/entity/Q1819881</idno>
                </person>
                <person xml:id="emt_person_id__73">
                   <persName>Bernhard Gustav von Baden-Durlach, Kardinal</persName>
                   <idno type="GND">https://d-nb.info/gnd/11892883X</idno>
                   <idno type="NDB">https://www.deutsche-biographie.de/sfz3990.html#indexcontent</idno>
+                  <idno type="WIKIDATA">http://www.wikidata.org/entity/Q91959</idno>
                </person>
                <person xml:id="emt_person_id__74">
                   <persName>Johann Paul Hocher</persName>
                   <idno type="GND">https://d-nb.info/gnd/119265648</idno>
                   <idno type="NDB">https://www.deutsche-biographie.de/sfz32711.html#indexcontent</idno>
+                  <idno type="WIKIDATA">http://www.wikidata.org/entity/Q89445</idno>
                </person>
                <person xml:id="emt_person_id__75">
                   <persName>Friedrich von Hessen-Darmstadt, Kardinal</persName>
                   <idno type="GND">https://d-nb.info/gnd/104366869</idno>
                   <idno type="NDB">https://www.deutsche-biographie.de/sfz52990.html#indexcontent</idno>
+                  <idno type="WIKIDATA">http://www.wikidata.org/entity/Q540532</idno>
                </person>
                <person xml:id="emt_person_id__76">
                   <persName>Egelhoff, Fräulein von</persName>
@@ -652,21 +705,25 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                   <persName>Hermann von Baden-Baden</persName>
                   <idno type="GND">https://d-nb.info/gnd/118981722</idno>
                   <idno type="NDB">https://www.deutsche-biographie.de/sfz53239.html#indexcontent</idno>
+                  <idno type="WIKIDATA">http://www.wikidata.org/entity/Q1613177</idno>
                </person>
                <person xml:id="emt_person_id__81">
                   <persName>Froben Ferdinand von Fürstenberg-Meßkirch</persName>
                   <idno type="GND">https://d-nb.info/gnd/133809668</idno>
                   <idno type="NDB">https://www.deutsche-biographie.de/pnd133809668.html</idno>
+                  <idno type="WIKIDATA">http://www.wikidata.org/entity/Q1469401</idno>
                </person>
                <person xml:id="emt_person_id__82">
                   <persName>Wolfgang Georg Friedrich von Pfalz-Neuburg</persName>
                   <idno type="GND">https://d-nb.info/gnd/118046055</idno>
                   <idno type="NDB">https://www.deutsche-biographie.de/sfz19011.html#indexcontent</idno>
+                  <idno type="WIKIDATA">http://www.wikidata.org/entity/Q75770</idno>
                </person>
                <person xml:id="emt_person_id__83">
                   <persName>Johann von Goess, Bischof von Gurk</persName>
                   <idno type="GND">https://d-nb.info/gnd/123662427</idno>
                   <idno type="NDB">https://www.deutsche-biographie.de/sfz21459.html#indexcontent</idno>
+                  <idno type="WIKIDATA">http://www.wikidata.org/entity/Q1696799</idno>
                </person>
                <person xml:id="emt_person_id__84">
                   <persName>Anna Katharina von Rietberg, geb. Salm-Reifferscheidt</persName>
@@ -677,6 +734,7 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                   <persName>Friedrich Wilhelm von Rietberg</persName>
                   <idno type="GND">https://d-nb.info/gnd/173286305</idno>
                   <idno type="NDB">https://www.deutsche-biographie.de/pnd173286305.html#indexcontent</idno>
+                  <idno type="WIKIDATA">http://www.wikidata.org/entity/Q11219584</idno>
                </person>
                <person xml:id="emt_person_id__86">
                   <persName>Franz Egon von Fürstenberg-Heiligenberg, Bischof von Straßburg</persName>

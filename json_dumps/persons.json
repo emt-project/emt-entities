@@ -12,7 +12,8 @@
     "ndb": "https://www.deutsche-biographie.de/sfz15435.html#indexcontent",
     "year_of_birth": "1630",
     "year_of_death": "1686",
-    "wikidata_url": ""
+    "wikidata_url": "",
+    "wikidata_enriched": false
   },
   "3": {
     "id": 3,
@@ -27,7 +28,8 @@
     "ndb": "https://www.deutsche-biographie.de/sfz92646.html#indexcontent",
     "year_of_birth": "1672",
     "year_of_death": "1741",
-    "wikidata_url": ""
+    "wikidata_url": "http://www.wikidata.org/entity/Q433395",
+    "wikidata_enriched": true
   },
   "4": {
     "id": 4,
@@ -42,7 +44,8 @@
     "ndb": "https://www.deutsche-biographie.de/sfz63383.html#indexcontent",
     "year_of_birth": "1635",
     "year_of_death": "1718",
-    "wikidata_url": ""
+    "wikidata_url": "http://www.wikidata.org/entity/Q55856674",
+    "wikidata_enriched": true
   },
   "5": {
     "id": 5,
@@ -57,7 +60,8 @@
     "ndb": "",
     "year_of_birth": null,
     "year_of_death": null,
-    "wikidata_url": ""
+    "wikidata_url": "",
+    "wikidata_enriched": false
   },
   "6": {
     "id": 6,
@@ -72,7 +76,8 @@
     "ndb": "",
     "year_of_birth": null,
     "year_of_death": null,
-    "wikidata_url": ""
+    "wikidata_url": "",
+    "wikidata_enriched": false
   },
   "7": {
     "id": 7,
@@ -87,7 +92,8 @@
     "ndb": "https://www.deutsche-biographie.de/sfz40232.html#indexcontent",
     "year_of_birth": "1665",
     "year_of_death": "1705",
-    "wikidata_url": ""
+    "wikidata_url": "http://www.wikidata.org/entity/Q87030",
+    "wikidata_enriched": true
   },
   "8": {
     "id": 8,
@@ -102,7 +108,8 @@
     "ndb": "https://www.deutsche-biographie.de/sfz92836.html#indexcontent",
     "year_of_birth": "1670",
     "year_of_death": "1748",
-    "wikidata_url": ""
+    "wikidata_url": "http://www.wikidata.org/entity/Q60431",
+    "wikidata_enriched": true
   },
   "9": {
     "id": 9,
@@ -117,7 +124,8 @@
     "ndb": "https://www.deutsche-biographie.de/sfz56812.html",
     "year_of_birth": "1655",
     "year_of_death": "1720",
-    "wikidata_url": ""
+    "wikidata_url": "http://www.wikidata.org/entity/Q57527",
+    "wikidata_enriched": true
   },
   "10": {
     "id": 10,
@@ -132,7 +140,8 @@
     "ndb": "https://www.deutsche-biographie.de/sfz56833.html",
     "year_of_birth": "1635",
     "year_of_death": "1709",
-    "wikidata_url": ""
+    "wikidata_url": "http://www.wikidata.org/entity/Q237761",
+    "wikidata_enriched": true
   },
   "11": {
     "id": 11,
@@ -147,7 +156,8 @@
     "ndb": "https://www.deutsche-biographie.de/pnd1024116751.html#indexcontent",
     "year_of_birth": "1658",
     "year_of_death": "1726",
-    "wikidata_url": ""
+    "wikidata_url": "http://www.wikidata.org/entity/Q677757",
+    "wikidata_enriched": true
   },
   "12": {
     "id": 12,
@@ -162,7 +172,8 @@
     "ndb": "https://www.deutsche-biographie.de/sfz52029.html",
     "year_of_birth": "1655",
     "year_of_death": "1715",
-    "wikidata_url": ""
+    "wikidata_url": "http://www.wikidata.org/entity/Q3068514",
+    "wikidata_enriched": true
   },
   "13": {
     "id": 13,
@@ -177,7 +188,8 @@
     "ndb": "https://www.deutsche-biographie.de/sfz47509.html#indexcontent",
     "year_of_birth": "1667",
     "year_of_death": "1711",
-    "wikidata_url": ""
+    "wikidata_url": "http://www.wikidata.org/entity/Q51973772",
+    "wikidata_enriched": true
   },
   "14": {
     "id": 14,
@@ -192,7 +204,8 @@
     "ndb": "https://www.deutsche-biographie.de/sfz56295.html",
     "year_of_birth": "1675",
     "year_of_death": "1733",
-    "wikidata_url": ""
+    "wikidata_url": "http://www.wikidata.org/entity/Q70787",
+    "wikidata_enriched": true
   },
   "15": {
     "id": 15,
@@ -207,7 +220,8 @@
     "ndb": "https://www.deutsche-biographie.de/sfz53015.html#indexcontent",
     "year_of_birth": "1657",
     "year_of_death": "1713",
-    "wikidata_url": ""
+    "wikidata_url": "http://www.wikidata.org/entity/Q151826",
+    "wikidata_enriched": true
   },
   "16": {
     "id": 16,
@@ -222,7 +236,8 @@
     "ndb": "https://www.deutsche-biographie.de/sfz69825.html#indexcontent",
     "year_of_birth": "1674",
     "year_of_death": "1746",
-    "wikidata_url": ""
+    "wikidata_url": "http://www.wikidata.org/entity/Q67281",
+    "wikidata_enriched": true
   },
   "17": {
     "id": 17,
@@ -237,7 +252,8 @@
     "ndb": "https://www.deutsche-biographie.de/sfz85745.html#indexcontent",
     "year_of_birth": "1630",
     "year_of_death": "1695",
-    "wikidata_url": ""
+    "wikidata_url": "http://www.wikidata.org/entity/Q1539745",
+    "wikidata_enriched": true
   },
   "18": {
     "id": 18,
@@ -252,7 +268,8 @@
     "ndb": "https://www.deutsche-biographie.de/sfz57250.html#indexcontent",
     "year_of_birth": "1658",
     "year_of_death": "1716",
-    "wikidata_url": ""
+    "wikidata_url": "http://www.wikidata.org/entity/Q64266",
+    "wikidata_enriched": true
   },
   "19": {
     "id": 19,
@@ -267,7 +284,8 @@
     "ndb": "https://www.deutsche-biographie.de/sfz069_01034_1.html#indexcontent",
     "year_of_birth": "1669",
     "year_of_death": "1754",
-    "wikidata_url": ""
+    "wikidata_url": "http://www.wikidata.org/entity/Q19506614",
+    "wikidata_enriched": true
   },
   "20": {
     "id": 20,
@@ -282,7 +300,8 @@
     "ndb": "https://www.deutsche-biographie.de/pnd124549101.html#indexcontent",
     "year_of_birth": "1645",
     "year_of_death": "1714",
-    "wikidata_url": ""
+    "wikidata_url": "http://www.wikidata.org/entity/Q16859329",
+    "wikidata_enriched": true
   },
   "21": {
     "id": 21,
@@ -297,7 +316,8 @@
     "ndb": "https://www.deutsche-biographie.de/sfz75822.html#indexcontent",
     "year_of_birth": "1628",
     "year_of_death": "1704",
-    "wikidata_url": ""
+    "wikidata_url": "http://www.wikidata.org/entity/Q55126316",
+    "wikidata_enriched": true
   },
   "22": {
     "id": 22,
@@ -312,7 +332,8 @@
     "ndb": "",
     "year_of_birth": null,
     "year_of_death": null,
-    "wikidata_url": ""
+    "wikidata_url": "",
+    "wikidata_enriched": false
   },
   "23": {
     "id": 23,
@@ -327,7 +348,8 @@
     "ndb": "",
     "year_of_birth": "1642",
     "year_of_death": "1717",
-    "wikidata_url": "https://www.wikidata.org/wiki/Q16006181"
+    "wikidata_url": "https://www.wikidata.org/wiki/Q16006181",
+    "wikidata_enriched": false
   },
   "24": {
     "id": 24,
@@ -342,7 +364,8 @@
     "ndb": "https://www.deutsche-biographie.de/sfz57278.html#indexcontent",
     "year_of_birth": "1671",
     "year_of_death": "1723",
-    "wikidata_url": ""
+    "wikidata_url": "http://www.wikidata.org/entity/Q76341",
+    "wikidata_enriched": true
   },
   "25": {
     "id": 25,
@@ -357,7 +380,8 @@
     "ndb": "https://www.deutsche-biographie.de/sfz57275.html#indexcontent",
     "year_of_birth": "1678",
     "year_of_death": "1711",
-    "wikidata_url": ""
+    "wikidata_url": "http://www.wikidata.org/entity/Q152480",
+    "wikidata_enriched": true
   },
   "26": {
     "id": 26,
@@ -372,7 +396,8 @@
     "ndb": "",
     "year_of_birth": "1613",
     "year_of_death": "1711",
-    "wikidata_url": ""
+    "wikidata_url": "http://www.wikidata.org/entity/Q961920",
+    "wikidata_enriched": true
   },
   "27": {
     "id": 27,
@@ -387,7 +412,8 @@
     "ndb": "https://www.deutsche-biographie.de/sfz68237.html#indexcontent",
     "year_of_birth": "1666",
     "year_of_death": "1725",
-    "wikidata_url": ""
+    "wikidata_url": "http://www.wikidata.org/entity/Q65772",
+    "wikidata_enriched": true
   },
   "28": {
     "id": 28,
@@ -402,7 +428,8 @@
     "ndb": "",
     "year_of_birth": "1655",
     "year_of_death": "1710",
-    "wikidata_url": ""
+    "wikidata_url": "http://www.wikidata.org/entity/Q1247746",
+    "wikidata_enriched": true
   },
   "29": {
     "id": 29,
@@ -417,7 +444,8 @@
     "ndb": "https://www.deutsche-biographie.de/sfz57322.html#indexcontent",
     "year_of_birth": "1661",
     "year_of_death": "1742",
-    "wikidata_url": ""
+    "wikidata_url": "http://www.wikidata.org/entity/Q62594",
+    "wikidata_enriched": true
   },
   "30": {
     "id": 30,
@@ -432,7 +460,8 @@
     "ndb": "https://www.deutsche-biographie.de/sfz109741.html#indexcontent",
     "year_of_birth": "1645",
     "year_of_death": "1710",
-    "wikidata_url": ""
+    "wikidata_url": "http://www.wikidata.org/entity/Q955938",
+    "wikidata_enriched": true
   },
   "31": {
     "id": 31,
@@ -447,7 +476,8 @@
     "ndb": "https://www.deutsche-biographie.de/sfz57293.html#indexcontent",
     "year_of_birth": "1685",
     "year_of_death": "1740",
-    "wikidata_url": ""
+    "wikidata_url": "http://www.wikidata.org/entity/Q150665",
+    "wikidata_enriched": true
   },
   "32": {
     "id": 32,
@@ -462,7 +492,8 @@
     "ndb": "",
     "year_of_birth": "1649",
     "year_of_death": "1711",
-    "wikidata_url": "https://www.wikidata.org/wiki/Q870668"
+    "wikidata_url": "https://www.wikidata.org/wiki/Q870668",
+    "wikidata_enriched": false
   },
   "33": {
     "id": 33,
@@ -477,7 +508,8 @@
     "ndb": "https://www.deutsche-biographie.de/sfz70324.html#indexcontent",
     "year_of_birth": "1643",
     "year_of_death": "1690",
-    "wikidata_url": ""
+    "wikidata_url": "http://www.wikidata.org/entity/Q156949",
+    "wikidata_enriched": true
   },
   "34": {
     "id": 34,
@@ -492,7 +524,8 @@
     "ndb": "",
     "year_of_birth": null,
     "year_of_death": null,
-    "wikidata_url": ""
+    "wikidata_url": "",
+    "wikidata_enriched": false
   },
   "35": {
     "id": 35,
@@ -507,7 +540,8 @@
     "ndb": "https://www.deutsche-biographie.de/sfz70500.html#indexcontent",
     "year_of_birth": "1640",
     "year_of_death": "1705",
-    "wikidata_url": ""
+    "wikidata_url": "http://www.wikidata.org/entity/Q150494",
+    "wikidata_enriched": true
   },
   "36": {
     "id": 36,
@@ -522,7 +556,8 @@
     "ndb": "https://www.deutsche-biographie.de/sfz54702.html#indexcontent",
     "year_of_birth": "1655",
     "year_of_death": "1707",
-    "wikidata_url": ""
+    "wikidata_url": "http://www.wikidata.org/entity/Q58755",
+    "wikidata_enriched": true
   },
   "37": {
     "id": 37,
@@ -537,7 +572,8 @@
     "ndb": "https://www.deutsche-biographie.de/sfz70634.html#indexcontent",
     "year_of_birth": "1634",
     "year_of_death": "1696",
-    "wikidata_url": ""
+    "wikidata_url": "http://www.wikidata.org/entity/Q311469",
+    "wikidata_enriched": true
   },
   "38": {
     "id": 38,
@@ -552,7 +588,8 @@
     "ndb": "https://www.deutsche-biographie.de/sfz58377.html#indexcontent",
     "year_of_birth": "1667",
     "year_of_death": "1740",
-    "wikidata_url": ""
+    "wikidata_url": "http://www.wikidata.org/entity/Q57651",
+    "wikidata_enriched": true
   },
   "39": {
     "id": 39,
@@ -567,7 +604,8 @@
     "ndb": "",
     "year_of_birth": "1622",
     "year_of_death": "1622",
-    "wikidata_url": ""
+    "wikidata_url": "",
+    "wikidata_enriched": false
   },
   "40": {
     "id": 40,
@@ -582,7 +620,8 @@
     "ndb": "",
     "year_of_birth": null,
     "year_of_death": null,
-    "wikidata_url": "https://www.wikidata.org/wiki/Q1420310"
+    "wikidata_url": "https://www.wikidata.org/wiki/Q1420310",
+    "wikidata_enriched": true
   },
   "41": {
     "id": 41,
@@ -597,7 +636,8 @@
     "ndb": "",
     "year_of_birth": null,
     "year_of_death": null,
-    "wikidata_url": "https://www.wikidata.org/wiki/Q27968966"
+    "wikidata_url": "https://www.wikidata.org/wiki/Q27968966",
+    "wikidata_enriched": true
   },
   "42": {
     "id": 42,
@@ -612,7 +652,8 @@
     "ndb": "https://www.deutsche-biographie.de/sfz58351.html#indexcontent",
     "year_of_birth": "1666",
     "year_of_death": "1699",
-    "wikidata_url": ""
+    "wikidata_url": "http://www.wikidata.org/entity/Q62048",
+    "wikidata_enriched": true
   },
   "43": {
     "id": 43,
@@ -627,7 +668,8 @@
     "ndb": "",
     "year_of_birth": null,
     "year_of_death": null,
-    "wikidata_url": ""
+    "wikidata_url": "",
+    "wikidata_enriched": false
   },
   "44": {
     "id": 44,
@@ -642,7 +684,8 @@
     "ndb": "",
     "year_of_birth": null,
     "year_of_death": null,
-    "wikidata_url": ""
+    "wikidata_url": "",
+    "wikidata_enriched": false
   },
   "45": {
     "id": 45,
@@ -657,7 +700,8 @@
     "ndb": "https://www.deutsche-biographie.de/sfz59377.html#indexcontent",
     "year_of_birth": "1621",
     "year_of_death": "1688",
-    "wikidata_url": ""
+    "wikidata_url": "http://www.wikidata.org/entity/Q76722",
+    "wikidata_enriched": true
   },
   "46": {
     "id": 46,
@@ -672,7 +716,8 @@
     "ndb": "https://www.deutsche-biographie.de/sfz9509.html#indexcontent",
     "year_of_birth": "1645",
     "year_of_death": "1697",
-    "wikidata_url": ""
+    "wikidata_url": "http://www.wikidata.org/entity/Q55849151",
+    "wikidata_enriched": true
   },
   "47": {
     "id": 47,
@@ -687,7 +732,8 @@
     "ndb": "https://www.deutsche-biographie.de/sfz65507.html#indexcontent",
     "year_of_birth": "1626",
     "year_of_death": "1676",
-    "wikidata_url": ""
+    "wikidata_url": "http://www.wikidata.org/entity/Q164377",
+    "wikidata_enriched": true
   },
   "48": {
     "id": 48,
@@ -702,7 +748,8 @@
     "ndb": "",
     "year_of_birth": null,
     "year_of_death": null,
-    "wikidata_url": ""
+    "wikidata_url": "",
+    "wikidata_enriched": false
   },
   "49": {
     "id": 49,
@@ -717,7 +764,8 @@
     "ndb": "https://www.deutsche-biographie.de/pnd1045066613.html#indexcontent",
     "year_of_birth": "1648",
     "year_of_death": "1713",
-    "wikidata_url": ""
+    "wikidata_url": "",
+    "wikidata_enriched": true
   },
   "50": {
     "id": 50,
@@ -732,7 +780,8 @@
     "ndb": "https://www.deutsche-biographie.de/sfz60354.html#indexcontent",
     "year_of_birth": null,
     "year_of_death": null,
-    "wikidata_url": ""
+    "wikidata_url": "http://www.wikidata.org/entity/Q60514",
+    "wikidata_enriched": true
   },
   "51": {
     "id": 51,
@@ -747,7 +796,8 @@
     "ndb": "https://www.deutsche-biographie.de/sfz125772.html#indexcontent",
     "year_of_birth": "1649",
     "year_of_death": "1721",
-    "wikidata_url": ""
+    "wikidata_url": "http://www.wikidata.org/entity/Q129967",
+    "wikidata_enriched": true
   },
   "52": {
     "id": 52,
@@ -762,7 +812,8 @@
     "ndb": "",
     "year_of_birth": null,
     "year_of_death": null,
-    "wikidata_url": ""
+    "wikidata_url": "",
+    "wikidata_enriched": false
   },
   "53": {
     "id": 53,
@@ -777,7 +828,8 @@
     "ndb": "",
     "year_of_birth": null,
     "year_of_death": null,
-    "wikidata_url": ""
+    "wikidata_url": "",
+    "wikidata_enriched": false
   },
   "54": {
     "id": 54,
@@ -792,7 +844,8 @@
     "ndb": "",
     "year_of_birth": null,
     "year_of_death": null,
-    "wikidata_url": ""
+    "wikidata_url": "",
+    "wikidata_enriched": false
   },
   "55": {
     "id": 55,
@@ -807,7 +860,8 @@
     "ndb": "",
     "year_of_birth": null,
     "year_of_death": null,
-    "wikidata_url": ""
+    "wikidata_url": "",
+    "wikidata_enriched": false
   },
   "56": {
     "id": 56,
@@ -822,7 +876,8 @@
     "ndb": "https://www.deutsche-biographie.de/sfz6828.html#indexcontent",
     "year_of_birth": null,
     "year_of_death": null,
-    "wikidata_url": ""
+    "wikidata_url": "http://www.wikidata.org/entity/Q7781639",
+    "wikidata_enriched": true
   },
   "57": {
     "id": 57,
@@ -837,7 +892,8 @@
     "ndb": "",
     "year_of_birth": null,
     "year_of_death": null,
-    "wikidata_url": ""
+    "wikidata_url": "",
+    "wikidata_enriched": false
   },
   "58": {
     "id": 58,
@@ -852,7 +908,8 @@
     "ndb": "",
     "year_of_birth": "1640",
     "year_of_death": "1689",
-    "wikidata_url": "https://www.wikidata.org/wiki/Q88477"
+    "wikidata_url": "https://www.wikidata.org/wiki/Q88477",
+    "wikidata_enriched": false
   },
   "59": {
     "id": 59,
@@ -867,7 +924,8 @@
     "ndb": "",
     "year_of_birth": null,
     "year_of_death": null,
-    "wikidata_url": ""
+    "wikidata_url": "",
+    "wikidata_enriched": false
   },
   "60": {
     "id": 60,
@@ -882,7 +940,8 @@
     "ndb": "https://www.deutsche-biographie.de/sfz099_00080_1.html#indexcontent",
     "year_of_birth": null,
     "year_of_death": null,
-    "wikidata_url": ""
+    "wikidata_url": "http://www.wikidata.org/entity/Q112088",
+    "wikidata_enriched": true
   },
   "61": {
     "id": 61,
@@ -897,7 +956,8 @@
     "ndb": "",
     "year_of_birth": null,
     "year_of_death": null,
-    "wikidata_url": ""
+    "wikidata_url": "",
+    "wikidata_enriched": false
   },
   "62": {
     "id": 62,
@@ -912,7 +972,8 @@
     "ndb": "",
     "year_of_birth": null,
     "year_of_death": null,
-    "wikidata_url": ""
+    "wikidata_url": "",
+    "wikidata_enriched": false
   },
   "63": {
     "id": 63,
@@ -927,7 +988,8 @@
     "ndb": "https://www.deutsche-biographie.de/sfz61329.html#indexcontent",
     "year_of_birth": null,
     "year_of_death": null,
-    "wikidata_url": ""
+    "wikidata_url": "http://www.wikidata.org/entity/Q875530",
+    "wikidata_enriched": true
   },
   "64": {
     "id": 64,
@@ -942,7 +1004,8 @@
     "ndb": "https://www.deutsche-biographie.de/sfz58490.html#indexcontent",
     "year_of_birth": null,
     "year_of_death": null,
-    "wikidata_url": ""
+    "wikidata_url": "http://www.wikidata.org/entity/Q1902418",
+    "wikidata_enriched": true
   },
   "65": {
     "id": 65,
@@ -957,7 +1020,8 @@
     "ndb": "https://www.deutsche-biographie.de/sfz60336.html#indexcontent",
     "year_of_birth": null,
     "year_of_death": null,
-    "wikidata_url": ""
+    "wikidata_url": "http://www.wikidata.org/entity/Q90192",
+    "wikidata_enriched": true
   },
   "66": {
     "id": 66,
@@ -972,7 +1036,8 @@
     "ndb": "",
     "year_of_birth": null,
     "year_of_death": "1701",
-    "wikidata_url": ""
+    "wikidata_url": "",
+    "wikidata_enriched": false
   },
   "67": {
     "id": 67,
@@ -987,7 +1052,8 @@
     "ndb": "https://www.deutsche-biographie.de/pnd131504274.html#indexcontent",
     "year_of_birth": null,
     "year_of_death": null,
-    "wikidata_url": ""
+    "wikidata_url": "http://www.wikidata.org/entity/Q18596545",
+    "wikidata_enriched": true
   },
   "68": {
     "id": 68,
@@ -1002,7 +1068,8 @@
     "ndb": "",
     "year_of_birth": null,
     "year_of_death": null,
-    "wikidata_url": ""
+    "wikidata_url": "",
+    "wikidata_enriched": false
   },
   "69": {
     "id": 69,
@@ -1017,7 +1084,8 @@
     "ndb": "",
     "year_of_birth": null,
     "year_of_death": null,
-    "wikidata_url": ""
+    "wikidata_url": "",
+    "wikidata_enriched": false
   },
   "70": {
     "id": 70,
@@ -1032,7 +1100,8 @@
     "ndb": "https://www.deutsche-biographie.de/sfz56548.html#indexcontent",
     "year_of_birth": null,
     "year_of_death": null,
-    "wikidata_url": ""
+    "wikidata_url": "http://www.wikidata.org/entity/Q86017",
+    "wikidata_enriched": true
   },
   "71": {
     "id": 71,
@@ -1047,7 +1116,8 @@
     "ndb": "https://www.deutsche-biographie.de/sfz71137.html",
     "year_of_birth": null,
     "year_of_death": null,
-    "wikidata_url": ""
+    "wikidata_url": "http://www.wikidata.org/entity/Q56389655",
+    "wikidata_enriched": true
   },
   "72": {
     "id": 72,
@@ -1062,7 +1132,8 @@
     "ndb": "https://www.deutsche-biographie.de/sfz57376.html#indexcontent",
     "year_of_birth": null,
     "year_of_death": null,
-    "wikidata_url": ""
+    "wikidata_url": "http://www.wikidata.org/entity/Q1819881",
+    "wikidata_enriched": true
   },
   "73": {
     "id": 73,
@@ -1077,7 +1148,8 @@
     "ndb": "https://www.deutsche-biographie.de/sfz3990.html#indexcontent",
     "year_of_birth": null,
     "year_of_death": null,
-    "wikidata_url": ""
+    "wikidata_url": "http://www.wikidata.org/entity/Q91959",
+    "wikidata_enriched": true
   },
   "74": {
     "id": 74,
@@ -1092,7 +1164,8 @@
     "ndb": "https://www.deutsche-biographie.de/sfz32711.html#indexcontent",
     "year_of_birth": null,
     "year_of_death": null,
-    "wikidata_url": ""
+    "wikidata_url": "http://www.wikidata.org/entity/Q89445",
+    "wikidata_enriched": true
   },
   "75": {
     "id": 75,
@@ -1107,7 +1180,8 @@
     "ndb": "https://www.deutsche-biographie.de/sfz52990.html#indexcontent",
     "year_of_birth": null,
     "year_of_death": null,
-    "wikidata_url": ""
+    "wikidata_url": "http://www.wikidata.org/entity/Q540532",
+    "wikidata_enriched": true
   },
   "76": {
     "id": 76,
@@ -1122,7 +1196,8 @@
     "ndb": "",
     "year_of_birth": null,
     "year_of_death": null,
-    "wikidata_url": ""
+    "wikidata_url": "",
+    "wikidata_enriched": false
   },
   "77": {
     "id": 77,
@@ -1137,7 +1212,8 @@
     "ndb": "",
     "year_of_birth": null,
     "year_of_death": null,
-    "wikidata_url": ""
+    "wikidata_url": "",
+    "wikidata_enriched": false
   },
   "78": {
     "id": 78,
@@ -1152,7 +1228,8 @@
     "ndb": "",
     "year_of_birth": null,
     "year_of_death": null,
-    "wikidata_url": ""
+    "wikidata_url": "",
+    "wikidata_enriched": false
   },
   "79": {
     "id": 79,
@@ -1167,7 +1244,8 @@
     "ndb": "https://www.deutsche-biographie.de/pnd129971219.html#indexcontent",
     "year_of_birth": null,
     "year_of_death": null,
-    "wikidata_url": ""
+    "wikidata_url": "",
+    "wikidata_enriched": true
   },
   "80": {
     "id": 80,
@@ -1182,7 +1260,8 @@
     "ndb": "https://www.deutsche-biographie.de/sfz53239.html#indexcontent",
     "year_of_birth": null,
     "year_of_death": null,
-    "wikidata_url": ""
+    "wikidata_url": "http://www.wikidata.org/entity/Q1613177",
+    "wikidata_enriched": true
   },
   "81": {
     "id": 81,
@@ -1197,7 +1276,8 @@
     "ndb": "https://www.deutsche-biographie.de/pnd133809668.html",
     "year_of_birth": null,
     "year_of_death": null,
-    "wikidata_url": ""
+    "wikidata_url": "http://www.wikidata.org/entity/Q1469401",
+    "wikidata_enriched": true
   },
   "82": {
     "id": 82,
@@ -1212,7 +1292,8 @@
     "ndb": "https://www.deutsche-biographie.de/sfz19011.html#indexcontent",
     "year_of_birth": null,
     "year_of_death": null,
-    "wikidata_url": ""
+    "wikidata_url": "http://www.wikidata.org/entity/Q75770",
+    "wikidata_enriched": true
   },
   "83": {
     "id": 83,
@@ -1227,7 +1308,8 @@
     "ndb": "https://www.deutsche-biographie.de/sfz21459.html#indexcontent",
     "year_of_birth": null,
     "year_of_death": null,
-    "wikidata_url": ""
+    "wikidata_url": "http://www.wikidata.org/entity/Q1696799",
+    "wikidata_enriched": true
   },
   "84": {
     "id": 84,
@@ -1242,7 +1324,8 @@
     "ndb": "https://www.deutsche-biographie.de/pnd118905414.html#indexcontent",
     "year_of_birth": null,
     "year_of_death": null,
-    "wikidata_url": ""
+    "wikidata_url": "",
+    "wikidata_enriched": false
   },
   "85": {
     "id": 85,
@@ -1257,7 +1340,8 @@
     "ndb": "https://www.deutsche-biographie.de/pnd173286305.html#indexcontent",
     "year_of_birth": null,
     "year_of_death": null,
-    "wikidata_url": ""
+    "wikidata_url": "http://www.wikidata.org/entity/Q11219584",
+    "wikidata_enriched": true
   },
   "86": {
     "id": 86,
@@ -1272,7 +1356,8 @@
     "ndb": "https://www.deutsche-biographie.de/sfz56943.html#indexcontent",
     "year_of_birth": null,
     "year_of_death": null,
-    "wikidata_url": ""
+    "wikidata_url": "",
+    "wikidata_enriched": false
   },
   "87": {
     "id": 87,
@@ -1287,7 +1372,8 @@
     "ndb": "https://www.deutsche-biographie.de/sfz60600.html#indexcontent",
     "year_of_birth": null,
     "year_of_death": null,
-    "wikidata_url": ""
+    "wikidata_url": "",
+    "wikidata_enriched": false
   },
   "88": {
     "id": 88,
@@ -1302,7 +1388,8 @@
     "ndb": "https://www.deutsche-biographie.de/sfz23149.html#indexcontent",
     "year_of_birth": null,
     "year_of_death": null,
-    "wikidata_url": ""
+    "wikidata_url": "",
+    "wikidata_enriched": false
   },
   "89": {
     "id": 89,
@@ -1317,7 +1404,8 @@
     "ndb": "https://www.deutsche-biographie.de/sfz70328.html#indexcontent",
     "year_of_birth": null,
     "year_of_death": null,
-    "wikidata_url": ""
+    "wikidata_url": "",
+    "wikidata_enriched": false
   },
   "90": {
     "id": 90,
@@ -1332,7 +1420,8 @@
     "ndb": "",
     "year_of_birth": null,
     "year_of_death": null,
-    "wikidata_url": ""
+    "wikidata_url": "",
+    "wikidata_enriched": false
   },
   "91": {
     "id": 91,
@@ -1347,7 +1436,8 @@
     "ndb": "https://www.deutsche-biographie.de/sfz60658.html#indexcontent",
     "year_of_birth": null,
     "year_of_death": null,
-    "wikidata_url": ""
+    "wikidata_url": "",
+    "wikidata_enriched": false
   },
   "92": {
     "id": 92,
@@ -1362,7 +1452,8 @@
     "ndb": "https://www.deutsche-biographie.de/sfz35124.html#indexcontent",
     "year_of_birth": null,
     "year_of_death": null,
-    "wikidata_url": ""
+    "wikidata_url": "",
+    "wikidata_enriched": false
   },
   "93": {
     "id": 93,
@@ -1377,7 +1468,8 @@
     "ndb": "",
     "year_of_birth": null,
     "year_of_death": null,
-    "wikidata_url": ""
+    "wikidata_url": "",
+    "wikidata_enriched": false
   },
   "94": {
     "id": 94,
@@ -1392,7 +1484,8 @@
     "ndb": "",
     "year_of_birth": null,
     "year_of_death": null,
-    "wikidata_url": ""
+    "wikidata_url": "",
+    "wikidata_enriched": false
   },
   "95": {
     "id": 95,
@@ -1407,7 +1500,8 @@
     "ndb": "",
     "year_of_birth": null,
     "year_of_death": null,
-    "wikidata_url": ""
+    "wikidata_url": "",
+    "wikidata_enriched": false
   },
   "96": {
     "id": 96,
@@ -1422,7 +1516,8 @@
     "ndb": "",
     "year_of_birth": null,
     "year_of_death": null,
-    "wikidata_url": ""
+    "wikidata_url": "",
+    "wikidata_enriched": false
   },
   "97": {
     "id": 97,
@@ -1437,7 +1532,8 @@
     "ndb": "https://www.deutsche-biographie.de/pnd121822598X.html#indexcontent",
     "year_of_birth": null,
     "year_of_death": null,
-    "wikidata_url": ""
+    "wikidata_url": "",
+    "wikidata_enriched": false
   },
   "98": {
     "id": 98,
@@ -1452,7 +1548,8 @@
     "ndb": "",
     "year_of_birth": null,
     "year_of_death": null,
-    "wikidata_url": ""
+    "wikidata_url": "",
+    "wikidata_enriched": false
   },
   "99": {
     "id": 99,
@@ -1467,7 +1564,8 @@
     "ndb": "https://www.deutsche-biographie.de/pnd1166465764.html#indexcontent",
     "year_of_birth": null,
     "year_of_death": null,
-    "wikidata_url": ""
+    "wikidata_url": "",
+    "wikidata_enriched": false
   },
   "100": {
     "id": 100,
@@ -1482,7 +1580,8 @@
     "ndb": "https://www.deutsche-biographie.de/sfz60891.html#indexcontent",
     "year_of_birth": null,
     "year_of_death": null,
-    "wikidata_url": ""
+    "wikidata_url": "",
+    "wikidata_enriched": false
   },
   "101": {
     "id": 101,
@@ -1497,7 +1596,8 @@
     "ndb": "https://www.deutsche-biographie.de/sfz39453.html#indexcontent",
     "year_of_birth": null,
     "year_of_death": null,
-    "wikidata_url": ""
+    "wikidata_url": "",
+    "wikidata_enriched": false
   },
   "102": {
     "id": 102,
@@ -1512,7 +1612,8 @@
     "ndb": "https://www.deutsche-biographie.de/pnd1013454316.html#indexcontent",
     "year_of_birth": null,
     "year_of_death": null,
-    "wikidata_url": ""
+    "wikidata_url": "",
+    "wikidata_enriched": false
   },
   "103": {
     "id": 103,
@@ -1527,7 +1628,8 @@
     "ndb": "",
     "year_of_birth": null,
     "year_of_death": null,
-    "wikidata_url": ""
+    "wikidata_url": "",
+    "wikidata_enriched": false
   },
   "104": {
     "id": 104,
@@ -1542,7 +1644,8 @@
     "ndb": "",
     "year_of_birth": null,
     "year_of_death": null,
-    "wikidata_url": ""
+    "wikidata_url": "",
+    "wikidata_enriched": false
   },
   "105": {
     "id": 105,
@@ -1557,7 +1660,8 @@
     "ndb": "",
     "year_of_birth": null,
     "year_of_death": null,
-    "wikidata_url": ""
+    "wikidata_url": "",
+    "wikidata_enriched": false
   },
   "106": {
     "id": 106,
@@ -1572,7 +1676,8 @@
     "ndb": "",
     "year_of_birth": null,
     "year_of_death": null,
-    "wikidata_url": ""
+    "wikidata_url": "",
+    "wikidata_enriched": false
   },
   "107": {
     "id": 107,
@@ -1587,7 +1692,8 @@
     "ndb": "https://www.deutsche-biographie.de/pnd118948008.html#indexcontent",
     "year_of_birth": null,
     "year_of_death": null,
-    "wikidata_url": ""
+    "wikidata_url": "",
+    "wikidata_enriched": false
   },
   "108": {
     "id": 108,
@@ -1602,6 +1708,7 @@
     "ndb": "https://www.deutsche-biographie.de/sfz57371.html",
     "year_of_birth": null,
     "year_of_death": null,
-    "wikidata_url": ""
+    "wikidata_url": "",
+    "wikidata_enriched": false
   }
 }
