@@ -23,6 +23,7 @@ jobs:
         run: |
           python enrich_places.py
           python enrich_persons.py
+          python fetch_images.py
       - name: dump the data
         run: |
           python dump_data.py
