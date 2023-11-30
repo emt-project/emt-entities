@@ -94,6 +94,9 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                   {% if x.ndb|length > 0 %}
                   <idno type="NDB">{{ x.ndb }}</idno>
                   {% endif %}
+                  {% if x.wikidata_url|length > 0 %}
+                  <idno type="WIKIDATA">{{ x.wikidata_url }}</idno>
+                  {% endif %}
                   {% if x.other_url|length > 0 %}
                   <idno type="URL">{{ x.other_url }}</idno>
                   {% endif %}
