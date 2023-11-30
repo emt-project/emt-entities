@@ -100,6 +100,12 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                   {% if x.other_url|length > 0 %}
                   <idno type="URL">{{ x.other_url }}</idno>
                   {% endif %}
+                  {% if x.img_fetched %}
+                  <figure>
+                     <graphic url="{{ x.emt_id }}.jpg"/>
+                     <caption>{{ x.img_name }}</caption>
+                  </figure>
+                  {% endif %}
                </person>
             {% endfor %}
             </listPerson>
