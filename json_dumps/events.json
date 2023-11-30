@@ -34,7 +34,10 @@
                 "year_of_birth": "1655",
                 "year_of_death": "1720",
                 "wikidata_url": "http://www.wikidata.org/entity/Q57527",
-                "wikidata_enriched": true
+                "wikidata_enriched": true,
+                "img_name": "Eleonore of Pfalz Neuburg.jpg",
+                "img_fetched": true,
+                "img_source": "commonsMedia"
             }
         ],
         "description": null,
@@ -77,7 +80,10 @@
                 "year_of_birth": "1655",
                 "year_of_death": "1720",
                 "wikidata_url": "http://www.wikidata.org/entity/Q57527",
-                "wikidata_enriched": true
+                "wikidata_enriched": true,
+                "img_name": "Eleonore of Pfalz Neuburg.jpg",
+                "img_fetched": true,
+                "img_source": "commonsMedia"
             },
             {
                 "id": 35,
@@ -93,7 +99,10 @@
                 "year_of_birth": "1640",
                 "year_of_death": "1705",
                 "wikidata_url": "http://www.wikidata.org/entity/Q150494",
-                "wikidata_enriched": true
+                "wikidata_enriched": true,
+                "img_name": "Benjamin von Block 001.jpg",
+                "img_fetched": true,
+                "img_source": "commonsMedia"
             }
         ],
         "description": null,
