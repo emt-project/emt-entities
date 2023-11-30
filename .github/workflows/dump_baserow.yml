@@ -20,7 +20,9 @@ jobs:
         run: |
           pip install -r requirements.txt
       - name: enrich the data
-        run: python enrich_places.py
+        run: |
+          python enrich_places.py
+          python enrich_persons.py
       - name: dump the data
         run: |
           python dump_data.py
