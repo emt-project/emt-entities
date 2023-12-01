@@ -1359,7 +1359,7 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                   <death>
                      <date notBefore="1742-01-01" notAfter="1742-12-31">1742</date>
                   </death>
-                  <idno type="GND">https://d-nb.info/gnd/101076983</idno>
+                  <idno type="GND">http://d-nb.info/101076983</idno>
                   <idno type="NDB">https://www.deutsche-biographie.de/sfz60662.html</idno>
                </person>
                <person xml:id="emt_person_id__110">
@@ -1370,7 +1370,7 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                   <death>
                      <date notBefore="1750-01-01" notAfter="1750-12-31">1750</date>
                   </death>
-                  <idno type="GND">https://d-nb.info/gnd/122035143</idno>
+                  <idno type="GND">http://d-nb.info/122035143</idno>
                   <idno type="NDB">https://www.deutsche-biographie.de/sfz56823.html#indexcontent</idno>
                </person>
                <person xml:id="emt_person_id__111">
@@ -1381,7 +1381,7 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                   <death>
                      <date notBefore="1741-01-01" notAfter="1741-12-31">1741</date>
                   </death>
-                  <idno type="GND">https://d-nb.info/gnd/118927426</idno>
+                  <idno type="GND">http://d-nb.info/118927426</idno>
                   <idno type="NDB">https://www.deutsche-biographie.de/sfz58335.html#indexcontent</idno>
                </person>
                <person xml:id="emt_person_id__112">
@@ -1401,7 +1401,7 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                   <death>
                      <date notBefore="1754-01-01" notAfter="1754-12-31">1754</date>
                   </death>
-                  <idno type="GND">https://d-nb.info/gnd/119360691</idno>
+                  <idno type="GND">http://d-nb.info/119360691</idno>
                   <idno type="NDB">https://www.deutsche-biographie.de/sfz58352.html#indexcontent</idno>
                </person>
                <person xml:id="emt_person_id__114">
@@ -1430,7 +1430,7 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                   <death>
                      <date notBefore="1743-01-01" notAfter="1743-12-31">1743</date>
                   </death>
-                  <idno type="GND">https://d-nb.info/gnd/1019759852</idno>
+                  <idno type="GND">http://d-nb.info/1019759852</idno>
                   <idno type="NDB">https://www.deutsche-biographie.de/sfz099_00044_1.html</idno>
                </person>
                <person xml:id="emt_person_id__117">

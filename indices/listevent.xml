@@ -60,7 +60,7 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
    <text>
       <body>
          <div type="index_events">
-            <listEvent xml:id="listplace">
+            <listEvent xml:id="listevent">
                <event xml:id="emt_event_id__1" notBefore="1655-01-06" notAfter="1655-01-06">
                   <desc>
                      <eventName>
@@ -727,18 +727,6 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                         <idno type="EMT">emt_place_id__63</idno>
                      </place>
                  </listPlace>
-               </event>
-               <event xml:id="emt_event_id__29" notBefore="None" notAfter="None">
-                  <desc>
-                     <eventName>
-                        Tod von Erzherzogin Maria Margaretha
-                     </eventName>                  </desc>
-                 <listPerson type="related_persons">
-                     <person>
-                        <persName>Maria Margaretha, Erzherzogin</persName>
-                        <idno type="EMT">emt_person_id__117</idno>
-                     </person>
-                 </listPerson>
                </event>
             </listEvent>
          </div>
