@@ -1457,6 +1457,132 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                <person xml:id="emt_person_id__122">
                   <persName>Markgraf von Ansbach, zum Jagen in Wien 1677</persName>
                </person>
+               <person xml:id="emt_person_id__123">
+                  <persName>Anna Maria Luisa von der Pfalz, geb. Medici</persName>
+                  <birth>
+                     <date notBefore="1667-01-01" notAfter="1667-12-31">1667</date>
+                  </birth>
+                  <death>
+                     <date notBefore="1743-01-01" notAfter="1743-12-31">1743</date>
+                  </death>
+               </person>
+               <person xml:id="emt_person_id__124">
+                  <persName>Ludwig Anton von Pfalz-Neuburg</persName>
+                  <birth>
+                     <date notBefore="1660-01-01" notAfter="1660-12-31">1660</date>
+                  </birth>
+                  <death>
+                     <date notBefore="1694-01-01" notAfter="1694-12-31">1694</date>
+                  </death>
+               </person>
+               <person xml:id="emt_person_id__125">
+                  <persName>Luise Charlotte von Pfalz-Neuburg, geb. Radziwill, verw. Brandenburg</persName>
+                  <birth>
+                     <date notBefore="1667-01-01" notAfter="1667-12-31">1667</date>
+                  </birth>
+                  <death>
+                     <date notBefore="1695-01-01" notAfter="1695-12-31">1695</date>
+                  </death>
+               </person>
+               <person xml:id="emt_person_id__126">
+                  <persName>Theresia Katharina von Pfalz-Neuburg, geb. Lubomirska</persName>
+                  <birth>
+                     <date notBefore="1685-01-01" notAfter="1685-12-31">1685</date>
+                  </birth>
+                  <death>
+                     <date notBefore="1712-01-01" notAfter="1712-12-31">1712</date>
+                  </death>
+               </person>
+               <person xml:id="emt_person_id__127">
+                  <persName>Alexander Sigismund von Pfalz-Neuburg</persName>
+                  <birth>
+                     <date notBefore="1663-01-01" notAfter="1663-12-31">1663</date>
+                  </birth>
+                  <death>
+                     <date notBefore="1737-01-01" notAfter="1737-12-31">1737</date>
+                  </death>
+               </person>
+               <person xml:id="emt_person_id__128">
+                  <persName>Franz Ludwig von Pfalz-Neuburg</persName>
+                  <birth>
+                     <date notBefore="1664-01-01" notAfter="1664-12-31">1664</date>
+                  </birth>
+                  <death>
+                     <date notBefore="1732-01-01" notAfter="1732-12-31">1732</date>
+                  </death>
+               </person>
+               <person xml:id="emt_person_id__129">
+                  <persName>Friedrich Wilhelm von Pfalz-Neuburg</persName>
+                  <birth>
+                     <date notBefore="1665-01-01" notAfter="1665-12-31">1665</date>
+                  </birth>
+                  <death>
+                     <date notBefore="1689-01-01" notAfter="1689-12-31">1689</date>
+                  </death>
+               </person>
+               <person xml:id="emt_person_id__130">
+                  <persName>Peter II. von Portugal</persName>
+                  <birth>
+                     <date notBefore="1648-01-01" notAfter="1648-12-31">1648</date>
+                  </birth>
+                  <death>
+                     <date notBefore="1706-01-01" notAfter="1706-12-31">1706</date>
+                  </death>
+               </person>
+               <person xml:id="emt_person_id__131">
+                  <persName>Philipp Wilhelm August von Pfalz-Neuburg</persName>
+                  <birth>
+                     <date notBefore="1668-01-01" notAfter="1668-12-31">1668</date>
+                  </birth>
+                  <death>
+                     <date notBefore="1693-01-01" notAfter="1693-12-31">1693</date>
+                  </death>
+               </person>
+               <person xml:id="emt_person_id__132">
+                  <persName>Odoardo II. Farnese von Parma</persName>
+                  <birth>
+                     <date notBefore="1666-01-01" notAfter="1666-12-31">1666</date>
+                  </birth>
+                  <death>
+                     <date notBefore="1693-01-01" notAfter="1693-12-31">1693</date>
+                  </death>
+               </person>
+               <person xml:id="emt_person_id__133">
+                  <persName>Francesco Maria Farnese von Parma</persName>
+                  <birth>
+                     <date notBefore="1678-01-01" notAfter="1678-12-31">1678</date>
+                  </birth>
+                  <death>
+                     <date notBefore="1727-01-01" notAfter="1727-12-31">1727</date>
+                  </death>
+               </person>
+               <person xml:id="emt_person_id__134">
+                  <persName>Hedwig Elisabeth Sobeski, geb. Pfalz-Neuburg</persName>
+                  <birth>
+                     <date notBefore="1673-01-01" notAfter="1673-12-31">1673</date>
+                  </birth>
+                  <death>
+                     <date notBefore="1722-01-01" notAfter="1722-12-31">1722</date>
+                  </death>
+               </person>
+               <person xml:id="emt_person_id__135">
+                  <persName>Jakob Louis Heinrich Sobieski</persName>
+                  <birth>
+                     <date notBefore="1667-01-01" notAfter="1667-12-31">1667</date>
+                  </birth>
+                  <death>
+                     <date notBefore="1737-01-01" notAfter="1737-12-31">1737</date>
+                  </death>
+               </person>
+               <person xml:id="emt_person_id__136">
+                  <persName>Leopoldine Eleonore von Pfalz-Neuburg</persName>
+                  <birth>
+                     <date notBefore="1679-01-01" notAfter="1679-12-31">1679</date>
+                  </birth>
+                  <death>
+                     <date notBefore="1693-01-01" notAfter="1693-12-31">1693</date>
+                  </death>
+               </person>
             </listPerson>
          </div>
       </body>

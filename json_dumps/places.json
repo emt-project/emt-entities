@@ -1021,5 +1021,126 @@
     "lat": null,
     "long": null,
     "comments intern": ""
+  },
+  "96": {
+    "id": 96,
+    "order": "94.00000000000000000000",
+    "name": "Florenz",
+    "geonames": "",
+    "emt_id": "emt_place_id__96",
+    "place_type": null,
+    "lat": null,
+    "long": null,
+    "comments intern": ""
+  },
+  "97": {
+    "id": 97,
+    "order": "95.00000000000000000000",
+    "name": "Lüttich",
+    "geonames": "",
+    "emt_id": "emt_place_id__97",
+    "place_type": null,
+    "lat": null,
+    "long": null,
+    "comments intern": ""
+  },
+  "98": {
+    "id": 98,
+    "order": "96.00000000000000000000",
+    "name": "Berlin",
+    "geonames": "",
+    "emt_id": "emt_place_id__98",
+    "place_type": null,
+    "lat": null,
+    "long": null,
+    "comments intern": ""
+  },
+  "99": {
+    "id": 99,
+    "order": "97.00000000000000000000",
+    "name": "Krakau",
+    "geonames": "",
+    "emt_id": "emt_place_id__99",
+    "place_type": null,
+    "lat": null,
+    "long": null,
+    "comments intern": ""
+  },
+  "100": {
+    "id": 100,
+    "order": "98.00000000000000000000",
+    "name": "Worms",
+    "geonames": "",
+    "emt_id": "emt_place_id__100",
+    "place_type": null,
+    "lat": null,
+    "long": null,
+    "comments intern": ""
+  },
+  "101": {
+    "id": 101,
+    "order": "99.00000000000000000000",
+    "name": "Breslau",
+    "geonames": "",
+    "emt_id": "emt_place_id__101",
+    "place_type": null,
+    "lat": null,
+    "long": null,
+    "comments intern": ""
+  },
+  "102": {
+    "id": 102,
+    "order": "100.00000000000000000000",
+    "name": "Trier",
+    "geonames": "",
+    "emt_id": "emt_place_id__102",
+    "place_type": null,
+    "lat": null,
+    "long": null,
+    "comments intern": ""
+  },
+  "103": {
+    "id": 103,
+    "order": "101.00000000000000000000",
+    "name": "Mannheim",
+    "geonames": "",
+    "emt_id": "emt_place_id__103",
+    "place_type": null,
+    "lat": null,
+    "long": null,
+    "comments intern": ""
+  },
+  "104": {
+    "id": 104,
+    "order": "102.00000000000000000000",
+    "name": "Guadalajara",
+    "geonames": "",
+    "emt_id": "emt_place_id__104",
+    "place_type": null,
+    "lat": null,
+    "long": null,
+    "comments intern": ""
+  },
+  "105": {
+    "id": 105,
+    "order": "103.00000000000000000000",
+    "name": "Raudnitz",
+    "geonames": "",
+    "emt_id": "emt_place_id__105",
+    "place_type": null,
+    "lat": null,
+    "long": null,
+    "comments intern": ""
+  },
+  "106": {
+    "id": 106,
+    "order": "104.00000000000000000000",
+    "name": "Ohlau",
+    "geonames": "",
+    "emt_id": "emt_place_id__106",
+    "place_type": null,
+    "lat": null,
+    "long": null,
+    "comments intern": ""
   }
 }

@@ -94,7 +94,7 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                <event xml:id="emt_event_id__2" notBefore="1676-12-14" notAfter="1676-12-14">
                   <desc>
                      <eventName>
-                        Hochzeit Eleonora Magdalena von Pfalz-Neuburg mit Kaiser Leopol I.
+                        Hochzeit Eleonora Magdalenas von Pfalz-Neuburg mit Kaiser Leopold I.
                         <figure>
                            <figDesc>Eleonore heiratet Kaiser Leopold I., historisierendes Gemälde aus dem Jahr 1890 im Rathaussaal Passau.</figDesc>
                            <figDesc>Ferdinand Wagner, Public domain, via Wikimedia Commons</figDesc>
@@ -283,16 +283,12 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                <event xml:id="emt_event_id__9" notBefore="1708-04-23" notAfter="1708-04-23">
                   <desc>
                      <eventName>
-                        Hochzeit König Karls (III.) von Spanien
+                        Hochzeit König Karls (III.) von Spanien mit Elisabeth Christine von Braunschweig-Wolfenbüttel
                      </eventName>                  </desc>
                  <listPerson type="related_persons">
                      <person>
                         <persName>Kaiserin Eleonora Magdalena, geb. Pfalz-Neuburg</persName>
                         <idno type="EMT">emt_person_id__9</idno>
-                     </person>
-                     <person>
-                        <persName>Kaiser Joseph I.</persName>
-                        <idno type="EMT">emt_person_id__25</idno>
                      </person>
                      <person>
                         <persName>Kaiser Karl VI.</persName>
@@ -725,6 +721,932 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                         </location>
                         <idno type="GEONAMES">https://sws.geonames.org/2761369/</idno>
                         <idno type="EMT">emt_place_id__63</idno>
+                     </place>
+                 </listPlace>
+               </event>
+               <event xml:id="emt_event_id__30" notBefore="1690-09-12" notAfter="1690-09-12">
+                  <desc>
+                     <eventName>
+                        Tod Philipp Wilhelms von Pfalz-Neuburg
+                     </eventName>                  </desc>
+                 <listPerson type="related_persons">
+                     <person>
+                        <persName>Philipp Wilhelm von Pfalz-Neuburg, Kurfürst von der Pfalz</persName>
+                        <idno type="EMT">emt_person_id__50</idno>
+                     </person>
+                 </listPerson>
+                 <listPlace type="took_place">
+                     <place>
+                        <placeName>Wien</placeName>
+                        <location type="coords">
+                           <geo>48.20849 16.372080</geo>
+                        </location>
+                        <idno type="GEONAMES">https://sws.geonames.org/2761369/</idno>
+                        <idno type="EMT">emt_place_id__63</idno>
+                     </place>
+                 </listPlace>
+               </event>
+               <event xml:id="emt_event_id__31" notBefore="1658-04-19" notAfter="1658-04-19">
+                  <desc>
+                     <eventName>
+                        Geburt von Johann Wilhelm von Pfalz-Neuburg
+                     </eventName>                  </desc>
+                 <listPerson type="related_persons">
+                     <person>
+                        <persName>Johann Wilhelm von Pfalz-Neuburg, Kurfürst von der Pfalz</persName>
+                        <idno type="EMT">emt_person_id__18</idno>
+                     </person>
+                 </listPerson>
+                 <listPlace type="took_place">
+                     <place>
+                        <placeName>Düsseldorf</placeName>
+                        <location type="coords">
+                           <geo>51.22172 6.776160</geo>
+                        </location>
+                        <idno type="GEONAMES">https://sws.geonames.org/2934246/</idno>
+                        <idno type="EMT">emt_place_id__13</idno>
+                     </place>
+                 </listPlace>
+               </event>
+               <event xml:id="emt_event_id__32" notBefore="1678-10-25" notAfter="1678-10-25">
+                  <desc>
+                     <eventName>
+                        Hochzeit Johann Wilhelms von Pfalz-Neuburg mit Erzherzogin Maria Anna
+                     </eventName>                  </desc>
+                 <listPerson type="related_persons">
+                     <person>
+                        <persName>Johann Wilhelm von Pfalz-Neuburg, Kurfürst von der Pfalz</persName>
+                        <idno type="EMT">emt_person_id__18</idno>
+                     </person>
+                     <person>
+                        <persName>Maria Anna von Pfalz-Neuburg, geb. Österreich</persName>
+                        <idno type="EMT">emt_person_id__60</idno>
+                     </person>
+                 </listPerson>
+                 <listPlace type="took_place">
+                     <place>
+                        <placeName>Wiener Neustadt</placeName>
+                        <location type="coords">
+                           <geo>47.80485 16.231960</geo>
+                        </location>
+                        <idno type="GEONAMES">https://sws.geonames.org/2761353/</idno>
+                        <idno type="EMT">emt_place_id__66</idno>
+                     </place>
+                 </listPlace>
+               </event>
+               <event xml:id="emt_event_id__33" notBefore="1689-04-14" notAfter="1689-04-14">
+                  <desc>
+                     <eventName>
+                        Tod von Maria Anna von Pfalz-Neuburg
+                     </eventName>                  </desc>
+                 <listPerson type="related_persons">
+                     <person>
+                        <persName>Maria Anna von Pfalz-Neuburg, geb. Österreich</persName>
+                        <idno type="EMT">emt_person_id__60</idno>
+                     </person>
+                 </listPerson>
+                 <listPlace type="took_place">
+                     <place>
+                        <placeName>Wien</placeName>
+                        <location type="coords">
+                           <geo>48.20849 16.372080</geo>
+                        </location>
+                        <idno type="GEONAMES">https://sws.geonames.org/2761369/</idno>
+                        <idno type="EMT">emt_place_id__63</idno>
+                     </place>
+                 </listPlace>
+               </event>
+               <event xml:id="emt_event_id__34" notBefore="1691-04-29" notAfter="1691-04-29">
+                  <desc>
+                     <eventName>
+                        Hochzeit Johann Wilhelms von Pfalz-Neuburg mit Anna Maria de' Medici
+                     </eventName>                  </desc>
+                 <listPerson type="related_persons">
+                     <person>
+                        <persName>Anna Maria Luisa von der Pfalz, geb. Medici</persName>
+                        <idno type="EMT">emt_person_id__123</idno>
+                     </person>
+                 </listPerson>
+                 <listPlace type="took_place">
+                     <place>
+                        <placeName>Florenz</placeName>
+                        <idno type="EMT">emt_place_id__96</idno>
+                     </place>
+                 </listPlace>
+               </event>
+               <event xml:id="emt_event_id__35" notBefore="1716-06-08" notAfter="1716-06-08">
+                  <desc>
+                     <eventName>
+                        Tod Johann Wilhelms von der Pfalz
+                     </eventName>                  </desc>
+                 <listPerson type="related_persons">
+                     <person>
+                        <persName>Johann Wilhelm von Pfalz-Neuburg, Kurfürst von der Pfalz</persName>
+                        <idno type="EMT">emt_person_id__18</idno>
+                     </person>
+                 </listPerson>
+                 <listPlace type="took_place">
+                     <place>
+                        <placeName>Düsseldorf</placeName>
+                        <location type="coords">
+                           <geo>51.22172 6.776160</geo>
+                        </location>
+                        <idno type="GEONAMES">https://sws.geonames.org/2934246/</idno>
+                        <idno type="EMT">emt_place_id__13</idno>
+                     </place>
+                 </listPlace>
+               </event>
+               <event xml:id="emt_event_id__36" notBefore="1659-06-05" notAfter="1659-06-05">
+                  <desc>
+                     <eventName>
+                        Geburt Wolfgang Georg Friedrichs von Pfalz-Neuburg
+                     </eventName>                  </desc>
+                 <listPerson type="related_persons">
+                     <person>
+                        <persName>Wolfgang Georg Friedrich von Pfalz-Neuburg</persName>
+                        <idno type="EMT">emt_person_id__82</idno>
+                     </person>
+                 </listPerson>
+                 <listPlace type="took_place">
+                     <place>
+                        <placeName>Düsseldorf</placeName>
+                        <location type="coords">
+                           <geo>51.22172 6.776160</geo>
+                        </location>
+                        <idno type="GEONAMES">https://sws.geonames.org/2934246/</idno>
+                        <idno type="EMT">emt_place_id__13</idno>
+                     </place>
+                 </listPlace>
+               </event>
+               <event xml:id="emt_event_id__37" notBefore="1683-06-04" notAfter="1683-06-04">
+                  <desc>
+                     <eventName>
+                        Tod Wolfgang Georg Friedrichs von Pfalz-Neuburg
+                     </eventName>                  </desc>
+                 <listPerson type="related_persons">
+                     <person>
+                        <persName>Wolfgang Georg Friedrich von Pfalz-Neuburg</persName>
+                        <idno type="EMT">emt_person_id__82</idno>
+                     </person>
+                 </listPerson>
+                 <listPlace type="took_place">
+                     <place>
+                        <placeName>Wiener Neustadt</placeName>
+                        <location type="coords">
+                           <geo>47.80485 16.231960</geo>
+                        </location>
+                        <idno type="GEONAMES">https://sws.geonames.org/2761353/</idno>
+                        <idno type="EMT">emt_place_id__66</idno>
+                     </place>
+                 </listPlace>
+               </event>
+               <event xml:id="emt_event_id__38" notBefore="1660-06-09" notAfter="1660-06-09">
+                  <desc>
+                     <eventName>
+                        Geburt Ludwig Antons von Pfalz-Neuburg
+                     </eventName>                  </desc>
+                 <listPerson type="related_persons">
+                     <person>
+                        <persName>Ludwig Anton von Pfalz-Neuburg</persName>
+                        <idno type="EMT">emt_person_id__124</idno>
+                     </person>
+                 </listPerson>
+                 <listPlace type="took_place">
+                     <place>
+                        <placeName>Düsseldorf</placeName>
+                        <location type="coords">
+                           <geo>51.22172 6.776160</geo>
+                        </location>
+                        <idno type="GEONAMES">https://sws.geonames.org/2934246/</idno>
+                        <idno type="EMT">emt_place_id__13</idno>
+                     </place>
+                 </listPlace>
+               </event>
+               <event xml:id="emt_event_id__39" notBefore="1694-05-04" notAfter="1694-05-04">
+                  <desc>
+                     <eventName>
+                        Tod Ludwig Antons von Pfalz-Neuburg
+                     </eventName>                  </desc>
+                 <listPerson type="related_persons">
+                     <person>
+                        <persName>Ludwig Anton von Pfalz-Neuburg</persName>
+                        <idno type="EMT">emt_person_id__124</idno>
+                     </person>
+                 </listPerson>
+                 <listPlace type="took_place">
+                     <place>
+                        <placeName>Lüttich</placeName>
+                        <idno type="EMT">emt_place_id__97</idno>
+                     </place>
+                 </listPlace>
+               </event>
+               <event xml:id="emt_event_id__40" notBefore="1661-11-04" notAfter="1661-11-04">
+                  <desc>
+                     <eventName>
+                        Geburt von Karl Philipp von Pfalz-Neuburg
+                     </eventName>                  </desc>
+                 <listPerson type="related_persons">
+                     <person>
+                        <persName>Karl Philipp von Pfalz-Neuburg</persName>
+                        <idno type="EMT">emt_person_id__29</idno>
+                     </person>
+                 </listPerson>
+                 <listPlace type="took_place">
+                     <place>
+                        <placeName>Neuburg</placeName>
+                        <location type="coords">
+                           <geo>48.73218 11.187090</geo>
+                        </location>
+                        <idno type="GEONAMES">https://sws.geonames.org/2866070/</idno>
+                        <idno type="EMT">emt_place_id__39</idno>
+                     </place>
+                 </listPlace>
+               </event>
+               <event xml:id="emt_event_id__41" notBefore="1688-08-10" notAfter="1688-08-10">
+                  <desc>
+                     <eventName>
+                        Hochzeit Karl Philipps von Pfalz-Neuburg mit Luise Charlotte Radziwill
+                     </eventName>                  </desc>
+                 <listPerson type="related_persons">
+                     <person>
+                        <persName>Karl Philipp von Pfalz-Neuburg</persName>
+                        <idno type="EMT">emt_person_id__29</idno>
+                     </person>
+                     <person>
+                        <persName>Luise Charlotte von Pfalz-Neuburg, geb. Radziwill, verw. Brandenburg</persName>
+                        <idno type="EMT">emt_person_id__125</idno>
+                     </person>
+                 </listPerson>
+                 <listPlace type="took_place">
+                     <place>
+                        <placeName>Berlin</placeName>
+                        <idno type="EMT">emt_place_id__98</idno>
+                     </place>
+                 </listPlace>
+               </event>
+               <event xml:id="emt_event_id__42" notBefore="1701-12-15" notAfter="1701-12-15">
+                  <desc>
+                     <eventName>
+                        Hochzeit Karl Philipps von Pfalz-Neuburg mit Theresia Katharina Lubomirska
+                     </eventName>                  </desc>
+                 <listPerson type="related_persons">
+                     <person>
+                        <persName>Karl Philipp von Pfalz-Neuburg</persName>
+                        <idno type="EMT">emt_person_id__29</idno>
+                     </person>
+                     <person>
+                        <persName>Theresia Katharina von Pfalz-Neuburg, geb. Lubomirska</persName>
+                        <idno type="EMT">emt_person_id__126</idno>
+                     </person>
+                 </listPerson>
+                 <listPlace type="took_place">
+                     <place>
+                        <placeName>Krakau</placeName>
+                        <idno type="EMT">emt_place_id__99</idno>
+                     </place>
+                 </listPlace>
+               </event>
+               <event xml:id="emt_event_id__43" notBefore="1663-04-16" notAfter="1663-04-16">
+                  <desc>
+                     <eventName>
+                        Geburt Alexander Sigismunds von Pfalz-Neuburg
+                     </eventName>                  </desc>
+                 <listPerson type="related_persons">
+                     <person>
+                        <persName>Alexander Sigismund von Pfalz-Neuburg</persName>
+                        <idno type="EMT">emt_person_id__127</idno>
+                     </person>
+                 </listPerson>
+                 <listPlace type="took_place">
+                     <place>
+                        <placeName>Neuburg</placeName>
+                        <location type="coords">
+                           <geo>48.73218 11.187090</geo>
+                        </location>
+                        <idno type="GEONAMES">https://sws.geonames.org/2866070/</idno>
+                        <idno type="EMT">emt_place_id__39</idno>
+                     </place>
+                 </listPlace>
+               </event>
+               <event xml:id="emt_event_id__44" notBefore="1691-11-12" notAfter="1691-11-12">
+                  <desc>
+                     <eventName>
+                        Wahl Ludwig Antons von Pfalz-Neuburg zum Bischof von Worms
+                     </eventName>                  </desc>
+                 <listPerson type="related_persons">
+                     <person>
+                        <persName>Ludwig Anton von Pfalz-Neuburg</persName>
+                        <idno type="EMT">emt_person_id__124</idno>
+                     </person>
+                 </listPerson>
+                 <listPlace type="took_place">
+                     <place>
+                        <placeName>Worms</placeName>
+                        <idno type="EMT">emt_place_id__100</idno>
+                     </place>
+                 </listPlace>
+               </event>
+               <event xml:id="emt_event_id__45" notBefore="1690-04-01" notAfter="None">
+                  <desc>
+                     <eventName>
+                        Wahl Alexander Sigismunds von Pfalz-Neuburg zum Bischof von Augsburg
+                     </eventName>                  </desc>
+                 <listPerson type="related_persons">
+                     <person>
+                        <persName>Alexander Sigismund von Pfalz-Neuburg</persName>
+                        <idno type="EMT">emt_person_id__127</idno>
+                     </person>
+                 </listPerson>
+                 <listPlace type="took_place">
+                     <place>
+                        <placeName>Augsburg</placeName>
+                        <location type="coords">
+                           <geo>48.36733 10.892130</geo>
+                        </location>
+                        <idno type="GEONAMES">https://sws.geonames.org/6557107/</idno>
+                        <idno type="EMT">emt_place_id__5</idno>
+                     </place>
+                 </listPlace>
+               </event>
+               <event xml:id="emt_event_id__46" notBefore="1684-09-09" notAfter="1684-09-09">
+                  <desc>
+                     <eventName>
+                        Ludwig Anton von Pfalz-Neuburg wird Hochmeister des Deutschen Ordens (Deutschmeister)
+                     </eventName>                  </desc>
+                 <listPerson type="related_persons">
+                     <person>
+                        <persName>Ludwig Anton von Pfalz-Neuburg</persName>
+                        <idno type="EMT">emt_person_id__124</idno>
+                     </person>
+                 </listPerson>
+               </event>
+               <event xml:id="emt_event_id__47" notBefore="1664-07-24" notAfter="1664-07-16">
+                  <desc>
+                     <eventName>
+                        Geburt Franz Ludwigs von Pfalz-Neuburg
+                     </eventName>                  </desc>
+                 <listPerson type="related_persons">
+                     <person>
+                        <persName>Franz Ludwig von Pfalz-Neuburg</persName>
+                        <idno type="EMT">emt_person_id__128</idno>
+                     </person>
+                 </listPerson>
+                 <listPlace type="took_place">
+                     <place>
+                        <placeName>Neuburg</placeName>
+                        <location type="coords">
+                           <geo>48.73218 11.187090</geo>
+                        </location>
+                        <idno type="GEONAMES">https://sws.geonames.org/2866070/</idno>
+                        <idno type="EMT">emt_place_id__39</idno>
+                     </place>
+                 </listPlace>
+               </event>
+               <event xml:id="emt_event_id__48" notBefore="1683-06-30" notAfter="1683-06-30">
+                  <desc>
+                     <eventName>
+                        Wahl Franz Ludwigs von Pfalz-Neuburg zum Fürstbischof von Breslau
+                     </eventName>                  </desc>
+                 <listPerson type="related_persons">
+                     <person>
+                        <persName>Franz Ludwig von Pfalz-Neuburg</persName>
+                        <idno type="EMT">emt_person_id__128</idno>
+                     </person>
+                 </listPerson>
+                 <listPlace type="took_place">
+                     <place>
+                        <placeName>Breslau</placeName>
+                        <idno type="EMT">emt_place_id__101</idno>
+                     </place>
+                 </listPlace>
+               </event>
+               <event xml:id="emt_event_id__49" notBefore="1694-05-04" notAfter="None">
+                  <desc>
+                     <eventName>
+                        Franz Ludwig von Pfalz-Neuburg wird Hochmeister des Deutschen Ordens
+                     </eventName>                  </desc>
+                 <listPerson type="related_persons">
+                     <person>
+                        <persName>Franz Ludwig von Pfalz-Neuburg</persName>
+                        <idno type="EMT">emt_person_id__128</idno>
+                     </person>
+                 </listPerson>
+               </event>
+               <event xml:id="emt_event_id__50" notBefore="1716-02-20" notAfter="1716-02-20">
+                  <desc>
+                     <eventName>
+                        Wahl Franz Ludwig von Pfalz-Neuburg zum Erzbischof und Kurfürsten von Trier
+                     </eventName>                  </desc>
+                 <listPerson type="related_persons">
+                     <person>
+                        <persName>Franz Ludwig von Pfalz-Neuburg</persName>
+                        <idno type="EMT">emt_person_id__128</idno>
+                     </person>
+                 </listPerson>
+                 <listPlace type="took_place">
+                     <place>
+                        <placeName>Trier</placeName>
+                        <idno type="EMT">emt_place_id__102</idno>
+                     </place>
+                 </listPlace>
+               </event>
+               <event xml:id="emt_event_id__51" notBefore="1742-12-31" notAfter="1742-12-31">
+                  <desc>
+                     <eventName>
+                        Tod Karl Philipps von der Pfalz
+                     </eventName>                  </desc>
+                 <listPerson type="related_persons">
+                     <person>
+                        <persName>Karl Philipp von Pfalz-Neuburg</persName>
+                        <idno type="EMT">emt_person_id__29</idno>
+                     </person>
+                 </listPerson>
+                 <listPlace type="took_place">
+                     <place>
+                        <placeName>Mannheim</placeName>
+                        <idno type="EMT">emt_place_id__103</idno>
+                     </place>
+                 </listPlace>
+               </event>
+               <event xml:id="emt_event_id__52" notBefore="1732-04-18" notAfter="1732-04-18">
+                  <desc>
+                     <eventName>
+                        Tod Franz Ludwigs von Pfalz-Neuburg
+                     </eventName>                  </desc>
+                 <listPerson type="related_persons">
+                     <person>
+                        <persName>Franz Ludwig von Pfalz-Neuburg</persName>
+                        <idno type="EMT">emt_person_id__128</idno>
+                     </person>
+                 </listPerson>
+                 <listPlace type="took_place">
+                     <place>
+                        <placeName>Breslau</placeName>
+                        <idno type="EMT">emt_place_id__101</idno>
+                     </place>
+                 </listPlace>
+               </event>
+               <event xml:id="emt_event_id__53" notBefore="1709-08-04" notAfter="1709-08-04">
+                  <desc>
+                     <eventName>
+                        Tod Elisabeth Amalies von Pfalz-Neuburg
+                     </eventName>                  </desc>
+                 <listPerson type="related_persons">
+                     <person>
+                        <persName>Elisabeth Amalie von Pfalz-Neuburg, geb. Hessen-Darmstadt</persName>
+                        <idno type="EMT">emt_person_id__10</idno>
+                     </person>
+                 </listPerson>
+                 <listPlace type="took_place">
+                     <place>
+                        <placeName>Neuburg</placeName>
+                        <location type="coords">
+                           <geo>48.73218 11.187090</geo>
+                        </location>
+                        <idno type="GEONAMES">https://sws.geonames.org/2866070/</idno>
+                        <idno type="EMT">emt_place_id__39</idno>
+                     </place>
+                 </listPlace>
+               </event>
+               <event xml:id="emt_event_id__54" notBefore="1665-07-20" notAfter="1665-07-20">
+                  <desc>
+                     <eventName>
+                        Geburt Friedrich Wilhelms von Pfalz-Neuburg
+                     </eventName>                  </desc>
+                 <listPerson type="related_persons">
+                     <person>
+                        <persName>Friedrich Wilhelm von Pfalz-Neuburg</persName>
+                        <idno type="EMT">emt_person_id__129</idno>
+                     </person>
+                 </listPerson>
+                 <listPlace type="took_place">
+                     <place>
+                        <placeName>Düsseldorf</placeName>
+                        <location type="coords">
+                           <geo>51.22172 6.776160</geo>
+                        </location>
+                        <idno type="GEONAMES">https://sws.geonames.org/2934246/</idno>
+                        <idno type="EMT">emt_place_id__13</idno>
+                     </place>
+                 </listPlace>
+               </event>
+               <event xml:id="emt_event_id__55" notBefore="1689-07-23" notAfter="1689-07-23">
+                  <desc>
+                     <eventName>
+                        Tod Friedrich Wilhelms von Pfalz-Neuburg
+                     </eventName>                  </desc>
+                 <listPerson type="related_persons">
+                     <person>
+                        <persName>Friedrich Wilhelm von Pfalz-Neuburg</persName>
+                        <idno type="EMT">emt_person_id__129</idno>
+                     </person>
+                 </listPerson>
+                 <listPlace type="took_place">
+                     <place>
+                        <placeName>Mainz</placeName>
+                        <location type="coords">
+                           <geo>49.98419 8.279100</geo>
+                        </location>
+                        <idno type="GEONAMES">https://sws.geonames.org/2874225/</idno>
+                        <idno type="EMT">emt_place_id__37</idno>
+                     </place>
+                 </listPlace>
+               </event>
+               <event xml:id="emt_event_id__56" notBefore="1666-08-06" notAfter="1666-08-06">
+                  <desc>
+                     <eventName>
+                        Geburt von Maria Sophie von Pfalz-Neuburg
+                     </eventName>                  </desc>
+                 <listPerson type="related_persons">
+                     <person>
+                        <persName>Maria Sophie von Portugal, geb. Pfalz-Neuburg</persName>
+                        <idno type="EMT">emt_person_id__42</idno>
+                     </person>
+                 </listPerson>
+                 <listPlace type="took_place">
+                     <place>
+                        <placeName>Düsseldorf</placeName>
+                        <location type="coords">
+                           <geo>51.22172 6.776160</geo>
+                        </location>
+                        <idno type="GEONAMES">https://sws.geonames.org/2934246/</idno>
+                        <idno type="EMT">emt_place_id__13</idno>
+                     </place>
+                 </listPlace>
+               </event>
+               <event xml:id="emt_event_id__57" notBefore="1687-07-02" notAfter="1687-08-02">
+                  <desc>
+                     <eventName>
+                        Hochzeit von Maria Sophie von Pfalz-Neuburg mit König Peter II. von Portugal
+                     </eventName>                  </desc>
+                 <listPerson type="related_persons">
+                     <person>
+                        <persName>Maria Sophie von Portugal, geb. Pfalz-Neuburg</persName>
+                        <idno type="EMT">emt_person_id__42</idno>
+                     </person>
+                     <person>
+                        <persName>Peter II. von Portugal</persName>
+                        <idno type="EMT">emt_person_id__130</idno>
+                     </person>
+                 </listPerson>
+                 <listPlace type="took_place">
+                     <place>
+                        <placeName>Düsseldorf</placeName>
+                        <location type="coords">
+                           <geo>51.22172 6.776160</geo>
+                        </location>
+                        <idno type="GEONAMES">https://sws.geonames.org/2934246/</idno>
+                        <idno type="EMT">emt_place_id__13</idno>
+                     </place>
+                 </listPlace>
+               </event>
+               <event xml:id="emt_event_id__58" notBefore="1699-08-04" notAfter="1699-08-04">
+                  <desc>
+                     <eventName>
+                        Tod von Maria Sophie von Portugal, geb. Pfalz-Neuburg
+                     </eventName>                  </desc>
+                 <listPerson type="related_persons">
+                     <person>
+                        <persName>Maria Sophie von Portugal, geb. Pfalz-Neuburg</persName>
+                        <idno type="EMT">emt_person_id__42</idno>
+                     </person>
+                 </listPerson>
+                 <listPlace type="took_place">
+                     <place>
+                        <placeName>Lissabon</placeName>
+                        <location type="coords">
+                           <geo>38.71667 -9.133330</geo>
+                        </location>
+                        <idno type="GEONAMES">https://sws.geonames.org/2267057/</idno>
+                        <idno type="EMT">emt_place_id__33</idno>
+                     </place>
+                 </listPlace>
+               </event>
+               <event xml:id="emt_event_id__59" notBefore="1667-10-28" notAfter="1667-10-28">
+                  <desc>
+                     <eventName>
+                        Geburt Maria Annas von Pfalz-Neuburg
+                     </eventName>                  </desc>
+                 <listPerson type="related_persons">
+                     <person>
+                        <persName>Maria Anna von Spanien, geb. Pfalz-Neuburg</persName>
+                        <idno type="EMT">emt_person_id__38</idno>
+                     </person>
+                 </listPerson>
+                 <listPlace type="took_place">
+                     <place>
+                        <placeName>Düsseldorf</placeName>
+                        <location type="coords">
+                           <geo>51.22172 6.776160</geo>
+                        </location>
+                        <idno type="GEONAMES">https://sws.geonames.org/2934246/</idno>
+                        <idno type="EMT">emt_place_id__13</idno>
+                     </place>
+                 </listPlace>
+               </event>
+               <event xml:id="emt_event_id__60" notBefore="1689-08-28" notAfter="1689-08-28">
+                  <desc>
+                     <eventName>
+                        Hochzeit Maria Annas von Pfalz-Neuburg mit Karl II. von Spanien
+                     </eventName>                  </desc>
+                 <listPerson type="related_persons">
+                     <person>
+                        <persName>Maria Anna von Spanien, geb. Pfalz-Neuburg</persName>
+                        <idno type="EMT">emt_person_id__38</idno>
+                     </person>
+                     <person>
+                        <persName>Karl II. von Spanien</persName>
+                        <idno type="EMT">emt_person_id__89</idno>
+                     </person>
+                 </listPerson>
+                 <listPlace type="took_place">
+                     <place>
+                        <placeName>Neuburg</placeName>
+                        <location type="coords">
+                           <geo>48.73218 11.187090</geo>
+                        </location>
+                        <idno type="GEONAMES">https://sws.geonames.org/2866070/</idno>
+                        <idno type="EMT">emt_place_id__39</idno>
+                     </place>
+                 </listPlace>
+               </event>
+               <event xml:id="emt_event_id__61" notBefore="1740-07-16" notAfter="1740-07-16">
+                  <desc>
+                     <eventName>
+                        Tod Maria Annas von Spanien, geb. Pfalz-Neuburg
+                     </eventName>                  </desc>
+                 <listPerson type="related_persons">
+                     <person>
+                        <persName>Maria Anna von Spanien, geb. Pfalz-Neuburg</persName>
+                        <idno type="EMT">emt_person_id__38</idno>
+                     </person>
+                 </listPerson>
+                 <listPlace type="took_place">
+                     <place>
+                        <placeName>Guadalajara</placeName>
+                        <idno type="EMT">emt_place_id__104</idno>
+                     </place>
+                 </listPlace>
+               </event>
+               <event xml:id="emt_event_id__62" notBefore="1668-11-19" notAfter="1668-11-19">
+                  <desc>
+                     <eventName>
+                        Geburt Philipp Wilhelm Augusts von Pfalz-Neuburg
+                     </eventName>                  </desc>
+                 <listPerson type="related_persons">
+                     <person>
+                        <persName>Philipp Wilhelm August von Pfalz-Neuburg</persName>
+                        <idno type="EMT">emt_person_id__131</idno>
+                     </person>
+                 </listPerson>
+                 <listPlace type="took_place">
+                     <place>
+                        <placeName>Neuburg</placeName>
+                        <location type="coords">
+                           <geo>48.73218 11.187090</geo>
+                        </location>
+                        <idno type="GEONAMES">https://sws.geonames.org/2866070/</idno>
+                        <idno type="EMT">emt_place_id__39</idno>
+                     </place>
+                 </listPlace>
+               </event>
+               <event xml:id="emt_event_id__63" notBefore="1690-10-29" notAfter="1690-10-29">
+                  <desc>
+                     <eventName>
+                        Hochzeit Philipp Wilhelm Augusts von Pfalz-Neuburg mit Anna Maria von Sachsen-Lauenburg
+                     </eventName>                  </desc>
+                 <listPerson type="related_persons">
+                     <person>
+                        <persName>Anna Maria Franziska de' Medici, geb. Sachsen-Lauenburg, verw. Pfalz</persName>
+                        <idno type="EMT">emt_person_id__3</idno>
+                     </person>
+                     <person>
+                        <persName>Philipp Wilhelm August von Pfalz-Neuburg</persName>
+                        <idno type="EMT">emt_person_id__131</idno>
+                     </person>
+                 </listPerson>
+                 <listPlace type="took_place">
+                     <place>
+                        <placeName>Raudnitz</placeName>
+                        <idno type="EMT">emt_place_id__105</idno>
+                     </place>
+                 </listPlace>
+               </event>
+               <event xml:id="emt_event_id__64" notBefore="1693-04-05" notAfter="1693-04-05">
+                  <desc>
+                     <eventName>
+                        Tod Philipp Wilhelms Augusts von Pfalz-Neuburg
+                     </eventName>                  </desc>
+                 <listPerson type="related_persons">
+                     <person>
+                        <persName>Philipp Wilhelm August von Pfalz-Neuburg</persName>
+                        <idno type="EMT">emt_person_id__131</idno>
+                     </person>
+                 </listPerson>
+                 <listPlace type="took_place">
+                     <place>
+                        <placeName>Reichstadt</placeName>
+                        <location type="coords">
+                           <geo>50.92500 12.235000</geo>
+                        </location>
+                        <idno type="GEONAMES">https://sws.geonames.org/6550513/</idno>
+                        <idno type="EMT">emt_place_id__49</idno>
+                     </place>
+                 </listPlace>
+               </event>
+               <event xml:id="emt_event_id__65" notBefore="1670-07-05" notAfter="1670-07-05">
+                  <desc>
+                     <eventName>
+                        Geburt Dorothea Sophies von Pfalz-Neuburg
+                     </eventName>                  </desc>
+                 <listPerson type="related_persons">
+                     <person>
+                        <persName>Dorothea Sophie von Parma, geb. Pfalz-Neuburg</persName>
+                        <idno type="EMT">emt_person_id__8</idno>
+                     </person>
+                 </listPerson>
+                 <listPlace type="took_place">
+                     <place>
+                        <placeName>Neuburg</placeName>
+                        <location type="coords">
+                           <geo>48.73218 11.187090</geo>
+                        </location>
+                        <idno type="GEONAMES">https://sws.geonames.org/2866070/</idno>
+                        <idno type="EMT">emt_place_id__39</idno>
+                     </place>
+                 </listPlace>
+               </event>
+               <event xml:id="emt_event_id__66" notBefore="1690-09-17" notAfter="1690-09-17">
+                  <desc>
+                     <eventName>
+                        Hochzeit Dorothea Sophies von Pfalz-Neuburg mit Odoardo Farnese von Parma
+                     </eventName>                  </desc>
+                 <listPerson type="related_persons">
+                     <person>
+                        <persName>Dorothea Sophie von Parma, geb. Pfalz-Neuburg</persName>
+                        <idno type="EMT">emt_person_id__8</idno>
+                     </person>
+                     <person>
+                        <persName>Odoardo II. Farnese von Parma</persName>
+                        <idno type="EMT">emt_person_id__132</idno>
+                     </person>
+                 </listPerson>
+               </event>
+               <event xml:id="emt_event_id__67" notBefore="1695-12-07" notAfter="1695-12-07">
+                  <desc>
+                     <eventName>
+                        Hochzeit Dorothea Sophies von Parma, geb. Pfalz-Neuburg, mit Francesco Maria Farnese von Parma
+                     </eventName>                  </desc>
+                 <listPerson type="related_persons">
+                     <person>
+                        <persName>Dorothea Sophie von Parma, geb. Pfalz-Neuburg</persName>
+                        <idno type="EMT">emt_person_id__8</idno>
+                     </person>
+                     <person>
+                        <persName>Francesco Maria Farnese von Parma</persName>
+                        <idno type="EMT">emt_person_id__133</idno>
+                     </person>
+                 </listPerson>
+                 <listPlace type="took_place">
+                     <place>
+                        <placeName>Parma</placeName>
+                        <location type="coords">
+                           <geo>44.79935 10.326180</geo>
+                        </location>
+                        <idno type="GEONAMES">https://sws.geonames.org/3171457/</idno>
+                        <idno type="EMT">emt_place_id__43</idno>
+                     </place>
+                 </listPlace>
+               </event>
+               <event xml:id="emt_event_id__68" notBefore="1673-07-18" notAfter="1673-07-18">
+                  <desc>
+                     <eventName>
+                        Geburt von Hedwig Elisabeth von Pfalz-Neuburg
+                     </eventName>                  </desc>
+                 <listPerson type="related_persons">
+                     <person>
+                        <persName>Hedwig Elisabeth Sobeski, geb. Pfalz-Neuburg</persName>
+                        <idno type="EMT">emt_person_id__134</idno>
+                     </person>
+                 </listPerson>
+                 <listPlace type="took_place">
+                     <place>
+                        <placeName>Düsseldorf</placeName>
+                        <location type="coords">
+                           <geo>51.22172 6.776160</geo>
+                        </location>
+                        <idno type="GEONAMES">https://sws.geonames.org/2934246/</idno>
+                        <idno type="EMT">emt_place_id__13</idno>
+                     </place>
+                 </listPlace>
+               </event>
+               <event xml:id="emt_event_id__69" notBefore="1691-02-25" notAfter="1691-02-25">
+                  <desc>
+                     <eventName>
+                        Hochzeit Hedwig Elisabeths von Pfalz-Neuburg mit Jakob Sobieski
+                     </eventName>                  </desc>
+                 <listPerson type="related_persons">
+                     <person>
+                        <persName>Hedwig Elisabeth Sobeski, geb. Pfalz-Neuburg</persName>
+                        <idno type="EMT">emt_person_id__134</idno>
+                     </person>
+                     <person>
+                        <persName>Jakob Louis Heinrich Sobieski</persName>
+                        <idno type="EMT">emt_person_id__135</idno>
+                     </person>
+                 </listPerson>
+                 <listPlace type="took_place">
+                     <place>
+                        <placeName>Warschau</placeName>
+                        <location type="coords">
+                           <geo>52.22977 21.011780</geo>
+                        </location>
+                        <idno type="GEONAMES">https://sws.geonames.org/756135/</idno>
+                        <idno type="EMT">emt_place_id__59</idno>
+                     </place>
+                 </listPlace>
+               </event>
+               <event xml:id="emt_event_id__70" notBefore="1722-08-11" notAfter="1722-08-11">
+                  <desc>
+                     <eventName>
+                        Tod von Hedwig Elisabeth Sobieski, geb. Pfalz-Neuburg
+                     </eventName>                  </desc>
+                 <listPerson type="related_persons">
+                     <person>
+                        <persName>Hedwig Elisabeth Sobeski, geb. Pfalz-Neuburg</persName>
+                        <idno type="EMT">emt_person_id__134</idno>
+                     </person>
+                 </listPerson>
+                 <listPlace type="took_place">
+                     <place>
+                        <placeName>Ohlau</placeName>
+                        <idno type="EMT">emt_place_id__106</idno>
+                     </place>
+                 </listPlace>
+               </event>
+               <event xml:id="emt_event_id__71" notBefore="1679-05-27" notAfter="1679-05-27">
+                  <desc>
+                     <eventName>
+                        Geburt Leopoldine Eleonore von Pfalz-Neuburg
+                     </eventName>                  </desc>
+                 <listPerson type="related_persons">
+                     <person>
+                        <persName>Leopoldine Eleonore von Pfalz-Neuburg</persName>
+                        <idno type="EMT">emt_person_id__136</idno>
+                     </person>
+                 </listPerson>
+                 <listPlace type="took_place">
+                     <place>
+                        <placeName>Neuburg</placeName>
+                        <location type="coords">
+                           <geo>48.73218 11.187090</geo>
+                        </location>
+                        <idno type="GEONAMES">https://sws.geonames.org/2866070/</idno>
+                        <idno type="EMT">emt_place_id__39</idno>
+                     </place>
+                 </listPlace>
+               </event>
+               <event xml:id="emt_event_id__72" notBefore="1693-03-08" notAfter="1693-03-08">
+                  <desc>
+                     <eventName>
+                        Tod Leopoldine Eleonores von Pfalz-Neuburg
+                     </eventName>                  </desc>
+                 <listPerson type="related_persons">
+                     <person>
+                        <persName>Leopoldine Eleonore von Pfalz-Neuburg</persName>
+                        <idno type="EMT">emt_person_id__136</idno>
+                     </person>
+                 </listPerson>
+                 <listPlace type="took_place">
+                     <place>
+                        <placeName>Düsseldorf</placeName>
+                        <location type="coords">
+                           <geo>51.22172 6.776160</geo>
+                        </location>
+                        <idno type="GEONAMES">https://sws.geonames.org/2934246/</idno>
+                        <idno type="EMT">emt_place_id__13</idno>
+                     </place>
+                 </listPlace>
+               </event>
+               <event xml:id="emt_event_id__73" notBefore="1748-09-15" notAfter="1748-09-15">
+                  <desc>
+                     <eventName>
+                        Tod Dorothes Sophies von Parma
+                     </eventName>                  </desc>
+                 <listPerson type="related_persons">
+                     <person>
+                        <persName>Dorothea Sophie von Parma, geb. Pfalz-Neuburg</persName>
+                        <idno type="EMT">emt_person_id__8</idno>
+                     </person>
+                 </listPerson>
+                 <listPlace type="took_place">
+                     <place>
+                        <placeName>Parma</placeName>
+                        <location type="coords">
+                           <geo>44.79935 10.326180</geo>
+                        </location>
+                        <idno type="GEONAMES">https://sws.geonames.org/3171457/</idno>
+                        <idno type="EMT">emt_place_id__43</idno>
                      </place>
                  </listPlace>
                </event>

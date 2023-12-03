@@ -668,6 +668,39 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                <place xml:id="emt_place_id__95">
                   <placeName>Braunschweig</placeName>
                </place>
+               <place xml:id="emt_place_id__96">
+                  <placeName>Florenz</placeName>
+               </place>
+               <place xml:id="emt_place_id__97">
+                  <placeName>Lüttich</placeName>
+               </place>
+               <place xml:id="emt_place_id__98">
+                  <placeName>Berlin</placeName>
+               </place>
+               <place xml:id="emt_place_id__99">
+                  <placeName>Krakau</placeName>
+               </place>
+               <place xml:id="emt_place_id__100">
+                  <placeName>Worms</placeName>
+               </place>
+               <place xml:id="emt_place_id__101">
+                  <placeName>Breslau</placeName>
+               </place>
+               <place xml:id="emt_place_id__102">
+                  <placeName>Trier</placeName>
+               </place>
+               <place xml:id="emt_place_id__103">
+                  <placeName>Mannheim</placeName>
+               </place>
+               <place xml:id="emt_place_id__104">
+                  <placeName>Guadalajara</placeName>
+               </place>
+               <place xml:id="emt_place_id__105">
+                  <placeName>Raudnitz</placeName>
+               </place>
+               <place xml:id="emt_place_id__106">
+                  <placeName>Ohlau</placeName>
+               </place>
             </listPlace>
          </div>
       </body>
