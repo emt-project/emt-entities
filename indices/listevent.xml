@@ -830,6 +830,10 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                  <listPlace type="took_place">
                      <place>
                         <placeName>Florenz</placeName>
+                        <location type="coords">
+                           <geo>43.77925 11.246260</geo>
+                        </location>
+                        <idno type="GEONAMES">https://sws.geonames.org/3176959/</idno>
                         <idno type="EMT">emt_place_id__96</idno>
                      </place>
                  </listPlace>
@@ -936,6 +940,10 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                  <listPlace type="took_place">
                      <place>
                         <placeName>Lüttich</placeName>
+                        <location type="coords">
+                           <geo>50.63373 5.567490</geo>
+                        </location>
+                        <idno type="GEONAMES">https://sws.geonames.org/2792413/</idno>
                         <idno type="EMT">emt_place_id__97</idno>
                      </place>
                  </listPlace>
@@ -980,6 +988,10 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                  <listPlace type="took_place">
                      <place>
                         <placeName>Berlin</placeName>
+                        <location type="coords">
+                           <geo>52.52437 13.410530</geo>
+                        </location>
+                        <idno type="GEONAMES">https://sws.geonames.org/2950159/</idno>
                         <idno type="EMT">emt_place_id__98</idno>
                      </place>
                  </listPlace>
@@ -1002,6 +1014,10 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                  <listPlace type="took_place">
                      <place>
                         <placeName>Krakau</placeName>
+                        <location type="coords">
+                           <geo>50.06143 19.936580</geo>
+                        </location>
+                        <idno type="GEONAMES">https://sws.geonames.org/3094802/</idno>
                         <idno type="EMT">emt_place_id__99</idno>
                      </place>
                  </listPlace>
@@ -1013,7 +1029,7 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                      </eventName>                  </desc>
                  <listPerson type="related_persons">
                      <person>
-                        <persName>Alexander Sigismund von Pfalz-Neuburg</persName>
+                        <persName>Alexander Sigmund von Pfalz-Neuburg</persName>
                         <idno type="EMT">emt_person_id__127</idno>
                      </person>
                  </listPerson>
@@ -1042,6 +1058,10 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                  <listPlace type="took_place">
                      <place>
                         <placeName>Worms</placeName>
+                        <location type="coords">
+                           <geo>49.63278 8.359160</geo>
+                        </location>
+                        <idno type="GEONAMES">https://sws.geonames.org/2806142/</idno>
                         <idno type="EMT">emt_place_id__100</idno>
                      </place>
                  </listPlace>
@@ -1053,7 +1073,7 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                      </eventName>                  </desc>
                  <listPerson type="related_persons">
                      <person>
-                        <persName>Alexander Sigismund von Pfalz-Neuburg</persName>
+                        <persName>Alexander Sigmund von Pfalz-Neuburg</persName>
                         <idno type="EMT">emt_person_id__127</idno>
                      </person>
                  </listPerson>
@@ -1116,6 +1136,10 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                  <listPlace type="took_place">
                      <place>
                         <placeName>Breslau</placeName>
+                        <location type="coords">
+                           <geo>51.10000 17.033330</geo>
+                        </location>
+                        <idno type="GEONAMES">https://sws.geonames.org/3081368/</idno>
                         <idno type="EMT">emt_place_id__101</idno>
                      </place>
                  </listPlace>
@@ -1146,6 +1170,10 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                  <listPlace type="took_place">
                      <place>
                         <placeName>Trier</placeName>
+                        <location type="coords">
+                           <geo>49.75565 6.639350</geo>
+                        </location>
+                        <idno type="GEONAMES">https://sws.geonames.org/2821164/</idno>
                         <idno type="EMT">emt_place_id__102</idno>
                      </place>
                  </listPlace>
@@ -1164,6 +1192,10 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                  <listPlace type="took_place">
                      <place>
                         <placeName>Mannheim</placeName>
+                        <location type="coords">
+                           <geo>49.48910 8.466940</geo>
+                        </location>
+                        <idno type="GEONAMES">https://sws.geonames.org/2873891/</idno>
                         <idno type="EMT">emt_place_id__103</idno>
                      </place>
                  </listPlace>
@@ -1182,6 +1214,10 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                  <listPlace type="took_place">
                      <place>
                         <placeName>Breslau</placeName>
+                        <location type="coords">
+                           <geo>51.10000 17.033330</geo>
+                        </location>
+                        <idno type="GEONAMES">https://sws.geonames.org/3081368/</idno>
                         <idno type="EMT">emt_place_id__101</idno>
                      </place>
                  </listPlace>
@@ -1384,6 +1420,10 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                  <listPlace type="took_place">
                      <place>
                         <placeName>Guadalajara</placeName>
+                        <location type="coords">
+                           <geo>40.62862 -3.161850</geo>
+                        </location>
+                        <idno type="GEONAMES">https://sws.geonames.org/3121070/</idno>
                         <idno type="EMT">emt_place_id__104</idno>
                      </place>
                  </listPlace>
@@ -1428,6 +1468,10 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                  <listPlace type="took_place">
                      <place>
                         <placeName>Raudnitz</placeName>
+                        <location type="coords">
+                           <geo>50.42528 14.261750</geo>
+                        </location>
+                        <idno type="GEONAMES">https://sws.geonames.org/3066727/</idno>
                         <idno type="EMT">emt_place_id__105</idno>
                      </place>
                  </listPlace>
@@ -1580,6 +1624,10 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                  <listPlace type="took_place">
                      <place>
                         <placeName>Ohlau</placeName>
+                        <location type="coords">
+                           <geo>50.94660 17.292600</geo>
+                        </location>
+                        <idno type="GEONAMES">https://sws.geonames.org/3090205/</idno>
                         <idno type="EMT">emt_place_id__106</idno>
                      </place>
                  </listPlace>
@@ -1647,6 +1695,106 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                         </location>
                         <idno type="GEONAMES">https://sws.geonames.org/3171457/</idno>
                         <idno type="EMT">emt_place_id__43</idno>
+                     </place>
+                 </listPlace>
+               </event>
+               <event xml:id="emt_event_id__74" notBefore="1666-12-02" notAfter="1666-12-02">
+                  <desc>
+                     <eventName>
+                        Hochzeit Leopolds I. mit Margarita Teresa von Spanien
+                     </eventName>                  </desc>
+                 <listPerson type="related_persons">
+                     <person>
+                        <persName>Kaiser Leopold I.</persName>
+                        <idno type="EMT">emt_person_id__35</idno>
+                     </person>
+                     <person>
+                        <persName>Kaiserin Margarita Teresa, geb. Spanien</persName>
+                        <idno type="EMT">emt_person_id__137</idno>
+                     </person>
+                 </listPerson>
+                 <listPlace type="took_place">
+                     <place>
+                        <placeName>Wien</placeName>
+                        <location type="coords">
+                           <geo>48.20849 16.372080</geo>
+                        </location>
+                        <idno type="GEONAMES">https://sws.geonames.org/2761369/</idno>
+                        <idno type="EMT">emt_place_id__63</idno>
+                     </place>
+                 </listPlace>
+               </event>
+               <event xml:id="emt_event_id__75" notBefore="1673-10-15" notAfter="1673-10-15">
+                  <desc>
+                     <eventName>
+                        Hochzeit Leopolds I. mit Claudia Felicitas von Tirol
+                     </eventName>                  </desc>
+                 <listPerson type="related_persons">
+                     <person>
+                        <persName>Kaiser Leopold I.</persName>
+                        <idno type="EMT">emt_person_id__35</idno>
+                     </person>
+                     <person>
+                        <persName>Kaiserin Claudia Felicitas, geb. Tirol</persName>
+                        <idno type="EMT">emt_person_id__138</idno>
+                     </person>
+                 </listPerson>
+                 <listPlace type="took_place">
+                     <place>
+                        <placeName>Graz</placeName>
+                        <location type="coords">
+                           <geo>47.06667 15.450000</geo>
+                        </location>
+                        <idno type="GEONAMES">https://sws.geonames.org/2778067/</idno>
+                        <idno type="EMT">emt_place_id__92</idno>
+                     </place>
+                 </listPlace>
+               </event>
+               <event xml:id="emt_event_id__76" notBefore="1658-08-01" notAfter="1658-08-01">
+                  <desc>
+                     <eventName>
+                        Krönung Leoplds I. als Kaiser des Heiligen Römischen Reiches
+                     </eventName>                  </desc>
+                 <listPerson type="related_persons">
+                     <person>
+                        <persName>Kaiser Leopold I.</persName>
+                        <idno type="EMT">emt_person_id__35</idno>
+                     </person>
+                 </listPerson>
+                 <listPlace type="took_place">
+                     <place>
+                        <placeName>Frankfurt</placeName>
+                        <location type="coords">
+                           <geo>50.11552 8.684170</geo>
+                        </location>
+                        <idno type="GEONAMES">https://sws.geonames.org/2925533/</idno>
+                        <idno type="EMT">emt_place_id__20</idno>
+                     </place>
+                 </listPlace>
+               </event>
+               <event xml:id="emt_event_id__77" notBefore="1685-07-15" notAfter="1685-07-15">
+                  <desc>
+                     <eventName>
+                        Hochzeit von Erzherzogin Maria Antonia mit Kurfürst Maximilian Emanuel von Bayern
+                     </eventName>                  </desc>
+                 <listPerson type="related_persons">
+                     <person>
+                        <persName>Maria Antonia von Bayern, geb. Österreich</persName>
+                        <idno type="EMT">emt_person_id__54</idno>
+                     </person>
+                     <person>
+                        <persName>Maximilian II. Emanuel von Bayern, Kurfürst</persName>
+                        <idno type="EMT">emt_person_id__139</idno>
+                     </person>
+                 </listPerson>
+                 <listPlace type="took_place">
+                     <place>
+                        <placeName>Wien</placeName>
+                        <location type="coords">
+                           <geo>48.20849 16.372080</geo>
+                        </location>
+                        <idno type="GEONAMES">https://sws.geonames.org/2761369/</idno>
+                        <idno type="EMT">emt_place_id__63</idno>
                      </place>
                  </listPlace>
                </event>

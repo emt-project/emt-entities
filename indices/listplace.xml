@@ -663,43 +663,110 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                   <placeName>Köln, Erzstift</placeName>
                </place>
                <place xml:id="emt_place_id__92">
-                  <placeName/>
+                  <placeName>Graz</placeName>
+                  <location type="coords">
+                     <geo>47.06667 15.450000</geo>
+                  </location>
+                  <idno type="GEONAMES">https://sws.geonames.org/2778067/</idno>
                </place>
                <place xml:id="emt_place_id__95">
                   <placeName>Braunschweig</placeName>
+                  <location type="coords">
+                     <geo>52.26594 10.526730</geo>
+                  </location>
+                  <idno type="GEONAMES">https://sws.geonames.org/2945024/</idno>
                </place>
                <place xml:id="emt_place_id__96">
                   <placeName>Florenz</placeName>
+                  <location type="coords">
+                     <geo>43.77925 11.246260</geo>
+                  </location>
+                  <idno type="GEONAMES">https://sws.geonames.org/3176959/</idno>
                </place>
                <place xml:id="emt_place_id__97">
                   <placeName>Lüttich</placeName>
+                  <location type="coords">
+                     <geo>50.63373 5.567490</geo>
+                  </location>
+                  <idno type="GEONAMES">https://sws.geonames.org/2792413/</idno>
                </place>
                <place xml:id="emt_place_id__98">
                   <placeName>Berlin</placeName>
+                  <location type="coords">
+                     <geo>52.52437 13.410530</geo>
+                  </location>
+                  <idno type="GEONAMES">https://sws.geonames.org/2950159/</idno>
                </place>
                <place xml:id="emt_place_id__99">
                   <placeName>Krakau</placeName>
+                  <location type="coords">
+                     <geo>50.06143 19.936580</geo>
+                  </location>
+                  <idno type="GEONAMES">https://sws.geonames.org/3094802/</idno>
                </place>
                <place xml:id="emt_place_id__100">
                   <placeName>Worms</placeName>
+                  <location type="coords">
+                     <geo>49.63278 8.359160</geo>
+                  </location>
+                  <idno type="GEONAMES">https://sws.geonames.org/2806142/</idno>
                </place>
                <place xml:id="emt_place_id__101">
                   <placeName>Breslau</placeName>
+                  <location type="coords">
+                     <geo>51.10000 17.033330</geo>
+                  </location>
+                  <idno type="GEONAMES">https://sws.geonames.org/3081368/</idno>
                </place>
                <place xml:id="emt_place_id__102">
                   <placeName>Trier</placeName>
+                  <location type="coords">
+                     <geo>49.75565 6.639350</geo>
+                  </location>
+                  <idno type="GEONAMES">https://sws.geonames.org/2821164/</idno>
                </place>
                <place xml:id="emt_place_id__103">
                   <placeName>Mannheim</placeName>
+                  <location type="coords">
+                     <geo>49.48910 8.466940</geo>
+                  </location>
+                  <idno type="GEONAMES">https://sws.geonames.org/2873891/</idno>
                </place>
                <place xml:id="emt_place_id__104">
                   <placeName>Guadalajara</placeName>
+                  <location type="coords">
+                     <geo>40.62862 -3.161850</geo>
+                  </location>
+                  <idno type="GEONAMES">https://sws.geonames.org/3121070/</idno>
                </place>
                <place xml:id="emt_place_id__105">
                   <placeName>Raudnitz</placeName>
+                  <location type="coords">
+                     <geo>50.42528 14.261750</geo>
+                  </location>
+                  <idno type="GEONAMES">https://sws.geonames.org/3066727/</idno>
                </place>
                <place xml:id="emt_place_id__106">
                   <placeName>Ohlau</placeName>
+                  <location type="coords">
+                     <geo>50.94660 17.292600</geo>
+                  </location>
+                  <idno type="GEONAMES">https://sws.geonames.org/3090205/</idno>
+               </place>
+               <place xml:id="emt_place_id__107">
+                  <placeName>Bonn</placeName>
+               </place>
+               <place xml:id="emt_place_id__108">
+                  <placeName>Nimwegen</placeName>
+               </place>
+               <place xml:id="emt_place_id__109">
+                  <placeName>Köln (Stadt)</placeName>
+               </place>
+               <place xml:id="emt_place_id__110">
+                  <placeName>Maastricht</placeName>
+               </place>
+               <place xml:id="emt_place_id__111">
+                  <placeName>Jülich, Herzogtum</placeName>
                </place>
             </listPlace>
          </div>
