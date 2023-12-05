@@ -19,5 +19,19 @@
     "name": "Kapuzinerorden (OFM Cap)",
     "Anmerkungen": "",
     "emt_id": "emt_institution_id__3"
+  },
+  "4": {
+    "id": 4,
+    "order": "4.00000000000000000000",
+    "name": "Ursulinen",
+    "Anmerkungen": "",
+    "emt_id": "emt_institution_id__4"
+  },
+  "5": {
+    "id": 5,
+    "order": "5.00000000000000000000",
+    "name": "Jesuiten",
+    "Anmerkungen": "",
+    "emt_id": "emt_institution_id__5"
   }
 }

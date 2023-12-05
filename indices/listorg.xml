@@ -70,6 +70,12 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                <org xml:id="emt_institution_id__3">
                   <orgName>Kapuzinerorden (OFM Cap)</orgName>
                </org>
+               <org xml:id="emt_institution_id__4">
+                  <orgName>Ursulinen</orgName>
+               </org>
+               <org xml:id="emt_institution_id__5">
+                  <orgName>Jesuiten</orgName>
+               </org>
             </listOrg>
          </div>
       </body>

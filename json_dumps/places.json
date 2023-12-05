@@ -1147,44 +1147,44 @@
     "id": 107,
     "order": "105.00000000000000000000",
     "name": "Bonn",
-    "geonames": "",
+    "geonames": "https://www.geonames.org/2946447/bonn.html",
     "emt_id": "emt_place_id__107",
     "place_type": null,
-    "lat": null,
-    "long": null,
+    "lat": "50.73438",
+    "long": "7.095490",
     "comments intern": ""
   },
   "108": {
     "id": 108,
     "order": "106.00000000000000000000",
     "name": "Nimwegen",
-    "geonames": "",
+    "geonames": "https://www.geonames.org/2750053/nijmegen.html",
     "emt_id": "emt_place_id__108",
     "place_type": null,
-    "lat": null,
-    "long": null,
+    "lat": "51.84250",
+    "long": "5.852780",
     "comments intern": ""
   },
   "109": {
     "id": 109,
     "order": "107.00000000000000000000",
     "name": "Köln (Stadt)",
-    "geonames": "",
+    "geonames": "https://www.geonames.org/2886242/koeln.html",
     "emt_id": "emt_place_id__109",
     "place_type": null,
-    "lat": null,
-    "long": null,
+    "lat": "50.93333",
+    "long": "6.950000",
     "comments intern": ""
   },
   "110": {
     "id": 110,
     "order": "108.00000000000000000000",
     "name": "Maastricht",
-    "geonames": "",
+    "geonames": "https://www.geonames.org/2751283/maastricht.html",
     "emt_id": "emt_place_id__110",
     "place_type": null,
-    "lat": null,
-    "long": null,
+    "lat": "50.84833",
+    "long": "5.688890",
     "comments intern": ""
   },
   "111": {
@@ -1196,6 +1196,61 @@
     "place_type": null,
     "lat": null,
     "long": null,
+    "comments intern": ""
+  },
+  "112": {
+    "id": 112,
+    "order": "110.00000000000000000000",
+    "name": "Klosterneuburg",
+    "geonames": "https://www.geonames.org/2773913/klosterneuburg.html",
+    "emt_id": "emt_place_id__112",
+    "place_type": null,
+    "lat": "48.30521",
+    "long": "16.325220",
+    "comments intern": ""
+  },
+  "113": {
+    "id": 113,
+    "order": "111.00000000000000000000",
+    "name": "Münster, Fürstbistum",
+    "geonames": "",
+    "emt_id": "emt_place_id__113",
+    "place_type": null,
+    "lat": null,
+    "long": null,
+    "comments intern": ""
+  },
+  "114": {
+    "id": 114,
+    "order": "112.00000000000000000000",
+    "name": "Einsiedeln",
+    "geonames": "https://www.geonames.org/2660925/einsiedeln.html",
+    "emt_id": "emt_place_id__114",
+    "place_type": null,
+    "lat": "47.12849",
+    "long": "8.747350",
+    "comments intern": ""
+  },
+  "115": {
+    "id": 115,
+    "order": "113.00000000000000000000",
+    "name": "Trient (Stadt)",
+    "geonames": "https://www.geonames.org/3165243/trento.html",
+    "emt_id": "emt_place_id__115",
+    "place_type": null,
+    "lat": "46.06787",
+    "long": "11.121080",
+    "comments intern": ""
+  },
+  "116": {
+    "id": 116,
+    "order": "114.00000000000000000000",
+    "name": "Regensburg",
+    "geonames": "https://www.geonames.org/3220857/kreisfreie-stadt-regensburg.html",
+    "emt_id": "emt_place_id__116",
+    "place_type": null,
+    "lat": "49.01315",
+    "long": "12.111900",
     "comments intern": ""
   }
 }

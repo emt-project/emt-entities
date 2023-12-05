@@ -1754,7 +1754,7 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                   <idno type="URL">https://gw.geneanet.org/frebault?lang=en&amp;n=von+salm+reifferscheidt&amp;oc=0&amp;p=ernst+friedrich</idno>
                </person>
                <person xml:id="emt_person_id__146">
-                  <persName>Vetter Philipp, der Kriegsdienste beim Kaiser nehemn will 1677</persName>
+                  <persName>Vetter Philipp, der Kriegsdienste beim Kaiser nehmen will 1677</persName>
                </person>
                <person xml:id="emt_person_id__147">
                   <persName>Neersen, Frau von, will EMTs Fürsprache für ihren Mann 1677</persName>
@@ -1763,7 +1763,20 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                   <persName>Neersen, Herr von, braucht EMTs Fürsprache 1677</persName>
                </person>
                <person xml:id="emt_person_id__149">
-                  <persName>Fürst Schwarzenberg 1677</persName>
+                  <persName>Ferdinand Wilhelm von Schwarzenberg</persName>
+                  <birth>
+                     <date notBefore="1652-01-01" notAfter="1652-12-31">1652</date>
+                  </birth>
+                  <death>
+                     <date notBefore="1703-01-01" notAfter="1703-12-31">1703</date>
+                  </death>
+                  <idno type="GND">https://d-nb.info/gnd/140446257</idno>
+                  <idno type="NDB">https://www.deutsche-biographie.de/sfz120110.html#indexcontent</idno>
+                  <idno type="WIKIDATA">http://www.wikidata.org/entity/Q3068696</idno>
+                  <figure>
+                     <graphic url="emt_person_id__149.jpg"/>
+                     <caption>Ferdinand Schwarzenberg.jpg</caption>
+                  </figure>
                </person>
                <person xml:id="emt_person_id__150">
                   <persName>Jägermeister Kaiser Leopolds I. 1677</persName>
@@ -1781,7 +1794,135 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                   <persName>Pater Stettinger, in Heiratsprojekt für Johann Wilhelm involviert 1677</persName>
                </person>
                <person xml:id="emt_person_id__155">
-                  <persName>Königsegg, Bruder des Reichsvizekanzler, reist aus Wien ab 1677</persName>
+                  <persName>Königsegg, Bruder des Reichsvizekanzlers</persName>
+               </person>
+               <person xml:id="emt_person_id__156">
+                  <persName>Franz Bernhard von Nassau-Hadamar, Domherr zu Köln</persName>
+                  <birth>
+                     <date notBefore="1637-01-01" notAfter="1637-12-31">1637</date>
+                  </birth>
+                  <death>
+                     <date notBefore="1695-01-01" notAfter="1695-12-31">1695</date>
+                  </death>
+                  <idno type="GND">https://d-nb.info/gnd/1017400733</idno>
+                  <idno type="NDB">https://www.deutsche-biographie.de/pnd1017400636.html#indexcontent</idno>
+                  <idno type="WIKIDATA">http://www.wikidata.org/entity/Q23889116</idno>
+                  <figure>
+                     <graphic url="emt_person_id__156.jpg"/>
+                     <caption/>
+                  </figure>
+               </person>
+               <person xml:id="emt_person_id__157">
+                  <persName>Vilianosa, hat etwas von PW begehrt 1677</persName>
+               </person>
+               <person xml:id="emt_person_id__158">
+                  <persName>Pater Joseph, lässt sich PW empfehlen, dem er selbst geschrieben hat (Oktober 1677)</persName>
+               </person>
+               <person xml:id="emt_person_id__159">
+                  <persName>Geret, soll in Düsseldorf einen Schweißhund für Leopold I. abrichten 1677</persName>
+               </person>
+               <person xml:id="emt_person_id__160">
+                  <persName>Maria Theresia Caretto di Grana, geb. Herberstein, verw. Losenstein</persName>
+                  <birth>
+                     <date notBefore="1641-01-01" notAfter="1641-12-31">1641</date>
+                  </birth>
+                  <death>
+                     <date notBefore="1682-01-01" notAfter="1682-12-31">1682</date>
+                  </death>
+                  <idno type="GND">https://d-nb.info/gnd/115493795X</idno>
+                  <idno type="NDB">https://www.deutsche-biographie.de/pnd115493795X.html</idno>
+                  <idno type="URL">http://www.wikidata.org/entity/Q94621824</idno>
+               </person>
+               <person xml:id="emt_person_id__161">
+                  <persName>Nostitz, ist im Herbst 1677 bei Wien bei Wildschweinjagd verwundet worden</persName>
+               </person>
+               <person xml:id="emt_person_id__162">
+                  <persName>Johann Georg II. von Anhalt-Dessau</persName>
+                  <birth>
+                     <date notBefore="1627-01-01" notAfter="1627-12-31">1627</date>
+                  </birth>
+                  <death>
+                     <date notBefore="1693-01-01" notAfter="1693-12-31">1693</date>
+                  </death>
+                  <idno type="GND">https://d-nb.info/gnd/102367604</idno>
+                  <idno type="NDB">https://www.deutsche-biographie.de/sfz53314.html#indexcontent</idno>
+               </person>
+               <person xml:id="emt_person_id__163">
+                  <persName>Johann Kasimir von Anhalt-Dessau</persName>
+                  <birth>
+                     <date notBefore="1596-01-01" notAfter="1596-12-31">1596</date>
+                  </birth>
+                  <death>
+                     <date notBefore="1660-01-01" notAfter="1660-12-31">1660</date>
+                  </death>
+                  <idno type="GND">https://d-nb.info/gnd/100858457</idno>
+                  <idno type="NDB">https://www.deutsche-biographie.de/sfz49391.html#indexcontent</idno>
+               </person>
+               <person xml:id="emt_person_id__164">
+                  <persName>Ferdinand Bonaventura von Harrach</persName>
+                  <birth>
+                     <date notBefore="1637-01-01" notAfter="1637-12-31">1637</date>
+                  </birth>
+                  <death>
+                     <date notBefore="1706-01-01" notAfter="1706-12-31">1706</date>
+                  </death>
+                  <idno type="GND">https://d-nb.info/gnd/116484225</idno>
+                  <idno type="NDB">https://www.deutsche-biographie.de/sfz26103.html#indexcontent</idno>
+               </person>
+               <person xml:id="emt_person_id__165">
+                  <persName>Christofl, ihm hat PW keinen Brief an EMT mitgegeben (Ende 1677)</persName>
+               </person>
+               <person xml:id="emt_person_id__166">
+                  <persName>Eleonora Maria von Polen, geb. Habsburg, vereh. Lothringen</persName>
+                  <birth>
+                     <date notBefore="1653-01-01" notAfter="1653-12-31">1653</date>
+                  </birth>
+                  <death>
+                     <date notBefore="1697-01-01" notAfter="1697-12-31">1697</date>
+                  </death>
+                  <idno type="GND">https://d-nb.info/gnd/119488930</idno>
+                  <idno type="NDB">https://www.deutsche-biographie.de/sfz69714.html#indexcontent</idno>
+               </person>
+               <person xml:id="emt_person_id__167">
+                  <persName>Pater Bakenius, Anfang 1678 auf Durchreise in Wien</persName>
+               </person>
+               <person xml:id="emt_person_id__168">
+                  <persName>Wilhelm III. von Oranien</persName>
+                  <birth>
+                     <date notBefore="1650-01-01" notAfter="1650-12-31">1650</date>
+                  </birth>
+                  <death>
+                     <date notBefore="1702-01-01" notAfter="1702-12-31">1702</date>
+                  </death>
+                  <idno type="GND">https://d-nb.info/gnd/118643355</idno>
+                  <idno type="NDB">https://www.deutsche-biographie.de/sfz67993.html#indexcontent</idno>
+                  <idno type="WIKIDATA">http://www.wikidata.org/entity/Q129987</idno>
+                  <figure>
+                     <graphic url="emt_person_id__168.jpg"/>
+                     <caption>G. Kneller - Willem III (1650-1702), prins van Oranje, koning van Engeland - C252 - Cultural Heritage Agency of the Netherlands Art Collection.jpg</caption>
+                  </figure>
+               </person>
+               <person xml:id="emt_person_id__169">
+                  <persName>Marie Hedwig Augusta von Sachsen-Lauenburg, geb. Pfalz-Sulzbach</persName>
+                  <birth>
+                     <date notBefore="1650-01-01" notAfter="1650-12-31">1650</date>
+                  </birth>
+                  <death>
+                     <date notBefore="1681-01-01" notAfter="1681-12-31">1681</date>
+                  </death>
+                  <idno type="GND">https://d-nb.info/gnd/124178243</idno>
+                  <idno type="NDB">https://www.deutsche-biographie.de/pnd124178243.html#indexcontent</idno>
+               </person>
+               <person xml:id="emt_person_id__170">
+                  <persName>Johann Caspar von Ampringen, Deutschmeister</persName>
+                  <birth>
+                     <date notBefore="1619-01-01" notAfter="1619-12-31">1619</date>
+                  </birth>
+                  <death>
+                     <date notBefore="1684-01-01" notAfter="1684-12-31">1684</date>
+                  </death>
+                  <idno type="GND">https://d-nb.info/gnd/116302380</idno>
+                  <idno type="NDB">https://www.deutsche-biographie.de/sfz864.html#indexcontent</idno>
                </person>
             </listPerson>
          </div>

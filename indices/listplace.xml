@@ -755,18 +755,65 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                </place>
                <place xml:id="emt_place_id__107">
                   <placeName>Bonn</placeName>
+                  <location type="coords">
+                     <geo>50.73438 7.095490</geo>
+                  </location>
+                  <idno type="GEONAMES">https://sws.geonames.org/2946447/</idno>
                </place>
                <place xml:id="emt_place_id__108">
                   <placeName>Nimwegen</placeName>
+                  <location type="coords">
+                     <geo>51.84250 5.852780</geo>
+                  </location>
+                  <idno type="GEONAMES">https://sws.geonames.org/2750053/</idno>
                </place>
                <place xml:id="emt_place_id__109">
                   <placeName>Köln (Stadt)</placeName>
+                  <location type="coords">
+                     <geo>50.93333 6.950000</geo>
+                  </location>
+                  <idno type="GEONAMES">https://sws.geonames.org/2886242/</idno>
                </place>
                <place xml:id="emt_place_id__110">
                   <placeName>Maastricht</placeName>
+                  <location type="coords">
+                     <geo>50.84833 5.688890</geo>
+                  </location>
+                  <idno type="GEONAMES">https://sws.geonames.org/2751283/</idno>
                </place>
                <place xml:id="emt_place_id__111">
                   <placeName>Jülich, Herzogtum</placeName>
+               </place>
+               <place xml:id="emt_place_id__112">
+                  <placeName>Klosterneuburg</placeName>
+                  <location type="coords">
+                     <geo>48.30521 16.325220</geo>
+                  </location>
+                  <idno type="GEONAMES">https://sws.geonames.org/2773913/</idno>
+               </place>
+               <place xml:id="emt_place_id__113">
+                  <placeName>Münster, Fürstbistum</placeName>
+               </place>
+               <place xml:id="emt_place_id__114">
+                  <placeName>Einsiedeln</placeName>
+                  <location type="coords">
+                     <geo>47.12849 8.747350</geo>
+                  </location>
+                  <idno type="GEONAMES">https://sws.geonames.org/2660925/</idno>
+               </place>
+               <place xml:id="emt_place_id__115">
+                  <placeName>Trient (Stadt)</placeName>
+                  <location type="coords">
+                     <geo>46.06787 11.121080</geo>
+                  </location>
+                  <idno type="GEONAMES">https://sws.geonames.org/3165243/</idno>
+               </place>
+               <place xml:id="emt_place_id__116">
+                  <placeName>Regensburg</placeName>
+                  <location type="coords">
+                     <geo>49.01315 12.111900</geo>
+                  </location>
+                  <idno type="GEONAMES">https://sws.geonames.org/3220857/</idno>
                </place>
             </listPlace>
          </div>
