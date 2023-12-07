@@ -1252,5 +1252,60 @@
     "lat": "49.01315",
     "long": "12.111900",
     "comments intern": ""
+  },
+  "117": {
+    "id": 117,
+    "order": "115.00000000000000000000",
+    "name": "Vilshofen",
+    "geonames": "https://www.geonames.org/2817202/vilshofen.html",
+    "emt_id": "emt_place_id__117",
+    "place_type": null,
+    "lat": "48.62695",
+    "long": "13.192220",
+    "comments intern": ""
+  },
+  "118": {
+    "id": 118,
+    "order": "116.00000000000000000000",
+    "name": "Baden",
+    "geonames": "https://www.geonames.org/2782067/baden.html",
+    "emt_id": "emt_place_id__118",
+    "place_type": null,
+    "lat": "48.00543",
+    "long": "16.232640",
+    "comments intern": ""
+  },
+  "119": {
+    "id": 119,
+    "order": "117.00000000000000000000",
+    "name": "Bergstädte [in Oberungarn]",
+    "geonames": "",
+    "emt_id": "emt_place_id__119",
+    "place_type": null,
+    "lat": null,
+    "long": null,
+    "comments intern": ""
+  },
+  "120": {
+    "id": 120,
+    "order": "118.00000000000000000000",
+    "name": "Mödling",
+    "geonames": "https://www.geonames.org/2771335/moedling.html",
+    "emt_id": "emt_place_id__120",
+    "place_type": null,
+    "lat": "48.08605",
+    "long": "16.289210",
+    "comments intern": ""
+  },
+  "121": {
+    "id": 121,
+    "order": "119.00000000000000000000",
+    "name": "Bayern, Kurfürstentum",
+    "geonames": "https://www.geonames.org/2951839/bavaria.html",
+    "emt_id": "emt_place_id__121",
+    "place_type": null,
+    "lat": "49.00000",
+    "long": "11.500000",
+    "comments intern": ""
   }
 }

@@ -988,7 +988,7 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                   </figure>
                </person>
                <person xml:id="emt_person_id__76">
-                  <persName>Egelhoff, Fräulein von</persName>
+                  <persName>Egelhoff (Egloff?), Fräulein von</persName>
                </person>
                <person xml:id="emt_person_id__77">
                   <persName>Bernsau, Herr von</persName>
@@ -1923,6 +1923,151 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                   </death>
                   <idno type="GND">https://d-nb.info/gnd/116302380</idno>
                   <idno type="NDB">https://www.deutsche-biographie.de/sfz864.html#indexcontent</idno>
+               </person>
+               <person xml:id="emt_person_id__171">
+                  <persName>Krenski, hat Briefe von PW überbracht und soll von EMT an Leopold empfohlen werden 1678</persName>
+               </person>
+               <person xml:id="emt_person_id__172">
+                  <persName>Hoffmann von Grünbühel, NN., vereh. Dietrichstein</persName>
+               </person>
+               <person xml:id="emt_person_id__173">
+                  <persName>Dietrichstein, Seyfried von</persName>
+               </person>
+               <person xml:id="emt_person_id__174">
+                  <persName>Charlotte von der Pfalz, geb. Hessen-Kassel</persName>
+                  <birth>
+                     <date notBefore="1627-01-01" notAfter="1627-12-31">1627</date>
+                  </birth>
+                  <death>
+                     <date notBefore="1686-01-01" notAfter="1686-12-31">1686</date>
+                  </death>
+                  <idno type="GND">https://d-nb.info/gnd/117722944</idno>
+                  <idno type="NDB">https://www.deutsche-biographie.de/sfz8140.html#indexcontent</idno>
+                  <idno type="WIKIDATA">http://www.wikidata.org/entity/Q261876</idno>
+                  <figure>
+                     <graphic url="emt_person_id__174.jpg"/>
+                     <caption>Charlotte von Hessen-Kassel um 1650.jpg</caption>
+                  </figure>
+               </person>
+               <person xml:id="emt_person_id__175">
+                  <persName>Michael Kasimir Radziwill</persName>
+                  <birth>
+                     <date notBefore="1635-01-01" notAfter="1635-12-31">1635</date>
+                  </birth>
+                  <death>
+                     <date notBefore="1680-01-01" notAfter="1680-12-31">1680</date>
+                  </death>
+                  <idno type="GND">https://d-nb.info/gnd/121002608</idno>
+                  <idno type="WIKIDATA">http://www.wikidata.org/entity/Q1392324</idno>
+                  <figure>
+                     <graphic url="emt_person_id__175.jpg"/>
+                     <caption>Michał Kazimierz Radziwiłł.JPG</caption>
+                  </figure>
+               </person>
+               <person xml:id="emt_person_id__176">
+                  <persName>Offizial, für den EMT eine Empfehlung abgeben soll 1678</persName>
+               </person>
+               <person xml:id="emt_person_id__177">
+                  <persName>Herzog, an den EMT ihren Bruder Ludwig empfehlen soll 1678</persName>
+               </person>
+               <person xml:id="emt_person_id__178">
+                  <persName>Schwerin, an ihn oder sie soll EMT das Fräulein Egloff empfehlen 1678</persName>
+               </person>
+               <person xml:id="emt_person_id__179">
+                  <persName>Christoph Johann von Althann, Oberstkuchelmeister</persName>
+                  <birth>
+                     <date notBefore="1633-01-01" notAfter="1633-12-31">1633</date>
+                  </birth>
+                  <death>
+                     <date notBefore="1706-01-01" notAfter="1706-12-31">1706</date>
+                  </death>
+                  <idno type="GND">https://d-nb.info/gnd/1218005602</idno>
+                  <idno type="NDB">https://www.deutsche-biographie.de/pnd1218005602.html#indexcontent</idno>
+               </person>
+               <person xml:id="emt_person_id__180">
+                  <persName>Mansfeld, Graf, begrüßt PW im Auftrag EMTs auf der Reise nach Wien 1678</persName>
+               </person>
+               <person xml:id="emt_person_id__181">
+                  <persName>Kollonitsch, soll Abschiedsgrüße EMTs an PW überbringen (Nov. 1678)</persName>
+               </person>
+               <person xml:id="emt_person_id__182">
+                  <persName>Spiring, Baron von, Kämmerer PWs, der dessen Abschiedsgrüße überbringt (Nov. 1678)</persName>
+               </person>
+               <person xml:id="emt_person_id__183">
+                  <persName>Serin, Freiherr von, Kämmerer PWs 1678 (Rückreise Wien)</persName>
+               </person>
+               <person xml:id="emt_person_id__184">
+                  <persName>Kollonitsch, Fräulein, erhält Zusage für Hofdamenstelle auf Wunsch von PW (1678); ihr Vater ist möglicherweise 181</persName>
+               </person>
+               <person xml:id="emt_person_id__185">
+                  <persName>kaiserlicher Abgesandter zu den Rebellen in Ungarn, kommt im November 1678 von dort zurück</persName>
+               </person>
+               <person xml:id="emt_person_id__186">
+                  <persName>Otto Heinrich Caretto di Grana</persName>
+                  <birth>
+                     <date notBefore="1639-01-01" notAfter="1639-12-31">1639</date>
+                  </birth>
+                  <death>
+                     <date notBefore="1685-01-01" notAfter="1685-12-31">1685</date>
+                  </death>
+                  <idno type="GND">https://d-nb.info/gnd/116821523</idno>
+                  <idno type="NDB">https://www.deutsche-biographie.de/pnd116821523.html#indexcontent</idno>
+               </person>
+               <person xml:id="emt_person_id__187">
+                  <persName>Christoph Ignaz Abele, Hofkammerpräsident</persName>
+                  <birth>
+                     <date notBefore="1627-01-01" notAfter="1627-12-31">1627</date>
+                  </birth>
+                  <death>
+                     <date notBefore="1685-01-01" notAfter="1685-12-31">1685</date>
+                  </death>
+                  <idno type="GND">https://d-nb.info/gnd/116002034</idno>
+                  <idno type="NDB">https://www.deutsche-biographie.de/sfz57.html#indexcontent</idno>
+               </person>
+               <person xml:id="emt_person_id__188">
+                  <persName>Johann Georg III. von Sachsen, Kurfürst</persName>
+                  <birth>
+                     <date notBefore="1647-01-01" notAfter="1647-12-31">1647</date>
+                  </birth>
+                  <death>
+                     <date notBefore="1691-01-01" notAfter="1691-12-31">1691</date>
+                  </death>
+                  <idno type="GND">https://d-nb.info/gnd/102117470</idno>
+                  <idno type="NDB">https://www.deutsche-biographie.de/sfz37575.html#indexcontent</idno>
+               </person>
+               <person xml:id="emt_person_id__189">
+                  <persName>Fugger, Graf, hat wohl Hofamt bei PW inne (1679)</persName>
+               </person>
+               <person xml:id="emt_person_id__190">
+                  <persName>Marta Glass, Hebamme</persName>
+               </person>
+               <person xml:id="emt_person_id__191">
+                  <persName>Wolfgang von Oettingen-Wallerstein, Reichshofratspräsident</persName>
+                  <birth>
+                     <date notBefore="1626-01-01" notAfter="1626-12-31">1626</date>
+                  </birth>
+                  <death>
+                     <date notBefore="1708-01-01" notAfter="1708-12-31">1708</date>
+                  </death>
+                  <idno type="GND">https://d-nb.info/gnd/104196858</idno>
+                  <idno type="NDB">https://www.deutsche-biographie.de/sfz73208.html#indexcontent</idno>
+               </person>
+               <person xml:id="emt_person_id__192">
+                  <persName>Breuner, Gräfin, Erzherzogin Maria Anna will sie bei sich haben 1679</persName>
+               </person>
+               <person xml:id="emt_person_id__193">
+                  <persName>Rappach, Gräfin, Erzherzogin Maria Anna bedauert es sehr, dass sie nicht mit nach Düsseldorf gegangen ist 1679</persName>
+               </person>
+               <person xml:id="emt_person_id__194">
+                  <persName>Juan José de Austria</persName>
+                  <birth>
+                     <date notBefore="1629-01-01" notAfter="1629-12-31">1629</date>
+                  </birth>
+                  <death>
+                     <date notBefore="1679-01-01" notAfter="1679-12-31">1679</date>
+                  </death>
+                  <idno type="GND">https://d-nb.info/gnd/118713302</idno>
+                  <idno type="NDB">https://www.deutsche-biographie.de/sfz70291.html#indexcontent</idno>
                </person>
             </listPerson>
          </div>

@@ -815,6 +815,37 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                   </location>
                   <idno type="GEONAMES">https://sws.geonames.org/3220857/</idno>
                </place>
+               <place xml:id="emt_place_id__117">
+                  <placeName>Vilshofen</placeName>
+                  <location type="coords">
+                     <geo>48.62695 13.192220</geo>
+                  </location>
+                  <idno type="GEONAMES">https://sws.geonames.org/2817202/</idno>
+               </place>
+               <place xml:id="emt_place_id__118">
+                  <placeName>Baden</placeName>
+                  <location type="coords">
+                     <geo>48.00543 16.232640</geo>
+                  </location>
+                  <idno type="GEONAMES">https://sws.geonames.org/2782067/</idno>
+               </place>
+               <place xml:id="emt_place_id__119">
+                  <placeName>Bergstädte [in Oberungarn]</placeName>
+               </place>
+               <place xml:id="emt_place_id__120">
+                  <placeName>Mödling</placeName>
+                  <location type="coords">
+                     <geo>48.08605 16.289210</geo>
+                  </location>
+                  <idno type="GEONAMES">https://sws.geonames.org/2771335/</idno>
+               </place>
+               <place xml:id="emt_place_id__121">
+                  <placeName>Bayern, Kurfürstentum</placeName>
+                  <location type="coords">
+                     <geo>49.00000 11.500000</geo>
+                  </location>
+                  <idno type="GEONAMES">https://sws.geonames.org/2951839/</idno>
+               </place>
             </listPlace>
          </div>
       </body>
