@@ -1307,5 +1307,16 @@
     "lat": "49.00000",
     "long": "11.500000",
     "comments intern": ""
+  },
+  "122": {
+    "id": 122,
+    "order": "120.00000000000000000000",
+    "name": "Wien, Hietzing",
+    "geonames": "",
+    "emt_id": "emt_place_id__122",
+    "place_type": null,
+    "lat": null,
+    "long": null,
+    "comments intern": ""
   }
 }

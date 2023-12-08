@@ -76,6 +76,12 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                <org xml:id="emt_institution_id__5">
                   <orgName>Jesuiten</orgName>
                </org>
+               <org xml:id="emt_institution_id__6">
+                  <orgName>Geheime Kanzlei (Kaiser)</orgName>
+               </org>
+               <org xml:id="emt_institution_id__7">
+                  <orgName>Reichskanzlei</orgName>
+               </org>
             </listOrg>
          </div>
       </body>

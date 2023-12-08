@@ -1884,7 +1884,7 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                   <idno type="NDB">https://www.deutsche-biographie.de/sfz69714.html#indexcontent</idno>
                </person>
                <person xml:id="emt_person_id__167">
-                  <persName>Pater Bakenius, Anfang 1678 auf Durchreise in Wien</persName>
+                  <persName>Pater Packenius, Anfang 1678 auf Durchreise in Wien</persName>
                </person>
                <person xml:id="emt_person_id__168">
                   <persName>Wilhelm III. von Oranien</persName>
@@ -2068,6 +2068,34 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                   </death>
                   <idno type="GND">https://d-nb.info/gnd/118713302</idno>
                   <idno type="NDB">https://www.deutsche-biographie.de/sfz70291.html#indexcontent</idno>
+               </person>
+               <person xml:id="emt_person_id__195">
+                  <persName>Sekretär von Kaiserin-Witwe Eleonora Gonzaga-Nevers 1679</persName>
+               </person>
+               <person xml:id="emt_person_id__196">
+                  <persName>Bischof von Brixen 1679</persName>
+               </person>
+               <person xml:id="emt_person_id__197">
+                  <persName>Entler, für ihn soll EMT Fürsprache halten auf Bitte von Schellerer 1679</persName>
+               </person>
+               <person xml:id="emt_person_id__198">
+                  <persName>Jordan, Leibarzt in Wien 1679</persName>
+               </person>
+               <person xml:id="emt_person_id__199">
+                  <persName>Johann Heinrich von Galen</persName>
+                  <birth>
+                     <date notBefore="1609-01-01" notAfter="1609-12-31">1609</date>
+                  </birth>
+                  <death>
+                     <date notBefore="1694-01-01" notAfter="1694-12-31">1694</date>
+                  </death>
+                  <idno type="GND">https://d-nb.info/gnd/1034733370</idno>
+                  <idno type="NDB">https://www.deutsche-biographie.de/pnd1034733370.html</idno>
+                  <idno type="WIKIDATA">http://www.wikidata.org/entity/Q56604694</idno>
+                  <figure>
+                     <graphic url="emt_person_id__199.jpg"/>
+                     <caption/>
+                  </figure>
                </person>
             </listPerson>
          </div>

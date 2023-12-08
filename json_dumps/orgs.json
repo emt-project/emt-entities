@@ -33,5 +33,19 @@
     "name": "Jesuiten",
     "Anmerkungen": "",
     "emt_id": "emt_institution_id__5"
+  },
+  "6": {
+    "id": 6,
+    "order": "6.00000000000000000000",
+    "name": "Geheime Kanzlei (Kaiser)",
+    "Anmerkungen": "",
+    "emt_id": "emt_institution_id__6"
+  },
+  "7": {
+    "id": 7,
+    "order": "7.00000000000000000000",
+    "name": "Reichskanzlei",
+    "Anmerkungen": "",
+    "emt_id": "emt_institution_id__7"
   }
 }
