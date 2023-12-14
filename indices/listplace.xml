@@ -848,6 +848,38 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                </place>
                <place xml:id="emt_place_id__122">
                   <placeName>Wien, Hietzing</placeName>
+                  <location type="coords">
+                     <geo>48.18623 16.296500</geo>
+                  </location>
+                  <idno type="GEONAMES">https://sws.geonames.org/2776421/</idno>
+               </place>
+               <place xml:id="emt_place_id__123">
+                  <placeName>München</placeName>
+                  <location type="coords">
+                     <geo>48.13743 11.575490</geo>
+                  </location>
+                  <idno type="GEONAMES">https://sws.geonames.org/2867714/</idno>
+               </place>
+               <place xml:id="emt_place_id__124">
+                  <placeName>Mariazell</placeName>
+                  <location type="coords">
+                     <geo>47.77306 15.316390</geo>
+                  </location>
+                  <idno type="GEONAMES">https://sws.geonames.org/2771893/</idno>
+               </place>
+               <place xml:id="emt_place_id__125">
+                  <placeName>Mergentheim</placeName>
+                  <location type="coords">
+                     <geo>49.47631 9.772660</geo>
+                  </location>
+                  <idno type="GEONAMES">https://sws.geonames.org/6558009/</idno>
+               </place>
+               <place xml:id="emt_place_id__126">
+                  <placeName>Portugal</placeName>
+                  <location type="coords">
+                     <geo>39.69450 -8.130570</geo>
+                  </location>
+                  <idno type="GEONAMES">https://sws.geonames.org/2264397/</idno>
                </place>
             </listPlace>
          </div>

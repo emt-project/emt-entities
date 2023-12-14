@@ -221,12 +221,11 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                   <death>
                      <date notBefore="1711-01-01" notAfter="1711-12-31">1711</date>
                   </death>
-                  <idno type="GND">https://d-nb.info/gnd/123623790</idno>
+                  <idno type="GND">https://d-nb.info/gnd/138780889</idno>
                   <idno type="NDB">https://www.deutsche-biographie.de/sfz47509.html#indexcontent</idno>
-                  <idno type="WIKIDATA">http://www.wikidata.org/entity/Q51973772</idno>
                   <figure>
                      <graphic url="emt_person_id__13.jpg"/>
-                     <caption>Franz Joseph von Lamberg.jpg</caption>
+                     <caption/>
                   </figure>
                </person>
                <person xml:id="emt_person_id__14">
@@ -2073,7 +2072,20 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                   <persName>Sekretär von Kaiserin-Witwe Eleonora Gonzaga-Nevers 1679</persName>
                </person>
                <person xml:id="emt_person_id__196">
-                  <persName>Bischof von Brixen 1679</persName>
+                  <persName>Paulinus Mayr, Fürstbischof von Brixen</persName>
+                  <birth>
+                     <date notBefore="1628-01-01" notAfter="1628-12-31">1628</date>
+                  </birth>
+                  <death>
+                     <date notBefore="1685-01-01" notAfter="1685-12-31">1685</date>
+                  </death>
+                  <idno type="GND">https://d-nb.info/gnd/115881395</idno>
+                  <idno type="NDB">https://www.deutsche-biographie.de/sfzP0952.html#indexcontent</idno>
+                  <idno type="WIKIDATA">http://www.wikidata.org/entity/Q2063917</idno>
+                  <figure>
+                     <graphic url="emt_person_id__196.jpg"/>
+                     <caption>Paulinus Mayr.jpg</caption>
+                  </figure>
                </person>
                <person xml:id="emt_person_id__197">
                   <persName>Entler, für ihn soll EMT Fürsprache halten auf Bitte von Schellerer 1679</persName>
@@ -2096,6 +2108,54 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                      <graphic url="emt_person_id__199.jpg"/>
                      <caption/>
                   </figure>
+               </person>
+               <person xml:id="emt_person_id__200">
+                  <persName>Mansfeld, Gräfin Maria Elisabeth von, geb. Harrach</persName>
+                  <death>
+                     <date notBefore="1698-01-01" notAfter="1698-12-31">1698</date>
+                  </death>
+               </person>
+               <person xml:id="emt_person_id__201">
+                  <persName>Baur, Obrist, für den EMT Fürsprache bei Leopold einlagen soll</persName>
+               </person>
+               <person xml:id="emt_person_id__202">
+                  <persName>Barbier PWs, den dieser für Leopold nach Wien vermittelt hat 1679</persName>
+               </person>
+               <person xml:id="emt_person_id__203">
+                  <persName>Rappach, Maria Theresia von, geb. Brandis (?) Fräuleinhofmeisterin EMT 1679</persName>
+               </person>
+               <person xml:id="emt_person_id__204">
+                  <persName>Lamberg, Kämmerer Leopolds, der 1679 in Neuburg zur Geburt gratuliert</persName>
+               </person>
+               <person xml:id="emt_person_id__205">
+                  <persName>Isabel Luisa von Portugal</persName>
+                  <birth>
+                     <date notBefore="1669-01-01" notAfter="1669-12-31">1669</date>
+                  </birth>
+                  <death>
+                     <date notBefore="1690-01-01" notAfter="1690-12-31">1690</date>
+                  </death>
+               </person>
+               <person xml:id="emt_person_id__206">
+                  <persName>Vittorio Amadeo II. von Savoyen</persName>
+                  <birth>
+                     <date notBefore="1666-01-01" notAfter="1666-12-31">1666</date>
+                  </birth>
+                  <death>
+                     <date notBefore="1632-01-01" notAfter="1632-12-31">1632</date>
+                  </death>
+                  <idno type="GND">https://d-nb.info/gnd/118804537</idno>
+                  <idno type="WIKIDATA">http://www.wikidata.org/entity/Q209579</idno>
+                  <figure>
+                     <graphic url="emt_person_id__206.jpg"/>
+                     <caption>Vittorio Amedeo II in Maestà - Google Art Project.jpg</caption>
+                  </figure>
+               </person>
+               <person xml:id="emt_person_id__207">
+                  <persName>Bruder des Grafen von Oettingen 1679</persName>
+               </person>
+               <person xml:id="emt_person_id__208">
+                  <persName>Wangen, Deutschordensritter und Vertrauter des Deutschmeisters Ampringen</persName>
                </person>
             </listPerson>
          </div>

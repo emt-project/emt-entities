@@ -1312,11 +1312,55 @@
     "id": 122,
     "order": "120.00000000000000000000",
     "name": "Wien, Hietzing",
-    "geonames": "",
+    "geonames": "https://www.geonames.org/2776421/hietzing.html",
     "emt_id": "emt_place_id__122",
     "place_type": null,
-    "lat": null,
-    "long": null,
+    "lat": "48.18623",
+    "long": "16.296500",
+    "comments intern": ""
+  },
+  "123": {
+    "id": 123,
+    "order": "121.00000000000000000000",
+    "name": "München",
+    "geonames": "https://www.geonames.org/2867714/munich.html",
+    "emt_id": "emt_place_id__123",
+    "place_type": null,
+    "lat": "48.13743",
+    "long": "11.575490",
+    "comments intern": ""
+  },
+  "124": {
+    "id": 124,
+    "order": "122.00000000000000000000",
+    "name": "Mariazell",
+    "geonames": "https://www.geonames.org/2771893/mariazell.html",
+    "emt_id": "emt_place_id__124",
+    "place_type": null,
+    "lat": "47.77306",
+    "long": "15.316390",
+    "comments intern": ""
+  },
+  "125": {
+    "id": 125,
+    "order": "123.00000000000000000000",
+    "name": "Mergentheim",
+    "geonames": "https://www.geonames.org/6558009/bad-mergentheim.html",
+    "emt_id": "emt_place_id__125",
+    "place_type": null,
+    "lat": "49.47631",
+    "long": "9.772660",
+    "comments intern": ""
+  },
+  "126": {
+    "id": 126,
+    "order": "124.00000000000000000000",
+    "name": "Portugal",
+    "geonames": "https://www.geonames.org/2264397/portuguese-republic.html",
+    "emt_id": "emt_place_id__126",
+    "place_type": null,
+    "lat": "39.69450",
+    "long": "-8.130570",
     "comments intern": ""
   }
 }
