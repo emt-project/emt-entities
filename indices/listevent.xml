@@ -1798,6 +1798,96 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                      </place>
                  </listPlace>
                </event>
+               <event xml:id="emt_event_id__80" notBefore="1679-02-05" notAfter="1679-02-05">
+                  <desc>
+                     <eventName>
+                        Frieden von Nimwegen
+                     </eventName>                     Tag des Friedensschlusses zwischen dem Reich, Frankreich und Schweden                  </desc>
+               </event>
+               <event xml:id="emt_event_id__81" notBefore="1683-10-26" notAfter="1684-08-15">
+                  <desc>
+                     <eventName>
+                        Reunionskrieg
+                     </eventName>                  </desc>
+               </event>
+               <event xml:id="emt_event_id__83" notBefore="1681-09-30" notAfter="1681-09-30">
+                  <desc>
+                     <eventName>
+                        Besetzung Straßburgs durch Frankreich
+                     </eventName>                  </desc>
+               </event>
+               <event xml:id="emt_event_id__85" notBefore="1683-07-14" notAfter="1683-09-12">
+                  <desc>
+                     <eventName>
+                        Zweite Wiener Türkenbelagerung
+                     </eventName>                     Flucht des kaiserlichen Hofes nach Passau bzw. Linz                  </desc>
+               </event>
+               <event xml:id="emt_event_id__87" notBefore="1699-01-26" notAfter="1699-01-26">
+                  <desc>
+                     <eventName>
+                        Frieden von Karlowitz
+                     </eventName>                  </desc>
+               </event>
+               <event xml:id="emt_event_id__88" notBefore="1686-09-02" notAfter="1686-09-02">
+                  <desc>
+                     <eventName>
+                        Eroberung von Ofen durch kaiserliche Truppen
+                     </eventName>                  </desc>
+               </event>
+               <event xml:id="emt_event_id__89" notBefore="1688-09-06" notAfter="1688-09-06">
+                  <desc>
+                     <eventName>
+                        Eroberung Belgrads
+                     </eventName>                  </desc>
+               </event>
+               <event xml:id="emt_event_id__90" notBefore="1697-09-11" notAfter="1697-09-11">
+                  <desc>
+                     <eventName>
+                        Schlacht bei Zenta
+                     </eventName>                  </desc>
+               </event>
+               <event xml:id="emt_event_id__92" notBefore="1697-10-30" notAfter="1697-10-30">
+                  <desc>
+                     <eventName>
+                        Frieden von Rijswijk
+                     </eventName>                     Zustimmung der kaiserlichen Seite zum Vertrag vom 21.09.1697                  </desc>
+               </event>
+               <event xml:id="emt_event_id__93" notBefore="1691-08-19" notAfter="1691-08-19">
+                  <desc>
+                     <eventName>
+                        Schlacht bei Slankamen
+                     </eventName>                  </desc>
+               </event>
+               <event xml:id="emt_event_id__96" notBefore="1714-03-07" notAfter="1714-03-07">
+                  <desc>
+                     <eventName>
+                        Friede von Rastatt
+                     </eventName>                     Frieden zwischen Frankreich und dem Kaiser, beendet den Spanischen Erbfolgekrieg                  </desc>
+               </event>
+               <event xml:id="emt_event_id__98" notBefore="1711-04-29" notAfter="1711-04-29">
+                  <desc>
+                     <eventName>
+                        Frieden von Sathmar / Szatmár
+                     </eventName>                  </desc>
+               </event>
+               <event xml:id="emt_event_id__100" notBefore="1705-11-27" notAfter="1705-11-27">
+                  <desc>
+                     <eventName>
+                        Beschluss über die Verhängung der Reichsacht gegen die Kurfürsten von Bayern und von Köln
+                     </eventName>                     Verkündung der Reichsacht erst 1706                  </desc>
+               </event>
+               <event xml:id="emt_event_id__101" notBefore="1713-04-19" notAfter="1713-04-19">
+                  <desc>
+                     <eventName>
+                        Verkündung der Pragmatischen Sanktion
+                     </eventName>                  </desc>
+               </event>
+               <event xml:id="emt_event_id__102" notBefore="1718-07-21" notAfter="1718-07-21">
+                  <desc>
+                     <eventName>
+                        Frieden von Passarowitz
+                     </eventName>                  </desc>
+               </event>
             </listEvent>
          </div>
       </body>
