@@ -2073,6 +2073,39 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                <person xml:id="emt_person_id__208">
                   <persName>Wangen, Deutschordensritter und Vertrauter des Deutschmeisters Ampringen</persName>
                </person>
+               <person xml:id="emt_person_id__209">
+                  <persName>Pater Isidorus</persName>
+               </person>
+               <person xml:id="emt_person_id__210">
+                  <persName>Paolo Spinola, Marques de los Balbases</persName>
+                  <birth>
+                     <date notBefore="1628-01-01" notAfter="1628-12-31">1628</date>
+                  </birth>
+                  <death>
+                     <date notBefore="1699-01-01" notAfter="1699-12-31">1699</date>
+                  </death>
+                  <idno type="WIKIDATA">http://www.wikidata.org/entity/Q3894495</idno>
+                  <figure>
+                     <graphic url="emt_person_id__210.jpg"/>
+                     <caption>Cornelis meyssens-pablo spinola.historia di leopoldo cesare.jpg</caption>
+                  </figure>
+               </person>
+               <person xml:id="emt_person_id__211">
+                  <persName>Friedrich Wilhelm, Kurfürst von Brandenburg</persName>
+                  <birth>
+                     <date notBefore="1620-01-01" notAfter="1620-12-31">1620</date>
+                  </birth>
+                  <death>
+                     <date notBefore="1688-01-01" notAfter="1688-12-31">1688</date>
+                  </death>
+                  <idno type="GND">https://d-nb.info/gnd/11853596X</idno>
+                  <idno type="NDB">https://www.deutsche-biographie.de/sfz52987.html#indexcontent</idno>
+                  <idno type="WIKIDATA">http://www.wikidata.org/entity/Q152727</idno>
+                  <figure>
+                     <graphic url="emt_person_id__211.jpg"/>
+                     <caption>Frans Luycx - Frederick William, Elector of Brandenburg, at three-quarter-length.jpg</caption>
+                  </figure>
+               </person>
             </listPerson>
          </div>
       </body>
