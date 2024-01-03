@@ -4384,8 +4384,8 @@
         "order": "77.00000000000000000000",
         "name": "Hochzeit von Erzherzogin Maria Antonia mit Kurfürst Maximilian Emanuel von Bayern",
         "emt_id": "emt_event_id__77",
-        "not_before": "1685-07-15",
-        "not_after": "1685-07-15",
+        "not_before": "1685-06-15",
+        "not_after": "1685-06-15",
         "took_place_at": [
             {
                 "id": 63,
@@ -4544,15 +4544,15 @@
         "order": "84.00000000000000000000",
         "name": "Laxenburger Allianz",
         "emt_id": "emt_event_id__84",
-        "not_before": null,
-        "not_after": null,
+        "not_before": "1682-06-12",
+        "not_after": "1682-06-12",
         "took_place_at": [],
         "related_persons": [],
         "description": "Bündnis mehrerer Reichskreise und des Kaisers gegen Frankreich",
         "img_url": "",
         "img_right": "",
         "img_caption": "",
-        "date_written": "1682"
+        "date_written": ""
     },
     "85": {
         "id": 85,
@@ -4582,7 +4582,7 @@
         "img_url": "",
         "img_right": "",
         "img_caption": "",
-        "date_written": "beginnt 1683 und endet 1699"
+        "date_written": "beginnt 1683 (wohl Mai) und endet im Januar 1699"
     },
     "87": {
         "id": 87,
@@ -4717,7 +4717,7 @@
         "img_url": "",
         "img_right": "",
         "img_caption": "",
-        "date_written": ""
+        "date_written": "November 1700 bis März 1714"
     },
     "96": {
         "id": 96,
@@ -4747,7 +4747,7 @@
         "img_url": "",
         "img_right": "",
         "img_caption": "",
-        "date_written": ""
+        "date_written": "Juni 1703 bis April 1711"
     },
     "98": {
         "id": 98,

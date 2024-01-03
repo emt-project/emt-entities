@@ -1772,7 +1772,7 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                      </place>
                  </listPlace>
                </event>
-               <event xml:id="emt_event_id__77" notBefore="1685-07-15" notAfter="1685-07-15">
+               <event xml:id="emt_event_id__77" notBefore="1685-06-15" notAfter="1685-06-15">
                   <desc>
                      <eventName>
                         Hochzeit von Erzherzogin Maria Antonia mit Kurfürst Maximilian Emanuel von Bayern
@@ -1815,6 +1815,12 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                      <eventName>
                         Besetzung Straßburgs durch Frankreich
                      </eventName>                  </desc>
+               </event>
+               <event xml:id="emt_event_id__84" notBefore="1682-06-12" notAfter="1682-06-12">
+                  <desc>
+                     <eventName>
+                        Laxenburger Allianz
+                     </eventName>                     Bündnis mehrerer Reichskreise und des Kaisers gegen Frankreich                  </desc>
                </event>
                <event xml:id="emt_event_id__85" notBefore="1683-07-14" notAfter="1683-09-12">
                   <desc>
