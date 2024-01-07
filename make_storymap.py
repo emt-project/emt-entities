@@ -6,6 +6,15 @@ print("lets make the StoryMap data")
 with open(os.path.join(JSON_FOLDER, "events.json")) as f:
     data = json.load(f)
 
+
+def my_filtering_function(pair):
+    key, value = pair
+    if value["not_before"]:
+        return True
+    else:
+        return False
+
+
 result = {
     "storymap": {
         "call_to_action": True,
@@ -31,14 +40,18 @@ result = {
         ],
     }
 }
-for key, value in data.items():
+
+filtered_dict = dict(filter(my_filtering_function, data.items()))
+sorted_dict = dict(sorted(filtered_dict.items(), key=lambda x: x[1]["not_before"]))
+
+for key, value in sorted_dict.items():
     try:
         year, month, day = value["not_before"].split("-")
     except AttributeError:
         continue
     event = {}
     event["start_date"] = value["not_before"]
-    event["text"] = {"headline": value["name"], "text": ""}
+    event["text"] = {"headline": f'{value["not_before"]} - {value["name"]}', "text": ""}
 
     if value["took_place_at"]:
         location_text = ""
