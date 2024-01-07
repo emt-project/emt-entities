@@ -30,6 +30,7 @@ jobs:
           python join_tables.py
           python make_xml.py
           python make_timeline.py
+          python make_storymap.py
       - name: Commit data
         uses: stefanzweifel/git-auto-commit-action@v4
         with:

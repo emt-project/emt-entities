@@ -3,6 +3,7 @@ import os
 from config import JSON_FOLDER
 
 
+print("Lets make the Timeline data")
 with open(os.path.join(JSON_FOLDER, "events.json")) as f:
     data = json.load(f)
 
