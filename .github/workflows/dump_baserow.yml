@@ -15,7 +15,7 @@ jobs:
       BASEROW_PW: ${{secrets.BASEROW_PW}}
     steps:
       - name: Perfom Checkout
-        uses: actions/checkout@v3
+        uses: actions/checkout@v4
       - name: Install Python Packages
         run: |
           pip install -r requirements.txt
@@ -29,6 +29,7 @@ jobs:
           python dump_data.py
           python join_tables.py
           python make_xml.py
+          python make_timeline.py
       - name: Commit data
         uses: stefanzweifel/git-auto-commit-action@v4
         with:
