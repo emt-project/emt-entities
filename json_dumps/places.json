@@ -1362,5 +1362,27 @@
     "lat": "39.69450",
     "long": "-8.130570",
     "comments intern": ""
+  },
+  "127": {
+    "id": 127,
+    "order": "125.00000000000000000000",
+    "name": "Iglau / Jihlava",
+    "geonames": "",
+    "emt_id": "emt_place_id__127",
+    "place_type": null,
+    "lat": null,
+    "long": null,
+    "comments intern": ""
+  },
+  "128": {
+    "id": 128,
+    "order": "126.00000000000000000000",
+    "name": "Mainz, Kurfürstentum",
+    "geonames": "",
+    "emt_id": "emt_place_id__128",
+    "place_type": null,
+    "lat": null,
+    "long": null,
+    "comments intern": ""
   }
 }

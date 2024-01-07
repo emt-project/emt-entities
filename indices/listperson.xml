@@ -1705,7 +1705,20 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                   <persName>Jägermeister Kaiser Leopolds I. 1677</persName>
                </person>
                <person xml:id="emt_person_id__151">
-                  <persName>Bevilacqua, hat etwas mit Koadjutorie in Köln 1677 zu tun</persName>
+                  <persName>Bevilacqua, Luigi</persName>
+                  <birth>
+                     <date notBefore="1616-01-01" notAfter="1616-12-31">1616</date>
+                  </birth>
+                  <death>
+                     <date notBefore="1679-01-01" notAfter="1679-12-31">1679</date>
+                  </death>
+                  <idno type="GND">https://d-nb.info/gnd/1200256964</idno>
+                  <idno type="WIKIDATA">http://www.wikidata.org/entity/Q23044656</idno>
+                  <idno type="URL">https://www.treccani.it/enciclopedia/luigi-bevilacqua_(Dizionario-Biografico)/</idno>
+                  <figure>
+                     <graphic url="emt_person_id__151.jpg"/>
+                     <caption>Portret van Aloysius Bevilacqua, RP-P-1910-1850.jpg</caption>
+                  </figure>
                </person>
                <person xml:id="emt_person_id__152">
                   <persName>Favoriti, Abbate, wohl ein Vertrauter des Papstes 1677</persName>
@@ -2105,6 +2118,27 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                      <graphic url="emt_person_id__211.jpg"/>
                      <caption>Frans Luycx - Frederick William, Elector of Brandenburg, at three-quarter-length.jpg</caption>
                   </figure>
+               </person>
+               <person xml:id="emt_person_id__212">
+                  <persName>Abgesandter Leopolds I. zur Wahl eines Koadjutors des Deutschmeisters 1679</persName>
+               </person>
+               <person xml:id="emt_person_id__213">
+                  <persName>Crécy, Louis Verjus, comte de</persName>
+               </person>
+               <person xml:id="emt_person_id__214">
+                  <persName>Ludwig XIV. von Frankreich</persName>
+               </person>
+               <person xml:id="emt_person_id__215">
+                  <persName>Czernin, Humprecht Johann</persName>
+               </person>
+               <person xml:id="emt_person_id__216">
+                  <persName/>
+               </person>
+               <person xml:id="emt_person_id__217">
+                  <persName>Bruder des Grafen von Oettingen, soll als Erzbischof von Mainz kandidieren 1679</persName>
+               </person>
+               <person xml:id="emt_person_id__218">
+                  <persName>Resident Pfalz-Neuburg, wahrscheinlich in Brüssel 1679</persName>
                </person>
             </listPerson>
          </div>

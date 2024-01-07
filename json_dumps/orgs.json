@@ -47,5 +47,12 @@
     "name": "Reichskanzlei",
     "Anmerkungen": "",
     "emt_id": "emt_institution_id__7"
+  },
+  "8": {
+    "id": 8,
+    "order": "8.00000000000000000000",
+    "name": "Reichstag",
+    "Anmerkungen": "",
+    "emt_id": "emt_institution_id__8"
   }
 }
