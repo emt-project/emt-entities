@@ -25,7 +25,10 @@ for x in files:
     context["objects"] = [value for key, value in data.items()]
     ent_type = tail.replace("s.json", "")
     template_name = f"list{ent_type}.xml"
-    template = templateEnv.get_template(template_name)
+    try:
+        template = templateEnv.get_template(template_name)
+    except jinja2.exceptions.TemplateNotFound:
+        continue
     xml_name = os.path.join(out_dir, template_name)
     xml_data = template.render(context).replace("&", "&amp;")
     doc = TeiReader(xml_data)
