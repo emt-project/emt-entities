@@ -10,7 +10,12 @@ with open(os.path.join(JSON_FOLDER, "events.json")) as f:
 events = []
 timeline = {
     "title": {
-        "text": {"headline": "EMT", "text": "Wichtige Ereignisse um das Leben von EMT"}
+        "text": {"headline": "EMT", "text": "Wichtige Ereignisse um das Leben von EMT"},
+        "media": {
+            "url": "bio-pics/emt_person_id__9.jpg",
+            "credit": "Kaiserin Eleonora Magdalena, geb. Pfalz-Neuburg",
+            "caption": "wikicommons",
+        },
     },
     "events": [],
 }
