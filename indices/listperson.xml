@@ -1,3 +1,4 @@
+<?xml version='1.0' encoding='UTF-8'?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
    <teiHeader>
       <fileDesc>
@@ -2132,13 +2133,79 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                   <persName>Czernin, Humprecht Johann</persName>
                </person>
                <person xml:id="emt_person_id__216">
-                  <persName/>
+                  <persName>Erzbischof, der ein Archidiakonat verleiht, das Juan José de Austria inne hatte</persName>
                </person>
                <person xml:id="emt_person_id__217">
-                  <persName/>
+                  <persName>Venezianischer Botschafter am Kaiserhof 1679</persName>
                </person>
                <person xml:id="emt_person_id__218">
                   <persName>Resident Pfalz-Neuburg, wahrscheinlich in Brüssel 1679</persName>
+               </person>
+               <person xml:id="emt_person_id__219">
+                  <persName>Innozenz IX. (Odeschalchi), Papst</persName>
+                  <birth>
+                     <date notBefore="1611-01-01" notAfter="1611-12-31">1611</date>
+                  </birth>
+                  <death>
+                     <date notBefore="1689-01-01" notAfter="1689-12-31">1689</date>
+                  </death>
+                  <idno type="GND">https://d-nb.info/gnd/118555677</idno>
+                  <idno type="WIKIDATA">http://www.wikidata.org/entity/Q101286</idno>
+                  <idno type="URL">https://www.newadvent.org/cathen/08021a.htm</idno>
+                  <figure>
+                     <graphic url="emt_person_id__219.jpg"/>
+                     <caption>Jacob Ferdinand Voet - Portrait of Innocenzo XI Odescalchi (cropped).jpeg</caption>
+                  </figure>
+               </person>
+               <person xml:id="emt_person_id__220">
+                  <persName>Mutter Euphrasia, Äbtissin in Wien 1679</persName>
+               </person>
+               <person xml:id="emt_person_id__221">
+                  <persName>Spanischer Botschafter in Wien 1679</persName>
+               </person>
+               <person xml:id="emt_person_id__222">
+                  <persName>Welden, Herr von</persName>
+               </person>
+               <person xml:id="emt_person_id__223">
+                  <persName>Hamilton, Maria Sophie, geb. Weichs</persName>
+                  <death>
+                     <date notBefore="1689-01-01" notAfter="1689-12-31">1689</date>
+                  </death>
+               </person>
+               <person xml:id="emt_person_id__224">
+                  <persName>Bedingfield, Magdalen OCarm</persName>
+                  <birth>
+                     <date notBefore="1621-01-01" notAfter="1621-12-31">1621</date>
+                  </birth>
+                  <death>
+                     <date notBefore="1684-01-01" notAfter="1684-12-31">1684</date>
+                  </death>
+               </person>
+               <person xml:id="emt_person_id__225">
+                  <persName>Jägermeister, der PW oder JW gut gedient hat</persName>
+               </person>
+               <person xml:id="emt_person_id__226">
+                  <persName>Meyr</persName>
+               </person>
+               <person xml:id="emt_person_id__227">
+                  <persName>Cotoner y de Oleza, Nicolas, Großmeister des Johanniterordens</persName>
+                  <birth>
+                     <date notBefore="1608-01-01" notAfter="1608-12-31">1608</date>
+                  </birth>
+                  <death>
+                     <date notBefore="1680-01-01" notAfter="1680-12-31">1680</date>
+                  </death>
+                  <idno type="WIKIDATA">http://www.wikidata.org/entity/Q526376</idno>
+                  <figure>
+                     <graphic url="emt_person_id__227.jpg"/>
+                     <caption>Histoire des Chevaliers Hospitaliers de S. Jean de Jerusalem - appellez depuis les Chevaliers de Rhodes, et aujourd'hui les Chevaliers de Malthe (1726) (14593980149).jpg</caption>
+                  </figure>
+               </person>
+               <person xml:id="emt_person_id__228">
+                  <persName>Obersthofmeister Leopold I. 1679 (Ende)</persName>
+               </person>
+               <person xml:id="emt_person_id__229">
+                  <persName>Herzog von Sachsen-Lauenburg 1679</persName>
                </person>
             </listPerson>
          </div>

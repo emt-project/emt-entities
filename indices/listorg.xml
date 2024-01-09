@@ -1,3 +1,4 @@
+<?xml version='1.0' encoding='UTF-8'?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
    <teiHeader>
       <fileDesc>
@@ -84,6 +85,15 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                </org>
                <org xml:id="emt_institution_id__8">
                   <orgName>Reichstag</orgName>
+               </org>
+               <org xml:id="emt_institution_id__9">
+                  <orgName>Großpriorat der Johanniter in Kastilien und Leon</orgName>
+               </org>
+               <org xml:id="emt_institution_id__10">
+                  <orgName>Reichshofrat</orgName>
+               </org>
+               <org xml:id="emt_institution_id__11">
+                  <orgName>Johanniterorden</orgName>
                </org>
             </listOrg>
          </div>

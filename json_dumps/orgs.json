@@ -54,5 +54,26 @@
     "name": "Reichstag",
     "Anmerkungen": "",
     "emt_id": "emt_institution_id__8"
+  },
+  "9": {
+    "id": 9,
+    "order": "9.00000000000000000000",
+    "name": "Großpriorat der Johanniter in Kastilien und Leon",
+    "Anmerkungen": "",
+    "emt_id": "emt_institution_id__9"
+  },
+  "10": {
+    "id": 10,
+    "order": "10.00000000000000000000",
+    "name": "Reichshofrat",
+    "Anmerkungen": "",
+    "emt_id": "emt_institution_id__10"
+  },
+  "11": {
+    "id": 11,
+    "order": "11.00000000000000000000",
+    "name": "Johanniterorden",
+    "Anmerkungen": "",
+    "emt_id": "emt_institution_id__11"
   }
 }

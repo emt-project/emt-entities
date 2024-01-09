@@ -1,3 +1,4 @@
+<?xml version='1.0' encoding='UTF-8'?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
    <teiHeader>
       <fileDesc>
@@ -886,6 +887,9 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                </place>
                <place xml:id="emt_place_id__128">
                   <placeName>Mainz, Kurfürstentum</placeName>
+               </place>
+               <place xml:id="emt_place_id__129">
+                  <placeName>Meriendahl, dort wird Bruder 1679 gewählt (Deutscher Orden)</placeName>
                </place>
             </listPlace>
          </div>
