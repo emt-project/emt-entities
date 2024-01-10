@@ -1395,5 +1395,16 @@
     "lat": null,
     "long": null,
     "comments intern": "wohl Mergentheim gemeint??"
+  },
+  "130": {
+    "id": 130,
+    "order": "128.00000000000000000000",
+    "name": "Svatá Hora / Heiliger Berg",
+    "geonames": "",
+    "emt_id": "emt_place_id__130",
+    "place_type": null,
+    "lat": null,
+    "long": null,
+    "comments intern": ""
   }
 }
