@@ -275,6 +275,19 @@
         }
       },
       {
+        "start_date": "1679-02-05",
+        "text": {
+          "headline": "1679-02-05 - Frieden von Nimwegen",
+          "text": "Das Ereignis fand in <a href=\"emt_place_id__108.html\">Nimwegen</a> statt.<br>"
+        },
+        "location": {
+          "lat": 51.8425,
+          "lon": 5.85278,
+          "line": true,
+          "zoom": 12
+        }
+      },
+      {
         "start_date": "1679-05-27",
         "text": {
           "headline": "1679-05-27 - Geburt Leopoldine Eleonore von Pfalz-Neuburg",
@@ -283,6 +296,19 @@
         "location": {
           "lat": 48.73218,
           "lon": 11.18709,
+          "line": true,
+          "zoom": 12
+        }
+      },
+      {
+        "start_date": "1679-06-18",
+        "text": {
+          "headline": "1679-06-18 - Geburt und Tod von Erzherzogin Maria Christina Josepha",
+          "text": "Das Ereignis fand in <a href=\"emt_place_id__31.html\">Laxenburg</a> statt.<br>Folgende Personen waren daran beteiligt:<br><a href=\"emt_person_id__9.html\">Kaiserin Eleonora Magdalena, geb. Pfalz-Neuburg</a><br>"
+        },
+        "location": {
+          "lat": 48.06833,
+          "lon": 16.35607,
           "line": true,
           "zoom": 12
         }
@@ -301,6 +327,19 @@
         }
       },
       {
+        "start_date": "1681-09-30",
+        "text": {
+          "headline": "1681-09-30 - Besetzung Straßburgs durch Frankreich",
+          "text": "Das Ereignis fand in <a href=\"emt_place_id__131.html\">Straßburg</a> statt.<br>"
+        },
+        "location": {
+          "lat": 48.58392,
+          "lon": 7.74553,
+          "line": true,
+          "zoom": 12
+        }
+      },
+      {
         "start_date": "1681-12-09",
         "text": {
           "headline": "1681-12-09 - Krönung Eleonora Magdalenas als Königin in Ungarn",
@@ -309,6 +348,19 @@
         "location": {
           "lat": 47.68501,
           "lon": 16.59049,
+          "line": true,
+          "zoom": 12
+        }
+      },
+      {
+        "start_date": "1682-06-12",
+        "text": {
+          "headline": "1682-06-12 - Laxenburger Allianz",
+          "text": "Das Ereignis fand in <a href=\"emt_place_id__31.html\">Laxenburg</a> statt.<br>"
+        },
+        "location": {
+          "lat": 48.06833,
+          "lon": 16.35607,
           "line": true,
           "zoom": 12
         }
@@ -340,6 +392,19 @@
         }
       },
       {
+        "start_date": "1683-07-14",
+        "text": {
+          "headline": "1683-07-14 - Zweite Wiener Türkenbelagerung",
+          "text": "Das Ereignis fand in <a href=\"emt_place_id__63.html\">Wien</a> statt.<br>"
+        },
+        "location": {
+          "lat": 48.20849,
+          "lon": 16.37208,
+          "line": true,
+          "zoom": 12
+        }
+      },
+      {
         "start_date": "1683-09-07",
         "text": {
           "headline": "1683-09-07 - Geburt von Erzherzogin Maria Anna",
@@ -366,6 +431,19 @@
         }
       },
       {
+        "start_date": "1684-08-22",
+        "text": {
+          "headline": "1684-08-22 - Geburt von Erzherzogin Maria Theresia",
+          "text": "Das Ereignis fand in <a href=\"emt_place_id__32.html\">Linz</a> statt.<br>Folgende Personen waren daran beteiligt:<br><a href=\"emt_person_id__9.html\">Kaiserin Eleonora Magdalena, geb. Pfalz-Neuburg</a><br><a href=\"emt_person_id__115.html\">Maria Theresia, Erzherzogin</a><br>"
+        },
+        "location": {
+          "lat": 48.30639,
+          "lon": 14.28611,
+          "line": true,
+          "zoom": 12
+        }
+      },
+      {
         "start_date": "1685-06-15",
         "text": {
           "headline": "1685-06-15 - Hochzeit von Erzherzogin Maria Antonia mit Kurfürst Maximilian Emanuel von Bayern",
@@ -383,6 +461,32 @@
         "text": {
           "headline": "1685-10-01 - Geburt Erzherzog Karls",
           "text": "Das Ereignis fand in <a href=\"emt_place_id__63.html\">Wien</a> statt.<br>Folgende Personen waren daran beteiligt:<br><a href=\"emt_person_id__9.html\">Kaiserin Eleonora Magdalena, geb. Pfalz-Neuburg</a><br><a href=\"emt_person_id__35.html\">Kaiser Leopold I.</a><br>"
+        },
+        "location": {
+          "lat": 48.20849,
+          "lon": 16.37208,
+          "line": true,
+          "zoom": 12
+        }
+      },
+      {
+        "start_date": "1686-09-02",
+        "text": {
+          "headline": "1686-09-02 - Eroberung von Ofen durch kaiserliche Truppen",
+          "text": "Das Ereignis fand in <a href=\"emt_place_id__19.html\">Ofen / Buda</a> statt.<br>"
+        },
+        "location": {
+          "lat": 47.49835,
+          "lon": 19.04045,
+          "line": true,
+          "zoom": 12
+        }
+      },
+      {
+        "start_date": "1687-03-06",
+        "text": {
+          "headline": "1687-03-06 - Geburt von Erzherzogin Maria Josepha",
+          "text": "Das Ereignis fand in <a href=\"emt_place_id__63.html\">Wien</a> statt.<br>Folgende Personen waren daran beteiligt:<br><a href=\"emt_person_id__9.html\">Kaiserin Eleonora Magdalena, geb. Pfalz-Neuburg</a><br><a href=\"emt_person_id__114.html\">Maria Josepha, Erzherzogin</a><br>"
         },
         "location": {
           "lat": 48.20849,
@@ -426,6 +530,19 @@
         "location": {
           "lat": 52.52437,
           "lon": 13.41053,
+          "line": true,
+          "zoom": 12
+        }
+      },
+      {
+        "start_date": "1688-09-06",
+        "text": {
+          "headline": "1688-09-06 - Eroberung Belgrads",
+          "text": "Das Ereignis fand in <a href=\"emt_place_id__132.html\">Belgrad</a> statt.<br>"
+        },
+        "location": {
+          "lat": 44.80401,
+          "lon": 20.46513,
           "line": true,
           "zoom": 12
         }
@@ -548,6 +665,19 @@
         }
       },
       {
+        "start_date": "1690-09-17",
+        "text": {
+          "headline": "1690-09-17 - Hochzeit Dorothea Sophies von Pfalz-Neuburg mit Odoardo Farnese von Parma",
+          "text": "Das Ereignis fand in <a href=\"emt_place_id__43.html\">Parma</a> statt.<br>Folgende Personen waren daran beteiligt:<br><a href=\"emt_person_id__8.html\">Dorothea Sophie von Parma, geb. Pfalz-Neuburg</a><br><a href=\"emt_person_id__132.html\">Odoardo II. Farnese von Parma</a><br>"
+        },
+        "location": {
+          "lat": 44.79935,
+          "lon": 10.32618,
+          "line": true,
+          "zoom": 12
+        }
+      },
+      {
         "start_date": "1690-10-29",
         "text": {
           "headline": "1690-10-29 - Hochzeit Philipp Wilhelm Augusts von Pfalz-Neuburg mit Anna Maria von Sachsen-Lauenburg",
@@ -582,6 +712,19 @@
         "location": {
           "lat": 43.77925,
           "lon": 11.24626,
+          "line": true,
+          "zoom": 12
+        }
+      },
+      {
+        "start_date": "1691-08-19",
+        "text": {
+          "headline": "1691-08-19 - Schlacht bei Slankamen",
+          "text": "Das Ereignis fand in <a href=\"emt_place_id__133.html\">Slankamen</a> statt.<br>"
+        },
+        "location": {
+          "lat": 45.12554,
+          "lon": 20.23914,
           "line": true,
           "zoom": 12
         }
@@ -652,6 +795,58 @@
         }
       },
       {
+        "start_date": "1696-09-28",
+        "text": {
+          "headline": "1696-09-28 - Tod von Erzherzogin Maria Theresia",
+          "text": "Das Ereignis fand in <a href=\"emt_place_id__15.html\">Wien, Ebersdorf</a> statt.<br>Folgende Personen waren daran beteiligt:<br><a href=\"emt_person_id__115.html\">Maria Theresia, Erzherzogin</a><br>"
+        },
+        "location": {
+          "lat": 48.15833,
+          "lon": 16.47417,
+          "line": true,
+          "zoom": 12
+        }
+      },
+      {
+        "start_date": "1697-09-11",
+        "text": {
+          "headline": "1697-09-11 - Schlacht bei Zenta",
+          "text": "Das Ereignis fand in <a href=\"emt_place_id__134.html\">Zenta</a> statt.<br>"
+        },
+        "location": {
+          "lat": 45.9275,
+          "lon": 20.07722,
+          "line": true,
+          "zoom": 12
+        }
+      },
+      {
+        "start_date": "1697-10-30",
+        "text": {
+          "headline": "1697-10-30 - Frieden von Rijswijk",
+          "text": "Das Ereignis fand in <a href=\"emt_place_id__135.html\">Rijswijk</a> statt.<br>"
+        },
+        "location": {
+          "lat": 52.03634,
+          "lon": 4.32501,
+          "line": true,
+          "zoom": 12
+        }
+      },
+      {
+        "start_date": "1699-01-26",
+        "text": {
+          "headline": "1699-01-26 - Frieden von Karlowitz",
+          "text": "Das Ereignis fand in <a href=\"emt_place_id__136.html\">Karlowitz</a> statt.<br>"
+        },
+        "location": {
+          "lat": 45.20285,
+          "lon": 19.93373,
+          "line": true,
+          "zoom": 12
+        }
+      },
+      {
         "start_date": "1699-02-24",
         "text": {
           "headline": "1699-02-24 - Hochzeit König Josephs mit Amalie Wilhelmine von Braunschweig-Lüneburg",
@@ -686,6 +881,19 @@
         "location": {
           "lat": 50.06143,
           "lon": 19.93658,
+          "line": true,
+          "zoom": 12
+        }
+      },
+      {
+        "start_date": "1703-04-14",
+        "text": {
+          "headline": "1703-04-14 - Tod von Erzherzogin Maria Josepha",
+          "text": "Das Ereignis fand in <a href=\"emt_place_id__63.html\">Wien</a> statt.<br>Folgende Personen waren daran beteiligt:<br><a href=\"emt_person_id__114.html\">Maria Josepha, Erzherzogin</a><br>"
+        },
+        "location": {
+          "lat": 48.20849,
+          "lon": 16.37208,
           "line": true,
           "zoom": 12
         }

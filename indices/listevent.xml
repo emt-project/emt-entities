@@ -504,6 +504,16 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                         <idno type="EMT">emt_person_id__9</idno>
                      </person>
                  </listPerson>
+                 <listPlace type="took_place">
+                     <place>
+                        <placeName>Laxenburg</placeName>
+                        <location type="coords">
+                           <geo>48.06833 16.356070</geo>
+                        </location>
+                        <idno type="GEONAMES">https://sws.geonames.org/2772810/</idno>
+                        <idno type="EMT">emt_place_id__31</idno>
+                     </place>
+                 </listPlace>
                </event>
                <event xml:id="emt_event_id__18" notBefore="1680-12-13" notAfter="1680-12-13">
                   <desc>
@@ -632,6 +642,16 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                         <idno type="EMT">emt_person_id__115</idno>
                      </person>
                  </listPerson>
+                 <listPlace type="took_place">
+                     <place>
+                        <placeName>Linz</placeName>
+                        <location type="coords">
+                           <geo>48.30639 14.286110</geo>
+                        </location>
+                        <idno type="GEONAMES">https://sws.geonames.org/2772400/</idno>
+                        <idno type="EMT">emt_place_id__32</idno>
+                     </place>
+                 </listPlace>
                </event>
                <event xml:id="emt_event_id__24" notBefore="1696-09-28" notAfter="1696-09-28">
                   <desc>
@@ -644,6 +664,16 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                         <idno type="EMT">emt_person_id__115</idno>
                      </person>
                  </listPerson>
+                 <listPlace type="took_place">
+                     <place>
+                        <placeName>Wien, Ebersdorf</placeName>
+                        <location type="coords">
+                           <geo>48.15833 16.474170</geo>
+                        </location>
+                        <idno type="GEONAMES">https://sws.geonames.org/3322696/</idno>
+                        <idno type="EMT">emt_place_id__15</idno>
+                     </place>
+                 </listPlace>
                </event>
                <event xml:id="emt_event_id__25" notBefore="1687-03-06" notAfter="1687-03-06">
                   <desc>
@@ -660,6 +690,16 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                         <idno type="EMT">emt_person_id__114</idno>
                      </person>
                  </listPerson>
+                 <listPlace type="took_place">
+                     <place>
+                        <placeName>Wien</placeName>
+                        <location type="coords">
+                           <geo>48.20849 16.372080</geo>
+                        </location>
+                        <idno type="GEONAMES">https://sws.geonames.org/2761369/</idno>
+                        <idno type="EMT">emt_place_id__63</idno>
+                     </place>
+                 </listPlace>
                </event>
                <event xml:id="emt_event_id__26" notBefore="1703-04-14" notAfter="1703-04-14">
                   <desc>
@@ -672,6 +712,16 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                         <idno type="EMT">emt_person_id__114</idno>
                      </person>
                  </listPerson>
+                 <listPlace type="took_place">
+                     <place>
+                        <placeName>Wien</placeName>
+                        <location type="coords">
+                           <geo>48.20849 16.372080</geo>
+                        </location>
+                        <idno type="GEONAMES">https://sws.geonames.org/2761369/</idno>
+                        <idno type="EMT">emt_place_id__63</idno>
+                     </place>
+                 </listPlace>
                </event>
                <event xml:id="emt_event_id__27" notBefore="1689-03-26" notAfter="1689-03-26">
                   <desc>
@@ -1536,6 +1586,16 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                         <idno type="EMT">emt_person_id__132</idno>
                      </person>
                  </listPerson>
+                 <listPlace type="took_place">
+                     <place>
+                        <placeName>Parma</placeName>
+                        <location type="coords">
+                           <geo>44.79935 10.326180</geo>
+                        </location>
+                        <idno type="GEONAMES">https://sws.geonames.org/3171457/</idno>
+                        <idno type="EMT">emt_place_id__43</idno>
+                     </place>
+                 </listPlace>
                </event>
                <event xml:id="emt_event_id__67" notBefore="1695-12-07" notAfter="1695-12-07">
                   <desc>
@@ -1799,11 +1859,33 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                      </place>
                  </listPlace>
                </event>
+               <event xml:id="emt_event_id__78" notBefore="1667-05-01" notAfter="1668-05-02">
+                  <desc>
+                     <eventName>
+                        Devolutionskrieg
+                     </eventName>                  </desc>
+               </event>
+               <event xml:id="emt_event_id__79" notBefore="1672-03-01" notAfter="1679-06-29">
+                  <desc>
+                     <eventName>
+                        Holländischer Krieg
+                     </eventName>                  </desc>
+               </event>
                <event xml:id="emt_event_id__80" notBefore="1679-02-05" notAfter="1679-02-05">
                   <desc>
                      <eventName>
                         Frieden von Nimwegen
                      </eventName>                     Tag des Friedensschlusses zwischen dem Reich, Frankreich und Schweden                  </desc>
+                 <listPlace type="took_place">
+                     <place>
+                        <placeName>Nimwegen</placeName>
+                        <location type="coords">
+                           <geo>51.84250 5.852780</geo>
+                        </location>
+                        <idno type="GEONAMES">https://sws.geonames.org/2750053/</idno>
+                        <idno type="EMT">emt_place_id__108</idno>
+                     </place>
+                 </listPlace>
                </event>
                <event xml:id="emt_event_id__81" notBefore="1683-10-26" notAfter="1684-08-15">
                   <desc>
@@ -1811,46 +1893,134 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                         Reunionskrieg
                      </eventName>                  </desc>
                </event>
+               <event xml:id="emt_event_id__82" notBefore="1678-11-01" notAfter="1681-03-01">
+                  <desc>
+                     <eventName>
+                        Pest in den habsburgischen Ländern
+                     </eventName>                     Flucht des kaiserlichen Hofes nach Prag bzw. LInz                  </desc>
+               </event>
                <event xml:id="emt_event_id__83" notBefore="1681-09-30" notAfter="1681-09-30">
                   <desc>
                      <eventName>
                         Besetzung Straßburgs durch Frankreich
                      </eventName>                  </desc>
+                 <listPlace type="took_place">
+                     <place>
+                        <placeName>Straßburg</placeName>
+                        <location type="coords">
+                           <geo>48.58392 7.745530</geo>
+                        </location>
+                        <idno type="GEONAMES">https://sws.geonames.org/2973783/</idno>
+                        <idno type="EMT">emt_place_id__131</idno>
+                     </place>
+                 </listPlace>
                </event>
                <event xml:id="emt_event_id__84" notBefore="1682-06-12" notAfter="1682-06-12">
                   <desc>
                      <eventName>
                         Laxenburger Allianz
                      </eventName>                     Bündnis mehrerer Reichskreise und des Kaisers gegen Frankreich                  </desc>
+                 <listPlace type="took_place">
+                     <place>
+                        <placeName>Laxenburg</placeName>
+                        <location type="coords">
+                           <geo>48.06833 16.356070</geo>
+                        </location>
+                        <idno type="GEONAMES">https://sws.geonames.org/2772810/</idno>
+                        <idno type="EMT">emt_place_id__31</idno>
+                     </place>
+                 </listPlace>
                </event>
                <event xml:id="emt_event_id__85" notBefore="1683-07-14" notAfter="1683-09-12">
                   <desc>
                      <eventName>
                         Zweite Wiener Türkenbelagerung
                      </eventName>                     Flucht des kaiserlichen Hofes nach Passau bzw. Linz                  </desc>
+                 <listPlace type="took_place">
+                     <place>
+                        <placeName>Wien</placeName>
+                        <location type="coords">
+                           <geo>48.20849 16.372080</geo>
+                        </location>
+                        <idno type="GEONAMES">https://sws.geonames.org/2761369/</idno>
+                        <idno type="EMT">emt_place_id__63</idno>
+                     </place>
+                 </listPlace>
+               </event>
+               <event xml:id="emt_event_id__86" notBefore="1683-05-01" notAfter="1699-01-26">
+                  <desc>
+                     <eventName>
+                        Großer Türkenkrieg
+                     </eventName>                  </desc>
                </event>
                <event xml:id="emt_event_id__87" notBefore="1699-01-26" notAfter="1699-01-26">
                   <desc>
                      <eventName>
                         Frieden von Karlowitz
                      </eventName>                  </desc>
+                 <listPlace type="took_place">
+                     <place>
+                        <placeName>Karlowitz</placeName>
+                        <location type="coords">
+                           <geo>45.20285 19.933730</geo>
+                        </location>
+                        <idno type="GEONAMES">https://sws.geonames.org/3190101/</idno>
+                        <idno type="EMT">emt_place_id__136</idno>
+                     </place>
+                 </listPlace>
                </event>
                <event xml:id="emt_event_id__88" notBefore="1686-09-02" notAfter="1686-09-02">
                   <desc>
                      <eventName>
                         Eroberung von Ofen durch kaiserliche Truppen
                      </eventName>                  </desc>
+                 <listPlace type="took_place">
+                     <place>
+                        <placeName>Ofen / Buda</placeName>
+                        <location type="coords">
+                           <geo>47.49835 19.040450</geo>
+                        </location>
+                        <idno type="GEONAMES">https://sws.geonames.org/3054643/</idno>
+                        <idno type="EMT">emt_place_id__19</idno>
+                     </place>
+                 </listPlace>
                </event>
                <event xml:id="emt_event_id__89" notBefore="1688-09-06" notAfter="1688-09-06">
                   <desc>
                      <eventName>
                         Eroberung Belgrads
                      </eventName>                  </desc>
+                 <listPlace type="took_place">
+                     <place>
+                        <placeName>Belgrad</placeName>
+                        <location type="coords">
+                           <geo>44.80401 20.465130</geo>
+                        </location>
+                        <idno type="GEONAMES">https://sws.geonames.org/792680/</idno>
+                        <idno type="EMT">emt_place_id__132</idno>
+                     </place>
+                 </listPlace>
                </event>
                <event xml:id="emt_event_id__90" notBefore="1697-09-11" notAfter="1697-09-11">
                   <desc>
                      <eventName>
                         Schlacht bei Zenta
+                     </eventName>                  </desc>
+                 <listPlace type="took_place">
+                     <place>
+                        <placeName>Zenta</placeName>
+                        <location type="coords">
+                           <geo>45.92750 20.077220</geo>
+                        </location>
+                        <idno type="GEONAMES">https://sws.geonames.org/785965/</idno>
+                        <idno type="EMT">emt_place_id__134</idno>
+                     </place>
+                 </listPlace>
+               </event>
+               <event xml:id="emt_event_id__91" notBefore="1688-09-01" notAfter="1697-10-30">
+                  <desc>
+                     <eventName>
+                        Pfälzischer Erbfolgekrieg
                      </eventName>                  </desc>
                </event>
                <event xml:id="emt_event_id__92" notBefore="1697-10-30" notAfter="1697-10-30">
@@ -1858,12 +2028,44 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                      <eventName>
                         Frieden von Rijswijk
                      </eventName>                     Zustimmung der kaiserlichen Seite zum Vertrag vom 21.09.1697                  </desc>
+                 <listPlace type="took_place">
+                     <place>
+                        <placeName>Rijswijk</placeName>
+                        <location type="coords">
+                           <geo>52.03634 4.325010</geo>
+                        </location>
+                        <idno type="GEONAMES">https://sws.geonames.org/2748076/</idno>
+                        <idno type="EMT">emt_place_id__135</idno>
+                     </place>
+                 </listPlace>
                </event>
                <event xml:id="emt_event_id__93" notBefore="1691-08-19" notAfter="1691-08-19">
                   <desc>
                      <eventName>
                         Schlacht bei Slankamen
                      </eventName>                  </desc>
+                 <listPlace type="took_place">
+                     <place>
+                        <placeName>Slankamen</placeName>
+                        <location type="coords">
+                           <geo>45.12554 20.239140</geo>
+                        </location>
+                        <idno type="GEONAMES">https://sws.geonames.org/787592/</idno>
+                        <idno type="EMT">emt_place_id__133</idno>
+                     </place>
+                 </listPlace>
+               </event>
+               <event xml:id="emt_event_id__94" notBefore="1692-12-16" notAfter="1692-12-16">
+                  <desc>
+                     <eventName>
+                        Errichtung der neunten Kurwürde für Hannover
+                     </eventName>                     wird 1692 eingerichtet; Anerkennung aber erst sukzessive in den folgenden Jahren bis 1708                  </desc>
+               </event>
+               <event xml:id="emt_event_id__95" notBefore="1700-11-01" notAfter="1714-03-06">
+                  <desc>
+                     <eventName>
+                        Spanischer Erbfolgekrieg
+                     </eventName>                     Juli 1701 bis September 1714                  </desc>
                </event>
                <event xml:id="emt_event_id__96" notBefore="1714-03-07" notAfter="1714-03-07">
                   <desc>
@@ -1871,11 +2073,23 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                         Friede von Rastatt
                      </eventName>                     Frieden zwischen Frankreich und dem Kaiser, beendet den Spanischen Erbfolgekrieg                  </desc>
                </event>
+               <event xml:id="emt_event_id__97" notBefore="1703-06-01" notAfter="1711-04-29">
+                  <desc>
+                     <eventName>
+                        Rákóczi-Aufstand oder Kuruzenkrieg
+                     </eventName>                     Juni 1703 bis April 1711                  </desc>
+               </event>
                <event xml:id="emt_event_id__98" notBefore="1711-04-29" notAfter="1711-04-29">
                   <desc>
                      <eventName>
                         Frieden von Sathmar / Szatmár
                      </eventName>                  </desc>
+               </event>
+               <event xml:id="emt_event_id__99" notBefore="1704-08-20" notAfter="1714-09-07">
+                  <desc>
+                     <eventName>
+                        Besetzung Bayerns durch verbündete Truppen nach der Schlacht bei Höchstädt
+                     </eventName>                     August und September 1704                  </desc>
                </event>
                <event xml:id="emt_event_id__100" notBefore="1705-11-27" notAfter="1705-11-27">
                   <desc>

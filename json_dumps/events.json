@@ -1188,7 +1188,19 @@
         "emt_id": "emt_event_id__17",
         "not_before": "1679-06-18",
         "not_after": "1679-06-18",
-        "took_place_at": [],
+        "took_place_at": [
+            {
+                "id": 31,
+                "order": "31.00000000000000000000",
+                "name": "Laxenburg",
+                "geonames": "https://www.geonames.org/2772810/laxenburg.html",
+                "emt_id": "emt_place_id__31",
+                "place_type": null,
+                "lat": "48.06833",
+                "long": "16.356070",
+                "comments intern": null
+            }
+        ],
         "related_persons": [
             {
                 "id": 9,
@@ -1521,7 +1533,19 @@
         "emt_id": "emt_event_id__23",
         "not_before": "1684-08-22",
         "not_after": "1684-08-22",
-        "took_place_at": [],
+        "took_place_at": [
+            {
+                "id": 32,
+                "order": "32.00000000000000000000",
+                "name": "Linz",
+                "geonames": "https://www.geonames.org/2772400/linz.html",
+                "emt_id": "emt_place_id__32",
+                "place_type": null,
+                "lat": "48.30639",
+                "long": "14.286110",
+                "comments intern": null
+            }
+        ],
         "related_persons": [
             {
                 "id": 9,
@@ -1579,7 +1603,19 @@
         "emt_id": "emt_event_id__24",
         "not_before": "1696-09-28",
         "not_after": "1696-09-28",
-        "took_place_at": [],
+        "took_place_at": [
+            {
+                "id": 15,
+                "order": "15.00000000000000000000",
+                "name": "Wien, Ebersdorf",
+                "geonames": "https://www.geonames.org/3322696/kaiserebersdorf.html",
+                "emt_id": "emt_place_id__15",
+                "place_type": null,
+                "lat": "48.15833",
+                "long": "16.474170",
+                "comments intern": null
+            }
+        ],
         "related_persons": [
             {
                 "id": 115,
@@ -1616,7 +1652,19 @@
         "emt_id": "emt_event_id__25",
         "not_before": "1687-03-06",
         "not_after": "1687-03-06",
-        "took_place_at": [],
+        "took_place_at": [
+            {
+                "id": 63,
+                "order": "63.00000000000000000000",
+                "name": "Wien",
+                "geonames": "https://www.geonames.org/2761369/vienna.html",
+                "emt_id": "emt_place_id__63",
+                "place_type": null,
+                "lat": "48.20849",
+                "long": "16.372080",
+                "comments intern": null
+            }
+        ],
         "related_persons": [
             {
                 "id": 9,
@@ -1674,7 +1722,19 @@
         "emt_id": "emt_event_id__26",
         "not_before": "1703-04-14",
         "not_after": "1703-04-14",
-        "took_place_at": [],
+        "took_place_at": [
+            {
+                "id": 63,
+                "order": "63.00000000000000000000",
+                "name": "Wien",
+                "geonames": "https://www.geonames.org/2761369/vienna.html",
+                "emt_id": "emt_place_id__63",
+                "place_type": null,
+                "lat": "48.20849",
+                "long": "16.372080",
+                "comments intern": null
+            }
+        ],
         "related_persons": [
             {
                 "id": 114,
@@ -1850,7 +1910,7 @@
         "name": "Tod von Erzherzogin Maria Margaretha",
         "emt_id": "emt_event_id__29",
         "not_before": null,
-        "not_after": null,
+        "not_after": "1691-12-31",
         "took_place_at": [],
         "related_persons": [
             {
@@ -1879,7 +1939,7 @@
         "img_url": "",
         "img_right": "",
         "img_caption": "",
-        "date_written": null
+        "date_written": "1691"
     },
     "30": {
         "id": 30,
@@ -3754,7 +3814,19 @@
         "emt_id": "emt_event_id__66",
         "not_before": "1690-09-17",
         "not_after": "1690-09-17",
-        "took_place_at": [],
+        "took_place_at": [
+            {
+                "id": 43,
+                "order": "43.00000000000000000000",
+                "name": "Parma",
+                "geonames": "https://www.geonames.org/3171457/parma.html",
+                "emt_id": "emt_place_id__43",
+                "place_type": null,
+                "lat": "44.79935",
+                "long": "10.326180",
+                "comments intern": null
+            }
+        ],
         "related_persons": [
             {
                 "id": 8,
@@ -4454,7 +4526,7 @@
         "order": "78.00000000000000000000",
         "name": "Devolutionskrieg",
         "emt_id": "emt_event_id__78",
-        "not_before": null,
+        "not_before": "1667-05-01",
         "not_after": "1668-05-02",
         "took_place_at": [],
         "related_persons": [],
@@ -4469,7 +4541,7 @@
         "order": "79.00000000000000000000",
         "name": "Holländischer Krieg",
         "emt_id": "emt_event_id__79",
-        "not_before": null,
+        "not_before": "1672-03-01",
         "not_after": "1679-06-29",
         "took_place_at": [],
         "related_persons": [],
@@ -4486,7 +4558,19 @@
         "emt_id": "emt_event_id__80",
         "not_before": "1679-02-05",
         "not_after": "1679-02-05",
-        "took_place_at": [],
+        "took_place_at": [
+            {
+                "id": 108,
+                "order": "106.00000000000000000000",
+                "name": "Nimwegen",
+                "geonames": "https://www.geonames.org/2750053/nijmegen.html",
+                "emt_id": "emt_place_id__108",
+                "place_type": null,
+                "lat": "51.84250",
+                "long": "5.852780",
+                "comments intern": ""
+            }
+        ],
         "related_persons": [],
         "description": "Tag des Friedensschlusses zwischen dem Reich, Frankreich und Schweden",
         "img_url": "",
@@ -4514,15 +4598,15 @@
         "order": "82.00000000000000000000",
         "name": "Pest in den habsburgischen Ländern",
         "emt_id": "emt_event_id__82",
-        "not_before": null,
-        "not_after": null,
+        "not_before": "1678-11-01",
+        "not_after": "1681-03-01",
         "took_place_at": [],
         "related_persons": [],
         "description": "Flucht des kaiserlichen Hofes nach Prag bzw. LInz",
         "img_url": "",
         "img_right": "",
         "img_caption": "",
-        "date_written": "1679 bis 1681"
+        "date_written": "Ende 1678 bis 1681 (Frühjahr Graz), geschätzt März"
     },
     "83": {
         "id": 83,
@@ -4531,7 +4615,19 @@
         "emt_id": "emt_event_id__83",
         "not_before": "1681-09-30",
         "not_after": "1681-09-30",
-        "took_place_at": [],
+        "took_place_at": [
+            {
+                "id": 131,
+                "order": "129.00000000000000000000",
+                "name": "Straßburg",
+                "geonames": "https://www.geonames.org/2973783/strasbourg.html",
+                "emt_id": "emt_place_id__131",
+                "place_type": null,
+                "lat": "48.58392",
+                "long": "7.745530",
+                "comments intern": ""
+            }
+        ],
         "related_persons": [],
         "description": "",
         "img_url": "",
@@ -4546,7 +4642,19 @@
         "emt_id": "emt_event_id__84",
         "not_before": "1682-06-12",
         "not_after": "1682-06-12",
-        "took_place_at": [],
+        "took_place_at": [
+            {
+                "id": 31,
+                "order": "31.00000000000000000000",
+                "name": "Laxenburg",
+                "geonames": "https://www.geonames.org/2772810/laxenburg.html",
+                "emt_id": "emt_place_id__31",
+                "place_type": null,
+                "lat": "48.06833",
+                "long": "16.356070",
+                "comments intern": null
+            }
+        ],
         "related_persons": [],
         "description": "Bündnis mehrerer Reichskreise und des Kaisers gegen Frankreich",
         "img_url": "",
@@ -4561,7 +4669,19 @@
         "emt_id": "emt_event_id__85",
         "not_before": "1683-07-14",
         "not_after": "1683-09-12",
-        "took_place_at": [],
+        "took_place_at": [
+            {
+                "id": 63,
+                "order": "63.00000000000000000000",
+                "name": "Wien",
+                "geonames": "https://www.geonames.org/2761369/vienna.html",
+                "emt_id": "emt_place_id__63",
+                "place_type": null,
+                "lat": "48.20849",
+                "long": "16.372080",
+                "comments intern": null
+            }
+        ],
         "related_persons": [],
         "description": "Flucht des kaiserlichen Hofes nach Passau bzw. Linz",
         "img_url": "",
@@ -4574,8 +4694,8 @@
         "order": "86.00000000000000000000",
         "name": "Großer Türkenkrieg",
         "emt_id": "emt_event_id__86",
-        "not_before": null,
-        "not_after": null,
+        "not_before": "1683-05-01",
+        "not_after": "1699-01-26",
         "took_place_at": [],
         "related_persons": [],
         "description": "",
@@ -4591,7 +4711,19 @@
         "emt_id": "emt_event_id__87",
         "not_before": "1699-01-26",
         "not_after": "1699-01-26",
-        "took_place_at": [],
+        "took_place_at": [
+            {
+                "id": 136,
+                "order": "134.00000000000000000000",
+                "name": "Karlowitz",
+                "geonames": "https://www.geonames.org/3190101/sremski-karlovci.html",
+                "emt_id": "emt_place_id__136",
+                "place_type": null,
+                "lat": "45.20285",
+                "long": "19.933730",
+                "comments intern": ""
+            }
+        ],
         "related_persons": [],
         "description": "",
         "img_url": "",
@@ -4606,7 +4738,19 @@
         "emt_id": "emt_event_id__88",
         "not_before": "1686-09-02",
         "not_after": "1686-09-02",
-        "took_place_at": [],
+        "took_place_at": [
+            {
+                "id": 19,
+                "order": "19.00000000000000000000",
+                "name": "Ofen / Buda",
+                "geonames": "https://www.geonames.org/3054643/budapest.html",
+                "emt_id": "emt_place_id__19",
+                "place_type": null,
+                "lat": "47.49835",
+                "long": "19.040450",
+                "comments intern": null
+            }
+        ],
         "related_persons": [],
         "description": "",
         "img_url": "",
@@ -4621,7 +4765,19 @@
         "emt_id": "emt_event_id__89",
         "not_before": "1688-09-06",
         "not_after": "1688-09-06",
-        "took_place_at": [],
+        "took_place_at": [
+            {
+                "id": 132,
+                "order": "130.00000000000000000000",
+                "name": "Belgrad",
+                "geonames": "https://www.geonames.org/792680/belgrade.html",
+                "emt_id": "emt_place_id__132",
+                "place_type": null,
+                "lat": "44.80401",
+                "long": "20.465130",
+                "comments intern": ""
+            }
+        ],
         "related_persons": [],
         "description": "",
         "img_url": "",
@@ -4636,7 +4792,19 @@
         "emt_id": "emt_event_id__90",
         "not_before": "1697-09-11",
         "not_after": "1697-09-11",
-        "took_place_at": [],
+        "took_place_at": [
+            {
+                "id": 134,
+                "order": "132.00000000000000000000",
+                "name": "Zenta",
+                "geonames": "https://www.geonames.org/785965/senta.html",
+                "emt_id": "emt_place_id__134",
+                "place_type": null,
+                "lat": "45.92750",
+                "long": "20.077220",
+                "comments intern": ""
+            }
+        ],
         "related_persons": [],
         "description": "",
         "img_url": "",
@@ -4649,15 +4817,15 @@
         "order": "91.00000000000000000000",
         "name": "Pfälzischer Erbfolgekrieg",
         "emt_id": "emt_event_id__91",
-        "not_before": null,
-        "not_after": null,
+        "not_before": "1688-09-01",
+        "not_after": "1697-10-30",
         "took_place_at": [],
         "related_persons": [],
         "description": "",
         "img_url": "",
         "img_right": "",
         "img_caption": "",
-        "date_written": "Herbst 1688 bis Oktober 1697"
+        "date_written": "September (Kriegmanifest) 1688 bis Oktober 1697"
     },
     "92": {
         "id": 92,
@@ -4666,7 +4834,19 @@
         "emt_id": "emt_event_id__92",
         "not_before": "1697-10-30",
         "not_after": "1697-10-30",
-        "took_place_at": [],
+        "took_place_at": [
+            {
+                "id": 135,
+                "order": "133.00000000000000000000",
+                "name": "Rijswijk",
+                "geonames": "https://www.geonames.org/2748076/rijswijk.html",
+                "emt_id": "emt_place_id__135",
+                "place_type": null,
+                "lat": "52.03634",
+                "long": "4.325010",
+                "comments intern": ""
+            }
+        ],
         "related_persons": [],
         "description": "Zustimmung der kaiserlichen Seite zum Vertrag vom 21.09.1697",
         "img_url": "",
@@ -4681,7 +4861,19 @@
         "emt_id": "emt_event_id__93",
         "not_before": "1691-08-19",
         "not_after": "1691-08-19",
-        "took_place_at": [],
+        "took_place_at": [
+            {
+                "id": 133,
+                "order": "131.00000000000000000000",
+                "name": "Slankamen",
+                "geonames": "https://www.geonames.org/787592/novi-slankamen.html",
+                "emt_id": "emt_place_id__133",
+                "place_type": null,
+                "lat": "45.12554",
+                "long": "20.239140",
+                "comments intern": ""
+            }
+        ],
         "related_persons": [],
         "description": "",
         "img_url": "",
@@ -4694,8 +4886,8 @@
         "order": "94.00000000000000000000",
         "name": "Errichtung der neunten Kurwürde für Hannover",
         "emt_id": "emt_event_id__94",
-        "not_before": null,
-        "not_after": null,
+        "not_before": "1692-12-16",
+        "not_after": "1692-12-16",
         "took_place_at": [],
         "related_persons": [],
         "description": "wird 1692 eingerichtet; Anerkennung aber erst sukzessive in den folgenden Jahren bis 1708",
@@ -4709,8 +4901,8 @@
         "order": "95.00000000000000000000",
         "name": "Spanischer Erbfolgekrieg",
         "emt_id": "emt_event_id__95",
-        "not_before": null,
-        "not_after": null,
+        "not_before": "1700-11-01",
+        "not_after": "1714-03-06",
         "took_place_at": [],
         "related_persons": [],
         "description": "Juli 1701 bis September 1714",
@@ -4739,8 +4931,8 @@
         "order": "97.00000000000000000000",
         "name": "Rákóczi-Aufstand oder Kuruzenkrieg",
         "emt_id": "emt_event_id__97",
-        "not_before": null,
-        "not_after": null,
+        "not_before": "1703-06-01",
+        "not_after": "1711-04-29",
         "took_place_at": [],
         "related_persons": [],
         "description": "Juni 1703 bis April 1711",
@@ -4769,8 +4961,8 @@
         "order": "99.00000000000000000000",
         "name": "Besetzung Bayerns durch verbündete Truppen nach der Schlacht bei Höchstädt",
         "emt_id": "emt_event_id__99",
-        "not_before": null,
-        "not_after": null,
+        "not_before": "1704-08-20",
+        "not_after": "1714-09-07",
         "took_place_at": [],
         "related_persons": [],
         "description": "August und September 1704",

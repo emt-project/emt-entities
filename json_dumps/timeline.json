@@ -280,7 +280,12 @@
       },
       "text": {
         "headline": "Geburt und Tod von Erzherzogin Maria Christina Josepha",
-        "text": "Folgende Personen waren daran beteiligt:<br><a href=\"emt_person_id__9.html\">Kaiserin Eleonora Magdalena, geb. Pfalz-Neuburg</a><br>"
+        "text": "Das Ereignis fand in <a href=\"emt_place_id__31.html\">Laxenburg</a> statt.<br>Folgende Personen waren daran beteiligt:<br><a href=\"emt_person_id__9.html\">Kaiserin Eleonora Magdalena, geb. Pfalz-Neuburg</a><br>"
+      },
+      "media": {
+        "url": "https://www.google.com/maps/@48.06833,16.356070,15z",
+        "caption": "Laxenburg",
+        "credit": "Google Maps"
       }
     },
     {
@@ -366,7 +371,12 @@
       },
       "text": {
         "headline": "Geburt von Erzherzogin Maria Theresia",
-        "text": "Folgende Personen waren daran beteiligt:<br><a href=\"emt_person_id__9.html\">Kaiserin Eleonora Magdalena, geb. Pfalz-Neuburg</a><br><a href=\"emt_person_id__115.html\">Maria Theresia, Erzherzogin</a><br>"
+        "text": "Das Ereignis fand in <a href=\"emt_place_id__32.html\">Linz</a> statt.<br>Folgende Personen waren daran beteiligt:<br><a href=\"emt_person_id__9.html\">Kaiserin Eleonora Magdalena, geb. Pfalz-Neuburg</a><br><a href=\"emt_person_id__115.html\">Maria Theresia, Erzherzogin</a><br>"
+      },
+      "media": {
+        "url": "https://www.google.com/maps/@48.30639,14.286110,15z",
+        "caption": "Linz",
+        "credit": "Google Maps"
       }
     },
     {
@@ -377,7 +387,12 @@
       },
       "text": {
         "headline": "Tod von Erzherzogin Maria Theresia",
-        "text": "Folgende Personen waren daran beteiligt:<br><a href=\"emt_person_id__115.html\">Maria Theresia, Erzherzogin</a><br>"
+        "text": "Das Ereignis fand in <a href=\"emt_place_id__15.html\">Wien, Ebersdorf</a> statt.<br>Folgende Personen waren daran beteiligt:<br><a href=\"emt_person_id__115.html\">Maria Theresia, Erzherzogin</a><br>"
+      },
+      "media": {
+        "url": "https://www.google.com/maps/@48.15833,16.474170,15z",
+        "caption": "Wien, Ebersdorf",
+        "credit": "Google Maps"
       }
     },
     {
@@ -388,7 +403,12 @@
       },
       "text": {
         "headline": "Geburt von Erzherzogin Maria Josepha",
-        "text": "Folgende Personen waren daran beteiligt:<br><a href=\"emt_person_id__9.html\">Kaiserin Eleonora Magdalena, geb. Pfalz-Neuburg</a><br><a href=\"emt_person_id__114.html\">Maria Josepha, Erzherzogin</a><br>"
+        "text": "Das Ereignis fand in <a href=\"emt_place_id__63.html\">Wien</a> statt.<br>Folgende Personen waren daran beteiligt:<br><a href=\"emt_person_id__9.html\">Kaiserin Eleonora Magdalena, geb. Pfalz-Neuburg</a><br><a href=\"emt_person_id__114.html\">Maria Josepha, Erzherzogin</a><br>"
+      },
+      "media": {
+        "url": "https://www.google.com/maps/@48.20849,16.372080,15z",
+        "caption": "Wien",
+        "credit": "Google Maps"
       }
     },
     {
@@ -399,7 +419,12 @@
       },
       "text": {
         "headline": "Tod von Erzherzogin Maria Josepha",
-        "text": "Folgende Personen waren daran beteiligt:<br><a href=\"emt_person_id__114.html\">Maria Josepha, Erzherzogin</a><br>"
+        "text": "Das Ereignis fand in <a href=\"emt_place_id__63.html\">Wien</a> statt.<br>Folgende Personen waren daran beteiligt:<br><a href=\"emt_person_id__114.html\">Maria Josepha, Erzherzogin</a><br>"
+      },
+      "media": {
+        "url": "https://www.google.com/maps/@48.20849,16.372080,15z",
+        "caption": "Wien",
+        "credit": "Google Maps"
       }
     },
     {
@@ -991,7 +1016,12 @@
       },
       "text": {
         "headline": "Hochzeit Dorothea Sophies von Pfalz-Neuburg mit Odoardo Farnese von Parma",
-        "text": "Folgende Personen waren daran beteiligt:<br><a href=\"emt_person_id__8.html\">Dorothea Sophie von Parma, geb. Pfalz-Neuburg</a><br><a href=\"emt_person_id__132.html\">Odoardo II. Farnese von Parma</a><br>"
+        "text": "Das Ereignis fand in <a href=\"emt_place_id__43.html\">Parma</a> statt.<br>Folgende Personen waren daran beteiligt:<br><a href=\"emt_person_id__8.html\">Dorothea Sophie von Parma, geb. Pfalz-Neuburg</a><br><a href=\"emt_person_id__132.html\">Odoardo II. Farnese von Parma</a><br>"
+      },
+      "media": {
+        "url": "https://www.google.com/maps/@44.79935,10.326180,15z",
+        "caption": "Parma",
+        "credit": "Google Maps"
       }
     },
     {
@@ -1172,13 +1202,50 @@
     },
     {
       "start_date": {
+        "year": "1667",
+        "month": "5",
+        "day": "1"
+      },
+      "text": {
+        "headline": "Devolutionskrieg",
+        "text": ""
+      },
+      "end_date": {
+        "year": "1668",
+        "month": "5",
+        "day": "2"
+      }
+    },
+    {
+      "start_date": {
+        "year": "1672",
+        "month": "3",
+        "day": "1"
+      },
+      "text": {
+        "headline": "Holländischer Krieg",
+        "text": ""
+      },
+      "end_date": {
+        "year": "1679",
+        "month": "6",
+        "day": "29"
+      }
+    },
+    {
+      "start_date": {
         "year": "1679",
         "month": "2",
         "day": "5"
       },
       "text": {
         "headline": "Frieden von Nimwegen",
-        "text": ""
+        "text": "Das Ereignis fand in <a href=\"emt_place_id__108.html\">Nimwegen</a> statt.<br>"
+      },
+      "media": {
+        "url": "https://www.google.com/maps/@51.84250,5.852780,15z",
+        "caption": "Nimwegen",
+        "credit": "Google Maps"
       }
     },
     {
@@ -1199,13 +1266,34 @@
     },
     {
       "start_date": {
+        "year": "1678",
+        "month": "11",
+        "day": "1"
+      },
+      "text": {
+        "headline": "Pest in den habsburgischen Ländern",
+        "text": ""
+      },
+      "end_date": {
+        "year": "1681",
+        "month": "3",
+        "day": "1"
+      }
+    },
+    {
+      "start_date": {
         "year": "1681",
         "month": "9",
         "day": "30"
       },
       "text": {
         "headline": "Besetzung Straßburgs durch Frankreich",
-        "text": ""
+        "text": "Das Ereignis fand in <a href=\"emt_place_id__131.html\">Straßburg</a> statt.<br>"
+      },
+      "media": {
+        "url": "https://www.google.com/maps/@48.58392,7.745530,15z",
+        "caption": "Straßburg",
+        "credit": "Google Maps"
       }
     },
     {
@@ -1216,7 +1304,12 @@
       },
       "text": {
         "headline": "Laxenburger Allianz",
-        "text": ""
+        "text": "Das Ereignis fand in <a href=\"emt_place_id__31.html\">Laxenburg</a> statt.<br>"
+      },
+      "media": {
+        "url": "https://www.google.com/maps/@48.06833,16.356070,15z",
+        "caption": "Laxenburg",
+        "credit": "Google Maps"
       }
     },
     {
@@ -1227,12 +1320,33 @@
       },
       "text": {
         "headline": "Zweite Wiener Türkenbelagerung",
-        "text": ""
+        "text": "Das Ereignis fand in <a href=\"emt_place_id__63.html\">Wien</a> statt.<br>"
+      },
+      "media": {
+        "url": "https://www.google.com/maps/@48.20849,16.372080,15z",
+        "caption": "Wien",
+        "credit": "Google Maps"
       },
       "end_date": {
         "year": "1683",
         "month": "9",
         "day": "12"
+      }
+    },
+    {
+      "start_date": {
+        "year": "1683",
+        "month": "5",
+        "day": "1"
+      },
+      "text": {
+        "headline": "Großer Türkenkrieg",
+        "text": ""
+      },
+      "end_date": {
+        "year": "1699",
+        "month": "1",
+        "day": "26"
       }
     },
     {
@@ -1243,7 +1357,12 @@
       },
       "text": {
         "headline": "Frieden von Karlowitz",
-        "text": ""
+        "text": "Das Ereignis fand in <a href=\"emt_place_id__136.html\">Karlowitz</a> statt.<br>"
+      },
+      "media": {
+        "url": "https://www.google.com/maps/@45.20285,19.933730,15z",
+        "caption": "Karlowitz",
+        "credit": "Google Maps"
       }
     },
     {
@@ -1254,7 +1373,12 @@
       },
       "text": {
         "headline": "Eroberung von Ofen durch kaiserliche Truppen",
-        "text": ""
+        "text": "Das Ereignis fand in <a href=\"emt_place_id__19.html\">Ofen / Buda</a> statt.<br>"
+      },
+      "media": {
+        "url": "https://www.google.com/maps/@47.49835,19.040450,15z",
+        "caption": "Ofen / Buda",
+        "credit": "Google Maps"
       }
     },
     {
@@ -1265,7 +1389,12 @@
       },
       "text": {
         "headline": "Eroberung Belgrads",
-        "text": ""
+        "text": "Das Ereignis fand in <a href=\"emt_place_id__132.html\">Belgrad</a> statt.<br>"
+      },
+      "media": {
+        "url": "https://www.google.com/maps/@44.80401,20.465130,15z",
+        "caption": "Belgrad",
+        "credit": "Google Maps"
       }
     },
     {
@@ -1276,7 +1405,28 @@
       },
       "text": {
         "headline": "Schlacht bei Zenta",
+        "text": "Das Ereignis fand in <a href=\"emt_place_id__134.html\">Zenta</a> statt.<br>"
+      },
+      "media": {
+        "url": "https://www.google.com/maps/@45.92750,20.077220,15z",
+        "caption": "Zenta",
+        "credit": "Google Maps"
+      }
+    },
+    {
+      "start_date": {
+        "year": "1688",
+        "month": "9",
+        "day": "1"
+      },
+      "text": {
+        "headline": "Pfälzischer Erbfolgekrieg",
         "text": ""
+      },
+      "end_date": {
+        "year": "1697",
+        "month": "10",
+        "day": "30"
       }
     },
     {
@@ -1287,7 +1437,12 @@
       },
       "text": {
         "headline": "Frieden von Rijswijk",
-        "text": ""
+        "text": "Das Ereignis fand in <a href=\"emt_place_id__135.html\">Rijswijk</a> statt.<br>"
+      },
+      "media": {
+        "url": "https://www.google.com/maps/@52.03634,4.325010,15z",
+        "caption": "Rijswijk",
+        "credit": "Google Maps"
       }
     },
     {
@@ -1298,7 +1453,39 @@
       },
       "text": {
         "headline": "Schlacht bei Slankamen",
+        "text": "Das Ereignis fand in <a href=\"emt_place_id__133.html\">Slankamen</a> statt.<br>"
+      },
+      "media": {
+        "url": "https://www.google.com/maps/@45.12554,20.239140,15z",
+        "caption": "Slankamen",
+        "credit": "Google Maps"
+      }
+    },
+    {
+      "start_date": {
+        "year": "1692",
+        "month": "12",
+        "day": "16"
+      },
+      "text": {
+        "headline": "Errichtung der neunten Kurwürde für Hannover",
         "text": ""
+      }
+    },
+    {
+      "start_date": {
+        "year": "1700",
+        "month": "11",
+        "day": "1"
+      },
+      "text": {
+        "headline": "Spanischer Erbfolgekrieg",
+        "text": ""
+      },
+      "end_date": {
+        "year": "1714",
+        "month": "3",
+        "day": "6"
       }
     },
     {
@@ -1314,6 +1501,22 @@
     },
     {
       "start_date": {
+        "year": "1703",
+        "month": "6",
+        "day": "1"
+      },
+      "text": {
+        "headline": "Rákóczi-Aufstand oder Kuruzenkrieg",
+        "text": ""
+      },
+      "end_date": {
+        "year": "1711",
+        "month": "4",
+        "day": "29"
+      }
+    },
+    {
+      "start_date": {
         "year": "1711",
         "month": "4",
         "day": "29"
@@ -1321,6 +1524,22 @@
       "text": {
         "headline": "Frieden von Sathmar / Szatmár",
         "text": ""
+      }
+    },
+    {
+      "start_date": {
+        "year": "1704",
+        "month": "8",
+        "day": "20"
+      },
+      "text": {
+        "headline": "Besetzung Bayerns durch verbündete Truppen nach der Schlacht bei Höchstädt",
+        "text": ""
+      },
+      "end_date": {
+        "year": "1714",
+        "month": "9",
+        "day": "7"
       }
     },
     {

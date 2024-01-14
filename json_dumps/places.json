@@ -200,7 +200,7 @@
   "19": {
     "id": 19,
     "order": "19.00000000000000000000",
-    "name": "Feldlager bei Ofen / Buda",
+    "name": "Ofen / Buda",
     "geonames": "https://www.geonames.org/3054643/budapest.html",
     "emt_id": "emt_place_id__19",
     "place_type": null,
@@ -1367,11 +1367,11 @@
     "id": 127,
     "order": "125.00000000000000000000",
     "name": "Iglau / Jihlava",
-    "geonames": "",
+    "geonames": "https://www.geonames.org/3074199/jihlava.html",
     "emt_id": "emt_place_id__127",
     "place_type": null,
-    "lat": null,
-    "long": null,
+    "lat": "49.39610",
+    "long": "15.591240",
     "comments intern": ""
   },
   "128": {
@@ -1400,11 +1400,77 @@
     "id": 130,
     "order": "128.00000000000000000000",
     "name": "Svatá Hora / Heiliger Berg",
-    "geonames": "",
+    "geonames": "https://www.geonames.org/3064614/svata-hora.html",
     "emt_id": "emt_place_id__130",
     "place_type": null,
-    "lat": null,
-    "long": null,
+    "lat": "49.68333",
+    "long": "14.016670",
+    "comments intern": ""
+  },
+  "131": {
+    "id": 131,
+    "order": "129.00000000000000000000",
+    "name": "Straßburg",
+    "geonames": "https://www.geonames.org/2973783/strasbourg.html",
+    "emt_id": "emt_place_id__131",
+    "place_type": null,
+    "lat": "48.58392",
+    "long": "7.745530",
+    "comments intern": ""
+  },
+  "132": {
+    "id": 132,
+    "order": "130.00000000000000000000",
+    "name": "Belgrad",
+    "geonames": "https://www.geonames.org/792680/belgrade.html",
+    "emt_id": "emt_place_id__132",
+    "place_type": null,
+    "lat": "44.80401",
+    "long": "20.465130",
+    "comments intern": ""
+  },
+  "133": {
+    "id": 133,
+    "order": "131.00000000000000000000",
+    "name": "Slankamen",
+    "geonames": "https://www.geonames.org/787592/novi-slankamen.html",
+    "emt_id": "emt_place_id__133",
+    "place_type": null,
+    "lat": "45.12554",
+    "long": "20.239140",
+    "comments intern": ""
+  },
+  "134": {
+    "id": 134,
+    "order": "132.00000000000000000000",
+    "name": "Zenta",
+    "geonames": "https://www.geonames.org/785965/senta.html",
+    "emt_id": "emt_place_id__134",
+    "place_type": null,
+    "lat": "45.92750",
+    "long": "20.077220",
+    "comments intern": ""
+  },
+  "135": {
+    "id": 135,
+    "order": "133.00000000000000000000",
+    "name": "Rijswijk",
+    "geonames": "https://www.geonames.org/2748076/rijswijk.html",
+    "emt_id": "emt_place_id__135",
+    "place_type": null,
+    "lat": "52.03634",
+    "long": "4.325010",
+    "comments intern": ""
+  },
+  "136": {
+    "id": 136,
+    "order": "134.00000000000000000000",
+    "name": "Karlowitz",
+    "geonames": "https://www.geonames.org/3190101/sremski-karlovci.html",
+    "emt_id": "emt_place_id__136",
+    "place_type": null,
+    "lat": "45.20285",
+    "long": "19.933730",
     "comments intern": ""
   }
 }
