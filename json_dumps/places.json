@@ -299,7 +299,7 @@
   "28": {
     "id": 28,
     "order": "28.00000000000000000000",
-    "name": "Jankau/ Jankov",
+    "name": "Jankau / Jankov",
     "geonames": "https://www.geonames.org/3074532/jankov.html",
     "emt_id": "emt_place_id__28",
     "place_type": null,
@@ -1080,7 +1080,7 @@
   "101": {
     "id": 101,
     "order": "99.00000000000000000000",
-    "name": "Breslau",
+    "name": "Breslau / Wrocław",
     "geonames": "https://www.geonames.org/3081368/wroclaw.html",
     "emt_id": "emt_place_id__101",
     "place_type": null,
@@ -1471,6 +1471,61 @@
     "place_type": null,
     "lat": "45.20285",
     "long": "19.933730",
+    "comments intern": ""
+  },
+  "137": {
+    "id": 137,
+    "order": "135.00000000000000000000",
+    "name": "Breslau, Bistum",
+    "geonames": "",
+    "emt_id": "emt_place_id__137",
+    "place_type": null,
+    "lat": null,
+    "long": null,
+    "comments intern": ""
+  },
+  "138": {
+    "id": 138,
+    "order": "136.00000000000000000000",
+    "name": "Heitersheim",
+    "geonames": "",
+    "emt_id": "emt_place_id__138",
+    "place_type": null,
+    "lat": null,
+    "long": null,
+    "comments intern": "Sitz des Großpriorates des Johanniterordens im Reich"
+  },
+  "139": {
+    "id": 139,
+    "order": "137.00000000000000000000",
+    "name": "Kladruby nad Labem",
+    "geonames": "",
+    "emt_id": "emt_place_id__139",
+    "place_type": null,
+    "lat": null,
+    "long": null,
+    "comments intern": ""
+  },
+  "140": {
+    "id": 140,
+    "order": "138.00000000000000000000",
+    "name": "Velká Čeperka",
+    "geonames": "",
+    "emt_id": "emt_place_id__140",
+    "place_type": null,
+    "lat": null,
+    "long": null,
+    "comments intern": "großer Fischteich bei Pardubice"
+  },
+  "141": {
+    "id": 141,
+    "order": "139.00000000000000000000",
+    "name": "Köln, Sankt Gereon",
+    "geonames": "",
+    "emt_id": "emt_place_id__141",
+    "place_type": null,
+    "lat": null,
+    "long": null,
     "comments intern": ""
   }
 }

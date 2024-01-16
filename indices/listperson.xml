@@ -2290,6 +2290,33 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                      <date notBefore="1680-01-01" notAfter="1680-12-31">1680</date>
                   </death>
                </person>
+               <person xml:id="emt_person_id__246">
+                  <persName>Auersberg, Fräulein von</persName>
+               </person>
+               <person xml:id="emt_person_id__247">
+                  <persName>Pater Guardian</persName>
+               </person>
+               <person xml:id="emt_person_id__248">
+                  <persName>Erzherzog Albrecht</persName>
+               </person>
+               <person xml:id="emt_person_id__249">
+                  <persName>Infantin Isabella Clara</persName>
+               </person>
+               <person xml:id="emt_person_id__250">
+                  <persName>Erzherzog Leopold Wilhelm</persName>
+               </person>
+               <person xml:id="emt_person_id__251">
+                  <persName>Sauter, Beichtvater EMT ab 1680</persName>
+               </person>
+               <person xml:id="emt_person_id__252">
+                  <persName>Philipp IV. von Spanien</persName>
+               </person>
+               <person xml:id="emt_person_id__253">
+                  <persName>Marco d'Aviano</persName>
+               </person>
+               <person xml:id="emt_person_id__254">
+                  <persName>Bischof von Augsburg 1680</persName>
+               </person>
             </listPerson>
          </div>
       </body>

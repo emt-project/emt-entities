@@ -244,7 +244,7 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                   <idno type="GEONAMES">https://sws.geonames.org/2775220/</idno>
                </place>
                <place xml:id="emt_place_id__28">
-                  <placeName>Jankau/ Jankov</placeName>
+                  <placeName>Jankau / Jankov</placeName>
                   <location type="coords">
                      <geo>49.41509 15.386220</geo>
                   </location>
@@ -713,7 +713,7 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                   <idno type="GEONAMES">https://sws.geonames.org/2806142/</idno>
                </place>
                <place xml:id="emt_place_id__101">
-                  <placeName>Breslau</placeName>
+                  <placeName>Breslau / Wrocław</placeName>
                   <location type="coords">
                      <geo>51.10000 17.033330</geo>
                   </location>
@@ -943,6 +943,21 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                      <geo>45.20285 19.933730</geo>
                   </location>
                   <idno type="GEONAMES">https://sws.geonames.org/3190101/</idno>
+               </place>
+               <place xml:id="emt_place_id__137">
+                  <placeName>Breslau, Bistum</placeName>
+               </place>
+               <place xml:id="emt_place_id__138">
+                  <placeName>Heitersheim</placeName>
+               </place>
+               <place xml:id="emt_place_id__139">
+                  <placeName>Kladruby nad Labem</placeName>
+               </place>
+               <place xml:id="emt_place_id__140">
+                  <placeName>Velká Čeperka</placeName>
+               </place>
+               <place xml:id="emt_place_id__141">
+                  <placeName>Köln, Sankt Gereon</placeName>
                </place>
             </listPlace>
          </div>

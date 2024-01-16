@@ -2885,7 +2885,7 @@
             {
                 "id": 101,
                 "order": "99.00000000000000000000",
-                "name": "Breslau",
+                "name": "Breslau / Wrocław",
                 "geonames": "https://www.geonames.org/3081368/wroclaw.html",
                 "emt_id": "emt_place_id__101",
                 "place_type": null,
@@ -3069,7 +3069,7 @@
             {
                 "id": 101,
                 "order": "99.00000000000000000000",
-                "name": "Breslau",
+                "name": "Breslau / Wrocław",
                 "geonames": "https://www.geonames.org/3081368/wroclaw.html",
                 "emt_id": "emt_place_id__101",
                 "place_type": null,
