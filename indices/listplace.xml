@@ -209,7 +209,7 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                   <idno type="GEONAMES">https://sws.geonames.org/2755619/</idno>
                </place>
                <place xml:id="emt_place_id__23">
-                  <placeName>Grünau ?</placeName>
+                  <placeName>Grünau</placeName>
                   <location type="coords">
                      <geo>48.73717 11.264250</geo>
                   </location>
@@ -958,6 +958,21 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                </place>
                <place xml:id="emt_place_id__141">
                   <placeName>Köln, Sankt Gereon</placeName>
+               </place>
+               <place xml:id="emt_place_id__142">
+                  <placeName>Wels</placeName>
+               </place>
+               <place xml:id="emt_place_id__143">
+                  <placeName>Enns</placeName>
+               </place>
+               <place xml:id="emt_place_id__144">
+                  <placeName>Sankt Pantaleon</placeName>
+               </place>
+               <place xml:id="emt_place_id__145">
+                  <placeName>Niederösterreich</placeName>
+               </place>
+               <place xml:id="emt_place_id__146">
+                  <placeName>Hamburg</placeName>
                </place>
             </listPlace>
          </div>
