@@ -588,7 +588,7 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                   <idno type="WIKIDATA">http://www.wikidata.org/entity/Q1420310</idno>
                </person>
                <person xml:id="emt_person_id__41">
-                  <persName>Maria Magdalena von Heister, geborene Hermbsinn von Perndorff</persName>
+                  <persName>Maria Magdalena von Heister, geb. Hermbsinn von Perndorff</persName>
                   <idno type="WIKIDATA">http://www.wikidata.org/entity/Q27968966</idno>
                </person>
                <person xml:id="emt_person_id__42">
@@ -2172,7 +2172,7 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                <person xml:id="emt_person_id__223">
                   <persName>Hamilton, Maria Sophie, geb. Weichs</persName>
                   <death>
-                     <date notBefore="1689-01-01" notAfter="1689-12-31">1689</date>
+                     <date notBefore="1698-01-01" notAfter="1698-12-31">1698</date>
                   </death>
                </person>
                <person xml:id="emt_person_id__224">
@@ -2369,6 +2369,28 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                </person>
                <person xml:id="emt_person_id__263">
                   <persName>Freiberg, Herr von</persName>
+               </person>
+               <person xml:id="emt_person_id__264">
+                  <persName>Katharina Elisabeth Pálffy, geb. Weichs</persName>
+                  <death>
+                     <date notBefore="1724-01-01" notAfter="1724-12-31">1724</date>
+                  </death>
+                  <idno type="URL">https://de.rodovid.org/wk/Person:829987</idno>
+               </person>
+               <person xml:id="emt_person_id__265">
+                  <persName>Montecuccoli, Raimondo</persName>
+                  <birth>
+                     <date notBefore="1609-01-01" notAfter="1609-12-31">1609</date>
+                  </birth>
+                  <death>
+                     <date notBefore="1680-01-01" notAfter="1680-12-31">1680</date>
+                  </death>
+               </person>
+               <person xml:id="emt_person_id__266">
+                  <persName>Bekh, Herr von</persName>
+               </person>
+               <person xml:id="emt_person_id__267">
+                  <persName>Drezelin, Herr</persName>
                </person>
             </listPerson>
          </div>

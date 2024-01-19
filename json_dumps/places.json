@@ -1582,5 +1582,16 @@
     "lat": null,
     "long": null,
     "comments intern": ""
+  },
+  "147": {
+    "id": 147,
+    "order": "145.00000000000000000000",
+    "name": "Ebelsberg",
+    "geonames": "",
+    "emt_id": "emt_place_id__147",
+    "place_type": null,
+    "lat": null,
+    "long": null,
+    "comments intern": "bei Linz, heute Stadtteil"
   }
 }
