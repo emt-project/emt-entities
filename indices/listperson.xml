@@ -11,7 +11,7 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                <resp>Aufbereitung der Daten</resp>
                <name>Keller, Katrin</name>
                <name>Spitzbart, Anna</name>
-               <name>Pepper, Ines</name>
+               <name>Peper, Ines</name>
             </respStmt>
             <respStmt>
                <resp>converted to XML encoding</resp>
@@ -2055,10 +2055,24 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                   <persName>Barbier PWs, den dieser für Leopold nach Wien vermittelt hat 1679</persName>
                </person>
                <person xml:id="emt_person_id__203">
-                  <persName>Rappach, Maria Theresia von, geb. Brandis (?) Fräuleinhofmeisterin EMT 1679</persName>
+                  <persName>Rappach, Maria Theresia von, geb. Brandis</persName>
+                  <idno type="URL">http://www.wikidata.org/entity/Q108927109</idno>
                </person>
                <person xml:id="emt_person_id__204">
-                  <persName>Lamberg, Kämmerer Leopolds, der 1679 in Neuburg zur Geburt gratuliert</persName>
+                  <persName>Franz Joseph von Lamberg</persName>
+                  <birth>
+                     <date notBefore="1638-01-01" notAfter="1638-12-31">1638</date>
+                  </birth>
+                  <death>
+                     <date notBefore="1712-01-01" notAfter="1712-12-31">1712</date>
+                  </death>
+                  <idno type="GND">https://d-nb.info/gnd/123623790</idno>
+                  <idno type="NDB">https://www.deutsche-biographie.de/sfz47494.html#indexcontent</idno>
+                  <idno type="WIKIDATA">http://www.wikidata.org/entity/Q51973772</idno>
+                  <figure>
+                     <graphic url="emt_person_id__204.jpg"/>
+                     <caption>Franz Joseph von Lamberg.jpg</caption>
+                  </figure>
                </person>
                <person xml:id="emt_person_id__205">
                   <persName>Isabel Luisa von Portugal</persName>
@@ -2068,6 +2082,7 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                   <death>
                      <date notBefore="1690-01-01" notAfter="1690-12-31">1690</date>
                   </death>
+                  <idno type="URL">https://persondata.toolforge.org/p/Elisabeth_Luisa_von_Portugal</idno>
                </person>
                <person xml:id="emt_person_id__206">
                   <persName>Vittorio Amadeo II. von Savoyen</persName>
@@ -2102,6 +2117,7 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                      <date notBefore="1699-01-01" notAfter="1699-12-31">1699</date>
                   </death>
                   <idno type="WIKIDATA">http://www.wikidata.org/entity/Q3894495</idno>
+                  <idno type="URL">http://www.wikidata.org/entity/Q3894495</idno>
                   <figure>
                      <graphic url="emt_person_id__210.jpg"/>
                      <caption>Cornelis meyssens-pablo spinola.historia di leopoldo cesare.jpg</caption>
@@ -2127,13 +2143,52 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                   <persName>Abgesandter Leopolds I. zur Wahl eines Koadjutors des Deutschmeisters 1679</persName>
                </person>
                <person xml:id="emt_person_id__213">
-                  <persName>Crécy, Louis Verjus, comte de</persName>
+                  <persName>Louis Verjus, comte de Crécy</persName>
+                  <birth>
+                     <date notBefore="1629-01-01" notAfter="1629-12-31">1629</date>
+                  </birth>
+                  <death>
+                     <date notBefore="1709-01-01" notAfter="1709-12-31">1709</date>
+                  </death>
+                  <idno type="GND">https://d-nb.info/gnd/115732853</idno>
+                  <idno type="NDB">https://www.deutsche-biographie.de/pnd115732853.html#indexcontent</idno>
+                  <idno type="WIKIDATA">http://www.wikidata.org/entity/Q3263572</idno>
+                  <idno type="URL">https://persondata.toolforge.org/p/Louis_Verjus_de_Cr%C3%A9cy</idno>
+                  <figure>
+                     <graphic url="emt_person_id__213.jpg"/>
+                     <caption>Crécy Verjus.jpg</caption>
+                  </figure>
                </person>
                <person xml:id="emt_person_id__214">
                   <persName>Ludwig XIV. von Frankreich</persName>
+                  <birth>
+                     <date notBefore="1638-01-01" notAfter="1638-12-31">1638</date>
+                  </birth>
+                  <death>
+                     <date notBefore="1715-01-01" notAfter="1715-12-31">1715</date>
+                  </death>
+                  <idno type="GND">https://d-nb.info/gnd/118816829</idno>
+                  <idno type="WIKIDATA">http://www.wikidata.org/entity/Q7742</idno>
+                  <figure>
+                     <graphic url="emt_person_id__214.jpg"/>
+                     <caption>Louis XIV of France.jpg</caption>
+                  </figure>
                </person>
                <person xml:id="emt_person_id__215">
-                  <persName>Czernin, Humprecht Johann</persName>
+                  <persName>Humprecht Johann Czernin</persName>
+                  <birth>
+                     <date notBefore="1628-01-01" notAfter="1628-12-31">1628</date>
+                  </birth>
+                  <death>
+                     <date notBefore="1682-01-01" notAfter="1682-12-31">1682</date>
+                  </death>
+                  <idno type="GND">https://d-nb.info/gnd/130022675</idno>
+                  <idno type="NDB">https://www.deutsche-biographie.de/pnd130022675.html#indexcontent</idno>
+                  <idno type="WIKIDATA">http://www.wikidata.org/entity/Q1637312</idno>
+                  <figure>
+                     <graphic url="emt_person_id__215.jpg"/>
+                     <caption>Gemälde des Graf Humprecht Johann Czernin.jpg</caption>
+                  </figure>
                </person>
                <person xml:id="emt_person_id__216">
                   <persName>Erzbischof, der ein Archidiakonat verleiht, das Juan José de Austria inne hatte</persName>
@@ -2205,16 +2260,53 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                   </figure>
                </person>
                <person xml:id="emt_person_id__228">
-                  <persName>Obersthofmeister Leopold I. 1679 (Ende)</persName>
+                  <persName>Johann Maximilian von Lamberg, Obersthofmeister Leopold I.</persName>
+                  <birth>
+                     <date notBefore="1608-01-01" notAfter="1608-12-31">1608</date>
+                  </birth>
+                  <death>
+                     <date notBefore="1682-01-01" notAfter="1682-12-31">1682</date>
+                  </death>
+                  <idno type="GND">https://d-nb.info/gnd/118823795</idno>
+                  <idno type="NDB">https://www.deutsche-biographie.de/sfz47503.html#indexcontent</idno>
+                  <idno type="WIKIDATA">http://www.wikidata.org/entity/Q1695482</idno>
+                  <figure>
+                     <graphic url="emt_person_id__228.jpg"/>
+                     <caption>Johann Maximilian von Lamberg (1608-1682).jpg</caption>
+                  </figure>
                </person>
                <person xml:id="emt_person_id__229">
-                  <persName>Herzog von Sachsen-Lauenburg 1679</persName>
+                  <persName>Julius Franz Herzog von Sachsen-Lauenburg</persName>
+                  <birth>
+                     <date notBefore="1641-01-01" notAfter="1641-12-31">1641</date>
+                  </birth>
+                  <death>
+                     <date notBefore="1689-01-01" notAfter="1689-12-31">1689</date>
+                  </death>
+                  <idno type="GND">https://d-nb.info/gnd/102141126</idno>
+                  <idno type="NDB">https://www.deutsche-biographie.de/sfz53375.html#indexcontent</idno>
+                  <idno type="WIKIDATA">http://www.wikidata.org/entity/Q64737</idno>
+                  <figure>
+                     <graphic url="emt_person_id__229.jpg"/>
+                     <caption>Ruiterportret van Julius Frans van Saksen-Lauenburg, RP-P-1878-A-1606.jpg</caption>
+                  </figure>
                </person>
                <person xml:id="emt_person_id__230">
                   <persName>Wirts, wahrscheinlich Arzt am Wiener Hof 1680 (mit in Prag)</persName>
                </person>
                <person xml:id="emt_person_id__231">
-                  <persName>Dietrichstein, Philipp von 1680</persName>
+                  <persName>Philipp Sigmund von Dietrichstein</persName>
+                  <birth>
+                     <date notBefore="1651-01-01" notAfter="1651-12-31">1651</date>
+                  </birth>
+                  <death>
+                     <date notBefore="1716-01-01" notAfter="1716-12-31">1716</date>
+                  </death>
+                  <idno type="WIKIDATA">http://www.wikidata.org/entity/Q21069432</idno>
+                  <figure>
+                     <graphic url="emt_person_id__231.jpg"/>
+                     <caption>Philipp Sigmund Dietrichstein (1651–1716).jpg</caption>
+                  </figure>
                </person>
                <person xml:id="emt_person_id__232">
                   <persName>Jörger, sein Sohn ist anfang 1680 ermordet worden</persName>
@@ -2226,10 +2318,22 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                   <persName>Santi, Tanzmeister in Wien</persName>
                </person>
                <person xml:id="emt_person_id__235">
-                  <persName>Obersthofmeister Wien Anfang 1676</persName>
+                  <persName>Obersthofmeister Wien Anfang 1676 siehe Lamberg, Johann Maximilian</persName>
                </person>
                <person xml:id="emt_person_id__236">
-                  <persName>Oberstkämmerer Wien Anfang 1676</persName>
+                  <persName>Gundakar von Dietrichstein, Oberstkämmerer Leopolds I.</persName>
+                  <birth>
+                     <date notBefore="1623-01-01" notAfter="1623-12-31">1623</date>
+                  </birth>
+                  <death>
+                     <date notBefore="1690-01-01" notAfter="1690-12-31">1690</date>
+                  </death>
+                  <idno type="GND">https://d-nb.info/gnd/1052818633</idno>
+                  <idno type="WIKIDATA">http://www.wikidata.org/entity/Q55228871</idno>
+                  <figure>
+                     <graphic url="emt_person_id__236.jpg"/>
+                     <caption>Arolsen Klebeband 02 485.jpg</caption>
+                  </figure>
                </person>
                <person xml:id="emt_person_id__237">
                   <persName>Friedrich I. von Sachsen-Gotha-Altenburg</persName>
@@ -2264,7 +2368,12 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                   </figure>
                </person>
                <person xml:id="emt_person_id__239">
-                  <persName>Yrsch, pfälzischer Rat</persName>
+                  <persName>Johann Ferdinand von Yrsch</persName>
+                  <birth>
+                     <date notBefore="1667-01-01" notAfter="1667-12-31">1667</date>
+                  </birth>
+                  <idno type="GND">https://d-nb.info/gnd/1011571021</idno>
+                  <idno type="NDB">https://www.deutsche-biographie.de/pnd1011571021.html#indexcontent</idno>
                </person>
                <person xml:id="emt_person_id__240">
                   <persName>Maria Anna von Bayern, Dauphine</persName>
