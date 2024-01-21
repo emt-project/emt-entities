@@ -907,7 +907,7 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                   </figure>
                </person>
                <person xml:id="emt_person_id__74">
-                  <persName>Johann Paul Hocher</persName>
+                  <persName>Johann Paul Hocher, Hofkanzler</persName>
                   <birth>
                      <date notBefore="1616-01-01" notAfter="1616-12-31">1616</date>
                   </birth>
@@ -2043,10 +2043,14 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                   <idno type="WIKIDATA">http://www.wikidata.org/entity/Q56604694</idno>
                </person>
                <person xml:id="emt_person_id__200">
-                  <persName>Mansfeld, Gräfin Maria Elisabeth von, geb. Harrach</persName>
+                  <persName>Maria Elisabeth von Mansfeld, geb. Harrach</persName>
+                  <birth>
+                     <date notBefore="1643-01-01" notAfter="1643-12-31">1643</date>
+                  </birth>
                   <death>
                      <date notBefore="1698-01-01" notAfter="1698-12-31">1698</date>
                   </death>
+                  <idno type="WIKIDATA">http://www.wikidata.org/entity/Q108927134</idno>
                </person>
                <person xml:id="emt_person_id__201">
                   <persName>Baur, Obrist, für den EMT Fürsprache bei Leopold einlagen soll</persName>
@@ -2055,7 +2059,7 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                   <persName>Barbier PWs, den dieser für Leopold nach Wien vermittelt hat 1679</persName>
                </person>
                <person xml:id="emt_person_id__203">
-                  <persName>Rappach, Maria Theresia von, geb. Brandis</persName>
+                  <persName>Maria Theresia von Rappach, geb. Brandis</persName>
                   <idno type="URL">http://www.wikidata.org/entity/Q108927109</idno>
                </person>
                <person xml:id="emt_person_id__204">
@@ -2225,19 +2229,20 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                   <persName>Welden, Herr von</persName>
                </person>
                <person xml:id="emt_person_id__223">
-                  <persName>Hamilton, Maria Sophie, geb. Weichs</persName>
+                  <persName>Maria Sophie von Hamilton, geb. Weichs</persName>
                   <death>
                      <date notBefore="1698-01-01" notAfter="1698-12-31">1698</date>
                   </death>
                </person>
                <person xml:id="emt_person_id__224">
-                  <persName>Bedingfield, Magdalen OCarm</persName>
+                  <persName>Magdalen Bedingfield OCarm</persName>
                   <birth>
                      <date notBefore="1621-01-01" notAfter="1621-12-31">1621</date>
                   </birth>
                   <death>
                      <date notBefore="1684-01-01" notAfter="1684-12-31">1684</date>
                   </death>
+                  <idno type="URL">https://wwtn.history.qmul.ac.uk/search/csearch.php?uid=AC013</idno>
                </person>
                <person xml:id="emt_person_id__225">
                   <persName>Jägermeister, der PW oder JW gut gedient hat</persName>
@@ -2309,10 +2314,26 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                   </figure>
                </person>
                <person xml:id="emt_person_id__232">
-                  <persName>Jörger, sein Sohn ist anfang 1680 ermordet worden</persName>
+                  <persName>Johann Quintin Jörger von Tollet</persName>
+                  <birth>
+                     <date notBefore="1624-01-01" notAfter="1624-12-31">1624</date>
+                  </birth>
+                  <death>
+                     <date notBefore="1705-01-01" notAfter="1705-12-31">1705</date>
+                  </death>
+                  <idno type="GND">https://d-nb.info/gnd/11715010X</idno>
+                  <idno type="NDB">https://www.deutsche-biographie.de/sfz35267.html#indexcontent</idno>
+                  <idno type="WIKIDATA">http://www.wikidata.org/entity/Q19816894</idno>
                </person>
                <person xml:id="emt_person_id__233">
-                  <persName>Jörger, Graf, ist Anfang 1680 ermordet worden</persName>
+                  <persName>Johann Peter Jörger von Tollet</persName>
+                  <birth>
+                     <date notBefore="1656-01-01" notAfter="1656-12-31">1656</date>
+                  </birth>
+                  <death>
+                     <date notBefore="1680-01-01" notAfter="1680-12-31">1680</date>
+                  </death>
+                  <idno type="NDB">https://www.deutsche-biographie.de/sfz35263.html</idno>
                </person>
                <person xml:id="emt_person_id__234">
                   <persName>Santi, Tanzmeister in Wien</persName>
@@ -2377,6 +2398,14 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                </person>
                <person xml:id="emt_person_id__240">
                   <persName>Maria Anna von Bayern, Dauphine</persName>
+                  <birth>
+                     <date notBefore="1660-01-01" notAfter="1660-12-31">1660</date>
+                  </birth>
+                  <death>
+                     <date notBefore="1690-01-01" notAfter="1690-12-31">1690</date>
+                  </death>
+                  <idno type="GND">https://d-nb.info/gnd/120251922</idno>
+                  <idno type="NDB">https://www.deutsche-biographie.de/sfz58314.html</idno>
                </person>
                <person xml:id="emt_person_id__241">
                   <persName>Laics, Pater</persName>
@@ -2388,7 +2417,7 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                   <persName>Kammerdienerin bei Erzherzog Joseph 1680</persName>
                </person>
                <person xml:id="emt_person_id__244">
-                  <persName>Schwiegersohn des Hofkanzlers Hocher, der 1680 Kämmerer werden soll</persName>
+                  <persName>Schwiegersohn des Hofkanzlers Hocher</persName>
                </person>
                <person xml:id="emt_person_id__245">
                   <persName>Marie Hedwig von Sachsen-Meiningen, geb. Hessen-Darmstadt</persName>
@@ -2398,39 +2427,114 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                   <death>
                      <date notBefore="1680-01-01" notAfter="1680-12-31">1680</date>
                   </death>
+                  <idno type="GND">https://d-nb.info/gnd/121600092</idno>
+                  <idno type="NDB">https://www.deutsche-biographie.de/pnd121600092.html#indexcontent</idno>
+                  <idno type="WIKIDATA">http://www.wikidata.org/entity/Q292137</idno>
+                  <figure>
+                     <graphic url="emt_person_id__245.jpg"/>
+                     <caption>Marie Hedwig of Hesse-Darmstadt.jpg</caption>
+                  </figure>
                </person>
                <person xml:id="emt_person_id__246">
-                  <persName>Auersberg, Fräulein von</persName>
+                  <persName>Fräulein von Auersperg</persName>
                </person>
                <person xml:id="emt_person_id__247">
                   <persName>Pater Guardian</persName>
                </person>
                <person xml:id="emt_person_id__248">
                   <persName>Erzherzog Albrecht</persName>
+                  <birth>
+                     <date notBefore="1559-01-01" notAfter="1559-12-31">1559</date>
+                  </birth>
+                  <death>
+                     <date notBefore="1621-01-01" notAfter="1621-12-31">1621</date>
+                  </death>
+                  <idno type="GND">https://d-nb.info/gnd/11864436X</idno>
+                  <idno type="NDB">https://www.deutsche-biographie.de/sfz56559.html#indexcontent</idno>
+                  <idno type="WIKIDATA">http://www.wikidata.org/entity/Q311452</idno>
+                  <figure>
+                     <graphic url="emt_person_id__248.jpg"/>
+                     <caption>Peter Paul Rubens 096b.jpg</caption>
+                  </figure>
                </person>
                <person xml:id="emt_person_id__249">
-                  <persName>Infantin Isabella Clara</persName>
+                  <persName>Infantin Isabella Clara Eugenia</persName>
+                  <birth>
+                     <date notBefore="1566-01-01" notAfter="1566-12-31">1566</date>
+                  </birth>
+                  <death>
+                     <date notBefore="1633-01-01" notAfter="1633-12-31">1633</date>
+                  </death>
+                  <idno type="GND">https://d-nb.info/gnd/118555928</idno>
+                  <idno type="NDB">https://www.deutsche-biographie.de/sfz36483.html#indexcontent</idno>
+                  <idno type="WIKIDATA">http://www.wikidata.org/entity/Q158256</idno>
+                  <figure>
+                     <graphic url="emt_person_id__249.jpg"/>
+                     <caption>Isabella Clara Eugenia of Spain - Frans Pourbus II.jpg</caption>
+                  </figure>
                </person>
                <person xml:id="emt_person_id__250">
                   <persName>Erzherzog Leopold Wilhelm</persName>
+                  <birth>
+                     <date notBefore="1614-01-01" notAfter="1614-12-31">1614</date>
+                  </birth>
+                  <death>
+                     <date notBefore="1662-01-01" notAfter="1662-12-31">1662</date>
+                  </death>
+                  <idno type="GND">https://d-nb.info/gnd/118727664</idno>
+                  <idno type="NDB">https://www.deutsche-biographie.de/sfz50452.html#ndbcontent</idno>
+                  <idno type="WIKIDATA">http://www.wikidata.org/entity/Q437295</idno>
+                  <figure>
+                     <graphic url="emt_person_id__250.jpg"/>
+                     <caption>Archduke Leopold Wilhelm of Austria by Pieter Thijs.jpg</caption>
+                  </figure>
                </person>
                <person xml:id="emt_person_id__251">
                   <persName>Sauter, Beichtvater EMT ab 1680</persName>
                </person>
                <person xml:id="emt_person_id__252">
                   <persName>Philipp IV. von Spanien</persName>
+                  <birth>
+                     <date notBefore="1605-01-01" notAfter="1605-12-31">1605</date>
+                  </birth>
+                  <death>
+                     <date notBefore="1665-01-01" notAfter="1665-12-31">1665</date>
+                  </death>
+                  <idno type="GND">https://d-nb.info/gnd/118593870</idno>
+                  <idno type="NDB">https://www.deutsche-biographie.de/sfz74522.html#indexcontent</idno>
+                  <idno type="WIKIDATA">http://www.wikidata.org/entity/Q691402</idno>
+                  <figure>
+                     <graphic url="emt_person_id__252.jpg"/>
+                     <caption>Philip IV of Spain.jpg</caption>
+                  </figure>
                </person>
                <person xml:id="emt_person_id__253">
-                  <persName>Marco d'Aviano</persName>
+                  <persName>Marco d'Aviano OFMCap.</persName>
+                  <birth>
+                     <date notBefore="1631-01-01" notAfter="1631-12-31">1631</date>
+                  </birth>
+                  <death>
+                     <date notBefore="1699-01-01" notAfter="1699-12-31">1699</date>
+                  </death>
+                  <idno type="GND">https://d-nb.info/gnd/118731076</idno>
+                  <idno type="NDB">https://www.deutsche-biographie.de/sfz58102.html#indexcontent</idno>
+                  <idno type="WIKIDATA">http://www.wikidata.org/entity/Q833908</idno>
+                  <figure>
+                     <graphic url="emt_person_id__253.jpg"/>
+                     <caption>Marcus van Aviano (tg-uact-167) (cropped).jpg</caption>
+                  </figure>
                </person>
                <person xml:id="emt_person_id__254">
-                  <persName>Bischof von Augsburg 1680</persName>
+                  <persName>Johann Christoph von Freyberg, Bischof von Augsburg</persName>
+                  <idno type="GND">https://d-nb.info/gnd/102375526</idno>
+                  <idno type="NDB">https://www.deutsche-biographie.de/sfz19192.html#indexcontent</idno>
+                  <idno type="WIKIDATA">http://www.wikidata.org/entity/Q1693099</idno>
                </person>
                <person xml:id="emt_person_id__255">
-                  <persName>Stadion</persName>
+                  <persName>Herr von Stadion</persName>
                </person>
                <person xml:id="emt_person_id__256">
-                  <persName>Rougemont, Herr de</persName>
+                  <persName>Rougemont, Herr de, neuburgischer Resident in Brüssel 1680</persName>
                </person>
                <person xml:id="emt_person_id__257">
                   <persName>Roßeler / Raßeler</persName>
@@ -2484,6 +2588,7 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                   <death>
                      <date notBefore="1724-01-01" notAfter="1724-12-31">1724</date>
                   </death>
+                  <idno type="WIKIDATA">http://www.wikidata.org/entity/Q110370225</idno>
                   <idno type="URL">https://de.rodovid.org/wk/Person:829987</idno>
                </person>
                <person xml:id="emt_person_id__265">
@@ -2494,6 +2599,13 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                   <death>
                      <date notBefore="1680-01-01" notAfter="1680-12-31">1680</date>
                   </death>
+                  <idno type="GND">https://d-nb.info/gnd/119064324</idno>
+                  <idno type="NDB">https://www.deutsche-biographie.de/sfz65132.html#indexcontent</idno>
+                  <idno type="WIKIDATA">http://www.wikidata.org/entity/Q454789</idno>
+                  <figure>
+                     <graphic url="emt_person_id__265.jpg"/>
+                     <caption>Portret van graaf Raimondo Montecuccoli, RP-P-1908-5061.jpg</caption>
+                  </figure>
                </person>
                <person xml:id="emt_person_id__266">
                   <persName>Bekh, Herr von</persName>

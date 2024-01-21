@@ -949,33 +949,69 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                </place>
                <place xml:id="emt_place_id__138">
                   <placeName>Heitersheim</placeName>
+                  <location type="coords">
+                     <geo>47.87468 7.657210</geo>
+                  </location>
+                  <idno type="GEONAMES">https://sws.geonames.org/2907068/</idno>
                </place>
                <place xml:id="emt_place_id__139">
                   <placeName>Kladruby nad Labem</placeName>
+                  <location type="coords">
+                     <geo>50.05772 15.487090</geo>
+                  </location>
+                  <idno type="GEONAMES">https://sws.geonames.org/3073683/</idno>
                </place>
                <place xml:id="emt_place_id__140">
                   <placeName>Velká Čeperka</placeName>
                </place>
                <place xml:id="emt_place_id__141">
                   <placeName>Köln, Sankt Gereon</placeName>
+                  <location type="coords">
+                     <geo>50.94322 6.945970</geo>
+                  </location>
+                  <idno type="GEONAMES">https://sws.geonames.org/11185761/</idno>
                </place>
                <place xml:id="emt_place_id__142">
                   <placeName>Wels</placeName>
+                  <location type="coords">
+                     <geo>48.16082 14.021640</geo>
+                  </location>
+                  <idno type="GEONAMES">https://sws.geonames.org/7871309/</idno>
                </place>
                <place xml:id="emt_place_id__143">
                   <placeName>Enns</placeName>
+                  <location type="coords">
+                     <geo>48.21415 14.477830</geo>
+                  </location>
+                  <idno type="GEONAMES">https://sws.geonames.org/7872050/</idno>
                </place>
                <place xml:id="emt_place_id__144">
                   <placeName>Sankt Pantaleon</placeName>
+                  <location type="coords">
+                     <geo>48.00750 12.894260</geo>
+                  </location>
+                  <idno type="GEONAMES">https://sws.geonames.org/7873110/</idno>
                </place>
                <place xml:id="emt_place_id__145">
                   <placeName>Niederösterreich</placeName>
+                  <location type="coords">
+                     <geo>48.33333 15.750000</geo>
+                  </location>
+                  <idno type="GEONAMES">https://sws.geonames.org/2770542/</idno>
                </place>
                <place xml:id="emt_place_id__146">
                   <placeName>Hamburg</placeName>
+                  <location type="coords">
+                     <geo>53.58333 10.000000</geo>
+                  </location>
+                  <idno type="GEONAMES">https://sws.geonames.org/2911297/</idno>
                </place>
                <place xml:id="emt_place_id__147">
                   <placeName>Ebelsberg</placeName>
+                  <location type="coords">
+                     <geo>48.23885 14.331840</geo>
+                  </location>
+                  <idno type="GEONAMES">https://sws.geonames.org/2780578/</idno>
                </place>
             </listPlace>
          </div>
