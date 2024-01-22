@@ -2,7 +2,7 @@
   "1": {
     "id": 1,
     "order": "1.00000000000000000000",
-    "name": "im Schiff",
+    "name": "Stein an der Donau",
     "geonames": "",
     "emt_id": "emt_place_id__1",
     "place_type": null,
@@ -1593,5 +1593,16 @@
     "lat": "48.23885",
     "long": "14.331840",
     "comments intern": "bei Linz, heute Stadtteil"
+  },
+  "148": {
+    "id": 148,
+    "order": "146.00000000000000000000",
+    "name": "Neubau (Traun)",
+    "geonames": "",
+    "emt_id": "emt_place_id__148",
+    "place_type": null,
+    "lat": null,
+    "long": null,
+    "comments intern": ""
   }
 }

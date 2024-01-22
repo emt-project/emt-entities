@@ -63,7 +63,7 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
          <div type="index_places">
             <listPlace xml:id="listplace">
                <place xml:id="emt_place_id__1">
-                  <placeName>im Schiff</placeName>
+                  <placeName>Stein an der Donau</placeName>
                </place>
                <place xml:id="emt_place_id__2">
                   <placeName>?</placeName>
@@ -1012,6 +1012,9 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                      <geo>48.23885 14.331840</geo>
                   </location>
                   <idno type="GEONAMES">https://sws.geonames.org/2780578/</idno>
+               </place>
+               <place xml:id="emt_place_id__148">
+                  <placeName>Neubau (Traun)</placeName>
                </place>
             </listPlace>
          </div>
