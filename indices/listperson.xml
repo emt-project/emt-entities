@@ -2626,7 +2626,20 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                   <persName>Hofmeisterin, die in Neuburg angekommen ist 1681</persName>
                </person>
                <person xml:id="emt_person_id__272">
-                  <persName>Prinzessin (evang.), die Max Emanuel von Bayern heiraten soll 1681</persName>
+                  <persName>Sachsen-Eisenach, Eleonore Erdmuthe von, vereh. Brandenburg-Ansbach bzw. Sachsen</persName>
+                  <birth>
+                     <date notBefore="1662-01-01" notAfter="1662-12-31">1662</date>
+                  </birth>
+                  <death>
+                     <date notBefore="1696-01-01" notAfter="1696-12-31">1696</date>
+                  </death>
+                  <idno type="GND">https://d-nb.info/gnd/104175354</idno>
+                  <idno type="NDB">https://www.deutsche-biographie.de/pnd104175354.html#indexcontent</idno>
+                  <idno type="WIKIDATA">http://www.wikidata.org/entity/Q445211</idno>
+                  <figure>
+                     <graphic url="emt_person_id__272.jpg"/>
+                     <caption>Eleonore Erdmuthe Louise von Sachsen-Eisenach.jpg</caption>
+                  </figure>
                </person>
             </listPerson>
          </div>
