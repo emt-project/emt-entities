@@ -645,6 +645,7 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                </place>
                <place xml:id="emt_place_id__88">
                   <placeName>Heiliges Römisches Reich</placeName>
+                  <idno type="GND">https://d-nb.info/gnd/2035457-5</idno>
                </place>
                <place xml:id="emt_place_id__89">
                   <placeName>Wien, Favorita</placeName>
@@ -662,6 +663,7 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                </place>
                <place xml:id="emt_place_id__91">
                   <placeName>Köln, Erzstift</placeName>
+                  <idno type="GND">https://d-nb.info/gnd/4031485-6</idno>
                </place>
                <place xml:id="emt_place_id__92">
                   <placeName>Graz</placeName>
@@ -784,6 +786,7 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                </place>
                <place xml:id="emt_place_id__111">
                   <placeName>Jülich, Herzogtum</placeName>
+                  <idno type="GND">https://d-nb.info/gnd/4028839-0</idno>
                </place>
                <place xml:id="emt_place_id__112">
                   <placeName>Klosterneuburg</placeName>
@@ -794,6 +797,7 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                </place>
                <place xml:id="emt_place_id__113">
                   <placeName>Münster, Fürstbistum</placeName>
+                  <idno type="GND">https://d-nb.info/gnd/4279480-8</idno>
                </place>
                <place xml:id="emt_place_id__114">
                   <placeName>Einsiedeln</placeName>
@@ -891,6 +895,7 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                </place>
                <place xml:id="emt_place_id__128">
                   <placeName>Mainz, Kurfürstentum</placeName>
+                  <idno type="GND">https://d-nb.info/gnd/4100026-2</idno>
                </place>
                <place xml:id="emt_place_id__129">
                   <placeName>Meriendahl, dort wird Bruder 1679 gewählt (Deutscher Orden)</placeName>
