@@ -701,6 +701,22 @@
     },
     {
       "start_date": {
+        "year": "1690",
+        "month": "4",
+        "day": "1"
+      },
+      "text": {
+        "headline": "Wahl Alexander Sigismunds von Pfalz-Neuburg zum Bischof von Augsburg",
+        "text": "Das Ereignis fand in <a href=\"emt_place_id__5.html\">Augsburg</a> statt.<br>Folgende Personen waren daran beteiligt:<br><a href=\"emt_person_id__127.html\">Alexander Sigmund von Pfalz-Neuburg</a><br>"
+      },
+      "media": {
+        "url": "https://www.google.com/maps/@48.36733,10.892130,15z",
+        "caption": "Augsburg",
+        "credit": "Google Maps"
+      }
+    },
+    {
+      "start_date": {
         "year": "1684",
         "month": "9",
         "day": "9"

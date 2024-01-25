@@ -95,6 +95,18 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                <org xml:id="emt_institution_id__11">
                   <orgName>Johanniterorden</orgName>
                </org>
+               <org xml:id="emt_institution_id__12">
+                  <orgName>Landstände des Herzogtums Jülich</orgName>
+               </org>
+               <org xml:id="emt_institution_id__13">
+                  <orgName>Karmelitinnen OCD</orgName>
+               </org>
+               <org xml:id="emt_institution_id__14">
+                  <orgName>Karmeliter OCD</orgName>
+               </org>
+               <org xml:id="emt_institution_id__15">
+                  <orgName>Landtag Ungarn</orgName>
+               </org>
             </listOrg>
          </div>
       </body>

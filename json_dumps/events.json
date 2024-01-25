@@ -2831,7 +2831,7 @@
         "name": "Wahl Alexander Sigismunds von Pfalz-Neuburg zum Bischof von Augsburg",
         "emt_id": "emt_event_id__45",
         "not_before": "1690-04-01",
-        "not_after": null,
+        "not_after": "1690-04-01",
         "took_place_at": [
             {
                 "id": 5,

@@ -1725,7 +1725,7 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                   </figure>
                </person>
                <person xml:id="emt_person_id__152">
-                  <persName>Favoriti, Abbate, wohl ein Vertrauter des Papstes 1677</persName>
+                  <persName>Favoriti, Agostino</persName>
                </person>
                <person xml:id="emt_person_id__153">
                   <persName>Mihelich, äußert Meinung gegenüber EMT wegen Koadjutorie in Köln 1677</persName>
@@ -2201,7 +2201,7 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                   <persName>Venezianischer Botschafter am Kaiserhof 1679</persName>
                </person>
                <person xml:id="emt_person_id__218">
-                  <persName>Resident Pfalz-Neuburg, wahrscheinlich in Brüssel 1679</persName>
+                  <persName/>
                </person>
                <person xml:id="emt_person_id__219">
                   <persName>Innozenz IX. (Odeschalchi), Papst</persName>
@@ -2339,7 +2339,7 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                   <persName>Santi, Tanzmeister in Wien</persName>
                </person>
                <person xml:id="emt_person_id__235">
-                  <persName>Obersthofmeister Wien Anfang 1676 siehe Lamberg, Johann Maximilian</persName>
+                  <persName/>
                </person>
                <person xml:id="emt_person_id__236">
                   <persName>Gundakar von Dietrichstein, Oberstkämmerer Leopolds I.</persName>
@@ -2640,6 +2640,79 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                      <graphic url="emt_person_id__272.jpg"/>
                      <caption>Eleonore Erdmuthe Louise von Sachsen-Eisenach.jpg</caption>
                   </figure>
+               </person>
+               <person xml:id="emt_person_id__273">
+                  <persName>Ferdinand von Fürstenberg, Bischof von Münster</persName>
+                  <birth>
+                     <date notBefore="1626-01-01" notAfter="1626-12-31">1626</date>
+                  </birth>
+                  <death>
+                     <date notBefore="1683-01-01" notAfter="1683-12-31">1683</date>
+                  </death>
+                  <idno type="GND">https://d-nb.info/gnd/118686755</idno>
+                  <idno type="NDB">https://www.deutsche-biographie.de/sfz15856.html#indexcontent</idno>
+                  <idno type="WIKIDATA">http://www.wikidata.org/entity/Q1405964</idno>
+                  <figure>
+                     <graphic url="emt_person_id__273.jpg"/>
+                     <caption>Edelinck-Ferdinand von Fuerstenberg.jpg</caption>
+                  </figure>
+               </person>
+               <person xml:id="emt_person_id__274">
+                  <persName>Oxenstierna, schwedischer Botschafter in Wien 1681</persName>
+               </person>
+               <person xml:id="emt_person_id__275">
+                  <persName>Sophie Charlotte von Braunschweig-Hannover, vereh. Brandenburg-Preußen</persName>
+               </person>
+               <person xml:id="emt_person_id__276">
+                  <persName>Pater Cosmo / Cosmas</persName>
+               </person>
+               <person xml:id="emt_person_id__277">
+                  <persName>Pater Jochem (Joachim)</persName>
+               </person>
+               <person xml:id="emt_person_id__278">
+                  <persName>Eszterhazy, neuer Palatin 1681</persName>
+               </person>
+               <person xml:id="emt_person_id__279">
+                  <persName>Forgach, Palatin, verstorben 1681</persName>
+               </person>
+               <person xml:id="emt_person_id__280">
+                  <persName>Heiliger Stafan, König in Ungarn</persName>
+               </person>
+               <person xml:id="emt_person_id__281">
+                  <persName>Resident des Deutschmeisters in Wien 1681</persName>
+               </person>
+               <person xml:id="emt_person_id__282">
+                  <persName>Stadel, militärischer Befehlshaber 1681</persName>
+               </person>
+               <person xml:id="emt_person_id__283">
+                  <persName>Burg, Obrist</persName>
+               </person>
+               <person xml:id="emt_person_id__284">
+                  <persName>Falces, reist von Wien nach Spanien</persName>
+               </person>
+               <person xml:id="emt_person_id__285">
+                  <persName>Mollard, Herr von</persName>
+               </person>
+               <person xml:id="emt_person_id__286">
+                  <persName>Ferdinando Carlo von Gonzaga-Nevers, Herzog von Mantua</persName>
+               </person>
+               <person xml:id="emt_person_id__287">
+                  <persName>François Michel Le Tellier, Marquis de Louvois</persName>
+               </person>
+               <person xml:id="emt_person_id__288">
+                  <persName>Resident des Kaisers in Straßburg 1681</persName>
+               </person>
+               <person xml:id="emt_person_id__289">
+                  <persName>Hoyos, niederösterreichischer Landmarschall</persName>
+                  <death>
+                     <date notBefore="1681-01-01" notAfter="1681-12-31">1681</date>
+                  </death>
+               </person>
+               <person xml:id="emt_person_id__290">
+                  <persName>Machau, Herr von</persName>
+                  <death>
+                     <date notBefore="1681-01-01" notAfter="1681-12-31">1681</date>
+                  </death>
                </person>
             </listPerson>
          </div>

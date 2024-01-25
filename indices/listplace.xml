@@ -64,6 +64,10 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
             <listPlace xml:id="listplace">
                <place xml:id="emt_place_id__1">
                   <placeName>Stein an der Donau</placeName>
+                  <location type="coords">
+                     <geo>48.40163 15.581020</geo>
+                  </location>
+                  <idno type="GEONAMES">https://sws.geonames.org/2764553/</idno>
                </place>
                <place xml:id="emt_place_id__2">
                   <placeName>?</placeName>
@@ -398,11 +402,10 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                   <idno type="GEONAMES">https://sws.geonames.org/6550513/</idno>
                </place>
                <place xml:id="emt_place_id__50">
-                  <placeName>Rom</placeName>
+                  <placeName/>
                   <location type="coords">
                      <geo>41.89193 12.511330</geo>
                   </location>
-                  <idno type="GEONAMES">https://sws.geonames.org/3169070/</idno>
                </place>
                <place xml:id="emt_place_id__51">
                   <placeName>Sagan / Żagań</placeName>
@@ -968,6 +971,10 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                </place>
                <place xml:id="emt_place_id__140">
                   <placeName>Velká Čeperka</placeName>
+                  <location type="coords">
+                     <geo>50.13302 15.773230</geo>
+                  </location>
+                  <idno type="GEONAMES">https://sws.geonames.org/3078132/</idno>
                </place>
                <place xml:id="emt_place_id__141">
                   <placeName>Köln, Sankt Gereon</placeName>
@@ -1020,6 +1027,46 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                </place>
                <place xml:id="emt_place_id__148">
                   <placeName>Neubau (Traun)</placeName>
+                  <location type="coords">
+                     <geo>48.22086 14.238330</geo>
+                  </location>
+                  <idno type="GEONAMES">https://sws.geonames.org/2763423/</idno>
+               </place>
+               <place xml:id="emt_place_id__149">
+                  <placeName>Ungarn</placeName>
+               </place>
+               <place xml:id="emt_place_id__150">
+                  <placeName>Oberösterreich / Land ob der Enns</placeName>
+               </place>
+               <place xml:id="emt_place_id__151">
+                  <placeName>Lyon</placeName>
+               </place>
+               <place xml:id="emt_place_id__152">
+                  <placeName>Schweiz</placeName>
+               </place>
+               <place xml:id="emt_place_id__153">
+                  <placeName>Mannersdorf am Leithagebirge</placeName>
+               </place>
+               <place xml:id="emt_place_id__154">
+                  <placeName>Schweden</placeName>
+               </place>
+               <place xml:id="emt_place_id__155">
+                  <placeName>Steiermark</placeName>
+               </place>
+               <place xml:id="emt_place_id__156">
+                  <placeName>Malta</placeName>
+               </place>
+               <place xml:id="emt_place_id__157">
+                  <placeName>Eisenstadt</placeName>
+               </place>
+               <place xml:id="emt_place_id__158">
+                  <placeName>Nordgau</placeName>
+               </place>
+               <place xml:id="emt_place_id__159">
+                  <placeName>Kaisheim</placeName>
+               </place>
+               <place xml:id="emt_place_id__160">
+                  <placeName>Casale Monferrato</placeName>
                </place>
             </listPlace>
          </div>
