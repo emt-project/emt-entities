@@ -875,7 +875,7 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                   <idno type="WIKIDATA">http://www.wikidata.org/entity/Q56389655</idno>
                </person>
                <person xml:id="emt_person_id__72">
-                  <persName>Leopold Wilhelm von Königsegg-Rothenfels</persName>
+                  <persName>Leopold Wilhelm von Königsegg-Aulendorf</persName>
                   <birth>
                      <date notBefore="1630-01-01" notAfter="1630-12-31">1630</date>
                   </birth>
@@ -1293,16 +1293,7 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                   </figure>
                </person>
                <person xml:id="emt_person_id__108">
-                  <persName>Albert Eusebius von Königsegg-Rothenfels</persName>
-                  <birth>
-                     <date notBefore="1669-01-01" notAfter="1669-12-31">1669</date>
-                  </birth>
-                  <death>
-                     <date notBefore="1736-01-01" notAfter="1736-12-31">1736</date>
-                  </death>
-                  <idno type="GND">https://d-nb.info/gnd/116293934</idno>
-                  <idno type="NDB">https://www.deutsche-biographie.de/sfz57371.html</idno>
-                  <idno type="WIKIDATA">http://www.wikidata.org/entity/Q55890418</idno>
+                  <persName/>
                </person>
                <person xml:id="emt_person_id__109">
                   <persName>Amalie Wilhelmine von Braunschweig-Lüneburg</persName>
@@ -1734,7 +1725,14 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                   <persName>Pater Stettinger, in Heiratsprojekt für Johann Wilhelm involviert 1677</persName>
                </person>
                <person xml:id="emt_person_id__155">
-                  <persName>Königsegg, Bruder des Reichsvizekanzlers</persName>
+                  <persName>Iganz Eusebius von Königsegg-Aulendorf</persName>
+                  <birth>
+                     <date notBefore="1646-01-01" notAfter="1646-12-31">1646</date>
+                  </birth>
+                  <death>
+                     <date notBefore="1681-01-01" notAfter="1681-12-31">1681</date>
+                  </death>
+                  <idno type="URL">https://www.angelfire.com/realm/gotha/gotha/konigsegg.html</idno>
                </person>
                <person xml:id="emt_person_id__156">
                   <persName>Franz Bernhard von Nassau-Hadamar, Domherr zu Köln</persName>
@@ -2658,10 +2656,26 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                   </figure>
                </person>
                <person xml:id="emt_person_id__274">
-                  <persName>Oxenstierna, schwedischer Botschafter in Wien 1681</persName>
+                  <persName>Gabriel Oxenstierna, schwedischer Gesandter</persName>
+                  <birth>
+                     <date notBefore="1642-01-01" notAfter="1642-12-31">1642</date>
+                  </birth>
+                  <death>
+                     <date notBefore="1707-01-01" notAfter="1707-12-31">1707</date>
+                  </death>
+                  <idno type="WIKIDATA">http://www.wikidata.org/entity/Q6031761</idno>
+                  <idno type="URL">https://sv.wikipedia.org/wiki/Gabriel_Oxenstierna_(1642%E2%80%931707)</idno>
                </person>
                <person xml:id="emt_person_id__275">
                   <persName>Sophie Charlotte von Braunschweig-Hannover, vereh. Brandenburg-Preußen</persName>
+                  <birth>
+                     <date notBefore="1668-01-01" notAfter="1668-12-31">1668</date>
+                  </birth>
+                  <death>
+                     <date notBefore="1705-01-01" notAfter="1705-12-31">1705</date>
+                  </death>
+                  <idno type="GND">https://d-nb.info/gnd/118751530</idno>
+                  <idno type="NDB">https://www.deutsche-biographie.de/sfz22668.html#indexcontent</idno>
                </person>
                <person xml:id="emt_person_id__276">
                   <persName>Pater Cosmo / Cosmas</persName>
@@ -2670,13 +2684,52 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                   <persName>Pater Jochem (Joachim)</persName>
                </person>
                <person xml:id="emt_person_id__278">
-                  <persName>Eszterhazy, neuer Palatin 1681</persName>
+                  <persName>Paul Eszterházy, Palatin</persName>
+                  <birth>
+                     <date notBefore="1635-01-01" notAfter="1635-12-31">1635</date>
+                  </birth>
+                  <death>
+                     <date notBefore="1713-01-01" notAfter="1713-12-31">1713</date>
+                  </death>
+                  <idno type="GND">https://d-nb.info/gnd/119031337</idno>
+                  <idno type="NDB">https://www.deutsche-biographie.de/sfz13790.html#indexcontent</idno>
+                  <idno type="WIKIDATA">http://www.wikidata.org/entity/Q655687</idno>
+                  <figure>
+                     <graphic url="emt_person_id__278.jpg"/>
+                     <caption>Esterházy pál.jpg</caption>
+                  </figure>
                </person>
                <person xml:id="emt_person_id__279">
-                  <persName>Forgach, Palatin, verstorben 1681</persName>
+                  <persName>Adam Forgách</persName>
+                  <birth>
+                     <date notBefore="1601-01-01" notAfter="1601-12-31">1601</date>
+                  </birth>
+                  <death>
+                     <date notBefore="1681-01-01" notAfter="1681-12-31">1681</date>
+                  </death>
+                  <idno type="GND">https://d-nb.info/gnd/104352728</idno>
+                  <idno type="NDB">https://www.deutsche-biographie.de/pnd104352728.html#indexcontent</idno>
+                  <idno type="WIKIDATA">http://www.wikidata.org/entity/Q248676</idno>
+                  <figure>
+                     <graphic url="emt_person_id__279.jpg"/>
+                     <caption>Forgách Ádám-001.jpg</caption>
+                  </figure>
                </person>
                <person xml:id="emt_person_id__280">
-                  <persName>Heiliger Stafan, König in Ungarn</persName>
+                  <persName>Stephan der Heilige, König in Ungarn</persName>
+                  <birth>
+                     <date notBefore="969-01-01" notAfter="969-12-31">969</date>
+                  </birth>
+                  <death>
+                     <date notBefore="1038-01-01" notAfter="1038-12-31">1038</date>
+                  </death>
+                  <idno type="GND">https://d-nb.info/gnd/11861777X</idno>
+                  <idno type="NDB">https://www.deutsche-biographie.de/sfz31079.html#indexcontent</idno>
+                  <idno type="WIKIDATA">http://www.wikidata.org/entity/Q177903</idno>
+                  <figure>
+                     <graphic url="emt_person_id__280.jpg"/>
+                     <caption>StefanIHongarije.jpeg</caption>
+                  </figure>
                </person>
                <person xml:id="emt_person_id__281">
                   <persName>Resident des Deutschmeisters in Wien 1681</persName>
@@ -2691,22 +2744,57 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                   <persName>Falces, reist von Wien nach Spanien</persName>
                </person>
                <person xml:id="emt_person_id__285">
-                  <persName>Mollard, Herr von</persName>
+                  <persName>Ferdinand Ernst von Mollard</persName>
+                  <birth>
+                     <date notBefore="1648-01-01" notAfter="1648-12-31">1648</date>
+                  </birth>
+                  <death>
+                     <date notBefore="1716-01-01" notAfter="1716-12-31">1716</date>
+                  </death>
+                  <idno type="GND">https://d-nb.info/gnd/1041885512</idno>
+                  <idno type="NDB">https://www.deutsche-biographie.de/pnd1041885512.html</idno>
                </person>
                <person xml:id="emt_person_id__286">
                   <persName>Ferdinando Carlo von Gonzaga-Nevers, Herzog von Mantua</persName>
+                  <birth>
+                     <date notBefore="1652-01-01" notAfter="1652-12-31">1652</date>
+                  </birth>
+                  <death>
+                     <date notBefore="1708-01-01" notAfter="1708-12-31">1708</date>
+                  </death>
+                  <idno type="GND">https://d-nb.info/gnd/101102046</idno>
+                  <idno type="NDB">https://www.deutsche-biographie.de/pnd101102046.html#indexcontent</idno>
+                  <idno type="URL">https://www.treccani.it/enciclopedia/ferdinando-carlo-gonzaga-nevers-duca-di-mantova-e-del-monferrato_(Dizionario-Biografico)/</idno>
                </person>
                <person xml:id="emt_person_id__287">
                   <persName>François Michel Le Tellier, Marquis de Louvois</persName>
+                  <birth>
+                     <date notBefore="1639-01-01" notAfter="1639-12-31">1639</date>
+                  </birth>
+                  <death>
+                     <date notBefore="1691-01-01" notAfter="1691-12-31">1691</date>
+                  </death>
+                  <idno type="GND">https://d-nb.info/gnd/100194109</idno>
+                  <idno type="NDB">https://www.deutsche-biographie.de/pnd100194109.html#indexcontent</idno>
+                  <idno type="WIKIDATA">http://www.wikidata.org/entity/Q441378</idno>
+                  <figure>
+                     <graphic url="emt_person_id__287.jpg"/>
+                     <caption>Portrait of François-Michel le Tellier, Marquis de Louvois (1641–1691), by After Jacob Ferdinand Voet - Château de Versailles.jpg</caption>
+                  </figure>
                </person>
                <person xml:id="emt_person_id__288">
                   <persName>Resident des Kaisers in Straßburg 1681</persName>
                </person>
                <person xml:id="emt_person_id__289">
-                  <persName>Hoyos, niederösterreichischer Landmarschall</persName>
+                  <persName>Johann Balthasar von Hoyos</persName>
+                  <birth>
+                     <date notBefore="1626-01-01" notAfter="1626-12-31">1626</date>
+                  </birth>
                   <death>
                      <date notBefore="1681-01-01" notAfter="1681-12-31">1681</date>
                   </death>
+                  <idno type="GND">https://d-nb.info/gnd/128978481</idno>
+                  <idno type="NDB">https://www.deutsche-biographie.de/pnd128978481.html#indexcontent</idno>
                </person>
                <person xml:id="emt_person_id__290">
                   <persName>Machau, Herr von</persName>

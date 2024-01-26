@@ -230,7 +230,7 @@
   "20": {
     "id": 20,
     "order": "20.00000000000000000000",
-    "name": "Frankfurt",
+    "name": "Frankfurt am Main",
     "geonames": "https://www.geonames.org/2925533/frankfurt-am-main.html",
     "emt_id": "emt_place_id__20",
     "place_type": null,
@@ -458,7 +458,7 @@
   "39": {
     "id": 39,
     "order": "39.00000000000000000000",
-    "name": "Neuburg",
+    "name": "Neuburg an der Donau",
     "geonames": "https://www.geonames.org/2866070/neuburg-an-der-donau.html",
     "emt_id": "emt_place_id__39",
     "place_type": null,
@@ -482,7 +482,7 @@
   "41": {
     "id": 41,
     "order": "41.00000000000000000000",
-    "name": "Pardubice",
+    "name": "Pardubitz / Pardubice",
     "geonames": "https://www.geonames.org/3068582/pardubice.html",
     "emt_id": "emt_place_id__41",
     "place_type": null,
@@ -554,7 +554,7 @@
   "47": {
     "id": 47,
     "order": "47.00000000000000000000",
-    "name": "Prag",
+    "name": "Prag / Praha",
     "geonames": "https://www.geonames.org/3067696/prague.html",
     "emt_id": "emt_place_id__47",
     "place_type": null,
@@ -566,7 +566,7 @@
   "48": {
     "id": 48,
     "order": "48.00000000000000000000",
-    "name": "Preßburg",
+    "name": "Preßburg / Bratislava",
     "geonames": "https://www.geonames.org/3060972/bratislava.html",
     "emt_id": "emt_place_id__48",
     "place_type": null,
@@ -698,7 +698,7 @@
   "59": {
     "id": 59,
     "order": "59.00000000000000000000",
-    "name": "Warschau",
+    "name": "Warschau / Warszawa",
     "geonames": "https://www.geonames.org/756135/warsaw.html",
     "emt_id": "emt_place_id__59",
     "place_type": null,
@@ -1226,7 +1226,7 @@
   "105": {
     "id": 105,
     "order": "103.00000000000000000000",
-    "name": "Raudnitz",
+    "name": "Raudnitz / Roudnice nad Labem",
     "geonames": "https://www.geonames.org/3066727/roudnice-nad-labem.html",
     "emt_id": "emt_place_id__105",
     "place_type": null,
@@ -1238,7 +1238,7 @@
   "106": {
     "id": 106,
     "order": "104.00000000000000000000",
-    "name": "Ohlau",
+    "name": "Ohlau / Oława",
     "geonames": "https://www.geonames.org/3090205/olawa.html",
     "emt_id": "emt_place_id__106",
     "place_type": null,
@@ -1262,7 +1262,7 @@
   "108": {
     "id": 108,
     "order": "106.00000000000000000000",
-    "name": "Nimwegen",
+    "name": "Nimwegen / Nijmegen",
     "geonames": "https://www.geonames.org/2750053/nijmegen.html",
     "emt_id": "emt_place_id__108",
     "place_type": null,
@@ -1526,7 +1526,7 @@
   "130": {
     "id": 130,
     "order": "128.00000000000000000000",
-    "name": "Svatá Hora / Heiliger Berg",
+    "name": "Heiliger Berg / Svatá Hora",
     "geonames": "https://www.geonames.org/3064614/svata-hora.html",
     "emt_id": "emt_place_id__130",
     "place_type": null,
@@ -1562,7 +1562,7 @@
   "133": {
     "id": 133,
     "order": "131.00000000000000000000",
-    "name": "Slankamen",
+    "name": "Slankamen / Novi Slankamen",
     "geonames": "https://www.geonames.org/787592/novi-slankamen.html",
     "emt_id": "emt_place_id__133",
     "place_type": null,
@@ -1574,7 +1574,7 @@
   "134": {
     "id": 134,
     "order": "132.00000000000000000000",
-    "name": "Zenta",
+    "name": "Zenta / Senta",
     "geonames": "https://www.geonames.org/785965/senta.html",
     "emt_id": "emt_place_id__134",
     "place_type": null,
@@ -1598,7 +1598,7 @@
   "136": {
     "id": 136,
     "order": "134.00000000000000000000",
-    "name": "Karlowitz",
+    "name": "Karlowitz / Sremski Karlovci",
     "geonames": "https://www.geonames.org/3190101/sremski-karlovci.html",
     "emt_id": "emt_place_id__136",
     "place_type": null,
@@ -1713,7 +1713,7 @@
     "lat": "48.33333",
     "long": "15.750000",
     "comments intern": "",
-    "gnd": ""
+    "gnd": "https://d-nb.info/gnd/4075391-8"
   },
   "146": {
     "id": 146,
@@ -1755,35 +1755,35 @@
     "id": 149,
     "order": "147.00000000000000000000",
     "name": "Ungarn",
-    "geonames": "",
+    "geonames": "https://www.geonames.org/719819/hungary.html",
     "emt_id": "emt_place_id__149",
     "place_type": null,
-    "lat": null,
-    "long": null,
+    "lat": "47.00000",
+    "long": "20.000000",
     "comments intern": "",
-    "gnd": ""
+    "gnd": "https://d-nb.info/gnd/4078541-5"
   },
   "150": {
     "id": 150,
     "order": "148.00000000000000000000",
     "name": "Oberösterreich / Land ob der Enns",
-    "geonames": "",
+    "geonames": "https://www.geonames.org/2769848/oberoesterreich.html",
     "emt_id": "emt_place_id__150",
     "place_type": null,
-    "lat": null,
-    "long": null,
+    "lat": "48.25000",
+    "long": "14.000000",
     "comments intern": "",
-    "gnd": ""
+    "gnd": "https://d-nb.info/gnd/4075560-5"
   },
   "151": {
     "id": 151,
     "order": "149.00000000000000000000",
     "name": "Lyon",
-    "geonames": "",
+    "geonames": "https://www.geonames.org/2996944/lyon.html",
     "emt_id": "emt_place_id__151",
     "place_type": null,
-    "lat": null,
-    "long": null,
+    "lat": "45.74846",
+    "long": "4.846710",
     "comments intern": "",
     "gnd": ""
   },
@@ -1791,23 +1791,23 @@
     "id": 152,
     "order": "150.00000000000000000000",
     "name": "Schweiz",
-    "geonames": "",
+    "geonames": "https://www.geonames.org/2658434/switzerland.html",
     "emt_id": "emt_place_id__152",
     "place_type": null,
-    "lat": null,
-    "long": null,
+    "lat": "47.00016",
+    "long": "8.014270",
     "comments intern": "",
-    "gnd": ""
+    "gnd": "https://d-nb.info/gnd/4053881-3"
   },
   "153": {
     "id": 153,
     "order": "151.00000000000000000000",
     "name": "Mannersdorf am Leithagebirge",
-    "geonames": "",
+    "geonames": "https://www.geonames.org/2772003/mannersdorf-am-leithagebirge.html",
     "emt_id": "emt_place_id__153",
     "place_type": null,
-    "lat": null,
-    "long": null,
+    "lat": "47.96667",
+    "long": "16.600000",
     "comments intern": "",
     "gnd": ""
   },
@@ -1815,11 +1815,11 @@
     "id": 154,
     "order": "152.00000000000000000000",
     "name": "Schweden",
-    "geonames": "",
+    "geonames": "https://www.geonames.org/2661886/kingdom-of-sweden.html",
     "emt_id": "emt_place_id__154",
     "place_type": null,
-    "lat": null,
-    "long": null,
+    "lat": "62.00000",
+    "long": "15.000000",
     "comments intern": "",
     "gnd": ""
   },
@@ -1827,23 +1827,23 @@
     "id": 155,
     "order": "153.00000000000000000000",
     "name": "Steiermark",
-    "geonames": "",
+    "geonames": "https://www.geonames.org/2764581/steiermark.html",
     "emt_id": "emt_place_id__155",
     "place_type": null,
-    "lat": null,
-    "long": null,
+    "lat": "47.25000",
+    "long": "15.166670",
     "comments intern": "",
-    "gnd": ""
+    "gnd": "https://d-nb.info/gnd/4057092-7"
   },
   "156": {
     "id": 156,
     "order": "154.00000000000000000000",
     "name": "Malta",
-    "geonames": "",
+    "geonames": "https://www.geonames.org/2562772/malta.html",
     "emt_id": "emt_place_id__156",
     "place_type": null,
-    "lat": null,
-    "long": null,
+    "lat": "35.88182",
+    "long": "14.449080",
     "comments intern": "",
     "gnd": ""
   },
@@ -1851,11 +1851,11 @@
     "id": 157,
     "order": "155.00000000000000000000",
     "name": "Eisenstadt",
-    "geonames": "",
+    "geonames": "https://www.geonames.org/2780190/eisenstadt.html",
     "emt_id": "emt_place_id__157",
     "place_type": null,
-    "lat": null,
-    "long": null,
+    "lat": "47.84565",
+    "long": "16.523270",
     "comments intern": "",
     "gnd": ""
   },
@@ -1869,17 +1869,17 @@
     "lat": null,
     "long": null,
     "comments intern": "gemeint sein könnte ältere Bezeichnung für Oberpfalz - oder im georgrfischen Sinne die nördlicheren pfälzischen Besitzungen",
-    "gnd": ""
+    "gnd": "https://d-nb.info/gnd/4293553-2"
   },
   "159": {
     "id": 159,
     "order": "157.00000000000000000000",
     "name": "Kaisheim",
-    "geonames": "",
+    "geonames": "https://www.geonames.org/2893983/kaisheim.html",
     "emt_id": "emt_place_id__159",
     "place_type": null,
-    "lat": null,
-    "long": null,
+    "lat": "48.76751",
+    "long": "10.796390",
     "comments intern": "",
     "gnd": ""
   },
@@ -1887,11 +1887,11 @@
     "id": 160,
     "order": "158.00000000000000000000",
     "name": "Casale Monferrato",
-    "geonames": "",
+    "geonames": "https://www.geonames.org/3180208/casale-monferrato.html",
     "emt_id": "emt_place_id__160",
     "place_type": null,
-    "lat": null,
-    "long": null,
+    "lat": "45.13338",
+    "long": "8.452500",
     "comments intern": "",
     "gnd": ""
   }

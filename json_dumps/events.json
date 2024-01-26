@@ -864,7 +864,7 @@
             {
                 "id": 48,
                 "order": "48.00000000000000000000",
-                "name": "Preßburg",
+                "name": "Preßburg / Bratislava",
                 "geonames": "https://www.geonames.org/3060972/bratislava.html",
                 "emt_id": "emt_place_id__48",
                 "place_type": null,
@@ -1050,7 +1050,7 @@
             {
                 "id": 20,
                 "order": "20.00000000000000000000",
-                "name": "Frankfurt",
+                "name": "Frankfurt am Main",
                 "geonames": "https://www.geonames.org/2925533/frankfurt-am-main.html",
                 "emt_id": "emt_place_id__20",
                 "place_type": null,
@@ -1101,7 +1101,7 @@
             {
                 "id": 48,
                 "order": "48.00000000000000000000",
-                "name": "Preßburg",
+                "name": "Preßburg / Bratislava",
                 "geonames": "https://www.geonames.org/3060972/bratislava.html",
                 "emt_id": "emt_place_id__48",
                 "place_type": null,
@@ -1152,7 +1152,7 @@
             {
                 "id": 48,
                 "order": "48.00000000000000000000",
-                "name": "Preßburg",
+                "name": "Preßburg / Bratislava",
                 "geonames": "https://www.geonames.org/3060972/bratislava.html",
                 "emt_id": "emt_place_id__48",
                 "place_type": null,
@@ -2539,7 +2539,7 @@
             {
                 "id": 39,
                 "order": "39.00000000000000000000",
-                "name": "Neuburg",
+                "name": "Neuburg an der Donau",
                 "geonames": "https://www.geonames.org/2866070/neuburg-an-der-donau.html",
                 "emt_id": "emt_place_id__39",
                 "place_type": null,
@@ -2734,7 +2734,7 @@
             {
                 "id": 39,
                 "order": "39.00000000000000000000",
-                "name": "Neuburg",
+                "name": "Neuburg an der Donau",
                 "geonames": "https://www.geonames.org/2866070/neuburg-an-der-donau.html",
                 "emt_id": "emt_place_id__39",
                 "place_type": null,
@@ -2925,7 +2925,7 @@
             {
                 "id": 39,
                 "order": "39.00000000000000000000",
-                "name": "Neuburg",
+                "name": "Neuburg an der Donau",
                 "geonames": "https://www.geonames.org/2866070/neuburg-an-der-donau.html",
                 "emt_id": "emt_place_id__39",
                 "place_type": null,
@@ -3218,7 +3218,7 @@
             {
                 "id": 39,
                 "order": "39.00000000000000000000",
-                "name": "Neuburg",
+                "name": "Neuburg an der Donau",
                 "geonames": "https://www.geonames.org/2866070/neuburg-an-der-donau.html",
                 "emt_id": "emt_place_id__39",
                 "place_type": null,
@@ -3596,7 +3596,7 @@
             {
                 "id": 39,
                 "order": "39.00000000000000000000",
-                "name": "Neuburg",
+                "name": "Neuburg an der Donau",
                 "geonames": "https://www.geonames.org/2866070/neuburg-an-der-donau.html",
                 "emt_id": "emt_place_id__39",
                 "place_type": null,
@@ -3719,7 +3719,7 @@
             {
                 "id": 39,
                 "order": "39.00000000000000000000",
-                "name": "Neuburg",
+                "name": "Neuburg an der Donau",
                 "geonames": "https://www.geonames.org/2866070/neuburg-an-der-donau.html",
                 "emt_id": "emt_place_id__39",
                 "place_type": null,
@@ -3770,7 +3770,7 @@
             {
                 "id": 105,
                 "order": "103.00000000000000000000",
-                "name": "Raudnitz",
+                "name": "Raudnitz / Roudnice nad Labem",
                 "geonames": "https://www.geonames.org/3066727/roudnice-nad-labem.html",
                 "emt_id": "emt_place_id__105",
                 "place_type": null,
@@ -3893,7 +3893,7 @@
             {
                 "id": 39,
                 "order": "39.00000000000000000000",
-                "name": "Neuburg",
+                "name": "Neuburg an der Donau",
                 "geonames": "https://www.geonames.org/2866070/neuburg-an-der-donau.html",
                 "emt_id": "emt_place_id__39",
                 "place_type": null,
@@ -4139,7 +4139,7 @@
             {
                 "id": 59,
                 "order": "59.00000000000000000000",
-                "name": "Warschau",
+                "name": "Warschau / Warszawa",
                 "geonames": "https://www.geonames.org/756135/warsaw.html",
                 "emt_id": "emt_place_id__59",
                 "place_type": null,
@@ -4211,7 +4211,7 @@
             {
                 "id": 106,
                 "order": "104.00000000000000000000",
-                "name": "Ohlau",
+                "name": "Ohlau / Oława",
                 "geonames": "https://www.geonames.org/3090205/olawa.html",
                 "emt_id": "emt_place_id__106",
                 "place_type": null,
@@ -4262,7 +4262,7 @@
             {
                 "id": 39,
                 "order": "39.00000000000000000000",
-                "name": "Neuburg",
+                "name": "Neuburg an der Donau",
                 "geonames": "https://www.geonames.org/2866070/neuburg-an-der-donau.html",
                 "emt_id": "emt_place_id__39",
                 "place_type": null,
@@ -4559,7 +4559,7 @@
             {
                 "id": 20,
                 "order": "20.00000000000000000000",
-                "name": "Frankfurt",
+                "name": "Frankfurt am Main",
                 "geonames": "https://www.geonames.org/2925533/frankfurt-am-main.html",
                 "emt_id": "emt_place_id__20",
                 "place_type": null,
@@ -4714,7 +4714,7 @@
             {
                 "id": 108,
                 "order": "106.00000000000000000000",
-                "name": "Nimwegen",
+                "name": "Nimwegen / Nijmegen",
                 "geonames": "https://www.geonames.org/2750053/nijmegen.html",
                 "emt_id": "emt_place_id__108",
                 "place_type": null,
@@ -4878,7 +4878,7 @@
             {
                 "id": 136,
                 "order": "134.00000000000000000000",
-                "name": "Karlowitz",
+                "name": "Karlowitz / Sremski Karlovci",
                 "geonames": "https://www.geonames.org/3190101/sremski-karlovci.html",
                 "emt_id": "emt_place_id__136",
                 "place_type": null,
@@ -4965,7 +4965,7 @@
             {
                 "id": 134,
                 "order": "132.00000000000000000000",
-                "name": "Zenta",
+                "name": "Zenta / Senta",
                 "geonames": "https://www.geonames.org/785965/senta.html",
                 "emt_id": "emt_place_id__134",
                 "place_type": null,
@@ -5039,7 +5039,7 @@
             {
                 "id": 133,
                 "order": "131.00000000000000000000",
-                "name": "Slankamen",
+                "name": "Slankamen / Novi Slankamen",
                 "geonames": "https://www.geonames.org/787592/novi-slankamen.html",
                 "emt_id": "emt_place_id__133",
                 "place_type": null,

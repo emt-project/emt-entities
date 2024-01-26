@@ -192,7 +192,7 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                   <idno type="GEONAMES">https://sws.geonames.org/3054643/</idno>
                </place>
                <place xml:id="emt_place_id__20">
-                  <placeName>Frankfurt</placeName>
+                  <placeName>Frankfurt am Main</placeName>
                   <location type="coords">
                      <geo>50.11552 8.684170</geo>
                   </location>
@@ -325,7 +325,7 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                   <idno type="GEONAMES">https://sws.geonames.org/2867037/</idno>
                </place>
                <place xml:id="emt_place_id__39">
-                  <placeName>Neuburg</placeName>
+                  <placeName>Neuburg an der Donau</placeName>
                   <location type="coords">
                      <geo>48.73218 11.187090</geo>
                   </location>
@@ -339,7 +339,7 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                   <idno type="GEONAMES">https://sws.geonames.org/2864054/</idno>
                </place>
                <place xml:id="emt_place_id__41">
-                  <placeName>Pardubice</placeName>
+                  <placeName>Pardubitz / Pardubice</placeName>
                   <location type="coords">
                      <geo>50.04075 15.776590</geo>
                   </location>
@@ -381,14 +381,14 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                   <idno type="GEONAMES">https://sws.geonames.org/2768472/</idno>
                </place>
                <place xml:id="emt_place_id__47">
-                  <placeName>Prag</placeName>
+                  <placeName>Prag / Praha</placeName>
                   <location type="coords">
                      <geo>50.08804 14.420760</geo>
                   </location>
                   <idno type="GEONAMES">https://sws.geonames.org/3067696/</idno>
                </place>
                <place xml:id="emt_place_id__48">
-                  <placeName>Preßburg</placeName>
+                  <placeName>Preßburg / Bratislava</placeName>
                   <location type="coords">
                      <geo>48.14816 17.106740</geo>
                   </location>
@@ -460,7 +460,7 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                   <placeName>Swolinewetz?</placeName>
                </place>
                <place xml:id="emt_place_id__59">
-                  <placeName>Warschau</placeName>
+                  <placeName>Warschau / Warszawa</placeName>
                   <location type="coords">
                      <geo>52.22977 21.011780</geo>
                   </location>
@@ -746,14 +746,14 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                   <idno type="GEONAMES">https://sws.geonames.org/3121070/</idno>
                </place>
                <place xml:id="emt_place_id__105">
-                  <placeName>Raudnitz</placeName>
+                  <placeName>Raudnitz / Roudnice nad Labem</placeName>
                   <location type="coords">
                      <geo>50.42528 14.261750</geo>
                   </location>
                   <idno type="GEONAMES">https://sws.geonames.org/3066727/</idno>
                </place>
                <place xml:id="emt_place_id__106">
-                  <placeName>Ohlau</placeName>
+                  <placeName>Ohlau / Oława</placeName>
                   <location type="coords">
                      <geo>50.94660 17.292600</geo>
                   </location>
@@ -767,7 +767,7 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                   <idno type="GEONAMES">https://sws.geonames.org/2946447/</idno>
                </place>
                <place xml:id="emt_place_id__108">
-                  <placeName>Nimwegen</placeName>
+                  <placeName>Nimwegen / Nijmegen</placeName>
                   <location type="coords">
                      <geo>51.84250 5.852780</geo>
                   </location>
@@ -904,7 +904,7 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                   <placeName>Meriendahl, dort wird Bruder 1679 gewählt (Deutscher Orden)</placeName>
                </place>
                <place xml:id="emt_place_id__130">
-                  <placeName>Svatá Hora / Heiliger Berg</placeName>
+                  <placeName>Heiliger Berg / Svatá Hora</placeName>
                   <location type="coords">
                      <geo>49.68333 14.016670</geo>
                   </location>
@@ -925,14 +925,14 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                   <idno type="GEONAMES">https://sws.geonames.org/792680/</idno>
                </place>
                <place xml:id="emt_place_id__133">
-                  <placeName>Slankamen</placeName>
+                  <placeName>Slankamen / Novi Slankamen</placeName>
                   <location type="coords">
                      <geo>45.12554 20.239140</geo>
                   </location>
                   <idno type="GEONAMES">https://sws.geonames.org/787592/</idno>
                </place>
                <place xml:id="emt_place_id__134">
-                  <placeName>Zenta</placeName>
+                  <placeName>Zenta / Senta</placeName>
                   <location type="coords">
                      <geo>45.92750 20.077220</geo>
                   </location>
@@ -946,7 +946,7 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                   <idno type="GEONAMES">https://sws.geonames.org/2748076/</idno>
                </place>
                <place xml:id="emt_place_id__136">
-                  <placeName>Karlowitz</placeName>
+                  <placeName>Karlowitz / Sremski Karlovci</placeName>
                   <location type="coords">
                      <geo>45.20285 19.933730</geo>
                   </location>
@@ -1010,6 +1010,7 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                      <geo>48.33333 15.750000</geo>
                   </location>
                   <idno type="GEONAMES">https://sws.geonames.org/2770542/</idno>
+                  <idno type="GND">https://d-nb.info/gnd/4075391-8</idno>
                </place>
                <place xml:id="emt_place_id__146">
                   <placeName>Hamburg</placeName>
@@ -1034,39 +1035,88 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                </place>
                <place xml:id="emt_place_id__149">
                   <placeName>Ungarn</placeName>
+                  <location type="coords">
+                     <geo>47.00000 20.000000</geo>
+                  </location>
+                  <idno type="GEONAMES">https://sws.geonames.org/719819/</idno>
+                  <idno type="GND">https://d-nb.info/gnd/4078541-5</idno>
                </place>
                <place xml:id="emt_place_id__150">
                   <placeName>Oberösterreich / Land ob der Enns</placeName>
+                  <location type="coords">
+                     <geo>48.25000 14.000000</geo>
+                  </location>
+                  <idno type="GEONAMES">https://sws.geonames.org/2769848/</idno>
+                  <idno type="GND">https://d-nb.info/gnd/4075560-5</idno>
                </place>
                <place xml:id="emt_place_id__151">
                   <placeName>Lyon</placeName>
+                  <location type="coords">
+                     <geo>45.74846 4.846710</geo>
+                  </location>
+                  <idno type="GEONAMES">https://sws.geonames.org/2996944/</idno>
                </place>
                <place xml:id="emt_place_id__152">
                   <placeName>Schweiz</placeName>
+                  <location type="coords">
+                     <geo>47.00016 8.014270</geo>
+                  </location>
+                  <idno type="GEONAMES">https://sws.geonames.org/2658434/</idno>
+                  <idno type="GND">https://d-nb.info/gnd/4053881-3</idno>
                </place>
                <place xml:id="emt_place_id__153">
                   <placeName>Mannersdorf am Leithagebirge</placeName>
+                  <location type="coords">
+                     <geo>47.96667 16.600000</geo>
+                  </location>
+                  <idno type="GEONAMES">https://sws.geonames.org/2772003/</idno>
                </place>
                <place xml:id="emt_place_id__154">
                   <placeName>Schweden</placeName>
+                  <location type="coords">
+                     <geo>62.00000 15.000000</geo>
+                  </location>
+                  <idno type="GEONAMES">https://sws.geonames.org/2661886/</idno>
                </place>
                <place xml:id="emt_place_id__155">
                   <placeName>Steiermark</placeName>
+                  <location type="coords">
+                     <geo>47.25000 15.166670</geo>
+                  </location>
+                  <idno type="GEONAMES">https://sws.geonames.org/2764581/</idno>
+                  <idno type="GND">https://d-nb.info/gnd/4057092-7</idno>
                </place>
                <place xml:id="emt_place_id__156">
                   <placeName>Malta</placeName>
+                  <location type="coords">
+                     <geo>35.88182 14.449080</geo>
+                  </location>
+                  <idno type="GEONAMES">https://sws.geonames.org/2562772/</idno>
                </place>
                <place xml:id="emt_place_id__157">
                   <placeName>Eisenstadt</placeName>
+                  <location type="coords">
+                     <geo>47.84565 16.523270</geo>
+                  </location>
+                  <idno type="GEONAMES">https://sws.geonames.org/2780190/</idno>
                </place>
                <place xml:id="emt_place_id__158">
                   <placeName>Nordgau</placeName>
+                  <idno type="GND">https://d-nb.info/gnd/4293553-2</idno>
                </place>
                <place xml:id="emt_place_id__159">
                   <placeName>Kaisheim</placeName>
+                  <location type="coords">
+                     <geo>48.76751 10.796390</geo>
+                  </location>
+                  <idno type="GEONAMES">https://sws.geonames.org/2893983/</idno>
                </place>
                <place xml:id="emt_place_id__160">
                   <placeName>Casale Monferrato</placeName>
+                  <location type="coords">
+                     <geo>45.13338 8.452500</geo>
+                  </location>
+                  <idno type="GEONAMES">https://sws.geonames.org/3180208/</idno>
                </place>
             </listPlace>
          </div>
