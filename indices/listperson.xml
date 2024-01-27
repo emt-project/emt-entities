@@ -2802,6 +2802,24 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                      <date notBefore="1681-01-01" notAfter="1681-12-31">1681</date>
                   </death>
                </person>
+               <person xml:id="emt_person_id__291">
+                  <persName>Kardinal Albrizzi 1678</persName>
+               </person>
+               <person xml:id="emt_person_id__292">
+                  <persName>Denzel, Herr, soll 1678 mit PW nach Wien reisen</persName>
+               </person>
+               <person xml:id="emt_person_id__293">
+                  <persName>Egloff, Herr, soll 1678 mit PW nach Wien reisen</persName>
+               </person>
+               <person xml:id="emt_person_id__294">
+                  <persName>Serni, Herr, wird wegen seines Alters wohl PW 1678 nicht nach Wien begleiten</persName>
+               </person>
+               <person xml:id="emt_person_id__295">
+                  <persName>Lemmel, Herr, ist kein großer Höfling und wird deshalb 1678  nicht mit PW nach Wien reisen</persName>
+               </person>
+               <person xml:id="emt_person_id__296">
+                  <persName>Obersthofmeisterin 1678, wahrscheinlich der Herzogin von Pfalz-Neuburg</persName>
+               </person>
             </listPerson>
          </div>
       </body>
