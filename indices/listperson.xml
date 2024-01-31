@@ -1697,7 +1697,7 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                   </figure>
                </person>
                <person xml:id="emt_person_id__150">
-                  <persName>Jägermeister Kaiser Leopolds I. 1677</persName>
+                  <persName>Jägermeister Kaiser Leopolds I. 1677 und 1681</persName>
                </person>
                <person xml:id="emt_person_id__151">
                   <persName>Bevilacqua, Luigi</persName>
@@ -2819,6 +2819,30 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                </person>
                <person xml:id="emt_person_id__296">
                   <persName>Obersthofmeisterin 1678, wahrscheinlich der Herzogin von Pfalz-Neuburg</persName>
+               </person>
+               <person xml:id="emt_person_id__297">
+                  <persName>Herberstein, Herr, reist nach Neuburg</persName>
+               </person>
+               <person xml:id="emt_person_id__298">
+                  <persName>Sebesteni, wahrscheinlich ungarischer Würdenträger, Landtag 1681</persName>
+               </person>
+               <person xml:id="emt_person_id__299">
+                  <persName>Mann in der blauen Decke, auf ihn vertraut EMT hinsichtlich des erfolges des ungarischen Landtages</persName>
+               </person>
+               <person xml:id="emt_person_id__300">
+                  <persName>Marie Louise von Spanien, geb. Orleans</persName>
+               </person>
+               <person xml:id="emt_person_id__301">
+                  <persName>Anselm Franz von Ingelheim, Kurfürst von Mainz</persName>
+               </person>
+               <person xml:id="emt_person_id__302">
+                  <persName>Merbel, führt im Auftrag der Kaiserin-Witwe in Wien einen ungarischen Tanz auf 1681</persName>
+               </person>
+               <person xml:id="emt_person_id__303">
+                  <persName>Eberhard Ludwig von Württemberg</persName>
+               </person>
+               <person xml:id="emt_person_id__304">
+                  <persName>Castell, für ihn soll Leopold I. 1681 den Herzog von Württemberg günstig stimmen</persName>
                </person>
             </listPerson>
          </div>

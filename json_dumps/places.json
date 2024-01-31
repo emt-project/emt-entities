@@ -1894,5 +1894,53 @@
     "long": "8.452500",
     "comments intern": "",
     "gnd": ""
+  },
+  "161": {
+    "id": 161,
+    "order": "159.00000000000000000000",
+    "name": "Elsass",
+    "geonames": "",
+    "emt_id": "emt_place_id__161",
+    "place_type": null,
+    "lat": null,
+    "long": null,
+    "comments intern": "",
+    "gnd": ""
+  },
+  "162": {
+    "id": 162,
+    "order": "160.00000000000000000000",
+    "name": "Schwaben",
+    "geonames": "",
+    "emt_id": "emt_place_id__162",
+    "place_type": null,
+    "lat": null,
+    "long": null,
+    "comments intern": "",
+    "gnd": ""
+  },
+  "163": {
+    "id": 163,
+    "order": "161.00000000000000000000",
+    "name": "Rhein, Fluss",
+    "geonames": "",
+    "emt_id": "emt_place_id__163",
+    "place_type": null,
+    "lat": null,
+    "long": null,
+    "comments intern": "",
+    "gnd": ""
+  },
+  "164": {
+    "id": 164,
+    "order": "162.00000000000000000000",
+    "name": "Ort, an dem sich Vetter Philipp Ende 1681 aufhält",
+    "geonames": "",
+    "emt_id": "emt_place_id__164",
+    "place_type": null,
+    "lat": null,
+    "long": null,
+    "comments intern": "",
+    "gnd": ""
   }
 }

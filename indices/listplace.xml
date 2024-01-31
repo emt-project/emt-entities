@@ -1118,6 +1118,18 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                   </location>
                   <idno type="GEONAMES">https://sws.geonames.org/3180208/</idno>
                </place>
+               <place xml:id="emt_place_id__161">
+                  <placeName>Elsass</placeName>
+               </place>
+               <place xml:id="emt_place_id__162">
+                  <placeName>Schwaben</placeName>
+               </place>
+               <place xml:id="emt_place_id__163">
+                  <placeName>Rhein, Fluss</placeName>
+               </place>
+               <place xml:id="emt_place_id__164">
+                  <placeName>Ort, an dem sich Vetter Philipp Ende 1681 aufhält</placeName>
+               </place>
             </listPlace>
          </div>
       </body>
