@@ -1942,5 +1942,41 @@
     "long": null,
     "comments intern": "",
     "gnd": ""
+  },
+  "165": {
+    "id": 165,
+    "order": "163.00000000000000000000",
+    "name": "Bubensch, Tiergarten bei Brandeis",
+    "geonames": "",
+    "emt_id": "emt_place_id__165",
+    "place_type": null,
+    "lat": null,
+    "long": null,
+    "comments intern": "",
+    "gnd": ""
+  },
+  "166": {
+    "id": 166,
+    "order": "164.00000000000000000000",
+    "name": "Prag, Schloss Stern",
+    "geonames": "",
+    "emt_id": "emt_place_id__166",
+    "place_type": null,
+    "lat": null,
+    "long": null,
+    "comments intern": "",
+    "gnd": ""
+  },
+  "167": {
+    "id": 167,
+    "order": "165.00000000000000000000",
+    "name": "Hols, Jagdgebiet bei Neuburg oder Düsseldorf",
+    "geonames": "",
+    "emt_id": "emt_place_id__167",
+    "place_type": null,
+    "lat": null,
+    "long": null,
+    "comments intern": "",
+    "gnd": ""
   }
 }

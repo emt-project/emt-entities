@@ -1697,7 +1697,7 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                   </figure>
                </person>
                <person xml:id="emt_person_id__150">
-                  <persName>Jägermeister Kaiser Leopolds I. 1677 und 1681</persName>
+                  <persName>Jägermeister Kaiser Leopolds I. 1677, 1679 (in Prag) und 1681</persName>
                </person>
                <person xml:id="emt_person_id__151">
                   <persName>Bevilacqua, Luigi</persName>
@@ -2843,6 +2843,27 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                </person>
                <person xml:id="emt_person_id__304">
                   <persName>Castell, für ihn soll Leopold I. 1681 den Herzog von Württemberg günstig stimmen</persName>
+               </person>
+               <person xml:id="emt_person_id__305">
+                  <persName>Ferdinand Maria Kurfürst von Bayern</persName>
+                  <birth>
+                     <date notBefore="1636-01-01" notAfter="1636-12-31">1636</date>
+                  </birth>
+                  <death>
+                     <date notBefore="1679-01-01" notAfter="1679-12-31">1679</date>
+                  </death>
+               </person>
+               <person xml:id="emt_person_id__306">
+                  <persName>Burnacini, für ihn werden 1679 Empfehlungsschreiben übermittelt</persName>
+               </person>
+               <person xml:id="emt_person_id__307">
+                  <persName>Graf Dering, Sohn der kaiserlichen Aya 1681</persName>
+               </person>
+               <person xml:id="emt_person_id__308">
+                  <persName>Aya der kaiserlichen Kinder 1681</persName>
+               </person>
+               <person xml:id="emt_person_id__309">
+                  <persName>Ansalone, EMT soll ihn 1681 an den Kaiser empfehlen</persName>
                </person>
             </listPerson>
          </div>

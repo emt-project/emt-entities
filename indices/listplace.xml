@@ -1130,6 +1130,15 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                <place xml:id="emt_place_id__164">
                   <placeName>Ort, an dem sich Vetter Philipp Ende 1681 aufhält</placeName>
                </place>
+               <place xml:id="emt_place_id__165">
+                  <placeName>Bubensch, Tiergarten bei Brandeis</placeName>
+               </place>
+               <place xml:id="emt_place_id__166">
+                  <placeName>Prag, Schloss Stern</placeName>
+               </place>
+               <place xml:id="emt_place_id__167">
+                  <placeName>Hols, Jagdgebiet bei Neuburg oder Düsseldorf</placeName>
+               </place>
             </listPlace>
          </div>
       </body>
