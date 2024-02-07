@@ -1617,7 +1617,7 @@
     "lat": null,
     "long": null,
     "comments intern": "",
-    "gnd": ""
+    "gnd": "https://d-nb.info/gnd/4279563-1"
   },
   "138": {
     "id": 138,
@@ -1899,13 +1899,13 @@
     "id": 161,
     "order": "159.00000000000000000000",
     "name": "Elsass",
-    "geonames": "",
+    "geonames": "https://www.geonames.org/3038033/alsace.html",
     "emt_id": "emt_place_id__161",
     "place_type": null,
-    "lat": null,
-    "long": null,
+    "lat": "48.33333",
+    "long": "7.433330",
     "comments intern": "",
-    "gnd": ""
+    "gnd": "https://d-nb.info/gnd/10045144-5"
   },
   "162": {
     "id": 162,
@@ -1917,17 +1917,17 @@
     "lat": null,
     "long": null,
     "comments intern": "",
-    "gnd": ""
+    "gnd": "https://d-nb.info/gnd/4053668-3"
   },
   "163": {
     "id": 163,
     "order": "161.00000000000000000000",
     "name": "Rhein, Fluss",
-    "geonames": "",
+    "geonames": "https://www.geonames.org/10347650/rhein.html",
     "emt_id": "emt_place_id__163",
     "place_type": null,
-    "lat": null,
-    "long": null,
+    "lat": "47.17632",
+    "long": "9.487930",
     "comments intern": "",
     "gnd": ""
   },
@@ -1947,13 +1947,13 @@
     "id": 165,
     "order": "163.00000000000000000000",
     "name": "Bubensch, Tiergarten bei Brandeis",
-    "geonames": "",
+    "geonames": "https://www.geonames.org/3078526/bubenec.html",
     "emt_id": "emt_place_id__165",
     "place_type": null,
-    "lat": null,
-    "long": null,
+    "lat": "50.10921",
+    "long": "14.406600",
     "comments intern": "",
-    "gnd": ""
+    "gnd": "https://d-nb.info/gnd/7521783-1"
   },
   "166": {
     "id": 166,
@@ -1965,7 +1965,7 @@
     "lat": null,
     "long": null,
     "comments intern": "",
-    "gnd": ""
+    "gnd": "https://d-nb.info/gnd/4441054-2"
   },
   "167": {
     "id": 167,

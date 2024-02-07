@@ -954,6 +954,7 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                </place>
                <place xml:id="emt_place_id__137">
                   <placeName>Breslau, Bistum</placeName>
+                  <idno type="GND">https://d-nb.info/gnd/4279563-1</idno>
                </place>
                <place xml:id="emt_place_id__138">
                   <placeName>Heitersheim</placeName>
@@ -1120,21 +1121,37 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                </place>
                <place xml:id="emt_place_id__161">
                   <placeName>Elsass</placeName>
+                  <location type="coords">
+                     <geo>48.33333 7.433330</geo>
+                  </location>
+                  <idno type="GEONAMES">https://sws.geonames.org/3038033/</idno>
+                  <idno type="GND">https://d-nb.info/gnd/10045144-5</idno>
                </place>
                <place xml:id="emt_place_id__162">
                   <placeName>Schwaben</placeName>
+                  <idno type="GND">https://d-nb.info/gnd/4053668-3</idno>
                </place>
                <place xml:id="emt_place_id__163">
                   <placeName>Rhein, Fluss</placeName>
+                  <location type="coords">
+                     <geo>47.17632 9.487930</geo>
+                  </location>
+                  <idno type="GEONAMES">https://sws.geonames.org/10347650/</idno>
                </place>
                <place xml:id="emt_place_id__164">
                   <placeName>Ort, an dem sich Vetter Philipp Ende 1681 aufhält</placeName>
                </place>
                <place xml:id="emt_place_id__165">
                   <placeName>Bubensch, Tiergarten bei Brandeis</placeName>
+                  <location type="coords">
+                     <geo>50.10921 14.406600</geo>
+                  </location>
+                  <idno type="GEONAMES">https://sws.geonames.org/3078526/</idno>
+                  <idno type="GND">https://d-nb.info/gnd/7521783-1</idno>
                </place>
                <place xml:id="emt_place_id__166">
                   <placeName>Prag, Schloss Stern</placeName>
+                  <idno type="GND">https://d-nb.info/gnd/4441054-2</idno>
                </place>
                <place xml:id="emt_place_id__167">
                   <placeName>Hols, Jagdgebiet bei Neuburg oder Düsseldorf</placeName>

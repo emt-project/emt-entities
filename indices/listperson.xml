@@ -1252,7 +1252,7 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                   </figure>
                </person>
                <person xml:id="emt_person_id__102">
-                  <persName>Hans Eitel Diede zum Fürstenstein</persName>
+                  <persName>Hans Eitel Diede zum Fürstenstein, hessischer Gesandter</persName>
                   <birth>
                      <date notBefore="1624-01-01" notAfter="1624-12-31">1624</date>
                   </birth>
@@ -1970,7 +1970,15 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                   <idno type="NDB">https://www.deutsche-biographie.de/sfz37575.html#indexcontent</idno>
                </person>
                <person xml:id="emt_person_id__189">
-                  <persName>Fugger, Graf, hat wohl Hofamt bei PW inne (1679)</persName>
+                  <persName>Franz Ernst von Fugger, Hofmeister</persName>
+                  <birth>
+                     <date notBefore="1648-01-01" notAfter="1648-12-31">1648</date>
+                  </birth>
+                  <death>
+                     <date notBefore="1711-01-01" notAfter="1711-12-31">1711</date>
+                  </death>
+                  <idno type="GND">https://d-nb.info/gnd/136021026</idno>
+                  <idno type="NDB">https://www.deutsche-biographie.de/sfz18002.html</idno>
                </person>
                <person xml:id="emt_person_id__190">
                   <persName>Marta Glass, Hebamme</persName>
@@ -2196,7 +2204,14 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                   <persName>Erzbischof, der ein Archidiakonat verleiht, das Juan José de Austria inne hatte</persName>
                </person>
                <person xml:id="emt_person_id__217">
-                  <persName>Venezianischer Botschafter am Kaiserhof 1679</persName>
+                  <persName>Ascanio Giustinian, venezianischer Botschafter</persName>
+                  <birth>
+                     <date notBefore="1640-01-01" notAfter="1640-12-31">1640</date>
+                  </birth>
+                  <death>
+                     <date notBefore="1715-01-01" notAfter="1715-12-31">1715</date>
+                  </death>
+                  <idno type="URL">https://www.treccani.it/enciclopedia/giustinian-ascanio-detto-giulio_(Dizionario-Biografico)/?search=GIUSTINIAN%2C%20Ascanio%2C%20detto%20Giulio</idno>
                </person>
                <person xml:id="emt_person_id__218">
                   <persName/>
@@ -2221,7 +2236,14 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                   <persName>Mutter Euphrasia, Äbtissin in Wien 1679</persName>
                </person>
                <person xml:id="emt_person_id__221">
-                  <persName>Spanischer Botschafter in Wien 1679</persName>
+                  <persName>Diego Antonio Felicio de Croy y Peralta Marques de Falces, spanischer Botschafter</persName>
+                  <birth>
+                     <date notBefore="1618-01-01" notAfter="1618-12-31">1618</date>
+                  </birth>
+                  <death>
+                     <date notBefore="1682-01-01" notAfter="1682-12-31">1682</date>
+                  </death>
+                  <idno type="URL">https://dbe.rah.es/biografias/42201/diego-antonio-felicio-de-croy-y-peralta</idno>
                </person>
                <person xml:id="emt_person_id__222">
                   <persName>Welden, Herr von</persName>
@@ -2532,7 +2554,7 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                   <persName>Herr von Stadion</persName>
                </person>
                <person xml:id="emt_person_id__256">
-                  <persName>Rougemont, Herr de, neuburgischer Resident in Brüssel 1680</persName>
+                  <persName>Jean de Rougemont, Resident in Brüssel</persName>
                </person>
                <person xml:id="emt_person_id__257">
                   <persName>Roßeler / Raßeler</persName>
@@ -2656,7 +2678,7 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                   </figure>
                </person>
                <person xml:id="emt_person_id__274">
-                  <persName>Gabriel Oxenstierna, schwedischer Gesandter</persName>
+                  <persName>Gabriel Oxenstierna, schwedischer Botschafter</persName>
                   <birth>
                      <date notBefore="1642-01-01" notAfter="1642-12-31">1642</date>
                   </birth>
@@ -2741,7 +2763,7 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                   <persName>Burg, Obrist</persName>
                </person>
                <person xml:id="emt_person_id__284">
-                  <persName>Falces, reist von Wien nach Spanien</persName>
+                  <persName>Falces, reist von Wien nach Spanien - mit 221 zusammenfassen !!!</persName>
                </person>
                <person xml:id="emt_person_id__285">
                   <persName>Ferdinand Ernst von Mollard</persName>
@@ -2783,7 +2805,8 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                   </figure>
                </person>
                <person xml:id="emt_person_id__288">
-                  <persName>Resident des Kaisers in Straßburg 1681</persName>
+                  <persName>Franz Michael Neveu von Windschläg, Resident des Kaisers in Straßburg 1681</persName>
+                  <idno type="URL">https://hls-dhs-dss.ch/de/articles/022061/2008-08-27/</idno>
                </person>
                <person xml:id="emt_person_id__289">
                   <persName>Johann Balthasar von Hoyos</persName>
@@ -2803,7 +2826,20 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                   </death>
                </person>
                <person xml:id="emt_person_id__291">
-                  <persName>Kardinal Albrizzi 1678</persName>
+                  <persName>Mario Alberizzi, Kardinal</persName>
+                  <birth>
+                     <date notBefore="1609-01-01" notAfter="1609-12-31">1609</date>
+                  </birth>
+                  <death>
+                     <date notBefore="1680-01-01" notAfter="1680-12-31">1680</date>
+                  </death>
+                  <idno type="GND">https://d-nb.info/gnd/1017620601</idno>
+                  <idno type="WIKIDATA">http://www.wikidata.org/entity/Q3293329</idno>
+                  <idno type="URL">https://cardinals.fiu.edu/bios1675.htm#Alberizzi</idno>
+                  <figure>
+                     <graphic url="emt_person_id__291.jpg"/>
+                     <caption>Portret van kardinaal Mario Alberizzi Effigies Cardinalium nunc viventium (serietitel), RP-P-1909-4366.jpg</caption>
+                  </figure>
                </person>
                <person xml:id="emt_person_id__292">
                   <persName>Denzel, Herr, soll 1678 mit PW nach Wien reisen</persName>
@@ -2821,25 +2857,58 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                   <persName>Obersthofmeisterin 1678, wahrscheinlich der Herzogin von Pfalz-Neuburg</persName>
                </person>
                <person xml:id="emt_person_id__297">
-                  <persName>Herberstein, Herr, reist nach Neuburg</persName>
+                  <persName>Herberstein, Herr, reist 1681 nach Neuburg</persName>
                </person>
                <person xml:id="emt_person_id__298">
-                  <persName>Sebesteni, wahrscheinlich ungarischer Würdenträger, Landtag 1681</persName>
+                  <persName>Sebestyéni, András</persName>
+                  <death>
+                     <date notBefore="1683-01-01" notAfter="1683-12-31">1683</date>
+                  </death>
+                  <idno type="URL">https://www.uni-miskolc.hu/~bolweb/dok/varikotet/05-gyulai-eva.pdf</idno>
                </person>
                <person xml:id="emt_person_id__299">
                   <persName>Mann in der blauen Decke, auf ihn vertraut EMT hinsichtlich des erfolges des ungarischen Landtages</persName>
                </person>
                <person xml:id="emt_person_id__300">
                   <persName>Marie Louise von Spanien, geb. Orleans</persName>
+                  <birth>
+                     <date notBefore="1662-01-01" notAfter="1662-12-31">1662</date>
+                  </birth>
+                  <death>
+                     <date notBefore="1689-01-01" notAfter="1689-12-31">1689</date>
+                  </death>
+                  <idno type="GND">https://d-nb.info/gnd/104189576</idno>
+                  <idno type="NDB">https://www.deutsche-biographie.de/sfz58375.html#indexcontent</idno>
+                  <idno type="WIKIDATA">http://www.wikidata.org/entity/Q229076</idno>
+                  <figure>
+                     <graphic url="emt_person_id__300.jpg"/>
+                     <caption>Marie-Louise d'Orléans, reine d'Espagne.jpg</caption>
+                  </figure>
                </person>
                <person xml:id="emt_person_id__301">
                   <persName>Anselm Franz von Ingelheim, Kurfürst von Mainz</persName>
+                  <birth>
+                     <date notBefore="1634-01-01" notAfter="1634-12-31">1634</date>
+                  </birth>
+                  <death>
+                     <date notBefore="1695-01-01" notAfter="1695-12-31">1695</date>
+                  </death>
+                  <idno type="GND">https://d-nb.info/gnd/118971344</idno>
+                  <idno type="NDB">https://www.deutsche-biographie.de/sfz35169.html#indexcontent</idno>
                </person>
                <person xml:id="emt_person_id__302">
                   <persName>Merbel, führt im Auftrag der Kaiserin-Witwe in Wien einen ungarischen Tanz auf 1681</persName>
                </person>
                <person xml:id="emt_person_id__303">
-                  <persName>Eberhard Ludwig von Württemberg</persName>
+                  <persName>Friedrich Karl von Württemberg-Winnental</persName>
+                  <birth>
+                     <date notBefore="1652-01-01" notAfter="1652-12-31">1652</date>
+                  </birth>
+                  <death>
+                     <date notBefore="1698-01-01" notAfter="1698-12-31">1698</date>
+                  </death>
+                  <idno type="GND">https://d-nb.info/gnd/1080678158</idno>
+                  <idno type="NDB">https://www.deutsche-biographie.de/sfz39283.html#indexcontent</idno>
                </person>
                <person xml:id="emt_person_id__304">
                   <persName>Castell, für ihn soll Leopold I. 1681 den Herzog von Württemberg günstig stimmen</persName>
@@ -2852,6 +2921,8 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                   <death>
                      <date notBefore="1679-01-01" notAfter="1679-12-31">1679</date>
                   </death>
+                  <idno type="GND">https://d-nb.info/gnd/119105691</idno>
+                  <idno type="NDB">https://www.deutsche-biographie.de/sfz56889.html#indexcontent</idno>
                </person>
                <person xml:id="emt_person_id__306">
                   <persName>Burnacini, für ihn werden 1679 Empfehlungsschreiben übermittelt</persName>
@@ -2863,7 +2934,14 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                   <persName>Aya der kaiserlichen Kinder 1681</persName>
                </person>
                <person xml:id="emt_person_id__309">
-                  <persName>Ansalone, EMT soll ihn 1681 an den Kaiser empfehlen</persName>
+                  <persName>Ansalone, Ferdinand Maria</persName>
+                  <birth>
+                     <date notBefore="1658-01-01" notAfter="1658-12-31">1658</date>
+                  </birth>
+                  <death>
+                     <date notBefore="1709-01-01" notAfter="1709-12-31">1709</date>
+                  </death>
+                  <idno type="URL">https://www.musiklexikon.ac.at/ml/musik_A/Ansoloni_Familie.xml</idno>
                </person>
             </listPerson>
          </div>
