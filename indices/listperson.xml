@@ -698,10 +698,19 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                   </figure>
                </person>
                <person xml:id="emt_person_id__52">
-                  <persName>Pater Poitier</persName>
+                  <persName>Karl von Pottier SJ</persName>
+                  <death>
+                     <date notBefore="1722-01-01" notAfter="1722-12-31">1722</date>
+                  </death>
                </person>
                <person xml:id="emt_person_id__53">
-                  <persName>Pater Wiser ?</persName>
+                  <persName>Johann Wiser SJ</persName>
+                  <birth>
+                     <date notBefore="1656-01-01" notAfter="1656-12-31">1656</date>
+                  </birth>
+                  <death>
+                     <date notBefore="1725-01-01" notAfter="1725-12-31">1725</date>
+                  </death>
                </person>
                <person xml:id="emt_person_id__54">
                   <persName>Maria Antonia von Bayern, geb. Österreich</persName>
@@ -734,7 +743,8 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                   </figure>
                </person>
                <person xml:id="emt_person_id__57">
-                  <persName>Velder ?</persName>
+                  <persName>Johann Christoph Veyder, Statthalter im Herzogtum Arenberg</persName>
+                  <idno type="URL">https://www.bitburg-pruem.de/cms/images/pdf/Schloss_Malberg_Teil_2_53C54_Verf_Dr_Peter_Neu_2020.pdf</idno>
                </person>
                <person xml:id="emt_person_id__58">
                   <persName>Maximilian von Starhemberg</persName>
@@ -1209,7 +1219,7 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                   <persName>Leibarzt EMT 1677 (betreut sie in Schwangerschaft, wahrscheinlich Huber)</persName>
                </person>
                <person xml:id="emt_person_id__99">
-                  <persName>Vincenzo Gonzaga</persName>
+                  <persName>Vincenzo Gonzaga di Guastalla</persName>
                   <birth>
                      <date notBefore="1605-01-01" notAfter="1605-12-31">1605</date>
                   </birth>
@@ -1406,10 +1416,20 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                   <idno type="NDB">https://www.deutsche-biographie.de/sfz48966.html#indexcontent</idno>
                </person>
                <person xml:id="emt_person_id__119">
-                  <persName>Graf von Velen, überbringt Gruß von Philipp Wilhelm 1677</persName>
+                  <persName>Alexander Otto von Velen</persName>
+                  <birth>
+                     <date notBefore="1657-01-01" notAfter="1657-12-31">1657</date>
+                  </birth>
+                  <death>
+                     <date notBefore="1727-01-01" notAfter="1727-12-31">1727</date>
+                  </death>
+                  <idno type="GND">https://d-nb.info/gnd/102930257X</idno>
+                  <idno type="NDB">https://www.deutsche-biographie.de/pnd102930257X.html#indexcontent</idno>
                </person>
                <person xml:id="emt_person_id__120">
-                  <persName>Graf Wolf (wohl: Wolf von Metternich), überbringt Schreiben von PW 1677</persName>
+                  <persName>Wolf von Metternich, Familie</persName>
+                  <idno type="GND">https://d-nb.info/gnd/133699536</idno>
+                  <idno type="WIKIDATA">http://www.wikidata.org/entity/Q1526678</idno>
                </person>
                <person xml:id="emt_person_id__121">
                   <persName>Emerich Sinelli OFMCap</persName>
@@ -1818,7 +1838,13 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                   <idno type="NDB">https://www.deutsche-biographie.de/sfz69714.html#indexcontent</idno>
                </person>
                <person xml:id="emt_person_id__167">
-                  <persName>Pater Packenius, Anfang 1678 auf Durchreise in Wien</persName>
+                  <persName>Johann Packenius SJ</persName>
+                  <birth>
+                     <date notBefore="1626-01-01" notAfter="1626-12-31">1626</date>
+                  </birth>
+                  <death>
+                     <date notBefore="1681-01-01" notAfter="1681-12-31">1681</date>
+                  </death>
                </person>
                <person xml:id="emt_person_id__168">
                   <persName>Wilhelm III. von Oranien</persName>
@@ -1865,7 +1891,7 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                   <persName>Hoffmann von Grünbühel, NN., vereh. Dietrichstein</persName>
                </person>
                <person xml:id="emt_person_id__173">
-                  <persName>Dietrichstein, Seyfried von</persName>
+                  <persName>Seyfried von Dietrichstein</persName>
                </person>
                <person xml:id="emt_person_id__174">
                   <persName>Charlotte von der Pfalz, geb. Hessen-Kassel</persName>
@@ -1919,7 +1945,16 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                   <idno type="NDB">https://www.deutsche-biographie.de/pnd1218005602.html#indexcontent</idno>
                </person>
                <person xml:id="emt_person_id__180">
-                  <persName>Mansfeld, Graf, begrüßt PW im Auftrag EMTs auf der Reise nach Wien 1678</persName>
+                  <persName>Heinrich von Mansfeld, 1690 Fürst von Fondi</persName>
+                  <birth>
+                     <date notBefore="1640-01-01" notAfter="1640-12-31">1640</date>
+                  </birth>
+                  <death>
+                     <date notBefore="1715-01-01" notAfter="1715-12-31">1715</date>
+                  </death>
+                  <idno type="GND">https://d-nb.info/gnd/121795063</idno>
+                  <idno type="NDB">https://www.deutsche-biographie.de/sfz57841.html#indexcontent</idno>
+                  <idno type="WIKIDATA">http://www.wikidata.org/entity/Q1597257</idno>
                </person>
                <person xml:id="emt_person_id__181">
                   <persName>Kollonitsch, soll Abschiedsgrüße EMTs an PW überbringen (Nov. 1678)</persName>
@@ -2246,7 +2281,7 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                   <idno type="URL">https://dbe.rah.es/biografias/42201/diego-antonio-felicio-de-croy-y-peralta</idno>
                </person>
                <person xml:id="emt_person_id__222">
-                  <persName>Welden, Herr von</persName>
+                  <persName>Franz von Welden</persName>
                </person>
                <person xml:id="emt_person_id__223">
                   <persName>Maria Sophie von Hamilton, geb. Weichs</persName>
