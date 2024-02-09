@@ -457,7 +457,11 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                   <idno type="GEONAMES">https://sws.geonames.org/7872827/</idno>
                </place>
                <place xml:id="emt_place_id__58">
-                  <placeName>Swolinewetz?</placeName>
+                  <placeName>Zvoleněves</placeName>
+                  <location type="coords">
+                     <geo>50.23115 14.182210</geo>
+                  </location>
+                  <idno type="GEONAMES">https://sws.geonames.org/3061291/</idno>
                </place>
                <place xml:id="emt_place_id__59">
                   <placeName>Warschau / Warszawa</placeName>

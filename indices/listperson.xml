@@ -698,7 +698,7 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                   </figure>
                </person>
                <person xml:id="emt_person_id__52">
-                  <persName>Karl von Pottier SJ</persName>
+                  <persName>Karl Pottier SJ</persName>
                   <death>
                      <date notBefore="1722-01-01" notAfter="1722-12-31">1722</date>
                   </death>
@@ -757,7 +757,7 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                   <idno type="WIKIDATA">http://www.wikidata.org/entity/Q88477</idno>
                </person>
                <person xml:id="emt_person_id__59">
-                  <persName>Joseph Tanner SJ</persName>
+                  <persName>Johann Evangelist Tanner SJ</persName>
                   <death>
                      <date notBefore="1680-01-01" notAfter="1680-12-31">1680</date>
                   </death>
@@ -1742,7 +1742,13 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                   <persName>Mihelich, äußert Meinung gegenüber EMT wegen Koadjutorie in Köln 1677</persName>
                </person>
                <person xml:id="emt_person_id__154">
-                  <persName>Pater Stettinger, in Heiratsprojekt für Johann Wilhelm involviert 1677</persName>
+                  <persName>Christoph Stettinger SJ</persName>
+                  <birth>
+                     <date notBefore="1628-01-01" notAfter="1628-12-31">1628</date>
+                  </birth>
+                  <death>
+                     <date notBefore="1691-01-01" notAfter="1691-12-31">1691</date>
+                  </death>
                </person>
                <person xml:id="emt_person_id__155">
                   <persName>Iganz Eusebius von Königsegg-Aulendorf</persName>
@@ -2946,7 +2952,15 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                   <idno type="NDB">https://www.deutsche-biographie.de/sfz39283.html#indexcontent</idno>
                </person>
                <person xml:id="emt_person_id__304">
-                  <persName>Castell, für ihn soll Leopold I. 1681 den Herzog von Württemberg günstig stimmen</persName>
+                  <persName>Wolfgang Dietrich zu Castell-Remlingen</persName>
+                  <birth>
+                     <date notBefore="1641-01-01" notAfter="1641-12-31">1641</date>
+                  </birth>
+                  <death>
+                     <date notBefore="1709-01-01" notAfter="1709-12-31">1709</date>
+                  </death>
+                  <idno type="GND">https://d-nb.info/gnd/115466916</idno>
+                  <idno type="NDB">https://www.deutsche-biographie.de/pnd115466916.html#indexcontent</idno>
                </person>
                <person xml:id="emt_person_id__305">
                   <persName>Ferdinand Maria Kurfürst von Bayern</persName>

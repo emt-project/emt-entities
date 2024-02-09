@@ -686,12 +686,12 @@
   "58": {
     "id": 58,
     "order": "58.00000000000000000000",
-    "name": "Swolinewetz?",
-    "geonames": "",
+    "name": "Zvoleněves",
+    "geonames": "https://www.geonames.org/3061291/zvoleneves.html",
     "emt_id": "emt_place_id__58",
     "place_type": null,
-    "lat": null,
-    "long": null,
+    "lat": "50.23115",
+    "long": "14.182210",
     "comments intern": null,
     "gnd": ""
   },
