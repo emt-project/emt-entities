@@ -6,5 +6,13 @@
     "receiver": "Philipp Wilhelm",
     "not_before": "1680-06-01",
     "date_written": "wahrscheinlich vom Juni 1680"
+  },
+  "3": {
+    "id": 3,
+    "order": "2.00000000000000000000",
+    "sender": "Eleonora Magdalena von Pfalz-Neuburg",
+    "receiver": "Elisabeth Amalie von Hessen-Darmstadt",
+    "not_before": "1688-10-03",
+    "date_written": "3. Oktober 1688"
   }
 }
