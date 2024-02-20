@@ -90,7 +90,11 @@
         "img_right": null,
         "img_caption": null,
         "date_written": null,
-        "category": null
+        "category": {
+            "id": 13232,
+            "value": "Dynastisches (Geburten, Heiraten, Todesfälle)",
+            "color": "darker-brown"
+        }
     },
     "2": {
         "id": 2,
@@ -162,7 +166,11 @@
         "img_right": "Ferdinand Wagner, Public domain, via Wikimedia Commons",
         "img_caption": "Eleonore heiratet Kaiser Leopold I., historisierendes Gemälde aus dem Jahr 1890 im Rathaussaal Passau.",
         "date_written": null,
-        "category": null
+        "category": {
+            "id": 13232,
+            "value": "Dynastisches (Geburten, Heiraten, Todesfälle)",
+            "color": "darker-brown"
+        }
     },
     "3": {
         "id": 3,
@@ -191,7 +199,11 @@
         "img_right": "",
         "img_caption": "",
         "date_written": null,
-        "category": null
+        "category": {
+            "id": 13232,
+            "value": "Dynastisches (Geburten, Heiraten, Todesfälle)",
+            "color": "darker-brown"
+        }
     },
     "4": {
         "id": 4,
@@ -263,7 +275,11 @@
         "img_right": "",
         "img_caption": "",
         "date_written": null,
-        "category": null
+        "category": {
+            "id": 13232,
+            "value": "Dynastisches (Geburten, Heiraten, Todesfälle)",
+            "color": "darker-brown"
+        }
     },
     "5": {
         "id": 5,
@@ -335,7 +351,11 @@
         "img_right": "",
         "img_caption": "",
         "date_written": null,
-        "category": null
+        "category": {
+            "id": 13232,
+            "value": "Dynastisches (Geburten, Heiraten, Todesfälle)",
+            "color": "darker-brown"
+        }
     },
     "6": {
         "id": 6,
@@ -449,7 +469,11 @@
         "img_right": "",
         "img_caption": "",
         "date_written": null,
-        "category": null
+        "category": {
+            "id": 13232,
+            "value": "Dynastisches (Geburten, Heiraten, Todesfälle)",
+            "color": "darker-brown"
+        }
     },
     "7": {
         "id": 7,
@@ -542,7 +566,11 @@
         "img_right": "",
         "img_caption": "",
         "date_written": null,
-        "category": null
+        "category": {
+            "id": 13232,
+            "value": "Dynastisches (Geburten, Heiraten, Todesfälle)",
+            "color": "darker-brown"
+        }
     },
     "8": {
         "id": 8,
@@ -614,7 +642,11 @@
         "img_right": "",
         "img_caption": "",
         "date_written": null,
-        "category": null
+        "category": {
+            "id": 13232,
+            "value": "Dynastisches (Geburten, Heiraten, Todesfälle)",
+            "color": "darker-brown"
+        }
     },
     "9": {
         "id": 9,
@@ -707,7 +739,11 @@
         "img_right": "",
         "img_caption": "",
         "date_written": null,
-        "category": null
+        "category": {
+            "id": 13232,
+            "value": "Dynastisches (Geburten, Heiraten, Todesfälle)",
+            "color": "darker-brown"
+        }
     },
     "10": {
         "id": 10,
@@ -779,7 +815,11 @@
         "img_right": "",
         "img_caption": "",
         "date_written": null,
-        "category": null
+        "category": {
+            "id": 13233,
+            "value": "Zeremonielles (Krönungen, Wahlen und Bischofserhebungen)",
+            "color": "darker-red"
+        }
     },
     "11": {
         "id": 11,
@@ -851,7 +891,11 @@
         "img_right": "",
         "img_caption": "",
         "date_written": null,
-        "category": null
+        "category": {
+            "id": 13233,
+            "value": "Zeremonielles (Krönungen, Wahlen und Bischofserhebungen)",
+            "color": "darker-red"
+        }
     },
     "12": {
         "id": 12,
@@ -944,7 +988,11 @@
         "img_right": "",
         "img_caption": "",
         "date_written": null,
-        "category": null
+        "category": {
+            "id": 13233,
+            "value": "Zeremonielles (Krönungen, Wahlen und Bischofserhebungen)",
+            "color": "darker-red"
+        }
     },
     "13": {
         "id": 13,
@@ -1037,7 +1085,11 @@
         "img_right": "",
         "img_caption": "",
         "date_written": null,
-        "category": null
+        "category": {
+            "id": 13233,
+            "value": "Zeremonielles (Krönungen, Wahlen und Bischofserhebungen)",
+            "color": "darker-red"
+        }
     },
     "14": {
         "id": 14,
@@ -1088,7 +1140,11 @@
         "img_right": "",
         "img_caption": "",
         "date_written": null,
-        "category": null
+        "category": {
+            "id": 13233,
+            "value": "Zeremonielles (Krönungen, Wahlen und Bischofserhebungen)",
+            "color": "darker-red"
+        }
     },
     "15": {
         "id": 15,
@@ -1139,7 +1195,11 @@
         "img_right": "",
         "img_caption": "",
         "date_written": null,
-        "category": null
+        "category": {
+            "id": 13233,
+            "value": "Zeremonielles (Krönungen, Wahlen und Bischofserhebungen)",
+            "color": "darker-red"
+        }
     },
     "16": {
         "id": 16,
@@ -1211,7 +1271,11 @@
         "img_right": "",
         "img_caption": "",
         "date_written": null,
-        "category": null
+        "category": {
+            "id": 13233,
+            "value": "Zeremonielles (Krönungen, Wahlen und Bischofserhebungen)",
+            "color": "darker-red"
+        }
     },
     "17": {
         "id": 17,
@@ -1262,7 +1326,11 @@
         "img_right": "",
         "img_caption": "",
         "date_written": null,
-        "category": null
+        "category": {
+            "id": 13232,
+            "value": "Dynastisches (Geburten, Heiraten, Todesfälle)",
+            "color": "darker-brown"
+        }
     },
     "18": {
         "id": 18,
@@ -1313,7 +1381,11 @@
         "img_right": "",
         "img_caption": "",
         "date_written": null,
-        "category": null
+        "category": {
+            "id": 13232,
+            "value": "Dynastisches (Geburten, Heiraten, Todesfälle)",
+            "color": "darker-brown"
+        }
     },
     "19": {
         "id": 19,
@@ -1372,7 +1444,11 @@
         "img_right": "",
         "img_caption": "",
         "date_written": null,
-        "category": null
+        "category": {
+            "id": 13232,
+            "value": "Dynastisches (Geburten, Heiraten, Todesfälle)",
+            "color": "darker-brown"
+        }
     },
     "20": {
         "id": 20,
@@ -1423,7 +1499,11 @@
         "img_right": "",
         "img_caption": "",
         "date_written": null,
-        "category": null
+        "category": {
+            "id": 13232,
+            "value": "Dynastisches (Geburten, Heiraten, Todesfälle)",
+            "color": "darker-brown"
+        }
     },
     "21": {
         "id": 21,
@@ -1495,7 +1575,11 @@
         "img_right": "",
         "img_caption": "",
         "date_written": null,
-        "category": null
+        "category": {
+            "id": 13232,
+            "value": "Dynastisches (Geburten, Heiraten, Todesfälle)",
+            "color": "darker-brown"
+        }
     },
     "22": {
         "id": 22,
@@ -1567,7 +1651,11 @@
         "img_right": "",
         "img_caption": "",
         "date_written": null,
-        "category": null
+        "category": {
+            "id": 13232,
+            "value": "Dynastisches (Geburten, Heiraten, Todesfälle)",
+            "color": "darker-brown"
+        }
     },
     "23": {
         "id": 23,
@@ -1639,7 +1727,11 @@
         "img_right": "",
         "img_caption": "",
         "date_written": null,
-        "category": null
+        "category": {
+            "id": 13232,
+            "value": "Dynastisches (Geburten, Heiraten, Todesfälle)",
+            "color": "darker-brown"
+        }
     },
     "24": {
         "id": 24,
@@ -1690,7 +1782,11 @@
         "img_right": "",
         "img_caption": "",
         "date_written": null,
-        "category": null
+        "category": {
+            "id": 13232,
+            "value": "Dynastisches (Geburten, Heiraten, Todesfälle)",
+            "color": "darker-brown"
+        }
     },
     "25": {
         "id": 25,
@@ -1762,7 +1858,11 @@
         "img_right": "",
         "img_caption": "",
         "date_written": null,
-        "category": null
+        "category": {
+            "id": 13232,
+            "value": "Dynastisches (Geburten, Heiraten, Todesfälle)",
+            "color": "darker-brown"
+        }
     },
     "26": {
         "id": 26,
@@ -1813,7 +1913,11 @@
         "img_right": "",
         "img_caption": "",
         "date_written": null,
-        "category": null
+        "category": {
+            "id": 13232,
+            "value": "Dynastisches (Geburten, Heiraten, Todesfälle)",
+            "color": "darker-brown"
+        }
     },
     "27": {
         "id": 27,
@@ -1885,7 +1989,11 @@
         "img_right": "",
         "img_caption": "",
         "date_written": null,
-        "category": null
+        "category": {
+            "id": 13232,
+            "value": "Dynastisches (Geburten, Heiraten, Todesfälle)",
+            "color": "darker-brown"
+        }
     },
     "28": {
         "id": 28,
@@ -1957,7 +2065,11 @@
         "img_right": "",
         "img_caption": "",
         "date_written": null,
-        "category": null
+        "category": {
+            "id": 13232,
+            "value": "Dynastisches (Geburten, Heiraten, Todesfälle)",
+            "color": "darker-brown"
+        }
     },
     "29": {
         "id": 29,
@@ -1995,7 +2107,11 @@
         "img_right": "",
         "img_caption": "",
         "date_written": "1691",
-        "category": null
+        "category": {
+            "id": 13232,
+            "value": "Dynastisches (Geburten, Heiraten, Todesfälle)",
+            "color": "darker-brown"
+        }
     },
     "30": {
         "id": 30,
@@ -2046,7 +2162,11 @@
         "img_right": "",
         "img_caption": "",
         "date_written": null,
-        "category": null
+        "category": {
+            "id": 13232,
+            "value": "Dynastisches (Geburten, Heiraten, Todesfälle)",
+            "color": "darker-brown"
+        }
     },
     "31": {
         "id": 31,
@@ -2097,7 +2217,11 @@
         "img_right": "",
         "img_caption": "",
         "date_written": null,
-        "category": null
+        "category": {
+            "id": 13232,
+            "value": "Dynastisches (Geburten, Heiraten, Todesfälle)",
+            "color": "darker-brown"
+        }
     },
     "32": {
         "id": 32,
@@ -2169,7 +2293,11 @@
         "img_right": "",
         "img_caption": "",
         "date_written": null,
-        "category": null
+        "category": {
+            "id": 13232,
+            "value": "Dynastisches (Geburten, Heiraten, Todesfälle)",
+            "color": "darker-brown"
+        }
     },
     "33": {
         "id": 33,
@@ -2220,7 +2348,11 @@
         "img_right": "",
         "img_caption": "",
         "date_written": null,
-        "category": null
+        "category": {
+            "id": 13232,
+            "value": "Dynastisches (Geburten, Heiraten, Todesfälle)",
+            "color": "darker-brown"
+        }
     },
     "34": {
         "id": 34,
@@ -2271,7 +2403,11 @@
         "img_right": "",
         "img_caption": "",
         "date_written": null,
-        "category": null
+        "category": {
+            "id": 13232,
+            "value": "Dynastisches (Geburten, Heiraten, Todesfälle)",
+            "color": "darker-brown"
+        }
     },
     "35": {
         "id": 35,
@@ -2322,7 +2458,11 @@
         "img_right": "",
         "img_caption": "",
         "date_written": null,
-        "category": null
+        "category": {
+            "id": 13232,
+            "value": "Dynastisches (Geburten, Heiraten, Todesfälle)",
+            "color": "darker-brown"
+        }
     },
     "36": {
         "id": 36,
@@ -2373,7 +2513,11 @@
         "img_right": "",
         "img_caption": "",
         "date_written": null,
-        "category": null
+        "category": {
+            "id": 13232,
+            "value": "Dynastisches (Geburten, Heiraten, Todesfälle)",
+            "color": "darker-brown"
+        }
     },
     "37": {
         "id": 37,
@@ -2424,7 +2568,11 @@
         "img_right": "",
         "img_caption": "",
         "date_written": null,
-        "category": null
+        "category": {
+            "id": 13232,
+            "value": "Dynastisches (Geburten, Heiraten, Todesfälle)",
+            "color": "darker-brown"
+        }
     },
     "38": {
         "id": 38,
@@ -2475,7 +2623,11 @@
         "img_right": "",
         "img_caption": "",
         "date_written": null,
-        "category": null
+        "category": {
+            "id": 13232,
+            "value": "Dynastisches (Geburten, Heiraten, Todesfälle)",
+            "color": "darker-brown"
+        }
     },
     "39": {
         "id": 39,
@@ -2526,7 +2678,11 @@
         "img_right": "",
         "img_caption": "",
         "date_written": null,
-        "category": null
+        "category": {
+            "id": 13232,
+            "value": "Dynastisches (Geburten, Heiraten, Todesfälle)",
+            "color": "darker-brown"
+        }
     },
     "40": {
         "id": 40,
@@ -2577,7 +2733,11 @@
         "img_right": "",
         "img_caption": "",
         "date_written": null,
-        "category": null
+        "category": {
+            "id": 13232,
+            "value": "Dynastisches (Geburten, Heiraten, Todesfälle)",
+            "color": "darker-brown"
+        }
     },
     "41": {
         "id": 41,
@@ -2649,7 +2809,11 @@
         "img_right": "",
         "img_caption": "",
         "date_written": null,
-        "category": null
+        "category": {
+            "id": 13232,
+            "value": "Dynastisches (Geburten, Heiraten, Todesfälle)",
+            "color": "darker-brown"
+        }
     },
     "42": {
         "id": 42,
@@ -2721,7 +2885,11 @@
         "img_right": "",
         "img_caption": "",
         "date_written": null,
-        "category": null
+        "category": {
+            "id": 13232,
+            "value": "Dynastisches (Geburten, Heiraten, Todesfälle)",
+            "color": "darker-brown"
+        }
     },
     "43": {
         "id": 43,
@@ -2772,7 +2940,11 @@
         "img_right": "",
         "img_caption": "",
         "date_written": null,
-        "category": null
+        "category": {
+            "id": 13232,
+            "value": "Dynastisches (Geburten, Heiraten, Todesfälle)",
+            "color": "darker-brown"
+        }
     },
     "44": {
         "id": 44,
@@ -2823,7 +2995,11 @@
         "img_right": "",
         "img_caption": "",
         "date_written": null,
-        "category": null
+        "category": {
+            "id": 13233,
+            "value": "Zeremonielles (Krönungen, Wahlen und Bischofserhebungen)",
+            "color": "darker-red"
+        }
     },
     "45": {
         "id": 45,
@@ -2874,7 +3050,11 @@
         "img_right": "",
         "img_caption": "",
         "date_written": null,
-        "category": null
+        "category": {
+            "id": 13233,
+            "value": "Zeremonielles (Krönungen, Wahlen und Bischofserhebungen)",
+            "color": "darker-red"
+        }
     },
     "46": {
         "id": 46,
@@ -2912,7 +3092,11 @@
         "img_right": "",
         "img_caption": "",
         "date_written": null,
-        "category": null
+        "category": {
+            "id": 13233,
+            "value": "Zeremonielles (Krönungen, Wahlen und Bischofserhebungen)",
+            "color": "darker-red"
+        }
     },
     "47": {
         "id": 47,
@@ -2963,7 +3147,11 @@
         "img_right": "",
         "img_caption": "",
         "date_written": null,
-        "category": null
+        "category": {
+            "id": 13232,
+            "value": "Dynastisches (Geburten, Heiraten, Todesfälle)",
+            "color": "darker-brown"
+        }
     },
     "48": {
         "id": 48,
@@ -3014,7 +3202,11 @@
         "img_right": "",
         "img_caption": "",
         "date_written": null,
-        "category": null
+        "category": {
+            "id": 13233,
+            "value": "Zeremonielles (Krönungen, Wahlen und Bischofserhebungen)",
+            "color": "darker-red"
+        }
     },
     "49": {
         "id": 49,
@@ -3052,7 +3244,11 @@
         "img_right": "",
         "img_caption": "",
         "date_written": null,
-        "category": null
+        "category": {
+            "id": 13233,
+            "value": "Zeremonielles (Krönungen, Wahlen und Bischofserhebungen)",
+            "color": "darker-red"
+        }
     },
     "50": {
         "id": 50,
@@ -3103,7 +3299,11 @@
         "img_right": "",
         "img_caption": "",
         "date_written": null,
-        "category": null
+        "category": {
+            "id": 13233,
+            "value": "Zeremonielles (Krönungen, Wahlen und Bischofserhebungen)",
+            "color": "darker-red"
+        }
     },
     "51": {
         "id": 51,
@@ -3154,7 +3354,11 @@
         "img_right": "",
         "img_caption": "",
         "date_written": null,
-        "category": null
+        "category": {
+            "id": 13232,
+            "value": "Dynastisches (Geburten, Heiraten, Todesfälle)",
+            "color": "darker-brown"
+        }
     },
     "52": {
         "id": 52,
@@ -3205,7 +3409,11 @@
         "img_right": "",
         "img_caption": "",
         "date_written": null,
-        "category": null
+        "category": {
+            "id": 13232,
+            "value": "Dynastisches (Geburten, Heiraten, Todesfälle)",
+            "color": "darker-brown"
+        }
     },
     "53": {
         "id": 53,
@@ -3256,7 +3464,11 @@
         "img_right": "",
         "img_caption": "",
         "date_written": null,
-        "category": null
+        "category": {
+            "id": 13232,
+            "value": "Dynastisches (Geburten, Heiraten, Todesfälle)",
+            "color": "darker-brown"
+        }
     },
     "54": {
         "id": 54,
@@ -3307,7 +3519,11 @@
         "img_right": "",
         "img_caption": "",
         "date_written": null,
-        "category": null
+        "category": {
+            "id": 13232,
+            "value": "Dynastisches (Geburten, Heiraten, Todesfälle)",
+            "color": "darker-brown"
+        }
     },
     "55": {
         "id": 55,
@@ -3358,7 +3574,11 @@
         "img_right": "",
         "img_caption": "",
         "date_written": null,
-        "category": null
+        "category": {
+            "id": 13232,
+            "value": "Dynastisches (Geburten, Heiraten, Todesfälle)",
+            "color": "darker-brown"
+        }
     },
     "56": {
         "id": 56,
@@ -3409,7 +3629,11 @@
         "img_right": "",
         "img_caption": "",
         "date_written": null,
-        "category": null
+        "category": {
+            "id": 13232,
+            "value": "Dynastisches (Geburten, Heiraten, Todesfälle)",
+            "color": "darker-brown"
+        }
     },
     "57": {
         "id": 57,
@@ -3481,7 +3705,11 @@
         "img_right": "",
         "img_caption": "",
         "date_written": null,
-        "category": null
+        "category": {
+            "id": 13232,
+            "value": "Dynastisches (Geburten, Heiraten, Todesfälle)",
+            "color": "darker-brown"
+        }
     },
     "58": {
         "id": 58,
@@ -3532,7 +3760,11 @@
         "img_right": "",
         "img_caption": "",
         "date_written": null,
-        "category": null
+        "category": {
+            "id": 13232,
+            "value": "Dynastisches (Geburten, Heiraten, Todesfälle)",
+            "color": "darker-brown"
+        }
     },
     "59": {
         "id": 59,
@@ -3583,7 +3815,11 @@
         "img_right": "",
         "img_caption": "",
         "date_written": null,
-        "category": null
+        "category": {
+            "id": 13232,
+            "value": "Dynastisches (Geburten, Heiraten, Todesfälle)",
+            "color": "darker-brown"
+        }
     },
     "60": {
         "id": 60,
@@ -3655,7 +3891,11 @@
         "img_right": "",
         "img_caption": "",
         "date_written": null,
-        "category": null
+        "category": {
+            "id": 13232,
+            "value": "Dynastisches (Geburten, Heiraten, Todesfälle)",
+            "color": "darker-brown"
+        }
     },
     "61": {
         "id": 61,
@@ -3706,7 +3946,11 @@
         "img_right": "",
         "img_caption": "",
         "date_written": null,
-        "category": null
+        "category": {
+            "id": 13232,
+            "value": "Dynastisches (Geburten, Heiraten, Todesfälle)",
+            "color": "darker-brown"
+        }
     },
     "62": {
         "id": 62,
@@ -3757,7 +4001,11 @@
         "img_right": "",
         "img_caption": "",
         "date_written": null,
-        "category": null
+        "category": {
+            "id": 13232,
+            "value": "Dynastisches (Geburten, Heiraten, Todesfälle)",
+            "color": "darker-brown"
+        }
     },
     "63": {
         "id": 63,
@@ -3829,7 +4077,11 @@
         "img_right": "",
         "img_caption": "",
         "date_written": null,
-        "category": null
+        "category": {
+            "id": 13232,
+            "value": "Dynastisches (Geburten, Heiraten, Todesfälle)",
+            "color": "darker-brown"
+        }
     },
     "64": {
         "id": 64,
@@ -3880,7 +4132,11 @@
         "img_right": "",
         "img_caption": "",
         "date_written": null,
-        "category": null
+        "category": {
+            "id": 13232,
+            "value": "Dynastisches (Geburten, Heiraten, Todesfälle)",
+            "color": "darker-brown"
+        }
     },
     "65": {
         "id": 65,
@@ -3931,7 +4187,11 @@
         "img_right": "",
         "img_caption": "",
         "date_written": null,
-        "category": null
+        "category": {
+            "id": 13232,
+            "value": "Dynastisches (Geburten, Heiraten, Todesfälle)",
+            "color": "darker-brown"
+        }
     },
     "66": {
         "id": 66,
@@ -4003,7 +4263,11 @@
         "img_right": "",
         "img_caption": "",
         "date_written": null,
-        "category": null
+        "category": {
+            "id": 13232,
+            "value": "Dynastisches (Geburten, Heiraten, Todesfälle)",
+            "color": "darker-brown"
+        }
     },
     "67": {
         "id": 67,
@@ -4075,7 +4339,11 @@
         "img_right": "",
         "img_caption": "",
         "date_written": null,
-        "category": null
+        "category": {
+            "id": 13232,
+            "value": "Dynastisches (Geburten, Heiraten, Todesfälle)",
+            "color": "darker-brown"
+        }
     },
     "68": {
         "id": 68,
@@ -4126,7 +4394,11 @@
         "img_right": "",
         "img_caption": "",
         "date_written": null,
-        "category": null
+        "category": {
+            "id": 13232,
+            "value": "Dynastisches (Geburten, Heiraten, Todesfälle)",
+            "color": "darker-brown"
+        }
     },
     "69": {
         "id": 69,
@@ -4198,7 +4470,11 @@
         "img_right": "",
         "img_caption": "",
         "date_written": null,
-        "category": null
+        "category": {
+            "id": 13232,
+            "value": "Dynastisches (Geburten, Heiraten, Todesfälle)",
+            "color": "darker-brown"
+        }
     },
     "70": {
         "id": 70,
@@ -4249,7 +4525,11 @@
         "img_right": "",
         "img_caption": "",
         "date_written": null,
-        "category": null
+        "category": {
+            "id": 13232,
+            "value": "Dynastisches (Geburten, Heiraten, Todesfälle)",
+            "color": "darker-brown"
+        }
     },
     "71": {
         "id": 71,
@@ -4300,7 +4580,11 @@
         "img_right": "",
         "img_caption": "",
         "date_written": null,
-        "category": null
+        "category": {
+            "id": 13232,
+            "value": "Dynastisches (Geburten, Heiraten, Todesfälle)",
+            "color": "darker-brown"
+        }
     },
     "72": {
         "id": 72,
@@ -4351,12 +4635,16 @@
         "img_right": "",
         "img_caption": "",
         "date_written": null,
-        "category": null
+        "category": {
+            "id": 13232,
+            "value": "Dynastisches (Geburten, Heiraten, Todesfälle)",
+            "color": "darker-brown"
+        }
     },
     "73": {
         "id": 73,
         "order": "73.00000000000000000000",
-        "name": "Tod Dorothes Sophies von Parma",
+        "name": "Tod Dorothea Sophies von Parma",
         "emt_id": "emt_event_id__73",
         "not_before": "1748-09-15",
         "not_after": "1748-09-15",
@@ -4402,7 +4690,11 @@
         "img_right": "",
         "img_caption": "",
         "date_written": null,
-        "category": null
+        "category": {
+            "id": 13232,
+            "value": "Dynastisches (Geburten, Heiraten, Todesfälle)",
+            "color": "darker-brown"
+        }
     },
     "74": {
         "id": 74,
@@ -4474,7 +4766,11 @@
         "img_right": "",
         "img_caption": "",
         "date_written": null,
-        "category": null
+        "category": {
+            "id": 13232,
+            "value": "Dynastisches (Geburten, Heiraten, Todesfälle)",
+            "color": "darker-brown"
+        }
     },
     "75": {
         "id": 75,
@@ -4546,7 +4842,11 @@
         "img_right": "",
         "img_caption": "",
         "date_written": null,
-        "category": null
+        "category": {
+            "id": 13232,
+            "value": "Dynastisches (Geburten, Heiraten, Todesfälle)",
+            "color": "darker-brown"
+        }
     },
     "76": {
         "id": 76,
@@ -4597,7 +4897,11 @@
         "img_right": "",
         "img_caption": "",
         "date_written": null,
-        "category": null
+        "category": {
+            "id": 13233,
+            "value": "Zeremonielles (Krönungen, Wahlen und Bischofserhebungen)",
+            "color": "darker-red"
+        }
     },
     "77": {
         "id": 77,
@@ -4669,7 +4973,11 @@
         "img_right": "",
         "img_caption": "",
         "date_written": null,
-        "category": null
+        "category": {
+            "id": 13232,
+            "value": "Dynastisches (Geburten, Heiraten, Todesfälle)",
+            "color": "darker-brown"
+        }
     },
     "78": {
         "id": 78,
@@ -4685,7 +4993,11 @@
         "img_right": "",
         "img_caption": "",
         "date_written": "beginnt im Mai 1667",
-        "category": null
+        "category": {
+            "id": 13572,
+            "value": "Politik und Militär (Krieg und Frieden, Schlachten, Bündnisse)",
+            "color": "darker-cyan"
+        }
     },
     "79": {
         "id": 79,
@@ -4701,7 +5013,11 @@
         "img_right": "",
         "img_caption": "",
         "date_written": "beginnt im März 1672 und endet mit dem Vertragswerk von Nimwegen, dass zwischen August 1678 und Oktober 1679 geschlossen wird",
-        "category": null
+        "category": {
+            "id": 13572,
+            "value": "Politik und Militär (Krieg und Frieden, Schlachten, Bündnisse)",
+            "color": "darker-cyan"
+        }
     },
     "80": {
         "id": 80,
@@ -4730,7 +5046,11 @@
         "img_right": "",
         "img_caption": "",
         "date_written": "",
-        "category": null
+        "category": {
+            "id": 13572,
+            "value": "Politik und Militär (Krieg und Frieden, Schlachten, Bündnisse)",
+            "color": "darker-cyan"
+        }
     },
     "81": {
         "id": 81,
@@ -4746,7 +5066,11 @@
         "img_right": "",
         "img_caption": "",
         "date_written": "",
-        "category": null
+        "category": {
+            "id": 13572,
+            "value": "Politik und Militär (Krieg und Frieden, Schlachten, Bündnisse)",
+            "color": "darker-cyan"
+        }
     },
     "82": {
         "id": 82,
@@ -4762,7 +5086,11 @@
         "img_right": "",
         "img_caption": "",
         "date_written": "Ende 1678 bis 1681 (Frühjahr Graz), geschätzt März",
-        "category": null
+        "category": {
+            "id": 13573,
+            "value": "Sonstiges (Pest, Neunte Kurwürde, Reichsacht, Pragmatische Sanktion)",
+            "color": "darker-green"
+        }
     },
     "83": {
         "id": 83,
@@ -4791,7 +5119,11 @@
         "img_right": "",
         "img_caption": "",
         "date_written": "",
-        "category": null
+        "category": {
+            "id": 13572,
+            "value": "Politik und Militär (Krieg und Frieden, Schlachten, Bündnisse)",
+            "color": "darker-cyan"
+        }
     },
     "84": {
         "id": 84,
@@ -4820,7 +5152,11 @@
         "img_right": "",
         "img_caption": "",
         "date_written": "",
-        "category": null
+        "category": {
+            "id": 13572,
+            "value": "Politik und Militär (Krieg und Frieden, Schlachten, Bündnisse)",
+            "color": "darker-cyan"
+        }
     },
     "85": {
         "id": 85,
@@ -4849,7 +5185,11 @@
         "img_right": "",
         "img_caption": "",
         "date_written": "",
-        "category": null
+        "category": {
+            "id": 13572,
+            "value": "Politik und Militär (Krieg und Frieden, Schlachten, Bündnisse)",
+            "color": "darker-cyan"
+        }
     },
     "86": {
         "id": 86,
@@ -4865,7 +5205,11 @@
         "img_right": "",
         "img_caption": "",
         "date_written": "beginnt 1683 (wohl Mai) und endet im Januar 1699",
-        "category": null
+        "category": {
+            "id": 13572,
+            "value": "Politik und Militär (Krieg und Frieden, Schlachten, Bündnisse)",
+            "color": "darker-cyan"
+        }
     },
     "87": {
         "id": 87,
@@ -4894,7 +5238,11 @@
         "img_right": "",
         "img_caption": "",
         "date_written": "",
-        "category": null
+        "category": {
+            "id": 13572,
+            "value": "Politik und Militär (Krieg und Frieden, Schlachten, Bündnisse)",
+            "color": "darker-cyan"
+        }
     },
     "88": {
         "id": 88,
@@ -4923,7 +5271,11 @@
         "img_right": "",
         "img_caption": "",
         "date_written": "",
-        "category": null
+        "category": {
+            "id": 13572,
+            "value": "Politik und Militär (Krieg und Frieden, Schlachten, Bündnisse)",
+            "color": "darker-cyan"
+        }
     },
     "89": {
         "id": 89,
@@ -4952,7 +5304,11 @@
         "img_right": "",
         "img_caption": "",
         "date_written": "",
-        "category": null
+        "category": {
+            "id": 13572,
+            "value": "Politik und Militär (Krieg und Frieden, Schlachten, Bündnisse)",
+            "color": "darker-cyan"
+        }
     },
     "90": {
         "id": 90,
@@ -4981,7 +5337,11 @@
         "img_right": "",
         "img_caption": "",
         "date_written": "",
-        "category": null
+        "category": {
+            "id": 13572,
+            "value": "Politik und Militär (Krieg und Frieden, Schlachten, Bündnisse)",
+            "color": "darker-cyan"
+        }
     },
     "91": {
         "id": 91,
@@ -4997,7 +5357,11 @@
         "img_right": "",
         "img_caption": "",
         "date_written": "September (Kriegmanifest) 1688 bis Oktober 1697",
-        "category": null
+        "category": {
+            "id": 13572,
+            "value": "Politik und Militär (Krieg und Frieden, Schlachten, Bündnisse)",
+            "color": "darker-cyan"
+        }
     },
     "92": {
         "id": 92,
@@ -5026,7 +5390,11 @@
         "img_right": "",
         "img_caption": "",
         "date_written": "",
-        "category": null
+        "category": {
+            "id": 13572,
+            "value": "Politik und Militär (Krieg und Frieden, Schlachten, Bündnisse)",
+            "color": "darker-cyan"
+        }
     },
     "93": {
         "id": 93,
@@ -5055,7 +5423,11 @@
         "img_right": "",
         "img_caption": "",
         "date_written": "",
-        "category": null
+        "category": {
+            "id": 13572,
+            "value": "Politik und Militär (Krieg und Frieden, Schlachten, Bündnisse)",
+            "color": "darker-cyan"
+        }
     },
     "94": {
         "id": 94,
@@ -5071,7 +5443,11 @@
         "img_right": "",
         "img_caption": "",
         "date_written": "",
-        "category": null
+        "category": {
+            "id": 13573,
+            "value": "Sonstiges (Pest, Neunte Kurwürde, Reichsacht, Pragmatische Sanktion)",
+            "color": "darker-green"
+        }
     },
     "95": {
         "id": 95,
@@ -5087,7 +5463,11 @@
         "img_right": "",
         "img_caption": "",
         "date_written": "November 1700 bis März 1714",
-        "category": null
+        "category": {
+            "id": 13572,
+            "value": "Politik und Militär (Krieg und Frieden, Schlachten, Bündnisse)",
+            "color": "darker-cyan"
+        }
     },
     "96": {
         "id": 96,
@@ -5103,7 +5483,11 @@
         "img_right": "",
         "img_caption": "",
         "date_written": "",
-        "category": null
+        "category": {
+            "id": 13572,
+            "value": "Politik und Militär (Krieg und Frieden, Schlachten, Bündnisse)",
+            "color": "darker-cyan"
+        }
     },
     "97": {
         "id": 97,
@@ -5119,7 +5503,11 @@
         "img_right": "",
         "img_caption": "",
         "date_written": "Juni 1703 bis April 1711",
-        "category": null
+        "category": {
+            "id": 13572,
+            "value": "Politik und Militär (Krieg und Frieden, Schlachten, Bündnisse)",
+            "color": "darker-cyan"
+        }
     },
     "98": {
         "id": 98,
@@ -5135,7 +5523,11 @@
         "img_right": "",
         "img_caption": "",
         "date_written": "",
-        "category": null
+        "category": {
+            "id": 13572,
+            "value": "Politik und Militär (Krieg und Frieden, Schlachten, Bündnisse)",
+            "color": "darker-cyan"
+        }
     },
     "99": {
         "id": 99,
@@ -5151,7 +5543,11 @@
         "img_right": "",
         "img_caption": "",
         "date_written": "",
-        "category": null
+        "category": {
+            "id": 13572,
+            "value": "Politik und Militär (Krieg und Frieden, Schlachten, Bündnisse)",
+            "color": "darker-cyan"
+        }
     },
     "100": {
         "id": 100,
@@ -5167,7 +5563,11 @@
         "img_right": "",
         "img_caption": "",
         "date_written": "",
-        "category": null
+        "category": {
+            "id": 13573,
+            "value": "Sonstiges (Pest, Neunte Kurwürde, Reichsacht, Pragmatische Sanktion)",
+            "color": "darker-green"
+        }
     },
     "101": {
         "id": 101,
@@ -5183,7 +5583,11 @@
         "img_right": "",
         "img_caption": "",
         "date_written": "",
-        "category": null
+        "category": {
+            "id": 13573,
+            "value": "Sonstiges (Pest, Neunte Kurwürde, Reichsacht, Pragmatische Sanktion)",
+            "color": "darker-green"
+        }
     },
     "102": {
         "id": 102,
@@ -5199,6 +5603,10 @@
         "img_right": "",
         "img_caption": "",
         "date_written": "",
-        "category": null
+        "category": {
+            "id": 13572,
+            "value": "Politik und Militär (Krieg und Frieden, Schlachten, Bündnisse)",
+            "color": "darker-cyan"
+        }
     }
 }
