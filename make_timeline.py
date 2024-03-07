@@ -10,7 +10,10 @@ with open(os.path.join(JSON_FOLDER, "events.json")) as f:
 events = []
 timeline = {
     "title": {
-        "text": {"headline": "EMT", "text": "Wichtige Ereignisse um das Leben von EMT"},
+        "text": {
+            "headline": "Familiensache im Kontext",
+            "text": "Ein Zeitstrahl zur Wirkungsperiode Kaiserin Eleonora Magdalenas von Pfalz-Neuburg",
+        },
         "media": {
             "url": "bio-pics/emt_person_id__9.jpg",
             "credit": "Kaiserin Eleonora Magdalena, geb. Pfalz-Neuburg",
@@ -53,19 +56,6 @@ for key, value in data.items():
             "caption": value["img_caption"],
             "credit": value["img_right"],
         }
-    else:
-        try:
-            lat = value["took_place_at"][0]["lat"]
-            lng = value["took_place_at"][0]["long"]
-            caption = value["took_place_at"][0]["name"]
-        except (KeyError, IndexError):
-            lat, lng = False, False
-        if lat:
-            event["media"] = {
-                "url": f"https://www.google.com/maps/@{lat},{lng},15z",
-                "caption": caption,
-                "credit": "Google Maps",
-            }
 
     if value["not_before"] != value["not_after"]:
         try:
