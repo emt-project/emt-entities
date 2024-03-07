@@ -169,6 +169,11 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                   <desc>
                      <eventName>
                         Geburt Erzherzog Josephs
+                        <figure>
+                           <figDesc>Kaiser Joseph I. (1678-1711) im Alter von sechs Jahren mit einem Hund, in ganzer Figur</figDesc>
+                           <figDesc>KHM-Museumsverbund, Gemäldegalerie, 3409</figDesc>
+                           <graphic url="https://www.khm.at/objektdb/detail/2408"/>
+                        </figure>
                      </eventName>                  </desc>
                  <listPerson type="related_persons">
                      <person>
@@ -801,6 +806,11 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                   <desc>
                      <eventName>
                         Geburt von Johann Wilhelm von Pfalz-Neuburg
+                        <figure>
+                           <figDesc/>
+                           <figDesc>Stadtmuseum Düsseldorf, B 820</figDesc>
+                           <graphic url="https://commons.wikimedia.org/wiki/File:Jan_Frans_van_Douven_003.jpg#/media/Datei:Jan_Frans_van_Douven_003.jpg"/>
+                        </figure>
                      </eventName>                  </desc>
                  <listPerson type="related_persons">
                      <person>
@@ -959,6 +969,11 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                   <desc>
                      <eventName>
                         Geburt Ludwig Antons von Pfalz-Neuburg
+                        <figure>
+                           <figDesc>Kinderbildnis des Ludwig Anton von Pfalz-Neuburg (1660-1694)</figDesc>
+                           <figDesc>Bayerische Staatsgemäldesammlungen, 6737</figDesc>
+                           <graphic url="https://res.cloudinary.com/tne/image/authenticated/s--SMgndQel--/q_80/artworks/DEUTSCH-17-JAHRHUNDERT_KINDERBILDNIS-DES-LUDWIG-ANTON-VON-PFALZ-NEUBURG-1660-1694_CC-BY-SA_BSTGS_6737.jpg"/>
+                        </figure>
                      </eventName>                  </desc>
                  <listPerson type="related_persons">
                      <person>
@@ -1763,6 +1778,11 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                   <desc>
                      <eventName>
                         Hochzeit Leopolds I. mit Margarita Teresa von Spanien
+                        <figure>
+                           <figDesc>Infantin Margarita Teresa (1651-1673), Kaiserin, in rot-silberfarbenem Seidenkleid</figDesc>
+                           <figDesc>KHM-Museumsverbund, Gemäldegalerie, 8147</figDesc>
+                           <graphic url="https://commons.wikimedia.org/wiki/File:Anonymous_-_Infantin_Margarita_Teresa_(1651-1673),_Kaiserin,_in_rot-silberfarbenem_Seidenkleid_-_GG_8147_-_Kunsthistorisches_Museum.jpg#/media/File:Anonymous_-_Infantin_Margarita_Teresa_(1651-1673),_Kaiserin,_in_rot-silberfarbenem_Seidenkleid_-_GG_8147_-_Kunsthistorisches_Museum.jpg"/>
+                        </figure>
                      </eventName>                  </desc>
                  <listPerson type="related_persons">
                      <person>
@@ -1789,6 +1809,11 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                   <desc>
                      <eventName>
                         Hochzeit Leopolds I. mit Claudia Felicitas von Tirol
+                        <figure>
+                           <figDesc>Erzherzogin Claudia Felicitas (1653-1676), Kaiserin, als Diana, Gattin Kaiser Leopolds I.</figDesc>
+                           <figDesc>KHM-Museumsverbund, Gemäldegalerie, 3096</figDesc>
+                           <graphic url="www.khm.at/de/object/2406/"/>
+                        </figure>
                      </eventName>                  </desc>
                  <listPerson type="related_persons">
                      <person>
@@ -1815,6 +1840,11 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                   <desc>
                      <eventName>
                         Krönung Leoplds I. als Kaiser des Heiligen Römischen Reiches
+                        <figure>
+                           <figDesc>Kaiser Leopold I. (1640-1705) im Krönungsharnisch</figDesc>
+                           <figDesc>KHM-Museumsverband, Gemäldegalerie, 3117</figDesc>
+                           <graphic url="https://www.khm.at/objektdb/detail/2398/"/>
+                        </figure>
                      </eventName>                  </desc>
                  <listPerson type="related_persons">
                      <person>
@@ -1897,7 +1927,12 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                   <desc>
                      <eventName>
                         Pest in den habsburgischen Ländern
-                     </eventName>                     Flucht des kaiserlichen Hofes nach Prag bzw. LInz                  </desc>
+                        <figure>
+                           <figDesc>Pestsäule am Graben in Wien, errichtet nach der Pestepidemie 1679.</figDesc>
+                           <figDesc>Thomas Ledl, via wikimedia commons</figDesc>
+                           <graphic url="https://commons.wikimedia.org/wiki/File:Wien_Graben_Pests%C3%A4ule_Ostseite.jpg#/media/File:Wien_Graben_Pests%C3%A4ule_Ostseite.jpg"/>
+                        </figure>
+                     </eventName>                     Flucht des kaiserlichen Hofes nach Prag bzw. Linz                  </desc>
                </event>
                <event xml:id="emt_event_id__83" notBefore="1681-09-30" notAfter="1681-09-30">
                   <desc>

@@ -41,6 +41,11 @@
           "headline": "1658-04-19 - Geburt von Johann Wilhelm von Pfalz-Neuburg",
           "text": "Das Ereignis fand in <a href=\"emt_place_id__13.html\">Düsseldorf</a> statt.<br>Folgende Personen waren daran beteiligt:<br><a href=\"emt_person_id__18.html\">Johann Wilhelm von Pfalz-Neuburg, Kurfürst von der Pfalz</a><br>"
         },
+        "media": {
+          "url": "https://commons.wikimedia.org/wiki/File:Jan_Frans_van_Douven_003.jpg#/media/Datei:Jan_Frans_van_Douven_003.jpg",
+          "caption": "",
+          "credit": "Stadtmuseum Düsseldorf, B 820"
+        },
         "location": {
           "lat": 51.22172,
           "lon": 6.77616,
@@ -53,6 +58,11 @@
         "text": {
           "headline": "1658-08-01 - Krönung Leoplds I. als Kaiser des Heiligen Römischen Reiches",
           "text": "Das Ereignis fand in <a href=\"emt_place_id__20.html\">Frankfurt am Main</a> statt.<br>Folgende Personen waren daran beteiligt:<br><a href=\"emt_person_id__35.html\">Kaiser Leopold I.</a><br>"
+        },
+        "media": {
+          "url": "https://www.khm.at/objektdb/detail/2398/",
+          "caption": "Kaiser Leopold I. (1640-1705) im Krönungsharnisch",
+          "credit": "KHM-Museumsverband, Gemäldegalerie, 3117"
         },
         "location": {
           "lat": 50.11552,
@@ -79,6 +89,11 @@
         "text": {
           "headline": "1660-06-09 - Geburt Ludwig Antons von Pfalz-Neuburg",
           "text": "Das Ereignis fand in <a href=\"emt_place_id__13.html\">Düsseldorf</a> statt.<br>Folgende Personen waren daran beteiligt:<br><a href=\"emt_person_id__124.html\">Ludwig Anton von Pfalz-Neuburg</a><br>"
+        },
+        "media": {
+          "url": "https://res.cloudinary.com/tne/image/authenticated/s--SMgndQel--/q_80/artworks/DEUTSCH-17-JAHRHUNDERT_KINDERBILDNIS-DES-LUDWIG-ANTON-VON-PFALZ-NEUBURG-1660-1694_CC-BY-SA_BSTGS_6737.jpg",
+          "caption": "Kinderbildnis des Ludwig Anton von Pfalz-Neuburg (1660-1694)",
+          "credit": "Bayerische Staatsgemäldesammlungen, 6737"
         },
         "location": {
           "lat": 51.22172,
@@ -158,6 +173,11 @@
           "headline": "1666-12-02 - Hochzeit Leopolds I. mit Margarita Teresa von Spanien",
           "text": "Das Ereignis fand in <a href=\"emt_place_id__63.html\">Wien</a> statt.<br>Folgende Personen waren daran beteiligt:<br><a href=\"emt_person_id__35.html\">Kaiser Leopold I.</a><br><a href=\"emt_person_id__137.html\">Kaiserin Margarita Teresa, geb. Spanien</a><br>"
         },
+        "media": {
+          "url": "https://commons.wikimedia.org/wiki/File:Anonymous_-_Infantin_Margarita_Teresa_(1651-1673),_Kaiserin,_in_rot-silberfarbenem_Seidenkleid_-_GG_8147_-_Kunsthistorisches_Museum.jpg#/media/File:Anonymous_-_Infantin_Margarita_Teresa_(1651-1673),_Kaiserin,_in_rot-silberfarbenem_Seidenkleid_-_GG_8147_-_Kunsthistorisches_Museum.jpg",
+          "caption": "Infantin Margarita Teresa (1651-1673), Kaiserin, in rot-silberfarbenem Seidenkleid",
+          "credit": "KHM-Museumsverbund, Gemäldegalerie, 8147"
+        },
         "location": {
           "lat": 48.20849,
           "lon": 16.37208,
@@ -223,6 +243,11 @@
           "headline": "1673-10-15 - Hochzeit Leopolds I. mit Claudia Felicitas von Tirol",
           "text": "Das Ereignis fand in <a href=\"emt_place_id__92.html\">Graz</a> statt.<br>Folgende Personen waren daran beteiligt:<br><a href=\"emt_person_id__35.html\">Kaiser Leopold I.</a><br><a href=\"emt_person_id__138.html\">Kaiserin Claudia Felicitas, geb. Tirol</a><br>"
         },
+        "media": {
+          "url": "www.khm.at/de/object/2406/",
+          "caption": "Erzherzogin Claudia Felicitas (1653-1676), Kaiserin, als Diana, Gattin Kaiser Leopolds I.",
+          "credit": "KHM-Museumsverbund, Gemäldegalerie, 3096"
+        },
         "location": {
           "lat": 47.06667,
           "lon": 15.45,
@@ -253,6 +278,11 @@
         "text": {
           "headline": "1678-07-26 - Geburt Erzherzog Josephs",
           "text": "Das Ereignis fand in <a href=\"emt_place_id__63.html\">Wien</a> statt.<br>Folgende Personen waren daran beteiligt:<br><a href=\"emt_person_id__9.html\">Kaiserin Eleonora Magdalena, geb. Pfalz-Neuburg</a><br><a href=\"emt_person_id__35.html\">Kaiser Leopold I.</a><br>"
+        },
+        "media": {
+          "url": "https://www.khm.at/objektdb/detail/2408",
+          "caption": "Kaiser Joseph I. (1678-1711) im Alter von sechs Jahren mit einem Hund, in ganzer Figur",
+          "credit": "KHM-Museumsverbund, Gemäldegalerie, 3409"
         },
         "location": {
           "lat": 48.20849,

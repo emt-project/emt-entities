@@ -347,9 +347,9 @@
             }
         ],
         "description": "",
-        "img_url": "",
-        "img_right": "",
-        "img_caption": "",
+        "img_url": "https://www.khm.at/objektdb/detail/2408",
+        "img_right": "KHM-Museumsverbund, Gemäldegalerie, 3409",
+        "img_caption": "Kaiser Joseph I. (1678-1711) im Alter von sechs Jahren mit einem Hund, in ganzer Figur",
         "date_written": null,
         "category": {
             "id": 13232,
@@ -2213,8 +2213,8 @@
             }
         ],
         "description": "",
-        "img_url": "",
-        "img_right": "",
+        "img_url": "https://commons.wikimedia.org/wiki/File:Jan_Frans_van_Douven_003.jpg#/media/Datei:Jan_Frans_van_Douven_003.jpg",
+        "img_right": "Stadtmuseum Düsseldorf, B 820",
         "img_caption": "",
         "date_written": null,
         "category": {
@@ -2619,9 +2619,9 @@
             }
         ],
         "description": "",
-        "img_url": "",
-        "img_right": "",
-        "img_caption": "",
+        "img_url": "https://res.cloudinary.com/tne/image/authenticated/s--SMgndQel--/q_80/artworks/DEUTSCH-17-JAHRHUNDERT_KINDERBILDNIS-DES-LUDWIG-ANTON-VON-PFALZ-NEUBURG-1660-1694_CC-BY-SA_BSTGS_6737.jpg",
+        "img_right": "Bayerische Staatsgemäldesammlungen, 6737",
+        "img_caption": "Kinderbildnis des Ludwig Anton von Pfalz-Neuburg (1660-1694)",
         "date_written": null,
         "category": {
             "id": 13232,
@@ -4762,9 +4762,9 @@
             }
         ],
         "description": "",
-        "img_url": "",
-        "img_right": "",
-        "img_caption": "",
+        "img_url": "https://commons.wikimedia.org/wiki/File:Anonymous_-_Infantin_Margarita_Teresa_(1651-1673),_Kaiserin,_in_rot-silberfarbenem_Seidenkleid_-_GG_8147_-_Kunsthistorisches_Museum.jpg#/media/File:Anonymous_-_Infantin_Margarita_Teresa_(1651-1673),_Kaiserin,_in_rot-silberfarbenem_Seidenkleid_-_GG_8147_-_Kunsthistorisches_Museum.jpg",
+        "img_right": "KHM-Museumsverbund, Gemäldegalerie, 8147",
+        "img_caption": "Infantin Margarita Teresa (1651-1673), Kaiserin, in rot-silberfarbenem Seidenkleid",
         "date_written": null,
         "category": {
             "id": 13232,
@@ -4838,9 +4838,9 @@
             }
         ],
         "description": "",
-        "img_url": "",
-        "img_right": "",
-        "img_caption": "",
+        "img_url": "www.khm.at/de/object/2406/",
+        "img_right": "KHM-Museumsverbund, Gemäldegalerie, 3096",
+        "img_caption": "Erzherzogin Claudia Felicitas (1653-1676), Kaiserin, als Diana, Gattin Kaiser Leopolds I.",
         "date_written": null,
         "category": {
             "id": 13232,
@@ -4893,9 +4893,9 @@
             }
         ],
         "description": "",
-        "img_url": "",
-        "img_right": "",
-        "img_caption": "",
+        "img_url": "https://www.khm.at/objektdb/detail/2398/",
+        "img_right": "KHM-Museumsverband, Gemäldegalerie, 3117",
+        "img_caption": "Kaiser Leopold I. (1640-1705) im Krönungsharnisch",
         "date_written": null,
         "category": {
             "id": 13233,
@@ -5081,10 +5081,10 @@
         "not_after": "1681-03-01",
         "took_place_at": [],
         "related_persons": [],
-        "description": "Flucht des kaiserlichen Hofes nach Prag bzw. LInz",
-        "img_url": "",
-        "img_right": "",
-        "img_caption": "",
+        "description": "Flucht des kaiserlichen Hofes nach Prag bzw. Linz",
+        "img_url": "https://commons.wikimedia.org/wiki/File:Wien_Graben_Pests%C3%A4ule_Ostseite.jpg#/media/File:Wien_Graben_Pests%C3%A4ule_Ostseite.jpg",
+        "img_right": "Thomas Ledl, via wikimedia commons",
+        "img_caption": "Pestsäule am Graben in Wien, errichtet nach der Pestepidemie 1679.",
         "date_written": "Ende 1678 bis 1681 (Frühjahr Graz), geschätzt März",
         "category": {
             "id": 13573,
