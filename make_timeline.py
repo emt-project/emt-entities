@@ -34,21 +34,34 @@ for key, value in data.items():
         "month": f"{int(month)}",
         "day": f"{int(day)}",
     }
-    event["text"] = {"headline": value["name"], "text": ""}
+    try:
+        place = value["took_place_at"][0]
+    except (KeyError, IndexError):
+        place = None
+    if place:
+        headline = (
+            f"""<a href="{place['emt_id']}.html">{place['name']}</a>, {value['name']}"""
+        )
+    else:
+        headline = value["name"]
+    event["text"] = {"headline": headline, "text": ""}
 
-    if value["took_place_at"]:
-        location_text = ""
-        for pl in value["took_place_at"]:
-            location_text += f"""<a href="{pl['emt_id']}.html">{pl["name"]}</a>"""
-        event["text"]["text"] += f"Das Ereignis fand in {location_text} statt.<br>"
+    try:
+        category = value["category"]
+    except KeyError:
+        category = None
+    if category:
+        event["text"][
+            "text"
+        ] = f"""<span style="color:{category['color'].split('-')[-1]}">{category["value"]}</span>"""
 
-    if value["related_persons"]:
-        person_text = "Folgende Personen waren daran beteiligt:<br>"
-        for person in value["related_persons"]:
-            person_text += (
-                f"""<a href="{person['emt_id']}.html">{person['name']}</a><br>"""
-            )
-        event["text"]["text"] += person_text
+    # if value["related_persons"]:
+    #     person_text = "Folgende Personen waren daran beteiligt:<br>"
+    #     for person in value["related_persons"]:
+    #         person_text += (
+    #             f"""<a href="{person['emt_id']}.html">{person['name']}</a><br>"""
+    #         )
+    #     event["text"]["text"] += person_text
 
     if value["img_url"]:
         event["media"] = {
