@@ -14,5 +14,21 @@
     "receiver": "Elisabeth Amalie von Hessen-Darmstadt",
     "not_before": "1688-10-03",
     "date_written": "3. Oktober 1688"
+  },
+  "4": {
+    "id": 4,
+    "order": "3.00000000000000000000",
+    "sender": "Eleonora Magdalena von Pfalz-Neuburg",
+    "receiver": "Elisabeth Amalie von Hessen-Darmstadt",
+    "not_before": "1688-10-07",
+    "date_written": "7. Oktober 1688"
+  },
+  "5": {
+    "id": 5,
+    "order": "4.00000000000000000000",
+    "sender": "Eleonora Magdalena von Pfalz-Neuburg",
+    "receiver": "Elisabeth Amalie von Hessen-Darmstadt",
+    "not_before": "1688-10-17",
+    "date_written": "17. Okotber 1688"
   }
 }
