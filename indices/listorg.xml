@@ -64,9 +64,11 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
             <listOrg xml:id="listorg">
                <org xml:id="emt_institution_id__1">
                   <orgName>Fränkischer Kreis</orgName>
+                  <idno type="GND">https://d-nb.info/gnd/4093094-4</idno>
                </org>
                <org xml:id="emt_institution_id__2">
                   <orgName>Domkapitel zu Köln</orgName>
+                  <idno type="GND">https://d-nb.info/gnd/4374567-2</idno>
                </org>
                <org xml:id="emt_institution_id__3">
                   <orgName>Kapuzinerorden (OFM Cap)</orgName>
