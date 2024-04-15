@@ -927,13 +927,13 @@
     "id": 78,
     "order": "78.00000000000000000000",
     "name": "Trient, Bistum",
-    "geonames": "https://www.geonames.org/3165243/trento.html",
+    "geonames": "",
     "emt_id": "emt_place_id__78",
     "place_type": null,
     "lat": "46.06787",
     "long": "11.121080",
-    "comments intern": "hier habe ich die Koordinaten der Stadt verwendet",
-    "gnd": ""
+    "comments intern": "hier habe ich die Koordinaten der Stadt verwendet\nPeter Andorfer: geonames ID durch gnd ersetzt; geoname-ids dürfen nur einmal verwendet werden",
+    "gnd": "https://d-nb.info/gnd/1274002583"
   },
   "79": {
     "id": 79,
