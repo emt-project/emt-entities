@@ -9,7 +9,8 @@
     "lat": "48.40163",
     "long": "15.581020",
     "comments intern": null,
-    "gnd": ""
+    "gnd": "",
+    "alternative_name": null
   },
   "2": {
     "id": 2,
@@ -21,7 +22,8 @@
     "lat": null,
     "long": null,
     "comments intern": null,
-    "gnd": ""
+    "gnd": "",
+    "alternative_name": null
   },
   "3": {
     "id": 3,
@@ -33,7 +35,8 @@
     "lat": "50.77664",
     "long": "6.083420",
     "comments intern": null,
-    "gnd": ""
+    "gnd": "",
+    "alternative_name": null
   },
   "4": {
     "id": 4,
@@ -45,7 +48,8 @@
     "lat": "48.22533",
     "long": "12.676650",
     "comments intern": null,
-    "gnd": ""
+    "gnd": "",
+    "alternative_name": null
   },
   "5": {
     "id": 5,
@@ -57,7 +61,8 @@
     "lat": "48.36733",
     "long": "10.892130",
     "comments intern": null,
-    "gnd": ""
+    "gnd": "",
+    "alternative_name": null
   },
   "6": {
     "id": 6,
@@ -69,7 +74,8 @@
     "lat": "51.16080",
     "long": "6.870000",
     "comments intern": null,
-    "gnd": ""
+    "gnd": "",
+    "alternative_name": null
   },
   "7": {
     "id": 7,
@@ -81,7 +87,8 @@
     "lat": "50.96486",
     "long": "7.163340",
     "comments intern": null,
-    "gnd": ""
+    "gnd": "",
+    "alternative_name": null
   },
   "8": {
     "id": 8,
@@ -93,7 +100,8 @@
     "lat": "50.18356",
     "long": "14.672440",
     "comments intern": null,
-    "gnd": ""
+    "gnd": "",
+    "alternative_name": null
   },
   "9": {
     "id": 9,
@@ -105,7 +113,8 @@
     "lat": "48.97447",
     "long": "14.474340",
     "comments intern": null,
-    "gnd": ""
+    "gnd": "",
+    "alternative_name": null
   },
   "10": {
     "id": 10,
@@ -117,7 +126,8 @@
     "lat": "40.41546",
     "long": "-3.684200",
     "comments intern": null,
-    "gnd": ""
+    "gnd": "",
+    "alternative_name": null
   },
   "11": {
     "id": 11,
@@ -129,7 +139,8 @@
     "lat": "49.20379",
     "long": "12.044520",
     "comments intern": null,
-    "gnd": ""
+    "gnd": "",
+    "alternative_name": null
   },
   "12": {
     "id": 12,
@@ -141,7 +152,8 @@
     "lat": "52.07667",
     "long": "4.298610",
     "comments intern": null,
-    "gnd": ""
+    "gnd": "",
+    "alternative_name": null
   },
   "13": {
     "id": 13,
@@ -153,7 +165,8 @@
     "lat": "51.22172",
     "long": "6.776160",
     "comments intern": null,
-    "gnd": ""
+    "gnd": "",
+    "alternative_name": null
   },
   "14": {
     "id": 14,
@@ -165,7 +178,8 @@
     "lat": "48.07710",
     "long": "11.970630",
     "comments intern": null,
-    "gnd": ""
+    "gnd": "",
+    "alternative_name": null
   },
   "15": {
     "id": 15,
@@ -177,7 +191,8 @@
     "lat": "48.15833",
     "long": "16.474170",
     "comments intern": null,
-    "gnd": ""
+    "gnd": "",
+    "alternative_name": null
   },
   "16": {
     "id": 16,
@@ -189,7 +204,8 @@
     "lat": "50.97870",
     "long": "11.032830",
     "comments intern": null,
-    "gnd": ""
+    "gnd": "",
+    "alternative_name": null
   },
   "17": {
     "id": 17,
@@ -201,7 +217,8 @@
     "lat": "51.18386",
     "long": "10.053290",
     "comments intern": null,
-    "gnd": ""
+    "gnd": "",
+    "alternative_name": null
   },
   "18": {
     "id": 18,
@@ -213,7 +230,8 @@
     "lat": "48.19307",
     "long": "16.371200",
     "comments intern": null,
-    "gnd": ""
+    "gnd": "",
+    "alternative_name": null
   },
   "19": {
     "id": 19,
@@ -225,7 +243,8 @@
     "lat": "47.49835",
     "long": "19.040450",
     "comments intern": null,
-    "gnd": ""
+    "gnd": "",
+    "alternative_name": null
   },
   "20": {
     "id": 20,
@@ -237,7 +256,8 @@
     "lat": "50.11552",
     "long": "8.684170",
     "comments intern": null,
-    "gnd": ""
+    "gnd": "",
+    "alternative_name": null
   },
   "21": {
     "id": 21,
@@ -249,7 +269,8 @@
     "lat": "49.48423",
     "long": "8.462970",
     "comments intern": null,
-    "gnd": ""
+    "gnd": "",
+    "alternative_name": null
   },
   "22": {
     "id": 22,
@@ -261,7 +282,8 @@
     "lat": "51.42167",
     "long": "5.559720",
     "comments intern": null,
-    "gnd": ""
+    "gnd": "",
+    "alternative_name": null
   },
   "23": {
     "id": 23,
@@ -273,7 +295,8 @@
     "lat": "48.73717",
     "long": "11.264250",
     "comments intern": null,
-    "gnd": ""
+    "gnd": "",
+    "alternative_name": null
   },
   "24": {
     "id": 24,
@@ -285,7 +308,8 @@
     "lat": "50.89903",
     "long": "6.444520",
     "comments intern": null,
-    "gnd": ""
+    "gnd": "",
+    "alternative_name": null
   },
   "25": {
     "id": 25,
@@ -297,7 +321,8 @@
     "lat": "49.40768",
     "long": "8.690790",
     "comments intern": null,
-    "gnd": ""
+    "gnd": "",
+    "alternative_name": null
   },
   "26": {
     "id": 26,
@@ -309,7 +334,8 @@
     "lat": "48.05559",
     "long": "16.124930",
     "comments intern": null,
-    "gnd": ""
+    "gnd": "",
+    "alternative_name": null
   },
   "27": {
     "id": 27,
@@ -321,7 +347,8 @@
     "lat": "47.26266",
     "long": "11.394540",
     "comments intern": null,
-    "gnd": ""
+    "gnd": "",
+    "alternative_name": null
   },
   "28": {
     "id": 28,
@@ -333,7 +360,8 @@
     "lat": "49.41509",
     "long": "15.386220",
     "comments intern": null,
-    "gnd": ""
+    "gnd": "",
+    "alternative_name": null
   },
   "29": {
     "id": 29,
@@ -345,7 +373,8 @@
     "lat": "48.35000",
     "long": "16.333330",
     "comments intern": null,
-    "gnd": ""
+    "gnd": "",
+    "alternative_name": null
   },
   "30": {
     "id": 30,
@@ -357,7 +386,8 @@
     "lat": "48.09253",
     "long": "13.869540",
     "comments intern": null,
-    "gnd": ""
+    "gnd": "",
+    "alternative_name": null
   },
   "31": {
     "id": 31,
@@ -369,7 +399,8 @@
     "lat": "48.06833",
     "long": "16.356070",
     "comments intern": null,
-    "gnd": ""
+    "gnd": "",
+    "alternative_name": null
   },
   "32": {
     "id": 32,
@@ -381,7 +412,8 @@
     "lat": "48.30639",
     "long": "14.286110",
     "comments intern": null,
-    "gnd": ""
+    "gnd": "",
+    "alternative_name": null
   },
   "33": {
     "id": 33,
@@ -393,7 +425,8 @@
     "lat": "38.71667",
     "long": "-9.133330",
     "comments intern": null,
-    "gnd": ""
+    "gnd": "",
+    "alternative_name": null
   },
   "34": {
     "id": 34,
@@ -405,7 +438,8 @@
     "lat": "44.95925",
     "long": "10.689530",
     "comments intern": null,
-    "gnd": ""
+    "gnd": "",
+    "alternative_name": null
   },
   "35": {
     "id": 35,
@@ -417,7 +451,8 @@
     "lat": "50.84833",
     "long": "5.688890",
     "comments intern": null,
-    "gnd": ""
+    "gnd": "",
+    "alternative_name": null
   },
   "36": {
     "id": 36,
@@ -429,7 +464,8 @@
     "lat": "40.41650",
     "long": "-3.702560",
     "comments intern": null,
-    "gnd": ""
+    "gnd": "",
+    "alternative_name": null
   },
   "37": {
     "id": 37,
@@ -441,7 +477,8 @@
     "lat": "49.98419",
     "long": "8.279100",
     "comments intern": null,
-    "gnd": ""
+    "gnd": "",
+    "alternative_name": null
   },
   "38": {
     "id": 38,
@@ -453,7 +490,8 @@
     "lat": "50.31453",
     "long": "7.800250",
     "comments intern": null,
-    "gnd": ""
+    "gnd": "",
+    "alternative_name": null
   },
   "39": {
     "id": 39,
@@ -465,7 +503,8 @@
     "lat": "48.73218",
     "long": "11.187090",
     "comments intern": null,
-    "gnd": ""
+    "gnd": "",
+    "alternative_name": null
   },
   "40": {
     "id": 40,
@@ -477,7 +516,8 @@
     "lat": "49.35009",
     "long": "8.138860",
     "comments intern": null,
-    "gnd": ""
+    "gnd": "",
+    "alternative_name": null
   },
   "41": {
     "id": 41,
@@ -489,7 +529,8 @@
     "lat": "50.04075",
     "long": "15.776590",
     "comments intern": null,
-    "gnd": ""
+    "gnd": "",
+    "alternative_name": null
   },
   "42": {
     "id": 42,
@@ -501,7 +542,8 @@
     "lat": "48.85341",
     "long": "2.348800",
     "comments intern": null,
-    "gnd": ""
+    "gnd": "",
+    "alternative_name": null
   },
   "43": {
     "id": 43,
@@ -513,7 +555,8 @@
     "lat": "44.79935",
     "long": "10.326180",
     "comments intern": null,
-    "gnd": ""
+    "gnd": "",
+    "alternative_name": null
   },
   "44": {
     "id": 44,
@@ -525,7 +568,8 @@
     "lat": "48.56650",
     "long": "13.431220",
     "comments intern": null,
-    "gnd": ""
+    "gnd": "",
+    "alternative_name": null
   },
   "45": {
     "id": 45,
@@ -537,7 +581,8 @@
     "lat": "43.70853",
     "long": "10.403600",
     "comments intern": null,
-    "gnd": ""
+    "gnd": "",
+    "alternative_name": null
   },
   "46": {
     "id": 46,
@@ -549,7 +594,8 @@
     "lat": "47.90000",
     "long": "16.383330",
     "comments intern": null,
-    "gnd": ""
+    "gnd": "",
+    "alternative_name": null
   },
   "47": {
     "id": 47,
@@ -561,7 +607,8 @@
     "lat": "50.08804",
     "long": "14.420760",
     "comments intern": null,
-    "gnd": ""
+    "gnd": "",
+    "alternative_name": null
   },
   "48": {
     "id": 48,
@@ -573,7 +620,8 @@
     "lat": "48.14816",
     "long": "17.106740",
     "comments intern": null,
-    "gnd": ""
+    "gnd": "",
+    "alternative_name": null
   },
   "49": {
     "id": 49,
@@ -585,7 +633,8 @@
     "lat": "50.92500",
     "long": "12.235000",
     "comments intern": null,
-    "gnd": ""
+    "gnd": "",
+    "alternative_name": null
   },
   "50": {
     "id": 50,
@@ -597,7 +646,8 @@
     "lat": "41.89193",
     "long": "12.511330",
     "comments intern": "Rom gibt es zweimal in der Liste!!!!!!!! Ich benutze Nummer 90",
-    "gnd": ""
+    "gnd": "",
+    "alternative_name": null
   },
   "51": {
     "id": 51,
@@ -609,7 +659,8 @@
     "lat": "51.61759",
     "long": "15.314860",
     "comments intern": null,
-    "gnd": ""
+    "gnd": "",
+    "alternative_name": null
   },
   "52": {
     "id": 52,
@@ -621,7 +672,8 @@
     "lat": "49.38217",
     "long": "8.582300",
     "comments intern": null,
-    "gnd": ""
+    "gnd": "",
+    "alternative_name": null
   },
   "53": {
     "id": 53,
@@ -633,7 +685,8 @@
     "lat": "49.38217",
     "long": "8.582300",
     "comments intern": null,
-    "gnd": ""
+    "gnd": "",
+    "alternative_name": null
   },
   "54": {
     "id": 54,
@@ -645,7 +698,8 @@
     "lat": "49.34496",
     "long": "9.533900",
     "comments intern": null,
-    "gnd": ""
+    "gnd": "",
+    "alternative_name": null
   },
   "55": {
     "id": 55,
@@ -657,7 +711,8 @@
     "lat": "50.80019",
     "long": "7.207690",
     "comments intern": null,
-    "gnd": ""
+    "gnd": "",
+    "alternative_name": null
   },
   "56": {
     "id": 56,
@@ -669,7 +724,8 @@
     "lat": "48.04274",
     "long": "14.421270",
     "comments intern": null,
-    "gnd": ""
+    "gnd": "",
+    "alternative_name": null
   },
   "57": {
     "id": 57,
@@ -681,7 +737,8 @@
     "lat": "48.14954",
     "long": "14.648140",
     "comments intern": null,
-    "gnd": ""
+    "gnd": "",
+    "alternative_name": null
   },
   "58": {
     "id": 58,
@@ -693,7 +750,8 @@
     "lat": "50.23115",
     "long": "14.182210",
     "comments intern": null,
-    "gnd": ""
+    "gnd": "",
+    "alternative_name": null
   },
   "59": {
     "id": 59,
@@ -705,7 +763,8 @@
     "lat": "52.22977",
     "long": "21.011780",
     "comments intern": null,
-    "gnd": ""
+    "gnd": "",
+    "alternative_name": null
   },
   "60": {
     "id": 60,
@@ -717,7 +776,8 @@
     "lat": "49.54887",
     "long": "8.666970",
     "comments intern": null,
-    "gnd": ""
+    "gnd": "",
+    "alternative_name": null
   },
   "61": {
     "id": 61,
@@ -729,7 +789,8 @@
     "lat": "50.96005",
     "long": "6.258600",
     "comments intern": null,
-    "gnd": ""
+    "gnd": "",
+    "alternative_name": null
   },
   "62": {
     "id": 62,
@@ -741,7 +802,8 @@
     "lat": "51.66690",
     "long": "6.620370",
     "comments intern": null,
-    "gnd": ""
+    "gnd": "",
+    "alternative_name": null
   },
   "63": {
     "id": 63,
@@ -753,7 +815,8 @@
     "lat": "48.20849",
     "long": "16.372080",
     "comments intern": null,
-    "gnd": ""
+    "gnd": "",
+    "alternative_name": null
   },
   "64": {
     "id": 64,
@@ -765,7 +828,8 @@
     "lat": "48.20849",
     "long": "16.372080",
     "comments intern": null,
-    "gnd": ""
+    "gnd": "",
+    "alternative_name": null
   },
   "65": {
     "id": 65,
@@ -777,7 +841,8 @@
     "lat": null,
     "long": null,
     "comments intern": null,
-    "gnd": ""
+    "gnd": "",
+    "alternative_name": null
   },
   "66": {
     "id": 66,
@@ -789,7 +854,8 @@
     "lat": "47.80485",
     "long": "16.231960",
     "comments intern": null,
-    "gnd": ""
+    "gnd": "",
+    "alternative_name": null
   },
   "67": {
     "id": 67,
@@ -801,7 +867,8 @@
     "lat": "52.16442",
     "long": "10.540950",
     "comments intern": null,
-    "gnd": ""
+    "gnd": "",
+    "alternative_name": null
   },
   "68": {
     "id": 68,
@@ -813,7 +880,8 @@
     "lat": "48.27480",
     "long": "12.423110",
     "comments intern": null,
-    "gnd": ""
+    "gnd": "",
+    "alternative_name": null
   },
   "69": {
     "id": 69,
@@ -825,7 +893,8 @@
     "lat": null,
     "long": null,
     "comments intern": null,
-    "gnd": ""
+    "gnd": "",
+    "alternative_name": null
   },
   "70": {
     "id": 70,
@@ -837,7 +906,8 @@
     "lat": "47.85000",
     "long": "13.800000",
     "comments intern": null,
-    "gnd": ""
+    "gnd": "",
+    "alternative_name": null
   },
   "71": {
     "id": 71,
@@ -849,7 +919,8 @@
     "lat": null,
     "long": null,
     "comments intern": null,
-    "gnd": ""
+    "gnd": "",
+    "alternative_name": null
   },
   "72": {
     "id": 72,
@@ -861,7 +932,8 @@
     "lat": "47.68501",
     "long": "16.590490",
     "comments intern": null,
-    "gnd": ""
+    "gnd": "",
+    "alternative_name": null
   },
   "73": {
     "id": 73,
@@ -873,7 +945,8 @@
     "lat": "40.00000",
     "long": "-4.000000",
     "comments intern": null,
-    "gnd": ""
+    "gnd": "",
+    "alternative_name": null
   },
   "74": {
     "id": 74,
@@ -885,7 +958,8 @@
     "lat": "50.75000",
     "long": "4.500000",
     "comments intern": "hier habe ich die Koordinaten von Belgien verwendet",
-    "gnd": ""
+    "gnd": "",
+    "alternative_name": null
   },
   "75": {
     "id": 75,
@@ -897,7 +971,8 @@
     "lat": "37.62304",
     "long": "13.934570",
     "comments intern": null,
-    "gnd": ""
+    "gnd": "",
+    "alternative_name": null
   },
   "76": {
     "id": 76,
@@ -909,7 +984,8 @@
     "lat": "48.19035",
     "long": "16.265520",
     "comments intern": null,
-    "gnd": ""
+    "gnd": "",
+    "alternative_name": null
   },
   "77": {
     "id": 77,
@@ -921,7 +997,8 @@
     "lat": "49.70452",
     "long": "9.267250",
     "comments intern": "Ort auf der Reise PWs zurück nach Neuburg bzw. Düsseldorf 1677",
-    "gnd": ""
+    "gnd": "",
+    "alternative_name": null
   },
   "78": {
     "id": 78,
@@ -933,7 +1010,8 @@
     "lat": "46.06787",
     "long": "11.121080",
     "comments intern": "hier habe ich die Koordinaten der Stadt verwendet\nPeter Andorfer: geonames ID durch gnd ersetzt; geoname-ids dürfen nur einmal verwendet werden",
-    "gnd": "https://d-nb.info/gnd/1274002583"
+    "gnd": "https://d-nb.info/gnd/1274002583",
+    "alternative_name": null
   },
   "79": {
     "id": 79,
@@ -945,7 +1023,8 @@
     "lat": "46.71503",
     "long": "11.655980",
     "comments intern": "",
-    "gnd": ""
+    "gnd": "",
+    "alternative_name": null
   },
   "80": {
     "id": 80,
@@ -957,7 +1036,8 @@
     "lat": null,
     "long": null,
     "comments intern": "",
-    "gnd": ""
+    "gnd": "",
+    "alternative_name": null
   },
   "81": {
     "id": 81,
@@ -969,7 +1049,8 @@
     "lat": "52.00000",
     "long": "20.000000",
     "comments intern": "",
-    "gnd": ""
+    "gnd": "",
+    "alternative_name": null
   },
   "82": {
     "id": 82,
@@ -981,7 +1062,8 @@
     "lat": "52.27264",
     "long": "8.049800",
     "comments intern": "",
-    "gnd": ""
+    "gnd": "",
+    "alternative_name": null
   },
   "83": {
     "id": 83,
@@ -993,7 +1075,8 @@
     "lat": "52.25000",
     "long": "5.750000",
     "comments intern": "ich habe die Koordinaten der Niederlande benutzt",
-    "gnd": ""
+    "gnd": "",
+    "alternative_name": null
   },
   "84": {
     "id": 84,
@@ -1005,7 +1088,8 @@
     "lat": "51.66690",
     "long": "6.620370",
     "comments intern": "",
-    "gnd": ""
+    "gnd": "",
+    "alternative_name": null
   },
   "85": {
     "id": 85,
@@ -1017,7 +1101,8 @@
     "lat": "52.16045",
     "long": "-0.703120",
     "comments intern": "",
-    "gnd": ""
+    "gnd": "",
+    "alternative_name": null
   },
   "86": {
     "id": 86,
@@ -1029,7 +1114,8 @@
     "lat": "46.00000",
     "long": "2.000000",
     "comments intern": "",
-    "gnd": ""
+    "gnd": "",
+    "alternative_name": null
   },
   "87": {
     "id": 87,
@@ -1041,7 +1127,8 @@
     "lat": "42.83333",
     "long": "12.833330",
     "comments intern": "ich habe die Koordinaten für Italien allgemein benutzt, obwohl EMT sicher Norditalien meinte",
-    "gnd": ""
+    "gnd": "",
+    "alternative_name": null
   },
   "88": {
     "id": 88,
@@ -1053,7 +1140,8 @@
     "lat": null,
     "long": null,
     "comments intern": "",
-    "gnd": "https://d-nb.info/gnd/2035457-5"
+    "gnd": "https://d-nb.info/gnd/2035457-5",
+    "alternative_name": null
   },
   "89": {
     "id": 89,
@@ -1065,7 +1153,8 @@
     "lat": "48.19307",
     "long": "16.371200",
     "comments intern": "",
-    "gnd": ""
+    "gnd": "",
+    "alternative_name": null
   },
   "90": {
     "id": 90,
@@ -1077,7 +1166,8 @@
     "lat": "41.89193",
     "long": "12.511330",
     "comments intern": "",
-    "gnd": ""
+    "gnd": "",
+    "alternative_name": null
   },
   "91": {
     "id": 91,
@@ -1089,7 +1179,8 @@
     "lat": null,
     "long": null,
     "comments intern": "",
-    "gnd": "https://d-nb.info/gnd/4031485-6"
+    "gnd": "https://d-nb.info/gnd/4031485-6",
+    "alternative_name": null
   },
   "92": {
     "id": 92,
@@ -1101,7 +1192,8 @@
     "lat": "47.06667",
     "long": "15.450000",
     "comments intern": "",
-    "gnd": ""
+    "gnd": "",
+    "alternative_name": null
   },
   "95": {
     "id": 95,
@@ -1113,7 +1205,8 @@
     "lat": "52.26594",
     "long": "10.526730",
     "comments intern": "",
-    "gnd": ""
+    "gnd": "",
+    "alternative_name": null
   },
   "96": {
     "id": 96,
@@ -1125,7 +1218,8 @@
     "lat": "43.77925",
     "long": "11.246260",
     "comments intern": "",
-    "gnd": ""
+    "gnd": "",
+    "alternative_name": null
   },
   "97": {
     "id": 97,
@@ -1137,7 +1231,8 @@
     "lat": "50.63373",
     "long": "5.567490",
     "comments intern": "",
-    "gnd": ""
+    "gnd": "",
+    "alternative_name": null
   },
   "98": {
     "id": 98,
@@ -1149,7 +1244,8 @@
     "lat": "52.52437",
     "long": "13.410530",
     "comments intern": "",
-    "gnd": ""
+    "gnd": "",
+    "alternative_name": null
   },
   "99": {
     "id": 99,
@@ -1161,7 +1257,8 @@
     "lat": "50.06143",
     "long": "19.936580",
     "comments intern": "",
-    "gnd": ""
+    "gnd": "",
+    "alternative_name": null
   },
   "100": {
     "id": 100,
@@ -1173,7 +1270,8 @@
     "lat": "49.63278",
     "long": "8.359160",
     "comments intern": "",
-    "gnd": ""
+    "gnd": "",
+    "alternative_name": null
   },
   "101": {
     "id": 101,
@@ -1185,7 +1283,8 @@
     "lat": "51.10000",
     "long": "17.033330",
     "comments intern": "",
-    "gnd": ""
+    "gnd": "",
+    "alternative_name": null
   },
   "102": {
     "id": 102,
@@ -1197,7 +1296,8 @@
     "lat": "49.75565",
     "long": "6.639350",
     "comments intern": "",
-    "gnd": ""
+    "gnd": "",
+    "alternative_name": null
   },
   "103": {
     "id": 103,
@@ -1209,7 +1309,8 @@
     "lat": "49.48910",
     "long": "8.466940",
     "comments intern": "",
-    "gnd": ""
+    "gnd": "",
+    "alternative_name": null
   },
   "104": {
     "id": 104,
@@ -1221,7 +1322,8 @@
     "lat": "40.62862",
     "long": "-3.161850",
     "comments intern": "",
-    "gnd": ""
+    "gnd": "",
+    "alternative_name": null
   },
   "105": {
     "id": 105,
@@ -1233,7 +1335,8 @@
     "lat": "50.42528",
     "long": "14.261750",
     "comments intern": "",
-    "gnd": ""
+    "gnd": "",
+    "alternative_name": null
   },
   "106": {
     "id": 106,
@@ -1245,7 +1348,8 @@
     "lat": "50.94660",
     "long": "17.292600",
     "comments intern": "",
-    "gnd": ""
+    "gnd": "",
+    "alternative_name": null
   },
   "107": {
     "id": 107,
@@ -1257,7 +1361,8 @@
     "lat": "50.73438",
     "long": "7.095490",
     "comments intern": "",
-    "gnd": ""
+    "gnd": "",
+    "alternative_name": null
   },
   "108": {
     "id": 108,
@@ -1269,7 +1374,8 @@
     "lat": "51.84250",
     "long": "5.852780",
     "comments intern": "",
-    "gnd": ""
+    "gnd": "",
+    "alternative_name": null
   },
   "109": {
     "id": 109,
@@ -1281,7 +1387,8 @@
     "lat": "50.93333",
     "long": "6.950000",
     "comments intern": "",
-    "gnd": ""
+    "gnd": "",
+    "alternative_name": null
   },
   "110": {
     "id": 110,
@@ -1293,7 +1400,8 @@
     "lat": "50.84833",
     "long": "5.688890",
     "comments intern": "",
-    "gnd": ""
+    "gnd": "",
+    "alternative_name": null
   },
   "111": {
     "id": 111,
@@ -1305,7 +1413,8 @@
     "lat": null,
     "long": null,
     "comments intern": "",
-    "gnd": "https://d-nb.info/gnd/4028839-0"
+    "gnd": "https://d-nb.info/gnd/4028839-0",
+    "alternative_name": null
   },
   "112": {
     "id": 112,
@@ -1317,7 +1426,8 @@
     "lat": "48.30521",
     "long": "16.325220",
     "comments intern": "",
-    "gnd": ""
+    "gnd": "",
+    "alternative_name": null
   },
   "113": {
     "id": 113,
@@ -1329,7 +1439,8 @@
     "lat": null,
     "long": null,
     "comments intern": "",
-    "gnd": "https://d-nb.info/gnd/4279480-8"
+    "gnd": "https://d-nb.info/gnd/4279480-8",
+    "alternative_name": null
   },
   "114": {
     "id": 114,
@@ -1341,7 +1452,8 @@
     "lat": "47.12849",
     "long": "8.747350",
     "comments intern": "",
-    "gnd": ""
+    "gnd": "",
+    "alternative_name": null
   },
   "115": {
     "id": 115,
@@ -1353,7 +1465,8 @@
     "lat": "46.06787",
     "long": "11.121080",
     "comments intern": "",
-    "gnd": ""
+    "gnd": "",
+    "alternative_name": null
   },
   "116": {
     "id": 116,
@@ -1365,7 +1478,8 @@
     "lat": "49.01315",
     "long": "12.111900",
     "comments intern": "",
-    "gnd": ""
+    "gnd": "",
+    "alternative_name": null
   },
   "117": {
     "id": 117,
@@ -1377,7 +1491,8 @@
     "lat": "48.62695",
     "long": "13.192220",
     "comments intern": "",
-    "gnd": ""
+    "gnd": "",
+    "alternative_name": null
   },
   "118": {
     "id": 118,
@@ -1389,7 +1504,8 @@
     "lat": "48.00543",
     "long": "16.232640",
     "comments intern": "",
-    "gnd": ""
+    "gnd": "",
+    "alternative_name": null
   },
   "119": {
     "id": 119,
@@ -1401,7 +1517,8 @@
     "lat": null,
     "long": null,
     "comments intern": "",
-    "gnd": ""
+    "gnd": "",
+    "alternative_name": null
   },
   "120": {
     "id": 120,
@@ -1413,7 +1530,8 @@
     "lat": "48.08605",
     "long": "16.289210",
     "comments intern": "",
-    "gnd": ""
+    "gnd": "",
+    "alternative_name": null
   },
   "121": {
     "id": 121,
@@ -1425,7 +1543,8 @@
     "lat": "49.00000",
     "long": "11.500000",
     "comments intern": "",
-    "gnd": ""
+    "gnd": "",
+    "alternative_name": null
   },
   "122": {
     "id": 122,
@@ -1437,7 +1556,8 @@
     "lat": "48.18623",
     "long": "16.296500",
     "comments intern": "",
-    "gnd": ""
+    "gnd": "",
+    "alternative_name": null
   },
   "123": {
     "id": 123,
@@ -1449,7 +1569,8 @@
     "lat": "48.13743",
     "long": "11.575490",
     "comments intern": "",
-    "gnd": ""
+    "gnd": "",
+    "alternative_name": null
   },
   "124": {
     "id": 124,
@@ -1461,7 +1582,8 @@
     "lat": "47.77306",
     "long": "15.316390",
     "comments intern": "",
-    "gnd": ""
+    "gnd": "",
+    "alternative_name": null
   },
   "125": {
     "id": 125,
@@ -1473,7 +1595,8 @@
     "lat": "49.47631",
     "long": "9.772660",
     "comments intern": "",
-    "gnd": ""
+    "gnd": "",
+    "alternative_name": null
   },
   "126": {
     "id": 126,
@@ -1485,7 +1608,8 @@
     "lat": "39.69450",
     "long": "-8.130570",
     "comments intern": "",
-    "gnd": ""
+    "gnd": "",
+    "alternative_name": null
   },
   "127": {
     "id": 127,
@@ -1497,7 +1621,8 @@
     "lat": "49.39610",
     "long": "15.591240",
     "comments intern": "",
-    "gnd": ""
+    "gnd": "",
+    "alternative_name": null
   },
   "128": {
     "id": 128,
@@ -1509,7 +1634,8 @@
     "lat": null,
     "long": null,
     "comments intern": "",
-    "gnd": "https://d-nb.info/gnd/4100026-2"
+    "gnd": "https://d-nb.info/gnd/4100026-2",
+    "alternative_name": null
   },
   "129": {
     "id": 129,
@@ -1521,7 +1647,8 @@
     "lat": null,
     "long": null,
     "comments intern": "wohl Mergentheim gemeint??",
-    "gnd": ""
+    "gnd": "",
+    "alternative_name": null
   },
   "130": {
     "id": 130,
@@ -1533,7 +1660,8 @@
     "lat": "49.68333",
     "long": "14.016670",
     "comments intern": "",
-    "gnd": ""
+    "gnd": "",
+    "alternative_name": null
   },
   "131": {
     "id": 131,
@@ -1545,7 +1673,8 @@
     "lat": "48.58392",
     "long": "7.745530",
     "comments intern": "",
-    "gnd": ""
+    "gnd": "",
+    "alternative_name": null
   },
   "132": {
     "id": 132,
@@ -1557,7 +1686,8 @@
     "lat": "44.80401",
     "long": "20.465130",
     "comments intern": "",
-    "gnd": ""
+    "gnd": "",
+    "alternative_name": null
   },
   "133": {
     "id": 133,
@@ -1569,7 +1699,8 @@
     "lat": "45.12554",
     "long": "20.239140",
     "comments intern": "",
-    "gnd": ""
+    "gnd": "",
+    "alternative_name": null
   },
   "134": {
     "id": 134,
@@ -1581,7 +1712,8 @@
     "lat": "45.92750",
     "long": "20.077220",
     "comments intern": "",
-    "gnd": ""
+    "gnd": "",
+    "alternative_name": null
   },
   "135": {
     "id": 135,
@@ -1593,7 +1725,8 @@
     "lat": "52.03634",
     "long": "4.325010",
     "comments intern": "",
-    "gnd": ""
+    "gnd": "",
+    "alternative_name": null
   },
   "136": {
     "id": 136,
@@ -1605,7 +1738,8 @@
     "lat": "45.20285",
     "long": "19.933730",
     "comments intern": "",
-    "gnd": ""
+    "gnd": "",
+    "alternative_name": null
   },
   "137": {
     "id": 137,
@@ -1617,7 +1751,8 @@
     "lat": null,
     "long": null,
     "comments intern": "",
-    "gnd": "https://d-nb.info/gnd/4279563-1"
+    "gnd": "https://d-nb.info/gnd/4279563-1",
+    "alternative_name": null
   },
   "138": {
     "id": 138,
@@ -1629,7 +1764,8 @@
     "lat": "47.87468",
     "long": "7.657210",
     "comments intern": "Sitz des Großpriorates des Johanniterordens im Reich",
-    "gnd": ""
+    "gnd": "",
+    "alternative_name": null
   },
   "139": {
     "id": 139,
@@ -1641,7 +1777,8 @@
     "lat": "50.05772",
     "long": "15.487090",
     "comments intern": "",
-    "gnd": ""
+    "gnd": "",
+    "alternative_name": null
   },
   "140": {
     "id": 140,
@@ -1653,7 +1790,8 @@
     "lat": "50.13302",
     "long": "15.773230",
     "comments intern": "großer Fischteich bei Pardubice",
-    "gnd": ""
+    "gnd": "",
+    "alternative_name": null
   },
   "141": {
     "id": 141,
@@ -1665,7 +1803,8 @@
     "lat": "50.94322",
     "long": "6.945970",
     "comments intern": "",
-    "gnd": ""
+    "gnd": "",
+    "alternative_name": null
   },
   "142": {
     "id": 142,
@@ -1677,7 +1816,8 @@
     "lat": "48.16082",
     "long": "14.021640",
     "comments intern": "",
-    "gnd": ""
+    "gnd": "",
+    "alternative_name": null
   },
   "143": {
     "id": 143,
@@ -1689,7 +1829,8 @@
     "lat": "48.21415",
     "long": "14.477830",
     "comments intern": "",
-    "gnd": ""
+    "gnd": "",
+    "alternative_name": null
   },
   "144": {
     "id": 144,
@@ -1701,7 +1842,8 @@
     "lat": "48.00750",
     "long": "12.894260",
     "comments intern": "",
-    "gnd": ""
+    "gnd": "",
+    "alternative_name": null
   },
   "145": {
     "id": 145,
@@ -1713,7 +1855,8 @@
     "lat": "48.33333",
     "long": "15.750000",
     "comments intern": "",
-    "gnd": "https://d-nb.info/gnd/4075391-8"
+    "gnd": "https://d-nb.info/gnd/4075391-8",
+    "alternative_name": null
   },
   "146": {
     "id": 146,
@@ -1725,7 +1868,8 @@
     "lat": "53.58333",
     "long": "10.000000",
     "comments intern": "",
-    "gnd": ""
+    "gnd": "",
+    "alternative_name": null
   },
   "147": {
     "id": 147,
@@ -1737,7 +1881,8 @@
     "lat": "48.23885",
     "long": "14.331840",
     "comments intern": "bei Linz, heute Stadtteil",
-    "gnd": ""
+    "gnd": "",
+    "alternative_name": null
   },
   "148": {
     "id": 148,
@@ -1749,7 +1894,8 @@
     "lat": "48.22086",
     "long": "14.238330",
     "comments intern": "",
-    "gnd": ""
+    "gnd": "",
+    "alternative_name": null
   },
   "149": {
     "id": 149,
@@ -1761,7 +1907,8 @@
     "lat": "47.00000",
     "long": "20.000000",
     "comments intern": "",
-    "gnd": "https://d-nb.info/gnd/4078541-5"
+    "gnd": "https://d-nb.info/gnd/4078541-5",
+    "alternative_name": null
   },
   "150": {
     "id": 150,
@@ -1773,7 +1920,8 @@
     "lat": "48.25000",
     "long": "14.000000",
     "comments intern": "",
-    "gnd": "https://d-nb.info/gnd/4075560-5"
+    "gnd": "https://d-nb.info/gnd/4075560-5",
+    "alternative_name": null
   },
   "151": {
     "id": 151,
@@ -1785,7 +1933,8 @@
     "lat": "45.74846",
     "long": "4.846710",
     "comments intern": "",
-    "gnd": ""
+    "gnd": "",
+    "alternative_name": null
   },
   "152": {
     "id": 152,
@@ -1797,7 +1946,8 @@
     "lat": "47.00016",
     "long": "8.014270",
     "comments intern": "",
-    "gnd": "https://d-nb.info/gnd/4053881-3"
+    "gnd": "https://d-nb.info/gnd/4053881-3",
+    "alternative_name": null
   },
   "153": {
     "id": 153,
@@ -1809,7 +1959,8 @@
     "lat": "47.96667",
     "long": "16.600000",
     "comments intern": "",
-    "gnd": ""
+    "gnd": "",
+    "alternative_name": null
   },
   "154": {
     "id": 154,
@@ -1821,7 +1972,8 @@
     "lat": "62.00000",
     "long": "15.000000",
     "comments intern": "",
-    "gnd": ""
+    "gnd": "",
+    "alternative_name": null
   },
   "155": {
     "id": 155,
@@ -1833,7 +1985,8 @@
     "lat": "47.25000",
     "long": "15.166670",
     "comments intern": "",
-    "gnd": "https://d-nb.info/gnd/4057092-7"
+    "gnd": "https://d-nb.info/gnd/4057092-7",
+    "alternative_name": null
   },
   "156": {
     "id": 156,
@@ -1845,7 +1998,8 @@
     "lat": "35.88182",
     "long": "14.449080",
     "comments intern": "",
-    "gnd": ""
+    "gnd": "",
+    "alternative_name": null
   },
   "157": {
     "id": 157,
@@ -1857,7 +2011,8 @@
     "lat": "47.84565",
     "long": "16.523270",
     "comments intern": "",
-    "gnd": ""
+    "gnd": "",
+    "alternative_name": null
   },
   "158": {
     "id": 158,
@@ -1869,7 +2024,8 @@
     "lat": null,
     "long": null,
     "comments intern": "gemeint sein könnte ältere Bezeichnung für Oberpfalz - oder im georgrfischen Sinne die nördlicheren pfälzischen Besitzungen",
-    "gnd": "https://d-nb.info/gnd/4293553-2"
+    "gnd": "https://d-nb.info/gnd/4293553-2",
+    "alternative_name": null
   },
   "159": {
     "id": 159,
@@ -1881,7 +2037,8 @@
     "lat": "48.76751",
     "long": "10.796390",
     "comments intern": "",
-    "gnd": ""
+    "gnd": "",
+    "alternative_name": null
   },
   "160": {
     "id": 160,
@@ -1893,7 +2050,8 @@
     "lat": "45.13338",
     "long": "8.452500",
     "comments intern": "",
-    "gnd": ""
+    "gnd": "",
+    "alternative_name": null
   },
   "161": {
     "id": 161,
@@ -1905,7 +2063,8 @@
     "lat": "48.33333",
     "long": "7.433330",
     "comments intern": "",
-    "gnd": "https://d-nb.info/gnd/10045144-5"
+    "gnd": "https://d-nb.info/gnd/10045144-5",
+    "alternative_name": null
   },
   "162": {
     "id": 162,
@@ -1917,7 +2076,8 @@
     "lat": null,
     "long": null,
     "comments intern": "",
-    "gnd": "https://d-nb.info/gnd/4053668-3"
+    "gnd": "https://d-nb.info/gnd/4053668-3",
+    "alternative_name": null
   },
   "163": {
     "id": 163,
@@ -1929,7 +2089,8 @@
     "lat": "47.17632",
     "long": "9.487930",
     "comments intern": "",
-    "gnd": ""
+    "gnd": "",
+    "alternative_name": null
   },
   "164": {
     "id": 164,
@@ -1941,7 +2102,8 @@
     "lat": null,
     "long": null,
     "comments intern": "",
-    "gnd": ""
+    "gnd": "",
+    "alternative_name": null
   },
   "165": {
     "id": 165,
@@ -1953,7 +2115,8 @@
     "lat": "50.10921",
     "long": "14.406600",
     "comments intern": "",
-    "gnd": "https://d-nb.info/gnd/7521783-1"
+    "gnd": "https://d-nb.info/gnd/7521783-1",
+    "alternative_name": null
   },
   "166": {
     "id": 166,
@@ -1965,7 +2128,8 @@
     "lat": null,
     "long": null,
     "comments intern": "",
-    "gnd": "https://d-nb.info/gnd/4441054-2"
+    "gnd": "https://d-nb.info/gnd/4441054-2",
+    "alternative_name": null
   },
   "167": {
     "id": 167,
@@ -1977,6 +2141,7 @@
     "lat": null,
     "long": null,
     "comments intern": "",
-    "gnd": ""
+    "gnd": "",
+    "alternative_name": null
   }
 }

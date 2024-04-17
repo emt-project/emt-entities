@@ -17,7 +17,8 @@
                 "lat": "51.22172",
                 "long": "6.776160",
                 "comments intern": null,
-                "gnd": ""
+                "gnd": "",
+                "alternative_name": null
             }
         ],
         "related_persons": [
@@ -95,7 +96,7 @@
         "date_written": null,
         "category": {
             "id": 13232,
-            "value": "Dynastisches (Geburten, Heiraten, Todesfälle)",
+            "value": "Dynastisches",
             "color": "darker-brown"
         }
     },
@@ -117,7 +118,8 @@
                 "lat": "48.56650",
                 "long": "13.431220",
                 "comments intern": null,
-                "gnd": ""
+                "gnd": "",
+                "alternative_name": null
             }
         ],
         "related_persons": [
@@ -173,7 +175,7 @@
         "date_written": null,
         "category": {
             "id": 13232,
-            "value": "Dynastisches (Geburten, Heiraten, Todesfälle)",
+            "value": "Dynastisches",
             "color": "darker-brown"
         }
     },
@@ -195,7 +197,8 @@
                 "lat": "48.20849",
                 "long": "16.372080",
                 "comments intern": null,
-                "gnd": ""
+                "gnd": "",
+                "alternative_name": null
             }
         ],
         "related_persons": [],
@@ -206,7 +209,7 @@
         "date_written": null,
         "category": {
             "id": 13232,
-            "value": "Dynastisches (Geburten, Heiraten, Todesfälle)",
+            "value": "Dynastisches",
             "color": "darker-brown"
         }
     },
@@ -228,7 +231,8 @@
                 "lat": "48.20849",
                 "long": "16.372080",
                 "comments intern": null,
-                "gnd": ""
+                "gnd": "",
+                "alternative_name": null
             }
         ],
         "related_persons": [
@@ -284,7 +288,7 @@
         "date_written": null,
         "category": {
             "id": 13232,
-            "value": "Dynastisches (Geburten, Heiraten, Todesfälle)",
+            "value": "Dynastisches",
             "color": "darker-brown"
         }
     },
@@ -306,7 +310,8 @@
                 "lat": "48.20849",
                 "long": "16.372080",
                 "comments intern": null,
-                "gnd": ""
+                "gnd": "",
+                "alternative_name": null
             }
         ],
         "related_persons": [
@@ -362,7 +367,7 @@
         "date_written": null,
         "category": {
             "id": 13232,
-            "value": "Dynastisches (Geburten, Heiraten, Todesfälle)",
+            "value": "Dynastisches",
             "color": "darker-brown"
         }
     },
@@ -384,7 +389,8 @@
                 "lat": "48.20849",
                 "long": "16.372080",
                 "comments intern": null,
-                "gnd": ""
+                "gnd": "",
+                "alternative_name": null
             }
         ],
         "related_persons": [
@@ -484,7 +490,7 @@
         "date_written": null,
         "category": {
             "id": 13232,
-            "value": "Dynastisches (Geburten, Heiraten, Todesfälle)",
+            "value": "Dynastisches",
             "color": "darker-brown"
         }
     },
@@ -506,7 +512,8 @@
                 "lat": "48.20849",
                 "long": "16.372080",
                 "comments intern": null,
-                "gnd": ""
+                "gnd": "",
+                "alternative_name": null
             }
         ],
         "related_persons": [
@@ -584,7 +591,7 @@
         "date_written": null,
         "category": {
             "id": 13232,
-            "value": "Dynastisches (Geburten, Heiraten, Todesfälle)",
+            "value": "Dynastisches",
             "color": "darker-brown"
         }
     },
@@ -606,7 +613,8 @@
                 "lat": "48.20849",
                 "long": "16.372080",
                 "comments intern": null,
-                "gnd": ""
+                "gnd": "",
+                "alternative_name": null
             }
         ],
         "related_persons": [
@@ -662,7 +670,7 @@
         "date_written": null,
         "category": {
             "id": 13232,
-            "value": "Dynastisches (Geburten, Heiraten, Todesfälle)",
+            "value": "Dynastisches",
             "color": "darker-brown"
         }
     },
@@ -684,7 +692,8 @@
                 "lat": "48.20849",
                 "long": "16.372080",
                 "comments intern": null,
-                "gnd": ""
+                "gnd": "",
+                "alternative_name": null
             }
         ],
         "related_persons": [
@@ -762,7 +771,7 @@
         "date_written": null,
         "category": {
             "id": 13232,
-            "value": "Dynastisches (Geburten, Heiraten, Todesfälle)",
+            "value": "Dynastisches",
             "color": "darker-brown"
         }
     },
@@ -784,7 +793,8 @@
                 "lat": "47.68501",
                 "long": "16.590490",
                 "comments intern": null,
-                "gnd": ""
+                "gnd": "",
+                "alternative_name": null
             }
         ],
         "related_persons": [
@@ -840,7 +850,7 @@
         "date_written": null,
         "category": {
             "id": 13233,
-            "value": "Zeremonielles (Krönungen, Wahlen und Bischofserhebungen)",
+            "value": "Zeremonielles",
             "color": "darker-red"
         }
     },
@@ -862,7 +872,8 @@
                 "lat": "48.36733",
                 "long": "10.892130",
                 "comments intern": null,
-                "gnd": ""
+                "gnd": "",
+                "alternative_name": null
             }
         ],
         "related_persons": [
@@ -918,7 +929,7 @@
         "date_written": null,
         "category": {
             "id": 13233,
-            "value": "Zeremonielles (Krönungen, Wahlen und Bischofserhebungen)",
+            "value": "Zeremonielles",
             "color": "darker-red"
         }
     },
@@ -940,7 +951,8 @@
                 "lat": "48.14816",
                 "long": "17.106740",
                 "comments intern": null,
-                "gnd": ""
+                "gnd": "",
+                "alternative_name": null
             }
         ],
         "related_persons": [
@@ -1018,7 +1030,7 @@
         "date_written": null,
         "category": {
             "id": 13233,
-            "value": "Zeremonielles (Krönungen, Wahlen und Bischofserhebungen)",
+            "value": "Zeremonielles",
             "color": "darker-red"
         }
     },
@@ -1040,7 +1052,8 @@
                 "lat": "48.36733",
                 "long": "10.892130",
                 "comments intern": null,
-                "gnd": ""
+                "gnd": "",
+                "alternative_name": null
             }
         ],
         "related_persons": [
@@ -1118,7 +1131,7 @@
         "date_written": null,
         "category": {
             "id": 13233,
-            "value": "Zeremonielles (Krönungen, Wahlen und Bischofserhebungen)",
+            "value": "Zeremonielles",
             "color": "darker-red"
         }
     },
@@ -1140,7 +1153,8 @@
                 "lat": "50.11552",
                 "long": "8.684170",
                 "comments intern": null,
-                "gnd": ""
+                "gnd": "",
+                "alternative_name": null
             }
         ],
         "related_persons": [
@@ -1174,7 +1188,7 @@
         "date_written": null,
         "category": {
             "id": 13233,
-            "value": "Zeremonielles (Krönungen, Wahlen und Bischofserhebungen)",
+            "value": "Zeremonielles",
             "color": "darker-red"
         }
     },
@@ -1196,7 +1210,8 @@
                 "lat": "48.14816",
                 "long": "17.106740",
                 "comments intern": null,
-                "gnd": ""
+                "gnd": "",
+                "alternative_name": null
             }
         ],
         "related_persons": [
@@ -1230,7 +1245,7 @@
         "date_written": null,
         "category": {
             "id": 13233,
-            "value": "Zeremonielles (Krönungen, Wahlen und Bischofserhebungen)",
+            "value": "Zeremonielles",
             "color": "darker-red"
         }
     },
@@ -1252,7 +1267,8 @@
                 "lat": "48.14816",
                 "long": "17.106740",
                 "comments intern": null,
-                "gnd": ""
+                "gnd": "",
+                "alternative_name": null
             }
         ],
         "related_persons": [
@@ -1308,7 +1324,7 @@
         "date_written": null,
         "category": {
             "id": 13233,
-            "value": "Zeremonielles (Krönungen, Wahlen und Bischofserhebungen)",
+            "value": "Zeremonielles",
             "color": "darker-red"
         }
     },
@@ -1330,7 +1346,8 @@
                 "lat": "48.06833",
                 "long": "16.356070",
                 "comments intern": null,
-                "gnd": ""
+                "gnd": "",
+                "alternative_name": null
             }
         ],
         "related_persons": [
@@ -1364,7 +1381,7 @@
         "date_written": null,
         "category": {
             "id": 13232,
-            "value": "Dynastisches (Geburten, Heiraten, Todesfälle)",
+            "value": "Dynastisches",
             "color": "darker-brown"
         }
     },
@@ -1386,7 +1403,8 @@
                 "lat": "48.30639",
                 "long": "14.286110",
                 "comments intern": null,
-                "gnd": ""
+                "gnd": "",
+                "alternative_name": null
             }
         ],
         "related_persons": [
@@ -1420,7 +1438,7 @@
         "date_written": null,
         "category": {
             "id": 13232,
-            "value": "Dynastisches (Geburten, Heiraten, Todesfälle)",
+            "value": "Dynastisches",
             "color": "darker-brown"
         }
     },
@@ -1485,7 +1503,7 @@
         "date_written": null,
         "category": {
             "id": 13232,
-            "value": "Dynastisches (Geburten, Heiraten, Todesfälle)",
+            "value": "Dynastisches",
             "color": "darker-brown"
         }
     },
@@ -1507,7 +1525,8 @@
                 "lat": "48.30639",
                 "long": "14.286110",
                 "comments intern": null,
-                "gnd": ""
+                "gnd": "",
+                "alternative_name": null
             }
         ],
         "related_persons": [
@@ -1541,7 +1560,7 @@
         "date_written": null,
         "category": {
             "id": 13232,
-            "value": "Dynastisches (Geburten, Heiraten, Todesfälle)",
+            "value": "Dynastisches",
             "color": "darker-brown"
         }
     },
@@ -1563,7 +1582,8 @@
                 "lat": "48.30639",
                 "long": "14.286110",
                 "comments intern": null,
-                "gnd": ""
+                "gnd": "",
+                "alternative_name": null
             }
         ],
         "related_persons": [
@@ -1619,7 +1639,7 @@
         "date_written": null,
         "category": {
             "id": 13232,
-            "value": "Dynastisches (Geburten, Heiraten, Todesfälle)",
+            "value": "Dynastisches",
             "color": "darker-brown"
         }
     },
@@ -1641,7 +1661,8 @@
                 "lat": "48.20849",
                 "long": "16.372080",
                 "comments intern": null,
-                "gnd": ""
+                "gnd": "",
+                "alternative_name": null
             }
         ],
         "related_persons": [
@@ -1697,7 +1718,7 @@
         "date_written": null,
         "category": {
             "id": 13232,
-            "value": "Dynastisches (Geburten, Heiraten, Todesfälle)",
+            "value": "Dynastisches",
             "color": "darker-brown"
         }
     },
@@ -1719,7 +1740,8 @@
                 "lat": "48.30639",
                 "long": "14.286110",
                 "comments intern": null,
-                "gnd": ""
+                "gnd": "",
+                "alternative_name": null
             }
         ],
         "related_persons": [
@@ -1775,7 +1797,7 @@
         "date_written": null,
         "category": {
             "id": 13232,
-            "value": "Dynastisches (Geburten, Heiraten, Todesfälle)",
+            "value": "Dynastisches",
             "color": "darker-brown"
         }
     },
@@ -1797,7 +1819,8 @@
                 "lat": "48.15833",
                 "long": "16.474170",
                 "comments intern": null,
-                "gnd": ""
+                "gnd": "",
+                "alternative_name": null
             }
         ],
         "related_persons": [
@@ -1831,7 +1854,7 @@
         "date_written": null,
         "category": {
             "id": 13232,
-            "value": "Dynastisches (Geburten, Heiraten, Todesfälle)",
+            "value": "Dynastisches",
             "color": "darker-brown"
         }
     },
@@ -1853,7 +1876,8 @@
                 "lat": "48.20849",
                 "long": "16.372080",
                 "comments intern": null,
-                "gnd": ""
+                "gnd": "",
+                "alternative_name": null
             }
         ],
         "related_persons": [
@@ -1909,7 +1933,7 @@
         "date_written": null,
         "category": {
             "id": 13232,
-            "value": "Dynastisches (Geburten, Heiraten, Todesfälle)",
+            "value": "Dynastisches",
             "color": "darker-brown"
         }
     },
@@ -1931,7 +1955,8 @@
                 "lat": "48.20849",
                 "long": "16.372080",
                 "comments intern": null,
-                "gnd": ""
+                "gnd": "",
+                "alternative_name": null
             }
         ],
         "related_persons": [
@@ -1965,7 +1990,7 @@
         "date_written": null,
         "category": {
             "id": 13232,
-            "value": "Dynastisches (Geburten, Heiraten, Todesfälle)",
+            "value": "Dynastisches",
             "color": "darker-brown"
         }
     },
@@ -1987,7 +2012,8 @@
                 "lat": "48.20849",
                 "long": "16.372080",
                 "comments intern": null,
-                "gnd": ""
+                "gnd": "",
+                "alternative_name": null
             }
         ],
         "related_persons": [
@@ -2043,7 +2069,7 @@
         "date_written": null,
         "category": {
             "id": 13232,
-            "value": "Dynastisches (Geburten, Heiraten, Todesfälle)",
+            "value": "Dynastisches",
             "color": "darker-brown"
         }
     },
@@ -2065,7 +2091,8 @@
                 "lat": "48.20849",
                 "long": "16.372080",
                 "comments intern": null,
-                "gnd": ""
+                "gnd": "",
+                "alternative_name": null
             }
         ],
         "related_persons": [
@@ -2121,7 +2148,7 @@
         "date_written": null,
         "category": {
             "id": 13232,
-            "value": "Dynastisches (Geburten, Heiraten, Todesfälle)",
+            "value": "Dynastisches",
             "color": "darker-brown"
         }
     },
@@ -2164,7 +2191,7 @@
         "date_written": "1691",
         "category": {
             "id": 13232,
-            "value": "Dynastisches (Geburten, Heiraten, Todesfälle)",
+            "value": "Dynastisches",
             "color": "darker-brown"
         }
     },
@@ -2186,7 +2213,8 @@
                 "lat": "48.20849",
                 "long": "16.372080",
                 "comments intern": null,
-                "gnd": ""
+                "gnd": "",
+                "alternative_name": null
             }
         ],
         "related_persons": [
@@ -2220,7 +2248,7 @@
         "date_written": null,
         "category": {
             "id": 13232,
-            "value": "Dynastisches (Geburten, Heiraten, Todesfälle)",
+            "value": "Dynastisches",
             "color": "darker-brown"
         }
     },
@@ -2242,7 +2270,8 @@
                 "lat": "51.22172",
                 "long": "6.776160",
                 "comments intern": null,
-                "gnd": ""
+                "gnd": "",
+                "alternative_name": null
             }
         ],
         "related_persons": [
@@ -2276,7 +2305,7 @@
         "date_written": null,
         "category": {
             "id": 13232,
-            "value": "Dynastisches (Geburten, Heiraten, Todesfälle)",
+            "value": "Dynastisches",
             "color": "darker-brown"
         }
     },
@@ -2298,7 +2327,8 @@
                 "lat": "47.80485",
                 "long": "16.231960",
                 "comments intern": null,
-                "gnd": ""
+                "gnd": "",
+                "alternative_name": null
             }
         ],
         "related_persons": [
@@ -2354,7 +2384,7 @@
         "date_written": null,
         "category": {
             "id": 13232,
-            "value": "Dynastisches (Geburten, Heiraten, Todesfälle)",
+            "value": "Dynastisches",
             "color": "darker-brown"
         }
     },
@@ -2376,7 +2406,8 @@
                 "lat": "48.20849",
                 "long": "16.372080",
                 "comments intern": null,
-                "gnd": ""
+                "gnd": "",
+                "alternative_name": null
             }
         ],
         "related_persons": [
@@ -2410,7 +2441,7 @@
         "date_written": null,
         "category": {
             "id": 13232,
-            "value": "Dynastisches (Geburten, Heiraten, Todesfälle)",
+            "value": "Dynastisches",
             "color": "darker-brown"
         }
     },
@@ -2432,7 +2463,8 @@
                 "lat": "43.77925",
                 "long": "11.246260",
                 "comments intern": "",
-                "gnd": ""
+                "gnd": "",
+                "alternative_name": null
             }
         ],
         "related_persons": [
@@ -2466,7 +2498,7 @@
         "date_written": null,
         "category": {
             "id": 13232,
-            "value": "Dynastisches (Geburten, Heiraten, Todesfälle)",
+            "value": "Dynastisches",
             "color": "darker-brown"
         }
     },
@@ -2488,7 +2520,8 @@
                 "lat": "51.22172",
                 "long": "6.776160",
                 "comments intern": null,
-                "gnd": ""
+                "gnd": "",
+                "alternative_name": null
             }
         ],
         "related_persons": [
@@ -2522,7 +2555,7 @@
         "date_written": null,
         "category": {
             "id": 13232,
-            "value": "Dynastisches (Geburten, Heiraten, Todesfälle)",
+            "value": "Dynastisches",
             "color": "darker-brown"
         }
     },
@@ -2544,7 +2577,8 @@
                 "lat": "51.22172",
                 "long": "6.776160",
                 "comments intern": null,
-                "gnd": ""
+                "gnd": "",
+                "alternative_name": null
             }
         ],
         "related_persons": [
@@ -2578,7 +2612,7 @@
         "date_written": null,
         "category": {
             "id": 13232,
-            "value": "Dynastisches (Geburten, Heiraten, Todesfälle)",
+            "value": "Dynastisches",
             "color": "darker-brown"
         }
     },
@@ -2600,7 +2634,8 @@
                 "lat": "47.80485",
                 "long": "16.231960",
                 "comments intern": null,
-                "gnd": ""
+                "gnd": "",
+                "alternative_name": null
             }
         ],
         "related_persons": [
@@ -2634,7 +2669,7 @@
         "date_written": null,
         "category": {
             "id": 13232,
-            "value": "Dynastisches (Geburten, Heiraten, Todesfälle)",
+            "value": "Dynastisches",
             "color": "darker-brown"
         }
     },
@@ -2656,7 +2691,8 @@
                 "lat": "51.22172",
                 "long": "6.776160",
                 "comments intern": null,
-                "gnd": ""
+                "gnd": "",
+                "alternative_name": null
             }
         ],
         "related_persons": [
@@ -2690,7 +2726,7 @@
         "date_written": null,
         "category": {
             "id": 13232,
-            "value": "Dynastisches (Geburten, Heiraten, Todesfälle)",
+            "value": "Dynastisches",
             "color": "darker-brown"
         }
     },
@@ -2712,7 +2748,8 @@
                 "lat": "50.63373",
                 "long": "5.567490",
                 "comments intern": "",
-                "gnd": ""
+                "gnd": "",
+                "alternative_name": null
             }
         ],
         "related_persons": [
@@ -2746,7 +2783,7 @@
         "date_written": null,
         "category": {
             "id": 13232,
-            "value": "Dynastisches (Geburten, Heiraten, Todesfälle)",
+            "value": "Dynastisches",
             "color": "darker-brown"
         }
     },
@@ -2768,7 +2805,8 @@
                 "lat": "48.73218",
                 "long": "11.187090",
                 "comments intern": null,
-                "gnd": ""
+                "gnd": "",
+                "alternative_name": null
             }
         ],
         "related_persons": [
@@ -2802,7 +2840,7 @@
         "date_written": null,
         "category": {
             "id": 13232,
-            "value": "Dynastisches (Geburten, Heiraten, Todesfälle)",
+            "value": "Dynastisches",
             "color": "darker-brown"
         }
     },
@@ -2824,7 +2862,8 @@
                 "lat": "52.52437",
                 "long": "13.410530",
                 "comments intern": "",
-                "gnd": ""
+                "gnd": "",
+                "alternative_name": null
             }
         ],
         "related_persons": [
@@ -2880,7 +2919,7 @@
         "date_written": null,
         "category": {
             "id": 13232,
-            "value": "Dynastisches (Geburten, Heiraten, Todesfälle)",
+            "value": "Dynastisches",
             "color": "darker-brown"
         }
     },
@@ -2902,7 +2941,8 @@
                 "lat": "50.06143",
                 "long": "19.936580",
                 "comments intern": "",
-                "gnd": ""
+                "gnd": "",
+                "alternative_name": null
             }
         ],
         "related_persons": [
@@ -2958,7 +2998,7 @@
         "date_written": null,
         "category": {
             "id": 13232,
-            "value": "Dynastisches (Geburten, Heiraten, Todesfälle)",
+            "value": "Dynastisches",
             "color": "darker-brown"
         }
     },
@@ -2980,7 +3020,8 @@
                 "lat": "48.73218",
                 "long": "11.187090",
                 "comments intern": null,
-                "gnd": ""
+                "gnd": "",
+                "alternative_name": null
             }
         ],
         "related_persons": [
@@ -3014,7 +3055,7 @@
         "date_written": null,
         "category": {
             "id": 13232,
-            "value": "Dynastisches (Geburten, Heiraten, Todesfälle)",
+            "value": "Dynastisches",
             "color": "darker-brown"
         }
     },
@@ -3036,7 +3077,8 @@
                 "lat": "49.63278",
                 "long": "8.359160",
                 "comments intern": "",
-                "gnd": ""
+                "gnd": "",
+                "alternative_name": null
             }
         ],
         "related_persons": [
@@ -3070,7 +3112,7 @@
         "date_written": null,
         "category": {
             "id": 13233,
-            "value": "Zeremonielles (Krönungen, Wahlen und Bischofserhebungen)",
+            "value": "Zeremonielles",
             "color": "darker-red"
         }
     },
@@ -3092,7 +3134,8 @@
                 "lat": "48.36733",
                 "long": "10.892130",
                 "comments intern": null,
-                "gnd": ""
+                "gnd": "",
+                "alternative_name": null
             }
         ],
         "related_persons": [
@@ -3126,7 +3169,7 @@
         "date_written": null,
         "category": {
             "id": 13233,
-            "value": "Zeremonielles (Krönungen, Wahlen und Bischofserhebungen)",
+            "value": "Zeremonielles",
             "color": "darker-red"
         }
     },
@@ -3169,7 +3212,7 @@
         "date_written": null,
         "category": {
             "id": 13233,
-            "value": "Zeremonielles (Krönungen, Wahlen und Bischofserhebungen)",
+            "value": "Zeremonielles",
             "color": "darker-red"
         }
     },
@@ -3191,7 +3234,8 @@
                 "lat": "48.73218",
                 "long": "11.187090",
                 "comments intern": null,
-                "gnd": ""
+                "gnd": "",
+                "alternative_name": null
             }
         ],
         "related_persons": [
@@ -3225,7 +3269,7 @@
         "date_written": null,
         "category": {
             "id": 13232,
-            "value": "Dynastisches (Geburten, Heiraten, Todesfälle)",
+            "value": "Dynastisches",
             "color": "darker-brown"
         }
     },
@@ -3247,7 +3291,8 @@
                 "lat": "51.10000",
                 "long": "17.033330",
                 "comments intern": "",
-                "gnd": ""
+                "gnd": "",
+                "alternative_name": null
             }
         ],
         "related_persons": [
@@ -3281,7 +3326,7 @@
         "date_written": null,
         "category": {
             "id": 13233,
-            "value": "Zeremonielles (Krönungen, Wahlen und Bischofserhebungen)",
+            "value": "Zeremonielles",
             "color": "darker-red"
         }
     },
@@ -3324,7 +3369,7 @@
         "date_written": null,
         "category": {
             "id": 13233,
-            "value": "Zeremonielles (Krönungen, Wahlen und Bischofserhebungen)",
+            "value": "Zeremonielles",
             "color": "darker-red"
         }
     },
@@ -3346,7 +3391,8 @@
                 "lat": "49.75565",
                 "long": "6.639350",
                 "comments intern": "",
-                "gnd": ""
+                "gnd": "",
+                "alternative_name": null
             }
         ],
         "related_persons": [
@@ -3380,7 +3426,7 @@
         "date_written": null,
         "category": {
             "id": 13233,
-            "value": "Zeremonielles (Krönungen, Wahlen und Bischofserhebungen)",
+            "value": "Zeremonielles",
             "color": "darker-red"
         }
     },
@@ -3402,7 +3448,8 @@
                 "lat": "49.48910",
                 "long": "8.466940",
                 "comments intern": "",
-                "gnd": ""
+                "gnd": "",
+                "alternative_name": null
             }
         ],
         "related_persons": [
@@ -3436,7 +3483,7 @@
         "date_written": null,
         "category": {
             "id": 13232,
-            "value": "Dynastisches (Geburten, Heiraten, Todesfälle)",
+            "value": "Dynastisches",
             "color": "darker-brown"
         }
     },
@@ -3458,7 +3505,8 @@
                 "lat": "51.10000",
                 "long": "17.033330",
                 "comments intern": "",
-                "gnd": ""
+                "gnd": "",
+                "alternative_name": null
             }
         ],
         "related_persons": [
@@ -3492,7 +3540,7 @@
         "date_written": null,
         "category": {
             "id": 13232,
-            "value": "Dynastisches (Geburten, Heiraten, Todesfälle)",
+            "value": "Dynastisches",
             "color": "darker-brown"
         }
     },
@@ -3514,7 +3562,8 @@
                 "lat": "48.73218",
                 "long": "11.187090",
                 "comments intern": null,
-                "gnd": ""
+                "gnd": "",
+                "alternative_name": null
             }
         ],
         "related_persons": [
@@ -3548,7 +3597,7 @@
         "date_written": null,
         "category": {
             "id": 13232,
-            "value": "Dynastisches (Geburten, Heiraten, Todesfälle)",
+            "value": "Dynastisches",
             "color": "darker-brown"
         }
     },
@@ -3570,7 +3619,8 @@
                 "lat": "51.22172",
                 "long": "6.776160",
                 "comments intern": null,
-                "gnd": ""
+                "gnd": "",
+                "alternative_name": null
             }
         ],
         "related_persons": [
@@ -3604,7 +3654,7 @@
         "date_written": null,
         "category": {
             "id": 13232,
-            "value": "Dynastisches (Geburten, Heiraten, Todesfälle)",
+            "value": "Dynastisches",
             "color": "darker-brown"
         }
     },
@@ -3626,7 +3676,8 @@
                 "lat": "49.98419",
                 "long": "8.279100",
                 "comments intern": null,
-                "gnd": ""
+                "gnd": "",
+                "alternative_name": null
             }
         ],
         "related_persons": [
@@ -3660,7 +3711,7 @@
         "date_written": null,
         "category": {
             "id": 13232,
-            "value": "Dynastisches (Geburten, Heiraten, Todesfälle)",
+            "value": "Dynastisches",
             "color": "darker-brown"
         }
     },
@@ -3682,7 +3733,8 @@
                 "lat": "51.22172",
                 "long": "6.776160",
                 "comments intern": null,
-                "gnd": ""
+                "gnd": "",
+                "alternative_name": null
             }
         ],
         "related_persons": [
@@ -3716,7 +3768,7 @@
         "date_written": null,
         "category": {
             "id": 13232,
-            "value": "Dynastisches (Geburten, Heiraten, Todesfälle)",
+            "value": "Dynastisches",
             "color": "darker-brown"
         }
     },
@@ -3738,7 +3790,8 @@
                 "lat": "51.22172",
                 "long": "6.776160",
                 "comments intern": null,
-                "gnd": ""
+                "gnd": "",
+                "alternative_name": null
             }
         ],
         "related_persons": [
@@ -3794,7 +3847,7 @@
         "date_written": null,
         "category": {
             "id": 13232,
-            "value": "Dynastisches (Geburten, Heiraten, Todesfälle)",
+            "value": "Dynastisches",
             "color": "darker-brown"
         }
     },
@@ -3816,7 +3869,8 @@
                 "lat": "38.71667",
                 "long": "-9.133330",
                 "comments intern": null,
-                "gnd": ""
+                "gnd": "",
+                "alternative_name": null
             }
         ],
         "related_persons": [
@@ -3850,7 +3904,7 @@
         "date_written": null,
         "category": {
             "id": 13232,
-            "value": "Dynastisches (Geburten, Heiraten, Todesfälle)",
+            "value": "Dynastisches",
             "color": "darker-brown"
         }
     },
@@ -3872,7 +3926,8 @@
                 "lat": "51.22172",
                 "long": "6.776160",
                 "comments intern": null,
-                "gnd": ""
+                "gnd": "",
+                "alternative_name": null
             }
         ],
         "related_persons": [
@@ -3906,7 +3961,7 @@
         "date_written": null,
         "category": {
             "id": 13232,
-            "value": "Dynastisches (Geburten, Heiraten, Todesfälle)",
+            "value": "Dynastisches",
             "color": "darker-brown"
         }
     },
@@ -3928,7 +3983,8 @@
                 "lat": "48.73218",
                 "long": "11.187090",
                 "comments intern": null,
-                "gnd": ""
+                "gnd": "",
+                "alternative_name": null
             }
         ],
         "related_persons": [
@@ -3984,7 +4040,7 @@
         "date_written": null,
         "category": {
             "id": 13232,
-            "value": "Dynastisches (Geburten, Heiraten, Todesfälle)",
+            "value": "Dynastisches",
             "color": "darker-brown"
         }
     },
@@ -4006,7 +4062,8 @@
                 "lat": "40.62862",
                 "long": "-3.161850",
                 "comments intern": "",
-                "gnd": ""
+                "gnd": "",
+                "alternative_name": null
             }
         ],
         "related_persons": [
@@ -4040,7 +4097,7 @@
         "date_written": null,
         "category": {
             "id": 13232,
-            "value": "Dynastisches (Geburten, Heiraten, Todesfälle)",
+            "value": "Dynastisches",
             "color": "darker-brown"
         }
     },
@@ -4062,7 +4119,8 @@
                 "lat": "48.73218",
                 "long": "11.187090",
                 "comments intern": null,
-                "gnd": ""
+                "gnd": "",
+                "alternative_name": null
             }
         ],
         "related_persons": [
@@ -4096,7 +4154,7 @@
         "date_written": null,
         "category": {
             "id": 13232,
-            "value": "Dynastisches (Geburten, Heiraten, Todesfälle)",
+            "value": "Dynastisches",
             "color": "darker-brown"
         }
     },
@@ -4118,7 +4176,8 @@
                 "lat": "50.42528",
                 "long": "14.261750",
                 "comments intern": "",
-                "gnd": ""
+                "gnd": "",
+                "alternative_name": null
             }
         ],
         "related_persons": [
@@ -4174,7 +4233,7 @@
         "date_written": null,
         "category": {
             "id": 13232,
-            "value": "Dynastisches (Geburten, Heiraten, Todesfälle)",
+            "value": "Dynastisches",
             "color": "darker-brown"
         }
     },
@@ -4196,7 +4255,8 @@
                 "lat": "50.92500",
                 "long": "12.235000",
                 "comments intern": null,
-                "gnd": ""
+                "gnd": "",
+                "alternative_name": null
             }
         ],
         "related_persons": [
@@ -4230,7 +4290,7 @@
         "date_written": null,
         "category": {
             "id": 13232,
-            "value": "Dynastisches (Geburten, Heiraten, Todesfälle)",
+            "value": "Dynastisches",
             "color": "darker-brown"
         }
     },
@@ -4252,7 +4312,8 @@
                 "lat": "48.73218",
                 "long": "11.187090",
                 "comments intern": null,
-                "gnd": ""
+                "gnd": "",
+                "alternative_name": null
             }
         ],
         "related_persons": [
@@ -4286,7 +4347,7 @@
         "date_written": null,
         "category": {
             "id": 13232,
-            "value": "Dynastisches (Geburten, Heiraten, Todesfälle)",
+            "value": "Dynastisches",
             "color": "darker-brown"
         }
     },
@@ -4308,7 +4369,8 @@
                 "lat": "44.79935",
                 "long": "10.326180",
                 "comments intern": null,
-                "gnd": ""
+                "gnd": "",
+                "alternative_name": null
             }
         ],
         "related_persons": [
@@ -4364,7 +4426,7 @@
         "date_written": null,
         "category": {
             "id": 13232,
-            "value": "Dynastisches (Geburten, Heiraten, Todesfälle)",
+            "value": "Dynastisches",
             "color": "darker-brown"
         }
     },
@@ -4386,7 +4448,8 @@
                 "lat": "44.79935",
                 "long": "10.326180",
                 "comments intern": null,
-                "gnd": ""
+                "gnd": "",
+                "alternative_name": null
             }
         ],
         "related_persons": [
@@ -4442,7 +4505,7 @@
         "date_written": null,
         "category": {
             "id": 13232,
-            "value": "Dynastisches (Geburten, Heiraten, Todesfälle)",
+            "value": "Dynastisches",
             "color": "darker-brown"
         }
     },
@@ -4464,7 +4527,8 @@
                 "lat": "51.22172",
                 "long": "6.776160",
                 "comments intern": null,
-                "gnd": ""
+                "gnd": "",
+                "alternative_name": null
             }
         ],
         "related_persons": [
@@ -4498,7 +4562,7 @@
         "date_written": null,
         "category": {
             "id": 13232,
-            "value": "Dynastisches (Geburten, Heiraten, Todesfälle)",
+            "value": "Dynastisches",
             "color": "darker-brown"
         }
     },
@@ -4520,7 +4584,8 @@
                 "lat": "52.22977",
                 "long": "21.011780",
                 "comments intern": null,
-                "gnd": ""
+                "gnd": "",
+                "alternative_name": null
             }
         ],
         "related_persons": [
@@ -4576,7 +4641,7 @@
         "date_written": null,
         "category": {
             "id": 13232,
-            "value": "Dynastisches (Geburten, Heiraten, Todesfälle)",
+            "value": "Dynastisches",
             "color": "darker-brown"
         }
     },
@@ -4598,7 +4663,8 @@
                 "lat": "50.94660",
                 "long": "17.292600",
                 "comments intern": "",
-                "gnd": ""
+                "gnd": "",
+                "alternative_name": null
             }
         ],
         "related_persons": [
@@ -4632,7 +4698,7 @@
         "date_written": null,
         "category": {
             "id": 13232,
-            "value": "Dynastisches (Geburten, Heiraten, Todesfälle)",
+            "value": "Dynastisches",
             "color": "darker-brown"
         }
     },
@@ -4654,7 +4720,8 @@
                 "lat": "48.73218",
                 "long": "11.187090",
                 "comments intern": null,
-                "gnd": ""
+                "gnd": "",
+                "alternative_name": null
             }
         ],
         "related_persons": [
@@ -4688,7 +4755,7 @@
         "date_written": null,
         "category": {
             "id": 13232,
-            "value": "Dynastisches (Geburten, Heiraten, Todesfälle)",
+            "value": "Dynastisches",
             "color": "darker-brown"
         }
     },
@@ -4710,7 +4777,8 @@
                 "lat": "51.22172",
                 "long": "6.776160",
                 "comments intern": null,
-                "gnd": ""
+                "gnd": "",
+                "alternative_name": null
             }
         ],
         "related_persons": [
@@ -4744,7 +4812,7 @@
         "date_written": null,
         "category": {
             "id": 13232,
-            "value": "Dynastisches (Geburten, Heiraten, Todesfälle)",
+            "value": "Dynastisches",
             "color": "darker-brown"
         }
     },
@@ -4766,7 +4834,8 @@
                 "lat": "44.79935",
                 "long": "10.326180",
                 "comments intern": null,
-                "gnd": ""
+                "gnd": "",
+                "alternative_name": null
             }
         ],
         "related_persons": [
@@ -4800,7 +4869,7 @@
         "date_written": null,
         "category": {
             "id": 13232,
-            "value": "Dynastisches (Geburten, Heiraten, Todesfälle)",
+            "value": "Dynastisches",
             "color": "darker-brown"
         }
     },
@@ -4822,7 +4891,8 @@
                 "lat": "48.20849",
                 "long": "16.372080",
                 "comments intern": null,
-                "gnd": ""
+                "gnd": "",
+                "alternative_name": null
             }
         ],
         "related_persons": [
@@ -4878,7 +4948,7 @@
         "date_written": null,
         "category": {
             "id": 13232,
-            "value": "Dynastisches (Geburten, Heiraten, Todesfälle)",
+            "value": "Dynastisches",
             "color": "darker-brown"
         }
     },
@@ -4900,7 +4970,8 @@
                 "lat": "47.06667",
                 "long": "15.450000",
                 "comments intern": "",
-                "gnd": ""
+                "gnd": "",
+                "alternative_name": null
             }
         ],
         "related_persons": [
@@ -4956,7 +5027,7 @@
         "date_written": null,
         "category": {
             "id": 13232,
-            "value": "Dynastisches (Geburten, Heiraten, Todesfälle)",
+            "value": "Dynastisches",
             "color": "darker-brown"
         }
     },
@@ -4978,7 +5049,8 @@
                 "lat": "50.11552",
                 "long": "8.684170",
                 "comments intern": null,
-                "gnd": ""
+                "gnd": "",
+                "alternative_name": null
             }
         ],
         "related_persons": [
@@ -5012,7 +5084,7 @@
         "date_written": null,
         "category": {
             "id": 13233,
-            "value": "Zeremonielles (Krönungen, Wahlen und Bischofserhebungen)",
+            "value": "Zeremonielles",
             "color": "darker-red"
         }
     },
@@ -5034,7 +5106,8 @@
                 "lat": "48.20849",
                 "long": "16.372080",
                 "comments intern": null,
-                "gnd": ""
+                "gnd": "",
+                "alternative_name": null
             }
         ],
         "related_persons": [
@@ -5090,7 +5163,7 @@
         "date_written": null,
         "category": {
             "id": 13232,
-            "value": "Dynastisches (Geburten, Heiraten, Todesfälle)",
+            "value": "Dynastisches",
             "color": "darker-brown"
         }
     },
@@ -5110,7 +5183,7 @@
         "date_written": "beginnt im Mai 1667",
         "category": {
             "id": 13572,
-            "value": "Politik und Militär (Krieg und Frieden, Schlachten, Bündnisse)",
+            "value": "Politik und Militär",
             "color": "darker-cyan"
         }
     },
@@ -5130,7 +5203,7 @@
         "date_written": "beginnt im März 1672 und endet mit dem Vertragswerk von Nimwegen, dass zwischen August 1678 und Oktober 1679 geschlossen wird",
         "category": {
             "id": 13572,
-            "value": "Politik und Militär (Krieg und Frieden, Schlachten, Bündnisse)",
+            "value": "Politik und Militär",
             "color": "darker-cyan"
         }
     },
@@ -5152,7 +5225,8 @@
                 "lat": "51.84250",
                 "long": "5.852780",
                 "comments intern": "",
-                "gnd": ""
+                "gnd": "",
+                "alternative_name": null
             }
         ],
         "related_persons": [],
@@ -5163,7 +5237,7 @@
         "date_written": "",
         "category": {
             "id": 13572,
-            "value": "Politik und Militär (Krieg und Frieden, Schlachten, Bündnisse)",
+            "value": "Politik und Militär",
             "color": "darker-cyan"
         }
     },
@@ -5183,7 +5257,7 @@
         "date_written": "",
         "category": {
             "id": 13572,
-            "value": "Politik und Militär (Krieg und Frieden, Schlachten, Bündnisse)",
+            "value": "Politik und Militär",
             "color": "darker-cyan"
         }
     },
@@ -5203,7 +5277,7 @@
         "date_written": "Ende 1678 bis 1681 (Frühjahr Graz), geschätzt März",
         "category": {
             "id": 13573,
-            "value": "Sonstiges (Pest, Neunte Kurwürde, Reichsacht, Pragmatische Sanktion)",
+            "value": "Sonstiges",
             "color": "darker-green"
         }
     },
@@ -5225,7 +5299,8 @@
                 "lat": "48.58392",
                 "long": "7.745530",
                 "comments intern": "",
-                "gnd": ""
+                "gnd": "",
+                "alternative_name": null
             }
         ],
         "related_persons": [],
@@ -5236,7 +5311,7 @@
         "date_written": "",
         "category": {
             "id": 13572,
-            "value": "Politik und Militär (Krieg und Frieden, Schlachten, Bündnisse)",
+            "value": "Politik und Militär",
             "color": "darker-cyan"
         }
     },
@@ -5258,7 +5333,8 @@
                 "lat": "48.06833",
                 "long": "16.356070",
                 "comments intern": null,
-                "gnd": ""
+                "gnd": "",
+                "alternative_name": null
             }
         ],
         "related_persons": [],
@@ -5269,7 +5345,7 @@
         "date_written": "",
         "category": {
             "id": 13572,
-            "value": "Politik und Militär (Krieg und Frieden, Schlachten, Bündnisse)",
+            "value": "Politik und Militär",
             "color": "darker-cyan"
         }
     },
@@ -5291,7 +5367,8 @@
                 "lat": "48.20849",
                 "long": "16.372080",
                 "comments intern": null,
-                "gnd": ""
+                "gnd": "",
+                "alternative_name": null
             }
         ],
         "related_persons": [],
@@ -5302,7 +5379,7 @@
         "date_written": "",
         "category": {
             "id": 13572,
-            "value": "Politik und Militär (Krieg und Frieden, Schlachten, Bündnisse)",
+            "value": "Politik und Militär",
             "color": "darker-cyan"
         }
     },
@@ -5322,7 +5399,7 @@
         "date_written": "beginnt 1683 (wohl Mai) und endet im Januar 1699",
         "category": {
             "id": 13572,
-            "value": "Politik und Militär (Krieg und Frieden, Schlachten, Bündnisse)",
+            "value": "Politik und Militär",
             "color": "darker-cyan"
         }
     },
@@ -5344,7 +5421,8 @@
                 "lat": "45.20285",
                 "long": "19.933730",
                 "comments intern": "",
-                "gnd": ""
+                "gnd": "",
+                "alternative_name": null
             }
         ],
         "related_persons": [],
@@ -5355,7 +5433,7 @@
         "date_written": "",
         "category": {
             "id": 13572,
-            "value": "Politik und Militär (Krieg und Frieden, Schlachten, Bündnisse)",
+            "value": "Politik und Militär",
             "color": "darker-cyan"
         }
     },
@@ -5377,7 +5455,8 @@
                 "lat": "47.49835",
                 "long": "19.040450",
                 "comments intern": null,
-                "gnd": ""
+                "gnd": "",
+                "alternative_name": null
             }
         ],
         "related_persons": [],
@@ -5388,7 +5467,7 @@
         "date_written": "",
         "category": {
             "id": 13572,
-            "value": "Politik und Militär (Krieg und Frieden, Schlachten, Bündnisse)",
+            "value": "Politik und Militär",
             "color": "darker-cyan"
         }
     },
@@ -5410,7 +5489,8 @@
                 "lat": "44.80401",
                 "long": "20.465130",
                 "comments intern": "",
-                "gnd": ""
+                "gnd": "",
+                "alternative_name": null
             }
         ],
         "related_persons": [],
@@ -5421,7 +5501,7 @@
         "date_written": "",
         "category": {
             "id": 13572,
-            "value": "Politik und Militär (Krieg und Frieden, Schlachten, Bündnisse)",
+            "value": "Politik und Militär",
             "color": "darker-cyan"
         }
     },
@@ -5443,7 +5523,8 @@
                 "lat": "45.92750",
                 "long": "20.077220",
                 "comments intern": "",
-                "gnd": ""
+                "gnd": "",
+                "alternative_name": null
             }
         ],
         "related_persons": [],
@@ -5454,7 +5535,7 @@
         "date_written": "",
         "category": {
             "id": 13572,
-            "value": "Politik und Militär (Krieg und Frieden, Schlachten, Bündnisse)",
+            "value": "Politik und Militär",
             "color": "darker-cyan"
         }
     },
@@ -5474,7 +5555,7 @@
         "date_written": "September (Kriegmanifest) 1688 bis Oktober 1697",
         "category": {
             "id": 13572,
-            "value": "Politik und Militär (Krieg und Frieden, Schlachten, Bündnisse)",
+            "value": "Politik und Militär",
             "color": "darker-cyan"
         }
     },
@@ -5496,7 +5577,8 @@
                 "lat": "52.03634",
                 "long": "4.325010",
                 "comments intern": "",
-                "gnd": ""
+                "gnd": "",
+                "alternative_name": null
             }
         ],
         "related_persons": [],
@@ -5507,7 +5589,7 @@
         "date_written": "",
         "category": {
             "id": 13572,
-            "value": "Politik und Militär (Krieg und Frieden, Schlachten, Bündnisse)",
+            "value": "Politik und Militär",
             "color": "darker-cyan"
         }
     },
@@ -5529,7 +5611,8 @@
                 "lat": "45.12554",
                 "long": "20.239140",
                 "comments intern": "",
-                "gnd": ""
+                "gnd": "",
+                "alternative_name": null
             }
         ],
         "related_persons": [],
@@ -5540,7 +5623,7 @@
         "date_written": "",
         "category": {
             "id": 13572,
-            "value": "Politik und Militär (Krieg und Frieden, Schlachten, Bündnisse)",
+            "value": "Politik und Militär",
             "color": "darker-cyan"
         }
     },
@@ -5560,7 +5643,7 @@
         "date_written": "",
         "category": {
             "id": 13573,
-            "value": "Sonstiges (Pest, Neunte Kurwürde, Reichsacht, Pragmatische Sanktion)",
+            "value": "Sonstiges",
             "color": "darker-green"
         }
     },
@@ -5580,7 +5663,7 @@
         "date_written": "November 1700 bis März 1714",
         "category": {
             "id": 13572,
-            "value": "Politik und Militär (Krieg und Frieden, Schlachten, Bündnisse)",
+            "value": "Politik und Militär",
             "color": "darker-cyan"
         }
     },
@@ -5600,7 +5683,7 @@
         "date_written": "",
         "category": {
             "id": 13572,
-            "value": "Politik und Militär (Krieg und Frieden, Schlachten, Bündnisse)",
+            "value": "Politik und Militär",
             "color": "darker-cyan"
         }
     },
@@ -5620,7 +5703,7 @@
         "date_written": "Juni 1703 bis April 1711",
         "category": {
             "id": 13572,
-            "value": "Politik und Militär (Krieg und Frieden, Schlachten, Bündnisse)",
+            "value": "Politik und Militär",
             "color": "darker-cyan"
         }
     },
@@ -5640,7 +5723,7 @@
         "date_written": "",
         "category": {
             "id": 13572,
-            "value": "Politik und Militär (Krieg und Frieden, Schlachten, Bündnisse)",
+            "value": "Politik und Militär",
             "color": "darker-cyan"
         }
     },
@@ -5660,7 +5743,7 @@
         "date_written": "",
         "category": {
             "id": 13572,
-            "value": "Politik und Militär (Krieg und Frieden, Schlachten, Bündnisse)",
+            "value": "Politik und Militär",
             "color": "darker-cyan"
         }
     },
@@ -5680,7 +5763,7 @@
         "date_written": "",
         "category": {
             "id": 13573,
-            "value": "Sonstiges (Pest, Neunte Kurwürde, Reichsacht, Pragmatische Sanktion)",
+            "value": "Sonstiges",
             "color": "darker-green"
         }
     },
@@ -5700,7 +5783,7 @@
         "date_written": "",
         "category": {
             "id": 13573,
-            "value": "Sonstiges (Pest, Neunte Kurwürde, Reichsacht, Pragmatische Sanktion)",
+            "value": "Sonstiges",
             "color": "darker-green"
         }
     },
@@ -5720,7 +5803,7 @@
         "date_written": "",
         "category": {
             "id": 13572,
-            "value": "Politik und Militär (Krieg und Frieden, Schlachten, Bündnisse)",
+            "value": "Politik und Militär",
             "color": "darker-cyan"
         }
     }
