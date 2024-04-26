@@ -78,5 +78,21 @@
     "receiver": "Johann Wilhelm von Pfalz-Neuburg",
     "not_before": "1694-01-18",
     "date_written": "18. Januar 1694"
+  },
+  "12": {
+    "id": 12,
+    "order": "11.00000000000000000000",
+    "sender": "Eleonora Magdalena von Pfalz-Neuburg",
+    "receiver": "Johann Wilhelm von Pfalz-Neuburg",
+    "not_before": "1696-04-17",
+    "date_written": "17. April 1696"
+  },
+  "13": {
+    "id": 13,
+    "order": "12.00000000000000000000",
+    "sender": "",
+    "receiver": "",
+    "not_before": null,
+    "date_written": ""
   }
 }
