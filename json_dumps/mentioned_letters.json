@@ -90,6 +90,14 @@
   "13": {
     "id": 13,
     "order": "12.00000000000000000000",
+    "sender": "Eleonora Magdalena von Pfalz-Neuburg",
+    "receiver": "Johann Wilhelm von Pfalz-Neuburg",
+    "not_before": "1697-04-03",
+    "date_written": "3. April 1697"
+  },
+  "14": {
+    "id": 14,
+    "order": "13.00000000000000000000",
     "sender": "",
     "receiver": "",
     "not_before": null,
