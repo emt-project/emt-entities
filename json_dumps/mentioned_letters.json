@@ -142,5 +142,37 @@
     "receiver": "Johann Wilhelm von Pfalz-Neuburg",
     "not_before": "1704-10-15",
     "date_written": "15. Oktober 1704"
+  },
+  "20": {
+    "id": 20,
+    "order": "19.00000000000000000000",
+    "sender": "Eleonora Magdalena von Pfalz-Neuburg",
+    "receiver": "Johann Wilhelm von Pfalz-Neuburg",
+    "not_before": "1704-11-14",
+    "date_written": "14. November 1704"
+  },
+  "21": {
+    "id": 21,
+    "order": "20.00000000000000000000",
+    "sender": "Johann Wilhelm von Pfalz-Neuburg",
+    "receiver": "Eleonora Magdalena von Pfalz-Neuburg",
+    "not_before": "1705-10-07",
+    "date_written": "7. Oktober 1705"
+  },
+  "22": {
+    "id": 22,
+    "order": "21.00000000000000000000",
+    "sender": "Eleonora Magdalena von Pfalz-Neuburg",
+    "receiver": "Johann Wilhelm von Pfalz-Neuburg",
+    "not_before": "1705-10-18",
+    "date_written": "18. Oktober 1705"
+  },
+  "23": {
+    "id": 23,
+    "order": "22.00000000000000000000",
+    "sender": "Eleonora Magdalena von Pfalz-Neuburg",
+    "receiver": "Johann Wilhelm von Pfalz-Neuburg",
+    "not_before": "1705-10-15",
+    "date_written": "15. Oktober 1705"
   }
 }
