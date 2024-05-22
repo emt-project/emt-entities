@@ -174,5 +174,13 @@
     "receiver": "Johann Wilhelm von Pfalz-Neuburg",
     "not_before": "1705-10-15",
     "date_written": "15. Oktober 1705"
+  },
+  "24": {
+    "id": 24,
+    "order": "23.00000000000000000000",
+    "sender": "Eleonora Magdalena von Pfalz-Neuburg",
+    "receiver": "Johann Wilhelm von Pfalz-Neuburg",
+    "not_before": "1706-06-15",
+    "date_written": "15. Juni 1706"
   }
 }
