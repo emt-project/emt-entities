@@ -198,5 +198,13 @@
     "receiver": "Johann Wilhelm von Pfalz-Neuburg",
     "not_before": "1708-07-08",
     "date_written": "8. Juli 1708"
+  },
+  "27": {
+    "id": 27,
+    "order": "26.00000000000000000000",
+    "sender": "Eleonora Magdalena von Pfalz-Neuburg",
+    "receiver": "Johann Wilhelm von Pfalz-Neuburg",
+    "not_before": "1710-06-10",
+    "date_written": "10. Juni 1710"
   }
 }
