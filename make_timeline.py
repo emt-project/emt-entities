@@ -12,7 +12,7 @@ timeline = {
     "title": {
         "text": {
             "headline": "Familiensache im Kontext",
-            "text": "Ein Zeitstrahl zur Wirkungsperiode Kaiserin Eleonora Magdalenas von Pfalz-Neuburg",
+            "text": "Ein Zeitleiste zur Wirkungsperiode Kaiserin Eleonora Magdalenas von Pfalz-Neuburg",
         },
         "media": {
             "url": "bio-pics/emt_person_id__9.jpg",
