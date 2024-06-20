@@ -222,5 +222,13 @@
     "receiver": "Eleonora Magdalena von Pfalz-Neuburg",
     "not_before": "1712-04-24",
     "date_written": "24. April 1712"
+  },
+  "30": {
+    "id": 30,
+    "order": "29.00000000000000000000",
+    "sender": "Eleonora Magdalena von Pfalz-Neuburg",
+    "receiver": "Johann Wilhelm von Pfalz-Neuburg",
+    "not_before": "1714-09-01",
+    "date_written": "1. September 1714"
   }
 }
