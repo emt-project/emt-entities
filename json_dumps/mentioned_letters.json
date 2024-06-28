@@ -2,233 +2,552 @@
   "1": {
     "id": 1,
     "order": "1.00000000000000000000",
-    "sender": "Eleonora Magdalena von Pfalz-Neuburg",
-    "receiver": "Philipp Wilhelm",
+    "emt_id": "emt_letter_id__1",
     "not_before": "1680-06-01",
-    "date_written": "wahrscheinlich vom Juni 1680"
+    "date_written": "wahrscheinlich vom Juni 1680",
+    "sender": [
+      {
+        "id": 9,
+        "value": "Kaiserin Eleonora Magdalena, geb. Pfalz-Neuburg"
+      }
+    ],
+    "receiver": [
+      {
+        "id": 50,
+        "value": "Philipp Wilhelm von Pfalz-Neuburg, Kurfürst von der Pfalz"
+      }
+    ]
   },
   "3": {
     "id": 3,
     "order": "2.00000000000000000000",
-    "sender": "Eleonora Magdalena von Pfalz-Neuburg",
-    "receiver": "Elisabeth Amalie von Hessen-Darmstadt",
+    "emt_id": "emt_letter_id__3",
     "not_before": "1688-10-03",
-    "date_written": "3. Oktober 1688"
+    "date_written": "3. Oktober 1688",
+    "sender": [
+      {
+        "id": 9,
+        "value": "Kaiserin Eleonora Magdalena, geb. Pfalz-Neuburg"
+      }
+    ],
+    "receiver": [
+      {
+        "id": 10,
+        "value": "Elisabeth Amalie von Pfalz-Neuburg, geb. Hessen-Darmstadt"
+      }
+    ]
   },
   "4": {
     "id": 4,
     "order": "3.00000000000000000000",
-    "sender": "Eleonora Magdalena von Pfalz-Neuburg",
-    "receiver": "Elisabeth Amalie von Hessen-Darmstadt",
+    "emt_id": "emt_letter_id__4",
     "not_before": "1688-10-07",
-    "date_written": "7. Oktober 1688"
+    "date_written": "7. Oktober 1688",
+    "sender": [
+      {
+        "id": 9,
+        "value": "Kaiserin Eleonora Magdalena, geb. Pfalz-Neuburg"
+      }
+    ],
+    "receiver": [
+      {
+        "id": 10,
+        "value": "Elisabeth Amalie von Pfalz-Neuburg, geb. Hessen-Darmstadt"
+      }
+    ]
   },
   "5": {
     "id": 5,
     "order": "4.00000000000000000000",
-    "sender": "Eleonora Magdalena von Pfalz-Neuburg",
-    "receiver": "Elisabeth Amalie von Hessen-Darmstadt",
+    "emt_id": "emt_letter_id__5",
     "not_before": "1688-10-17",
-    "date_written": "17. Okotber 1688"
+    "date_written": "17. Okotber 1688",
+    "sender": [
+      {
+        "id": 9,
+        "value": "Kaiserin Eleonora Magdalena, geb. Pfalz-Neuburg"
+      }
+    ],
+    "receiver": [
+      {
+        "id": 10,
+        "value": "Elisabeth Amalie von Pfalz-Neuburg, geb. Hessen-Darmstadt"
+      }
+    ]
   },
   "6": {
     "id": 6,
     "order": "5.00000000000000000000",
-    "sender": "Eleonora Magdalena von Pfalz-Neuburg",
-    "receiver": "Johann Wilhelm von Pfalz-Neuburg",
+    "emt_id": "emt_letter_id__6",
     "not_before": "1693-01-14",
-    "date_written": "14. Januar 1693"
+    "date_written": "14. Januar 1693",
+    "sender": [
+      {
+        "id": 9,
+        "value": "Kaiserin Eleonora Magdalena, geb. Pfalz-Neuburg"
+      }
+    ],
+    "receiver": [
+      {
+        "id": 18,
+        "value": "Johann Wilhelm von Pfalz-Neuburg, Kurfürst von der Pfalz"
+      }
+    ]
   },
   "7": {
     "id": 7,
     "order": "6.00000000000000000000",
-    "sender": "Eleonora Magdalena von Pfalz-Neuburg",
-    "receiver": "Johann Wilhelm von Pfalz-Neuburg",
+    "emt_id": "emt_letter_id__7",
     "not_before": "1693-01-21",
-    "date_written": "21. Januar 1693"
+    "date_written": "21. Januar 1693",
+    "sender": [
+      {
+        "id": 9,
+        "value": "Kaiserin Eleonora Magdalena, geb. Pfalz-Neuburg"
+      }
+    ],
+    "receiver": [
+      {
+        "id": 18,
+        "value": "Johann Wilhelm von Pfalz-Neuburg, Kurfürst von der Pfalz"
+      }
+    ]
   },
   "8": {
     "id": 8,
     "order": "7.00000000000000000000",
-    "sender": "Eleonora Magdalena von Pfalz-Neuburg",
-    "receiver": "Johann Wilhelm von Pfalz-Neuburg",
+    "emt_id": "emt_letter_id__8",
     "not_before": "1693-01-28",
-    "date_written": "28. Januar 1693"
+    "date_written": "28. Januar 1693",
+    "sender": [
+      {
+        "id": 9,
+        "value": "Kaiserin Eleonora Magdalena, geb. Pfalz-Neuburg"
+      }
+    ],
+    "receiver": [
+      {
+        "id": 18,
+        "value": "Johann Wilhelm von Pfalz-Neuburg, Kurfürst von der Pfalz"
+      }
+    ]
   },
   "9": {
     "id": 9,
     "order": "8.00000000000000000000",
-    "sender": "Eleonora Magdalena von Pfalz-Neuburg",
-    "receiver": "Johann Wilhelm von Pfalz-Neuburg",
+    "emt_id": "emt_letter_id__9",
     "not_before": "1693-02-28",
-    "date_written": "28. Februar 1693"
+    "date_written": "28. Februar 1693",
+    "sender": [
+      {
+        "id": 9,
+        "value": "Kaiserin Eleonora Magdalena, geb. Pfalz-Neuburg"
+      }
+    ],
+    "receiver": [
+      {
+        "id": 18,
+        "value": "Johann Wilhelm von Pfalz-Neuburg, Kurfürst von der Pfalz"
+      }
+    ]
   },
   "10": {
     "id": 10,
     "order": "9.00000000000000000000",
-    "sender": "Eleonora Magdalena von Pfalz-Neuburg",
-    "receiver": "Johann Wilhelm von Pfalz-Neuburg",
+    "emt_id": "emt_letter_id__10",
     "not_before": "1693-06-24",
-    "date_written": "24. Juni 1693"
+    "date_written": "24. Juni 1693",
+    "sender": [
+      {
+        "id": 9,
+        "value": "Kaiserin Eleonora Magdalena, geb. Pfalz-Neuburg"
+      }
+    ],
+    "receiver": [
+      {
+        "id": 18,
+        "value": "Johann Wilhelm von Pfalz-Neuburg, Kurfürst von der Pfalz"
+      }
+    ]
   },
   "11": {
     "id": 11,
     "order": "10.00000000000000000000",
-    "sender": "Eleonora Magdalena von Pfalz-Neuburg",
-    "receiver": "Johann Wilhelm von Pfalz-Neuburg",
+    "emt_id": "emt_letter_id__11",
     "not_before": "1694-01-18",
-    "date_written": "18. Januar 1694"
+    "date_written": "18. Januar 1694",
+    "sender": [
+      {
+        "id": 9,
+        "value": "Kaiserin Eleonora Magdalena, geb. Pfalz-Neuburg"
+      }
+    ],
+    "receiver": [
+      {
+        "id": 18,
+        "value": "Johann Wilhelm von Pfalz-Neuburg, Kurfürst von der Pfalz"
+      }
+    ]
   },
   "12": {
     "id": 12,
     "order": "11.00000000000000000000",
-    "sender": "Eleonora Magdalena von Pfalz-Neuburg",
-    "receiver": "Johann Wilhelm von Pfalz-Neuburg",
+    "emt_id": "emt_letter_id__12",
     "not_before": "1696-04-17",
-    "date_written": "17. April 1696"
+    "date_written": "17. April 1696",
+    "sender": [
+      {
+        "id": 9,
+        "value": "Kaiserin Eleonora Magdalena, geb. Pfalz-Neuburg"
+      }
+    ],
+    "receiver": [
+      {
+        "id": 18,
+        "value": "Johann Wilhelm von Pfalz-Neuburg, Kurfürst von der Pfalz"
+      }
+    ]
   },
   "13": {
     "id": 13,
     "order": "12.00000000000000000000",
-    "sender": "Eleonora Magdalena von Pfalz-Neuburg",
-    "receiver": "Johann Wilhelm von Pfalz-Neuburg",
+    "emt_id": "emt_letter_id__13",
     "not_before": "1697-04-03",
-    "date_written": "3. April 1697"
+    "date_written": "3. April 1697",
+    "sender": [
+      {
+        "id": 9,
+        "value": "Kaiserin Eleonora Magdalena, geb. Pfalz-Neuburg"
+      }
+    ],
+    "receiver": [
+      {
+        "id": 18,
+        "value": "Johann Wilhelm von Pfalz-Neuburg, Kurfürst von der Pfalz"
+      }
+    ]
   },
   "14": {
     "id": 14,
     "order": "13.00000000000000000000",
-    "sender": "Johann Wilhelm von Pfalz-Neuburg",
-    "receiver": "Eleonora Magdalena von Pfalz-Neuburg",
+    "emt_id": "emt_letter_id__14",
     "not_before": "1701-05-14",
-    "date_written": "14. Mai 1701"
+    "date_written": "14. Mai 1701",
+    "sender": [
+      {
+        "id": 18,
+        "value": "Johann Wilhelm von Pfalz-Neuburg, Kurfürst von der Pfalz"
+      }
+    ],
+    "receiver": [
+      {
+        "id": 9,
+        "value": "Kaiserin Eleonora Magdalena, geb. Pfalz-Neuburg"
+      }
+    ]
   },
   "15": {
     "id": 15,
     "order": "14.00000000000000000000",
-    "sender": "Eleonora Magdalena von Pfalz-Neuburg",
-    "receiver": "Johann Wilhelm von Pfalz-Neuburg",
+    "emt_id": "emt_letter_id__15",
     "not_before": "1701-12-14",
-    "date_written": "14. Dezember 1701"
+    "date_written": "14. Dezember 1701",
+    "sender": [
+      {
+        "id": 9,
+        "value": "Kaiserin Eleonora Magdalena, geb. Pfalz-Neuburg"
+      }
+    ],
+    "receiver": [
+      {
+        "id": 18,
+        "value": "Johann Wilhelm von Pfalz-Neuburg, Kurfürst von der Pfalz"
+      }
+    ]
   },
   "16": {
     "id": 16,
     "order": "15.00000000000000000000",
-    "sender": "Eleonora Magdalena von Pfalz-Neuburg",
-    "receiver": "Johann Wilhelm von Pfalz-Neuburg",
+    "emt_id": "emt_letter_id__16",
     "not_before": "1704-10-03",
-    "date_written": "03. Oktober 1704"
+    "date_written": "03. Oktober 1704",
+    "sender": [
+      {
+        "id": 9,
+        "value": "Kaiserin Eleonora Magdalena, geb. Pfalz-Neuburg"
+      }
+    ],
+    "receiver": [
+      {
+        "id": 18,
+        "value": "Johann Wilhelm von Pfalz-Neuburg, Kurfürst von der Pfalz"
+      }
+    ]
   },
   "17": {
     "id": 17,
     "order": "16.00000000000000000000",
-    "sender": "Eleonora Magdalena von Pfalz-Neuburg",
-    "receiver": "Johann Wilhelm von Pfalz-Neuburg",
+    "emt_id": "emt_letter_id__17",
     "not_before": "1704-10-03",
-    "date_written": "3. Oktober 1704"
+    "date_written": "3. Oktober 1704",
+    "sender": [
+      {
+        "id": 9,
+        "value": "Kaiserin Eleonora Magdalena, geb. Pfalz-Neuburg"
+      }
+    ],
+    "receiver": [
+      {
+        "id": 18,
+        "value": "Johann Wilhelm von Pfalz-Neuburg, Kurfürst von der Pfalz"
+      }
+    ]
   },
   "18": {
     "id": 18,
     "order": "17.00000000000000000000",
-    "sender": "Eleonora Magdalena von Pfalz-Neuburg",
-    "receiver": "Johann Wilhelm von Pfalz-Neuburg",
+    "emt_id": "emt_letter_id__18",
     "not_before": "1704-10-08",
-    "date_written": "8. Oktober 1704"
+    "date_written": "8. Oktober 1704",
+    "sender": [
+      {
+        "id": 9,
+        "value": "Kaiserin Eleonora Magdalena, geb. Pfalz-Neuburg"
+      }
+    ],
+    "receiver": [
+      {
+        "id": 18,
+        "value": "Johann Wilhelm von Pfalz-Neuburg, Kurfürst von der Pfalz"
+      }
+    ]
   },
   "19": {
     "id": 19,
     "order": "18.00000000000000000000",
-    "sender": "Eleonora Magdalena von Pfalz-Neuburg",
-    "receiver": "Johann Wilhelm von Pfalz-Neuburg",
+    "emt_id": "emt_letter_id__19",
     "not_before": "1704-10-15",
-    "date_written": "15. Oktober 1704"
+    "date_written": "15. Oktober 1704",
+    "sender": [
+      {
+        "id": 9,
+        "value": "Kaiserin Eleonora Magdalena, geb. Pfalz-Neuburg"
+      }
+    ],
+    "receiver": [
+      {
+        "id": 18,
+        "value": "Johann Wilhelm von Pfalz-Neuburg, Kurfürst von der Pfalz"
+      }
+    ]
   },
   "20": {
     "id": 20,
     "order": "19.00000000000000000000",
-    "sender": "Eleonora Magdalena von Pfalz-Neuburg",
-    "receiver": "Johann Wilhelm von Pfalz-Neuburg",
+    "emt_id": "emt_letter_id__20",
     "not_before": "1704-11-14",
-    "date_written": "14. November 1704"
+    "date_written": "14. November 1704",
+    "sender": [
+      {
+        "id": 9,
+        "value": "Kaiserin Eleonora Magdalena, geb. Pfalz-Neuburg"
+      }
+    ],
+    "receiver": [
+      {
+        "id": 18,
+        "value": "Johann Wilhelm von Pfalz-Neuburg, Kurfürst von der Pfalz"
+      }
+    ]
   },
   "21": {
     "id": 21,
     "order": "20.00000000000000000000",
-    "sender": "Johann Wilhelm von Pfalz-Neuburg",
-    "receiver": "Eleonora Magdalena von Pfalz-Neuburg",
+    "emt_id": "emt_letter_id__21",
     "not_before": "1705-10-07",
-    "date_written": "7. Oktober 1705"
+    "date_written": "7. Oktober 1705",
+    "sender": [
+      {
+        "id": 18,
+        "value": "Johann Wilhelm von Pfalz-Neuburg, Kurfürst von der Pfalz"
+      }
+    ],
+    "receiver": [
+      {
+        "id": 9,
+        "value": "Kaiserin Eleonora Magdalena, geb. Pfalz-Neuburg"
+      }
+    ]
   },
   "22": {
     "id": 22,
     "order": "21.00000000000000000000",
-    "sender": "Eleonora Magdalena von Pfalz-Neuburg",
-    "receiver": "Johann Wilhelm von Pfalz-Neuburg",
+    "emt_id": "emt_letter_id__22",
     "not_before": "1705-10-18",
-    "date_written": "18. Oktober 1705"
+    "date_written": "18. Oktober 1705",
+    "sender": [
+      {
+        "id": 9,
+        "value": "Kaiserin Eleonora Magdalena, geb. Pfalz-Neuburg"
+      }
+    ],
+    "receiver": [
+      {
+        "id": 18,
+        "value": "Johann Wilhelm von Pfalz-Neuburg, Kurfürst von der Pfalz"
+      }
+    ]
   },
   "23": {
     "id": 23,
     "order": "22.00000000000000000000",
-    "sender": "Eleonora Magdalena von Pfalz-Neuburg",
-    "receiver": "Johann Wilhelm von Pfalz-Neuburg",
+    "emt_id": "emt_letter_id__23",
     "not_before": "1705-10-15",
-    "date_written": "15. Oktober 1705"
+    "date_written": "15. Oktober 1705",
+    "sender": [
+      {
+        "id": 9,
+        "value": "Kaiserin Eleonora Magdalena, geb. Pfalz-Neuburg"
+      }
+    ],
+    "receiver": [
+      {
+        "id": 18,
+        "value": "Johann Wilhelm von Pfalz-Neuburg, Kurfürst von der Pfalz"
+      }
+    ]
   },
   "24": {
     "id": 24,
     "order": "23.00000000000000000000",
-    "sender": "Eleonora Magdalena von Pfalz-Neuburg",
-    "receiver": "Johann Wilhelm von Pfalz-Neuburg",
+    "emt_id": "emt_letter_id__24",
     "not_before": "1706-06-15",
-    "date_written": "15. Juni 1706"
+    "date_written": "15. Juni 1706",
+    "sender": [
+      {
+        "id": 9,
+        "value": "Kaiserin Eleonora Magdalena, geb. Pfalz-Neuburg"
+      }
+    ],
+    "receiver": [
+      {
+        "id": 18,
+        "value": "Johann Wilhelm von Pfalz-Neuburg, Kurfürst von der Pfalz"
+      }
+    ]
   },
   "25": {
     "id": 25,
     "order": "24.00000000000000000000",
-    "sender": "Eleonora Magdalena von Pfalz-Neuburg",
-    "receiver": "Johann Wilhelm von Pfalz-Neuburg",
+    "emt_id": "emt_letter_id__25",
     "not_before": "1708-06-17",
-    "date_written": "17. Juni 1708"
+    "date_written": "17. Juni 1708",
+    "sender": [
+      {
+        "id": 9,
+        "value": "Kaiserin Eleonora Magdalena, geb. Pfalz-Neuburg"
+      }
+    ],
+    "receiver": [
+      {
+        "id": 18,
+        "value": "Johann Wilhelm von Pfalz-Neuburg, Kurfürst von der Pfalz"
+      }
+    ]
   },
   "26": {
     "id": 26,
     "order": "25.00000000000000000000",
-    "sender": "Eleonora Magdalena von Pfalz-Neuburg",
-    "receiver": "Johann Wilhelm von Pfalz-Neuburg",
+    "emt_id": "emt_letter_id__26",
     "not_before": "1708-07-08",
-    "date_written": "8. Juli 1708"
+    "date_written": "8. Juli 1708",
+    "sender": [
+      {
+        "id": 9,
+        "value": "Kaiserin Eleonora Magdalena, geb. Pfalz-Neuburg"
+      }
+    ],
+    "receiver": [
+      {
+        "id": 18,
+        "value": "Johann Wilhelm von Pfalz-Neuburg, Kurfürst von der Pfalz"
+      }
+    ]
   },
   "27": {
     "id": 27,
     "order": "26.00000000000000000000",
-    "sender": "Eleonora Magdalena von Pfalz-Neuburg",
-    "receiver": "Johann Wilhelm von Pfalz-Neuburg",
+    "emt_id": "emt_letter_id__27",
     "not_before": "1710-06-10",
-    "date_written": "10. Juni 1710"
+    "date_written": "10. Juni 1710",
+    "sender": [
+      {
+        "id": 9,
+        "value": "Kaiserin Eleonora Magdalena, geb. Pfalz-Neuburg"
+      }
+    ],
+    "receiver": [
+      {
+        "id": 18,
+        "value": "Johann Wilhelm von Pfalz-Neuburg, Kurfürst von der Pfalz"
+      }
+    ]
   },
   "28": {
     "id": 28,
     "order": "27.00000000000000000000",
-    "sender": "Eleonora Magdalena von Pfalz-Neuburg",
-    "receiver": "Johann Wilhelm von Pfalz-Neuburg",
+    "emt_id": "emt_letter_id__28",
     "not_before": "1710-12-17",
-    "date_written": "17. Dezember 1710"
+    "date_written": "17. Dezember 1710",
+    "sender": [
+      {
+        "id": 9,
+        "value": "Kaiserin Eleonora Magdalena, geb. Pfalz-Neuburg"
+      }
+    ],
+    "receiver": [
+      {
+        "id": 18,
+        "value": "Johann Wilhelm von Pfalz-Neuburg, Kurfürst von der Pfalz"
+      }
+    ]
   },
   "29": {
     "id": 29,
     "order": "28.00000000000000000000",
-    "sender": "Johann Wilhelm von Pfalz-Neuburg",
-    "receiver": "Eleonora Magdalena von Pfalz-Neuburg",
+    "emt_id": "emt_letter_id__29",
     "not_before": "1712-04-24",
-    "date_written": "24. April 1712"
+    "date_written": "24. April 1712",
+    "sender": [
+      {
+        "id": 18,
+        "value": "Johann Wilhelm von Pfalz-Neuburg, Kurfürst von der Pfalz"
+      }
+    ],
+    "receiver": [
+      {
+        "id": 9,
+        "value": "Kaiserin Eleonora Magdalena, geb. Pfalz-Neuburg"
+      }
+    ]
   },
   "30": {
     "id": 30,
     "order": "29.00000000000000000000",
-    "sender": "Eleonora Magdalena von Pfalz-Neuburg",
-    "receiver": "Johann Wilhelm von Pfalz-Neuburg",
+    "emt_id": "emt_letter_id__30",
     "not_before": "1714-09-01",
-    "date_written": "1. September 1714"
+    "date_written": "1. September 1714",
+    "sender": [
+      {
+        "id": 9,
+        "value": "Kaiserin Eleonora Magdalena, geb. Pfalz-Neuburg"
+      }
+    ],
+    "receiver": [
+      {
+        "id": 18,
+        "value": "Johann Wilhelm von Pfalz-Neuburg, Kurfürst von der Pfalz"
+      }
+    ]
   }
 }
