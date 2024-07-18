@@ -2143,5 +2143,18 @@
     "comments intern": "",
     "gnd": "",
     "alternative_name": null
+  },
+  "168": {
+    "id": 168,
+    "order": "166.00000000000000000000",
+    "name": "Dänemark",
+    "geonames": "",
+    "emt_id": "emt_place_id__168",
+    "place_type": null,
+    "lat": null,
+    "long": null,
+    "comments intern": "",
+    "gnd": "",
+    "alternative_name": ""
   }
 }

@@ -2992,6 +2992,51 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                   </death>
                   <idno type="URL">https://www.musiklexikon.ac.at/ml/musik_A/Ansoloni_Familie.xml</idno>
                </person>
+               <person xml:id="emt_person_id__310">
+                  <persName>Pfasten (unklare Schreibweise)</persName>
+               </person>
+               <person xml:id="emt_person_id__311">
+                  <persName>Hiele, Doktor</persName>
+               </person>
+               <person xml:id="emt_person_id__312">
+                  <persName>Michael Wenzel von Althann</persName>
+                  <birth>
+                     <date notBefore="1630-01-01" notAfter="1630-12-31">1630</date>
+                  </birth>
+                  <death>
+                     <date notBefore="1686-01-01" notAfter="1686-12-31">1686</date>
+                  </death>
+                  <idno type="GND">https://d-nb.info/gnd/138117004</idno>
+                  <idno type="NDB">https://www.deutsche-biographie.de/sfz716.html</idno>
+               </person>
+               <person xml:id="emt_person_id__313">
+                  <persName>Christian V., König von Dänemark</persName>
+                  <birth>
+                     <date notBefore="1646-01-01" notAfter="1646-12-31">1646</date>
+                  </birth>
+                  <death>
+                     <date notBefore="1699-01-01" notAfter="1699-12-31">1699</date>
+                  </death>
+                  <idno type="GND">https://d-nb.info/gnd/119175800</idno>
+                  <idno type="NDB">https://www.deutsche-biographie.de/sfz15342.html#indexcontent</idno>
+               </person>
+               <person xml:id="emt_person_id__314">
+                  <persName>Freiherr von Spee</persName>
+               </person>
+               <person xml:id="emt_person_id__315">
+                  <persName>Karl Johann Slavata, General der Karmeliten</persName>
+                  <birth>
+                     <date notBefore="1641-01-01" notAfter="1641-12-31">1641</date>
+                  </birth>
+                  <death>
+                     <date notBefore="1712-01-01" notAfter="1712-12-31">1712</date>
+                  </death>
+                  <idno type="GND">https://d-nb.info/gnd/100752667</idno>
+                  <idno type="NDB">https://www.deutsche-biographie.de/sfz122427.html</idno>
+               </person>
+               <person xml:id="emt_person_id__316">
+                  <persName>Markgraf, der 1682 im Fasching in Wien ein Fest hält</persName>
+               </person>
             </listPerson>
          </div>
       </body>
