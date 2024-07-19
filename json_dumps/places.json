@@ -2156,5 +2156,44 @@
     "comments intern": "",
     "gnd": "",
     "alternative_name": ""
+  },
+  "169": {
+    "id": 169,
+    "order": "167.00000000000000000000",
+    "name": "Wien, Fluss",
+    "geonames": "",
+    "emt_id": "emt_place_id__169",
+    "place_type": null,
+    "lat": null,
+    "long": null,
+    "comments intern": "",
+    "gnd": "",
+    "alternative_name": ""
+  },
+  "170": {
+    "id": 170,
+    "order": "168.00000000000000000000",
+    "name": "Wien, Schönbrunn",
+    "geonames": "",
+    "emt_id": "emt_place_id__170",
+    "place_type": null,
+    "lat": null,
+    "long": null,
+    "comments intern": "",
+    "gnd": "",
+    "alternative_name": ""
+  },
+  "171": {
+    "id": 171,
+    "order": "169.00000000000000000000",
+    "name": "Wien, großer Garten des Kaisers 1682",
+    "geonames": "",
+    "emt_id": "emt_place_id__171",
+    "place_type": null,
+    "lat": null,
+    "long": null,
+    "comments intern": "",
+    "gnd": "",
+    "alternative_name": ""
   }
 }

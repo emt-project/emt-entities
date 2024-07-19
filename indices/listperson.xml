@@ -3037,6 +3037,112 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                <person xml:id="emt_person_id__316">
                   <persName>Markgraf, der 1682 im Fasching in Wien ein Fest hält</persName>
                </person>
+               <person xml:id="emt_person_id__317">
+                  <persName/>
+               </person>
+               <person xml:id="emt_person_id__318">
+                  <persName>kaiserlicher Gesandter in Frankfurt Februar 1682</persName>
+               </person>
+               <person xml:id="emt_person_id__319">
+                  <persName>Egloff, Sohn des Herrn von</persName>
+               </person>
+               <person xml:id="emt_person_id__320">
+                  <persName>Egloff, verstorbene Frau von</persName>
+               </person>
+               <person xml:id="emt_person_id__321">
+                  <persName>Friedrich Magnus zu Castell-Remlingen</persName>
+                  <birth>
+                     <date notBefore="1646-01-01" notAfter="1646-12-31">1646</date>
+                  </birth>
+                  <death>
+                     <date notBefore="1717-01-01" notAfter="1717-12-31">1717</date>
+                  </death>
+                  <idno type="GND">https://d-nb.info/gnd/135719143</idno>
+                  <idno type="NDB">https://www.deutsche-biographie.de/sfz8053.html#indexcontent</idno>
+                  <idno type="WIKIDATA">http://www.wikidata.org/entity/Q19959161</idno>
+                  <figure>
+                     <graphic url="emt_person_id__321.jpg"/>
+                     <caption>Arolsen Klebeband 01 425.jpg</caption>
+                  </figure>
+               </person>
+               <person xml:id="emt_person_id__322">
+                  <persName>Karl von Liechtenstein-Castelcorn, Bischof von Olmütz</persName>
+                  <birth>
+                     <date notBefore="1623-01-01" notAfter="1623-12-31">1623</date>
+                  </birth>
+                  <death>
+                     <date notBefore="1695-01-01" notAfter="1695-12-31">1695</date>
+                  </death>
+                  <idno type="GND">https://d-nb.info/gnd/120079666</idno>
+                  <idno type="NDB">https://www.deutsche-biographie.de/pnd120079666.html#indexcontent</idno>
+                  <idno type="WIKIDATA">http://www.wikidata.org/entity/Q1731745</idno>
+                  <figure>
+                     <graphic url="emt_person_id__322.jpg"/>
+                     <caption>Portret van Karel, graaf van Liechtenstein-Castelcorn, RP-P-1908-393.jpg</caption>
+                  </figure>
+               </person>
+               <person xml:id="emt_person_id__323">
+                  <persName>Friedrich von Holstein-Sonderburg-Wiesenburg</persName>
+                  <birth>
+                     <date notBefore="1651-01-01" notAfter="1651-12-31">1651</date>
+                  </birth>
+                  <death>
+                     <date notBefore="1724-01-01" notAfter="1724-12-31">1724</date>
+                  </death>
+                  <idno type="GND">https://d-nb.info/gnd/1206736712</idno>
+                  <idno type="NDB">https://www.deutsche-biographie.de/pnd1206736712.html</idno>
+                  <idno type="WIKIDATA">http://www.wikidata.org/entity/Q20723780</idno>
+                  <figure>
+                     <graphic url="emt_person_id__323.jpg"/>
+                     <caption>Frederik hertug af Slesvig-Holsten-Sønderborg-Wisenburg - MP003637.jpg</caption>
+                  </figure>
+               </person>
+               <person xml:id="emt_person_id__324">
+                  <persName>Preising, Graf</persName>
+               </person>
+               <person xml:id="emt_person_id__325">
+                  <persName>Althann (Familie)</persName>
+               </person>
+               <person xml:id="emt_person_id__326">
+                  <persName>Ludwig Colloredo</persName>
+                  <birth>
+                     <date notBefore="1631-01-01" notAfter="1631-12-31">1631</date>
+                  </birth>
+                  <death>
+                     <date notBefore="1693-01-01" notAfter="1693-12-31">1693</date>
+                  </death>
+                  <idno type="GND">https://d-nb.info/gnd/1170477321</idno>
+                  <idno type="NDB">https://www.deutsche-biographie.de/pnd1170477321.html#indexcontent</idno>
+                  <idno type="WIKIDATA">http://www.wikidata.org/entity/Q12034224</idno>
+                  <idno type="URL">http://www.wikidata.org/entity/Q12034224</idno>
+               </person>
+               <person xml:id="emt_person_id__327">
+                  <persName>Pater Genger</persName>
+               </person>
+               <person xml:id="emt_person_id__328">
+                  <persName>Johann Sebastian von Pötting</persName>
+                  <birth>
+                     <date notBefore="1626-01-01" notAfter="1626-12-31">1626</date>
+                  </birth>
+                  <idno type="NDB">https://www.deutsche-biographie.de/pnd1218226420.html</idno>
+                  <idno type="URL">https://de.rodovid.org/wk/Person:203351</idno>
+               </person>
+               <person xml:id="emt_person_id__329">
+                  <persName>Sebastian von Pötting, Bischof von Passau</persName>
+                  <birth>
+                     <date notBefore="1628-01-01" notAfter="1628-12-31">1628</date>
+                  </birth>
+                  <death>
+                     <date notBefore="1689-01-01" notAfter="1689-12-31">1689</date>
+                  </death>
+                  <idno type="GND">https://d-nb.info/gnd/11566758X</idno>
+                  <idno type="NDB">https://www.deutsche-biographie.de/sfzP4336.html#indexcontent</idno>
+                  <idno type="WIKIDATA">http://www.wikidata.org/entity/Q123043</idno>
+                  <figure>
+                     <graphic url="emt_person_id__329.jpg"/>
+                     <caption>Sebastian von Pötting.jpg</caption>
+                  </figure>
+               </person>
             </listPerson>
          </div>
       </body>

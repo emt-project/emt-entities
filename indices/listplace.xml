@@ -1163,6 +1163,15 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                <place xml:id="emt_place_id__168">
                   <placeName>Dänemark</placeName>
                </place>
+               <place xml:id="emt_place_id__169">
+                  <placeName>Wien, Fluss</placeName>
+               </place>
+               <place xml:id="emt_place_id__170">
+                  <placeName>Wien, Schönbrunn</placeName>
+               </place>
+               <place xml:id="emt_place_id__171">
+                  <placeName>Wien, großer Garten des Kaisers 1682</placeName>
+               </place>
             </listPlace>
          </div>
       </body>
