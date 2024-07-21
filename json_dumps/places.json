@@ -2195,5 +2195,31 @@
     "comments intern": "",
     "gnd": "",
     "alternative_name": ""
+  },
+  "172": {
+    "id": 172,
+    "order": "170.00000000000000000000",
+    "name": "Schlesien",
+    "geonames": "",
+    "emt_id": "emt_place_id__172",
+    "place_type": null,
+    "lat": null,
+    "long": null,
+    "comments intern": "",
+    "gnd": "",
+    "alternative_name": ""
+  },
+  "173": {
+    "id": 173,
+    "order": "171.00000000000000000000",
+    "name": "Philippsburg",
+    "geonames": "",
+    "emt_id": "emt_place_id__173",
+    "place_type": null,
+    "lat": null,
+    "long": null,
+    "comments intern": "",
+    "gnd": "",
+    "alternative_name": ""
   }
 }

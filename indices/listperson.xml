@@ -1216,7 +1216,10 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                   <idno type="NDB">https://www.deutsche-biographie.de/pnd121822598X.html#indexcontent</idno>
                </person>
                <person xml:id="emt_person_id__98">
-                  <persName>Leibarzt EMT 1677 (betreut sie in Schwangerschaft, wahrscheinlich Huber)</persName>
+                  <persName>Leibarzt EMT 1677</persName>
+                  <death>
+                     <date notBefore="1682-01-01" notAfter="1682-12-31">1682</date>
+                  </death>
                </person>
                <person xml:id="emt_person_id__99">
                   <persName>Vincenzo Gonzaga di Guastalla</persName>
@@ -3124,6 +3127,7 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                   <birth>
                      <date notBefore="1626-01-01" notAfter="1626-12-31">1626</date>
                   </birth>
+                  <idno type="GND">https://d-nb.info/gnd/1218226420</idno>
                   <idno type="NDB">https://www.deutsche-biographie.de/pnd1218226420.html</idno>
                   <idno type="URL">https://de.rodovid.org/wk/Person:203351</idno>
                </person>
@@ -3142,6 +3146,99 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                      <graphic url="emt_person_id__329.jpg"/>
                      <caption>Sebastian von Pötting.jpg</caption>
                   </figure>
+               </person>
+               <person xml:id="emt_person_id__330">
+                  <persName>Ignaz Dominikus von Pötting</persName>
+                  <birth>
+                     <date notBefore="1651-01-01" notAfter="1651-12-31">1651</date>
+                  </birth>
+                  <death>
+                     <date notBefore="1684-01-01" notAfter="1684-12-31">1684</date>
+                  </death>
+                  <idno type="URL">https://de.rodovid.org/wk/Person:203404</idno>
+               </person>
+               <person xml:id="emt_person_id__331">
+                  <persName>Huber, Gemahlin des Doktors</persName>
+                  <death>
+                     <date notBefore="1682-01-01" notAfter="1682-12-31">1682</date>
+                  </death>
+               </person>
+               <person xml:id="emt_person_id__332">
+                  <persName>Massimi, Monsignore</persName>
+               </person>
+               <person xml:id="emt_person_id__333">
+                  <persName>Mehlheim / Mellem, Doktor</persName>
+               </person>
+               <person xml:id="emt_person_id__334">
+                  <persName>Schorn, Doktor</persName>
+               </person>
+               <person xml:id="emt_person_id__335">
+                  <persName>Nikolaus Wilhelm Beckers</persName>
+                  <birth>
+                     <date notBefore="1630-01-01" notAfter="1630-12-31">1630</date>
+                  </birth>
+                  <death>
+                     <date notBefore="1705-01-01" notAfter="1705-12-31">1705</date>
+                  </death>
+                  <idno type="GND">https://d-nb.info/gnd/11954802X</idno>
+                  <idno type="NDB">https://www.deutsche-biographie.de/sfz2587.html#indexcontent</idno>
+                  <idno type="URL">https://rheinische-geschichte.lvr.de/Persoenlichkeiten/nikolaus-wilhelm-beckers-/DE-2086/lido/57c577c51e5ff9.57935579</idno>
+               </person>
+               <person xml:id="emt_person_id__336">
+                  <persName>Illmayer, Doktor (?)</persName>
+               </person>
+               <person xml:id="emt_person_id__337">
+                  <persName>Simon Peter Langstöger</persName>
+                  <idno type="URL">http://www.kultur-klosterneuburg.at/Bereiche/Dokumentation/ONLINE/BEDEUTENDE_KLBGer/LANGSTOEGER/Index.html</idno>
+               </person>
+               <person xml:id="emt_person_id__338">
+                  <persName>Leibarzt Johann Wilhelms 1682</persName>
+               </person>
+               <person xml:id="emt_person_id__339">
+                  <persName>Doktor Herst</persName>
+               </person>
+               <person xml:id="emt_person_id__340">
+                  <persName>Alberto Caprara</persName>
+                  <birth>
+                     <date notBefore="1627-01-01" notAfter="1627-12-31">1627</date>
+                  </birth>
+                  <death>
+                     <date notBefore="1691-01-01" notAfter="1691-12-31">1691</date>
+                  </death>
+                  <idno type="GND">https://d-nb.info/gnd/124545998</idno>
+                  <idno type="NDB">https://www.deutsche-biographie.de/pnd124545998.html#indexcontent</idno>
+                  <idno type="WIKIDATA">http://www.wikidata.org/entity/Q1616686</idno>
+                  <figure>
+                     <graphic url="emt_person_id__340.jpg"/>
+                     <caption>Portret van Ottomaanse graaf Alberto Caprara met bontmuts Albertvs comes Caprara anno dom. MDCLXXXIII (titel op object), RP-P-1908-3966.jpg</caption>
+                  </figure>
+               </person>
+               <person xml:id="emt_person_id__341">
+                  <persName>Maria Franziska von Portugal, geb. Savoyen</persName>
+                  <birth>
+                     <date notBefore="1646-01-01" notAfter="1646-12-31">1646</date>
+                  </birth>
+                  <death>
+                     <date notBefore="1683-01-01" notAfter="1683-12-31">1683</date>
+                  </death>
+                  <idno type="GND">https://d-nb.info/gnd/119559897</idno>
+                  <idno type="WIKIDATA">http://www.wikidata.org/entity/Q237366</idno>
+                  <figure>
+                     <graphic url="emt_person_id__341.jpg"/>
+                     <caption>Ritratto di Maria Francesca di Savoia-Nemours (Castello Reale di Racconigi).jpg</caption>
+                  </figure>
+               </person>
+               <person xml:id="emt_person_id__342">
+                  <persName/>
+               </person>
+               <person xml:id="emt_person_id__343">
+                  <persName>spanischer BOtschafter in Wien Dezember 1682</persName>
+               </person>
+               <person xml:id="emt_person_id__344">
+                  <persName>Markgraf, unter dem Ludwig Anton ein Regiment übernimmt</persName>
+               </person>
+               <person xml:id="emt_person_id__345">
+                  <persName>Oberst Burg oder Oberstburggraf 1682</persName>
                </person>
             </listPerson>
          </div>

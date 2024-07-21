@@ -1172,6 +1172,12 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                <place xml:id="emt_place_id__171">
                   <placeName>Wien, großer Garten des Kaisers 1682</placeName>
                </place>
+               <place xml:id="emt_place_id__172">
+                  <placeName>Schlesien</placeName>
+               </place>
+               <place xml:id="emt_place_id__173">
+                  <placeName>Philippsburg</placeName>
+               </place>
             </listPlace>
          </div>
       </body>
