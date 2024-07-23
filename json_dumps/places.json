@@ -2221,5 +2221,18 @@
     "comments intern": "",
     "gnd": "",
     "alternative_name": ""
+  },
+  "174": {
+    "id": 174,
+    "order": "172.00000000000000000000",
+    "name": "Osmanisches Reich",
+    "geonames": "",
+    "emt_id": "emt_place_id__174",
+    "place_type": null,
+    "lat": null,
+    "long": null,
+    "comments intern": "\"Türken\"",
+    "gnd": "",
+    "alternative_name": ""
   }
 }
