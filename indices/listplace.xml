@@ -401,12 +401,6 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                   </location>
                   <idno type="GEONAMES">https://sws.geonames.org/6550513/</idno>
                </place>
-               <place xml:id="emt_place_id__50">
-                  <placeName/>
-                  <location type="coords">
-                     <geo>41.89193 12.511330</geo>
-                  </location>
-               </place>
                <place xml:id="emt_place_id__51">
                   <placeName>Sagan / Żagań</placeName>
                   <location type="coords">
@@ -1180,6 +1174,12 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                </place>
                <place xml:id="emt_place_id__174">
                   <placeName>Osmanisches Reich</placeName>
+               </place>
+               <place xml:id="emt_place_id__175">
+                  <placeName>Neapel</placeName>
+               </place>
+               <place xml:id="emt_place_id__176">
+                  <placeName>Persien</placeName>
                </place>
             </listPlace>
          </div>

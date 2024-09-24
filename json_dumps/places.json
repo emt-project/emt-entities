@@ -636,19 +636,6 @@
     "gnd": "",
     "alternative_name": null
   },
-  "50": {
-    "id": 50,
-    "order": "50.00000000000000000000",
-    "name": "",
-    "geonames": "",
-    "emt_id": "emt_place_id__50",
-    "place_type": null,
-    "lat": "41.89193",
-    "long": "12.511330",
-    "comments intern": "Rom gibt es zweimal in der Liste!!!!!!!! Ich benutze Nummer 90",
-    "gnd": "",
-    "alternative_name": null
-  },
   "51": {
     "id": 51,
     "order": "51.00000000000000000000",
@@ -2232,6 +2219,32 @@
     "lat": null,
     "long": null,
     "comments intern": "\"Türken\"",
+    "gnd": "",
+    "alternative_name": ""
+  },
+  "175": {
+    "id": 175,
+    "order": "173.00000000000000000000",
+    "name": "Neapel",
+    "geonames": "",
+    "emt_id": "emt_place_id__175",
+    "place_type": null,
+    "lat": null,
+    "long": null,
+    "comments intern": "",
+    "gnd": "",
+    "alternative_name": ""
+  },
+  "176": {
+    "id": 176,
+    "order": "174.00000000000000000000",
+    "name": "Persien",
+    "geonames": "",
+    "emt_id": "emt_place_id__176",
+    "place_type": null,
+    "lat": null,
+    "long": null,
+    "comments intern": "",
     "gnd": "",
     "alternative_name": ""
   }
