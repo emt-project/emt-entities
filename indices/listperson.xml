@@ -744,7 +744,7 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                   <idno type="URL">https://www.bitburg-pruem.de/cms/images/pdf/Schloss_Malberg_Teil_2_53C54_Verf_Dr_Peter_Neu_2020.pdf</idno>
                </person>
                <person xml:id="emt_person_id__58">
-                  <persName>Maximilian von Starhemberg</persName>
+                  <persName>Maximilian Lorenz von Starhemberg</persName>
                   <birth>
                      <date notBefore="1640-01-01" notAfter="1640-12-31">1640</date>
                   </birth>
@@ -2914,7 +2914,7 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                   <persName>Mann in der blauen Decke</persName>
                </person>
                <person xml:id="emt_person_id__300">
-                  <persName>Marie Louise von Spanien, geb. Orléans</persName>
+                  <persName>Marie Louise von Spanien, geb. Orleans</persName>
                   <birth>
                      <date notBefore="1662-01-01" notAfter="1662-12-31">1662</date>
                   </birth>
@@ -3455,6 +3455,34 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                      <graphic url="emt_person_id__370.jpg"/>
                      <caption>Shah soleiman safavi.jpg</caption>
                   </figure>
+               </person>
+               <person xml:id="emt_person_id__371">
+                  <persName>erster Staatssekretär in Portugal 1683</persName>
+               </person>
+               <person xml:id="emt_person_id__372">
+                  <persName>Österreich, Haus</persName>
+               </person>
+               <person xml:id="emt_person_id__373">
+                  <persName>Anne Marie von Savoyen, geb. Orleans</persName>
+                  <birth>
+                     <date notBefore="1669-01-01" notAfter="1669-12-31">1669</date>
+                  </birth>
+                  <death>
+                     <date notBefore="1728-01-01" notAfter="1728-12-31">1728</date>
+                  </death>
+                  <idno type="GND">https://d-nb.info/gnd/133606457</idno>
+                  <idno type="NDB">https://www.deutsche-biographie.de/pnd133606457.html#indexcontent</idno>
+                  <idno type="WIKIDATA">http://www.wikidata.org/entity/Q230873</idno>
+                  <figure>
+                     <graphic url="emt_person_id__373.jpg"/>
+                     <caption>Full portrait painting of Anne Marie d'Orléans as Queen of Sardinia overlooking the Sardinian crown and wearing Savoyard ceremonial robes by an unknown artist (Royal Castle of Racconigi).jpg</caption>
+                  </figure>
+               </person>
+               <person xml:id="emt_person_id__374">
+                  <persName>Schmidt, ist 1683 in Bayern in Ungnade gefallen</persName>
+               </person>
+               <person xml:id="emt_person_id__375">
+                  <persName>Justi, Diplomat 1683</persName>
                </person>
             </listPerson>
          </div>

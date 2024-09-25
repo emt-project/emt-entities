@@ -2247,5 +2247,18 @@
     "comments intern": "",
     "gnd": "",
     "alternative_name": ""
+  },
+  "177": {
+    "id": 177,
+    "order": "175.00000000000000000000",
+    "name": "",
+    "geonames": "",
+    "emt_id": "emt_place_id__177",
+    "place_type": null,
+    "lat": null,
+    "long": null,
+    "comments intern": "",
+    "gnd": "",
+    "alternative_name": ""
   }
 }
