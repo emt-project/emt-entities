@@ -3484,6 +3484,15 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                <person xml:id="emt_person_id__375">
                   <persName>Justi, Diplomat 1683</persName>
                </person>
+               <person xml:id="emt_person_id__376">
+                  <persName>Wolfgang Andreas von Orsini-Rosenberg, Hofkammerpräsident</persName>
+                  <birth>
+                     <date notBefore="1626-01-01" notAfter="1626-12-31">1626</date>
+                  </birth>
+                  <death>
+                     <date notBefore="1695-01-01" notAfter="1695-12-31">1695</date>
+                  </death>
+               </person>
             </listPerson>
          </div>
       </body>

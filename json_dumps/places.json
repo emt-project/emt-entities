@@ -2260,5 +2260,18 @@
     "comments intern": "",
     "gnd": "",
     "alternative_name": ""
+  },
+  "178": {
+    "id": 178,
+    "order": "176.00000000000000000000",
+    "name": "Pfaffenhofen an der Ilm",
+    "geonames": "",
+    "emt_id": "emt_place_id__178",
+    "place_type": null,
+    "lat": null,
+    "long": null,
+    "comments intern": "",
+    "gnd": "",
+    "alternative_name": ""
   }
 }

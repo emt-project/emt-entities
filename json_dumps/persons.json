@@ -8006,5 +8006,27 @@
     "birth_date_written": "",
     "death_date_written": "",
     "Geschlecht": ""
+  },
+  "376": {
+    "id": 376,
+    "order": "376.00000000000000000000",
+    "name": "Wolfgang Andreas von Orsini-Rosenberg, Hofkammerpräsident",
+    "gnd": "",
+    "other_url": "",
+    "emt_id": "emt_person_id__376",
+    "internal_comment": "",
+    "color": "",
+    "lebensdaten": "",
+    "ndb": "",
+    "year_of_birth": "1626",
+    "year_of_death": "1695",
+    "wikidata_url": "",
+    "wikidata_enriched": false,
+    "img_name": "",
+    "img_fetched": false,
+    "img_source": "",
+    "birth_date_written": "",
+    "death_date_written": "",
+    "Geschlecht": ""
   }
 }
