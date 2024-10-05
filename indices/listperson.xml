@@ -3407,7 +3407,7 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                   <persName>Cavriani, wird 1683 Kämmerer</persName>
                </person>
                <person xml:id="emt_person_id__367">
-                  <persName/>
+                  <persName>Köchin der Kaiserin EMT 1683</persName>
                </person>
                <person xml:id="emt_person_id__368">
                   <persName>Karl II. Kurfürst von der Pfalz</persName>
@@ -3492,6 +3492,50 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                   <death>
                      <date notBefore="1695-01-01" notAfter="1695-12-31">1695</date>
                   </death>
+               </person>
+               <person xml:id="emt_person_id__377">
+                  <persName>Doktor Weibl</persName>
+               </person>
+               <person xml:id="emt_person_id__378">
+                  <persName>Franz Conrad von Stadion</persName>
+                  <birth>
+                     <date notBefore="1615-01-01" notAfter="1615-12-31">1615</date>
+                  </birth>
+                  <death>
+                     <date notBefore="1685-01-01" notAfter="1685-12-31">1685</date>
+                  </death>
+                  <idno type="GND">https://d-nb.info/gnd/101976600X</idno>
+                  <idno type="NDB">https://www.deutsche-biographie.de/pnd101976600X.html</idno>
+                  <idno type="WIKIDATA">http://www.wikidata.org/entity/Q50385121</idno>
+                  <figure>
+                     <graphic url="emt_person_id__378.jpg"/>
+                     <caption>Franz Konrad von Stadion und Thannhausen.jpg</caption>
+                  </figure>
+               </person>
+               <person xml:id="emt_person_id__379">
+                  <persName>Christoph Leopold von Schaffgotsch</persName>
+                  <birth>
+                     <date notBefore="1623-01-01" notAfter="1623-12-31">1623</date>
+                  </birth>
+                  <death>
+                     <date notBefore="1703-01-01" notAfter="1703-12-31">1703</date>
+                  </death>
+                  <idno type="GND">https://d-nb.info/gnd/102532338</idno>
+                  <idno type="NDB">https://www.deutsche-biographie.de/sfz77923.html#adbcontent</idno>
+                  <idno type="WIKIDATA">http://www.wikidata.org/entity/Q28477508</idno>
+                  <figure>
+                     <graphic url="emt_person_id__379.jpg"/>
+                     <caption>Arolsen Klebeband 02 496.jpg</caption>
+                  </figure>
+               </person>
+               <person xml:id="emt_person_id__380">
+                  <persName>Rusenstein, Herr, 1683</persName>
+               </person>
+               <person xml:id="emt_person_id__381">
+                  <persName>Pozinski, Herr, 1683</persName>
+               </person>
+               <person xml:id="emt_person_id__382">
+                  <persName>Leibarzt, der EMT 1683 betreut</persName>
                </person>
             </listPerson>
          </div>

@@ -1187,6 +1187,33 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                <place xml:id="emt_place_id__178">
                   <placeName>Pfaffenhofen an der Ilm</placeName>
                </place>
+               <place xml:id="emt_place_id__179">
+                  <placeName>Pfalz, Kurfürstentum</placeName>
+               </place>
+               <place xml:id="emt_place_id__180">
+                  <placeName>Passau, Bistum</placeName>
+               </place>
+               <place xml:id="emt_place_id__181">
+                  <placeName>Raab, Fluss</placeName>
+               </place>
+               <place xml:id="emt_place_id__182">
+                  <placeName>Tulln</placeName>
+               </place>
+               <place xml:id="emt_place_id__183">
+                  <placeName>Sankt Pölten</placeName>
+               </place>
+               <place xml:id="emt_place_id__184">
+                  <placeName>Osmanen</placeName>
+               </place>
+               <place xml:id="emt_place_id__185">
+                  <placeName>Wien, Leopoldstadt</placeName>
+               </place>
+               <place xml:id="emt_place_id__186">
+                  <placeName>Neuhäusel, Festung</placeName>
+               </place>
+               <place xml:id="emt_place_id__187">
+                  <placeName>Schärding</placeName>
+               </place>
             </listPlace>
          </div>
       </body>

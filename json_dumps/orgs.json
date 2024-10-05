@@ -117,5 +117,12 @@
     "name": "Barmherzige Brüder",
     "gnd": "",
     "emt_id": "emt_institution_id__17"
+  },
+  "18": {
+    "id": 18,
+    "order": "18.00000000000000000000",
+    "name": "Domkapitel zu Breslau",
+    "gnd": "",
+    "emt_id": "emt_institution_id__18"
   }
 }
