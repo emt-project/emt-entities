@@ -1182,7 +1182,7 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                   <placeName>Persien</placeName>
                </place>
                <place xml:id="emt_place_id__177">
-                  <placeName/>
+                  <placeName>Passau, Wallfahrtskirche Mariahilf</placeName>
                </place>
                <place xml:id="emt_place_id__178">
                   <placeName>Pfaffenhofen an der Ilm</placeName>
@@ -1213,6 +1213,33 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                </place>
                <place xml:id="emt_place_id__187">
                   <placeName>Schärding</placeName>
+               </place>
+               <place xml:id="emt_place_id__188">
+                  <placeName>Krems</placeName>
+               </place>
+               <place xml:id="emt_place_id__189">
+                  <placeName>Donau, Fluss</placeName>
+               </place>
+               <place xml:id="emt_place_id__190">
+                  <placeName>Braunau am Inn</placeName>
+               </place>
+               <place xml:id="emt_place_id__191">
+                  <placeName>Franken</placeName>
+               </place>
+               <place xml:id="emt_place_id__192">
+                  <placeName>Tataren</placeName>
+               </place>
+               <place xml:id="emt_place_id__193">
+                  <placeName>Gran / Esztergom</placeName>
+               </place>
+               <place xml:id="emt_place_id__194">
+                  <placeName>Enzersdorf</placeName>
+               </place>
+               <place xml:id="emt_place_id__195">
+                  <placeName>Deutschland</placeName>
+               </place>
+               <place xml:id="emt_place_id__196">
+                  <placeName>Sachsen</placeName>
                </place>
             </listPlace>
          </div>

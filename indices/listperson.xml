@@ -3537,6 +3537,102 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                <person xml:id="emt_person_id__382">
                   <persName>Leibarzt, der EMT 1683 betreut</persName>
                </person>
+               <person xml:id="emt_person_id__383">
+                  <persName>Schlüsselamtmann zu Krems 1683</persName>
+               </person>
+               <person xml:id="emt_person_id__384">
+                  <persName>Jakob Leslie</persName>
+                  <death>
+                     <date notBefore="1685-01-01" notAfter="1685-12-31">1685</date>
+                  </death>
+                  <idno type="GND">https://d-nb.info/gnd/136659705</idno>
+                  <idno type="NDB">https://www.deutsche-biographie.de/sfz50600.html#indexcontent</idno>
+               </person>
+               <person xml:id="emt_person_id__385">
+                  <persName>Emmerich (Imre) Thököly</persName>
+                  <birth>
+                     <date notBefore="1657-01-01" notAfter="1657-12-31">1657</date>
+                  </birth>
+                  <death>
+                     <date notBefore="1705-01-01" notAfter="1705-12-31">1705</date>
+                  </death>
+                  <idno type="GND">https://d-nb.info/gnd/118757156</idno>
+                  <idno type="NDB">https://www.deutsche-biographie.de/sfz14783.html#indexcontent</idno>
+                  <idno type="WIKIDATA">http://www.wikidata.org/entity/Q357151</idno>
+                  <figure>
+                     <graphic url="emt_person_id__385.jpg"/>
+                     <caption>Thokolyi.jpg</caption>
+                  </figure>
+               </person>
+               <person xml:id="emt_person_id__386">
+                  <persName>Brunett, ihm soll 1683 geholfen werden</persName>
+               </person>
+               <person xml:id="emt_person_id__387">
+                  <persName>Karl Ferdinand von Lothringen</persName>
+                  <birth>
+                     <date notBefore="1683-01-01" notAfter="1683-12-31">1683</date>
+                  </birth>
+                  <death>
+                     <date notBefore="1685-01-01" notAfter="1685-12-31">1685</date>
+                  </death>
+               </person>
+               <person xml:id="emt_person_id__388">
+                  <persName>Maria Teresa von Frankreich, geb. Spanien</persName>
+                  <birth>
+                     <date notBefore="1638-01-01" notAfter="1638-12-31">1638</date>
+                  </birth>
+                  <death>
+                     <date notBefore="1683-01-01" notAfter="1683-12-31">1683</date>
+                  </death>
+                  <idno type="GND">https://d-nb.info/gnd/119150182</idno>
+                  <idno type="NDB">https://www.deutsche-biographie.de/sfz58313.html#indexcontent</idno>
+                  <idno type="WIKIDATA">http://www.wikidata.org/entity/Q152549</idno>
+                  <figure>
+                     <graphic url="emt_person_id__388.jpg"/>
+                     <caption>Detail of Marie Thérèse d'Autriche by Nocret.jpg</caption>
+                  </figure>
+               </person>
+               <person xml:id="emt_person_id__389">
+                  <persName>Herzog von Sachsen, 1683 beim Entsatz von Wien</persName>
+               </person>
+               <person xml:id="emt_person_id__390">
+                  <persName>Herr von Auersperg 1683</persName>
+               </person>
+               <person xml:id="emt_person_id__391">
+                  <persName>Herr von Götzen, kaiserlicher General 1683</persName>
+               </person>
+               <person xml:id="emt_person_id__392">
+                  <persName>Ernst Rüdiger von Starhemberg</persName>
+                  <birth>
+                     <date notBefore="1638-01-01" notAfter="1638-12-31">1638</date>
+                  </birth>
+                  <death>
+                     <date notBefore="1701-01-01" notAfter="1701-12-31">1701</date>
+                  </death>
+                  <idno type="GND">https://d-nb.info/gnd/117216402</idno>
+                  <idno type="NDB">https://www.deutsche-biographie.de/sfz74869.html#indexcontent</idno>
+                  <idno type="WIKIDATA">http://www.wikidata.org/entity/Q551615</idno>
+                  <figure>
+                     <graphic url="emt_person_id__392.jpg"/>
+                     <caption>Graf Ernst Ruediger von Starhemberg2.png</caption>
+                  </figure>
+               </person>
+               <person xml:id="emt_person_id__393">
+                  <persName>Georg Friedrich von Waldeck-Pyrmont</persName>
+                  <birth>
+                     <date notBefore="1620-01-01" notAfter="1620-12-31">1620</date>
+                  </birth>
+                  <death>
+                     <date notBefore="1692-01-01" notAfter="1692-12-31">1692</date>
+                  </death>
+                  <idno type="GND">https://d-nb.info/gnd/119177269</idno>
+                  <idno type="NDB">https://www.deutsche-biographie.de/sfz35706.html#indexcontent</idno>
+                  <idno type="WIKIDATA">http://www.wikidata.org/entity/Q62507</idno>
+                  <figure>
+                     <graphic url="emt_person_id__393.jpg"/>
+                     <caption>Georg Friedrich, count of Waldeck, painted by Johann Valentin Tischbein, ca 1750.jpg</caption>
+                  </figure>
+               </person>
             </listPerson>
          </div>
       </body>
