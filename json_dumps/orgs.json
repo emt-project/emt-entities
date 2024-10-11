@@ -124,5 +124,12 @@
     "name": "Domkapitel zu Breslau",
     "gnd": "",
     "emt_id": "emt_institution_id__18"
+  },
+  "19": {
+    "id": 19,
+    "order": "19.00000000000000000000",
+    "name": "Domkapitel zu Trient",
+    "gnd": "",
+    "emt_id": "emt_institution_id__19"
   }
 }

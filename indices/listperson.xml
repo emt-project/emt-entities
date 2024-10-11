@@ -1402,7 +1402,7 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                   </death>
                </person>
                <person xml:id="emt_person_id__118">
-                  <persName>Ferdinand Joseph von Dietrichstein, Obersthofmeister der Kaiserin</persName>
+                  <persName>Ferdinand Joseph von Dietrichstein, Obersthofmeister</persName>
                   <birth>
                      <date notBefore="1636-01-01" notAfter="1636-12-31">1636</date>
                   </birth>
@@ -3257,7 +3257,7 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                   <persName>Conigni, Herr 1683</persName>
                </person>
                <person xml:id="emt_person_id__349">
-                  <persName>Albrecht von Zinzendorf, Obersthofmarschall</persName>
+                  <persName>Albrecht von Zinzendorf</persName>
                   <birth>
                      <date notBefore="1618-01-01" notAfter="1618-12-31">1618</date>
                   </birth>
@@ -3375,7 +3375,7 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                   <idno type="URL">https://run.unl.pt/handle/10362/75618</idno>
                </person>
                <person xml:id="emt_person_id__363">
-                  <persName>Auditor di Rota 1683</persName>
+                  <persName>Auditor (di Rota ?) 1683</persName>
                </person>
                <person xml:id="emt_person_id__364">
                   <persName>Marcello Durazzo, Nuntius in Portugal</persName>
@@ -3632,6 +3632,90 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                      <graphic url="emt_person_id__393.jpg"/>
                      <caption>Georg Friedrich, count of Waldeck, painted by Johann Valentin Tischbein, ca 1750.jpg</caption>
                   </figure>
+               </person>
+               <person xml:id="emt_person_id__394">
+                  <persName>Palffy, Gemahlin eines Herrn</persName>
+               </person>
+               <person xml:id="emt_person_id__395">
+                  <persName>Golstein, Herr von, 1683</persName>
+               </person>
+               <person xml:id="emt_person_id__396">
+                  <persName>Walter Gall, Graf</persName>
+                  <death>
+                     <date notBefore="1685-01-01" notAfter="1685-12-31">1685</date>
+                  </death>
+               </person>
+               <person xml:id="emt_person_id__397">
+                  <persName>Mattenclot, Herr, geht 1683 für Pfalz-Neuburg nach Breslau</persName>
+               </person>
+               <person xml:id="emt_person_id__398">
+                  <persName>Maximilian Ferdinand von Törring-Seefeld</persName>
+                  <birth>
+                     <date notBefore="1632-01-01" notAfter="1632-12-31">1632</date>
+                  </birth>
+                  <death>
+                     <date notBefore="1683-01-01" notAfter="1683-12-31">1683</date>
+                  </death>
+                  <idno type="GND">https://d-nb.info/gnd/115877894</idno>
+                  <idno type="NDB">https://www.deutsche-biographie.de/sfz133166.html?language=de#indexcontent</idno>
+                  <idno type="WIKIDATA">http://www.wikidata.org/entity/Q1475861</idno>
+               </person>
+               <person xml:id="emt_person_id__399">
+                  <persName>Ibrahim Pascha, Pascha von Ofen</persName>
+                  <death>
+                     <date notBefore="1683-01-01" notAfter="1683-12-31">1683</date>
+                  </death>
+               </person>
+               <person xml:id="emt_person_id__400">
+                  <persName>Karl Franz Neander von Petersheide</persName>
+                  <birth>
+                     <date notBefore="1626-01-01" notAfter="1626-12-31">1626</date>
+                  </birth>
+                  <death>
+                     <date notBefore="1693-01-01" notAfter="1693-12-31">1693</date>
+                  </death>
+                  <idno type="GND">https://d-nb.info/gnd/1089577338</idno>
+                  <idno type="NDB">https://www.deutsche-biographie.de/pnd1089577338.html#indexcontent</idno>
+                  <idno type="WIKIDATA">http://www.wikidata.org/entity/Q97682</idno>
+               </person>
+               <person xml:id="emt_person_id__401">
+                  <persName>Karl II., König von England und Schottland</persName>
+                  <birth>
+                     <date notBefore="1630-01-01" notAfter="1630-12-31">1630</date>
+                  </birth>
+                  <death>
+                     <date notBefore="1685-01-01" notAfter="1685-12-31">1685</date>
+                  </death>
+                  <idno type="GND">https://d-nb.info/gnd/118560042</idno>
+                  <idno type="WIKIDATA">http://www.wikidata.org/entity/Q122553</idno>
+                  <figure>
+                     <graphic url="emt_person_id__401.jpg"/>
+                     <caption>Sir Peter Lely (1618-80) - Charles II (1630-1685) - RCIN 405672 - Royal Collection.jpg</caption>
+                  </figure>
+               </person>
+               <person xml:id="emt_person_id__402">
+                  <persName>Beichtvater der Königin von Spanien (?) 1683</persName>
+               </person>
+               <person xml:id="emt_person_id__403">
+                  <persName>Alfonso VI., König von Portugal</persName>
+                  <birth>
+                     <date notBefore="1643-01-01" notAfter="1643-12-31">1643</date>
+                  </birth>
+                  <death>
+                     <date notBefore="1683-01-01" notAfter="1683-12-31">1683</date>
+                  </death>
+                  <idno type="GND">https://d-nb.info/gnd/119559889</idno>
+                  <idno type="WIKIDATA">http://www.wikidata.org/entity/Q691168</idno>
+                  <figure>
+                     <graphic url="emt_person_id__403.jpg"/>
+                     <caption>AfonsoVIpt.jpg</caption>
+                  </figure>
+               </person>
+               <person xml:id="emt_person_id__404">
+                  <persName>Deli Bekir Pascha</persName>
+                  <death>
+                     <date notBefore="1683-01-01" notAfter="1683-12-31">1683</date>
+                  </death>
                </person>
             </listPerson>
          </div>

@@ -2507,5 +2507,18 @@
     "comments intern": "",
     "gnd": "",
     "alternative_name": ""
+  },
+  "197": {
+    "id": 197,
+    "order": "195.00000000000000000000",
+    "name": "Párkány",
+    "geonames": "",
+    "emt_id": "emt_place_id__197",
+    "place_type": null,
+    "lat": null,
+    "long": null,
+    "comments intern": "",
+    "gnd": "",
+    "alternative_name": ""
   }
 }
