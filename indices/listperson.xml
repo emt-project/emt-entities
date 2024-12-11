@@ -2787,7 +2787,7 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                <person xml:id="emt_person_id__280">
                   <persName>Stephan der Heilige, König in Ungarn</persName>
                   <birth>
-                     <date notBefore="969-01-01" notAfter="969-12-31">969</date>
+                     <date notBefore="0969-01-01" notAfter="0969-12-31">969</date>
                   </birth>
                   <death>
                      <date notBefore="1038-01-01" notAfter="1038-12-31">1038</date>

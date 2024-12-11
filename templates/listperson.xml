@@ -66,7 +66,7 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                   <persName>{{ x.name }}</persName>
                   {% if x.year_of_birth is string %}
                   <birth>
-                     <date notBefore="{{ x.year_of_birth }}-01-01" notAfter="{{ x.year_of_birth }}-12-31">{{ x.year_of_birth }}</date>
+                     <date notBefore="{% if x.year_of_birth|length == 3 %}0{% endif %}{{ x.year_of_birth }}-01-01" notAfter="{% if x.year_of_birth|length == 3 %}0{% endif %}{{ x.year_of_birth }}-12-31">{{ x.year_of_birth }}</date>
                      {% if x.birth_place %}
                      {% for p in x.birth_place %}
                      <settlement key="emt_place_id_{{ p.id }}">
@@ -78,7 +78,7 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                   {% endif %}
                   {% if x.year_of_death is string %}
                   <death>
-                     <date notBefore="{{ x.year_of_death }}-01-01" notAfter="{{ x.year_of_death }}-12-31">{{ x.year_of_death }}</date>
+                     <date notBefore="{% if x.year_of_death|length == 3 %}0{% endif %}{{ x.year_of_death }}-01-01" notAfter="{% if x.year_of_death|length == 3 %}0{% endif %}{{ x.year_of_death }}-12-31">{{ x.year_of_death }}</date>
                      {% if x.death_place %}
                      {% for p in x.death_place %}
                      <settlement key="emt_place_id_{{ p.id }}">
