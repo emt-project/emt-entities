@@ -331,6 +331,17 @@
     },
     {
       "start_date": {
+        "year": "1691",
+        "month": "12",
+        "day": "31"
+      },
+      "text": {
+        "headline": "Tod von Erzherzogin Maria Margaretha",
+        "text": "<span style=\"color:brown\">Dynastisches</span>"
+      }
+    },
+    {
+      "start_date": {
         "year": "1690",
         "month": "9",
         "day": "12"
@@ -550,6 +561,17 @@
       },
       "text": {
         "headline": "<a href=\"emt_place_id__101.html\">Breslau / Wrocław</a>, Wahl Franz Ludwigs von Pfalz-Neuburg zum Fürstbischof von Breslau",
+        "text": "<span style=\"color:red\">Zeremonielles</span>"
+      }
+    },
+    {
+      "start_date": {
+        "year": "1694",
+        "month": "5",
+        "day": "4"
+      },
+      "text": {
+        "headline": "Franz Ludwig von Pfalz-Neuburg wird Hochmeister des Deutschen Ordens",
         "text": "<span style=\"color:red\">Zeremonielles</span>"
       }
     },

@@ -2157,7 +2157,7 @@
         "order": "29.00000000000000000000",
         "name": "Tod von Erzherzogin Maria Margaretha",
         "emt_id": "emt_event_id__29",
-        "not_before": null,
+        "not_before": "1691-12-31",
         "not_after": "1691-12-31",
         "took_place_at": [],
         "related_persons": [
@@ -3336,7 +3336,7 @@
         "name": "Franz Ludwig von Pfalz-Neuburg wird Hochmeister des Deutschen Ordens",
         "emt_id": "emt_event_id__49",
         "not_before": "1694-05-04",
-        "not_after": null,
+        "not_after": "1694-05-04",
         "took_place_at": [],
         "related_persons": [
             {
