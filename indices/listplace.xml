@@ -1244,6 +1244,15 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                <place xml:id="emt_place_id__197">
                   <placeName>Párkány</placeName>
                </place>
+               <place xml:id="emt_place_id__198">
+                  <placeName>Kammer am Attersee</placeName>
+               </place>
+               <place xml:id="emt_place_id__199">
+                  <placeName>Oberungarn</placeName>
+               </place>
+               <place xml:id="emt_place_id__200">
+                  <placeName>Nagykanisza</placeName>
+               </place>
             </listPlace>
          </div>
       </body>

@@ -1945,7 +1945,7 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                   <idno type="NDB">https://www.deutsche-biographie.de/pnd1218005602.html#indexcontent</idno>
                </person>
                <person xml:id="emt_person_id__180">
-                  <persName>Heinrich von Mansfeld, 1690 Fürst von Fondi</persName>
+                  <persName>Heinrich Franz von Mansfeld, 1690 Fürst von Fondi</persName>
                   <birth>
                      <date notBefore="1640-01-01" notAfter="1640-12-31">1640</date>
                   </birth>
@@ -1955,6 +1955,7 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                   <idno type="GND">https://d-nb.info/gnd/121795063</idno>
                   <idno type="NDB">https://www.deutsche-biographie.de/sfz57841.html#indexcontent</idno>
                   <idno type="WIKIDATA">http://www.wikidata.org/entity/Q1597257</idno>
+                  <idno type="URL">https://saebi.isgv.de/biografie/Heinrich_Franz_I.,_F%C3%BCrst_von_Mansfeld-Bornstedt_(1641-1715)</idno>
                </person>
                <person xml:id="emt_person_id__181">
                   <persName>Kollonitsch, Herr von 1678</persName>
@@ -3716,6 +3717,110 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                   <death>
                      <date notBefore="1683-01-01" notAfter="1683-12-31">1683</date>
                   </death>
+               </person>
+               <person xml:id="emt_person_id__405">
+                  <persName>Friedrich Magnus von Baden-Durlach</persName>
+                  <birth>
+                     <date notBefore="1647-01-01" notAfter="1647-12-31">1647</date>
+                  </birth>
+                  <death>
+                     <date notBefore="1709-01-01" notAfter="1709-12-31">1709</date>
+                  </death>
+                  <idno type="GND">https://d-nb.info/gnd/104279664</idno>
+                  <idno type="WIKIDATA">http://www.wikidata.org/entity/Q62231</idno>
+                  <figure>
+                     <graphic url="emt_person_id__405.jpg"/>
+                     <caption>Friedrich VII von Baden-Durlach.png</caption>
+                  </figure>
+               </person>
+               <person xml:id="emt_person_id__406">
+                  <persName>Heymann von Rosenthal, Johann Heinrich</persName>
+                  <idno type="URL">https://de.m.wikisource.org/wiki/Zedler:Haymann_oder_Heymann_von_Rosenthal</idno>
+               </person>
+               <person xml:id="emt_person_id__407">
+                  <persName>Bischof und Weihbischof des Bistums, für das 1685 Friedrich Wilhelm von Pfalz-Neubrug im Gespräch ist</persName>
+               </person>
+               <person xml:id="emt_person_id__408">
+                  <persName>Slavata, Johann Joachim</persName>
+                  <birth>
+                     <date notBefore="1634-01-01" notAfter="1634-12-31">1634</date>
+                  </birth>
+                  <death>
+                     <date notBefore="1689-01-01" notAfter="1689-12-31">1689</date>
+                  </death>
+                  <idno type="GND">https://d-nb.info/gnd/102081490X</idno>
+                  <idno type="NDB">https://www.deutsche-biographie.de/pnd102081490X.html</idno>
+                  <idno type="URL">https://de.wikipedia.org/wiki/Slavata_von_Chlum_und_Koschumberg#Stammfolge</idno>
+               </person>
+               <person xml:id="emt_person_id__409">
+                  <persName>Slavata, Maria Margaretha Elisabeth, geb. Trautson</persName>
+                  <birth>
+                     <date notBefore="1643-01-01" notAfter="1643-12-31">1643</date>
+                  </birth>
+                  <death>
+                     <date notBefore="1698-01-01" notAfter="1698-12-31">1698</date>
+                  </death>
+                  <idno type="URL">https://de.wikipedia.org/wiki/Slavata_von_Chlum_und_Koschumberg#Stammfolge</idno>
+               </person>
+               <person xml:id="emt_person_id__410">
+                  <persName>Sigmund Helfried von Dietrichstein</persName>
+                  <birth>
+                     <date notBefore="1635-01-01" notAfter="1635-12-31">1635</date>
+                  </birth>
+                  <death>
+                     <date notBefore="1698-01-01" notAfter="1698-12-31">1698</date>
+                  </death>
+                  <idno type="GND">https://d-nb.info/gnd/115531106X</idno>
+                  <idno type="WIKIDATA">http://www.wikidata.org/entity/Q2284971</idno>
+                  <figure>
+                     <graphic url="emt_person_id__410.jpg"/>
+                     <caption>CoA Dietrichstein Family.svg</caption>
+                  </figure>
+               </person>
+               <person xml:id="emt_person_id__411">
+                  <persName>Wilhelm von Oettingen-Wallerstein ?</persName>
+                  <birth>
+                     <date notBefore="1627-01-01" notAfter="1627-12-31">1627</date>
+                  </birth>
+                  <death>
+                     <date notBefore="1692-01-01" notAfter="1692-12-31">1692</date>
+                  </death>
+                  <idno type="URL">http://w.genealogy.euweb.cz/oett/oett3.html</idno>
+               </person>
+               <person xml:id="emt_person_id__412">
+                  <persName>Octavia Esther von Oettingen-Wallerstein, geb. Herberstein-Neuburg ?</persName>
+                  <death>
+                     <date notBefore="1702-01-01" notAfter="1702-12-31">1702</date>
+                  </death>
+                  <idno type="URL">http://w.genealogy.euweb.cz/oett/oett3.html</idno>
+               </person>
+               <person xml:id="emt_person_id__413">
+                  <persName>Breuner, Graf</persName>
+               </person>
+               <person xml:id="emt_person_id__414">
+                  <persName>Ungnad von Weißenwolff, Helmhard Christoph ?</persName>
+                  <birth>
+                     <date notBefore="1635-01-01" notAfter="1635-12-31">1635</date>
+                  </birth>
+                  <death>
+                     <date notBefore="1702-01-01" notAfter="1702-12-31">1702</date>
+                  </death>
+                  <idno type="GND">https://d-nb.info/gnd/105614789X</idno>
+                  <idno type="WIKIDATA">http://www.wikidata.org/entity/Q55228853</idno>
+                  <figure>
+                     <graphic url="emt_person_id__414.jpg"/>
+                     <caption>Helmhard Christoph Ungnad von Weissenwolff.jpg</caption>
+                  </figure>
+               </person>
+               <person xml:id="emt_person_id__415">
+                  <persName>Ungnad von Weißenwolf, Franziska Benigna, geb. Porcia ?</persName>
+                  <death>
+                     <date notBefore="1690-01-01" notAfter="1690-12-31">1690</date>
+                  </death>
+                  <idno type="URL">https://de.wikipedia.org/wiki/Helmhard_Christoph_Ungnad_von_Wei%C3%9Fenwolf</idno>
+               </person>
+               <person xml:id="emt_person_id__416">
+                  <persName>Linzig, Herr</persName>
                </person>
             </listPerson>
          </div>

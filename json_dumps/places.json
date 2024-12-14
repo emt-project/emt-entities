@@ -2520,5 +2520,44 @@
     "comments intern": "",
     "gnd": "",
     "alternative_name": ""
+  },
+  "198": {
+    "id": 198,
+    "order": "196.00000000000000000000",
+    "name": "Kammer am Attersee",
+    "geonames": "",
+    "emt_id": "emt_place_id__198",
+    "place_type": null,
+    "lat": null,
+    "long": null,
+    "comments intern": "",
+    "gnd": "",
+    "alternative_name": ""
+  },
+  "199": {
+    "id": 199,
+    "order": "197.00000000000000000000",
+    "name": "Oberungarn",
+    "geonames": "",
+    "emt_id": "emt_place_id__199",
+    "place_type": null,
+    "lat": null,
+    "long": null,
+    "comments intern": "",
+    "gnd": "",
+    "alternative_name": ""
+  },
+  "200": {
+    "id": 200,
+    "order": "198.00000000000000000000",
+    "name": "Nagykanisza",
+    "geonames": "",
+    "emt_id": "emt_place_id__200",
+    "place_type": null,
+    "lat": null,
+    "long": null,
+    "comments intern": "",
+    "gnd": "",
+    "alternative_name": ""
   }
 }
