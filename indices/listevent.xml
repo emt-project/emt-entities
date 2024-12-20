@@ -150,7 +150,7 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                         <idno type="EMT">emt_person_id__9</idno>
                      </person>
                      <person>
-                        <persName>Kaiser Joseph I.</persName>
+                        <persName>Joseph I.</persName>
                         <idno type="EMT">emt_person_id__25</idno>
                      </person>
                  </listPerson>
@@ -202,7 +202,7 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                         <idno type="EMT">emt_person_id__9</idno>
                      </person>
                      <person>
-                        <persName>Kaiser Joseph I.</persName>
+                        <persName>Joseph I.</persName>
                         <idno type="EMT">emt_person_id__25</idno>
                      </person>
                      <person>
@@ -236,7 +236,7 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                         <idno type="EMT">emt_person_id__9</idno>
                      </person>
                      <person>
-                        <persName>Kaiser Joseph I.</persName>
+                        <persName>Joseph I.</persName>
                         <idno type="EMT">emt_person_id__25</idno>
                      </person>
                      <person>
@@ -374,7 +374,7 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                         <idno type="EMT">emt_person_id__9</idno>
                      </person>
                      <person>
-                        <persName>Kaiser Joseph I.</persName>
+                        <persName>Joseph I.</persName>
                         <idno type="EMT">emt_person_id__25</idno>
                      </person>
                      <person>
@@ -384,7 +384,7 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                  </listPerson>
                  <listPlace type="took_place">
                      <place>
-                        <placeName>Bratislava</placeName>
+                        <placeName>Pressburg / Bratislava</placeName>
                         <location type="coords">
                            <geo>48.14816 17.106740</geo>
                         </location>
@@ -404,7 +404,7 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                         <idno type="EMT">emt_person_id__9</idno>
                      </person>
                      <person>
-                        <persName>Kaiser Joseph I.</persName>
+                        <persName>Joseph I.</persName>
                         <idno type="EMT">emt_person_id__25</idno>
                      </person>
                      <person>
@@ -458,7 +458,7 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                  </listPerson>
                  <listPlace type="took_place">
                      <place>
-                        <placeName>Bratislava</placeName>
+                        <placeName>Pressburg / Bratislava</placeName>
                         <location type="coords">
                            <geo>48.14816 17.106740</geo>
                         </location>
@@ -484,7 +484,7 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                  </listPerson>
                  <listPlace type="took_place">
                      <place>
-                        <placeName>Bratislava</placeName>
+                        <placeName>Pressburg / Bratislava</placeName>
                         <location type="coords">
                            <geo>48.14816 17.106740</geo>
                         </location>

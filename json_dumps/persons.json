@@ -19,7 +19,9 @@
     "img_source": "commonsMedia",
     "birth_date_written": null,
     "death_date_written": null,
-    "Geschlecht": null
+    "Geschlecht": null,
+    "Titel": null,
+    "Funktionsbezeichnung": null
   },
   "3": {
     "id": 3,
@@ -41,7 +43,9 @@
     "img_source": "commonsMedia",
     "birth_date_written": null,
     "death_date_written": null,
-    "Geschlecht": null
+    "Geschlecht": null,
+    "Titel": null,
+    "Funktionsbezeichnung": null
   },
   "4": {
     "id": 4,
@@ -63,7 +67,9 @@
     "img_source": null,
     "birth_date_written": null,
     "death_date_written": null,
-    "Geschlecht": null
+    "Geschlecht": null,
+    "Titel": null,
+    "Funktionsbezeichnung": null
   },
   "5": {
     "id": 5,
@@ -85,7 +91,9 @@
     "img_source": null,
     "birth_date_written": null,
     "death_date_written": null,
-    "Geschlecht": null
+    "Geschlecht": null,
+    "Titel": null,
+    "Funktionsbezeichnung": null
   },
   "6": {
     "id": 6,
@@ -107,7 +115,9 @@
     "img_source": null,
     "birth_date_written": null,
     "death_date_written": null,
-    "Geschlecht": null
+    "Geschlecht": null,
+    "Titel": null,
+    "Funktionsbezeichnung": null
   },
   "7": {
     "id": 7,
@@ -129,7 +139,9 @@
     "img_source": "commonsMedia",
     "birth_date_written": null,
     "death_date_written": null,
-    "Geschlecht": null
+    "Geschlecht": null,
+    "Titel": null,
+    "Funktionsbezeichnung": null
   },
   "8": {
     "id": 8,
@@ -151,7 +163,9 @@
     "img_source": "commonsMedia",
     "birth_date_written": null,
     "death_date_written": null,
-    "Geschlecht": null
+    "Geschlecht": null,
+    "Titel": null,
+    "Funktionsbezeichnung": null
   },
   "9": {
     "id": 9,
@@ -173,7 +187,9 @@
     "img_source": "commonsMedia",
     "birth_date_written": null,
     "death_date_written": null,
-    "Geschlecht": null
+    "Geschlecht": null,
+    "Titel": null,
+    "Funktionsbezeichnung": null
   },
   "10": {
     "id": 10,
@@ -195,7 +211,9 @@
     "img_source": "commonsMedia",
     "birth_date_written": null,
     "death_date_written": null,
-    "Geschlecht": null
+    "Geschlecht": null,
+    "Titel": "Herzogin, Kurfürstin",
+    "Funktionsbezeichnung": null
   },
   "11": {
     "id": 11,
@@ -217,7 +235,9 @@
     "img_source": "commonsMedia",
     "birth_date_written": null,
     "death_date_written": null,
-    "Geschlecht": null
+    "Geschlecht": null,
+    "Titel": null,
+    "Funktionsbezeichnung": null
   },
   "12": {
     "id": 12,
@@ -239,7 +259,9 @@
     "img_source": "commonsMedia",
     "birth_date_written": null,
     "death_date_written": null,
-    "Geschlecht": null
+    "Geschlecht": null,
+    "Titel": null,
+    "Funktionsbezeichnung": null
   },
   "13": {
     "id": 13,
@@ -261,7 +283,9 @@
     "img_source": "",
     "birth_date_written": null,
     "death_date_written": "",
-    "Geschlecht": null
+    "Geschlecht": null,
+    "Titel": null,
+    "Funktionsbezeichnung": null
   },
   "14": {
     "id": 14,
@@ -283,7 +307,9 @@
     "img_source": "commonsMedia",
     "birth_date_written": null,
     "death_date_written": null,
-    "Geschlecht": null
+    "Geschlecht": null,
+    "Titel": null,
+    "Funktionsbezeichnung": null
   },
   "15": {
     "id": 15,
@@ -305,7 +331,9 @@
     "img_source": "commonsMedia",
     "birth_date_written": null,
     "death_date_written": null,
-    "Geschlecht": null
+    "Geschlecht": null,
+    "Titel": null,
+    "Funktionsbezeichnung": null
   },
   "16": {
     "id": 16,
@@ -327,7 +355,9 @@
     "img_source": "commonsMedia",
     "birth_date_written": null,
     "death_date_written": null,
-    "Geschlecht": null
+    "Geschlecht": null,
+    "Titel": "Graf",
+    "Funktionsbezeichnung": "Reichsvizekanzler, Domherr in Würzburg (1704) und Bamberg (1705), 1729 Bischof von Würzburg und Bamberg"
   },
   "17": {
     "id": 17,
@@ -349,7 +379,9 @@
     "img_source": "commonsMedia",
     "birth_date_written": null,
     "death_date_written": null,
-    "Geschlecht": null
+    "Geschlecht": null,
+    "Titel": null,
+    "Funktionsbezeichnung": null
   },
   "18": {
     "id": 18,
@@ -371,7 +403,9 @@
     "img_source": "commonsMedia",
     "birth_date_written": null,
     "death_date_written": null,
-    "Geschlecht": null
+    "Geschlecht": null,
+    "Titel": null,
+    "Funktionsbezeichnung": null
   },
   "19": {
     "id": 19,
@@ -393,7 +427,9 @@
     "img_source": null,
     "birth_date_written": null,
     "death_date_written": null,
-    "Geschlecht": null
+    "Geschlecht": null,
+    "Titel": null,
+    "Funktionsbezeichnung": null
   },
   "20": {
     "id": 20,
@@ -415,7 +451,9 @@
     "img_source": null,
     "birth_date_written": null,
     "death_date_written": null,
-    "Geschlecht": null
+    "Geschlecht": null,
+    "Titel": null,
+    "Funktionsbezeichnung": null
   },
   "21": {
     "id": 21,
@@ -437,7 +475,9 @@
     "img_source": null,
     "birth_date_written": null,
     "death_date_written": null,
-    "Geschlecht": null
+    "Geschlecht": null,
+    "Titel": null,
+    "Funktionsbezeichnung": null
   },
   "22": {
     "id": 22,
@@ -459,7 +499,9 @@
     "img_source": null,
     "birth_date_written": null,
     "death_date_written": null,
-    "Geschlecht": null
+    "Geschlecht": null,
+    "Titel": null,
+    "Funktionsbezeichnung": null
   },
   "23": {
     "id": 23,
@@ -481,7 +523,9 @@
     "img_source": null,
     "birth_date_written": null,
     "death_date_written": null,
-    "Geschlecht": null
+    "Geschlecht": null,
+    "Titel": null,
+    "Funktionsbezeichnung": null
   },
   "24": {
     "id": 24,
@@ -503,12 +547,14 @@
     "img_source": "commonsMedia",
     "birth_date_written": null,
     "death_date_written": null,
-    "Geschlecht": null
+    "Geschlecht": null,
+    "Titel": null,
+    "Funktionsbezeichnung": null
   },
   "25": {
     "id": 25,
     "order": "25.00000000000000000000",
-    "name": "Kaiser Joseph I.",
+    "name": "Joseph I.",
     "gnd": "https://d-nb.info/gnd/118558390",
     "other_url": "",
     "emt_id": "emt_person_id__25",
@@ -525,7 +571,9 @@
     "img_source": "commonsMedia",
     "birth_date_written": null,
     "death_date_written": null,
-    "Geschlecht": null
+    "Geschlecht": null,
+    "Titel": "Erzherzog",
+    "Funktionsbezeichnung": null
   },
   "26": {
     "id": 26,
@@ -547,7 +595,9 @@
     "img_source": "commonsMedia",
     "birth_date_written": null,
     "death_date_written": null,
-    "Geschlecht": null
+    "Geschlecht": null,
+    "Titel": null,
+    "Funktionsbezeichnung": null
   },
   "27": {
     "id": 27,
@@ -569,7 +619,9 @@
     "img_source": "commonsMedia",
     "birth_date_written": null,
     "death_date_written": null,
-    "Geschlecht": null
+    "Geschlecht": null,
+    "Titel": null,
+    "Funktionsbezeichnung": null
   },
   "28": {
     "id": 28,
@@ -591,7 +643,9 @@
     "img_source": "commonsMedia",
     "birth_date_written": null,
     "death_date_written": null,
-    "Geschlecht": null
+    "Geschlecht": null,
+    "Titel": null,
+    "Funktionsbezeichnung": null
   },
   "29": {
     "id": 29,
@@ -613,7 +667,9 @@
     "img_source": "commonsMedia",
     "birth_date_written": null,
     "death_date_written": null,
-    "Geschlecht": null
+    "Geschlecht": null,
+    "Titel": null,
+    "Funktionsbezeichnung": null
   },
   "30": {
     "id": 30,
@@ -635,7 +691,9 @@
     "img_source": "commonsMedia",
     "birth_date_written": null,
     "death_date_written": null,
-    "Geschlecht": null
+    "Geschlecht": null,
+    "Titel": null,
+    "Funktionsbezeichnung": null
   },
   "31": {
     "id": 31,
@@ -657,7 +715,9 @@
     "img_source": "commonsMedia",
     "birth_date_written": null,
     "death_date_written": null,
-    "Geschlecht": null
+    "Geschlecht": null,
+    "Titel": null,
+    "Funktionsbezeichnung": null
   },
   "32": {
     "id": 32,
@@ -679,7 +739,9 @@
     "img_source": null,
     "birth_date_written": null,
     "death_date_written": null,
-    "Geschlecht": null
+    "Geschlecht": null,
+    "Titel": null,
+    "Funktionsbezeichnung": null
   },
   "33": {
     "id": 33,
@@ -701,7 +763,9 @@
     "img_source": "commonsMedia",
     "birth_date_written": null,
     "death_date_written": null,
-    "Geschlecht": null
+    "Geschlecht": null,
+    "Titel": null,
+    "Funktionsbezeichnung": null
   },
   "34": {
     "id": 34,
@@ -723,7 +787,9 @@
     "img_source": null,
     "birth_date_written": null,
     "death_date_written": null,
-    "Geschlecht": null
+    "Geschlecht": null,
+    "Titel": null,
+    "Funktionsbezeichnung": null
   },
   "35": {
     "id": 35,
@@ -745,7 +811,9 @@
     "img_source": "commonsMedia",
     "birth_date_written": null,
     "death_date_written": null,
-    "Geschlecht": null
+    "Geschlecht": null,
+    "Titel": null,
+    "Funktionsbezeichnung": null
   },
   "36": {
     "id": 36,
@@ -767,7 +835,9 @@
     "img_source": "commonsMedia",
     "birth_date_written": null,
     "death_date_written": null,
-    "Geschlecht": null
+    "Geschlecht": null,
+    "Titel": null,
+    "Funktionsbezeichnung": null
   },
   "37": {
     "id": 37,
@@ -789,7 +859,9 @@
     "img_source": "commonsMedia",
     "birth_date_written": null,
     "death_date_written": null,
-    "Geschlecht": null
+    "Geschlecht": null,
+    "Titel": null,
+    "Funktionsbezeichnung": null
   },
   "38": {
     "id": 38,
@@ -811,7 +883,9 @@
     "img_source": "commonsMedia",
     "birth_date_written": null,
     "death_date_written": null,
-    "Geschlecht": null
+    "Geschlecht": null,
+    "Titel": null,
+    "Funktionsbezeichnung": null
   },
   "39": {
     "id": 39,
@@ -833,7 +907,9 @@
     "img_source": null,
     "birth_date_written": null,
     "death_date_written": null,
-    "Geschlecht": null
+    "Geschlecht": null,
+    "Titel": null,
+    "Funktionsbezeichnung": null
   },
   "40": {
     "id": 40,
@@ -855,7 +931,9 @@
     "img_source": null,
     "birth_date_written": null,
     "death_date_written": null,
-    "Geschlecht": null
+    "Geschlecht": null,
+    "Titel": null,
+    "Funktionsbezeichnung": null
   },
   "41": {
     "id": 41,
@@ -877,7 +955,9 @@
     "img_source": null,
     "birth_date_written": null,
     "death_date_written": null,
-    "Geschlecht": null
+    "Geschlecht": null,
+    "Titel": null,
+    "Funktionsbezeichnung": null
   },
   "42": {
     "id": 42,
@@ -899,7 +979,9 @@
     "img_source": "commonsMedia",
     "birth_date_written": null,
     "death_date_written": null,
-    "Geschlecht": null
+    "Geschlecht": null,
+    "Titel": null,
+    "Funktionsbezeichnung": null
   },
   "43": {
     "id": 43,
@@ -921,7 +1003,9 @@
     "img_source": null,
     "birth_date_written": null,
     "death_date_written": null,
-    "Geschlecht": null
+    "Geschlecht": null,
+    "Titel": null,
+    "Funktionsbezeichnung": null
   },
   "44": {
     "id": 44,
@@ -943,7 +1027,9 @@
     "img_source": null,
     "birth_date_written": null,
     "death_date_written": null,
-    "Geschlecht": null
+    "Geschlecht": null,
+    "Titel": null,
+    "Funktionsbezeichnung": null
   },
   "45": {
     "id": 45,
@@ -965,7 +1051,9 @@
     "img_source": "commonsMedia",
     "birth_date_written": null,
     "death_date_written": null,
-    "Geschlecht": null
+    "Geschlecht": null,
+    "Titel": null,
+    "Funktionsbezeichnung": null
   },
   "46": {
     "id": 46,
@@ -987,7 +1075,9 @@
     "img_source": null,
     "birth_date_written": null,
     "death_date_written": null,
-    "Geschlecht": null
+    "Geschlecht": null,
+    "Titel": null,
+    "Funktionsbezeichnung": null
   },
   "47": {
     "id": 47,
@@ -1009,7 +1099,9 @@
     "img_source": "commonsMedia",
     "birth_date_written": null,
     "death_date_written": null,
-    "Geschlecht": null
+    "Geschlecht": null,
+    "Titel": null,
+    "Funktionsbezeichnung": null
   },
   "49": {
     "id": 49,
@@ -1031,7 +1123,9 @@
     "img_source": null,
     "birth_date_written": null,
     "death_date_written": null,
-    "Geschlecht": null
+    "Geschlecht": null,
+    "Titel": null,
+    "Funktionsbezeichnung": null
   },
   "50": {
     "id": 50,
@@ -1053,7 +1147,9 @@
     "img_source": "commonsMedia",
     "birth_date_written": null,
     "death_date_written": null,
-    "Geschlecht": null
+    "Geschlecht": null,
+    "Titel": null,
+    "Funktionsbezeichnung": null
   },
   "51": {
     "id": 51,
@@ -1075,7 +1171,9 @@
     "img_source": "commonsMedia",
     "birth_date_written": null,
     "death_date_written": null,
-    "Geschlecht": null
+    "Geschlecht": null,
+    "Titel": null,
+    "Funktionsbezeichnung": null
   },
   "52": {
     "id": 52,
@@ -1097,7 +1195,9 @@
     "img_source": null,
     "birth_date_written": null,
     "death_date_written": null,
-    "Geschlecht": null
+    "Geschlecht": null,
+    "Titel": null,
+    "Funktionsbezeichnung": null
   },
   "53": {
     "id": 53,
@@ -1119,7 +1219,9 @@
     "img_source": null,
     "birth_date_written": null,
     "death_date_written": null,
-    "Geschlecht": null
+    "Geschlecht": null,
+    "Titel": null,
+    "Funktionsbezeichnung": null
   },
   "54": {
     "id": 54,
@@ -1141,7 +1243,9 @@
     "img_source": null,
     "birth_date_written": null,
     "death_date_written": null,
-    "Geschlecht": null
+    "Geschlecht": null,
+    "Titel": null,
+    "Funktionsbezeichnung": null
   },
   "55": {
     "id": 55,
@@ -1163,7 +1267,9 @@
     "img_source": null,
     "birth_date_written": null,
     "death_date_written": null,
-    "Geschlecht": null
+    "Geschlecht": null,
+    "Titel": null,
+    "Funktionsbezeichnung": null
   },
   "56": {
     "id": 56,
@@ -1185,7 +1291,9 @@
     "img_source": "commonsMedia",
     "birth_date_written": null,
     "death_date_written": null,
-    "Geschlecht": null
+    "Geschlecht": null,
+    "Titel": null,
+    "Funktionsbezeichnung": null
   },
   "57": {
     "id": 57,
@@ -1207,7 +1315,9 @@
     "img_source": null,
     "birth_date_written": null,
     "death_date_written": null,
-    "Geschlecht": null
+    "Geschlecht": null,
+    "Titel": null,
+    "Funktionsbezeichnung": null
   },
   "58": {
     "id": 58,
@@ -1229,7 +1339,9 @@
     "img_source": null,
     "birth_date_written": "um 1640",
     "death_date_written": null,
-    "Geschlecht": null
+    "Geschlecht": null,
+    "Titel": null,
+    "Funktionsbezeichnung": null
   },
   "59": {
     "id": 59,
@@ -1251,7 +1363,9 @@
     "img_source": null,
     "birth_date_written": null,
     "death_date_written": null,
-    "Geschlecht": null
+    "Geschlecht": null,
+    "Titel": null,
+    "Funktionsbezeichnung": null
   },
   "60": {
     "id": 60,
@@ -1273,7 +1387,9 @@
     "img_source": "commonsMedia",
     "birth_date_written": null,
     "death_date_written": null,
-    "Geschlecht": null
+    "Geschlecht": null,
+    "Titel": null,
+    "Funktionsbezeichnung": null
   },
   "61": {
     "id": 61,
@@ -1295,7 +1411,9 @@
     "img_source": null,
     "birth_date_written": null,
     "death_date_written": null,
-    "Geschlecht": null
+    "Geschlecht": null,
+    "Titel": null,
+    "Funktionsbezeichnung": null
   },
   "62": {
     "id": 62,
@@ -1317,7 +1435,9 @@
     "img_source": null,
     "birth_date_written": null,
     "death_date_written": null,
-    "Geschlecht": null
+    "Geschlecht": null,
+    "Titel": null,
+    "Funktionsbezeichnung": null
   },
   "63": {
     "id": 63,
@@ -1339,7 +1459,9 @@
     "img_source": "commonsMedia",
     "birth_date_written": null,
     "death_date_written": null,
-    "Geschlecht": null
+    "Geschlecht": null,
+    "Titel": null,
+    "Funktionsbezeichnung": null
   },
   "64": {
     "id": 64,
@@ -1361,7 +1483,9 @@
     "img_source": "commonsMedia",
     "birth_date_written": null,
     "death_date_written": null,
-    "Geschlecht": null
+    "Geschlecht": null,
+    "Titel": null,
+    "Funktionsbezeichnung": null
   },
   "65": {
     "id": 65,
@@ -1383,7 +1507,9 @@
     "img_source": "commonsMedia",
     "birth_date_written": null,
     "death_date_written": null,
-    "Geschlecht": null
+    "Geschlecht": null,
+    "Titel": null,
+    "Funktionsbezeichnung": null
   },
   "66": {
     "id": 66,
@@ -1405,7 +1531,9 @@
     "img_source": null,
     "birth_date_written": null,
     "death_date_written": null,
-    "Geschlecht": null
+    "Geschlecht": null,
+    "Titel": null,
+    "Funktionsbezeichnung": null
   },
   "67": {
     "id": 67,
@@ -1427,7 +1555,9 @@
     "img_source": null,
     "birth_date_written": null,
     "death_date_written": null,
-    "Geschlecht": null
+    "Geschlecht": null,
+    "Titel": null,
+    "Funktionsbezeichnung": null
   },
   "68": {
     "id": 68,
@@ -1449,7 +1579,9 @@
     "img_source": null,
     "birth_date_written": null,
     "death_date_written": null,
-    "Geschlecht": null
+    "Geschlecht": null,
+    "Titel": null,
+    "Funktionsbezeichnung": null
   },
   "69": {
     "id": 69,
@@ -1471,7 +1603,9 @@
     "img_source": null,
     "birth_date_written": null,
     "death_date_written": null,
-    "Geschlecht": null
+    "Geschlecht": null,
+    "Titel": null,
+    "Funktionsbezeichnung": null
   },
   "70": {
     "id": 70,
@@ -1493,7 +1627,9 @@
     "img_source": "commonsMedia",
     "birth_date_written": null,
     "death_date_written": null,
-    "Geschlecht": null
+    "Geschlecht": null,
+    "Titel": null,
+    "Funktionsbezeichnung": null
   },
   "71": {
     "id": 71,
@@ -1515,7 +1651,9 @@
     "img_source": null,
     "birth_date_written": null,
     "death_date_written": null,
-    "Geschlecht": null
+    "Geschlecht": null,
+    "Titel": null,
+    "Funktionsbezeichnung": null
   },
   "72": {
     "id": 72,
@@ -1537,7 +1675,9 @@
     "img_source": "commonsMedia",
     "birth_date_written": null,
     "death_date_written": null,
-    "Geschlecht": null
+    "Geschlecht": null,
+    "Titel": null,
+    "Funktionsbezeichnung": null
   },
   "73": {
     "id": 73,
@@ -1559,7 +1699,9 @@
     "img_source": "commonsMedia",
     "birth_date_written": null,
     "death_date_written": null,
-    "Geschlecht": null
+    "Geschlecht": null,
+    "Titel": null,
+    "Funktionsbezeichnung": null
   },
   "74": {
     "id": 74,
@@ -1581,7 +1723,9 @@
     "img_source": "commonsMedia",
     "birth_date_written": null,
     "death_date_written": null,
-    "Geschlecht": null
+    "Geschlecht": null,
+    "Titel": null,
+    "Funktionsbezeichnung": null
   },
   "75": {
     "id": 75,
@@ -1603,7 +1747,9 @@
     "img_source": "commonsMedia",
     "birth_date_written": null,
     "death_date_written": null,
-    "Geschlecht": null
+    "Geschlecht": null,
+    "Titel": null,
+    "Funktionsbezeichnung": null
   },
   "76": {
     "id": 76,
@@ -1625,7 +1771,9 @@
     "img_source": null,
     "birth_date_written": null,
     "death_date_written": null,
-    "Geschlecht": null
+    "Geschlecht": null,
+    "Titel": null,
+    "Funktionsbezeichnung": null
   },
   "77": {
     "id": 77,
@@ -1647,7 +1795,9 @@
     "img_source": null,
     "birth_date_written": null,
     "death_date_written": null,
-    "Geschlecht": null
+    "Geschlecht": null,
+    "Titel": null,
+    "Funktionsbezeichnung": null
   },
   "78": {
     "id": 78,
@@ -1669,7 +1819,9 @@
     "img_source": null,
     "birth_date_written": null,
     "death_date_written": null,
-    "Geschlecht": null
+    "Geschlecht": null,
+    "Titel": null,
+    "Funktionsbezeichnung": null
   },
   "79": {
     "id": 79,
@@ -1691,7 +1843,9 @@
     "img_source": null,
     "birth_date_written": null,
     "death_date_written": null,
-    "Geschlecht": null
+    "Geschlecht": null,
+    "Titel": null,
+    "Funktionsbezeichnung": null
   },
   "80": {
     "id": 80,
@@ -1713,7 +1867,9 @@
     "img_source": "commonsMedia",
     "birth_date_written": null,
     "death_date_written": null,
-    "Geschlecht": null
+    "Geschlecht": null,
+    "Titel": null,
+    "Funktionsbezeichnung": null
   },
   "81": {
     "id": 81,
@@ -1735,7 +1891,9 @@
     "img_source": "commonsMedia",
     "birth_date_written": null,
     "death_date_written": null,
-    "Geschlecht": null
+    "Geschlecht": null,
+    "Titel": null,
+    "Funktionsbezeichnung": null
   },
   "82": {
     "id": 82,
@@ -1757,7 +1915,9 @@
     "img_source": "commonsMedia",
     "birth_date_written": null,
     "death_date_written": null,
-    "Geschlecht": null
+    "Geschlecht": null,
+    "Titel": null,
+    "Funktionsbezeichnung": null
   },
   "83": {
     "id": 83,
@@ -1779,7 +1939,9 @@
     "img_source": "commonsMedia",
     "birth_date_written": null,
     "death_date_written": null,
-    "Geschlecht": null
+    "Geschlecht": null,
+    "Titel": null,
+    "Funktionsbezeichnung": null
   },
   "84": {
     "id": 84,
@@ -1801,7 +1963,9 @@
     "img_source": null,
     "birth_date_written": null,
     "death_date_written": null,
-    "Geschlecht": null
+    "Geschlecht": null,
+    "Titel": null,
+    "Funktionsbezeichnung": null
   },
   "85": {
     "id": 85,
@@ -1823,7 +1987,9 @@
     "img_source": null,
     "birth_date_written": null,
     "death_date_written": null,
-    "Geschlecht": null
+    "Geschlecht": null,
+    "Titel": null,
+    "Funktionsbezeichnung": null
   },
   "86": {
     "id": 86,
@@ -1845,7 +2011,9 @@
     "img_source": "commonsMedia",
     "birth_date_written": null,
     "death_date_written": null,
-    "Geschlecht": null
+    "Geschlecht": null,
+    "Titel": null,
+    "Funktionsbezeichnung": null
   },
   "87": {
     "id": 87,
@@ -1867,7 +2035,9 @@
     "img_source": "commonsMedia",
     "birth_date_written": null,
     "death_date_written": null,
-    "Geschlecht": null
+    "Geschlecht": null,
+    "Titel": null,
+    "Funktionsbezeichnung": null
   },
   "88": {
     "id": 88,
@@ -1889,7 +2059,9 @@
     "img_source": "commonsMedia",
     "birth_date_written": null,
     "death_date_written": null,
-    "Geschlecht": null
+    "Geschlecht": null,
+    "Titel": null,
+    "Funktionsbezeichnung": null
   },
   "89": {
     "id": 89,
@@ -1911,7 +2083,9 @@
     "img_source": "commonsMedia",
     "birth_date_written": null,
     "death_date_written": null,
-    "Geschlecht": null
+    "Geschlecht": null,
+    "Titel": null,
+    "Funktionsbezeichnung": null
   },
   "90": {
     "id": 90,
@@ -1933,7 +2107,9 @@
     "img_source": null,
     "birth_date_written": null,
     "death_date_written": null,
-    "Geschlecht": null
+    "Geschlecht": null,
+    "Titel": null,
+    "Funktionsbezeichnung": null
   },
   "91": {
     "id": 91,
@@ -1955,7 +2131,9 @@
     "img_source": "commonsMedia",
     "birth_date_written": null,
     "death_date_written": null,
-    "Geschlecht": null
+    "Geschlecht": null,
+    "Titel": null,
+    "Funktionsbezeichnung": null
   },
   "92": {
     "id": 92,
@@ -1977,7 +2155,9 @@
     "img_source": "commonsMedia",
     "birth_date_written": null,
     "death_date_written": null,
-    "Geschlecht": null
+    "Geschlecht": null,
+    "Titel": null,
+    "Funktionsbezeichnung": null
   },
   "93": {
     "id": 93,
@@ -1999,7 +2179,9 @@
     "img_source": null,
     "birth_date_written": null,
     "death_date_written": null,
-    "Geschlecht": null
+    "Geschlecht": null,
+    "Titel": null,
+    "Funktionsbezeichnung": null
   },
   "94": {
     "id": 94,
@@ -2021,7 +2203,9 @@
     "img_source": null,
     "birth_date_written": null,
     "death_date_written": null,
-    "Geschlecht": null
+    "Geschlecht": null,
+    "Titel": null,
+    "Funktionsbezeichnung": null
   },
   "95": {
     "id": 95,
@@ -2043,7 +2227,9 @@
     "img_source": null,
     "birth_date_written": null,
     "death_date_written": null,
-    "Geschlecht": null
+    "Geschlecht": null,
+    "Titel": null,
+    "Funktionsbezeichnung": null
   },
   "96": {
     "id": 96,
@@ -2065,7 +2251,9 @@
     "img_source": null,
     "birth_date_written": null,
     "death_date_written": null,
-    "Geschlecht": null
+    "Geschlecht": null,
+    "Titel": null,
+    "Funktionsbezeichnung": null
   },
   "97": {
     "id": 97,
@@ -2087,7 +2275,9 @@
     "img_source": null,
     "birth_date_written": null,
     "death_date_written": null,
-    "Geschlecht": null
+    "Geschlecht": null,
+    "Titel": null,
+    "Funktionsbezeichnung": null
   },
   "98": {
     "id": 98,
@@ -2109,7 +2299,9 @@
     "img_source": null,
     "birth_date_written": null,
     "death_date_written": null,
-    "Geschlecht": null
+    "Geschlecht": null,
+    "Titel": null,
+    "Funktionsbezeichnung": null
   },
   "99": {
     "id": 99,
@@ -2131,7 +2323,9 @@
     "img_source": null,
     "birth_date_written": null,
     "death_date_written": null,
-    "Geschlecht": null
+    "Geschlecht": null,
+    "Titel": null,
+    "Funktionsbezeichnung": null
   },
   "100": {
     "id": 100,
@@ -2153,7 +2347,9 @@
     "img_source": "commonsMedia",
     "birth_date_written": null,
     "death_date_written": null,
-    "Geschlecht": null
+    "Geschlecht": null,
+    "Titel": null,
+    "Funktionsbezeichnung": null
   },
   "101": {
     "id": 101,
@@ -2175,7 +2371,9 @@
     "img_source": "commonsMedia",
     "birth_date_written": null,
     "death_date_written": null,
-    "Geschlecht": null
+    "Geschlecht": null,
+    "Titel": null,
+    "Funktionsbezeichnung": null
   },
   "102": {
     "id": 102,
@@ -2197,7 +2395,9 @@
     "img_source": null,
     "birth_date_written": null,
     "death_date_written": null,
-    "Geschlecht": null
+    "Geschlecht": null,
+    "Titel": null,
+    "Funktionsbezeichnung": null
   },
   "103": {
     "id": 103,
@@ -2219,7 +2419,9 @@
     "img_source": null,
     "birth_date_written": null,
     "death_date_written": null,
-    "Geschlecht": null
+    "Geschlecht": null,
+    "Titel": null,
+    "Funktionsbezeichnung": null
   },
   "104": {
     "id": 104,
@@ -2241,7 +2443,9 @@
     "img_source": null,
     "birth_date_written": null,
     "death_date_written": null,
-    "Geschlecht": null
+    "Geschlecht": null,
+    "Titel": null,
+    "Funktionsbezeichnung": null
   },
   "105": {
     "id": 105,
@@ -2263,7 +2467,9 @@
     "img_source": null,
     "birth_date_written": null,
     "death_date_written": null,
-    "Geschlecht": null
+    "Geschlecht": null,
+    "Titel": null,
+    "Funktionsbezeichnung": null
   },
   "106": {
     "id": 106,
@@ -2285,7 +2491,9 @@
     "img_source": null,
     "birth_date_written": null,
     "death_date_written": null,
-    "Geschlecht": null
+    "Geschlecht": null,
+    "Titel": null,
+    "Funktionsbezeichnung": null
   },
   "107": {
     "id": 107,
@@ -2307,7 +2515,9 @@
     "img_source": "commonsMedia",
     "birth_date_written": null,
     "death_date_written": null,
-    "Geschlecht": null
+    "Geschlecht": null,
+    "Titel": null,
+    "Funktionsbezeichnung": null
   },
   "109": {
     "id": 109,
@@ -2329,7 +2539,9 @@
     "img_source": "",
     "birth_date_written": "",
     "death_date_written": "",
-    "Geschlecht": null
+    "Geschlecht": null,
+    "Titel": null,
+    "Funktionsbezeichnung": null
   },
   "110": {
     "id": 110,
@@ -2351,7 +2563,9 @@
     "img_source": "",
     "birth_date_written": "",
     "death_date_written": "",
-    "Geschlecht": null
+    "Geschlecht": null,
+    "Titel": null,
+    "Funktionsbezeichnung": null
   },
   "111": {
     "id": 111,
@@ -2373,7 +2587,9 @@
     "img_source": "",
     "birth_date_written": "",
     "death_date_written": "",
-    "Geschlecht": null
+    "Geschlecht": null,
+    "Titel": null,
+    "Funktionsbezeichnung": null
   },
   "112": {
     "id": 112,
@@ -2395,7 +2611,9 @@
     "img_source": "",
     "birth_date_written": "",
     "death_date_written": "",
-    "Geschlecht": null
+    "Geschlecht": null,
+    "Titel": null,
+    "Funktionsbezeichnung": null
   },
   "113": {
     "id": 113,
@@ -2417,7 +2635,9 @@
     "img_source": "",
     "birth_date_written": "",
     "death_date_written": "",
-    "Geschlecht": null
+    "Geschlecht": null,
+    "Titel": null,
+    "Funktionsbezeichnung": null
   },
   "114": {
     "id": 114,
@@ -2439,7 +2659,9 @@
     "img_source": "",
     "birth_date_written": "",
     "death_date_written": "",
-    "Geschlecht": null
+    "Geschlecht": null,
+    "Titel": null,
+    "Funktionsbezeichnung": null
   },
   "115": {
     "id": 115,
@@ -2461,7 +2683,9 @@
     "img_source": "commonsMedia",
     "birth_date_written": "",
     "death_date_written": "",
-    "Geschlecht": null
+    "Geschlecht": null,
+    "Titel": null,
+    "Funktionsbezeichnung": null
   },
   "116": {
     "id": 116,
@@ -2483,7 +2707,9 @@
     "img_source": "",
     "birth_date_written": "",
     "death_date_written": "",
-    "Geschlecht": null
+    "Geschlecht": null,
+    "Titel": null,
+    "Funktionsbezeichnung": null
   },
   "117": {
     "id": 117,
@@ -2505,7 +2731,9 @@
     "img_source": "",
     "birth_date_written": "",
     "death_date_written": "",
-    "Geschlecht": null
+    "Geschlecht": null,
+    "Titel": null,
+    "Funktionsbezeichnung": null
   },
   "118": {
     "id": 118,
@@ -2527,7 +2755,9 @@
     "img_source": "",
     "birth_date_written": "",
     "death_date_written": "",
-    "Geschlecht": null
+    "Geschlecht": null,
+    "Titel": null,
+    "Funktionsbezeichnung": null
   },
   "119": {
     "id": 119,
@@ -2549,7 +2779,9 @@
     "img_source": "",
     "birth_date_written": "",
     "death_date_written": "",
-    "Geschlecht": null
+    "Geschlecht": null,
+    "Titel": null,
+    "Funktionsbezeichnung": null
   },
   "120": {
     "id": 120,
@@ -2571,7 +2803,9 @@
     "img_source": "",
     "birth_date_written": "",
     "death_date_written": "",
-    "Geschlecht": null
+    "Geschlecht": null,
+    "Titel": null,
+    "Funktionsbezeichnung": null
   },
   "121": {
     "id": 121,
@@ -2593,7 +2827,9 @@
     "img_source": "",
     "birth_date_written": "",
     "death_date_written": "",
-    "Geschlecht": null
+    "Geschlecht": null,
+    "Titel": null,
+    "Funktionsbezeichnung": null
   },
   "122": {
     "id": 122,
@@ -2615,7 +2851,9 @@
     "img_source": "",
     "birth_date_written": "",
     "death_date_written": "",
-    "Geschlecht": null
+    "Geschlecht": null,
+    "Titel": null,
+    "Funktionsbezeichnung": null
   },
   "123": {
     "id": 123,
@@ -2637,7 +2875,9 @@
     "img_source": "",
     "birth_date_written": "",
     "death_date_written": "",
-    "Geschlecht": null
+    "Geschlecht": null,
+    "Titel": null,
+    "Funktionsbezeichnung": null
   },
   "124": {
     "id": 124,
@@ -2659,7 +2899,9 @@
     "img_source": "",
     "birth_date_written": "",
     "death_date_written": "",
-    "Geschlecht": null
+    "Geschlecht": null,
+    "Titel": null,
+    "Funktionsbezeichnung": null
   },
   "125": {
     "id": 125,
@@ -2681,7 +2923,9 @@
     "img_source": "commonsMedia",
     "birth_date_written": "",
     "death_date_written": "",
-    "Geschlecht": null
+    "Geschlecht": null,
+    "Titel": null,
+    "Funktionsbezeichnung": null
   },
   "126": {
     "id": 126,
@@ -2703,7 +2947,9 @@
     "img_source": "commonsMedia",
     "birth_date_written": "",
     "death_date_written": "",
-    "Geschlecht": null
+    "Geschlecht": null,
+    "Titel": null,
+    "Funktionsbezeichnung": null
   },
   "127": {
     "id": 127,
@@ -2725,7 +2971,9 @@
     "img_source": "",
     "birth_date_written": "",
     "death_date_written": "",
-    "Geschlecht": null
+    "Geschlecht": null,
+    "Titel": null,
+    "Funktionsbezeichnung": null
   },
   "128": {
     "id": 128,
@@ -2747,7 +2995,9 @@
     "img_source": "",
     "birth_date_written": "",
     "death_date_written": "",
-    "Geschlecht": null
+    "Geschlecht": null,
+    "Titel": null,
+    "Funktionsbezeichnung": null
   },
   "129": {
     "id": 129,
@@ -2769,7 +3019,9 @@
     "img_source": "",
     "birth_date_written": "",
     "death_date_written": "",
-    "Geschlecht": null
+    "Geschlecht": null,
+    "Titel": null,
+    "Funktionsbezeichnung": null
   },
   "130": {
     "id": 130,
@@ -2791,7 +3043,9 @@
     "img_source": "",
     "birth_date_written": "",
     "death_date_written": "",
-    "Geschlecht": null
+    "Geschlecht": null,
+    "Titel": null,
+    "Funktionsbezeichnung": null
   },
   "131": {
     "id": 131,
@@ -2813,7 +3067,9 @@
     "img_source": "",
     "birth_date_written": "",
     "death_date_written": "",
-    "Geschlecht": null
+    "Geschlecht": null,
+    "Titel": null,
+    "Funktionsbezeichnung": null
   },
   "132": {
     "id": 132,
@@ -2835,7 +3091,9 @@
     "img_source": "",
     "birth_date_written": "",
     "death_date_written": "",
-    "Geschlecht": null
+    "Geschlecht": null,
+    "Titel": null,
+    "Funktionsbezeichnung": null
   },
   "133": {
     "id": 133,
@@ -2857,7 +3115,9 @@
     "img_source": "",
     "birth_date_written": "",
     "death_date_written": "",
-    "Geschlecht": null
+    "Geschlecht": null,
+    "Titel": null,
+    "Funktionsbezeichnung": null
   },
   "134": {
     "id": 134,
@@ -2879,7 +3139,9 @@
     "img_source": "",
     "birth_date_written": "",
     "death_date_written": "",
-    "Geschlecht": null
+    "Geschlecht": null,
+    "Titel": null,
+    "Funktionsbezeichnung": null
   },
   "135": {
     "id": 135,
@@ -2901,7 +3163,9 @@
     "img_source": "",
     "birth_date_written": "",
     "death_date_written": "",
-    "Geschlecht": null
+    "Geschlecht": null,
+    "Titel": null,
+    "Funktionsbezeichnung": null
   },
   "136": {
     "id": 136,
@@ -2923,7 +3187,9 @@
     "img_source": "",
     "birth_date_written": "",
     "death_date_written": "",
-    "Geschlecht": null
+    "Geschlecht": null,
+    "Titel": null,
+    "Funktionsbezeichnung": null
   },
   "137": {
     "id": 137,
@@ -2945,7 +3211,9 @@
     "img_source": "",
     "birth_date_written": "",
     "death_date_written": "",
-    "Geschlecht": null
+    "Geschlecht": null,
+    "Titel": null,
+    "Funktionsbezeichnung": null
   },
   "138": {
     "id": 138,
@@ -2967,7 +3235,9 @@
     "img_source": "",
     "birth_date_written": "",
     "death_date_written": "",
-    "Geschlecht": null
+    "Geschlecht": null,
+    "Titel": null,
+    "Funktionsbezeichnung": null
   },
   "139": {
     "id": 139,
@@ -2989,7 +3259,9 @@
     "img_source": "",
     "birth_date_written": "",
     "death_date_written": "",
-    "Geschlecht": null
+    "Geschlecht": null,
+    "Titel": null,
+    "Funktionsbezeichnung": null
   },
   "140": {
     "id": 140,
@@ -3011,7 +3283,9 @@
     "img_source": "",
     "birth_date_written": "",
     "death_date_written": "",
-    "Geschlecht": null
+    "Geschlecht": null,
+    "Titel": null,
+    "Funktionsbezeichnung": null
   },
   "141": {
     "id": 141,
@@ -3033,7 +3307,9 @@
     "img_source": "",
     "birth_date_written": "",
     "death_date_written": "",
-    "Geschlecht": null
+    "Geschlecht": null,
+    "Titel": null,
+    "Funktionsbezeichnung": null
   },
   "142": {
     "id": 142,
@@ -3055,7 +3331,9 @@
     "img_source": "",
     "birth_date_written": "",
     "death_date_written": "",
-    "Geschlecht": null
+    "Geschlecht": null,
+    "Titel": null,
+    "Funktionsbezeichnung": null
   },
   "143": {
     "id": 143,
@@ -3077,7 +3355,9 @@
     "img_source": "",
     "birth_date_written": "",
     "death_date_written": "",
-    "Geschlecht": null
+    "Geschlecht": null,
+    "Titel": null,
+    "Funktionsbezeichnung": null
   },
   "144": {
     "id": 144,
@@ -3099,7 +3379,9 @@
     "img_source": "",
     "birth_date_written": "",
     "death_date_written": "",
-    "Geschlecht": null
+    "Geschlecht": null,
+    "Titel": null,
+    "Funktionsbezeichnung": null
   },
   "145": {
     "id": 145,
@@ -3121,7 +3403,9 @@
     "img_source": "",
     "birth_date_written": "",
     "death_date_written": "",
-    "Geschlecht": null
+    "Geschlecht": null,
+    "Titel": null,
+    "Funktionsbezeichnung": null
   },
   "146": {
     "id": 146,
@@ -3143,7 +3427,9 @@
     "img_source": "",
     "birth_date_written": "",
     "death_date_written": "",
-    "Geschlecht": null
+    "Geschlecht": null,
+    "Titel": null,
+    "Funktionsbezeichnung": null
   },
   "147": {
     "id": 147,
@@ -3165,7 +3451,9 @@
     "img_source": "",
     "birth_date_written": "",
     "death_date_written": "",
-    "Geschlecht": null
+    "Geschlecht": null,
+    "Titel": null,
+    "Funktionsbezeichnung": null
   },
   "148": {
     "id": 148,
@@ -3187,7 +3475,9 @@
     "img_source": "",
     "birth_date_written": "",
     "death_date_written": "",
-    "Geschlecht": null
+    "Geschlecht": null,
+    "Titel": null,
+    "Funktionsbezeichnung": null
   },
   "149": {
     "id": 149,
@@ -3209,7 +3499,9 @@
     "img_source": "commonsMedia",
     "birth_date_written": "",
     "death_date_written": "",
-    "Geschlecht": null
+    "Geschlecht": null,
+    "Titel": null,
+    "Funktionsbezeichnung": null
   },
   "150": {
     "id": 150,
@@ -3231,7 +3523,9 @@
     "img_source": "",
     "birth_date_written": "",
     "death_date_written": "",
-    "Geschlecht": null
+    "Geschlecht": null,
+    "Titel": null,
+    "Funktionsbezeichnung": null
   },
   "151": {
     "id": 151,
@@ -3253,7 +3547,9 @@
     "img_source": "commonsMedia",
     "birth_date_written": "",
     "death_date_written": "",
-    "Geschlecht": null
+    "Geschlecht": null,
+    "Titel": null,
+    "Funktionsbezeichnung": null
   },
   "152": {
     "id": 152,
@@ -3275,7 +3571,9 @@
     "img_source": "",
     "birth_date_written": "",
     "death_date_written": "",
-    "Geschlecht": null
+    "Geschlecht": null,
+    "Titel": null,
+    "Funktionsbezeichnung": null
   },
   "153": {
     "id": 153,
@@ -3297,7 +3595,9 @@
     "img_source": "",
     "birth_date_written": "",
     "death_date_written": "",
-    "Geschlecht": null
+    "Geschlecht": null,
+    "Titel": null,
+    "Funktionsbezeichnung": null
   },
   "154": {
     "id": 154,
@@ -3319,7 +3619,9 @@
     "img_source": "",
     "birth_date_written": "",
     "death_date_written": "",
-    "Geschlecht": null
+    "Geschlecht": null,
+    "Titel": null,
+    "Funktionsbezeichnung": null
   },
   "155": {
     "id": 155,
@@ -3341,7 +3643,9 @@
     "img_source": "",
     "birth_date_written": "",
     "death_date_written": "",
-    "Geschlecht": null
+    "Geschlecht": null,
+    "Titel": null,
+    "Funktionsbezeichnung": null
   },
   "156": {
     "id": 156,
@@ -3363,7 +3667,9 @@
     "img_source": "",
     "birth_date_written": "",
     "death_date_written": "",
-    "Geschlecht": null
+    "Geschlecht": null,
+    "Titel": null,
+    "Funktionsbezeichnung": null
   },
   "157": {
     "id": 157,
@@ -3385,7 +3691,9 @@
     "img_source": "",
     "birth_date_written": "",
     "death_date_written": "",
-    "Geschlecht": null
+    "Geschlecht": null,
+    "Titel": null,
+    "Funktionsbezeichnung": null
   },
   "158": {
     "id": 158,
@@ -3407,7 +3715,9 @@
     "img_source": "",
     "birth_date_written": "",
     "death_date_written": "",
-    "Geschlecht": null
+    "Geschlecht": null,
+    "Titel": null,
+    "Funktionsbezeichnung": null
   },
   "159": {
     "id": 159,
@@ -3429,7 +3739,9 @@
     "img_source": "",
     "birth_date_written": "",
     "death_date_written": "",
-    "Geschlecht": null
+    "Geschlecht": null,
+    "Titel": null,
+    "Funktionsbezeichnung": null
   },
   "160": {
     "id": 160,
@@ -3451,7 +3763,9 @@
     "img_source": "",
     "birth_date_written": "",
     "death_date_written": "",
-    "Geschlecht": null
+    "Geschlecht": null,
+    "Titel": null,
+    "Funktionsbezeichnung": null
   },
   "161": {
     "id": 161,
@@ -3473,7 +3787,9 @@
     "img_source": "",
     "birth_date_written": "",
     "death_date_written": "",
-    "Geschlecht": null
+    "Geschlecht": null,
+    "Titel": null,
+    "Funktionsbezeichnung": null
   },
   "162": {
     "id": 162,
@@ -3495,7 +3811,9 @@
     "img_source": "",
     "birth_date_written": "",
     "death_date_written": "",
-    "Geschlecht": null
+    "Geschlecht": null,
+    "Titel": null,
+    "Funktionsbezeichnung": null
   },
   "163": {
     "id": 163,
@@ -3517,7 +3835,9 @@
     "img_source": "",
     "birth_date_written": "",
     "death_date_written": "",
-    "Geschlecht": null
+    "Geschlecht": null,
+    "Titel": null,
+    "Funktionsbezeichnung": null
   },
   "164": {
     "id": 164,
@@ -3539,7 +3859,9 @@
     "img_source": "",
     "birth_date_written": "",
     "death_date_written": "",
-    "Geschlecht": null
+    "Geschlecht": null,
+    "Titel": null,
+    "Funktionsbezeichnung": null
   },
   "165": {
     "id": 165,
@@ -3561,7 +3883,9 @@
     "img_source": "",
     "birth_date_written": "",
     "death_date_written": "",
-    "Geschlecht": null
+    "Geschlecht": null,
+    "Titel": null,
+    "Funktionsbezeichnung": null
   },
   "166": {
     "id": 166,
@@ -3583,7 +3907,9 @@
     "img_source": "",
     "birth_date_written": "",
     "death_date_written": "",
-    "Geschlecht": null
+    "Geschlecht": null,
+    "Titel": null,
+    "Funktionsbezeichnung": null
   },
   "167": {
     "id": 167,
@@ -3605,7 +3931,9 @@
     "img_source": "",
     "birth_date_written": "",
     "death_date_written": "",
-    "Geschlecht": null
+    "Geschlecht": null,
+    "Titel": null,
+    "Funktionsbezeichnung": null
   },
   "168": {
     "id": 168,
@@ -3627,7 +3955,9 @@
     "img_source": "commonsMedia",
     "birth_date_written": "",
     "death_date_written": "",
-    "Geschlecht": null
+    "Geschlecht": null,
+    "Titel": null,
+    "Funktionsbezeichnung": null
   },
   "169": {
     "id": 169,
@@ -3649,7 +3979,9 @@
     "img_source": "",
     "birth_date_written": "",
     "death_date_written": "",
-    "Geschlecht": null
+    "Geschlecht": null,
+    "Titel": null,
+    "Funktionsbezeichnung": null
   },
   "170": {
     "id": 170,
@@ -3671,7 +4003,9 @@
     "img_source": "",
     "birth_date_written": "",
     "death_date_written": "",
-    "Geschlecht": null
+    "Geschlecht": null,
+    "Titel": null,
+    "Funktionsbezeichnung": null
   },
   "171": {
     "id": 171,
@@ -3693,7 +4027,9 @@
     "img_source": "",
     "birth_date_written": "",
     "death_date_written": "",
-    "Geschlecht": null
+    "Geschlecht": null,
+    "Titel": null,
+    "Funktionsbezeichnung": null
   },
   "172": {
     "id": 172,
@@ -3715,7 +4051,9 @@
     "img_source": "",
     "birth_date_written": "",
     "death_date_written": "",
-    "Geschlecht": null
+    "Geschlecht": null,
+    "Titel": null,
+    "Funktionsbezeichnung": null
   },
   "173": {
     "id": 173,
@@ -3737,7 +4075,9 @@
     "img_source": "",
     "birth_date_written": "",
     "death_date_written": "",
-    "Geschlecht": null
+    "Geschlecht": null,
+    "Titel": null,
+    "Funktionsbezeichnung": null
   },
   "174": {
     "id": 174,
@@ -3759,7 +4099,9 @@
     "img_source": "commonsMedia",
     "birth_date_written": "",
     "death_date_written": "",
-    "Geschlecht": null
+    "Geschlecht": null,
+    "Titel": null,
+    "Funktionsbezeichnung": null
   },
   "175": {
     "id": 175,
@@ -3781,7 +4123,9 @@
     "img_source": "commonsMedia",
     "birth_date_written": "",
     "death_date_written": "",
-    "Geschlecht": null
+    "Geschlecht": null,
+    "Titel": null,
+    "Funktionsbezeichnung": null
   },
   "176": {
     "id": 176,
@@ -3803,7 +4147,9 @@
     "img_source": "",
     "birth_date_written": "",
     "death_date_written": "",
-    "Geschlecht": null
+    "Geschlecht": null,
+    "Titel": null,
+    "Funktionsbezeichnung": null
   },
   "178": {
     "id": 178,
@@ -3825,7 +4171,9 @@
     "img_source": "",
     "birth_date_written": "",
     "death_date_written": "",
-    "Geschlecht": null
+    "Geschlecht": null,
+    "Titel": null,
+    "Funktionsbezeichnung": null
   },
   "179": {
     "id": 179,
@@ -3847,7 +4195,9 @@
     "img_source": "",
     "birth_date_written": "",
     "death_date_written": "",
-    "Geschlecht": null
+    "Geschlecht": null,
+    "Titel": null,
+    "Funktionsbezeichnung": null
   },
   "180": {
     "id": 180,
@@ -3869,7 +4219,9 @@
     "img_source": "",
     "birth_date_written": "",
     "death_date_written": "",
-    "Geschlecht": null
+    "Geschlecht": null,
+    "Titel": null,
+    "Funktionsbezeichnung": null
   },
   "181": {
     "id": 181,
@@ -3891,7 +4243,9 @@
     "img_source": "",
     "birth_date_written": "",
     "death_date_written": "",
-    "Geschlecht": null
+    "Geschlecht": null,
+    "Titel": null,
+    "Funktionsbezeichnung": null
   },
   "182": {
     "id": 182,
@@ -3913,7 +4267,9 @@
     "img_source": "",
     "birth_date_written": "",
     "death_date_written": "",
-    "Geschlecht": null
+    "Geschlecht": null,
+    "Titel": null,
+    "Funktionsbezeichnung": null
   },
   "183": {
     "id": 183,
@@ -3935,7 +4291,9 @@
     "img_source": "",
     "birth_date_written": "",
     "death_date_written": "",
-    "Geschlecht": null
+    "Geschlecht": null,
+    "Titel": null,
+    "Funktionsbezeichnung": null
   },
   "184": {
     "id": 184,
@@ -3957,7 +4315,9 @@
     "img_source": "",
     "birth_date_written": "",
     "death_date_written": "",
-    "Geschlecht": null
+    "Geschlecht": null,
+    "Titel": null,
+    "Funktionsbezeichnung": null
   },
   "185": {
     "id": 185,
@@ -3979,7 +4339,9 @@
     "img_source": "",
     "birth_date_written": "",
     "death_date_written": "",
-    "Geschlecht": null
+    "Geschlecht": null,
+    "Titel": null,
+    "Funktionsbezeichnung": null
   },
   "186": {
     "id": 186,
@@ -4001,7 +4363,9 @@
     "img_source": "",
     "birth_date_written": "",
     "death_date_written": "",
-    "Geschlecht": null
+    "Geschlecht": null,
+    "Titel": null,
+    "Funktionsbezeichnung": null
   },
   "187": {
     "id": 187,
@@ -4023,7 +4387,9 @@
     "img_source": "",
     "birth_date_written": "",
     "death_date_written": "",
-    "Geschlecht": null
+    "Geschlecht": null,
+    "Titel": null,
+    "Funktionsbezeichnung": null
   },
   "188": {
     "id": 188,
@@ -4045,7 +4411,9 @@
     "img_source": "",
     "birth_date_written": "",
     "death_date_written": "",
-    "Geschlecht": null
+    "Geschlecht": null,
+    "Titel": null,
+    "Funktionsbezeichnung": null
   },
   "189": {
     "id": 189,
@@ -4067,7 +4435,9 @@
     "img_source": "",
     "birth_date_written": "",
     "death_date_written": "",
-    "Geschlecht": null
+    "Geschlecht": null,
+    "Titel": null,
+    "Funktionsbezeichnung": null
   },
   "190": {
     "id": 190,
@@ -4089,7 +4459,9 @@
     "img_source": "",
     "birth_date_written": "",
     "death_date_written": "gestorben wohl 1689",
-    "Geschlecht": null
+    "Geschlecht": null,
+    "Titel": null,
+    "Funktionsbezeichnung": null
   },
   "191": {
     "id": 191,
@@ -4111,7 +4483,9 @@
     "img_source": "",
     "birth_date_written": "",
     "death_date_written": "",
-    "Geschlecht": null
+    "Geschlecht": null,
+    "Titel": null,
+    "Funktionsbezeichnung": null
   },
   "192": {
     "id": 192,
@@ -4133,7 +4507,9 @@
     "img_source": "",
     "birth_date_written": "",
     "death_date_written": "",
-    "Geschlecht": null
+    "Geschlecht": null,
+    "Titel": null,
+    "Funktionsbezeichnung": null
   },
   "193": {
     "id": 193,
@@ -4155,7 +4531,9 @@
     "img_source": "",
     "birth_date_written": "",
     "death_date_written": "",
-    "Geschlecht": null
+    "Geschlecht": null,
+    "Titel": null,
+    "Funktionsbezeichnung": null
   },
   "194": {
     "id": 194,
@@ -4177,7 +4555,9 @@
     "img_source": "",
     "birth_date_written": "",
     "death_date_written": "",
-    "Geschlecht": null
+    "Geschlecht": null,
+    "Titel": null,
+    "Funktionsbezeichnung": null
   },
   "195": {
     "id": 195,
@@ -4199,7 +4579,9 @@
     "img_source": "",
     "birth_date_written": "",
     "death_date_written": "",
-    "Geschlecht": null
+    "Geschlecht": null,
+    "Titel": null,
+    "Funktionsbezeichnung": null
   },
   "196": {
     "id": 196,
@@ -4221,7 +4603,9 @@
     "img_source": "commonsMedia",
     "birth_date_written": "",
     "death_date_written": "",
-    "Geschlecht": null
+    "Geschlecht": null,
+    "Titel": null,
+    "Funktionsbezeichnung": null
   },
   "197": {
     "id": 197,
@@ -4243,7 +4627,9 @@
     "img_source": "",
     "birth_date_written": "",
     "death_date_written": "",
-    "Geschlecht": null
+    "Geschlecht": null,
+    "Titel": null,
+    "Funktionsbezeichnung": null
   },
   "198": {
     "id": 198,
@@ -4265,7 +4651,9 @@
     "img_source": "",
     "birth_date_written": "",
     "death_date_written": "",
-    "Geschlecht": null
+    "Geschlecht": null,
+    "Titel": null,
+    "Funktionsbezeichnung": null
   },
   "199": {
     "id": 199,
@@ -4287,7 +4675,9 @@
     "img_source": "",
     "birth_date_written": "",
     "death_date_written": "",
-    "Geschlecht": null
+    "Geschlecht": null,
+    "Titel": null,
+    "Funktionsbezeichnung": null
   },
   "200": {
     "id": 200,
@@ -4309,7 +4699,9 @@
     "img_source": "",
     "birth_date_written": "",
     "death_date_written": "",
-    "Geschlecht": null
+    "Geschlecht": null,
+    "Titel": null,
+    "Funktionsbezeichnung": null
   },
   "201": {
     "id": 201,
@@ -4331,7 +4723,9 @@
     "img_source": "",
     "birth_date_written": "",
     "death_date_written": "",
-    "Geschlecht": null
+    "Geschlecht": null,
+    "Titel": null,
+    "Funktionsbezeichnung": null
   },
   "202": {
     "id": 202,
@@ -4353,7 +4747,9 @@
     "img_source": "",
     "birth_date_written": "",
     "death_date_written": "",
-    "Geschlecht": null
+    "Geschlecht": null,
+    "Titel": null,
+    "Funktionsbezeichnung": null
   },
   "203": {
     "id": 203,
@@ -4375,7 +4771,9 @@
     "img_source": "",
     "birth_date_written": "",
     "death_date_written": "",
-    "Geschlecht": null
+    "Geschlecht": null,
+    "Titel": null,
+    "Funktionsbezeichnung": null
   },
   "204": {
     "id": 204,
@@ -4397,7 +4795,9 @@
     "img_source": "commonsMedia",
     "birth_date_written": "",
     "death_date_written": "",
-    "Geschlecht": null
+    "Geschlecht": null,
+    "Titel": null,
+    "Funktionsbezeichnung": null
   },
   "205": {
     "id": 205,
@@ -4419,7 +4819,9 @@
     "img_source": "",
     "birth_date_written": "",
     "death_date_written": "",
-    "Geschlecht": null
+    "Geschlecht": null,
+    "Titel": null,
+    "Funktionsbezeichnung": null
   },
   "206": {
     "id": 206,
@@ -4441,7 +4843,9 @@
     "img_source": "commonsMedia",
     "birth_date_written": "",
     "death_date_written": "",
-    "Geschlecht": null
+    "Geschlecht": null,
+    "Titel": null,
+    "Funktionsbezeichnung": null
   },
   "207": {
     "id": 207,
@@ -4463,7 +4867,9 @@
     "img_source": "",
     "birth_date_written": "",
     "death_date_written": "",
-    "Geschlecht": null
+    "Geschlecht": null,
+    "Titel": null,
+    "Funktionsbezeichnung": null
   },
   "208": {
     "id": 208,
@@ -4485,7 +4891,9 @@
     "img_source": "",
     "birth_date_written": "",
     "death_date_written": "",
-    "Geschlecht": null
+    "Geschlecht": null,
+    "Titel": null,
+    "Funktionsbezeichnung": null
   },
   "209": {
     "id": 209,
@@ -4507,7 +4915,9 @@
     "img_source": "",
     "birth_date_written": "",
     "death_date_written": "",
-    "Geschlecht": null
+    "Geschlecht": null,
+    "Titel": null,
+    "Funktionsbezeichnung": null
   },
   "210": {
     "id": 210,
@@ -4529,7 +4939,9 @@
     "img_source": "commonsMedia",
     "birth_date_written": "",
     "death_date_written": "",
-    "Geschlecht": null
+    "Geschlecht": null,
+    "Titel": null,
+    "Funktionsbezeichnung": null
   },
   "211": {
     "id": 211,
@@ -4551,7 +4963,9 @@
     "img_source": "commonsMedia",
     "birth_date_written": "",
     "death_date_written": "",
-    "Geschlecht": null
+    "Geschlecht": null,
+    "Titel": null,
+    "Funktionsbezeichnung": null
   },
   "212": {
     "id": 212,
@@ -4573,7 +4987,9 @@
     "img_source": "",
     "birth_date_written": "",
     "death_date_written": "",
-    "Geschlecht": null
+    "Geschlecht": null,
+    "Titel": null,
+    "Funktionsbezeichnung": null
   },
   "213": {
     "id": 213,
@@ -4595,7 +5011,9 @@
     "img_source": "commonsMedia",
     "birth_date_written": "",
     "death_date_written": "",
-    "Geschlecht": null
+    "Geschlecht": null,
+    "Titel": null,
+    "Funktionsbezeichnung": null
   },
   "214": {
     "id": 214,
@@ -4617,7 +5035,9 @@
     "img_source": "commonsMedia",
     "birth_date_written": "",
     "death_date_written": "",
-    "Geschlecht": null
+    "Geschlecht": null,
+    "Titel": null,
+    "Funktionsbezeichnung": null
   },
   "215": {
     "id": 215,
@@ -4639,7 +5059,9 @@
     "img_source": "commonsMedia",
     "birth_date_written": "",
     "death_date_written": "",
-    "Geschlecht": null
+    "Geschlecht": null,
+    "Titel": null,
+    "Funktionsbezeichnung": null
   },
   "216": {
     "id": 216,
@@ -4661,7 +5083,9 @@
     "img_source": "",
     "birth_date_written": "",
     "death_date_written": "",
-    "Geschlecht": null
+    "Geschlecht": null,
+    "Titel": null,
+    "Funktionsbezeichnung": null
   },
   "217": {
     "id": 217,
@@ -4683,7 +5107,9 @@
     "img_source": "",
     "birth_date_written": "",
     "death_date_written": "",
-    "Geschlecht": null
+    "Geschlecht": null,
+    "Titel": null,
+    "Funktionsbezeichnung": null
   },
   "219": {
     "id": 219,
@@ -4705,7 +5131,9 @@
     "img_source": "commonsMedia",
     "birth_date_written": "",
     "death_date_written": "",
-    "Geschlecht": null
+    "Geschlecht": null,
+    "Titel": null,
+    "Funktionsbezeichnung": null
   },
   "220": {
     "id": 220,
@@ -4727,7 +5155,9 @@
     "img_source": "",
     "birth_date_written": "",
     "death_date_written": "",
-    "Geschlecht": null
+    "Geschlecht": null,
+    "Titel": null,
+    "Funktionsbezeichnung": null
   },
   "221": {
     "id": 221,
@@ -4749,7 +5179,9 @@
     "img_source": "",
     "birth_date_written": "",
     "death_date_written": "",
-    "Geschlecht": null
+    "Geschlecht": null,
+    "Titel": null,
+    "Funktionsbezeichnung": null
   },
   "222": {
     "id": 222,
@@ -4771,7 +5203,9 @@
     "img_source": "",
     "birth_date_written": "",
     "death_date_written": "",
-    "Geschlecht": null
+    "Geschlecht": null,
+    "Titel": null,
+    "Funktionsbezeichnung": null
   },
   "223": {
     "id": 223,
@@ -4793,7 +5227,9 @@
     "img_source": "",
     "birth_date_written": "",
     "death_date_written": "",
-    "Geschlecht": null
+    "Geschlecht": null,
+    "Titel": null,
+    "Funktionsbezeichnung": null
   },
   "224": {
     "id": 224,
@@ -4815,7 +5251,9 @@
     "img_source": "",
     "birth_date_written": "",
     "death_date_written": "",
-    "Geschlecht": null
+    "Geschlecht": null,
+    "Titel": null,
+    "Funktionsbezeichnung": null
   },
   "225": {
     "id": 225,
@@ -4837,7 +5275,9 @@
     "img_source": "",
     "birth_date_written": "",
     "death_date_written": "",
-    "Geschlecht": null
+    "Geschlecht": null,
+    "Titel": null,
+    "Funktionsbezeichnung": null
   },
   "226": {
     "id": 226,
@@ -4859,7 +5299,9 @@
     "img_source": "",
     "birth_date_written": "",
     "death_date_written": "",
-    "Geschlecht": null
+    "Geschlecht": null,
+    "Titel": null,
+    "Funktionsbezeichnung": null
   },
   "227": {
     "id": 227,
@@ -4881,7 +5323,9 @@
     "img_source": "commonsMedia",
     "birth_date_written": "",
     "death_date_written": "",
-    "Geschlecht": null
+    "Geschlecht": null,
+    "Titel": null,
+    "Funktionsbezeichnung": null
   },
   "228": {
     "id": 228,
@@ -4903,7 +5347,9 @@
     "img_source": "commonsMedia",
     "birth_date_written": "",
     "death_date_written": "",
-    "Geschlecht": null
+    "Geschlecht": null,
+    "Titel": null,
+    "Funktionsbezeichnung": null
   },
   "229": {
     "id": 229,
@@ -4925,7 +5371,9 @@
     "img_source": "commonsMedia",
     "birth_date_written": "",
     "death_date_written": "",
-    "Geschlecht": null
+    "Geschlecht": null,
+    "Titel": null,
+    "Funktionsbezeichnung": null
   },
   "230": {
     "id": 230,
@@ -4947,7 +5395,9 @@
     "img_source": "",
     "birth_date_written": "",
     "death_date_written": "",
-    "Geschlecht": null
+    "Geschlecht": null,
+    "Titel": null,
+    "Funktionsbezeichnung": null
   },
   "231": {
     "id": 231,
@@ -4969,7 +5419,9 @@
     "img_source": "commonsMedia",
     "birth_date_written": "",
     "death_date_written": "",
-    "Geschlecht": null
+    "Geschlecht": null,
+    "Titel": null,
+    "Funktionsbezeichnung": null
   },
   "232": {
     "id": 232,
@@ -4991,7 +5443,9 @@
     "img_source": "",
     "birth_date_written": "",
     "death_date_written": "",
-    "Geschlecht": null
+    "Geschlecht": null,
+    "Titel": null,
+    "Funktionsbezeichnung": null
   },
   "233": {
     "id": 233,
@@ -5013,7 +5467,9 @@
     "img_source": "",
     "birth_date_written": "",
     "death_date_written": "",
-    "Geschlecht": null
+    "Geschlecht": null,
+    "Titel": null,
+    "Funktionsbezeichnung": null
   },
   "234": {
     "id": 234,
@@ -5035,7 +5491,9 @@
     "img_source": "",
     "birth_date_written": "",
     "death_date_written": "",
-    "Geschlecht": null
+    "Geschlecht": null,
+    "Titel": null,
+    "Funktionsbezeichnung": null
   },
   "236": {
     "id": 236,
@@ -5057,7 +5515,9 @@
     "img_source": "commonsMedia",
     "birth_date_written": "",
     "death_date_written": "",
-    "Geschlecht": null
+    "Geschlecht": null,
+    "Titel": null,
+    "Funktionsbezeichnung": null
   },
   "237": {
     "id": 237,
@@ -5079,7 +5539,9 @@
     "img_source": "commonsMedia",
     "birth_date_written": "",
     "death_date_written": "",
-    "Geschlecht": null
+    "Geschlecht": null,
+    "Titel": null,
+    "Funktionsbezeichnung": null
   },
   "238": {
     "id": 238,
@@ -5101,7 +5563,9 @@
     "img_source": "commonsMedia",
     "birth_date_written": "",
     "death_date_written": "",
-    "Geschlecht": null
+    "Geschlecht": null,
+    "Titel": null,
+    "Funktionsbezeichnung": null
   },
   "239": {
     "id": 239,
@@ -5123,7 +5587,9 @@
     "img_source": "",
     "birth_date_written": "",
     "death_date_written": "",
-    "Geschlecht": null
+    "Geschlecht": null,
+    "Titel": null,
+    "Funktionsbezeichnung": null
   },
   "240": {
     "id": 240,
@@ -5145,7 +5611,9 @@
     "img_source": "",
     "birth_date_written": "",
     "death_date_written": "",
-    "Geschlecht": null
+    "Geschlecht": null,
+    "Titel": null,
+    "Funktionsbezeichnung": null
   },
   "241": {
     "id": 241,
@@ -5167,7 +5635,9 @@
     "img_source": "",
     "birth_date_written": "",
     "death_date_written": "",
-    "Geschlecht": null
+    "Geschlecht": null,
+    "Titel": null,
+    "Funktionsbezeichnung": null
   },
   "242": {
     "id": 242,
@@ -5189,7 +5659,9 @@
     "img_source": "",
     "birth_date_written": "",
     "death_date_written": "",
-    "Geschlecht": null
+    "Geschlecht": null,
+    "Titel": null,
+    "Funktionsbezeichnung": null
   },
   "243": {
     "id": 243,
@@ -5211,7 +5683,9 @@
     "img_source": "",
     "birth_date_written": "",
     "death_date_written": "",
-    "Geschlecht": null
+    "Geschlecht": null,
+    "Titel": null,
+    "Funktionsbezeichnung": null
   },
   "244": {
     "id": 244,
@@ -5233,7 +5707,9 @@
     "img_source": "",
     "birth_date_written": "",
     "death_date_written": "",
-    "Geschlecht": null
+    "Geschlecht": null,
+    "Titel": null,
+    "Funktionsbezeichnung": null
   },
   "245": {
     "id": 245,
@@ -5255,7 +5731,9 @@
     "img_source": "commonsMedia",
     "birth_date_written": "",
     "death_date_written": "",
-    "Geschlecht": null
+    "Geschlecht": null,
+    "Titel": null,
+    "Funktionsbezeichnung": null
   },
   "246": {
     "id": 246,
@@ -5277,7 +5755,9 @@
     "img_source": "",
     "birth_date_written": "",
     "death_date_written": "",
-    "Geschlecht": null
+    "Geschlecht": null,
+    "Titel": null,
+    "Funktionsbezeichnung": null
   },
   "247": {
     "id": 247,
@@ -5299,7 +5779,9 @@
     "img_source": "",
     "birth_date_written": "",
     "death_date_written": "",
-    "Geschlecht": null
+    "Geschlecht": null,
+    "Titel": null,
+    "Funktionsbezeichnung": null
   },
   "248": {
     "id": 248,
@@ -5321,7 +5803,9 @@
     "img_source": "commonsMedia",
     "birth_date_written": "",
     "death_date_written": "",
-    "Geschlecht": null
+    "Geschlecht": null,
+    "Titel": null,
+    "Funktionsbezeichnung": null
   },
   "249": {
     "id": 249,
@@ -5343,7 +5827,9 @@
     "img_source": "commonsMedia",
     "birth_date_written": "",
     "death_date_written": "",
-    "Geschlecht": null
+    "Geschlecht": null,
+    "Titel": null,
+    "Funktionsbezeichnung": null
   },
   "250": {
     "id": 250,
@@ -5365,7 +5851,9 @@
     "img_source": "commonsMedia",
     "birth_date_written": "",
     "death_date_written": "",
-    "Geschlecht": null
+    "Geschlecht": null,
+    "Titel": null,
+    "Funktionsbezeichnung": null
   },
   "251": {
     "id": 251,
@@ -5387,7 +5875,9 @@
     "img_source": "",
     "birth_date_written": "",
     "death_date_written": "",
-    "Geschlecht": null
+    "Geschlecht": null,
+    "Titel": null,
+    "Funktionsbezeichnung": null
   },
   "252": {
     "id": 252,
@@ -5409,7 +5899,9 @@
     "img_source": "commonsMedia",
     "birth_date_written": "",
     "death_date_written": "",
-    "Geschlecht": null
+    "Geschlecht": null,
+    "Titel": null,
+    "Funktionsbezeichnung": null
   },
   "253": {
     "id": 253,
@@ -5431,7 +5923,9 @@
     "img_source": "commonsMedia",
     "birth_date_written": "",
     "death_date_written": "",
-    "Geschlecht": null
+    "Geschlecht": null,
+    "Titel": null,
+    "Funktionsbezeichnung": null
   },
   "254": {
     "id": 254,
@@ -5453,7 +5947,9 @@
     "img_source": "",
     "birth_date_written": "",
     "death_date_written": "",
-    "Geschlecht": null
+    "Geschlecht": null,
+    "Titel": null,
+    "Funktionsbezeichnung": null
   },
   "255": {
     "id": 255,
@@ -5475,7 +5971,9 @@
     "img_source": "",
     "birth_date_written": "",
     "death_date_written": "",
-    "Geschlecht": null
+    "Geschlecht": null,
+    "Titel": null,
+    "Funktionsbezeichnung": null
   },
   "256": {
     "id": 256,
@@ -5497,7 +5995,9 @@
     "img_source": "",
     "birth_date_written": "",
     "death_date_written": "",
-    "Geschlecht": null
+    "Geschlecht": null,
+    "Titel": null,
+    "Funktionsbezeichnung": null
   },
   "257": {
     "id": 257,
@@ -5519,7 +6019,9 @@
     "img_source": "",
     "birth_date_written": "",
     "death_date_written": "",
-    "Geschlecht": null
+    "Geschlecht": null,
+    "Titel": null,
+    "Funktionsbezeichnung": null
   },
   "258": {
     "id": 258,
@@ -5541,7 +6043,9 @@
     "img_source": "",
     "birth_date_written": "",
     "death_date_written": "",
-    "Geschlecht": null
+    "Geschlecht": null,
+    "Titel": null,
+    "Funktionsbezeichnung": null
   },
   "259": {
     "id": 259,
@@ -5563,7 +6067,9 @@
     "img_source": "commonsMedia",
     "birth_date_written": "",
     "death_date_written": "",
-    "Geschlecht": null
+    "Geschlecht": null,
+    "Titel": null,
+    "Funktionsbezeichnung": null
   },
   "260": {
     "id": 260,
@@ -5585,12 +6091,14 @@
     "img_source": "commonsMedia",
     "birth_date_written": "",
     "death_date_written": "",
-    "Geschlecht": null
+    "Geschlecht": null,
+    "Titel": null,
+    "Funktionsbezeichnung": null
   },
   "261": {
     "id": 261,
     "order": "261.00000000000000000000",
-    "name": "Flori",
+    "name": "Flori 1680",
     "gnd": "",
     "other_url": "",
     "emt_id": "emt_person_id__261",
@@ -5607,7 +6115,9 @@
     "img_source": "",
     "birth_date_written": "",
     "death_date_written": "",
-    "Geschlecht": null
+    "Geschlecht": null,
+    "Titel": null,
+    "Funktionsbezeichnung": null
   },
   "262": {
     "id": 262,
@@ -5629,7 +6139,9 @@
     "img_source": "",
     "birth_date_written": "",
     "death_date_written": "",
-    "Geschlecht": null
+    "Geschlecht": null,
+    "Titel": null,
+    "Funktionsbezeichnung": null
   },
   "263": {
     "id": 263,
@@ -5651,7 +6163,9 @@
     "img_source": "",
     "birth_date_written": "",
     "death_date_written": "",
-    "Geschlecht": null
+    "Geschlecht": null,
+    "Titel": null,
+    "Funktionsbezeichnung": null
   },
   "264": {
     "id": 264,
@@ -5673,7 +6187,9 @@
     "img_source": "",
     "birth_date_written": "",
     "death_date_written": "",
-    "Geschlecht": null
+    "Geschlecht": null,
+    "Titel": null,
+    "Funktionsbezeichnung": null
   },
   "265": {
     "id": 265,
@@ -5695,7 +6211,9 @@
     "img_source": "commonsMedia",
     "birth_date_written": "",
     "death_date_written": "",
-    "Geschlecht": null
+    "Geschlecht": null,
+    "Titel": null,
+    "Funktionsbezeichnung": null
   },
   "266": {
     "id": 266,
@@ -5717,7 +6235,9 @@
     "img_source": "",
     "birth_date_written": "",
     "death_date_written": "",
-    "Geschlecht": null
+    "Geschlecht": null,
+    "Titel": null,
+    "Funktionsbezeichnung": null
   },
   "267": {
     "id": 267,
@@ -5739,7 +6259,9 @@
     "img_source": "",
     "birth_date_written": "",
     "death_date_written": "",
-    "Geschlecht": null
+    "Geschlecht": null,
+    "Titel": null,
+    "Funktionsbezeichnung": null
   },
   "268": {
     "id": 268,
@@ -5761,7 +6283,9 @@
     "img_source": "",
     "birth_date_written": "",
     "death_date_written": "",
-    "Geschlecht": null
+    "Geschlecht": null,
+    "Titel": null,
+    "Funktionsbezeichnung": null
   },
   "269": {
     "id": 269,
@@ -5783,7 +6307,9 @@
     "img_source": "",
     "birth_date_written": "",
     "death_date_written": "",
-    "Geschlecht": null
+    "Geschlecht": null,
+    "Titel": null,
+    "Funktionsbezeichnung": null
   },
   "270": {
     "id": 270,
@@ -5805,7 +6331,9 @@
     "img_source": "",
     "birth_date_written": "",
     "death_date_written": "",
-    "Geschlecht": null
+    "Geschlecht": null,
+    "Titel": null,
+    "Funktionsbezeichnung": null
   },
   "271": {
     "id": 271,
@@ -5827,7 +6355,9 @@
     "img_source": "",
     "birth_date_written": "",
     "death_date_written": "",
-    "Geschlecht": null
+    "Geschlecht": null,
+    "Titel": null,
+    "Funktionsbezeichnung": null
   },
   "272": {
     "id": 272,
@@ -5849,7 +6379,9 @@
     "img_source": "commonsMedia",
     "birth_date_written": "",
     "death_date_written": "",
-    "Geschlecht": null
+    "Geschlecht": null,
+    "Titel": null,
+    "Funktionsbezeichnung": null
   },
   "273": {
     "id": 273,
@@ -5871,7 +6403,9 @@
     "img_source": "commonsMedia",
     "birth_date_written": "",
     "death_date_written": "",
-    "Geschlecht": null
+    "Geschlecht": null,
+    "Titel": null,
+    "Funktionsbezeichnung": null
   },
   "274": {
     "id": 274,
@@ -5893,7 +6427,9 @@
     "img_source": "",
     "birth_date_written": "",
     "death_date_written": "",
-    "Geschlecht": null
+    "Geschlecht": null,
+    "Titel": null,
+    "Funktionsbezeichnung": null
   },
   "275": {
     "id": 275,
@@ -5915,7 +6451,9 @@
     "img_source": "",
     "birth_date_written": "",
     "death_date_written": "",
-    "Geschlecht": null
+    "Geschlecht": null,
+    "Titel": null,
+    "Funktionsbezeichnung": null
   },
   "276": {
     "id": 276,
@@ -5937,7 +6475,9 @@
     "img_source": "",
     "birth_date_written": "",
     "death_date_written": "",
-    "Geschlecht": null
+    "Geschlecht": null,
+    "Titel": null,
+    "Funktionsbezeichnung": null
   },
   "277": {
     "id": 277,
@@ -5959,7 +6499,9 @@
     "img_source": "",
     "birth_date_written": "",
     "death_date_written": "",
-    "Geschlecht": null
+    "Geschlecht": null,
+    "Titel": null,
+    "Funktionsbezeichnung": null
   },
   "278": {
     "id": 278,
@@ -5981,7 +6523,9 @@
     "img_source": "commonsMedia",
     "birth_date_written": "",
     "death_date_written": "",
-    "Geschlecht": null
+    "Geschlecht": null,
+    "Titel": null,
+    "Funktionsbezeichnung": null
   },
   "279": {
     "id": 279,
@@ -6003,7 +6547,9 @@
     "img_source": "commonsMedia",
     "birth_date_written": "",
     "death_date_written": "",
-    "Geschlecht": null
+    "Geschlecht": null,
+    "Titel": null,
+    "Funktionsbezeichnung": null
   },
   "280": {
     "id": 280,
@@ -6025,7 +6571,9 @@
     "img_source": "commonsMedia",
     "birth_date_written": "",
     "death_date_written": "",
-    "Geschlecht": null
+    "Geschlecht": null,
+    "Titel": null,
+    "Funktionsbezeichnung": null
   },
   "281": {
     "id": 281,
@@ -6047,7 +6595,9 @@
     "img_source": "",
     "birth_date_written": "",
     "death_date_written": "",
-    "Geschlecht": null
+    "Geschlecht": null,
+    "Titel": null,
+    "Funktionsbezeichnung": null
   },
   "282": {
     "id": 282,
@@ -6069,7 +6619,9 @@
     "img_source": "",
     "birth_date_written": "",
     "death_date_written": "",
-    "Geschlecht": null
+    "Geschlecht": null,
+    "Titel": null,
+    "Funktionsbezeichnung": null
   },
   "283": {
     "id": 283,
@@ -6091,7 +6643,9 @@
     "img_source": "",
     "birth_date_written": "",
     "death_date_written": "",
-    "Geschlecht": null
+    "Geschlecht": null,
+    "Titel": null,
+    "Funktionsbezeichnung": null
   },
   "285": {
     "id": 285,
@@ -6113,7 +6667,9 @@
     "img_source": "",
     "birth_date_written": "",
     "death_date_written": "",
-    "Geschlecht": null
+    "Geschlecht": null,
+    "Titel": null,
+    "Funktionsbezeichnung": null
   },
   "286": {
     "id": 286,
@@ -6135,7 +6691,9 @@
     "img_source": "",
     "birth_date_written": "",
     "death_date_written": "",
-    "Geschlecht": null
+    "Geschlecht": null,
+    "Titel": null,
+    "Funktionsbezeichnung": null
   },
   "287": {
     "id": 287,
@@ -6157,7 +6715,9 @@
     "img_source": "commonsMedia",
     "birth_date_written": "",
     "death_date_written": "",
-    "Geschlecht": null
+    "Geschlecht": null,
+    "Titel": null,
+    "Funktionsbezeichnung": null
   },
   "288": {
     "id": 288,
@@ -6179,7 +6739,9 @@
     "img_source": "",
     "birth_date_written": "",
     "death_date_written": "",
-    "Geschlecht": null
+    "Geschlecht": null,
+    "Titel": null,
+    "Funktionsbezeichnung": null
   },
   "289": {
     "id": 289,
@@ -6201,7 +6763,9 @@
     "img_source": "",
     "birth_date_written": "",
     "death_date_written": "",
-    "Geschlecht": null
+    "Geschlecht": null,
+    "Titel": null,
+    "Funktionsbezeichnung": null
   },
   "290": {
     "id": 290,
@@ -6223,7 +6787,9 @@
     "img_source": "",
     "birth_date_written": "",
     "death_date_written": "",
-    "Geschlecht": null
+    "Geschlecht": null,
+    "Titel": null,
+    "Funktionsbezeichnung": null
   },
   "291": {
     "id": 291,
@@ -6245,7 +6811,9 @@
     "img_source": "commonsMedia",
     "birth_date_written": "",
     "death_date_written": "",
-    "Geschlecht": null
+    "Geschlecht": null,
+    "Titel": null,
+    "Funktionsbezeichnung": null
   },
   "292": {
     "id": 292,
@@ -6267,7 +6835,9 @@
     "img_source": "",
     "birth_date_written": "",
     "death_date_written": "",
-    "Geschlecht": null
+    "Geschlecht": null,
+    "Titel": null,
+    "Funktionsbezeichnung": null
   },
   "293": {
     "id": 293,
@@ -6289,7 +6859,9 @@
     "img_source": "",
     "birth_date_written": "",
     "death_date_written": "",
-    "Geschlecht": null
+    "Geschlecht": null,
+    "Titel": null,
+    "Funktionsbezeichnung": null
   },
   "294": {
     "id": 294,
@@ -6311,7 +6883,9 @@
     "img_source": "",
     "birth_date_written": "",
     "death_date_written": "",
-    "Geschlecht": null
+    "Geschlecht": null,
+    "Titel": null,
+    "Funktionsbezeichnung": null
   },
   "295": {
     "id": 295,
@@ -6333,7 +6907,9 @@
     "img_source": "",
     "birth_date_written": "",
     "death_date_written": "",
-    "Geschlecht": null
+    "Geschlecht": null,
+    "Titel": null,
+    "Funktionsbezeichnung": null
   },
   "296": {
     "id": 296,
@@ -6355,7 +6931,9 @@
     "img_source": "",
     "birth_date_written": "",
     "death_date_written": "",
-    "Geschlecht": null
+    "Geschlecht": null,
+    "Titel": null,
+    "Funktionsbezeichnung": null
   },
   "297": {
     "id": 297,
@@ -6377,7 +6955,9 @@
     "img_source": "",
     "birth_date_written": "",
     "death_date_written": "",
-    "Geschlecht": null
+    "Geschlecht": null,
+    "Titel": null,
+    "Funktionsbezeichnung": null
   },
   "298": {
     "id": 298,
@@ -6399,7 +6979,9 @@
     "img_source": "",
     "birth_date_written": "",
     "death_date_written": "",
-    "Geschlecht": null
+    "Geschlecht": null,
+    "Titel": null,
+    "Funktionsbezeichnung": null
   },
   "299": {
     "id": 299,
@@ -6421,7 +7003,9 @@
     "img_source": "",
     "birth_date_written": "",
     "death_date_written": "",
-    "Geschlecht": null
+    "Geschlecht": null,
+    "Titel": null,
+    "Funktionsbezeichnung": null
   },
   "300": {
     "id": 300,
@@ -6443,7 +7027,9 @@
     "img_source": "commonsMedia",
     "birth_date_written": "",
     "death_date_written": "",
-    "Geschlecht": null
+    "Geschlecht": null,
+    "Titel": null,
+    "Funktionsbezeichnung": null
   },
   "301": {
     "id": 301,
@@ -6465,7 +7051,9 @@
     "img_source": "",
     "birth_date_written": "",
     "death_date_written": "",
-    "Geschlecht": null
+    "Geschlecht": null,
+    "Titel": null,
+    "Funktionsbezeichnung": null
   },
   "302": {
     "id": 302,
@@ -6487,7 +7075,9 @@
     "img_source": "",
     "birth_date_written": "",
     "death_date_written": "",
-    "Geschlecht": null
+    "Geschlecht": null,
+    "Titel": null,
+    "Funktionsbezeichnung": null
   },
   "303": {
     "id": 303,
@@ -6509,7 +7099,9 @@
     "img_source": "",
     "birth_date_written": "",
     "death_date_written": "",
-    "Geschlecht": null
+    "Geschlecht": null,
+    "Titel": null,
+    "Funktionsbezeichnung": null
   },
   "304": {
     "id": 304,
@@ -6531,7 +7123,9 @@
     "img_source": "",
     "birth_date_written": "",
     "death_date_written": "",
-    "Geschlecht": null
+    "Geschlecht": null,
+    "Titel": null,
+    "Funktionsbezeichnung": null
   },
   "305": {
     "id": 305,
@@ -6553,7 +7147,9 @@
     "img_source": "",
     "birth_date_written": "",
     "death_date_written": "",
-    "Geschlecht": null
+    "Geschlecht": null,
+    "Titel": null,
+    "Funktionsbezeichnung": null
   },
   "306": {
     "id": 306,
@@ -6575,7 +7171,9 @@
     "img_source": "",
     "birth_date_written": "",
     "death_date_written": "",
-    "Geschlecht": null
+    "Geschlecht": null,
+    "Titel": null,
+    "Funktionsbezeichnung": null
   },
   "307": {
     "id": 307,
@@ -6597,7 +7195,9 @@
     "img_source": "",
     "birth_date_written": "",
     "death_date_written": "",
-    "Geschlecht": null
+    "Geschlecht": null,
+    "Titel": null,
+    "Funktionsbezeichnung": null
   },
   "308": {
     "id": 308,
@@ -6619,7 +7219,9 @@
     "img_source": "",
     "birth_date_written": "",
     "death_date_written": "",
-    "Geschlecht": null
+    "Geschlecht": null,
+    "Titel": null,
+    "Funktionsbezeichnung": null
   },
   "309": {
     "id": 309,
@@ -6641,7 +7243,9 @@
     "img_source": "",
     "birth_date_written": "1658 oder 1659",
     "death_date_written": "",
-    "Geschlecht": null
+    "Geschlecht": null,
+    "Titel": null,
+    "Funktionsbezeichnung": null
   },
   "310": {
     "id": 310,
@@ -6663,7 +7267,9 @@
     "img_source": "",
     "birth_date_written": "",
     "death_date_written": "",
-    "Geschlecht": ""
+    "Geschlecht": "",
+    "Titel": null,
+    "Funktionsbezeichnung": null
   },
   "311": {
     "id": 311,
@@ -6685,7 +7291,9 @@
     "img_source": "",
     "birth_date_written": "",
     "death_date_written": "",
-    "Geschlecht": ""
+    "Geschlecht": "",
+    "Titel": null,
+    "Funktionsbezeichnung": null
   },
   "312": {
     "id": 312,
@@ -6707,7 +7315,9 @@
     "img_source": "",
     "birth_date_written": "",
     "death_date_written": "",
-    "Geschlecht": ""
+    "Geschlecht": "",
+    "Titel": null,
+    "Funktionsbezeichnung": null
   },
   "313": {
     "id": 313,
@@ -6729,7 +7339,9 @@
     "img_source": "",
     "birth_date_written": "",
     "death_date_written": "",
-    "Geschlecht": ""
+    "Geschlecht": "",
+    "Titel": null,
+    "Funktionsbezeichnung": null
   },
   "314": {
     "id": 314,
@@ -6751,7 +7363,9 @@
     "img_source": "",
     "birth_date_written": "",
     "death_date_written": "",
-    "Geschlecht": ""
+    "Geschlecht": "",
+    "Titel": null,
+    "Funktionsbezeichnung": null
   },
   "315": {
     "id": 315,
@@ -6773,7 +7387,9 @@
     "img_source": "",
     "birth_date_written": "",
     "death_date_written": "",
-    "Geschlecht": ""
+    "Geschlecht": "",
+    "Titel": null,
+    "Funktionsbezeichnung": null
   },
   "316": {
     "id": 316,
@@ -6795,7 +7411,9 @@
     "img_source": "",
     "birth_date_written": "",
     "death_date_written": "",
-    "Geschlecht": ""
+    "Geschlecht": "",
+    "Titel": null,
+    "Funktionsbezeichnung": null
   },
   "319": {
     "id": 319,
@@ -6817,7 +7435,9 @@
     "img_source": "",
     "birth_date_written": "",
     "death_date_written": "",
-    "Geschlecht": ""
+    "Geschlecht": "",
+    "Titel": null,
+    "Funktionsbezeichnung": null
   },
   "320": {
     "id": 320,
@@ -6839,7 +7459,9 @@
     "img_source": "",
     "birth_date_written": "",
     "death_date_written": "",
-    "Geschlecht": ""
+    "Geschlecht": "",
+    "Titel": null,
+    "Funktionsbezeichnung": null
   },
   "321": {
     "id": 321,
@@ -6861,7 +7483,9 @@
     "img_source": "commonsMedia",
     "birth_date_written": "",
     "death_date_written": "",
-    "Geschlecht": ""
+    "Geschlecht": "",
+    "Titel": null,
+    "Funktionsbezeichnung": null
   },
   "322": {
     "id": 322,
@@ -6883,7 +7507,9 @@
     "img_source": "commonsMedia",
     "birth_date_written": "",
     "death_date_written": "",
-    "Geschlecht": ""
+    "Geschlecht": "",
+    "Titel": null,
+    "Funktionsbezeichnung": null
   },
   "323": {
     "id": 323,
@@ -6905,7 +7531,9 @@
     "img_source": "commonsMedia",
     "birth_date_written": "",
     "death_date_written": "",
-    "Geschlecht": ""
+    "Geschlecht": "",
+    "Titel": null,
+    "Funktionsbezeichnung": null
   },
   "324": {
     "id": 324,
@@ -6927,7 +7555,9 @@
     "img_source": "",
     "birth_date_written": "",
     "death_date_written": "",
-    "Geschlecht": ""
+    "Geschlecht": "",
+    "Titel": null,
+    "Funktionsbezeichnung": null
   },
   "325": {
     "id": 325,
@@ -6949,7 +7579,9 @@
     "img_source": "",
     "birth_date_written": "",
     "death_date_written": "",
-    "Geschlecht": ""
+    "Geschlecht": "",
+    "Titel": null,
+    "Funktionsbezeichnung": null
   },
   "326": {
     "id": 326,
@@ -6971,7 +7603,9 @@
     "img_source": "",
     "birth_date_written": "",
     "death_date_written": "",
-    "Geschlecht": ""
+    "Geschlecht": "",
+    "Titel": null,
+    "Funktionsbezeichnung": null
   },
   "327": {
     "id": 327,
@@ -6993,7 +7627,9 @@
     "img_source": "",
     "birth_date_written": "",
     "death_date_written": "",
-    "Geschlecht": ""
+    "Geschlecht": "",
+    "Titel": null,
+    "Funktionsbezeichnung": null
   },
   "328": {
     "id": 328,
@@ -7015,7 +7651,9 @@
     "img_source": "",
     "birth_date_written": "",
     "death_date_written": "nach 1680",
-    "Geschlecht": ""
+    "Geschlecht": "",
+    "Titel": null,
+    "Funktionsbezeichnung": null
   },
   "329": {
     "id": 329,
@@ -7037,7 +7675,9 @@
     "img_source": "commonsMedia",
     "birth_date_written": "",
     "death_date_written": "",
-    "Geschlecht": ""
+    "Geschlecht": "",
+    "Titel": null,
+    "Funktionsbezeichnung": null
   },
   "330": {
     "id": 330,
@@ -7059,7 +7699,9 @@
     "img_source": "",
     "birth_date_written": "",
     "death_date_written": "",
-    "Geschlecht": ""
+    "Geschlecht": "",
+    "Titel": null,
+    "Funktionsbezeichnung": null
   },
   "331": {
     "id": 331,
@@ -7081,7 +7723,9 @@
     "img_source": "",
     "birth_date_written": "",
     "death_date_written": "",
-    "Geschlecht": ""
+    "Geschlecht": "",
+    "Titel": null,
+    "Funktionsbezeichnung": null
   },
   "332": {
     "id": 332,
@@ -7103,7 +7747,9 @@
     "img_source": "",
     "birth_date_written": "",
     "death_date_written": "",
-    "Geschlecht": ""
+    "Geschlecht": "",
+    "Titel": null,
+    "Funktionsbezeichnung": null
   },
   "333": {
     "id": 333,
@@ -7125,7 +7771,9 @@
     "img_source": "",
     "birth_date_written": "",
     "death_date_written": "",
-    "Geschlecht": ""
+    "Geschlecht": "",
+    "Titel": null,
+    "Funktionsbezeichnung": null
   },
   "334": {
     "id": 334,
@@ -7147,7 +7795,9 @@
     "img_source": "",
     "birth_date_written": "",
     "death_date_written": "",
-    "Geschlecht": ""
+    "Geschlecht": "",
+    "Titel": null,
+    "Funktionsbezeichnung": null
   },
   "335": {
     "id": 335,
@@ -7169,7 +7819,9 @@
     "img_source": "",
     "birth_date_written": "",
     "death_date_written": "",
-    "Geschlecht": ""
+    "Geschlecht": "",
+    "Titel": null,
+    "Funktionsbezeichnung": null
   },
   "336": {
     "id": 336,
@@ -7191,7 +7843,9 @@
     "img_source": "",
     "birth_date_written": "um 1640",
     "death_date_written": "",
-    "Geschlecht": ""
+    "Geschlecht": "",
+    "Titel": null,
+    "Funktionsbezeichnung": null
   },
   "337": {
     "id": 337,
@@ -7213,7 +7867,9 @@
     "img_source": "",
     "birth_date_written": "",
     "death_date_written": "",
-    "Geschlecht": ""
+    "Geschlecht": "",
+    "Titel": null,
+    "Funktionsbezeichnung": null
   },
   "338": {
     "id": 338,
@@ -7235,7 +7891,9 @@
     "img_source": "",
     "birth_date_written": "",
     "death_date_written": "",
-    "Geschlecht": ""
+    "Geschlecht": "",
+    "Titel": null,
+    "Funktionsbezeichnung": null
   },
   "339": {
     "id": 339,
@@ -7257,7 +7915,9 @@
     "img_source": "",
     "birth_date_written": "",
     "death_date_written": "",
-    "Geschlecht": ""
+    "Geschlecht": "",
+    "Titel": null,
+    "Funktionsbezeichnung": null
   },
   "340": {
     "id": 340,
@@ -7279,7 +7939,9 @@
     "img_source": "commonsMedia",
     "birth_date_written": "",
     "death_date_written": "",
-    "Geschlecht": ""
+    "Geschlecht": "",
+    "Titel": null,
+    "Funktionsbezeichnung": null
   },
   "341": {
     "id": 341,
@@ -7301,7 +7963,9 @@
     "img_source": "commonsMedia",
     "birth_date_written": "",
     "death_date_written": "",
-    "Geschlecht": ""
+    "Geschlecht": "",
+    "Titel": null,
+    "Funktionsbezeichnung": null
   },
   "343": {
     "id": 343,
@@ -7323,7 +7987,9 @@
     "img_source": "",
     "birth_date_written": "",
     "death_date_written": "",
-    "Geschlecht": ""
+    "Geschlecht": "",
+    "Titel": null,
+    "Funktionsbezeichnung": null
   },
   "344": {
     "id": 344,
@@ -7345,7 +8011,9 @@
     "img_source": "",
     "birth_date_written": "",
     "death_date_written": "",
-    "Geschlecht": ""
+    "Geschlecht": "",
+    "Titel": null,
+    "Funktionsbezeichnung": null
   },
   "345": {
     "id": 345,
@@ -7367,7 +8035,9 @@
     "img_source": "",
     "birth_date_written": "",
     "death_date_written": "",
-    "Geschlecht": ""
+    "Geschlecht": "",
+    "Titel": null,
+    "Funktionsbezeichnung": null
   },
   "346": {
     "id": 346,
@@ -7389,7 +8059,9 @@
     "img_source": "",
     "birth_date_written": "",
     "death_date_written": "",
-    "Geschlecht": ""
+    "Geschlecht": "",
+    "Titel": null,
+    "Funktionsbezeichnung": null
   },
   "347": {
     "id": 347,
@@ -7411,7 +8083,9 @@
     "img_source": "",
     "birth_date_written": "",
     "death_date_written": "",
-    "Geschlecht": ""
+    "Geschlecht": "",
+    "Titel": null,
+    "Funktionsbezeichnung": null
   },
   "348": {
     "id": 348,
@@ -7433,7 +8107,9 @@
     "img_source": "",
     "birth_date_written": "",
     "death_date_written": "",
-    "Geschlecht": ""
+    "Geschlecht": "",
+    "Titel": null,
+    "Funktionsbezeichnung": null
   },
   "349": {
     "id": 349,
@@ -7455,7 +8131,9 @@
     "img_source": "",
     "birth_date_written": "",
     "death_date_written": "",
-    "Geschlecht": ""
+    "Geschlecht": "",
+    "Titel": null,
+    "Funktionsbezeichnung": null
   },
   "350": {
     "id": 350,
@@ -7477,7 +8155,9 @@
     "img_source": "commonsMedia",
     "birth_date_written": "",
     "death_date_written": "",
-    "Geschlecht": ""
+    "Geschlecht": "",
+    "Titel": null,
+    "Funktionsbezeichnung": null
   },
   "351": {
     "id": 351,
@@ -7499,7 +8179,9 @@
     "img_source": "",
     "birth_date_written": "",
     "death_date_written": "",
-    "Geschlecht": ""
+    "Geschlecht": "",
+    "Titel": null,
+    "Funktionsbezeichnung": null
   },
   "352": {
     "id": 352,
@@ -7521,7 +8203,9 @@
     "img_source": "",
     "birth_date_written": "",
     "death_date_written": "",
-    "Geschlecht": ""
+    "Geschlecht": "",
+    "Titel": null,
+    "Funktionsbezeichnung": null
   },
   "354": {
     "id": 354,
@@ -7543,7 +8227,9 @@
     "img_source": "",
     "birth_date_written": "",
     "death_date_written": "",
-    "Geschlecht": ""
+    "Geschlecht": "",
+    "Titel": null,
+    "Funktionsbezeichnung": null
   },
   "355": {
     "id": 355,
@@ -7565,7 +8251,9 @@
     "img_source": "",
     "birth_date_written": "",
     "death_date_written": "",
-    "Geschlecht": ""
+    "Geschlecht": "",
+    "Titel": null,
+    "Funktionsbezeichnung": null
   },
   "356": {
     "id": 356,
@@ -7587,7 +8275,9 @@
     "img_source": "",
     "birth_date_written": "",
     "death_date_written": "",
-    "Geschlecht": ""
+    "Geschlecht": "",
+    "Titel": null,
+    "Funktionsbezeichnung": null
   },
   "357": {
     "id": 357,
@@ -7609,7 +8299,9 @@
     "img_source": "",
     "birth_date_written": "",
     "death_date_written": "",
-    "Geschlecht": ""
+    "Geschlecht": "",
+    "Titel": null,
+    "Funktionsbezeichnung": null
   },
   "358": {
     "id": 358,
@@ -7631,7 +8323,9 @@
     "img_source": "",
     "birth_date_written": "",
     "death_date_written": "",
-    "Geschlecht": ""
+    "Geschlecht": "",
+    "Titel": null,
+    "Funktionsbezeichnung": null
   },
   "359": {
     "id": 359,
@@ -7653,7 +8347,9 @@
     "img_source": "commonsMedia",
     "birth_date_written": "",
     "death_date_written": "",
-    "Geschlecht": ""
+    "Geschlecht": "",
+    "Titel": null,
+    "Funktionsbezeichnung": null
   },
   "360": {
     "id": 360,
@@ -7675,7 +8371,9 @@
     "img_source": "",
     "birth_date_written": "",
     "death_date_written": "",
-    "Geschlecht": ""
+    "Geschlecht": "",
+    "Titel": null,
+    "Funktionsbezeichnung": null
   },
   "361": {
     "id": 361,
@@ -7697,7 +8395,9 @@
     "img_source": "",
     "birth_date_written": "",
     "death_date_written": "",
-    "Geschlecht": ""
+    "Geschlecht": "",
+    "Titel": null,
+    "Funktionsbezeichnung": null
   },
   "362": {
     "id": 362,
@@ -7719,7 +8419,9 @@
     "img_source": "",
     "birth_date_written": "1627/32",
     "death_date_written": "",
-    "Geschlecht": ""
+    "Geschlecht": "",
+    "Titel": null,
+    "Funktionsbezeichnung": null
   },
   "363": {
     "id": 363,
@@ -7741,7 +8443,9 @@
     "img_source": "",
     "birth_date_written": "",
     "death_date_written": "",
-    "Geschlecht": ""
+    "Geschlecht": "",
+    "Titel": null,
+    "Funktionsbezeichnung": null
   },
   "364": {
     "id": 364,
@@ -7763,7 +8467,9 @@
     "img_source": "commonsMedia",
     "birth_date_written": "",
     "death_date_written": "",
-    "Geschlecht": ""
+    "Geschlecht": "",
+    "Titel": null,
+    "Funktionsbezeichnung": null
   },
   "365": {
     "id": 365,
@@ -7785,7 +8491,9 @@
     "img_source": "",
     "birth_date_written": "",
     "death_date_written": "",
-    "Geschlecht": ""
+    "Geschlecht": "",
+    "Titel": null,
+    "Funktionsbezeichnung": null
   },
   "366": {
     "id": 366,
@@ -7807,7 +8515,9 @@
     "img_source": "",
     "birth_date_written": "",
     "death_date_written": "",
-    "Geschlecht": ""
+    "Geschlecht": "",
+    "Titel": null,
+    "Funktionsbezeichnung": null
   },
   "367": {
     "id": 367,
@@ -7829,7 +8539,9 @@
     "img_source": "",
     "birth_date_written": "",
     "death_date_written": "",
-    "Geschlecht": ""
+    "Geschlecht": "",
+    "Titel": null,
+    "Funktionsbezeichnung": null
   },
   "368": {
     "id": 368,
@@ -7851,7 +8563,9 @@
     "img_source": "commonsMedia",
     "birth_date_written": "",
     "death_date_written": "",
-    "Geschlecht": ""
+    "Geschlecht": "",
+    "Titel": null,
+    "Funktionsbezeichnung": null
   },
   "369": {
     "id": 369,
@@ -7873,7 +8587,9 @@
     "img_source": "commonsMedia",
     "birth_date_written": "",
     "death_date_written": "",
-    "Geschlecht": ""
+    "Geschlecht": "",
+    "Titel": null,
+    "Funktionsbezeichnung": null
   },
   "370": {
     "id": 370,
@@ -7895,7 +8611,9 @@
     "img_source": "commonsMedia",
     "birth_date_written": "",
     "death_date_written": "",
-    "Geschlecht": ""
+    "Geschlecht": "",
+    "Titel": null,
+    "Funktionsbezeichnung": null
   },
   "371": {
     "id": 371,
@@ -7917,7 +8635,9 @@
     "img_source": "",
     "birth_date_written": "",
     "death_date_written": "",
-    "Geschlecht": ""
+    "Geschlecht": "",
+    "Titel": null,
+    "Funktionsbezeichnung": null
   },
   "372": {
     "id": 372,
@@ -7939,7 +8659,9 @@
     "img_source": "",
     "birth_date_written": "",
     "death_date_written": "",
-    "Geschlecht": ""
+    "Geschlecht": "",
+    "Titel": null,
+    "Funktionsbezeichnung": null
   },
   "373": {
     "id": 373,
@@ -7961,7 +8683,9 @@
     "img_source": "commonsMedia",
     "birth_date_written": "",
     "death_date_written": "",
-    "Geschlecht": ""
+    "Geschlecht": "",
+    "Titel": null,
+    "Funktionsbezeichnung": null
   },
   "374": {
     "id": 374,
@@ -7983,7 +8707,9 @@
     "img_source": "",
     "birth_date_written": "",
     "death_date_written": "",
-    "Geschlecht": ""
+    "Geschlecht": "",
+    "Titel": null,
+    "Funktionsbezeichnung": null
   },
   "375": {
     "id": 375,
@@ -8005,7 +8731,9 @@
     "img_source": "",
     "birth_date_written": "",
     "death_date_written": "",
-    "Geschlecht": ""
+    "Geschlecht": "",
+    "Titel": null,
+    "Funktionsbezeichnung": null
   },
   "376": {
     "id": 376,
@@ -8027,7 +8755,9 @@
     "img_source": "",
     "birth_date_written": "",
     "death_date_written": "",
-    "Geschlecht": ""
+    "Geschlecht": "",
+    "Titel": null,
+    "Funktionsbezeichnung": null
   },
   "377": {
     "id": 377,
@@ -8049,7 +8779,9 @@
     "img_source": "",
     "birth_date_written": "",
     "death_date_written": "",
-    "Geschlecht": ""
+    "Geschlecht": "",
+    "Titel": null,
+    "Funktionsbezeichnung": null
   },
   "378": {
     "id": 378,
@@ -8071,7 +8803,9 @@
     "img_source": "commonsMedia",
     "birth_date_written": "",
     "death_date_written": "",
-    "Geschlecht": ""
+    "Geschlecht": "",
+    "Titel": null,
+    "Funktionsbezeichnung": null
   },
   "379": {
     "id": 379,
@@ -8093,7 +8827,9 @@
     "img_source": "commonsMedia",
     "birth_date_written": "",
     "death_date_written": "",
-    "Geschlecht": ""
+    "Geschlecht": "",
+    "Titel": null,
+    "Funktionsbezeichnung": null
   },
   "380": {
     "id": 380,
@@ -8115,7 +8851,9 @@
     "img_source": "",
     "birth_date_written": "",
     "death_date_written": "",
-    "Geschlecht": ""
+    "Geschlecht": "",
+    "Titel": null,
+    "Funktionsbezeichnung": null
   },
   "381": {
     "id": 381,
@@ -8137,7 +8875,9 @@
     "img_source": "",
     "birth_date_written": "",
     "death_date_written": "",
-    "Geschlecht": ""
+    "Geschlecht": "",
+    "Titel": null,
+    "Funktionsbezeichnung": null
   },
   "382": {
     "id": 382,
@@ -8159,7 +8899,9 @@
     "img_source": "",
     "birth_date_written": "",
     "death_date_written": "",
-    "Geschlecht": ""
+    "Geschlecht": "",
+    "Titel": null,
+    "Funktionsbezeichnung": null
   },
   "383": {
     "id": 383,
@@ -8181,7 +8923,9 @@
     "img_source": "",
     "birth_date_written": "",
     "death_date_written": "",
-    "Geschlecht": ""
+    "Geschlecht": "",
+    "Titel": null,
+    "Funktionsbezeichnung": null
   },
   "384": {
     "id": 384,
@@ -8203,7 +8947,9 @@
     "img_source": "",
     "birth_date_written": "",
     "death_date_written": "",
-    "Geschlecht": ""
+    "Geschlecht": "",
+    "Titel": null,
+    "Funktionsbezeichnung": null
   },
   "385": {
     "id": 385,
@@ -8225,7 +8971,9 @@
     "img_source": "commonsMedia",
     "birth_date_written": "",
     "death_date_written": "",
-    "Geschlecht": ""
+    "Geschlecht": "",
+    "Titel": null,
+    "Funktionsbezeichnung": null
   },
   "386": {
     "id": 386,
@@ -8247,7 +8995,9 @@
     "img_source": "",
     "birth_date_written": "",
     "death_date_written": "",
-    "Geschlecht": ""
+    "Geschlecht": "",
+    "Titel": null,
+    "Funktionsbezeichnung": null
   },
   "387": {
     "id": 387,
@@ -8269,7 +9019,9 @@
     "img_source": "",
     "birth_date_written": "",
     "death_date_written": "",
-    "Geschlecht": ""
+    "Geschlecht": "",
+    "Titel": null,
+    "Funktionsbezeichnung": null
   },
   "388": {
     "id": 388,
@@ -8291,7 +9043,9 @@
     "img_source": "commonsMedia",
     "birth_date_written": "",
     "death_date_written": "",
-    "Geschlecht": ""
+    "Geschlecht": "",
+    "Titel": null,
+    "Funktionsbezeichnung": null
   },
   "389": {
     "id": 389,
@@ -8313,7 +9067,9 @@
     "img_source": "",
     "birth_date_written": "",
     "death_date_written": "",
-    "Geschlecht": ""
+    "Geschlecht": "",
+    "Titel": null,
+    "Funktionsbezeichnung": null
   },
   "390": {
     "id": 390,
@@ -8335,7 +9091,9 @@
     "img_source": "",
     "birth_date_written": "",
     "death_date_written": "",
-    "Geschlecht": ""
+    "Geschlecht": "",
+    "Titel": null,
+    "Funktionsbezeichnung": null
   },
   "391": {
     "id": 391,
@@ -8357,7 +9115,9 @@
     "img_source": "",
     "birth_date_written": "",
     "death_date_written": "",
-    "Geschlecht": ""
+    "Geschlecht": "",
+    "Titel": null,
+    "Funktionsbezeichnung": null
   },
   "392": {
     "id": 392,
@@ -8379,7 +9139,9 @@
     "img_source": "commonsMedia",
     "birth_date_written": "",
     "death_date_written": "",
-    "Geschlecht": ""
+    "Geschlecht": "",
+    "Titel": null,
+    "Funktionsbezeichnung": null
   },
   "393": {
     "id": 393,
@@ -8401,7 +9163,9 @@
     "img_source": "commonsMedia",
     "birth_date_written": "",
     "death_date_written": "",
-    "Geschlecht": ""
+    "Geschlecht": "",
+    "Titel": null,
+    "Funktionsbezeichnung": null
   },
   "394": {
     "id": 394,
@@ -8423,7 +9187,9 @@
     "img_source": "",
     "birth_date_written": "",
     "death_date_written": "",
-    "Geschlecht": ""
+    "Geschlecht": "",
+    "Titel": null,
+    "Funktionsbezeichnung": null
   },
   "395": {
     "id": 395,
@@ -8445,7 +9211,9 @@
     "img_source": "",
     "birth_date_written": "",
     "death_date_written": "",
-    "Geschlecht": ""
+    "Geschlecht": "",
+    "Titel": null,
+    "Funktionsbezeichnung": null
   },
   "396": {
     "id": 396,
@@ -8467,7 +9235,9 @@
     "img_source": "",
     "birth_date_written": "",
     "death_date_written": "",
-    "Geschlecht": ""
+    "Geschlecht": "",
+    "Titel": null,
+    "Funktionsbezeichnung": null
   },
   "397": {
     "id": 397,
@@ -8489,7 +9259,9 @@
     "img_source": "",
     "birth_date_written": "",
     "death_date_written": "",
-    "Geschlecht": ""
+    "Geschlecht": "",
+    "Titel": null,
+    "Funktionsbezeichnung": null
   },
   "398": {
     "id": 398,
@@ -8511,7 +9283,9 @@
     "img_source": "",
     "birth_date_written": "",
     "death_date_written": "",
-    "Geschlecht": ""
+    "Geschlecht": "",
+    "Titel": null,
+    "Funktionsbezeichnung": null
   },
   "399": {
     "id": 399,
@@ -8533,7 +9307,9 @@
     "img_source": "",
     "birth_date_written": "",
     "death_date_written": "",
-    "Geschlecht": ""
+    "Geschlecht": "",
+    "Titel": null,
+    "Funktionsbezeichnung": null
   },
   "400": {
     "id": 400,
@@ -8555,7 +9331,9 @@
     "img_source": "",
     "birth_date_written": "",
     "death_date_written": "",
-    "Geschlecht": ""
+    "Geschlecht": "",
+    "Titel": null,
+    "Funktionsbezeichnung": null
   },
   "401": {
     "id": 401,
@@ -8577,7 +9355,9 @@
     "img_source": "commonsMedia",
     "birth_date_written": "",
     "death_date_written": "",
-    "Geschlecht": ""
+    "Geschlecht": "",
+    "Titel": null,
+    "Funktionsbezeichnung": null
   },
   "402": {
     "id": 402,
@@ -8599,7 +9379,9 @@
     "img_source": "",
     "birth_date_written": "",
     "death_date_written": "",
-    "Geschlecht": ""
+    "Geschlecht": "",
+    "Titel": null,
+    "Funktionsbezeichnung": null
   },
   "403": {
     "id": 403,
@@ -8621,7 +9403,9 @@
     "img_source": "commonsMedia",
     "birth_date_written": "",
     "death_date_written": "",
-    "Geschlecht": ""
+    "Geschlecht": "",
+    "Titel": null,
+    "Funktionsbezeichnung": null
   },
   "404": {
     "id": 404,
@@ -8643,7 +9427,9 @@
     "img_source": "",
     "birth_date_written": "",
     "death_date_written": "",
-    "Geschlecht": ""
+    "Geschlecht": "",
+    "Titel": null,
+    "Funktionsbezeichnung": null
   },
   "405": {
     "id": 405,
@@ -8665,7 +9451,9 @@
     "img_source": "commonsMedia",
     "birth_date_written": "",
     "death_date_written": "",
-    "Geschlecht": ""
+    "Geschlecht": "",
+    "Titel": null,
+    "Funktionsbezeichnung": null
   },
   "406": {
     "id": 406,
@@ -8687,7 +9475,9 @@
     "img_source": "",
     "birth_date_written": "",
     "death_date_written": "",
-    "Geschlecht": ""
+    "Geschlecht": "",
+    "Titel": null,
+    "Funktionsbezeichnung": null
   },
   "407": {
     "id": 407,
@@ -8709,7 +9499,9 @@
     "img_source": "",
     "birth_date_written": "",
     "death_date_written": "",
-    "Geschlecht": ""
+    "Geschlecht": "",
+    "Titel": null,
+    "Funktionsbezeichnung": null
   },
   "408": {
     "id": 408,
@@ -8731,7 +9523,9 @@
     "img_source": "",
     "birth_date_written": "",
     "death_date_written": "",
-    "Geschlecht": ""
+    "Geschlecht": "",
+    "Titel": null,
+    "Funktionsbezeichnung": null
   },
   "409": {
     "id": 409,
@@ -8753,7 +9547,9 @@
     "img_source": "",
     "birth_date_written": "",
     "death_date_written": "",
-    "Geschlecht": ""
+    "Geschlecht": "",
+    "Titel": null,
+    "Funktionsbezeichnung": null
   },
   "410": {
     "id": 410,
@@ -8775,7 +9571,9 @@
     "img_source": "commonsMedia",
     "birth_date_written": "",
     "death_date_written": "",
-    "Geschlecht": ""
+    "Geschlecht": "",
+    "Titel": null,
+    "Funktionsbezeichnung": null
   },
   "411": {
     "id": 411,
@@ -8797,7 +9595,9 @@
     "img_source": "",
     "birth_date_written": "",
     "death_date_written": "",
-    "Geschlecht": ""
+    "Geschlecht": "",
+    "Titel": null,
+    "Funktionsbezeichnung": null
   },
   "412": {
     "id": 412,
@@ -8819,7 +9619,9 @@
     "img_source": "",
     "birth_date_written": "",
     "death_date_written": "",
-    "Geschlecht": ""
+    "Geschlecht": "",
+    "Titel": null,
+    "Funktionsbezeichnung": null
   },
   "413": {
     "id": 413,
@@ -8841,7 +9643,9 @@
     "img_source": "",
     "birth_date_written": "",
     "death_date_written": "",
-    "Geschlecht": ""
+    "Geschlecht": "",
+    "Titel": null,
+    "Funktionsbezeichnung": null
   },
   "414": {
     "id": 414,
@@ -8863,7 +9667,9 @@
     "img_source": "commonsMedia",
     "birth_date_written": "",
     "death_date_written": "",
-    "Geschlecht": ""
+    "Geschlecht": "",
+    "Titel": null,
+    "Funktionsbezeichnung": null
   },
   "415": {
     "id": 415,
@@ -8885,7 +9691,9 @@
     "img_source": "",
     "birth_date_written": "",
     "death_date_written": "",
-    "Geschlecht": ""
+    "Geschlecht": "",
+    "Titel": null,
+    "Funktionsbezeichnung": null
   },
   "416": {
     "id": 416,
@@ -8907,6 +9715,8 @@
     "img_source": "",
     "birth_date_written": "",
     "death_date_written": "",
-    "Geschlecht": ""
+    "Geschlecht": "",
+    "Titel": null,
+    "Funktionsbezeichnung": null
   }
 }

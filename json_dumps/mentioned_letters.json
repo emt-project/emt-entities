@@ -8,13 +8,15 @@
     "sender": [
       {
         "id": 9,
-        "value": "Kaiserin Eleonora Magdalena, geb. Pfalz-Neuburg"
+        "value": "Kaiserin Eleonora Magdalena, geb. Pfalz-Neuburg",
+        "order": "9.00000000000000000000"
       }
     ],
     "receiver": [
       {
         "id": 50,
-        "value": "Philipp Wilhelm von Pfalz-Neuburg, Kurfürst von der Pfalz"
+        "value": "Philipp Wilhelm von Pfalz-Neuburg, Kurfürst von der Pfalz",
+        "order": "50.00000000000000000000"
       }
     ]
   },
@@ -27,13 +29,15 @@
     "sender": [
       {
         "id": 9,
-        "value": "Kaiserin Eleonora Magdalena, geb. Pfalz-Neuburg"
+        "value": "Kaiserin Eleonora Magdalena, geb. Pfalz-Neuburg",
+        "order": "9.00000000000000000000"
       }
     ],
     "receiver": [
       {
         "id": 10,
-        "value": "Elisabeth Amalie von Pfalz-Neuburg, geb. Hessen-Darmstadt"
+        "value": "Elisabeth Amalie von Pfalz-Neuburg, geb. Hessen-Darmstadt",
+        "order": "10.00000000000000000000"
       }
     ]
   },
@@ -46,13 +50,15 @@
     "sender": [
       {
         "id": 9,
-        "value": "Kaiserin Eleonora Magdalena, geb. Pfalz-Neuburg"
+        "value": "Kaiserin Eleonora Magdalena, geb. Pfalz-Neuburg",
+        "order": "9.00000000000000000000"
       }
     ],
     "receiver": [
       {
         "id": 10,
-        "value": "Elisabeth Amalie von Pfalz-Neuburg, geb. Hessen-Darmstadt"
+        "value": "Elisabeth Amalie von Pfalz-Neuburg, geb. Hessen-Darmstadt",
+        "order": "10.00000000000000000000"
       }
     ]
   },
@@ -61,17 +67,19 @@
     "order": "4.00000000000000000000",
     "emt_id": "emt_letter_id__5",
     "not_before": "1688-10-17",
-    "date_written": "17. Okotber 1688",
+    "date_written": "17. Oktober 1688",
     "sender": [
       {
         "id": 9,
-        "value": "Kaiserin Eleonora Magdalena, geb. Pfalz-Neuburg"
+        "value": "Kaiserin Eleonora Magdalena, geb. Pfalz-Neuburg",
+        "order": "9.00000000000000000000"
       }
     ],
     "receiver": [
       {
         "id": 10,
-        "value": "Elisabeth Amalie von Pfalz-Neuburg, geb. Hessen-Darmstadt"
+        "value": "Elisabeth Amalie von Pfalz-Neuburg, geb. Hessen-Darmstadt",
+        "order": "10.00000000000000000000"
       }
     ]
   },
@@ -84,13 +92,15 @@
     "sender": [
       {
         "id": 9,
-        "value": "Kaiserin Eleonora Magdalena, geb. Pfalz-Neuburg"
+        "value": "Kaiserin Eleonora Magdalena, geb. Pfalz-Neuburg",
+        "order": "9.00000000000000000000"
       }
     ],
     "receiver": [
       {
         "id": 18,
-        "value": "Johann Wilhelm von Pfalz-Neuburg, Kurfürst von der Pfalz"
+        "value": "Johann Wilhelm von Pfalz-Neuburg, Kurfürst von der Pfalz",
+        "order": "18.00000000000000000000"
       }
     ]
   },
@@ -103,13 +113,15 @@
     "sender": [
       {
         "id": 9,
-        "value": "Kaiserin Eleonora Magdalena, geb. Pfalz-Neuburg"
+        "value": "Kaiserin Eleonora Magdalena, geb. Pfalz-Neuburg",
+        "order": "9.00000000000000000000"
       }
     ],
     "receiver": [
       {
         "id": 18,
-        "value": "Johann Wilhelm von Pfalz-Neuburg, Kurfürst von der Pfalz"
+        "value": "Johann Wilhelm von Pfalz-Neuburg, Kurfürst von der Pfalz",
+        "order": "18.00000000000000000000"
       }
     ]
   },
@@ -122,13 +134,15 @@
     "sender": [
       {
         "id": 9,
-        "value": "Kaiserin Eleonora Magdalena, geb. Pfalz-Neuburg"
+        "value": "Kaiserin Eleonora Magdalena, geb. Pfalz-Neuburg",
+        "order": "9.00000000000000000000"
       }
     ],
     "receiver": [
       {
         "id": 18,
-        "value": "Johann Wilhelm von Pfalz-Neuburg, Kurfürst von der Pfalz"
+        "value": "Johann Wilhelm von Pfalz-Neuburg, Kurfürst von der Pfalz",
+        "order": "18.00000000000000000000"
       }
     ]
   },
@@ -141,13 +155,15 @@
     "sender": [
       {
         "id": 9,
-        "value": "Kaiserin Eleonora Magdalena, geb. Pfalz-Neuburg"
+        "value": "Kaiserin Eleonora Magdalena, geb. Pfalz-Neuburg",
+        "order": "9.00000000000000000000"
       }
     ],
     "receiver": [
       {
         "id": 18,
-        "value": "Johann Wilhelm von Pfalz-Neuburg, Kurfürst von der Pfalz"
+        "value": "Johann Wilhelm von Pfalz-Neuburg, Kurfürst von der Pfalz",
+        "order": "18.00000000000000000000"
       }
     ]
   },
@@ -160,13 +176,15 @@
     "sender": [
       {
         "id": 9,
-        "value": "Kaiserin Eleonora Magdalena, geb. Pfalz-Neuburg"
+        "value": "Kaiserin Eleonora Magdalena, geb. Pfalz-Neuburg",
+        "order": "9.00000000000000000000"
       }
     ],
     "receiver": [
       {
         "id": 18,
-        "value": "Johann Wilhelm von Pfalz-Neuburg, Kurfürst von der Pfalz"
+        "value": "Johann Wilhelm von Pfalz-Neuburg, Kurfürst von der Pfalz",
+        "order": "18.00000000000000000000"
       }
     ]
   },
@@ -179,13 +197,15 @@
     "sender": [
       {
         "id": 9,
-        "value": "Kaiserin Eleonora Magdalena, geb. Pfalz-Neuburg"
+        "value": "Kaiserin Eleonora Magdalena, geb. Pfalz-Neuburg",
+        "order": "9.00000000000000000000"
       }
     ],
     "receiver": [
       {
         "id": 18,
-        "value": "Johann Wilhelm von Pfalz-Neuburg, Kurfürst von der Pfalz"
+        "value": "Johann Wilhelm von Pfalz-Neuburg, Kurfürst von der Pfalz",
+        "order": "18.00000000000000000000"
       }
     ]
   },
@@ -198,13 +218,15 @@
     "sender": [
       {
         "id": 9,
-        "value": "Kaiserin Eleonora Magdalena, geb. Pfalz-Neuburg"
+        "value": "Kaiserin Eleonora Magdalena, geb. Pfalz-Neuburg",
+        "order": "9.00000000000000000000"
       }
     ],
     "receiver": [
       {
         "id": 18,
-        "value": "Johann Wilhelm von Pfalz-Neuburg, Kurfürst von der Pfalz"
+        "value": "Johann Wilhelm von Pfalz-Neuburg, Kurfürst von der Pfalz",
+        "order": "18.00000000000000000000"
       }
     ]
   },
@@ -217,13 +239,15 @@
     "sender": [
       {
         "id": 9,
-        "value": "Kaiserin Eleonora Magdalena, geb. Pfalz-Neuburg"
+        "value": "Kaiserin Eleonora Magdalena, geb. Pfalz-Neuburg",
+        "order": "9.00000000000000000000"
       }
     ],
     "receiver": [
       {
         "id": 18,
-        "value": "Johann Wilhelm von Pfalz-Neuburg, Kurfürst von der Pfalz"
+        "value": "Johann Wilhelm von Pfalz-Neuburg, Kurfürst von der Pfalz",
+        "order": "18.00000000000000000000"
       }
     ]
   },
@@ -236,13 +260,15 @@
     "sender": [
       {
         "id": 18,
-        "value": "Johann Wilhelm von Pfalz-Neuburg, Kurfürst von der Pfalz"
+        "value": "Johann Wilhelm von Pfalz-Neuburg, Kurfürst von der Pfalz",
+        "order": "18.00000000000000000000"
       }
     ],
     "receiver": [
       {
         "id": 9,
-        "value": "Kaiserin Eleonora Magdalena, geb. Pfalz-Neuburg"
+        "value": "Kaiserin Eleonora Magdalena, geb. Pfalz-Neuburg",
+        "order": "9.00000000000000000000"
       }
     ]
   },
@@ -255,13 +281,15 @@
     "sender": [
       {
         "id": 9,
-        "value": "Kaiserin Eleonora Magdalena, geb. Pfalz-Neuburg"
+        "value": "Kaiserin Eleonora Magdalena, geb. Pfalz-Neuburg",
+        "order": "9.00000000000000000000"
       }
     ],
     "receiver": [
       {
         "id": 18,
-        "value": "Johann Wilhelm von Pfalz-Neuburg, Kurfürst von der Pfalz"
+        "value": "Johann Wilhelm von Pfalz-Neuburg, Kurfürst von der Pfalz",
+        "order": "18.00000000000000000000"
       }
     ]
   },
@@ -274,13 +302,15 @@
     "sender": [
       {
         "id": 9,
-        "value": "Kaiserin Eleonora Magdalena, geb. Pfalz-Neuburg"
+        "value": "Kaiserin Eleonora Magdalena, geb. Pfalz-Neuburg",
+        "order": "9.00000000000000000000"
       }
     ],
     "receiver": [
       {
         "id": 18,
-        "value": "Johann Wilhelm von Pfalz-Neuburg, Kurfürst von der Pfalz"
+        "value": "Johann Wilhelm von Pfalz-Neuburg, Kurfürst von der Pfalz",
+        "order": "18.00000000000000000000"
       }
     ]
   },
@@ -293,13 +323,15 @@
     "sender": [
       {
         "id": 9,
-        "value": "Kaiserin Eleonora Magdalena, geb. Pfalz-Neuburg"
+        "value": "Kaiserin Eleonora Magdalena, geb. Pfalz-Neuburg",
+        "order": "9.00000000000000000000"
       }
     ],
     "receiver": [
       {
         "id": 18,
-        "value": "Johann Wilhelm von Pfalz-Neuburg, Kurfürst von der Pfalz"
+        "value": "Johann Wilhelm von Pfalz-Neuburg, Kurfürst von der Pfalz",
+        "order": "18.00000000000000000000"
       }
     ]
   },
@@ -312,13 +344,15 @@
     "sender": [
       {
         "id": 9,
-        "value": "Kaiserin Eleonora Magdalena, geb. Pfalz-Neuburg"
+        "value": "Kaiserin Eleonora Magdalena, geb. Pfalz-Neuburg",
+        "order": "9.00000000000000000000"
       }
     ],
     "receiver": [
       {
         "id": 18,
-        "value": "Johann Wilhelm von Pfalz-Neuburg, Kurfürst von der Pfalz"
+        "value": "Johann Wilhelm von Pfalz-Neuburg, Kurfürst von der Pfalz",
+        "order": "18.00000000000000000000"
       }
     ]
   },
@@ -331,13 +365,15 @@
     "sender": [
       {
         "id": 9,
-        "value": "Kaiserin Eleonora Magdalena, geb. Pfalz-Neuburg"
+        "value": "Kaiserin Eleonora Magdalena, geb. Pfalz-Neuburg",
+        "order": "9.00000000000000000000"
       }
     ],
     "receiver": [
       {
         "id": 18,
-        "value": "Johann Wilhelm von Pfalz-Neuburg, Kurfürst von der Pfalz"
+        "value": "Johann Wilhelm von Pfalz-Neuburg, Kurfürst von der Pfalz",
+        "order": "18.00000000000000000000"
       }
     ]
   },
@@ -350,13 +386,15 @@
     "sender": [
       {
         "id": 9,
-        "value": "Kaiserin Eleonora Magdalena, geb. Pfalz-Neuburg"
+        "value": "Kaiserin Eleonora Magdalena, geb. Pfalz-Neuburg",
+        "order": "9.00000000000000000000"
       }
     ],
     "receiver": [
       {
         "id": 18,
-        "value": "Johann Wilhelm von Pfalz-Neuburg, Kurfürst von der Pfalz"
+        "value": "Johann Wilhelm von Pfalz-Neuburg, Kurfürst von der Pfalz",
+        "order": "18.00000000000000000000"
       }
     ]
   },
@@ -369,13 +407,15 @@
     "sender": [
       {
         "id": 18,
-        "value": "Johann Wilhelm von Pfalz-Neuburg, Kurfürst von der Pfalz"
+        "value": "Johann Wilhelm von Pfalz-Neuburg, Kurfürst von der Pfalz",
+        "order": "18.00000000000000000000"
       }
     ],
     "receiver": [
       {
         "id": 9,
-        "value": "Kaiserin Eleonora Magdalena, geb. Pfalz-Neuburg"
+        "value": "Kaiserin Eleonora Magdalena, geb. Pfalz-Neuburg",
+        "order": "9.00000000000000000000"
       }
     ]
   },
@@ -388,13 +428,15 @@
     "sender": [
       {
         "id": 9,
-        "value": "Kaiserin Eleonora Magdalena, geb. Pfalz-Neuburg"
+        "value": "Kaiserin Eleonora Magdalena, geb. Pfalz-Neuburg",
+        "order": "9.00000000000000000000"
       }
     ],
     "receiver": [
       {
         "id": 18,
-        "value": "Johann Wilhelm von Pfalz-Neuburg, Kurfürst von der Pfalz"
+        "value": "Johann Wilhelm von Pfalz-Neuburg, Kurfürst von der Pfalz",
+        "order": "18.00000000000000000000"
       }
     ]
   },
@@ -407,13 +449,15 @@
     "sender": [
       {
         "id": 9,
-        "value": "Kaiserin Eleonora Magdalena, geb. Pfalz-Neuburg"
+        "value": "Kaiserin Eleonora Magdalena, geb. Pfalz-Neuburg",
+        "order": "9.00000000000000000000"
       }
     ],
     "receiver": [
       {
         "id": 18,
-        "value": "Johann Wilhelm von Pfalz-Neuburg, Kurfürst von der Pfalz"
+        "value": "Johann Wilhelm von Pfalz-Neuburg, Kurfürst von der Pfalz",
+        "order": "18.00000000000000000000"
       }
     ]
   },
@@ -426,13 +470,15 @@
     "sender": [
       {
         "id": 9,
-        "value": "Kaiserin Eleonora Magdalena, geb. Pfalz-Neuburg"
+        "value": "Kaiserin Eleonora Magdalena, geb. Pfalz-Neuburg",
+        "order": "9.00000000000000000000"
       }
     ],
     "receiver": [
       {
         "id": 18,
-        "value": "Johann Wilhelm von Pfalz-Neuburg, Kurfürst von der Pfalz"
+        "value": "Johann Wilhelm von Pfalz-Neuburg, Kurfürst von der Pfalz",
+        "order": "18.00000000000000000000"
       }
     ]
   },
@@ -445,13 +491,15 @@
     "sender": [
       {
         "id": 9,
-        "value": "Kaiserin Eleonora Magdalena, geb. Pfalz-Neuburg"
+        "value": "Kaiserin Eleonora Magdalena, geb. Pfalz-Neuburg",
+        "order": "9.00000000000000000000"
       }
     ],
     "receiver": [
       {
         "id": 18,
-        "value": "Johann Wilhelm von Pfalz-Neuburg, Kurfürst von der Pfalz"
+        "value": "Johann Wilhelm von Pfalz-Neuburg, Kurfürst von der Pfalz",
+        "order": "18.00000000000000000000"
       }
     ]
   },
@@ -464,13 +512,15 @@
     "sender": [
       {
         "id": 9,
-        "value": "Kaiserin Eleonora Magdalena, geb. Pfalz-Neuburg"
+        "value": "Kaiserin Eleonora Magdalena, geb. Pfalz-Neuburg",
+        "order": "9.00000000000000000000"
       }
     ],
     "receiver": [
       {
         "id": 18,
-        "value": "Johann Wilhelm von Pfalz-Neuburg, Kurfürst von der Pfalz"
+        "value": "Johann Wilhelm von Pfalz-Neuburg, Kurfürst von der Pfalz",
+        "order": "18.00000000000000000000"
       }
     ]
   },
@@ -483,13 +533,15 @@
     "sender": [
       {
         "id": 9,
-        "value": "Kaiserin Eleonora Magdalena, geb. Pfalz-Neuburg"
+        "value": "Kaiserin Eleonora Magdalena, geb. Pfalz-Neuburg",
+        "order": "9.00000000000000000000"
       }
     ],
     "receiver": [
       {
         "id": 18,
-        "value": "Johann Wilhelm von Pfalz-Neuburg, Kurfürst von der Pfalz"
+        "value": "Johann Wilhelm von Pfalz-Neuburg, Kurfürst von der Pfalz",
+        "order": "18.00000000000000000000"
       }
     ]
   },
@@ -502,13 +554,15 @@
     "sender": [
       {
         "id": 9,
-        "value": "Kaiserin Eleonora Magdalena, geb. Pfalz-Neuburg"
+        "value": "Kaiserin Eleonora Magdalena, geb. Pfalz-Neuburg",
+        "order": "9.00000000000000000000"
       }
     ],
     "receiver": [
       {
         "id": 18,
-        "value": "Johann Wilhelm von Pfalz-Neuburg, Kurfürst von der Pfalz"
+        "value": "Johann Wilhelm von Pfalz-Neuburg, Kurfürst von der Pfalz",
+        "order": "18.00000000000000000000"
       }
     ]
   },
@@ -521,13 +575,15 @@
     "sender": [
       {
         "id": 18,
-        "value": "Johann Wilhelm von Pfalz-Neuburg, Kurfürst von der Pfalz"
+        "value": "Johann Wilhelm von Pfalz-Neuburg, Kurfürst von der Pfalz",
+        "order": "18.00000000000000000000"
       }
     ],
     "receiver": [
       {
         "id": 9,
-        "value": "Kaiserin Eleonora Magdalena, geb. Pfalz-Neuburg"
+        "value": "Kaiserin Eleonora Magdalena, geb. Pfalz-Neuburg",
+        "order": "9.00000000000000000000"
       }
     ]
   },
@@ -540,13 +596,15 @@
     "sender": [
       {
         "id": 9,
-        "value": "Kaiserin Eleonora Magdalena, geb. Pfalz-Neuburg"
+        "value": "Kaiserin Eleonora Magdalena, geb. Pfalz-Neuburg",
+        "order": "9.00000000000000000000"
       }
     ],
     "receiver": [
       {
         "id": 18,
-        "value": "Johann Wilhelm von Pfalz-Neuburg, Kurfürst von der Pfalz"
+        "value": "Johann Wilhelm von Pfalz-Neuburg, Kurfürst von der Pfalz",
+        "order": "18.00000000000000000000"
       }
     ]
   }
