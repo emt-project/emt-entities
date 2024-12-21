@@ -2,7 +2,7 @@
   "2": {
     "id": 2,
     "order": "2.00000000000000000000",
-    "name": "Kaiserin Eleonora, geb. Gonzaga-Nevers",
+    "name": "Eleonora, geb. Gonzaga-Nevers",
     "gnd": "https://d-nb.info/gnd/118883542",
     "other_url": "",
     "emt_id": "emt_person_id__2",
@@ -20,13 +20,13 @@
     "birth_date_written": null,
     "death_date_written": null,
     "Geschlecht": null,
-    "Titel": null,
-    "Funktionsbezeichnung": null
+    "Funktionsbezeichnungen": null,
+    "Titel": "Kaiserin"
   },
   "3": {
     "id": 3,
     "order": "3.00000000000000000000",
-    "name": "Anna Maria Franziska de' Medici, geb. Sachsen-Lauenburg, verw. Pfalz",
+    "name": "Sachsen-Lauenburg, Anna Maria Franziska von, vereh. Pfalz-Neuburg, vereh. de' Medici",
     "gnd": "https://d-nb.info/gnd/119426099",
     "other_url": "",
     "emt_id": "emt_person_id__3",
@@ -44,13 +44,13 @@
     "birth_date_written": null,
     "death_date_written": null,
     "Geschlecht": null,
-    "Titel": null,
-    "Funktionsbezeichnung": null
+    "Funktionsbezeichnungen": null,
+    "Titel": "Herzogin, Großherzogin"
   },
   "4": {
     "id": 4,
     "order": "4.00000000000000000000",
-    "name": "Balthasar Miller SJ",
+    "name": "Miller, Balthasar SJ",
     "gnd": "https://d-nb.info/gnd/138385211",
     "other_url": "",
     "emt_id": "emt_person_id__4",
@@ -68,41 +68,17 @@
     "birth_date_written": null,
     "death_date_written": null,
     "Geschlecht": null,
-    "Titel": null,
-    "Funktionsbezeichnung": null
-  },
-  "5": {
-    "id": 5,
-    "order": "5.00000000000000000000",
-    "name": "Canonico Ecchellense",
-    "gnd": "",
-    "other_url": "",
-    "emt_id": "emt_person_id__5",
-    "internal_comment": null,
-    "color": null,
-    "lebensdaten": null,
-    "ndb": "",
-    "year_of_birth": null,
-    "year_of_death": null,
-    "wikidata_url": "",
-    "wikidata_enriched": false,
-    "img_name": null,
-    "img_fetched": false,
-    "img_source": null,
-    "birth_date_written": null,
-    "death_date_written": null,
-    "Geschlecht": null,
-    "Titel": null,
-    "Funktionsbezeichnung": null
+    "Funktionsbezeichnungen": "Pater, Beichtvater",
+    "Titel": null
   },
   "6": {
     "id": 6,
     "order": "6.00000000000000000000",
-    "name": "D'Olivier",
+    "name": "d'Olivier, NN",
     "gnd": "",
     "other_url": "",
     "emt_id": "emt_person_id__6",
-    "internal_comment": null,
+    "internal_comment": "unidentifiziert",
     "color": null,
     "lebensdaten": null,
     "ndb": "",
@@ -116,13 +92,13 @@
     "birth_date_written": null,
     "death_date_written": null,
     "Geschlecht": null,
-    "Titel": null,
-    "Funktionsbezeichnung": null
+    "Funktionsbezeichnungen": null,
+    "Titel": null
   },
   "7": {
     "id": 7,
     "order": "7.00000000000000000000",
-    "name": "Dominik Andreas von Kaunitz",
+    "name": "Kaunitz, Dominik Andreas von",
     "gnd": "https://d-nb.info/gnd/124899242",
     "other_url": "",
     "emt_id": "emt_person_id__7",
@@ -140,13 +116,13 @@
     "birth_date_written": null,
     "death_date_written": null,
     "Geschlecht": null,
-    "Titel": null,
-    "Funktionsbezeichnung": null
+    "Funktionsbezeichnungen": "Gesandter, Reichsvizekanzler (1696-1705)",
+    "Titel": "Graf"
   },
   "8": {
     "id": 8,
     "order": "8.00000000000000000000",
-    "name": "Dorothea Sophie von Parma, geb. Pfalz-Neuburg",
+    "name": "Pfalz-Neuburg, Dorothea Sophie von, vereh. von Parma",
     "gnd": "https://d-nb.info/gnd/12227671X",
     "other_url": "https://www.treccani.it/enciclopedia/dorotea-sofia-di-neuburg-duchessa-di-parma-e-piacenza_%28Dizionario-Biografico%29/",
     "emt_id": "emt_person_id__8",
@@ -164,13 +140,13 @@
     "birth_date_written": null,
     "death_date_written": null,
     "Geschlecht": null,
-    "Titel": null,
-    "Funktionsbezeichnung": null
+    "Funktionsbezeichnungen": null,
+    "Titel": "Herzogin"
   },
   "9": {
     "id": 9,
     "order": "9.00000000000000000000",
-    "name": "Kaiserin Eleonora Magdalena, geb. Pfalz-Neuburg",
+    "name": "Eleonora Magdalena Theresia, geb. Pfalz-Neuburg",
     "gnd": "https://d-nb.info/gnd/101026641",
     "other_url": "",
     "emt_id": "emt_person_id__9",
@@ -188,13 +164,13 @@
     "birth_date_written": null,
     "death_date_written": null,
     "Geschlecht": null,
-    "Titel": null,
-    "Funktionsbezeichnung": null
+    "Funktionsbezeichnungen": null,
+    "Titel": "Kaiserin"
   },
   "10": {
     "id": 10,
     "order": "10.00000000000000000000",
-    "name": "Elisabeth Amalie von Pfalz-Neuburg, geb. Hessen-Darmstadt",
+    "name": "Pfalz-Neuburg, Elisabeth Amalie von, geb. Hessen-Darmstadt",
     "gnd": "https://d-nb.info/gnd/12890285X",
     "other_url": "",
     "emt_id": "emt_person_id__10",
@@ -212,13 +188,13 @@
     "birth_date_written": null,
     "death_date_written": null,
     "Geschlecht": null,
-    "Titel": "Herzogin, Kurfürstin",
-    "Funktionsbezeichnung": null
+    "Funktionsbezeichnungen": null,
+    "Titel": "Herzogin, Kurfürstin"
   },
   "11": {
     "id": 11,
     "order": "11.00000000000000000000",
-    "name": "Ercole Turinetti de Priè",
+    "name": "Priè, Ercole Turinetti de",
     "gnd": "https://d-nb.info/gnd/1024116751",
     "other_url": "https://www.treccani.it/enciclopedia/ricerca/Ercole%20Turinetti%20de%20Pri%C3%A8/?search=Ercole%20Turinetti%20de%20Pri%C3%A8",
     "emt_id": "emt_person_id__11",
@@ -236,13 +212,13 @@
     "birth_date_written": null,
     "death_date_written": null,
     "Geschlecht": null,
-    "Titel": null,
-    "Funktionsbezeichnung": null
+    "Funktionsbezeichnungen": "Gesandter",
+    "Titel": "Marchese"
   },
   "12": {
     "id": 12,
     "order": "12.00000000000000000000",
-    "name": "Ferdinand August von Lobkowitz",
+    "name": "Lobkowitz, Ferdinand August von",
     "gnd": "https://d-nb.info/gnd/120089874",
     "other_url": "",
     "emt_id": "emt_person_id__12",
@@ -260,13 +236,13 @@
     "birth_date_written": null,
     "death_date_written": null,
     "Geschlecht": null,
-    "Titel": null,
-    "Funktionsbezeichnung": null
+    "Funktionsbezeichnungen": null,
+    "Titel": "Fürst"
   },
   "13": {
     "id": 13,
     "order": "13.00000000000000000000",
-    "name": "Leopold Matthias von Lamberg",
+    "name": "Lamberg, Leopold Matthias von",
     "gnd": "http://d-nb.info/138780889",
     "other_url": "",
     "emt_id": "emt_person_id__13",
@@ -284,13 +260,13 @@
     "birth_date_written": null,
     "death_date_written": "",
     "Geschlecht": null,
-    "Titel": null,
-    "Funktionsbezeichnung": null
+    "Funktionsbezeichnungen": null,
+    "Titel": "Graf, Fürst"
   },
   "14": {
     "id": 14,
     "order": "14.00000000000000000000",
-    "name": "Franziska Sibylla Augusta von Baden-Baden, geb. Sachsen-Lauenburg",
+    "name": "Baden-Baden, Franziska Sibylla Augusta von, geb. Sachsen-Lauenburg",
     "gnd": "https://d-nb.info/gnd/118613871",
     "other_url": "",
     "emt_id": "emt_person_id__14",
@@ -308,13 +284,13 @@
     "birth_date_written": null,
     "death_date_written": null,
     "Geschlecht": null,
-    "Titel": null,
-    "Funktionsbezeichnung": null
+    "Funktionsbezeichnungen": null,
+    "Titel": "Markgräfin"
   },
   "15": {
     "id": 15,
     "order": "15.00000000000000000000",
-    "name": "Friedrich I. von Preußen, Kurfürst von Brandenburg",
+    "name": "Brandenburg-Preußen, Friedrich I. von",
     "gnd": "https://d-nb.info/gnd/118535730",
     "other_url": "",
     "emt_id": "emt_person_id__15",
@@ -332,13 +308,13 @@
     "birth_date_written": null,
     "death_date_written": null,
     "Geschlecht": null,
-    "Titel": null,
-    "Funktionsbezeichnung": null
+    "Funktionsbezeichnungen": null,
+    "Titel": "Kurfürst, König in Preußen"
   },
   "16": {
     "id": 16,
     "order": "16.00000000000000000000",
-    "name": "Friedrich Karl von Schönborn",
+    "name": "Schönborn, Friedrich Karl von",
     "gnd": "https://d-nb.info/gnd/118610058",
     "other_url": "",
     "emt_id": "emt_person_id__16",
@@ -356,13 +332,13 @@
     "birth_date_written": null,
     "death_date_written": null,
     "Geschlecht": null,
-    "Titel": "Graf",
-    "Funktionsbezeichnung": "Reichsvizekanzler, Domherr in Würzburg (1704) und Bamberg (1705), 1729 Bischof von Würzburg und Bamberg"
+    "Funktionsbezeichnungen": "Reichsvizekanzler, Domherr in Würzburg und Bamberg",
+    "Titel": "Graf"
   },
   "17": {
     "id": 17,
     "order": "17.00000000000000000000",
-    "name": "Gottlieb Amadeus von Windischgrätz",
+    "name": "Windischgrätz, Gottlieb Amadeus von",
     "gnd": "https://d-nb.info/gnd/119220318",
     "other_url": "",
     "emt_id": "emt_person_id__17",
@@ -380,13 +356,13 @@
     "birth_date_written": null,
     "death_date_written": null,
     "Geschlecht": null,
-    "Titel": null,
-    "Funktionsbezeichnung": null
+    "Funktionsbezeichnungen": "Geheimer Rat",
+    "Titel": "Graf"
   },
   "18": {
     "id": 18,
     "order": "18.00000000000000000000",
-    "name": "Johann Wilhelm von Pfalz-Neuburg, Kurfürst von der Pfalz",
+    "name": "Pfalz-Neuburg, Johann Wilhelm von",
     "gnd": "https://d-nb.info/gnd/118712411",
     "other_url": "",
     "emt_id": "emt_person_id__18",
@@ -404,13 +380,13 @@
     "birth_date_written": null,
     "death_date_written": null,
     "Geschlecht": null,
-    "Titel": null,
-    "Funktionsbezeichnung": null
+    "Funktionsbezeichnungen": null,
+    "Titel": "Herzog, Kurfürst"
   },
   "19": {
     "id": 19,
     "order": "19.00000000000000000000",
-    "name": "Johann Adam von Hoheneck",
+    "name": "Hoheneck, Johann Adam von",
     "gnd": "https://d-nb.info/gnd/116953470",
     "other_url": "",
     "emt_id": "emt_person_id__19",
@@ -428,20 +404,20 @@
     "birth_date_written": null,
     "death_date_written": null,
     "Geschlecht": null,
-    "Titel": null,
-    "Funktionsbezeichnung": null
+    "Funktionsbezeichnungen": null,
+    "Titel": null
   },
   "20": {
     "id": 20,
     "order": "20.00000000000000000000",
-    "name": "Johann Ferdinand von Hertodt",
+    "name": "Hertodt, Johann Ferdinand von",
     "gnd": "https://d-nb.info/gnd/124549101",
     "other_url": "",
     "emt_id": "emt_person_id__20",
     "internal_comment": null,
     "color": null,
     "lebensdaten": "1645-1714",
-    "ndb": "https://www.deutsche-biographie.de/pnd124549101.html#indexcontent",
+    "ndb": "",
     "year_of_birth": "1645",
     "year_of_death": "1714",
     "wikidata_url": "http://www.wikidata.org/entity/Q16859329",
@@ -452,13 +428,13 @@
     "birth_date_written": null,
     "death_date_written": null,
     "Geschlecht": null,
-    "Titel": null,
-    "Funktionsbezeichnung": null
+    "Funktionsbezeichnungen": "Leibarzt",
+    "Titel": "Doktor"
   },
   "21": {
     "id": 21,
     "order": "21.00000000000000000000",
-    "name": "Johann Gottfried von Redinghoven",
+    "name": "Redinghoven, Johann Gottfried von",
     "gnd": "https://d-nb.info/gnd/132640562",
     "other_url": "",
     "emt_id": "emt_person_id__21",
@@ -476,13 +452,13 @@
     "birth_date_written": null,
     "death_date_written": null,
     "Geschlecht": null,
-    "Titel": null,
-    "Funktionsbezeichnung": null
+    "Funktionsbezeichnungen": "Geheimer Rat",
+    "Titel": null
   },
   "22": {
     "id": 22,
     "order": "22.00000000000000000000",
-    "name": "Johanna Franziska von Miller, geb. Tänzl von Trazberg",
+    "name": "Miller, Johanna Franziska von, geb. Tänzl von Trazberg ?",
     "gnd": "",
     "other_url": "",
     "emt_id": "emt_person_id__22",
@@ -500,13 +476,13 @@
     "birth_date_written": null,
     "death_date_written": null,
     "Geschlecht": null,
-    "Titel": null,
-    "Funktionsbezeichnung": null
+    "Funktionsbezeichnungen": null,
+    "Titel": null
   },
   "23": {
     "id": 23,
     "order": "23.00000000000000000000",
-    "name": "John James Hamilton",
+    "name": "Hamilton, John James",
     "gnd": "",
     "other_url": "",
     "emt_id": "emt_person_id__23",
@@ -524,13 +500,13 @@
     "birth_date_written": null,
     "death_date_written": null,
     "Geschlecht": null,
-    "Titel": null,
-    "Funktionsbezeichnung": null
+    "Funktionsbezeichnungen": null,
+    "Titel": "Graf"
   },
   "24": {
     "id": 24,
     "order": "24.00000000000000000000",
-    "name": "Joseph Clemens von Bayern, Kurfürst von Köln",
+    "name": "Bayern, Joseph Clemens von",
     "gnd": "https://d-nb.info/gnd/11909990X",
     "other_url": "",
     "emt_id": "emt_person_id__24",
@@ -548,8 +524,8 @@
     "birth_date_written": null,
     "death_date_written": null,
     "Geschlecht": null,
-    "Titel": null,
-    "Funktionsbezeichnung": null
+    "Funktionsbezeichnungen": "Kurfürst und Erzbischof von Köln",
+    "Titel": "Herzog, Kurfürst"
   },
   "25": {
     "id": 25,
@@ -572,13 +548,13 @@
     "birth_date_written": null,
     "death_date_written": null,
     "Geschlecht": null,
-    "Titel": "Erzherzog",
-    "Funktionsbezeichnung": null
+    "Funktionsbezeichnungen": null,
+    "Titel": "Erzherzog, Kaiser"
   },
   "26": {
     "id": 26,
     "order": "26.00000000000000000000",
-    "name": "Alderano Cibo-Malaspina, Kardinal",
+    "name": "Cibo-Malaspina, Alderano",
     "gnd": "https://d-nb.info/gnd/100008143",
     "other_url": "https://www.treccani.it/enciclopedia/ricerca/Alderano%20Cibo/?search=Alderano%20Cibo",
     "emt_id": "emt_person_id__26",
@@ -596,13 +572,13 @@
     "birth_date_written": null,
     "death_date_written": null,
     "Geschlecht": null,
-    "Titel": null,
-    "Funktionsbezeichnung": null
+    "Funktionsbezeichnungen": "Kardinal",
+    "Titel": null
   },
   "27": {
     "id": 27,
     "order": "27.00000000000000000000",
-    "name": "Christian August von Sachsen-Zeitz, Kardinal",
+    "name": "Sachsen-Zeitz, Christian August von",
     "gnd": "https://d-nb.info/gnd/104174552",
     "other_url": "",
     "emt_id": "emt_person_id__27",
@@ -620,13 +596,13 @@
     "birth_date_written": null,
     "death_date_written": null,
     "Geschlecht": null,
-    "Titel": null,
-    "Funktionsbezeichnung": null
+    "Funktionsbezeichnungen": "Bischof von Raab, Kardinal",
+    "Titel": "Herzog"
   },
   "28": {
     "id": 28,
     "order": "28.00000000000000000000",
-    "name": "Vincenzo Grimani, Kardinal",
+    "name": "Grimani, Vincenzo",
     "gnd": "https://d-nb.info/gnd/126443688",
     "other_url": "https://www.treccani.it/enciclopedia/vincenzo-grimani_(Dizionario-Biografico)/?search=GRIMANI%2C%20Vincenzo",
     "emt_id": "emt_person_id__28",
@@ -644,13 +620,13 @@
     "birth_date_written": null,
     "death_date_written": null,
     "Geschlecht": null,
-    "Titel": null,
-    "Funktionsbezeichnung": null
+    "Funktionsbezeichnungen": "Kardinal, Vizekönig von Neapel (1708-1710)",
+    "Titel": null
   },
   "29": {
     "id": 29,
     "order": "29.00000000000000000000",
-    "name": "Karl Philipp von Pfalz-Neuburg",
+    "name": "Pfalz-Neuburg, Karl Philipp von",
     "gnd": "https://d-nb.info/gnd/118720953",
     "other_url": "",
     "emt_id": "emt_person_id__29",
@@ -668,13 +644,13 @@
     "birth_date_written": null,
     "death_date_written": null,
     "Geschlecht": null,
-    "Titel": null,
-    "Funktionsbezeichnung": null
+    "Funktionsbezeichnungen": "General",
+    "Titel": "Herzog"
   },
   "30": {
     "id": 30,
     "order": "30.00000000000000000000",
-    "name": "Karl Theodor Otto zu Salm",
+    "name": "Salm, Karl Theodor Otto zu",
     "gnd": "https://d-nb.info/gnd/104302100",
     "other_url": "",
     "emt_id": "emt_person_id__30",
@@ -692,13 +668,13 @@
     "birth_date_written": null,
     "death_date_written": null,
     "Geschlecht": null,
-    "Titel": null,
-    "Funktionsbezeichnung": null
+    "Funktionsbezeichnungen": null,
+    "Titel": "Fürst"
   },
   "31": {
     "id": 31,
     "order": "31.00000000000000000000",
-    "name": "Kaiser Karl VI.",
+    "name": "Karl VI.",
     "gnd": "https://d-nb.info/gnd/118560107",
     "other_url": "",
     "emt_id": "emt_person_id__31",
@@ -716,13 +692,13 @@
     "birth_date_written": null,
     "death_date_written": null,
     "Geschlecht": null,
-    "Titel": null,
-    "Funktionsbezeichnung": null
+    "Funktionsbezeichnungen": null,
+    "Titel": "Erzherzog, König, Kaiser"
   },
   "32": {
     "id": 32,
     "order": "32.00000000000000000000",
-    "name": "Karl von Hessen-Wanfried",
+    "name": "Hessen-Wanfried, Karl von",
     "gnd": "https://d-nb.info/gnd/1262047951",
     "other_url": "",
     "emt_id": "emt_person_id__32",
@@ -740,13 +716,13 @@
     "birth_date_written": null,
     "death_date_written": null,
     "Geschlecht": null,
-    "Titel": null,
-    "Funktionsbezeichnung": null
+    "Funktionsbezeichnungen": null,
+    "Titel": "Landgraf"
   },
   "33": {
     "id": 33,
     "order": "33.00000000000000000000",
-    "name": "Karl V. von Lothringen",
+    "name": "Lothringen, Karl V. von",
     "gnd": "https://d-nb.info/gnd/118720902",
     "other_url": "",
     "emt_id": "emt_person_id__33",
@@ -764,17 +740,17 @@
     "birth_date_written": null,
     "death_date_written": null,
     "Geschlecht": null,
-    "Titel": null,
-    "Funktionsbezeichnung": null
+    "Funktionsbezeichnungen": null,
+    "Titel": "Herzog"
   },
   "34": {
     "id": 34,
     "order": "34.00000000000000000000",
-    "name": "Leopold Litizcki von Schönau",
+    "name": "Litizcki von Schönau, Leopold",
     "gnd": "",
     "other_url": "",
     "emt_id": "emt_person_id__34",
-    "internal_comment": null,
+    "internal_comment": "unidentifiziert",
     "color": null,
     "lebensdaten": null,
     "ndb": "",
@@ -788,13 +764,13 @@
     "birth_date_written": null,
     "death_date_written": null,
     "Geschlecht": null,
-    "Titel": null,
-    "Funktionsbezeichnung": null
+    "Funktionsbezeichnungen": null,
+    "Titel": null
   },
   "35": {
     "id": 35,
     "order": "35.00000000000000000000",
-    "name": "Kaiser Leopold I.",
+    "name": "Leopold I.",
     "gnd": "https://d-nb.info/gnd/118571869",
     "other_url": "",
     "emt_id": "emt_person_id__35",
@@ -812,13 +788,13 @@
     "birth_date_written": null,
     "death_date_written": null,
     "Geschlecht": null,
-    "Titel": null,
-    "Funktionsbezeichnung": null
+    "Funktionsbezeichnungen": null,
+    "Titel": "Kaiser"
   },
   "36": {
     "id": 36,
     "order": "36.00000000000000000000",
-    "name": "Ludwig Wilhelm von Baden-Baden",
+    "name": "Baden-Baden, Ludwig Wilhelm von",
     "gnd": "https://d-nb.info/gnd/118729500",
     "other_url": "",
     "emt_id": "emt_person_id__36",
@@ -836,8 +812,8 @@
     "birth_date_written": null,
     "death_date_written": null,
     "Geschlecht": null,
-    "Titel": null,
-    "Funktionsbezeichnung": null
+    "Funktionsbezeichnungen": "General",
+    "Titel": "Markgraf"
   },
   "37": {
     "id": 37,
@@ -860,8 +836,8 @@
     "birth_date_written": null,
     "death_date_written": null,
     "Geschlecht": null,
-    "Titel": null,
-    "Funktionsbezeichnung": null
+    "Funktionsbezeichnungen": null,
+    "Titel": "Königin"
   },
   "38": {
     "id": 38,
@@ -884,13 +860,13 @@
     "birth_date_written": null,
     "death_date_written": null,
     "Geschlecht": null,
-    "Titel": null,
-    "Funktionsbezeichnung": null
+    "Funktionsbezeichnungen": null,
+    "Titel": "Königin"
   },
   "39": {
     "id": 39,
     "order": "39.00000000000000000000",
-    "name": "Carlo Pio di Savoia, Kardinal",
+    "name": "Pio di Savoia, Carlo",
     "gnd": "http://d-nb.info/1208663992",
     "other_url": "https://www.treccani.it/enciclopedia/pio-di-savoia-carlo/?search=Pio%20di%20Savoia%2C%20Carlo",
     "emt_id": "emt_person_id__39",
@@ -908,17 +884,17 @@
     "birth_date_written": null,
     "death_date_written": null,
     "Geschlecht": null,
-    "Titel": null,
-    "Funktionsbezeichnung": null
+    "Funktionsbezeichnungen": "Kardinal",
+    "Titel": null
   },
   "40": {
     "id": 40,
     "order": "40.00000000000000000000",
-    "name": "Maria Elisabeth von Polheim, geb. Windischgrätz",
+    "name": "Polheim, Maria Elisabeth von, geb. Windischgrätz",
     "gnd": "",
     "other_url": "",
     "emt_id": "emt_person_id__40",
-    "internal_comment": "nur Familie nachgewiesen",
+    "internal_comment": "nur Familie nachgewiesen - hier müsste man wahrscheinlich noch Literatur nachweisen",
     "color": null,
     "lebensdaten": null,
     "ndb": "",
@@ -932,13 +908,13 @@
     "birth_date_written": null,
     "death_date_written": null,
     "Geschlecht": null,
-    "Titel": null,
-    "Funktionsbezeichnung": null
+    "Funktionsbezeichnungen": null,
+    "Titel": null
   },
   "41": {
     "id": 41,
     "order": "41.00000000000000000000",
-    "name": "Maria Magdalena von Heister, geb. Hermbsinn von Perndorff",
+    "name": "Heister, Maria Magdalena von, geb. Hermbsinn von Perndorff ?",
     "gnd": "",
     "other_url": "",
     "emt_id": "emt_person_id__41",
@@ -956,8 +932,8 @@
     "birth_date_written": null,
     "death_date_written": null,
     "Geschlecht": null,
-    "Titel": null,
-    "Funktionsbezeichnung": null
+    "Funktionsbezeichnungen": null,
+    "Titel": null
   },
   "42": {
     "id": 42,
@@ -980,17 +956,17 @@
     "birth_date_written": null,
     "death_date_written": null,
     "Geschlecht": null,
-    "Titel": null,
-    "Funktionsbezeichnung": null
+    "Funktionsbezeichnungen": null,
+    "Titel": "Königin"
   },
   "43": {
     "id": 43,
     "order": "43.00000000000000000000",
-    "name": "Marsilius Heüßlein von Eußenheim",
+    "name": "Heüßlein von Eußenheim, Marsilius",
     "gnd": "",
     "other_url": "",
     "emt_id": "emt_person_id__43",
-    "internal_comment": null,
+    "internal_comment": "unidentifiziert",
     "color": null,
     "lebensdaten": null,
     "ndb": "",
@@ -1004,17 +980,17 @@
     "birth_date_written": null,
     "death_date_written": null,
     "Geschlecht": null,
-    "Titel": null,
-    "Funktionsbezeichnung": null
+    "Funktionsbezeichnungen": null,
+    "Titel": null
   },
   "44": {
     "id": 44,
     "order": "44.00000000000000000000",
-    "name": "Mattheus Erard",
+    "name": "Erard, Mattheus",
     "gnd": "",
     "other_url": "",
     "emt_id": "emt_person_id__44",
-    "internal_comment": null,
+    "internal_comment": "unidentifiziert",
     "color": null,
     "lebensdaten": null,
     "ndb": "",
@@ -1028,13 +1004,13 @@
     "birth_date_written": null,
     "death_date_written": null,
     "Geschlecht": null,
-    "Titel": null,
-    "Funktionsbezeichnung": null
+    "Funktionsbezeichnungen": null,
+    "Titel": null
   },
   "45": {
     "id": 45,
     "order": "45.00000000000000000000",
-    "name": "Maximilian Heinrich von Bayern, Kurfürst von Köln",
+    "name": "Bayern, Maximilian Heinrich von",
     "gnd": "https://d-nb.info/gnd/10030673X",
     "other_url": "",
     "emt_id": "emt_person_id__45",
@@ -1052,13 +1028,13 @@
     "birth_date_written": null,
     "death_date_written": null,
     "Geschlecht": null,
-    "Titel": null,
-    "Funktionsbezeichnung": null
+    "Funktionsbezeichnungen": "Kurfürst und Erzbischof von Köln",
+    "Titel": "Herzog, Kurfürst"
   },
   "46": {
     "id": 46,
     "order": "46.00000000000000000000",
-    "name": "Maximilian von Degenfeld",
+    "name": "Degenfeld, Maximilian von",
     "gnd": "https://d-nb.info/gnd/120710102",
     "other_url": "",
     "emt_id": "emt_person_id__46",
@@ -1076,13 +1052,13 @@
     "birth_date_written": null,
     "death_date_written": null,
     "Geschlecht": null,
-    "Titel": null,
-    "Funktionsbezeichnung": null
+    "Funktionsbezeichnungen": null,
+    "Titel": "Graf"
   },
   "47": {
     "id": 47,
     "order": "47.00000000000000000000",
-    "name": "Moritz Heinrich von Nassau-Hadamar",
+    "name": "Nassau-Hadamar, Moritz Heinrich von",
     "gnd": "https://d-nb.info/gnd/121164721",
     "other_url": "",
     "emt_id": "emt_person_id__47",
@@ -1100,13 +1076,13 @@
     "birth_date_written": null,
     "death_date_written": null,
     "Geschlecht": null,
-    "Titel": null,
-    "Funktionsbezeichnung": null
+    "Funktionsbezeichnungen": null,
+    "Titel": "Fürst"
   },
   "49": {
     "id": 49,
     "order": "49.00000000000000000000",
-    "name": "Otto Ferdinand von Hohenfeld",
+    "name": "Hohenfeld, Otto Ferdinand von",
     "gnd": "https://d-nb.info/gnd/123697056X",
     "other_url": "",
     "emt_id": "emt_person_id__49",
@@ -1124,13 +1100,13 @@
     "birth_date_written": null,
     "death_date_written": null,
     "Geschlecht": null,
-    "Titel": null,
-    "Funktionsbezeichnung": null
+    "Funktionsbezeichnungen": null,
+    "Titel": null
   },
   "50": {
     "id": 50,
     "order": "50.00000000000000000000",
-    "name": "Philipp Wilhelm von Pfalz-Neuburg, Kurfürst von der Pfalz",
+    "name": "Pfalz-Neuburg, Philipp Wilhelm von",
     "gnd": "https://d-nb.info/gnd/118742221",
     "other_url": "",
     "emt_id": "emt_person_id__50",
@@ -1138,8 +1114,8 @@
     "color": "#d45121",
     "lebensdaten": "1615-1690",
     "ndb": "https://www.deutsche-biographie.de/sfz60354.html#indexcontent",
-    "year_of_birth": null,
-    "year_of_death": null,
+    "year_of_birth": "1615",
+    "year_of_death": "1690",
     "wikidata_url": "http://www.wikidata.org/entity/Q60514",
     "wikidata_enriched": true,
     "img_name": "Anonym Herzog Philipp Wilhelm.jpg",
@@ -1148,13 +1124,13 @@
     "birth_date_written": null,
     "death_date_written": null,
     "Geschlecht": null,
-    "Titel": null,
-    "Funktionsbezeichnung": null
+    "Funktionsbezeichnungen": null,
+    "Titel": "Herzog, Kurfürst"
   },
   "51": {
     "id": 51,
     "order": "51.00000000000000000000",
-    "name": "Clemens XI. (Albani), Papst",
+    "name": "Clemens XI. (Albani)",
     "gnd": "https://d-nb.info/gnd/119139162",
     "other_url": "",
     "emt_id": "emt_person_id__51",
@@ -1172,13 +1148,13 @@
     "birth_date_written": null,
     "death_date_written": null,
     "Geschlecht": null,
-    "Titel": null,
-    "Funktionsbezeichnung": null
+    "Funktionsbezeichnungen": "Papst",
+    "Titel": null
   },
   "52": {
     "id": 52,
     "order": "52.00000000000000000000",
-    "name": "Karl Pottier SJ",
+    "name": "Pottier, Karl SJ",
     "gnd": "",
     "other_url": "",
     "emt_id": "emt_person_id__52",
@@ -1196,13 +1172,13 @@
     "birth_date_written": null,
     "death_date_written": null,
     "Geschlecht": null,
-    "Titel": null,
-    "Funktionsbezeichnung": null
+    "Funktionsbezeichnungen": null,
+    "Titel": "Pater"
   },
   "53": {
     "id": 53,
     "order": "53.00000000000000000000",
-    "name": "Johann Wiser SJ",
+    "name": "Wiser, Johann SJ",
     "gnd": "",
     "other_url": "",
     "emt_id": "emt_person_id__53",
@@ -1220,13 +1196,13 @@
     "birth_date_written": null,
     "death_date_written": null,
     "Geschlecht": null,
-    "Titel": null,
-    "Funktionsbezeichnung": null
+    "Funktionsbezeichnungen": "",
+    "Titel": "Pater"
   },
   "54": {
     "id": 54,
     "order": "54.00000000000000000000",
-    "name": "Maria Antonia von Bayern, geb. Österreich",
+    "name": "Österreich, Maria Antonia von, vereh. Bayern",
     "gnd": "http://d-nb.info/100976905",
     "other_url": "",
     "emt_id": "emt_person_id__54",
@@ -1244,8 +1220,8 @@
     "birth_date_written": null,
     "death_date_written": null,
     "Geschlecht": null,
-    "Titel": null,
-    "Funktionsbezeichnung": null
+    "Funktionsbezeichnungen": null,
+    "Titel": "Erzherzogin, Kurfürstin"
   },
   "55": {
     "id": 55,
@@ -1254,7 +1230,7 @@
     "gnd": "",
     "other_url": "",
     "emt_id": "emt_person_id__55",
-    "internal_comment": null,
+    "internal_comment": "unidentifiziert",
     "color": null,
     "lebensdaten": null,
     "ndb": "",
@@ -1268,13 +1244,13 @@
     "birth_date_written": null,
     "death_date_written": null,
     "Geschlecht": null,
-    "Titel": null,
-    "Funktionsbezeichnung": null
+    "Funktionsbezeichnungen": null,
+    "Titel": null
   },
   "56": {
     "id": 56,
     "order": "56.00000000000000000000",
-    "name": "Theodor Heinrich von Strattmann",
+    "name": "Strattmann, Theodor Heinrich von",
     "gnd": "https://d-nb.info/gnd/119316900",
     "other_url": "",
     "emt_id": "emt_person_id__56",
@@ -1292,13 +1268,13 @@
     "birth_date_written": null,
     "death_date_written": null,
     "Geschlecht": null,
-    "Titel": null,
-    "Funktionsbezeichnung": null
+    "Funktionsbezeichnungen": "Hofkanzler",
+    "Titel": "Graf"
   },
   "57": {
     "id": 57,
     "order": "57.00000000000000000000",
-    "name": "Johann Christoph Veyder, Statthalter im Herzogtum Arenberg",
+    "name": "Veyder, Johann Christoph",
     "gnd": "",
     "other_url": "https://www.bitburg-pruem.de/cms/images/pdf/Schloss_Malberg_Teil_2_53C54_Verf_Dr_Peter_Neu_2020.pdf",
     "emt_id": "emt_person_id__57",
@@ -1316,13 +1292,13 @@
     "birth_date_written": null,
     "death_date_written": null,
     "Geschlecht": null,
-    "Titel": null,
-    "Funktionsbezeichnung": null
+    "Funktionsbezeichnungen": "Statthalter im Herzogtum Arenberg",
+    "Titel": null
   },
   "58": {
     "id": 58,
     "order": "58.00000000000000000000",
-    "name": "Maximilian Lorenz von Starhemberg",
+    "name": "Starhemberg, Maximilian Lorenz von",
     "gnd": "",
     "other_url": "",
     "emt_id": "emt_person_id__58",
@@ -1330,7 +1306,7 @@
     "color": null,
     "lebensdaten": "um 1640-1689",
     "ndb": "",
-    "year_of_birth": "1640",
+    "year_of_birth": null,
     "year_of_death": "1689",
     "wikidata_url": "https://www.wikidata.org/wiki/Q88477",
     "wikidata_enriched": true,
@@ -1340,13 +1316,13 @@
     "birth_date_written": "um 1640",
     "death_date_written": null,
     "Geschlecht": null,
-    "Titel": null,
-    "Funktionsbezeichnung": null
+    "Funktionsbezeichnungen": "General, Kommandant von Philippsburg",
+    "Titel": null
   },
   "59": {
     "id": 59,
     "order": "59.00000000000000000000",
-    "name": "Johann Evangelist Tanner SJ",
+    "name": "Tanner, Johann Evangelist SJ",
     "gnd": "",
     "other_url": "",
     "emt_id": "emt_person_id__59",
@@ -1364,13 +1340,13 @@
     "birth_date_written": null,
     "death_date_written": null,
     "Geschlecht": null,
-    "Titel": null,
-    "Funktionsbezeichnung": null
+    "Funktionsbezeichnungen": "Beichtvater",
+    "Titel": "Pater"
   },
   "60": {
     "id": 60,
     "order": "60.00000000000000000000",
-    "name": "Maria Anna von Pfalz-Neuburg, geb. Österreich",
+    "name": "Österreich, Maria Anna von, vereh. Pfalz-Neuburg",
     "gnd": "https://d-nb.info/gnd/120100096",
     "other_url": "",
     "emt_id": "emt_person_id__60",
@@ -1388,8 +1364,8 @@
     "birth_date_written": null,
     "death_date_written": null,
     "Geschlecht": null,
-    "Titel": null,
-    "Funktionsbezeichnung": null
+    "Funktionsbezeichnungen": null,
+    "Titel": "Erzherzogin, Herzogin"
   },
   "61": {
     "id": 61,
@@ -1412,8 +1388,8 @@
     "birth_date_written": null,
     "death_date_written": null,
     "Geschlecht": null,
-    "Titel": null,
-    "Funktionsbezeichnung": null
+    "Funktionsbezeichnungen": null,
+    "Titel": null
   },
   "62": {
     "id": 62,
@@ -1422,7 +1398,7 @@
     "gnd": "",
     "other_url": "",
     "emt_id": "emt_person_id__62",
-    "internal_comment": "fungiert 1677 als Überbringer von Geschenken von PW",
+    "internal_comment": "fungiert 1677 als Überbringer von Geschenken von PW, unidentifiziert",
     "color": "",
     "lebensdaten": "",
     "ndb": "",
@@ -1436,13 +1412,13 @@
     "birth_date_written": null,
     "death_date_written": null,
     "Geschlecht": null,
-    "Titel": null,
-    "Funktionsbezeichnung": null
+    "Funktionsbezeichnungen": null,
+    "Titel": null
   },
   "63": {
     "id": 63,
     "order": "63.00000000000000000000",
-    "name": "Maximilian Gandolf von Kuenburg, Erzbischof von Salzburg, Kardinal",
+    "name": "Kuenburg, Maximilian Gandolf von",
     "gnd": "https://d-nb.info/gnd/115524991",
     "other_url": "",
     "emt_id": "emt_person_id__63",
@@ -1460,13 +1436,13 @@
     "birth_date_written": null,
     "death_date_written": null,
     "Geschlecht": null,
-    "Titel": null,
-    "Funktionsbezeichnung": null
+    "Funktionsbezeichnungen": "Erzbischof von Salzburg, Kardinal",
+    "Titel": "Graf"
   },
   "64": {
     "id": 64,
     "order": "64.00000000000000000000",
-    "name": "Marquard Schenk von Castell, Bischof von Eichstätt",
+    "name": "Schenk von Castell, Marquard",
     "gnd": "https://d-nb.info/gnd/118977636",
     "other_url": "",
     "emt_id": "emt_person_id__64",
@@ -1484,13 +1460,13 @@
     "birth_date_written": null,
     "death_date_written": null,
     "Geschlecht": null,
-    "Titel": null,
-    "Funktionsbezeichnung": null
+    "Funktionsbezeichnungen": "Bischof von Eichstätt",
+    "Titel": null
   },
   "65": {
     "id": 65,
     "order": "65.00000000000000000000",
-    "name": "Peter Philipp von Dernbach, Bischof von Bamberg",
+    "name": "Dernbach, Peter Philipp von",
     "gnd": "https://d-nb.info/gnd/118524801",
     "other_url": "",
     "emt_id": "emt_person_id__65",
@@ -1508,17 +1484,17 @@
     "birth_date_written": null,
     "death_date_written": null,
     "Geschlecht": null,
-    "Titel": null,
-    "Funktionsbezeichnung": null
+    "Funktionsbezeichnungen": "Bischof von Bamberg",
+    "Titel": null
   },
   "66": {
     "id": 66,
     "order": "66.00000000000000000000",
-    "name": "Andreas Schellerer",
+    "name": "Schellerer, Andreas",
     "gnd": "",
-    "other_url": "",
+    "other_url": "http://reichshofratsakten.de/wp-content/uploads/2016/11/Reichshofr%C3%A4tePdf_%C3%9Cberschriften.pdf",
     "emt_id": "emt_person_id__66",
-    "internal_comment": "http://reichshofratsakten.de/wp-content/uploads/2016/11/Reichshofr%C3%A4tePdf_%C3%9Cberschriften.pdf",
+    "internal_comment": "Agent Pfalz-Neuburg am kaiserlichen Hof",
     "color": "",
     "lebensdaten": "gest. 1701",
     "ndb": "",
@@ -1532,8 +1508,8 @@
     "birth_date_written": null,
     "death_date_written": null,
     "Geschlecht": null,
-    "Titel": null,
-    "Funktionsbezeichnung": null
+    "Funktionsbezeichnungen": "Reichshofrat",
+    "Titel": null
   },
   "67": {
     "id": 67,
@@ -1556,8 +1532,8 @@
     "birth_date_written": null,
     "death_date_written": null,
     "Geschlecht": null,
-    "Titel": null,
-    "Funktionsbezeichnung": null
+    "Funktionsbezeichnungen": null,
+    "Titel": null
   },
   "68": {
     "id": 68,
@@ -1566,7 +1542,7 @@
     "gnd": "",
     "other_url": "",
     "emt_id": "emt_person_id__68",
-    "internal_comment": "hat Empfehlungsschreiben von EMT bekommen 1677",
+    "internal_comment": "hat Empfehlungsschreiben von EMT bekommen 1677, unidentifiziert",
     "color": "",
     "lebensdaten": "",
     "ndb": "",
@@ -1580,8 +1556,8 @@
     "birth_date_written": null,
     "death_date_written": null,
     "Geschlecht": null,
-    "Titel": null,
-    "Funktionsbezeichnung": null
+    "Funktionsbezeichnungen": null,
+    "Titel": null
   },
   "69": {
     "id": 69,
@@ -1590,7 +1566,7 @@
     "gnd": "",
     "other_url": "",
     "emt_id": "emt_person_id__69",
-    "internal_comment": "dankt EMT 1677 für ein Empfehlungsschreiben für ihren Mann",
+    "internal_comment": "dankt EMT 1677 für ein Empfehlungsschreiben für ihren Mann, unidentifiziert",
     "color": "",
     "lebensdaten": "",
     "ndb": "",
@@ -1604,13 +1580,13 @@
     "birth_date_written": null,
     "death_date_written": null,
     "Geschlecht": null,
-    "Titel": null,
-    "Funktionsbezeichnung": null
+    "Funktionsbezeichnungen": null,
+    "Titel": null
   },
   "70": {
     "id": 70,
     "order": "70.00000000000000000000",
-    "name": "Albrecht Sigismund von Bayern, Fürstbischof von Freising",
+    "name": "Bayern, Albrecht Sigismund von",
     "gnd": "https://d-nb.info/gnd/10422424X",
     "other_url": "",
     "emt_id": "emt_person_id__70",
@@ -1628,17 +1604,17 @@
     "birth_date_written": null,
     "death_date_written": null,
     "Geschlecht": null,
-    "Titel": null,
-    "Funktionsbezeichnung": null
+    "Funktionsbezeichnungen": "Fürstbischof von Freising",
+    "Titel": "Herzog"
   },
   "71": {
     "id": 71,
     "order": "71.00000000000000000000",
-    "name": "Wilhelm Franz von Nesselrode-Ehreshoven",
+    "name": "Nesselrode-Ehreshoven, Wilhelm Franz von ?",
     "gnd": "https://d-nb.info/gnd/116941715",
     "other_url": "",
     "emt_id": "emt_person_id__71",
-    "internal_comment": "wahrscheinliche Identifizierung, war Domherr in Münster, Paderborn und Lüttich\noder: Franz von Nesselrode, Domherr zu Köln",
+    "internal_comment": "wahrscheinliche Identifizierung, oder: Franz von Nesselrode, Domherr zu Köln",
     "color": "",
     "lebensdaten": "1638-1732",
     "ndb": "https://www.deutsche-biographie.de/sfz71137.html",
@@ -1652,17 +1628,17 @@
     "birth_date_written": null,
     "death_date_written": null,
     "Geschlecht": null,
-    "Titel": null,
-    "Funktionsbezeichnung": null
+    "Funktionsbezeichnungen": "Domherr in Münster, Paderborn und Lüttich",
+    "Titel": null
   },
   "72": {
     "id": 72,
     "order": "72.00000000000000000000",
-    "name": "Leopold Wilhelm von Königsegg-Aulendorf",
+    "name": "Königsegg-Aulendorf, Leopold Wilhelm von",
     "gnd": "https://d-nb.info/gnd/115880917",
     "other_url": "",
     "emt_id": "emt_person_id__72",
-    "internal_comment": "Reichsvizekanzler",
+    "internal_comment": "",
     "color": "",
     "lebensdaten": "1630-1694",
     "ndb": "https://www.deutsche-biographie.de/sfz57376.html#indexcontent",
@@ -1676,13 +1652,13 @@
     "birth_date_written": null,
     "death_date_written": null,
     "Geschlecht": null,
-    "Titel": null,
-    "Funktionsbezeichnung": null
+    "Funktionsbezeichnungen": "Reichsvizekanzler",
+    "Titel": "Graf"
   },
   "73": {
     "id": 73,
     "order": "73.00000000000000000000",
-    "name": "Bernhard Gustav von Baden-Durlach, Kardinal",
+    "name": "Baden-Durlach, Bernhard Gustav von",
     "gnd": "https://d-nb.info/gnd/11892883X",
     "other_url": "",
     "emt_id": "emt_person_id__73",
@@ -1700,13 +1676,13 @@
     "birth_date_written": null,
     "death_date_written": null,
     "Geschlecht": null,
-    "Titel": null,
-    "Funktionsbezeichnung": null
+    "Funktionsbezeichnungen": "Kardinal, Fürstabt von Fulda und Kempten",
+    "Titel": "Landgraf"
   },
   "74": {
     "id": 74,
     "order": "74.00000000000000000000",
-    "name": "Johann Paul Hocher, Hofkanzler",
+    "name": "Hocher, Johann Paul",
     "gnd": "https://d-nb.info/gnd/119265648",
     "other_url": "",
     "emt_id": "emt_person_id__74",
@@ -1724,13 +1700,13 @@
     "birth_date_written": null,
     "death_date_written": null,
     "Geschlecht": null,
-    "Titel": null,
-    "Funktionsbezeichnung": null
+    "Funktionsbezeichnungen": "Hofkanzler",
+    "Titel": null
   },
   "75": {
     "id": 75,
     "order": "75.00000000000000000000",
-    "name": "Friedrich von Hessen-Darmstadt, Kardinal",
+    "name": "Hessen-Darmstadt, Friedrich von",
     "gnd": "https://d-nb.info/gnd/104366869",
     "other_url": "",
     "emt_id": "emt_person_id__75",
@@ -1748,8 +1724,8 @@
     "birth_date_written": null,
     "death_date_written": null,
     "Geschlecht": null,
-    "Titel": null,
-    "Funktionsbezeichnung": null
+    "Funktionsbezeichnungen": "Kardinal, Fürstbischof von Breslau",
+    "Titel": "Landgraf"
   },
   "76": {
     "id": 76,
@@ -1758,7 +1734,7 @@
     "gnd": "",
     "other_url": "",
     "emt_id": "emt_person_id__76",
-    "internal_comment": "adlige Dame in Düsseldorf, deren Heirat mit Bernsau auf der Kippe steht 1677",
+    "internal_comment": "adlige Dame in Düsseldorf, deren Heirat mit Bernsau auf der Kippe steht 1677, unidentifiziert",
     "color": "",
     "lebensdaten": "",
     "ndb": "",
@@ -1772,8 +1748,8 @@
     "birth_date_written": null,
     "death_date_written": null,
     "Geschlecht": null,
-    "Titel": null,
-    "Funktionsbezeichnung": null
+    "Funktionsbezeichnungen": null,
+    "Titel": null
   },
   "77": {
     "id": 77,
@@ -1782,7 +1758,7 @@
     "gnd": "",
     "other_url": "",
     "emt_id": "emt_person_id__77",
-    "internal_comment": "Wirich Dietrich von Bernsau (1656-1709) ??\nadliger Herr, der in Düsseldorf des Hofes verwiesen wurde, weshalb die Heirat mit Egelhoff auf der Kippe steht 1677\nLeo van de Loo, Bernsau. Zur Geschichte des Ritter- und Bauerngeschlechts (1150–1940), Essen 1940",
+    "internal_comment": "Wirich Dietrich von Bernsau (1656-1709) ?? unidentifiziert\nadliger Herr, der in Düsseldorf des Hofes verwiesen wurde, weshalb die Heirat mit Egelhoff auf der Kippe steht 1677\nLeo van de Loo, Bernsau. Zur Geschichte des Ritter- und Bauerngeschlechts (1150–1940), Essen 1940",
     "color": "",
     "lebensdaten": "",
     "ndb": "",
@@ -1796,8 +1772,8 @@
     "birth_date_written": null,
     "death_date_written": null,
     "Geschlecht": null,
-    "Titel": null,
-    "Funktionsbezeichnung": null
+    "Funktionsbezeichnungen": null,
+    "Titel": null
   },
   "78": {
     "id": 78,
@@ -1806,7 +1782,7 @@
     "gnd": "",
     "other_url": "",
     "emt_id": "emt_person_id__78",
-    "internal_comment": "Mutter des in Düsseldorf des Hofes verwiesenen Herrn 1677:\nevtl. Anna Agnes von Bernsau, geb. Scholer (?)",
+    "internal_comment": "Mutter des in Düsseldorf des Hofes verwiesenen Herrn 1677:\nevtl. Anna Agnes von Bernsau, geb. Scholer (?), unidentifiziert",
     "color": "",
     "lebensdaten": "",
     "ndb": "",
@@ -1820,13 +1796,13 @@
     "birth_date_written": null,
     "death_date_written": null,
     "Geschlecht": null,
-    "Titel": null,
-    "Funktionsbezeichnung": null
+    "Funktionsbezeichnungen": null,
+    "Titel": null
   },
   "79": {
     "id": 79,
     "order": "79.00000000000000000000",
-    "name": "Felix Egon von Fürstenberg-Heiligenberg",
+    "name": "Fürstenberg-Heiligenberg, Felix Egon von",
     "gnd": "https://d-nb.info/gnd/129971219",
     "other_url": "",
     "emt_id": "emt_person_id__79",
@@ -1844,13 +1820,13 @@
     "birth_date_written": null,
     "death_date_written": null,
     "Geschlecht": null,
-    "Titel": null,
-    "Funktionsbezeichnung": null
+    "Funktionsbezeichnungen": "Domherr in Köln, Kämmerer",
+    "Titel": null
   },
   "80": {
     "id": 80,
     "order": "80.00000000000000000000",
-    "name": "Hermann von Baden-Baden",
+    "name": "Baden-Baden, Hermann von",
     "gnd": "https://d-nb.info/gnd/118981722",
     "other_url": "",
     "emt_id": "emt_person_id__80",
@@ -1868,13 +1844,13 @@
     "birth_date_written": null,
     "death_date_written": null,
     "Geschlecht": null,
-    "Titel": null,
-    "Funktionsbezeichnung": null
+    "Funktionsbezeichnungen": "General, Hofkriegsratspräsident (1681-1688)",
+    "Titel": "Markgraf"
   },
   "81": {
     "id": 81,
     "order": "81.00000000000000000000",
-    "name": "Froben Ferdinand von Fürstenberg-Meßkirch",
+    "name": "Fürstenberg-Meßkirch, Froben Ferdinand von",
     "gnd": "https://d-nb.info/gnd/133809668",
     "other_url": "",
     "emt_id": "emt_person_id__81",
@@ -1892,17 +1868,17 @@
     "birth_date_written": null,
     "death_date_written": null,
     "Geschlecht": null,
-    "Titel": null,
-    "Funktionsbezeichnung": null
+    "Funktionsbezeichnungen": null,
+    "Titel": "Graf"
   },
   "82": {
     "id": 82,
     "order": "82.00000000000000000000",
-    "name": "Wolfgang Georg Friedrich von Pfalz-Neuburg",
+    "name": "Pfalz-Neuburg, Wolfgang Georg Friedrich von",
     "gnd": "https://d-nb.info/gnd/118046055",
     "other_url": "",
     "emt_id": "emt_person_id__82",
-    "internal_comment": "Weihbischof von Köln",
+    "internal_comment": "",
     "color": "",
     "lebensdaten": "1659-1683",
     "ndb": "https://www.deutsche-biographie.de/sfz19011.html#indexcontent",
@@ -1916,13 +1892,13 @@
     "birth_date_written": null,
     "death_date_written": null,
     "Geschlecht": null,
-    "Titel": null,
-    "Funktionsbezeichnung": null
+    "Funktionsbezeichnungen": "Weihbischof von Köln, gewählter Fürstbischof von Breslau",
+    "Titel": "Herzog"
   },
   "83": {
     "id": 83,
     "order": "83.00000000000000000000",
-    "name": "Johann von Goess, Bischof von Gurk",
+    "name": "Goess, Johann von",
     "gnd": "https://d-nb.info/gnd/123662427",
     "other_url": "",
     "emt_id": "emt_person_id__83",
@@ -1940,13 +1916,13 @@
     "birth_date_written": null,
     "death_date_written": null,
     "Geschlecht": null,
-    "Titel": null,
-    "Funktionsbezeichnung": null
+    "Funktionsbezeichnungen": "Bischof von Gurk, Kardinal",
+    "Titel": null
   },
   "84": {
     "id": 84,
     "order": "84.00000000000000000000",
-    "name": "Anna Katharina von Rietberg, geb. Salm-Reifferscheidt",
+    "name": "Rietberg und Ostfriesland, Anna Katharina von, geb. Salm-Reifferscheidt",
     "gnd": "https://d-nb.info/gnd/118905414",
     "other_url": "",
     "emt_id": "emt_person_id__84",
@@ -1964,13 +1940,13 @@
     "birth_date_written": null,
     "death_date_written": null,
     "Geschlecht": null,
-    "Titel": null,
-    "Funktionsbezeichnung": null
+    "Funktionsbezeichnungen": null,
+    "Titel": "Gräfin"
   },
   "85": {
     "id": 85,
     "order": "85.00000000000000000000",
-    "name": "Friedrich Wilhelm von Rietberg",
+    "name": "Rietberg und Ostfriesland, Friedrich Wilhelm von",
     "gnd": "https://d-nb.info/gnd/173286305",
     "other_url": "",
     "emt_id": "emt_person_id__85",
@@ -1988,13 +1964,13 @@
     "birth_date_written": null,
     "death_date_written": null,
     "Geschlecht": null,
-    "Titel": null,
-    "Funktionsbezeichnung": null
+    "Funktionsbezeichnungen": null,
+    "Titel": "Graf"
   },
   "86": {
     "id": 86,
     "order": "86.00000000000000000000",
-    "name": "Franz Egon von Fürstenberg-Heiligenberg, Bischof von Straßburg",
+    "name": "Fürstenberg-Heiligenberg, Franz Egon von",
     "gnd": "https://d-nb.info/gnd/115773371",
     "other_url": "",
     "emt_id": "emt_person_id__86",
@@ -2012,13 +1988,13 @@
     "birth_date_written": null,
     "death_date_written": null,
     "Geschlecht": null,
-    "Titel": null,
-    "Funktionsbezeichnung": null
+    "Funktionsbezeichnungen": "Bischof von Straßburg",
+    "Titel": "Fürst"
   },
   "87": {
     "id": 87,
     "order": "87.00000000000000000000",
-    "name": "Karl Ferdinand von Waldstein",
+    "name": "Waldstein, Karl Ferdinand von",
     "gnd": "https://d-nb.info/gnd/136864406",
     "other_url": "",
     "emt_id": "emt_person_id__87",
@@ -2036,13 +2012,13 @@
     "birth_date_written": null,
     "death_date_written": null,
     "Geschlecht": null,
-    "Titel": null,
-    "Funktionsbezeichnung": null
+    "Funktionsbezeichnungen": "Geheimer Rat, Obersthofmeister",
+    "Titel": "Graf"
   },
   "88": {
     "id": 88,
     "order": "88.00000000000000000000",
-    "name": "Christoph Bernhard von Galen, Bischof von Münster",
+    "name": "Galen, Christoph Bernhard von",
     "gnd": "https://d-nb.info/gnd/118520709",
     "other_url": "",
     "emt_id": "emt_person_id__88",
@@ -2060,8 +2036,8 @@
     "birth_date_written": null,
     "death_date_written": null,
     "Geschlecht": null,
-    "Titel": null,
-    "Funktionsbezeichnung": null
+    "Funktionsbezeichnungen": "Bischof von Münster",
+    "Titel": "Graf"
   },
   "89": {
     "id": 89,
@@ -2084,13 +2060,13 @@
     "birth_date_written": null,
     "death_date_written": null,
     "Geschlecht": null,
-    "Titel": null,
-    "Funktionsbezeichnung": null
+    "Funktionsbezeichnungen": null,
+    "Titel": "König"
   },
   "90": {
     "id": 90,
     "order": "90.00000000000000000000",
-    "name": "Ferdinand Max Egon von Fürstenberg-Heiligenberg",
+    "name": "Fürstenberg-Heiligenberg, Ferdinand Max Egon von ?",
     "gnd": "",
     "other_url": "http://w.genealogy.euweb.cz/furstbg/furstenbg2.html",
     "emt_id": "emt_person_id__90",
@@ -2108,13 +2084,13 @@
     "birth_date_written": null,
     "death_date_written": null,
     "Geschlecht": null,
-    "Titel": null,
-    "Funktionsbezeichnung": null
+    "Funktionsbezeichnungen": null,
+    "Titel": "Fürst"
   },
   "91": {
     "id": 91,
     "order": "91.00000000000000000000",
-    "name": "Wilhelm Egon von Fürstenberg-Heiligenberg, Bischof von Straßburg",
+    "name": "Fürstenberg-Heiligenberg, Wilhelm Egon von",
     "gnd": "https://d-nb.info/gnd/118771868",
     "other_url": "",
     "emt_id": "emt_person_id__91",
@@ -2132,13 +2108,13 @@
     "birth_date_written": null,
     "death_date_written": null,
     "Geschlecht": null,
-    "Titel": null,
-    "Funktionsbezeichnung": null
+    "Funktionsbezeichnungen": "Bischof von Straßburg, Kardinal",
+    "Titel": "Fürst"
   },
   "92": {
     "id": 92,
     "order": "92.00000000000000000000",
-    "name": "Adolf Johann von Pfalz-Zweibrücken-Kleeburg",
+    "name": "Pfalz-Zweibrücken-Kleeburg, Adolf Johann von",
     "gnd": "https://d-nb.info/gnd/104206489",
     "other_url": "",
     "emt_id": "emt_person_id__92",
@@ -2156,13 +2132,13 @@
     "birth_date_written": null,
     "death_date_written": null,
     "Geschlecht": null,
-    "Titel": null,
-    "Funktionsbezeichnung": null
+    "Funktionsbezeichnungen": null,
+    "Titel": "Herzog"
   },
   "93": {
     "id": 93,
     "order": "93.00000000000000000000",
-    "name": "Elsa Elisabeth von Pfalz-Zweibrücken-Kleeburg, geb. Brahe, verw. Oxenstierna",
+    "name": "Pfalz-Zweibrücken-Kleeburg, Elsa Elisabeth von, geb. Brahe, verw. Oxenstierna",
     "gnd": "",
     "other_url": "https://daten.digitale-sammlungen.de/0001/bsb00016325/images/index.html?fip=193.174.98.30&id=00016325&seite=349",
     "emt_id": "emt_person_id__93",
@@ -2180,13 +2156,13 @@
     "birth_date_written": null,
     "death_date_written": null,
     "Geschlecht": null,
-    "Titel": null,
-    "Funktionsbezeichnung": null
+    "Funktionsbezeichnungen": null,
+    "Titel": "Herzogin"
   },
   "94": {
     "id": 94,
     "order": "94.00000000000000000000",
-    "name": "Katharina von Pfalz-Zweibrücken-Kleeburg, vereh. Gyllenstierna",
+    "name": "Pfalz-Zweibrücken-Kleeburg, Katharina von, vereh. Gyllenstierna",
     "gnd": "",
     "other_url": "https://daten.digitale-sammlungen.de/0001/bsb00016325/images/index.html?fip=193.174.98.30&id=00016325&seite=349",
     "emt_id": "emt_person_id__94",
@@ -2204,13 +2180,13 @@
     "birth_date_written": null,
     "death_date_written": null,
     "Geschlecht": null,
-    "Titel": null,
-    "Funktionsbezeichnung": null
+    "Funktionsbezeichnungen": null,
+    "Titel": "Herzogin"
   },
   "95": {
     "id": 95,
     "order": "95.00000000000000000000",
-    "name": "Maria Elisabeth von Pfalz-Zweibrücken-Kleeburg, vereh. Gersdorff",
+    "name": "Pfalz-Zweibrücken-Kleeburg, Maria Elisabeth von, vereh. Gersdorff",
     "gnd": "https://d-nb.info/gnd/104183861",
     "other_url": "https://daten.digitale-sammlungen.de/0001/bsb00016325/images/index.html?fip=193.174.98.30&id=00016325&seite=349",
     "emt_id": "emt_person_id__95",
@@ -2228,13 +2204,13 @@
     "birth_date_written": null,
     "death_date_written": null,
     "Geschlecht": null,
-    "Titel": null,
-    "Funktionsbezeichnung": null
+    "Funktionsbezeichnungen": null,
+    "Titel": "Herzogin"
   },
   "96": {
     "id": 96,
     "order": "96.00000000000000000000",
-    "name": "Maria Theresia von Kollonitsch, geb. Aspremont-Lynden (Reckheim)",
+    "name": "Kollonitsch, Maria Theresia von, geb. Aspremont-Lynden (Reckheim)",
     "gnd": "",
     "other_url": "https://gw.geneanet.org/cvpolier?lang=de&n=d+aspremont+lynden&oc=0&p=maria+theresia+ernestine",
     "emt_id": "emt_person_id__96",
@@ -2252,13 +2228,13 @@
     "birth_date_written": null,
     "death_date_written": null,
     "Geschlecht": null,
-    "Titel": null,
-    "Funktionsbezeichnung": null
+    "Funktionsbezeichnungen": null,
+    "Titel": "Gräfin"
   },
   "97": {
     "id": 97,
     "order": "97.00000000000000000000",
-    "name": "Johann Georg von Kollonitsch",
+    "name": "Kollonitsch, Johann Georg von",
     "gnd": "https://d-nb.info/gnd/121822598X",
     "other_url": "",
     "emt_id": "emt_person_id__97",
@@ -2276,17 +2252,17 @@
     "birth_date_written": null,
     "death_date_written": null,
     "Geschlecht": null,
-    "Titel": null,
-    "Funktionsbezeichnung": null
+    "Funktionsbezeichnungen": null,
+    "Titel": "Graf"
   },
   "98": {
     "id": 98,
     "order": "98.00000000000000000000",
-    "name": "Johann Georg Huber, Leibarzt",
+    "name": "Huber, Johann Georg",
     "gnd": "",
     "other_url": "",
     "emt_id": "emt_person_id__98",
-    "internal_comment": "Leibarzt EMT von 1677 bis 1682",
+    "internal_comment": "Leibarzt EMT von 1677 bis 1682 - URL fehlt",
     "color": "",
     "lebensdaten": "",
     "ndb": "",
@@ -2300,13 +2276,13 @@
     "birth_date_written": null,
     "death_date_written": null,
     "Geschlecht": null,
-    "Titel": null,
-    "Funktionsbezeichnung": null
+    "Funktionsbezeichnungen": "Leibarzt",
+    "Titel": "Doktor"
   },
   "99": {
     "id": 99,
     "order": "99.00000000000000000000",
-    "name": "Vincenzo Gonzaga di Guastalla",
+    "name": "Gonzaga di Guastalla, Vincenzo",
     "gnd": "https://d-nb.info/gnd/1166465764",
     "other_url": "",
     "emt_id": "emt_person_id__99",
@@ -2324,13 +2300,13 @@
     "birth_date_written": null,
     "death_date_written": null,
     "Geschlecht": null,
-    "Titel": null,
-    "Funktionsbezeichnung": null
+    "Funktionsbezeichnungen": "Obersthofmeister",
+    "Titel": null
   },
   "100": {
     "id": 100,
     "order": "100.00000000000000000000",
-    "name": "Damian Hartard von der Leyen, Kurfürst von Mainz",
+    "name": "von der Leyen, Damian Hartard",
     "gnd": "https://d-nb.info/gnd/11564976X",
     "other_url": "",
     "emt_id": "emt_person_id__100",
@@ -2348,13 +2324,13 @@
     "birth_date_written": null,
     "death_date_written": null,
     "Geschlecht": null,
-    "Titel": null,
-    "Funktionsbezeichnung": null
+    "Funktionsbezeichnungen": "Kurfürst und Erzbischof von Mainz",
+    "Titel": "Kurfürst"
   },
   "101": {
     "id": 101,
     "order": "101.00000000000000000000",
-    "name": "Johann Hugo von Orsbeck, Kurfürst von Trier",
+    "name": "Orsbeck, Johann Hugo von",
     "gnd": "https://d-nb.info/gnd/11871239X",
     "other_url": "",
     "emt_id": "emt_person_id__101",
@@ -2372,17 +2348,17 @@
     "birth_date_written": null,
     "death_date_written": null,
     "Geschlecht": null,
-    "Titel": null,
-    "Funktionsbezeichnung": null
+    "Funktionsbezeichnungen": "Kurfürst und Erzbischof von Trier",
+    "Titel": "Kurfürst"
   },
   "102": {
     "id": 102,
     "order": "102.00000000000000000000",
-    "name": "Hans Eitel Diede zum Fürstenstein, hessischer Gesandter",
+    "name": "Diede zum Fürstenstein, Hans Eitel",
     "gnd": "https://d-nb.info/gnd/1013454316",
     "other_url": "",
     "emt_id": "emt_person_id__102",
-    "internal_comment": "Gesandter Hessen-Darmstadt in Wien 1677",
+    "internal_comment": "",
     "color": "",
     "lebensdaten": "1624-1685",
     "ndb": "https://www.deutsche-biographie.de/pnd1013454316.html#indexcontent",
@@ -2396,17 +2372,17 @@
     "birth_date_written": null,
     "death_date_written": null,
     "Geschlecht": null,
-    "Titel": null,
-    "Funktionsbezeichnung": null
+    "Funktionsbezeichnungen": "Gesandter Hessen-Darmstadt in Wien 1677",
+    "Titel": null
   },
   "103": {
     "id": 103,
     "order": "103.00000000000000000000",
-    "name": "Spanischer Botschafter in Düsseldorf 1677",
+    "name": "NN, spanischer Botschafter in Düsseldorf 1677",
     "gnd": "",
     "other_url": "",
     "emt_id": "emt_person_id__103",
-    "internal_comment": "wahrscheinlich auf der Durchreise in die Spanischen Niederlande oder nach Spanien, denn EMT kennt ihn und seine Frau\n1676 war in Wien Pedro Gaetano y Fernandez del Campo, https://datos.bne.es/persona/XX1523613.html  - file:///C:/Users/adalb/Downloads/781-Texto%20del%20art%C3%ADculo%20(necesario)-793-2-10-20140530.pdf\n\n1677 der Conde de Humanes (Bittner/Groß, 517)\neventuell Viliannosa ? siehe id_157",
+    "internal_comment": "unidentifiziert\nwahrscheinlich auf der Durchreise in die Spanischen Niederlande oder nach Spanien, denn EMT kennt ihn und seine Frau\n1676 war in Wien Pedro Gaetano y Fernandez del Campo, https://datos.bne.es/persona/XX1523613.html  - file:///C:/Users/adalb/Downloads/781-Texto%20del%20art%C3%ADculo%20(necesario)-793-2-10-20140530.pdf\n\n1677 der Conde de Humanes (Bittner/Groß, 517)\neventuell Viliannosa ? siehe id_157",
     "color": "",
     "lebensdaten": "",
     "ndb": "",
@@ -2420,17 +2396,17 @@
     "birth_date_written": null,
     "death_date_written": null,
     "Geschlecht": null,
-    "Titel": null,
-    "Funktionsbezeichnung": null
+    "Funktionsbezeichnungen": null,
+    "Titel": null
   },
   "104": {
     "id": 104,
     "order": "104.00000000000000000000",
-    "name": "Sohn des Spanischen Botschafters in Düsseldorf 1677",
+    "name": "NN, Sohn des Spanischen Botschafters in Düsseldorf 1677",
     "gnd": "",
     "other_url": "",
     "emt_id": "emt_person_id__104",
-    "internal_comment": "",
+    "internal_comment": "unidentifiziert",
     "color": "",
     "lebensdaten": "",
     "ndb": "",
@@ -2444,17 +2420,17 @@
     "birth_date_written": null,
     "death_date_written": null,
     "Geschlecht": null,
-    "Titel": null,
-    "Funktionsbezeichnung": null
+    "Funktionsbezeichnungen": null,
+    "Titel": null
   },
   "105": {
     "id": 105,
     "order": "105.00000000000000000000",
-    "name": "Gemahlin des Spanischen Botschafters in Düsseldorf 1677",
+    "name": "NN, Gemahlin des Spanischen Botschafters in Düsseldorf 1677",
     "gnd": "",
     "other_url": "",
     "emt_id": "emt_person_id__105",
-    "internal_comment": "",
+    "internal_comment": "unidentifiziert",
     "color": "",
     "lebensdaten": "",
     "ndb": "",
@@ -2468,8 +2444,8 @@
     "birth_date_written": null,
     "death_date_written": null,
     "Geschlecht": null,
-    "Titel": null,
-    "Funktionsbezeichnung": null
+    "Funktionsbezeichnungen": null,
+    "Titel": null
   },
   "106": {
     "id": 106,
@@ -2478,7 +2454,7 @@
     "gnd": "",
     "other_url": "",
     "emt_id": "emt_person_id__106",
-    "internal_comment": "",
+    "internal_comment": "unidentifiziert",
     "color": "",
     "lebensdaten": "",
     "ndb": "",
@@ -2492,13 +2468,13 @@
     "birth_date_written": null,
     "death_date_written": null,
     "Geschlecht": null,
-    "Titel": null,
-    "Funktionsbezeichnung": null
+    "Funktionsbezeichnungen": null,
+    "Titel": null
   },
   "107": {
     "id": 107,
     "order": "107.00000000000000000000",
-    "name": "Francesco Buonvisi, Nuntius",
+    "name": "Buonvisi, Francesco",
     "gnd": "https://d-nb.info/gnd/118948008",
     "other_url": "https://www.treccani.it/enciclopedia/francesco-buonvisi_(Dizionario-Biografico)/",
     "emt_id": "emt_person_id__107",
@@ -2516,13 +2492,13 @@
     "birth_date_written": null,
     "death_date_written": null,
     "Geschlecht": null,
-    "Titel": null,
-    "Funktionsbezeichnung": null
+    "Funktionsbezeichnungen": "Nuntius in Wien (1675-1689), Kardinal",
+    "Titel": null
   },
   "109": {
     "id": 109,
     "order": "109.00000000000000000000",
-    "name": "Amalie Wilhelmine von Braunschweig-Lüneburg",
+    "name": "Amalie Wilhelmine von Braunschweig-Lüneburg, vereh. Österreich",
     "gnd": "http://d-nb.info/101076983",
     "other_url": "",
     "emt_id": "emt_person_id__109",
@@ -2540,13 +2516,13 @@
     "birth_date_written": "",
     "death_date_written": "",
     "Geschlecht": null,
-    "Titel": null,
-    "Funktionsbezeichnung": null
+    "Funktionsbezeichnungen": null,
+    "Titel": "Herzogin, Kaiserin"
   },
   "110": {
     "id": 110,
     "order": "110.00000000000000000000",
-    "name": "Elisabeth Christine von Braunschweig-Wolfenbüttel",
+    "name": "Elisabeth Christine von Braunschweig-Wolfenbüttel, vereh. Österreich",
     "gnd": "http://d-nb.info/122035143",
     "other_url": "",
     "emt_id": "emt_person_id__110",
@@ -2564,13 +2540,13 @@
     "birth_date_written": "",
     "death_date_written": "",
     "Geschlecht": null,
-    "Titel": null,
-    "Funktionsbezeichnung": null
+    "Funktionsbezeichnungen": null,
+    "Titel": "Herzogin, Kaiserin"
   },
   "111": {
     "id": 111,
     "order": "111.00000000000000000000",
-    "name": "Maria Elisabeth, Erzherzogin",
+    "name": "Österreich, Maria Elisabeth von",
     "gnd": "http://d-nb.info/118927426",
     "other_url": "",
     "emt_id": "emt_person_id__111",
@@ -2588,13 +2564,13 @@
     "birth_date_written": "",
     "death_date_written": "",
     "Geschlecht": null,
-    "Titel": null,
-    "Funktionsbezeichnung": null
+    "Funktionsbezeichnungen": null,
+    "Titel": "Erzherzogin"
   },
   "112": {
     "id": 112,
     "order": "112.00000000000000000000",
-    "name": "Leopold Joseph, Erzherzog",
+    "name": "Österreich, Leopold Joseph von",
     "gnd": "https://d-nb.info/gnd/104279672",
     "other_url": "",
     "emt_id": "emt_person_id__112",
@@ -2612,13 +2588,13 @@
     "birth_date_written": "",
     "death_date_written": "",
     "Geschlecht": null,
-    "Titel": null,
-    "Funktionsbezeichnung": null
+    "Funktionsbezeichnungen": null,
+    "Titel": "Erzherzog"
   },
   "113": {
     "id": 113,
     "order": "113.00000000000000000000",
-    "name": "Maria Anna Josepha, Erzherzogin",
+    "name": "Österreich, Maria Anna Josepha von, vereh. Portugal",
     "gnd": "http://d-nb.info/119360691",
     "other_url": "",
     "emt_id": "emt_person_id__113",
@@ -2636,13 +2612,13 @@
     "birth_date_written": "",
     "death_date_written": "",
     "Geschlecht": null,
-    "Titel": null,
-    "Funktionsbezeichnung": null
+    "Funktionsbezeichnungen": null,
+    "Titel": "Erzherzogin"
   },
   "114": {
     "id": 114,
     "order": "114.00000000000000000000",
-    "name": "Maria Josepha, Erzherzogin",
+    "name": "Österreich, Maria Josepha von",
     "gnd": "",
     "other_url": "",
     "emt_id": "emt_person_id__114",
@@ -2660,13 +2636,13 @@
     "birth_date_written": "",
     "death_date_written": "",
     "Geschlecht": null,
-    "Titel": null,
-    "Funktionsbezeichnung": null
+    "Funktionsbezeichnungen": null,
+    "Titel": "Erzherzogin"
   },
   "115": {
     "id": 115,
     "order": "115.00000000000000000000",
-    "name": "Maria Theresia, Erzherzogin",
+    "name": "Österreich, Maria Theresia von",
     "gnd": "https://d-nb.info/gnd/130261033",
     "other_url": "",
     "emt_id": "emt_person_id__115",
@@ -2684,8 +2660,8 @@
     "birth_date_written": "",
     "death_date_written": "",
     "Geschlecht": null,
-    "Titel": null,
-    "Funktionsbezeichnung": null
+    "Funktionsbezeichnungen": null,
+    "Titel": "Erzherzogin"
   },
   "116": {
     "id": 116,
@@ -2708,8 +2684,8 @@
     "birth_date_written": "",
     "death_date_written": "",
     "Geschlecht": null,
-    "Titel": null,
-    "Funktionsbezeichnung": null
+    "Funktionsbezeichnungen": null,
+    "Titel": null
   },
   "117": {
     "id": 117,
@@ -2732,13 +2708,13 @@
     "birth_date_written": "",
     "death_date_written": "",
     "Geschlecht": null,
-    "Titel": null,
-    "Funktionsbezeichnung": null
+    "Funktionsbezeichnungen": null,
+    "Titel": null
   },
   "118": {
     "id": 118,
     "order": "118.00000000000000000000",
-    "name": "Ferdinand Joseph von Dietrichstein, Obersthofmeister",
+    "name": "Dietrichstein, Ferdinand Joseph von",
     "gnd": "http://d-nb.info/123254868",
     "other_url": "",
     "emt_id": "emt_person_id__118",
@@ -2756,13 +2732,13 @@
     "birth_date_written": "",
     "death_date_written": "",
     "Geschlecht": null,
-    "Titel": null,
-    "Funktionsbezeichnung": null
+    "Funktionsbezeichnungen": "Obersthofmeister",
+    "Titel": "Fürst"
   },
   "119": {
     "id": 119,
     "order": "119.00000000000000000000",
-    "name": "Alexander Otto von Velen",
+    "name": "Velen, Alexander Otto von",
     "gnd": "http://d-nb.info/102930257X",
     "other_url": "",
     "emt_id": "emt_person_id__119",
@@ -2780,8 +2756,8 @@
     "birth_date_written": "",
     "death_date_written": "",
     "Geschlecht": null,
-    "Titel": null,
-    "Funktionsbezeichnung": null
+    "Funktionsbezeichnungen": "General",
+    "Titel": "Graf"
   },
   "120": {
     "id": 120,
@@ -2804,13 +2780,13 @@
     "birth_date_written": "",
     "death_date_written": "",
     "Geschlecht": null,
-    "Titel": null,
-    "Funktionsbezeichnung": null
+    "Funktionsbezeichnungen": null,
+    "Titel": null
   },
   "121": {
     "id": 121,
     "order": "121.00000000000000000000",
-    "name": "Emerich Sinelli OFMCap",
+    "name": "Sinelli, Emerich OFMCap",
     "gnd": "http://d-nb.info/120092662",
     "other_url": "",
     "emt_id": "emt_person_id__121",
@@ -2828,13 +2804,13 @@
     "birth_date_written": "",
     "death_date_written": "",
     "Geschlecht": null,
-    "Titel": null,
-    "Funktionsbezeichnung": null
+    "Funktionsbezeichnungen": "Bischof von Wien",
+    "Titel": "Pater"
   },
   "122": {
     "id": 122,
     "order": "122.00000000000000000000",
-    "name": "Johann Friedrich von Brandenburg-Ansbach",
+    "name": "Brandenburg-Ansbach, Johann Friedrich von",
     "gnd": "http://d-nb.info/104130881",
     "other_url": "",
     "emt_id": "emt_person_id__122",
@@ -2852,13 +2828,13 @@
     "birth_date_written": "",
     "death_date_written": "",
     "Geschlecht": null,
-    "Titel": null,
-    "Funktionsbezeichnung": null
+    "Funktionsbezeichnungen": null,
+    "Titel": "Markgraf"
   },
   "123": {
     "id": 123,
     "order": "123.00000000000000000000",
-    "name": "Anna Maria Luisa von der Pfalz, geb. Medici",
+    "name": "Pfalz-Neuburg, Anna Maria Luisa von, geb. Medici",
     "gnd": "http://d-nb.info/118846787",
     "other_url": "https://www.treccani.it/enciclopedia/anna-maria-luisa-de-medici-elettrice-del-palatinato_%28Dizionario-Biografico%29/",
     "emt_id": "emt_person_id__123",
@@ -2876,17 +2852,17 @@
     "birth_date_written": "",
     "death_date_written": "",
     "Geschlecht": null,
-    "Titel": null,
-    "Funktionsbezeichnung": null
+    "Funktionsbezeichnungen": null,
+    "Titel": "Kurfürstin"
   },
   "124": {
     "id": 124,
     "order": "124.00000000000000000000",
-    "name": "Ludwig Anton von Pfalz-Neuburg",
+    "name": "Pfalz-Neuburg, Ludwig Anton von",
     "gnd": "http://d-nb.info/118888536",
     "other_url": "",
     "emt_id": "emt_person_id__124",
-    "internal_comment": "Deutschmeister, Bischof von Worms",
+    "internal_comment": "",
     "color": "",
     "lebensdaten": "",
     "ndb": "https://www.deutsche-biographie.de/sfz54782.html#indexcontent",
@@ -2900,13 +2876,13 @@
     "birth_date_written": "",
     "death_date_written": "",
     "Geschlecht": null,
-    "Titel": null,
-    "Funktionsbezeichnung": null
+    "Funktionsbezeichnungen": "Deutschmeister, Bischof von Worms",
+    "Titel": "Herzog"
   },
   "125": {
     "id": 125,
     "order": "125.00000000000000000000",
-    "name": "Luise Charlotte von Pfalz-Neuburg, geb. Radziwill, verw. Brandenburg",
+    "name": "Pfalz-Neuburg, Luise Charlotte von, geb. Radziwill, verw. Brandenburg",
     "gnd": "https://d-nb.info/gnd/128635622",
     "other_url": "https://de.wikipedia.org/wiki/Luise_Charlotte_Radziwill",
     "emt_id": "emt_person_id__125",
@@ -2924,13 +2900,13 @@
     "birth_date_written": "",
     "death_date_written": "",
     "Geschlecht": null,
-    "Titel": null,
-    "Funktionsbezeichnung": null
+    "Funktionsbezeichnungen": null,
+    "Titel": "Herzogin"
   },
   "126": {
     "id": 126,
     "order": "126.00000000000000000000",
-    "name": "Theresia Katharina von Pfalz-Neuburg, geb. Lubomirska",
+    "name": "Pfalz-Neuburg, Theresia Katharina von, geb. Lubomirska",
     "gnd": "https://d-nb.info/gnd/101509922X",
     "other_url": "https://de.wikipedia.org/wiki/Theresa_Katharina_Lubomirska",
     "emt_id": "emt_person_id__126",
@@ -2948,17 +2924,17 @@
     "birth_date_written": "",
     "death_date_written": "",
     "Geschlecht": null,
-    "Titel": null,
-    "Funktionsbezeichnung": null
+    "Funktionsbezeichnungen": null,
+    "Titel": "Herzogin"
   },
   "127": {
     "id": 127,
     "order": "127.00000000000000000000",
-    "name": "Alexander Sigmund von Pfalz-Neuburg",
+    "name": "Pfalz-Neuburg, Alexander Sigmund von",
     "gnd": "http://d-nb.info/121822036",
     "other_url": "",
     "emt_id": "emt_person_id__127",
-    "internal_comment": "Bischof von Augsburg",
+    "internal_comment": "",
     "color": "",
     "lebensdaten": "",
     "ndb": "https://www.deutsche-biographie.de/sfz52659.html#indexcontent",
@@ -2972,17 +2948,17 @@
     "birth_date_written": "",
     "death_date_written": "",
     "Geschlecht": null,
-    "Titel": null,
-    "Funktionsbezeichnung": null
+    "Funktionsbezeichnungen": "Bischof von Augsburg",
+    "Titel": "Herzog"
   },
   "128": {
     "id": 128,
     "order": "128.00000000000000000000",
-    "name": "Franz Ludwig von Pfalz-Neuburg",
+    "name": "Pfalz-Neuburg, Franz Ludwig von",
     "gnd": "http://d-nb.info/11897131X",
     "other_url": "",
     "emt_id": "emt_person_id__128",
-    "internal_comment": "Bischof von Breslau, Deutschmeister, Kurfürst von Trier",
+    "internal_comment": "",
     "color": "",
     "lebensdaten": "",
     "ndb": "https://www.deutsche-biographie.de/sfz52971.html#indexcontent",
@@ -2996,13 +2972,13 @@
     "birth_date_written": "",
     "death_date_written": "",
     "Geschlecht": null,
-    "Titel": null,
-    "Funktionsbezeichnung": null
+    "Funktionsbezeichnungen": "Bischof von Breslau, Deutschmeister, Kurfürst und Erzbischof von Trier",
+    "Titel": "Herzog, Kurfürst"
   },
   "129": {
     "id": 129,
     "order": "129.00000000000000000000",
-    "name": "Friedrich Wilhelm von Pfalz-Neuburg",
+    "name": "Pfalz-Neuburg, Friedrich Wilhelm von",
     "gnd": "http://d-nb.info/120091526",
     "other_url": "",
     "emt_id": "emt_person_id__129",
@@ -3020,8 +2996,8 @@
     "birth_date_written": "",
     "death_date_written": "",
     "Geschlecht": null,
-    "Titel": null,
-    "Funktionsbezeichnung": null
+    "Funktionsbezeichnungen": "General",
+    "Titel": "Herzog"
   },
   "130": {
     "id": 130,
@@ -3044,13 +3020,13 @@
     "birth_date_written": "",
     "death_date_written": "",
     "Geschlecht": null,
-    "Titel": null,
-    "Funktionsbezeichnung": null
+    "Funktionsbezeichnungen": null,
+    "Titel": "König"
   },
   "131": {
     "id": 131,
     "order": "131.00000000000000000000",
-    "name": "Philipp Wilhelm August von Pfalz-Neuburg",
+    "name": "Pfalz-Neuburg, Philipp Wilhelm August von",
     "gnd": "http://d-nb.info/140003908",
     "other_url": "",
     "emt_id": "emt_person_id__131",
@@ -3068,13 +3044,13 @@
     "birth_date_written": "",
     "death_date_written": "",
     "Geschlecht": null,
-    "Titel": null,
-    "Funktionsbezeichnung": null
+    "Funktionsbezeichnungen": null,
+    "Titel": "Herzog"
   },
   "132": {
     "id": 132,
     "order": "132.00000000000000000000",
-    "name": "Odoardo II. Farnese von Parma",
+    "name": "Parma, Odoardo II. Farnese von",
     "gnd": "http://d-nb.info/119112086",
     "other_url": "https://www.treccani.it/enciclopedia/farnese-odoardo-detto-odoardo-ii/",
     "emt_id": "emt_person_id__132",
@@ -3092,13 +3068,13 @@
     "birth_date_written": "",
     "death_date_written": "",
     "Geschlecht": null,
-    "Titel": null,
-    "Funktionsbezeichnung": null
+    "Funktionsbezeichnungen": null,
+    "Titel": "Herzog"
   },
   "133": {
     "id": 133,
     "order": "133.00000000000000000000",
-    "name": "Francesco Maria Farnese von Parma",
+    "name": "Parma, Francesco Maria Farnese von",
     "gnd": "http://d-nb.info/116693169",
     "other_url": "",
     "emt_id": "emt_person_id__133",
@@ -3116,13 +3092,13 @@
     "birth_date_written": "",
     "death_date_written": "",
     "Geschlecht": null,
-    "Titel": null,
-    "Funktionsbezeichnung": null
+    "Funktionsbezeichnungen": null,
+    "Titel": "Herzog"
   },
   "134": {
     "id": 134,
     "order": "134.00000000000000000000",
-    "name": "Hedwig Elisabeth Sobeski, geb. Pfalz-Neuburg",
+    "name": "Pfalz-Neuburg, Hedwig Elisabeth von, vereh. Sobeski",
     "gnd": "http://d-nb.info/139996982",
     "other_url": "",
     "emt_id": "emt_person_id__134",
@@ -3140,13 +3116,13 @@
     "birth_date_written": "",
     "death_date_written": "",
     "Geschlecht": null,
-    "Titel": null,
-    "Funktionsbezeichnung": null
+    "Funktionsbezeichnungen": null,
+    "Titel": "Herzogin"
   },
   "135": {
     "id": 135,
     "order": "135.00000000000000000000",
-    "name": "Jakob Louis Heinrich Sobieski",
+    "name": "Sobieski, Jakob Louis Heinrich",
     "gnd": "http://d-nb.info/120542382",
     "other_url": "",
     "emt_id": "emt_person_id__135",
@@ -3164,13 +3140,13 @@
     "birth_date_written": "",
     "death_date_written": "",
     "Geschlecht": null,
-    "Titel": null,
-    "Funktionsbezeichnung": null
+    "Funktionsbezeichnungen": null,
+    "Titel": "Prinz"
   },
   "136": {
     "id": 136,
     "order": "136.00000000000000000000",
-    "name": "Leopoldine Eleonore von Pfalz-Neuburg",
+    "name": "Pfalz-Neuburg, Leopoldine Eleonore von",
     "gnd": "http://d-nb.info/120091798",
     "other_url": "",
     "emt_id": "emt_person_id__136",
@@ -3188,13 +3164,13 @@
     "birth_date_written": "",
     "death_date_written": "",
     "Geschlecht": null,
-    "Titel": null,
-    "Funktionsbezeichnung": null
+    "Funktionsbezeichnungen": null,
+    "Titel": "Herzogin"
   },
   "137": {
     "id": 137,
     "order": "137.00000000000000000000",
-    "name": "Kaiserin Margarita Teresa, geb. Spanien",
+    "name": "Margarita Teresa, geb. Spanien",
     "gnd": "http://d-nb.info/118730991",
     "other_url": "",
     "emt_id": "emt_person_id__137",
@@ -3212,13 +3188,13 @@
     "birth_date_written": "",
     "death_date_written": "",
     "Geschlecht": null,
-    "Titel": null,
-    "Funktionsbezeichnung": null
+    "Funktionsbezeichnungen": null,
+    "Titel": "Kaiserin"
   },
   "138": {
     "id": 138,
     "order": "138.00000000000000000000",
-    "name": "Kaiserin Claudia Felicitas, geb. Tirol",
+    "name": "Claudia Felicitas, geb. Tirol",
     "gnd": "http://d-nb.info/101072872",
     "other_url": "",
     "emt_id": "emt_person_id__138",
@@ -3236,13 +3212,13 @@
     "birth_date_written": "",
     "death_date_written": "",
     "Geschlecht": null,
-    "Titel": null,
-    "Funktionsbezeichnung": null
+    "Funktionsbezeichnungen": null,
+    "Titel": "Kaiserin"
   },
   "139": {
     "id": 139,
     "order": "139.00000000000000000000",
-    "name": "Maximilian II. Emanuel von Bayern, Kurfürst",
+    "name": "Bayern, Maximilian II. Emanuel von",
     "gnd": "http://d-nb.info/11857941X",
     "other_url": "",
     "emt_id": "emt_person_id__139",
@@ -3260,8 +3236,8 @@
     "birth_date_written": "",
     "death_date_written": "",
     "Geschlecht": null,
-    "Titel": null,
-    "Funktionsbezeichnung": null
+    "Funktionsbezeichnungen": null,
+    "Titel": "Kurfürst"
   },
   "140": {
     "id": 140,
@@ -3270,7 +3246,7 @@
     "gnd": "",
     "other_url": "",
     "emt_id": "emt_person_id__140",
-    "internal_comment": "",
+    "internal_comment": "unidentifiziert",
     "color": "",
     "lebensdaten": "",
     "ndb": "",
@@ -3284,8 +3260,8 @@
     "birth_date_written": "",
     "death_date_written": "",
     "Geschlecht": null,
-    "Titel": null,
-    "Funktionsbezeichnung": null
+    "Funktionsbezeichnungen": null,
+    "Titel": null
   },
   "141": {
     "id": 141,
@@ -3294,7 +3270,7 @@
     "gnd": "",
     "other_url": "",
     "emt_id": "emt_person_id__141",
-    "internal_comment": "",
+    "internal_comment": "unidentifiziert",
     "color": "",
     "lebensdaten": "",
     "ndb": "",
@@ -3308,13 +3284,13 @@
     "birth_date_written": "",
     "death_date_written": "",
     "Geschlecht": null,
-    "Titel": null,
-    "Funktionsbezeichnung": null
+    "Funktionsbezeichnungen": null,
+    "Titel": null
   },
   "142": {
     "id": 142,
     "order": "142.00000000000000000000",
-    "name": "Rietberg (Cirksena), Haus",
+    "name": "Rietberg und Ostfriesland (Cirksena), Haus",
     "gnd": "",
     "other_url": "",
     "emt_id": "emt_person_id__142",
@@ -3332,13 +3308,13 @@
     "birth_date_written": "",
     "death_date_written": "",
     "Geschlecht": null,
-    "Titel": null,
-    "Funktionsbezeichnung": null
+    "Funktionsbezeichnungen": null,
+    "Titel": null
   },
   "143": {
     "id": 143,
     "order": "143.00000000000000000000",
-    "name": "Maria Leopoldina Katharina von Rietberg, Gräfin von Ostfriesland",
+    "name": "Rietberg und Ostfriesland, Maria Leopoldina Katharina von",
     "gnd": "",
     "other_url": "https://worldhistory.de/wnf/navbar/wnf.php?oid=9888&sid=",
     "emt_id": "emt_person_id__143",
@@ -3356,13 +3332,13 @@
     "birth_date_written": "",
     "death_date_written": "",
     "Geschlecht": null,
-    "Titel": null,
-    "Funktionsbezeichnung": null
+    "Funktionsbezeichnungen": null,
+    "Titel": "Gräfin"
   },
   "144": {
     "id": 144,
     "order": "144.00000000000000000000",
-    "name": "Bernhardine Sophie von Rietberg (Ostfriesland)",
+    "name": "Rietberg und Ostfriesland, Bernhardine Sophie von",
     "gnd": "",
     "other_url": "https://worldhistory.de/wnf/navbar/wnf.php?oid=9888&sid=",
     "emt_id": "emt_person_id__144",
@@ -3380,15 +3356,15 @@
     "birth_date_written": "",
     "death_date_written": "",
     "Geschlecht": null,
-    "Titel": null,
-    "Funktionsbezeichnung": null
+    "Funktionsbezeichnungen": null,
+    "Titel": "Gräfin"
   },
   "145": {
     "id": 145,
     "order": "145.00000000000000000000",
-    "name": "Sidonie Elisabeth von Liechtenstein, geb. Salm-Reifferscheidt",
+    "name": "Liechtenstein, Sidonie Elisabeth von, geb. Salm-Reifferscheidt",
     "gnd": "",
-    "other_url": "https://gw.geneanet.org/frebault?lang=en&n=von+salm+reifferscheidt&oc=0&p=ernst+friedrich",
+    "other_url": "",
     "emt_id": "emt_person_id__145",
     "internal_comment": "",
     "color": "",
@@ -3396,40 +3372,40 @@
     "ndb": "",
     "year_of_birth": "1623",
     "year_of_death": "1688",
-    "wikidata_url": "",
+    "wikidata_url": "https://www.wikidata.org/wiki/Q54890994",
     "wikidata_enriched": false,
     "img_name": "",
-    "img_fetched": false,
+    "img_fetched": true,
     "img_source": "",
     "birth_date_written": "",
     "death_date_written": "",
     "Geschlecht": null,
-    "Titel": null,
-    "Funktionsbezeichnung": null
+    "Funktionsbezeichnungen": null,
+    "Titel": "Fürstin"
   },
   "146": {
     "id": 146,
     "order": "146.00000000000000000000",
-    "name": "Vetter Philipp, der Kriegsdienste beim Kaiser nehmen will 1677",
-    "gnd": "",
+    "name": "Pfalz-Sulzbach, Philipp Florinus von ?",
+    "gnd": "https://d-nb.info/gnd/17407820X",
     "other_url": "",
     "emt_id": "emt_person_id__146",
-    "internal_comment": "Philipp Florinus von Pfalz-Sulzbach (?) 1630-1703 siehe 27.02.1689 und 2.03.1695: vetter Pfilipp von Sulsbach",
+    "internal_comment": "Vetter Philipp in kaiserlichen Kriegsdiensten (?) siehe 27.02.1689 und 2.03.1695: vetter Pfilipp von Sulsbach",
     "color": "",
     "lebensdaten": "",
     "ndb": "",
-    "year_of_birth": null,
-    "year_of_death": null,
-    "wikidata_url": "",
-    "wikidata_enriched": false,
-    "img_name": "",
-    "img_fetched": false,
-    "img_source": "",
+    "year_of_birth": "1630",
+    "year_of_death": "1703",
+    "wikidata_url": "http://www.wikidata.org/entity/Q2086712",
+    "wikidata_enriched": true,
+    "img_name": "Filippo Principe Palatino di Sulzbach.jpg",
+    "img_fetched": true,
+    "img_source": "commonsMedia",
     "birth_date_written": "",
     "death_date_written": "",
     "Geschlecht": null,
-    "Titel": null,
-    "Funktionsbezeichnung": null
+    "Funktionsbezeichnungen": "General",
+    "Titel": "Herzog"
   },
   "147": {
     "id": 147,
@@ -3438,7 +3414,7 @@
     "gnd": "",
     "other_url": "",
     "emt_id": "emt_person_id__147",
-    "internal_comment": "",
+    "internal_comment": "unidentifiziert",
     "color": "",
     "lebensdaten": "",
     "ndb": "",
@@ -3452,8 +3428,8 @@
     "birth_date_written": "",
     "death_date_written": "",
     "Geschlecht": null,
-    "Titel": null,
-    "Funktionsbezeichnung": null
+    "Funktionsbezeichnungen": null,
+    "Titel": null
   },
   "148": {
     "id": 148,
@@ -3462,7 +3438,7 @@
     "gnd": "",
     "other_url": "",
     "emt_id": "emt_person_id__148",
-    "internal_comment": "",
+    "internal_comment": "unidentifiziert",
     "color": "",
     "lebensdaten": "",
     "ndb": "",
@@ -3476,13 +3452,13 @@
     "birth_date_written": "",
     "death_date_written": "",
     "Geschlecht": null,
-    "Titel": null,
-    "Funktionsbezeichnung": null
+    "Funktionsbezeichnungen": null,
+    "Titel": null
   },
   "149": {
     "id": 149,
     "order": "149.00000000000000000000",
-    "name": "Ferdinand Wilhelm von Schwarzenberg",
+    "name": "Schwarzenberg, Ferdinand Wilhelm von",
     "gnd": "https://d-nb.info/gnd/140446257",
     "other_url": "",
     "emt_id": "emt_person_id__149",
@@ -3500,8 +3476,8 @@
     "birth_date_written": "",
     "death_date_written": "",
     "Geschlecht": null,
-    "Titel": null,
-    "Funktionsbezeichnung": null
+    "Funktionsbezeichnungen": "Obersthofmarschall, Obersthofmeister",
+    "Titel": "Fürst"
   },
   "150": {
     "id": 150,
@@ -3510,7 +3486,7 @@
     "gnd": "",
     "other_url": "",
     "emt_id": "emt_person_id__150",
-    "internal_comment": "",
+    "internal_comment": "unidentifiziert",
     "color": "",
     "lebensdaten": "",
     "ndb": "",
@@ -3524,8 +3500,8 @@
     "birth_date_written": "",
     "death_date_written": "",
     "Geschlecht": null,
-    "Titel": null,
-    "Funktionsbezeichnung": null
+    "Funktionsbezeichnungen": null,
+    "Titel": null
   },
   "151": {
     "id": 151,
@@ -3534,7 +3510,7 @@
     "gnd": "https://d-nb.info/gnd/1200256964",
     "other_url": "https://www.treccani.it/enciclopedia/luigi-bevilacqua_(Dizionario-Biografico)/",
     "emt_id": "emt_person_id__151",
-    "internal_comment": "Nuntius bei Friedensverhandlungen in Nijmegen",
+    "internal_comment": "",
     "color": "",
     "lebensdaten": "",
     "ndb": "",
@@ -3548,32 +3524,32 @@
     "birth_date_written": "",
     "death_date_written": "",
     "Geschlecht": null,
-    "Titel": null,
-    "Funktionsbezeichnung": null
+    "Funktionsbezeichnungen": "Nuntius bei Friedensverhandlungen in Nijmegen",
+    "Titel": null
   },
   "152": {
     "id": 152,
     "order": "152.00000000000000000000",
     "name": "Favoriti, Agostino",
     "gnd": "",
-    "other_url": "",
+    "other_url": "https://www.treccani.it/enciclopedia/agostino-favoriti_(Dizionario-Biografico)/",
     "emt_id": "emt_person_id__152",
     "internal_comment": "Vertrauter Papst Innozenz XI. 1677",
     "color": "",
     "lebensdaten": "",
     "ndb": "",
-    "year_of_birth": null,
-    "year_of_death": null,
-    "wikidata_url": "",
+    "year_of_birth": "1624",
+    "year_of_death": "1682",
+    "wikidata_url": "https://www.wikidata.org/wiki/Q55227437",
     "wikidata_enriched": false,
-    "img_name": "",
-    "img_fetched": false,
-    "img_source": "",
+    "img_name": "Augustino Favorito Sarzanensi (Cardinal Agostino Favoriti), by Filippo Carcani, 1685 - Santa Maria Maggiore - Rome, Italy - DSC05737.jpg",
+    "img_fetched": true,
+    "img_source": "commonsMedia",
     "birth_date_written": "",
     "death_date_written": "",
     "Geschlecht": null,
-    "Titel": null,
-    "Funktionsbezeichnung": null
+    "Funktionsbezeichnungen": "Kardinal",
+    "Titel": null
   },
   "153": {
     "id": 153,
@@ -3582,7 +3558,7 @@
     "gnd": "",
     "other_url": "",
     "emt_id": "emt_person_id__153",
-    "internal_comment": "äußert Meinung gegenüber EMT wegen Koadjutorie in Köln",
+    "internal_comment": "unidentifiziert,\näußert Meinung gegenüber EMT wegen Koadjutorie in Köln",
     "color": "",
     "lebensdaten": "",
     "ndb": "",
@@ -3596,13 +3572,13 @@
     "birth_date_written": "",
     "death_date_written": "",
     "Geschlecht": null,
-    "Titel": null,
-    "Funktionsbezeichnung": null
+    "Funktionsbezeichnungen": null,
+    "Titel": null
   },
   "154": {
     "id": 154,
     "order": "154.00000000000000000000",
-    "name": "Christoph Stettinger SJ",
+    "name": "Stettinger, Christoph  SJ",
     "gnd": "",
     "other_url": "",
     "emt_id": "emt_person_id__154",
@@ -3620,17 +3596,17 @@
     "birth_date_written": "",
     "death_date_written": "",
     "Geschlecht": null,
-    "Titel": null,
-    "Funktionsbezeichnung": null
+    "Funktionsbezeichnungen": null,
+    "Titel": null
   },
   "155": {
     "id": 155,
     "order": "155.00000000000000000000",
-    "name": "Iganz Eusebius von Königsegg-Aulendorf",
+    "name": "Königsegg-Aulendorf, Iganz Eusebius von",
     "gnd": "",
     "other_url": "https://www.angelfire.com/realm/gotha/gotha/konigsegg.html",
     "emt_id": "emt_person_id__155",
-    "internal_comment": "Bruder des Reichsvizekanzlers, Domherr in Köln und Straßburg\nmuss auch Domherr in Augsburg sein",
+    "internal_comment": "Bruder des Reichsvizekanzlers, muss auch Domherr in Augsburg sein",
     "color": "",
     "lebensdaten": "",
     "ndb": "",
@@ -3644,13 +3620,13 @@
     "birth_date_written": "",
     "death_date_written": "",
     "Geschlecht": null,
-    "Titel": null,
-    "Funktionsbezeichnung": null
+    "Funktionsbezeichnungen": "Domherr in Köln und Straßburg",
+    "Titel": "Graf"
   },
   "156": {
     "id": 156,
     "order": "156.00000000000000000000",
-    "name": "Franz Bernhard von Nassau-Hadamar, Domherr zu Köln",
+    "name": "Nassau-Hadamar, Franz Bernhard von",
     "gnd": "https://d-nb.info/gnd/1017400733",
     "other_url": "",
     "emt_id": "emt_person_id__156",
@@ -3668,8 +3644,8 @@
     "birth_date_written": "",
     "death_date_written": "",
     "Geschlecht": null,
-    "Titel": null,
-    "Funktionsbezeichnung": null
+    "Funktionsbezeichnungen": "Domherr zu Köln",
+    "Titel": "Fürst"
   },
   "157": {
     "id": 157,
@@ -3678,7 +3654,7 @@
     "gnd": "",
     "other_url": "",
     "emt_id": "emt_person_id__157",
-    "internal_comment": "",
+    "internal_comment": "unidentifiziert",
     "color": "",
     "lebensdaten": "",
     "ndb": "",
@@ -3692,8 +3668,8 @@
     "birth_date_written": "",
     "death_date_written": "",
     "Geschlecht": null,
-    "Titel": null,
-    "Funktionsbezeichnung": null
+    "Funktionsbezeichnungen": null,
+    "Titel": null
   },
   "158": {
     "id": 158,
@@ -3702,7 +3678,7 @@
     "gnd": "",
     "other_url": "",
     "emt_id": "emt_person_id__158",
-    "internal_comment": "lässt sich PW empfehlen, dem er selbst geschrieben hat (Oktober 1677)",
+    "internal_comment": "unidentifiziert,\nlässt sich PW empfehlen, dem er selbst geschrieben hat (Oktober 1677)",
     "color": "",
     "lebensdaten": "",
     "ndb": "",
@@ -3716,8 +3692,8 @@
     "birth_date_written": "",
     "death_date_written": "",
     "Geschlecht": null,
-    "Titel": null,
-    "Funktionsbezeichnung": null
+    "Funktionsbezeichnungen": null,
+    "Titel": null
   },
   "159": {
     "id": 159,
@@ -3726,7 +3702,7 @@
     "gnd": "",
     "other_url": "",
     "emt_id": "emt_person_id__159",
-    "internal_comment": "soll in Düsseldorf einen Schweißhund für Leopold I. abrichten",
+    "internal_comment": "unidentifiziert, \nsoll in Düsseldorf einen Schweißhund für Leopold I. abrichten",
     "color": "",
     "lebensdaten": "",
     "ndb": "",
@@ -3740,13 +3716,13 @@
     "birth_date_written": "",
     "death_date_written": "",
     "Geschlecht": null,
-    "Titel": null,
-    "Funktionsbezeichnung": null
+    "Funktionsbezeichnungen": null,
+    "Titel": null
   },
   "160": {
     "id": 160,
     "order": "160.00000000000000000000",
-    "name": "Maria Theresia Caretto di Grana, geb. Herberstein, verw. Losenstein",
+    "name": "Caretto di Grana, Maria Theresia, geb. Herberstein, verw. Losenstein",
     "gnd": "http://d-nb.info/115493795X",
     "other_url": "https://www.wikidata.org/wiki/Q94621824",
     "emt_id": "emt_person_id__160",
@@ -3764,17 +3740,17 @@
     "birth_date_written": "",
     "death_date_written": "",
     "Geschlecht": null,
-    "Titel": null,
-    "Funktionsbezeichnung": null
+    "Funktionsbezeichnungen": null,
+    "Titel": null
   },
   "161": {
     "id": 161,
     "order": "161.00000000000000000000",
-    "name": "Nostitz, ist im Herbst 1677 bei Wien bei Wildschweinjagd verwundet worden",
+    "name": "Nostitz, Herr von 1677",
     "gnd": "",
     "other_url": "",
     "emt_id": "emt_person_id__161",
-    "internal_comment": "",
+    "internal_comment": "unidentifiziert,\nist im Herbst 1677 bei Wien bei Wildschweinjagd verwundet worden",
     "color": "",
     "lebensdaten": "",
     "ndb": "",
@@ -3788,13 +3764,13 @@
     "birth_date_written": "",
     "death_date_written": "",
     "Geschlecht": null,
-    "Titel": null,
-    "Funktionsbezeichnung": null
+    "Funktionsbezeichnungen": null,
+    "Titel": null
   },
   "162": {
     "id": 162,
     "order": "162.00000000000000000000",
-    "name": "Johann Georg II. von Anhalt-Dessau",
+    "name": "Anhalt-Dessau, Johann Georg II. von",
     "gnd": "http://d-nb.info/102367604",
     "other_url": "",
     "emt_id": "emt_person_id__162",
@@ -3812,13 +3788,13 @@
     "birth_date_written": "",
     "death_date_written": "",
     "Geschlecht": null,
-    "Titel": null,
-    "Funktionsbezeichnung": null
+    "Funktionsbezeichnungen": null,
+    "Titel": "Fürst"
   },
   "163": {
     "id": 163,
     "order": "163.00000000000000000000",
-    "name": "Johann Kasimir von Anhalt-Dessau",
+    "name": "Anhalt-Dessau, Johann Kasimir von",
     "gnd": "http://d-nb.info/100858457",
     "other_url": "",
     "emt_id": "emt_person_id__163",
@@ -3836,13 +3812,13 @@
     "birth_date_written": "",
     "death_date_written": "",
     "Geschlecht": null,
-    "Titel": null,
-    "Funktionsbezeichnung": null
+    "Funktionsbezeichnungen": null,
+    "Titel": "Fürst"
   },
   "164": {
     "id": 164,
     "order": "164.00000000000000000000",
-    "name": "Ferdinand Bonaventura von Harrach",
+    "name": "Harrach, Ferdinand Bonaventura von",
     "gnd": "http://d-nb.info/116484225",
     "other_url": "",
     "emt_id": "emt_person_id__164",
@@ -3860,8 +3836,8 @@
     "birth_date_written": "",
     "death_date_written": "",
     "Geschlecht": null,
-    "Titel": null,
-    "Funktionsbezeichnung": null
+    "Funktionsbezeichnungen": null,
+    "Titel": "Graf"
   },
   "165": {
     "id": 165,
@@ -3870,7 +3846,7 @@
     "gnd": "",
     "other_url": "",
     "emt_id": "emt_person_id__165",
-    "internal_comment": "ihm hat PW keinen Brief an EMT mitgegeben",
+    "internal_comment": "unidentifiziert,\nihm hat PW keinen Brief an EMT mitgegeben",
     "color": "",
     "lebensdaten": "",
     "ndb": "",
@@ -3884,13 +3860,13 @@
     "birth_date_written": "",
     "death_date_written": "",
     "Geschlecht": null,
-    "Titel": null,
-    "Funktionsbezeichnung": null
+    "Funktionsbezeichnungen": null,
+    "Titel": null
   },
   "166": {
     "id": 166,
     "order": "166.00000000000000000000",
-    "name": "Eleonora Maria von Polen, geb. Habsburg, vereh. Lothringen",
+    "name": "Eleonora Maria von Polen, geb. Österreich, vereh. Lothringen",
     "gnd": "http://d-nb.info/119488930",
     "other_url": "",
     "emt_id": "emt_person_id__166",
@@ -3908,13 +3884,13 @@
     "birth_date_written": "",
     "death_date_written": "",
     "Geschlecht": null,
-    "Titel": null,
-    "Funktionsbezeichnung": null
+    "Funktionsbezeichnungen": null,
+    "Titel": "Königin"
   },
   "167": {
     "id": 167,
     "order": "167.00000000000000000000",
-    "name": "Johann Packenius SJ",
+    "name": "Packenius, Johann SJ",
     "gnd": "",
     "other_url": "",
     "emt_id": "emt_person_id__167",
@@ -3932,13 +3908,13 @@
     "birth_date_written": "",
     "death_date_written": "",
     "Geschlecht": null,
-    "Titel": null,
-    "Funktionsbezeichnung": null
+    "Funktionsbezeichnungen": null,
+    "Titel": null
   },
   "168": {
     "id": 168,
     "order": "168.00000000000000000000",
-    "name": "Wilhelm III. von Oranien",
+    "name": "Wilhelm III. von Oranien, König von England und Schottland",
     "gnd": "https://d-nb.info/gnd/118643355",
     "other_url": "",
     "emt_id": "emt_person_id__168",
@@ -3956,13 +3932,13 @@
     "birth_date_written": "",
     "death_date_written": "",
     "Geschlecht": null,
-    "Titel": null,
-    "Funktionsbezeichnung": null
+    "Funktionsbezeichnungen": null,
+    "Titel": "König"
   },
   "169": {
     "id": 169,
     "order": "169.00000000000000000000",
-    "name": "Marie Hedwig Augusta von Sachsen-Lauenburg, geb. Pfalz-Sulzbach",
+    "name": "Sachsen-Lauenburg, Marie Hedwig Augusta von, geb. Pfalz-Sulzbach",
     "gnd": "http://d-nb.info/124178243",
     "other_url": "",
     "emt_id": "emt_person_id__169",
@@ -3980,13 +3956,13 @@
     "birth_date_written": "",
     "death_date_written": "",
     "Geschlecht": null,
-    "Titel": null,
-    "Funktionsbezeichnung": null
+    "Funktionsbezeichnungen": null,
+    "Titel": "Herzogin"
   },
   "170": {
     "id": 170,
     "order": "170.00000000000000000000",
-    "name": "Johann Caspar von Ampringen, Deutschmeister",
+    "name": "Ampringen, Johann Caspar von",
     "gnd": "http://d-nb.info/116302380",
     "other_url": "",
     "emt_id": "emt_person_id__170",
@@ -4004,8 +3980,8 @@
     "birth_date_written": "",
     "death_date_written": "",
     "Geschlecht": null,
-    "Titel": null,
-    "Funktionsbezeichnung": null
+    "Funktionsbezeichnungen": "Deutschmeister",
+    "Titel": null
   },
   "171": {
     "id": 171,
@@ -4014,7 +3990,7 @@
     "gnd": "",
     "other_url": "",
     "emt_id": "emt_person_id__171",
-    "internal_comment": "hat Briefe von PW überbracht und soll von EMT an Leopold empfohlen werden 1678",
+    "internal_comment": "unidentifiziert,\nhat Briefe von PW überbracht und soll von EMT an Leopold empfohlen werden 1678",
     "color": "",
     "lebensdaten": "",
     "ndb": "",
@@ -4028,22 +4004,22 @@
     "birth_date_written": "",
     "death_date_written": "",
     "Geschlecht": null,
-    "Titel": null,
-    "Funktionsbezeichnung": null
+    "Funktionsbezeichnungen": null,
+    "Titel": null
   },
   "172": {
     "id": 172,
     "order": "172.00000000000000000000",
-    "name": "Hoffmann von Grünbühel, NN., vereh. Dietrichstein",
+    "name": "Hoffmann von Grünbühel, Maria Elisabeth, vereh. Dietrichstein",
     "gnd": "",
-    "other_url": "",
+    "other_url": "https://kaiserhof.geschichte.lmu.de/31262",
     "emt_id": "emt_person_id__172",
     "internal_comment": "Hoffräulein EMT, heiratet 1678 Dietrichstein",
     "color": "",
     "lebensdaten": "",
     "ndb": "",
-    "year_of_birth": null,
-    "year_of_death": null,
+    "year_of_birth": "1658",
+    "year_of_death": "1705",
     "wikidata_url": "",
     "wikidata_enriched": false,
     "img_name": "",
@@ -4052,22 +4028,22 @@
     "birth_date_written": "",
     "death_date_written": "",
     "Geschlecht": null,
-    "Titel": null,
-    "Funktionsbezeichnung": null
+    "Funktionsbezeichnungen": "Hoffräulein",
+    "Titel": "Gräfin"
   },
   "173": {
     "id": 173,
     "order": "173.00000000000000000000",
-    "name": "Seyfried von Dietrichstein",
-    "gnd": "",
-    "other_url": "",
+    "name": "Dietrichstein, Philipp Siegmund von",
+    "gnd": "http://d-nb.info/136092829",
+    "other_url": "https://kaiserhof.geschichte.lmu.de/19380",
     "emt_id": "emt_person_id__173",
     "internal_comment": "heiratet 1678 Hoffräulein Hoffmann von Grünbühel EMT",
     "color": "",
     "lebensdaten": "",
-    "ndb": "",
-    "year_of_birth": null,
-    "year_of_death": null,
+    "ndb": "https://www.deutsche-biographie.de/sfz23228.html",
+    "year_of_birth": "1651",
+    "year_of_death": "1716",
     "wikidata_url": "",
     "wikidata_enriched": false,
     "img_name": "",
@@ -4076,8 +4052,8 @@
     "birth_date_written": "",
     "death_date_written": "",
     "Geschlecht": null,
-    "Titel": null,
-    "Funktionsbezeichnung": null
+    "Funktionsbezeichnungen": null,
+    "Titel": null
   },
   "174": {
     "id": 174,
@@ -4100,8 +4076,8 @@
     "birth_date_written": "",
     "death_date_written": "",
     "Geschlecht": null,
-    "Titel": null,
-    "Funktionsbezeichnung": null
+    "Funktionsbezeichnungen": null,
+    "Titel": null
   },
   "175": {
     "id": 175,
@@ -4124,8 +4100,8 @@
     "birth_date_written": "",
     "death_date_written": "",
     "Geschlecht": null,
-    "Titel": null,
-    "Funktionsbezeichnung": null
+    "Funktionsbezeichnungen": null,
+    "Titel": null
   },
   "176": {
     "id": 176,
@@ -4148,8 +4124,8 @@
     "birth_date_written": "",
     "death_date_written": "",
     "Geschlecht": null,
-    "Titel": null,
-    "Funktionsbezeichnung": null
+    "Funktionsbezeichnungen": null,
+    "Titel": null
   },
   "178": {
     "id": 178,
@@ -4172,8 +4148,8 @@
     "birth_date_written": "",
     "death_date_written": "",
     "Geschlecht": null,
-    "Titel": null,
-    "Funktionsbezeichnung": null
+    "Funktionsbezeichnungen": null,
+    "Titel": null
   },
   "179": {
     "id": 179,
@@ -4196,8 +4172,8 @@
     "birth_date_written": "",
     "death_date_written": "",
     "Geschlecht": null,
-    "Titel": null,
-    "Funktionsbezeichnung": null
+    "Funktionsbezeichnungen": null,
+    "Titel": null
   },
   "180": {
     "id": 180,
@@ -4220,8 +4196,8 @@
     "birth_date_written": "",
     "death_date_written": "",
     "Geschlecht": null,
-    "Titel": null,
-    "Funktionsbezeichnung": null
+    "Funktionsbezeichnungen": null,
+    "Titel": null
   },
   "181": {
     "id": 181,
@@ -4244,8 +4220,8 @@
     "birth_date_written": "",
     "death_date_written": "",
     "Geschlecht": null,
-    "Titel": null,
-    "Funktionsbezeichnung": null
+    "Funktionsbezeichnungen": null,
+    "Titel": null
   },
   "182": {
     "id": 182,
@@ -4268,8 +4244,8 @@
     "birth_date_written": "",
     "death_date_written": "",
     "Geschlecht": null,
-    "Titel": null,
-    "Funktionsbezeichnung": null
+    "Funktionsbezeichnungen": null,
+    "Titel": null
   },
   "183": {
     "id": 183,
@@ -4292,8 +4268,8 @@
     "birth_date_written": "",
     "death_date_written": "",
     "Geschlecht": null,
-    "Titel": null,
-    "Funktionsbezeichnung": null
+    "Funktionsbezeichnungen": null,
+    "Titel": null
   },
   "184": {
     "id": 184,
@@ -4316,8 +4292,8 @@
     "birth_date_written": "",
     "death_date_written": "",
     "Geschlecht": null,
-    "Titel": null,
-    "Funktionsbezeichnung": null
+    "Funktionsbezeichnungen": null,
+    "Titel": null
   },
   "185": {
     "id": 185,
@@ -4340,8 +4316,8 @@
     "birth_date_written": "",
     "death_date_written": "",
     "Geschlecht": null,
-    "Titel": null,
-    "Funktionsbezeichnung": null
+    "Funktionsbezeichnungen": null,
+    "Titel": null
   },
   "186": {
     "id": 186,
@@ -4364,8 +4340,8 @@
     "birth_date_written": "",
     "death_date_written": "",
     "Geschlecht": null,
-    "Titel": null,
-    "Funktionsbezeichnung": null
+    "Funktionsbezeichnungen": null,
+    "Titel": null
   },
   "187": {
     "id": 187,
@@ -4388,8 +4364,8 @@
     "birth_date_written": "",
     "death_date_written": "",
     "Geschlecht": null,
-    "Titel": null,
-    "Funktionsbezeichnung": null
+    "Funktionsbezeichnungen": null,
+    "Titel": null
   },
   "188": {
     "id": 188,
@@ -4412,8 +4388,8 @@
     "birth_date_written": "",
     "death_date_written": "",
     "Geschlecht": null,
-    "Titel": null,
-    "Funktionsbezeichnung": null
+    "Funktionsbezeichnungen": null,
+    "Titel": null
   },
   "189": {
     "id": 189,
@@ -4436,8 +4412,8 @@
     "birth_date_written": "",
     "death_date_written": "",
     "Geschlecht": null,
-    "Titel": null,
-    "Funktionsbezeichnung": null
+    "Funktionsbezeichnungen": null,
+    "Titel": null
   },
   "190": {
     "id": 190,
@@ -4460,8 +4436,8 @@
     "birth_date_written": "",
     "death_date_written": "gestorben wohl 1689",
     "Geschlecht": null,
-    "Titel": null,
-    "Funktionsbezeichnung": null
+    "Funktionsbezeichnungen": null,
+    "Titel": null
   },
   "191": {
     "id": 191,
@@ -4484,8 +4460,8 @@
     "birth_date_written": "",
     "death_date_written": "",
     "Geschlecht": null,
-    "Titel": null,
-    "Funktionsbezeichnung": null
+    "Funktionsbezeichnungen": null,
+    "Titel": null
   },
   "192": {
     "id": 192,
@@ -4508,8 +4484,8 @@
     "birth_date_written": "",
     "death_date_written": "",
     "Geschlecht": null,
-    "Titel": null,
-    "Funktionsbezeichnung": null
+    "Funktionsbezeichnungen": null,
+    "Titel": null
   },
   "193": {
     "id": 193,
@@ -4532,8 +4508,8 @@
     "birth_date_written": "",
     "death_date_written": "",
     "Geschlecht": null,
-    "Titel": null,
-    "Funktionsbezeichnung": null
+    "Funktionsbezeichnungen": null,
+    "Titel": null
   },
   "194": {
     "id": 194,
@@ -4556,8 +4532,8 @@
     "birth_date_written": "",
     "death_date_written": "",
     "Geschlecht": null,
-    "Titel": null,
-    "Funktionsbezeichnung": null
+    "Funktionsbezeichnungen": null,
+    "Titel": null
   },
   "195": {
     "id": 195,
@@ -4580,8 +4556,8 @@
     "birth_date_written": "",
     "death_date_written": "",
     "Geschlecht": null,
-    "Titel": null,
-    "Funktionsbezeichnung": null
+    "Funktionsbezeichnungen": null,
+    "Titel": null
   },
   "196": {
     "id": 196,
@@ -4604,8 +4580,8 @@
     "birth_date_written": "",
     "death_date_written": "",
     "Geschlecht": null,
-    "Titel": null,
-    "Funktionsbezeichnung": null
+    "Funktionsbezeichnungen": null,
+    "Titel": null
   },
   "197": {
     "id": 197,
@@ -4628,8 +4604,8 @@
     "birth_date_written": "",
     "death_date_written": "",
     "Geschlecht": null,
-    "Titel": null,
-    "Funktionsbezeichnung": null
+    "Funktionsbezeichnungen": null,
+    "Titel": null
   },
   "198": {
     "id": 198,
@@ -4652,8 +4628,8 @@
     "birth_date_written": "",
     "death_date_written": "",
     "Geschlecht": null,
-    "Titel": null,
-    "Funktionsbezeichnung": null
+    "Funktionsbezeichnungen": null,
+    "Titel": null
   },
   "199": {
     "id": 199,
@@ -4676,8 +4652,8 @@
     "birth_date_written": "",
     "death_date_written": "",
     "Geschlecht": null,
-    "Titel": null,
-    "Funktionsbezeichnung": null
+    "Funktionsbezeichnungen": null,
+    "Titel": null
   },
   "200": {
     "id": 200,
@@ -4700,8 +4676,8 @@
     "birth_date_written": "",
     "death_date_written": "",
     "Geschlecht": null,
-    "Titel": null,
-    "Funktionsbezeichnung": null
+    "Funktionsbezeichnungen": null,
+    "Titel": null
   },
   "201": {
     "id": 201,
@@ -4724,8 +4700,8 @@
     "birth_date_written": "",
     "death_date_written": "",
     "Geschlecht": null,
-    "Titel": null,
-    "Funktionsbezeichnung": null
+    "Funktionsbezeichnungen": null,
+    "Titel": null
   },
   "202": {
     "id": 202,
@@ -4748,8 +4724,8 @@
     "birth_date_written": "",
     "death_date_written": "",
     "Geschlecht": null,
-    "Titel": null,
-    "Funktionsbezeichnung": null
+    "Funktionsbezeichnungen": null,
+    "Titel": null
   },
   "203": {
     "id": 203,
@@ -4772,8 +4748,8 @@
     "birth_date_written": "",
     "death_date_written": "",
     "Geschlecht": null,
-    "Titel": null,
-    "Funktionsbezeichnung": null
+    "Funktionsbezeichnungen": null,
+    "Titel": null
   },
   "204": {
     "id": 204,
@@ -4796,8 +4772,8 @@
     "birth_date_written": "",
     "death_date_written": "",
     "Geschlecht": null,
-    "Titel": null,
-    "Funktionsbezeichnung": null
+    "Funktionsbezeichnungen": null,
+    "Titel": null
   },
   "205": {
     "id": 205,
@@ -4820,8 +4796,8 @@
     "birth_date_written": "",
     "death_date_written": "",
     "Geschlecht": null,
-    "Titel": null,
-    "Funktionsbezeichnung": null
+    "Funktionsbezeichnungen": null,
+    "Titel": null
   },
   "206": {
     "id": 206,
@@ -4844,8 +4820,8 @@
     "birth_date_written": "",
     "death_date_written": "",
     "Geschlecht": null,
-    "Titel": null,
-    "Funktionsbezeichnung": null
+    "Funktionsbezeichnungen": null,
+    "Titel": null
   },
   "207": {
     "id": 207,
@@ -4868,8 +4844,8 @@
     "birth_date_written": "",
     "death_date_written": "",
     "Geschlecht": null,
-    "Titel": null,
-    "Funktionsbezeichnung": null
+    "Funktionsbezeichnungen": null,
+    "Titel": null
   },
   "208": {
     "id": 208,
@@ -4892,8 +4868,8 @@
     "birth_date_written": "",
     "death_date_written": "",
     "Geschlecht": null,
-    "Titel": null,
-    "Funktionsbezeichnung": null
+    "Funktionsbezeichnungen": null,
+    "Titel": null
   },
   "209": {
     "id": 209,
@@ -4916,8 +4892,8 @@
     "birth_date_written": "",
     "death_date_written": "",
     "Geschlecht": null,
-    "Titel": null,
-    "Funktionsbezeichnung": null
+    "Funktionsbezeichnungen": null,
+    "Titel": null
   },
   "210": {
     "id": 210,
@@ -4940,8 +4916,8 @@
     "birth_date_written": "",
     "death_date_written": "",
     "Geschlecht": null,
-    "Titel": null,
-    "Funktionsbezeichnung": null
+    "Funktionsbezeichnungen": null,
+    "Titel": null
   },
   "211": {
     "id": 211,
@@ -4964,8 +4940,8 @@
     "birth_date_written": "",
     "death_date_written": "",
     "Geschlecht": null,
-    "Titel": null,
-    "Funktionsbezeichnung": null
+    "Funktionsbezeichnungen": null,
+    "Titel": null
   },
   "212": {
     "id": 212,
@@ -4988,8 +4964,8 @@
     "birth_date_written": "",
     "death_date_written": "",
     "Geschlecht": null,
-    "Titel": null,
-    "Funktionsbezeichnung": null
+    "Funktionsbezeichnungen": null,
+    "Titel": null
   },
   "213": {
     "id": 213,
@@ -5012,8 +4988,8 @@
     "birth_date_written": "",
     "death_date_written": "",
     "Geschlecht": null,
-    "Titel": null,
-    "Funktionsbezeichnung": null
+    "Funktionsbezeichnungen": null,
+    "Titel": null
   },
   "214": {
     "id": 214,
@@ -5036,8 +5012,8 @@
     "birth_date_written": "",
     "death_date_written": "",
     "Geschlecht": null,
-    "Titel": null,
-    "Funktionsbezeichnung": null
+    "Funktionsbezeichnungen": null,
+    "Titel": null
   },
   "215": {
     "id": 215,
@@ -5060,8 +5036,8 @@
     "birth_date_written": "",
     "death_date_written": "",
     "Geschlecht": null,
-    "Titel": null,
-    "Funktionsbezeichnung": null
+    "Funktionsbezeichnungen": null,
+    "Titel": null
   },
   "216": {
     "id": 216,
@@ -5084,8 +5060,8 @@
     "birth_date_written": "",
     "death_date_written": "",
     "Geschlecht": null,
-    "Titel": null,
-    "Funktionsbezeichnung": null
+    "Funktionsbezeichnungen": null,
+    "Titel": null
   },
   "217": {
     "id": 217,
@@ -5108,8 +5084,8 @@
     "birth_date_written": "",
     "death_date_written": "",
     "Geschlecht": null,
-    "Titel": null,
-    "Funktionsbezeichnung": null
+    "Funktionsbezeichnungen": null,
+    "Titel": null
   },
   "219": {
     "id": 219,
@@ -5132,8 +5108,8 @@
     "birth_date_written": "",
     "death_date_written": "",
     "Geschlecht": null,
-    "Titel": null,
-    "Funktionsbezeichnung": null
+    "Funktionsbezeichnungen": null,
+    "Titel": null
   },
   "220": {
     "id": 220,
@@ -5156,8 +5132,8 @@
     "birth_date_written": "",
     "death_date_written": "",
     "Geschlecht": null,
-    "Titel": null,
-    "Funktionsbezeichnung": null
+    "Funktionsbezeichnungen": null,
+    "Titel": null
   },
   "221": {
     "id": 221,
@@ -5180,8 +5156,8 @@
     "birth_date_written": "",
     "death_date_written": "",
     "Geschlecht": null,
-    "Titel": null,
-    "Funktionsbezeichnung": null
+    "Funktionsbezeichnungen": null,
+    "Titel": null
   },
   "222": {
     "id": 222,
@@ -5204,8 +5180,8 @@
     "birth_date_written": "",
     "death_date_written": "",
     "Geschlecht": null,
-    "Titel": null,
-    "Funktionsbezeichnung": null
+    "Funktionsbezeichnungen": null,
+    "Titel": null
   },
   "223": {
     "id": 223,
@@ -5228,8 +5204,8 @@
     "birth_date_written": "",
     "death_date_written": "",
     "Geschlecht": null,
-    "Titel": null,
-    "Funktionsbezeichnung": null
+    "Funktionsbezeichnungen": null,
+    "Titel": null
   },
   "224": {
     "id": 224,
@@ -5252,8 +5228,8 @@
     "birth_date_written": "",
     "death_date_written": "",
     "Geschlecht": null,
-    "Titel": null,
-    "Funktionsbezeichnung": null
+    "Funktionsbezeichnungen": null,
+    "Titel": null
   },
   "225": {
     "id": 225,
@@ -5276,8 +5252,8 @@
     "birth_date_written": "",
     "death_date_written": "",
     "Geschlecht": null,
-    "Titel": null,
-    "Funktionsbezeichnung": null
+    "Funktionsbezeichnungen": null,
+    "Titel": null
   },
   "226": {
     "id": 226,
@@ -5300,8 +5276,8 @@
     "birth_date_written": "",
     "death_date_written": "",
     "Geschlecht": null,
-    "Titel": null,
-    "Funktionsbezeichnung": null
+    "Funktionsbezeichnungen": null,
+    "Titel": null
   },
   "227": {
     "id": 227,
@@ -5324,8 +5300,8 @@
     "birth_date_written": "",
     "death_date_written": "",
     "Geschlecht": null,
-    "Titel": null,
-    "Funktionsbezeichnung": null
+    "Funktionsbezeichnungen": null,
+    "Titel": null
   },
   "228": {
     "id": 228,
@@ -5348,8 +5324,8 @@
     "birth_date_written": "",
     "death_date_written": "",
     "Geschlecht": null,
-    "Titel": null,
-    "Funktionsbezeichnung": null
+    "Funktionsbezeichnungen": null,
+    "Titel": null
   },
   "229": {
     "id": 229,
@@ -5372,8 +5348,8 @@
     "birth_date_written": "",
     "death_date_written": "",
     "Geschlecht": null,
-    "Titel": null,
-    "Funktionsbezeichnung": null
+    "Funktionsbezeichnungen": null,
+    "Titel": null
   },
   "230": {
     "id": 230,
@@ -5396,8 +5372,8 @@
     "birth_date_written": "",
     "death_date_written": "",
     "Geschlecht": null,
-    "Titel": null,
-    "Funktionsbezeichnung": null
+    "Funktionsbezeichnungen": null,
+    "Titel": null
   },
   "231": {
     "id": 231,
@@ -5420,8 +5396,8 @@
     "birth_date_written": "",
     "death_date_written": "",
     "Geschlecht": null,
-    "Titel": null,
-    "Funktionsbezeichnung": null
+    "Funktionsbezeichnungen": null,
+    "Titel": null
   },
   "232": {
     "id": 232,
@@ -5444,8 +5420,8 @@
     "birth_date_written": "",
     "death_date_written": "",
     "Geschlecht": null,
-    "Titel": null,
-    "Funktionsbezeichnung": null
+    "Funktionsbezeichnungen": null,
+    "Titel": null
   },
   "233": {
     "id": 233,
@@ -5468,8 +5444,8 @@
     "birth_date_written": "",
     "death_date_written": "",
     "Geschlecht": null,
-    "Titel": null,
-    "Funktionsbezeichnung": null
+    "Funktionsbezeichnungen": null,
+    "Titel": null
   },
   "234": {
     "id": 234,
@@ -5492,8 +5468,8 @@
     "birth_date_written": "",
     "death_date_written": "",
     "Geschlecht": null,
-    "Titel": null,
-    "Funktionsbezeichnung": null
+    "Funktionsbezeichnungen": null,
+    "Titel": null
   },
   "236": {
     "id": 236,
@@ -5516,8 +5492,8 @@
     "birth_date_written": "",
     "death_date_written": "",
     "Geschlecht": null,
-    "Titel": null,
-    "Funktionsbezeichnung": null
+    "Funktionsbezeichnungen": null,
+    "Titel": null
   },
   "237": {
     "id": 237,
@@ -5540,8 +5516,8 @@
     "birth_date_written": "",
     "death_date_written": "",
     "Geschlecht": null,
-    "Titel": null,
-    "Funktionsbezeichnung": null
+    "Funktionsbezeichnungen": null,
+    "Titel": null
   },
   "238": {
     "id": 238,
@@ -5564,8 +5540,8 @@
     "birth_date_written": "",
     "death_date_written": "",
     "Geschlecht": null,
-    "Titel": null,
-    "Funktionsbezeichnung": null
+    "Funktionsbezeichnungen": null,
+    "Titel": null
   },
   "239": {
     "id": 239,
@@ -5588,8 +5564,8 @@
     "birth_date_written": "",
     "death_date_written": "",
     "Geschlecht": null,
-    "Titel": null,
-    "Funktionsbezeichnung": null
+    "Funktionsbezeichnungen": null,
+    "Titel": null
   },
   "240": {
     "id": 240,
@@ -5612,8 +5588,8 @@
     "birth_date_written": "",
     "death_date_written": "",
     "Geschlecht": null,
-    "Titel": null,
-    "Funktionsbezeichnung": null
+    "Funktionsbezeichnungen": null,
+    "Titel": null
   },
   "241": {
     "id": 241,
@@ -5636,8 +5612,8 @@
     "birth_date_written": "",
     "death_date_written": "",
     "Geschlecht": null,
-    "Titel": null,
-    "Funktionsbezeichnung": null
+    "Funktionsbezeichnungen": null,
+    "Titel": null
   },
   "242": {
     "id": 242,
@@ -5660,8 +5636,8 @@
     "birth_date_written": "",
     "death_date_written": "",
     "Geschlecht": null,
-    "Titel": null,
-    "Funktionsbezeichnung": null
+    "Funktionsbezeichnungen": null,
+    "Titel": null
   },
   "243": {
     "id": 243,
@@ -5684,8 +5660,8 @@
     "birth_date_written": "",
     "death_date_written": "",
     "Geschlecht": null,
-    "Titel": null,
-    "Funktionsbezeichnung": null
+    "Funktionsbezeichnungen": null,
+    "Titel": null
   },
   "244": {
     "id": 244,
@@ -5708,8 +5684,8 @@
     "birth_date_written": "",
     "death_date_written": "",
     "Geschlecht": null,
-    "Titel": null,
-    "Funktionsbezeichnung": null
+    "Funktionsbezeichnungen": null,
+    "Titel": null
   },
   "245": {
     "id": 245,
@@ -5732,8 +5708,8 @@
     "birth_date_written": "",
     "death_date_written": "",
     "Geschlecht": null,
-    "Titel": null,
-    "Funktionsbezeichnung": null
+    "Funktionsbezeichnungen": null,
+    "Titel": null
   },
   "246": {
     "id": 246,
@@ -5756,8 +5732,8 @@
     "birth_date_written": "",
     "death_date_written": "",
     "Geschlecht": null,
-    "Titel": null,
-    "Funktionsbezeichnung": null
+    "Funktionsbezeichnungen": null,
+    "Titel": null
   },
   "247": {
     "id": 247,
@@ -5780,8 +5756,8 @@
     "birth_date_written": "",
     "death_date_written": "",
     "Geschlecht": null,
-    "Titel": null,
-    "Funktionsbezeichnung": null
+    "Funktionsbezeichnungen": null,
+    "Titel": null
   },
   "248": {
     "id": 248,
@@ -5804,8 +5780,8 @@
     "birth_date_written": "",
     "death_date_written": "",
     "Geschlecht": null,
-    "Titel": null,
-    "Funktionsbezeichnung": null
+    "Funktionsbezeichnungen": null,
+    "Titel": null
   },
   "249": {
     "id": 249,
@@ -5828,8 +5804,8 @@
     "birth_date_written": "",
     "death_date_written": "",
     "Geschlecht": null,
-    "Titel": null,
-    "Funktionsbezeichnung": null
+    "Funktionsbezeichnungen": null,
+    "Titel": null
   },
   "250": {
     "id": 250,
@@ -5852,8 +5828,8 @@
     "birth_date_written": "",
     "death_date_written": "",
     "Geschlecht": null,
-    "Titel": null,
-    "Funktionsbezeichnung": null
+    "Funktionsbezeichnungen": null,
+    "Titel": null
   },
   "251": {
     "id": 251,
@@ -5876,8 +5852,8 @@
     "birth_date_written": "",
     "death_date_written": "",
     "Geschlecht": null,
-    "Titel": null,
-    "Funktionsbezeichnung": null
+    "Funktionsbezeichnungen": null,
+    "Titel": null
   },
   "252": {
     "id": 252,
@@ -5900,8 +5876,8 @@
     "birth_date_written": "",
     "death_date_written": "",
     "Geschlecht": null,
-    "Titel": null,
-    "Funktionsbezeichnung": null
+    "Funktionsbezeichnungen": null,
+    "Titel": null
   },
   "253": {
     "id": 253,
@@ -5924,8 +5900,8 @@
     "birth_date_written": "",
     "death_date_written": "",
     "Geschlecht": null,
-    "Titel": null,
-    "Funktionsbezeichnung": null
+    "Funktionsbezeichnungen": null,
+    "Titel": null
   },
   "254": {
     "id": 254,
@@ -5948,8 +5924,8 @@
     "birth_date_written": "",
     "death_date_written": "",
     "Geschlecht": null,
-    "Titel": null,
-    "Funktionsbezeichnung": null
+    "Funktionsbezeichnungen": null,
+    "Titel": null
   },
   "255": {
     "id": 255,
@@ -5972,8 +5948,8 @@
     "birth_date_written": "",
     "death_date_written": "",
     "Geschlecht": null,
-    "Titel": null,
-    "Funktionsbezeichnung": null
+    "Funktionsbezeichnungen": null,
+    "Titel": null
   },
   "256": {
     "id": 256,
@@ -5996,8 +5972,8 @@
     "birth_date_written": "",
     "death_date_written": "",
     "Geschlecht": null,
-    "Titel": null,
-    "Funktionsbezeichnung": null
+    "Funktionsbezeichnungen": null,
+    "Titel": null
   },
   "257": {
     "id": 257,
@@ -6020,8 +5996,8 @@
     "birth_date_written": "",
     "death_date_written": "",
     "Geschlecht": null,
-    "Titel": null,
-    "Funktionsbezeichnung": null
+    "Funktionsbezeichnungen": null,
+    "Titel": null
   },
   "258": {
     "id": 258,
@@ -6044,8 +6020,8 @@
     "birth_date_written": "",
     "death_date_written": "",
     "Geschlecht": null,
-    "Titel": null,
-    "Funktionsbezeichnung": null
+    "Funktionsbezeichnungen": null,
+    "Titel": null
   },
   "259": {
     "id": 259,
@@ -6068,8 +6044,8 @@
     "birth_date_written": "",
     "death_date_written": "",
     "Geschlecht": null,
-    "Titel": null,
-    "Funktionsbezeichnung": null
+    "Funktionsbezeichnungen": null,
+    "Titel": null
   },
   "260": {
     "id": 260,
@@ -6092,8 +6068,8 @@
     "birth_date_written": "",
     "death_date_written": "",
     "Geschlecht": null,
-    "Titel": null,
-    "Funktionsbezeichnung": null
+    "Funktionsbezeichnungen": null,
+    "Titel": null
   },
   "261": {
     "id": 261,
@@ -6116,8 +6092,8 @@
     "birth_date_written": "",
     "death_date_written": "",
     "Geschlecht": null,
-    "Titel": null,
-    "Funktionsbezeichnung": null
+    "Funktionsbezeichnungen": null,
+    "Titel": null
   },
   "262": {
     "id": 262,
@@ -6140,8 +6116,8 @@
     "birth_date_written": "",
     "death_date_written": "",
     "Geschlecht": null,
-    "Titel": null,
-    "Funktionsbezeichnung": null
+    "Funktionsbezeichnungen": null,
+    "Titel": null
   },
   "263": {
     "id": 263,
@@ -6164,8 +6140,8 @@
     "birth_date_written": "",
     "death_date_written": "",
     "Geschlecht": null,
-    "Titel": null,
-    "Funktionsbezeichnung": null
+    "Funktionsbezeichnungen": null,
+    "Titel": null
   },
   "264": {
     "id": 264,
@@ -6188,8 +6164,8 @@
     "birth_date_written": "",
     "death_date_written": "",
     "Geschlecht": null,
-    "Titel": null,
-    "Funktionsbezeichnung": null
+    "Funktionsbezeichnungen": null,
+    "Titel": null
   },
   "265": {
     "id": 265,
@@ -6212,8 +6188,8 @@
     "birth_date_written": "",
     "death_date_written": "",
     "Geschlecht": null,
-    "Titel": null,
-    "Funktionsbezeichnung": null
+    "Funktionsbezeichnungen": null,
+    "Titel": null
   },
   "266": {
     "id": 266,
@@ -6236,8 +6212,8 @@
     "birth_date_written": "",
     "death_date_written": "",
     "Geschlecht": null,
-    "Titel": null,
-    "Funktionsbezeichnung": null
+    "Funktionsbezeichnungen": null,
+    "Titel": null
   },
   "267": {
     "id": 267,
@@ -6260,8 +6236,8 @@
     "birth_date_written": "",
     "death_date_written": "",
     "Geschlecht": null,
-    "Titel": null,
-    "Funktionsbezeichnung": null
+    "Funktionsbezeichnungen": null,
+    "Titel": null
   },
   "268": {
     "id": 268,
@@ -6284,8 +6260,8 @@
     "birth_date_written": "",
     "death_date_written": "",
     "Geschlecht": null,
-    "Titel": null,
-    "Funktionsbezeichnung": null
+    "Funktionsbezeichnungen": null,
+    "Titel": null
   },
   "269": {
     "id": 269,
@@ -6308,8 +6284,8 @@
     "birth_date_written": "",
     "death_date_written": "",
     "Geschlecht": null,
-    "Titel": null,
-    "Funktionsbezeichnung": null
+    "Funktionsbezeichnungen": null,
+    "Titel": null
   },
   "270": {
     "id": 270,
@@ -6332,8 +6308,8 @@
     "birth_date_written": "",
     "death_date_written": "",
     "Geschlecht": null,
-    "Titel": null,
-    "Funktionsbezeichnung": null
+    "Funktionsbezeichnungen": null,
+    "Titel": null
   },
   "271": {
     "id": 271,
@@ -6356,8 +6332,8 @@
     "birth_date_written": "",
     "death_date_written": "",
     "Geschlecht": null,
-    "Titel": null,
-    "Funktionsbezeichnung": null
+    "Funktionsbezeichnungen": null,
+    "Titel": null
   },
   "272": {
     "id": 272,
@@ -6380,8 +6356,8 @@
     "birth_date_written": "",
     "death_date_written": "",
     "Geschlecht": null,
-    "Titel": null,
-    "Funktionsbezeichnung": null
+    "Funktionsbezeichnungen": null,
+    "Titel": null
   },
   "273": {
     "id": 273,
@@ -6404,8 +6380,8 @@
     "birth_date_written": "",
     "death_date_written": "",
     "Geschlecht": null,
-    "Titel": null,
-    "Funktionsbezeichnung": null
+    "Funktionsbezeichnungen": null,
+    "Titel": null
   },
   "274": {
     "id": 274,
@@ -6428,8 +6404,8 @@
     "birth_date_written": "",
     "death_date_written": "",
     "Geschlecht": null,
-    "Titel": null,
-    "Funktionsbezeichnung": null
+    "Funktionsbezeichnungen": null,
+    "Titel": null
   },
   "275": {
     "id": 275,
@@ -6452,8 +6428,8 @@
     "birth_date_written": "",
     "death_date_written": "",
     "Geschlecht": null,
-    "Titel": null,
-    "Funktionsbezeichnung": null
+    "Funktionsbezeichnungen": null,
+    "Titel": null
   },
   "276": {
     "id": 276,
@@ -6476,8 +6452,8 @@
     "birth_date_written": "",
     "death_date_written": "",
     "Geschlecht": null,
-    "Titel": null,
-    "Funktionsbezeichnung": null
+    "Funktionsbezeichnungen": null,
+    "Titel": null
   },
   "277": {
     "id": 277,
@@ -6500,8 +6476,8 @@
     "birth_date_written": "",
     "death_date_written": "",
     "Geschlecht": null,
-    "Titel": null,
-    "Funktionsbezeichnung": null
+    "Funktionsbezeichnungen": null,
+    "Titel": null
   },
   "278": {
     "id": 278,
@@ -6524,8 +6500,8 @@
     "birth_date_written": "",
     "death_date_written": "",
     "Geschlecht": null,
-    "Titel": null,
-    "Funktionsbezeichnung": null
+    "Funktionsbezeichnungen": null,
+    "Titel": null
   },
   "279": {
     "id": 279,
@@ -6548,8 +6524,8 @@
     "birth_date_written": "",
     "death_date_written": "",
     "Geschlecht": null,
-    "Titel": null,
-    "Funktionsbezeichnung": null
+    "Funktionsbezeichnungen": null,
+    "Titel": null
   },
   "280": {
     "id": 280,
@@ -6572,8 +6548,8 @@
     "birth_date_written": "",
     "death_date_written": "",
     "Geschlecht": null,
-    "Titel": null,
-    "Funktionsbezeichnung": null
+    "Funktionsbezeichnungen": null,
+    "Titel": null
   },
   "281": {
     "id": 281,
@@ -6596,8 +6572,8 @@
     "birth_date_written": "",
     "death_date_written": "",
     "Geschlecht": null,
-    "Titel": null,
-    "Funktionsbezeichnung": null
+    "Funktionsbezeichnungen": null,
+    "Titel": null
   },
   "282": {
     "id": 282,
@@ -6620,8 +6596,8 @@
     "birth_date_written": "",
     "death_date_written": "",
     "Geschlecht": null,
-    "Titel": null,
-    "Funktionsbezeichnung": null
+    "Funktionsbezeichnungen": null,
+    "Titel": null
   },
   "283": {
     "id": 283,
@@ -6644,8 +6620,8 @@
     "birth_date_written": "",
     "death_date_written": "",
     "Geschlecht": null,
-    "Titel": null,
-    "Funktionsbezeichnung": null
+    "Funktionsbezeichnungen": null,
+    "Titel": null
   },
   "285": {
     "id": 285,
@@ -6668,8 +6644,8 @@
     "birth_date_written": "",
     "death_date_written": "",
     "Geschlecht": null,
-    "Titel": null,
-    "Funktionsbezeichnung": null
+    "Funktionsbezeichnungen": null,
+    "Titel": null
   },
   "286": {
     "id": 286,
@@ -6692,8 +6668,8 @@
     "birth_date_written": "",
     "death_date_written": "",
     "Geschlecht": null,
-    "Titel": null,
-    "Funktionsbezeichnung": null
+    "Funktionsbezeichnungen": null,
+    "Titel": null
   },
   "287": {
     "id": 287,
@@ -6716,8 +6692,8 @@
     "birth_date_written": "",
     "death_date_written": "",
     "Geschlecht": null,
-    "Titel": null,
-    "Funktionsbezeichnung": null
+    "Funktionsbezeichnungen": null,
+    "Titel": null
   },
   "288": {
     "id": 288,
@@ -6740,8 +6716,8 @@
     "birth_date_written": "",
     "death_date_written": "",
     "Geschlecht": null,
-    "Titel": null,
-    "Funktionsbezeichnung": null
+    "Funktionsbezeichnungen": null,
+    "Titel": null
   },
   "289": {
     "id": 289,
@@ -6764,8 +6740,8 @@
     "birth_date_written": "",
     "death_date_written": "",
     "Geschlecht": null,
-    "Titel": null,
-    "Funktionsbezeichnung": null
+    "Funktionsbezeichnungen": null,
+    "Titel": null
   },
   "290": {
     "id": 290,
@@ -6788,8 +6764,8 @@
     "birth_date_written": "",
     "death_date_written": "",
     "Geschlecht": null,
-    "Titel": null,
-    "Funktionsbezeichnung": null
+    "Funktionsbezeichnungen": null,
+    "Titel": null
   },
   "291": {
     "id": 291,
@@ -6812,8 +6788,8 @@
     "birth_date_written": "",
     "death_date_written": "",
     "Geschlecht": null,
-    "Titel": null,
-    "Funktionsbezeichnung": null
+    "Funktionsbezeichnungen": null,
+    "Titel": null
   },
   "292": {
     "id": 292,
@@ -6836,8 +6812,8 @@
     "birth_date_written": "",
     "death_date_written": "",
     "Geschlecht": null,
-    "Titel": null,
-    "Funktionsbezeichnung": null
+    "Funktionsbezeichnungen": null,
+    "Titel": null
   },
   "293": {
     "id": 293,
@@ -6860,8 +6836,8 @@
     "birth_date_written": "",
     "death_date_written": "",
     "Geschlecht": null,
-    "Titel": null,
-    "Funktionsbezeichnung": null
+    "Funktionsbezeichnungen": null,
+    "Titel": null
   },
   "294": {
     "id": 294,
@@ -6884,8 +6860,8 @@
     "birth_date_written": "",
     "death_date_written": "",
     "Geschlecht": null,
-    "Titel": null,
-    "Funktionsbezeichnung": null
+    "Funktionsbezeichnungen": null,
+    "Titel": null
   },
   "295": {
     "id": 295,
@@ -6908,8 +6884,8 @@
     "birth_date_written": "",
     "death_date_written": "",
     "Geschlecht": null,
-    "Titel": null,
-    "Funktionsbezeichnung": null
+    "Funktionsbezeichnungen": null,
+    "Titel": null
   },
   "296": {
     "id": 296,
@@ -6932,8 +6908,8 @@
     "birth_date_written": "",
     "death_date_written": "",
     "Geschlecht": null,
-    "Titel": null,
-    "Funktionsbezeichnung": null
+    "Funktionsbezeichnungen": null,
+    "Titel": null
   },
   "297": {
     "id": 297,
@@ -6956,8 +6932,8 @@
     "birth_date_written": "",
     "death_date_written": "",
     "Geschlecht": null,
-    "Titel": null,
-    "Funktionsbezeichnung": null
+    "Funktionsbezeichnungen": null,
+    "Titel": null
   },
   "298": {
     "id": 298,
@@ -6980,8 +6956,8 @@
     "birth_date_written": "",
     "death_date_written": "",
     "Geschlecht": null,
-    "Titel": null,
-    "Funktionsbezeichnung": null
+    "Funktionsbezeichnungen": null,
+    "Titel": null
   },
   "299": {
     "id": 299,
@@ -7004,8 +6980,8 @@
     "birth_date_written": "",
     "death_date_written": "",
     "Geschlecht": null,
-    "Titel": null,
-    "Funktionsbezeichnung": null
+    "Funktionsbezeichnungen": null,
+    "Titel": null
   },
   "300": {
     "id": 300,
@@ -7028,8 +7004,8 @@
     "birth_date_written": "",
     "death_date_written": "",
     "Geschlecht": null,
-    "Titel": null,
-    "Funktionsbezeichnung": null
+    "Funktionsbezeichnungen": null,
+    "Titel": null
   },
   "301": {
     "id": 301,
@@ -7052,8 +7028,8 @@
     "birth_date_written": "",
     "death_date_written": "",
     "Geschlecht": null,
-    "Titel": null,
-    "Funktionsbezeichnung": null
+    "Funktionsbezeichnungen": null,
+    "Titel": null
   },
   "302": {
     "id": 302,
@@ -7076,8 +7052,8 @@
     "birth_date_written": "",
     "death_date_written": "",
     "Geschlecht": null,
-    "Titel": null,
-    "Funktionsbezeichnung": null
+    "Funktionsbezeichnungen": null,
+    "Titel": null
   },
   "303": {
     "id": 303,
@@ -7100,8 +7076,8 @@
     "birth_date_written": "",
     "death_date_written": "",
     "Geschlecht": null,
-    "Titel": null,
-    "Funktionsbezeichnung": null
+    "Funktionsbezeichnungen": null,
+    "Titel": null
   },
   "304": {
     "id": 304,
@@ -7124,8 +7100,8 @@
     "birth_date_written": "",
     "death_date_written": "",
     "Geschlecht": null,
-    "Titel": null,
-    "Funktionsbezeichnung": null
+    "Funktionsbezeichnungen": null,
+    "Titel": null
   },
   "305": {
     "id": 305,
@@ -7148,8 +7124,8 @@
     "birth_date_written": "",
     "death_date_written": "",
     "Geschlecht": null,
-    "Titel": null,
-    "Funktionsbezeichnung": null
+    "Funktionsbezeichnungen": null,
+    "Titel": null
   },
   "306": {
     "id": 306,
@@ -7172,8 +7148,8 @@
     "birth_date_written": "",
     "death_date_written": "",
     "Geschlecht": null,
-    "Titel": null,
-    "Funktionsbezeichnung": null
+    "Funktionsbezeichnungen": null,
+    "Titel": null
   },
   "307": {
     "id": 307,
@@ -7196,8 +7172,8 @@
     "birth_date_written": "",
     "death_date_written": "",
     "Geschlecht": null,
-    "Titel": null,
-    "Funktionsbezeichnung": null
+    "Funktionsbezeichnungen": null,
+    "Titel": null
   },
   "308": {
     "id": 308,
@@ -7220,8 +7196,8 @@
     "birth_date_written": "",
     "death_date_written": "",
     "Geschlecht": null,
-    "Titel": null,
-    "Funktionsbezeichnung": null
+    "Funktionsbezeichnungen": null,
+    "Titel": null
   },
   "309": {
     "id": 309,
@@ -7244,8 +7220,8 @@
     "birth_date_written": "1658 oder 1659",
     "death_date_written": "",
     "Geschlecht": null,
-    "Titel": null,
-    "Funktionsbezeichnung": null
+    "Funktionsbezeichnungen": null,
+    "Titel": null
   },
   "310": {
     "id": 310,
@@ -7268,8 +7244,8 @@
     "birth_date_written": "",
     "death_date_written": "",
     "Geschlecht": "",
-    "Titel": null,
-    "Funktionsbezeichnung": null
+    "Funktionsbezeichnungen": null,
+    "Titel": null
   },
   "311": {
     "id": 311,
@@ -7292,8 +7268,8 @@
     "birth_date_written": "",
     "death_date_written": "",
     "Geschlecht": "",
-    "Titel": null,
-    "Funktionsbezeichnung": null
+    "Funktionsbezeichnungen": null,
+    "Titel": null
   },
   "312": {
     "id": 312,
@@ -7316,8 +7292,8 @@
     "birth_date_written": "",
     "death_date_written": "",
     "Geschlecht": "",
-    "Titel": null,
-    "Funktionsbezeichnung": null
+    "Funktionsbezeichnungen": null,
+    "Titel": null
   },
   "313": {
     "id": 313,
@@ -7340,8 +7316,8 @@
     "birth_date_written": "",
     "death_date_written": "",
     "Geschlecht": "",
-    "Titel": null,
-    "Funktionsbezeichnung": null
+    "Funktionsbezeichnungen": null,
+    "Titel": null
   },
   "314": {
     "id": 314,
@@ -7364,8 +7340,8 @@
     "birth_date_written": "",
     "death_date_written": "",
     "Geschlecht": "",
-    "Titel": null,
-    "Funktionsbezeichnung": null
+    "Funktionsbezeichnungen": null,
+    "Titel": null
   },
   "315": {
     "id": 315,
@@ -7388,8 +7364,8 @@
     "birth_date_written": "",
     "death_date_written": "",
     "Geschlecht": "",
-    "Titel": null,
-    "Funktionsbezeichnung": null
+    "Funktionsbezeichnungen": null,
+    "Titel": null
   },
   "316": {
     "id": 316,
@@ -7412,8 +7388,8 @@
     "birth_date_written": "",
     "death_date_written": "",
     "Geschlecht": "",
-    "Titel": null,
-    "Funktionsbezeichnung": null
+    "Funktionsbezeichnungen": null,
+    "Titel": null
   },
   "319": {
     "id": 319,
@@ -7436,8 +7412,8 @@
     "birth_date_written": "",
     "death_date_written": "",
     "Geschlecht": "",
-    "Titel": null,
-    "Funktionsbezeichnung": null
+    "Funktionsbezeichnungen": null,
+    "Titel": null
   },
   "320": {
     "id": 320,
@@ -7460,8 +7436,8 @@
     "birth_date_written": "",
     "death_date_written": "",
     "Geschlecht": "",
-    "Titel": null,
-    "Funktionsbezeichnung": null
+    "Funktionsbezeichnungen": null,
+    "Titel": null
   },
   "321": {
     "id": 321,
@@ -7484,8 +7460,8 @@
     "birth_date_written": "",
     "death_date_written": "",
     "Geschlecht": "",
-    "Titel": null,
-    "Funktionsbezeichnung": null
+    "Funktionsbezeichnungen": null,
+    "Titel": null
   },
   "322": {
     "id": 322,
@@ -7508,8 +7484,8 @@
     "birth_date_written": "",
     "death_date_written": "",
     "Geschlecht": "",
-    "Titel": null,
-    "Funktionsbezeichnung": null
+    "Funktionsbezeichnungen": null,
+    "Titel": null
   },
   "323": {
     "id": 323,
@@ -7532,8 +7508,8 @@
     "birth_date_written": "",
     "death_date_written": "",
     "Geschlecht": "",
-    "Titel": null,
-    "Funktionsbezeichnung": null
+    "Funktionsbezeichnungen": null,
+    "Titel": null
   },
   "324": {
     "id": 324,
@@ -7556,8 +7532,8 @@
     "birth_date_written": "",
     "death_date_written": "",
     "Geschlecht": "",
-    "Titel": null,
-    "Funktionsbezeichnung": null
+    "Funktionsbezeichnungen": null,
+    "Titel": null
   },
   "325": {
     "id": 325,
@@ -7580,8 +7556,8 @@
     "birth_date_written": "",
     "death_date_written": "",
     "Geschlecht": "",
-    "Titel": null,
-    "Funktionsbezeichnung": null
+    "Funktionsbezeichnungen": null,
+    "Titel": null
   },
   "326": {
     "id": 326,
@@ -7604,8 +7580,8 @@
     "birth_date_written": "",
     "death_date_written": "",
     "Geschlecht": "",
-    "Titel": null,
-    "Funktionsbezeichnung": null
+    "Funktionsbezeichnungen": null,
+    "Titel": null
   },
   "327": {
     "id": 327,
@@ -7628,8 +7604,8 @@
     "birth_date_written": "",
     "death_date_written": "",
     "Geschlecht": "",
-    "Titel": null,
-    "Funktionsbezeichnung": null
+    "Funktionsbezeichnungen": null,
+    "Titel": null
   },
   "328": {
     "id": 328,
@@ -7652,8 +7628,8 @@
     "birth_date_written": "",
     "death_date_written": "nach 1680",
     "Geschlecht": "",
-    "Titel": null,
-    "Funktionsbezeichnung": null
+    "Funktionsbezeichnungen": null,
+    "Titel": null
   },
   "329": {
     "id": 329,
@@ -7676,8 +7652,8 @@
     "birth_date_written": "",
     "death_date_written": "",
     "Geschlecht": "",
-    "Titel": null,
-    "Funktionsbezeichnung": null
+    "Funktionsbezeichnungen": null,
+    "Titel": null
   },
   "330": {
     "id": 330,
@@ -7700,8 +7676,8 @@
     "birth_date_written": "",
     "death_date_written": "",
     "Geschlecht": "",
-    "Titel": null,
-    "Funktionsbezeichnung": null
+    "Funktionsbezeichnungen": null,
+    "Titel": null
   },
   "331": {
     "id": 331,
@@ -7724,8 +7700,8 @@
     "birth_date_written": "",
     "death_date_written": "",
     "Geschlecht": "",
-    "Titel": null,
-    "Funktionsbezeichnung": null
+    "Funktionsbezeichnungen": null,
+    "Titel": null
   },
   "332": {
     "id": 332,
@@ -7748,8 +7724,8 @@
     "birth_date_written": "",
     "death_date_written": "",
     "Geschlecht": "",
-    "Titel": null,
-    "Funktionsbezeichnung": null
+    "Funktionsbezeichnungen": null,
+    "Titel": null
   },
   "333": {
     "id": 333,
@@ -7772,8 +7748,8 @@
     "birth_date_written": "",
     "death_date_written": "",
     "Geschlecht": "",
-    "Titel": null,
-    "Funktionsbezeichnung": null
+    "Funktionsbezeichnungen": null,
+    "Titel": null
   },
   "334": {
     "id": 334,
@@ -7796,8 +7772,8 @@
     "birth_date_written": "",
     "death_date_written": "",
     "Geschlecht": "",
-    "Titel": null,
-    "Funktionsbezeichnung": null
+    "Funktionsbezeichnungen": null,
+    "Titel": null
   },
   "335": {
     "id": 335,
@@ -7820,8 +7796,8 @@
     "birth_date_written": "",
     "death_date_written": "",
     "Geschlecht": "",
-    "Titel": null,
-    "Funktionsbezeichnung": null
+    "Funktionsbezeichnungen": null,
+    "Titel": null
   },
   "336": {
     "id": 336,
@@ -7844,8 +7820,8 @@
     "birth_date_written": "um 1640",
     "death_date_written": "",
     "Geschlecht": "",
-    "Titel": null,
-    "Funktionsbezeichnung": null
+    "Funktionsbezeichnungen": null,
+    "Titel": null
   },
   "337": {
     "id": 337,
@@ -7868,8 +7844,8 @@
     "birth_date_written": "",
     "death_date_written": "",
     "Geschlecht": "",
-    "Titel": null,
-    "Funktionsbezeichnung": null
+    "Funktionsbezeichnungen": null,
+    "Titel": null
   },
   "338": {
     "id": 338,
@@ -7892,8 +7868,8 @@
     "birth_date_written": "",
     "death_date_written": "",
     "Geschlecht": "",
-    "Titel": null,
-    "Funktionsbezeichnung": null
+    "Funktionsbezeichnungen": null,
+    "Titel": null
   },
   "339": {
     "id": 339,
@@ -7916,8 +7892,8 @@
     "birth_date_written": "",
     "death_date_written": "",
     "Geschlecht": "",
-    "Titel": null,
-    "Funktionsbezeichnung": null
+    "Funktionsbezeichnungen": null,
+    "Titel": null
   },
   "340": {
     "id": 340,
@@ -7940,8 +7916,8 @@
     "birth_date_written": "",
     "death_date_written": "",
     "Geschlecht": "",
-    "Titel": null,
-    "Funktionsbezeichnung": null
+    "Funktionsbezeichnungen": null,
+    "Titel": null
   },
   "341": {
     "id": 341,
@@ -7964,8 +7940,8 @@
     "birth_date_written": "",
     "death_date_written": "",
     "Geschlecht": "",
-    "Titel": null,
-    "Funktionsbezeichnung": null
+    "Funktionsbezeichnungen": null,
+    "Titel": null
   },
   "343": {
     "id": 343,
@@ -7988,8 +7964,8 @@
     "birth_date_written": "",
     "death_date_written": "",
     "Geschlecht": "",
-    "Titel": null,
-    "Funktionsbezeichnung": null
+    "Funktionsbezeichnungen": null,
+    "Titel": null
   },
   "344": {
     "id": 344,
@@ -8012,8 +7988,8 @@
     "birth_date_written": "",
     "death_date_written": "",
     "Geschlecht": "",
-    "Titel": null,
-    "Funktionsbezeichnung": null
+    "Funktionsbezeichnungen": null,
+    "Titel": null
   },
   "345": {
     "id": 345,
@@ -8036,8 +8012,8 @@
     "birth_date_written": "",
     "death_date_written": "",
     "Geschlecht": "",
-    "Titel": null,
-    "Funktionsbezeichnung": null
+    "Funktionsbezeichnungen": null,
+    "Titel": null
   },
   "346": {
     "id": 346,
@@ -8060,8 +8036,8 @@
     "birth_date_written": "",
     "death_date_written": "",
     "Geschlecht": "",
-    "Titel": null,
-    "Funktionsbezeichnung": null
+    "Funktionsbezeichnungen": null,
+    "Titel": null
   },
   "347": {
     "id": 347,
@@ -8084,8 +8060,8 @@
     "birth_date_written": "",
     "death_date_written": "",
     "Geschlecht": "",
-    "Titel": null,
-    "Funktionsbezeichnung": null
+    "Funktionsbezeichnungen": null,
+    "Titel": null
   },
   "348": {
     "id": 348,
@@ -8108,8 +8084,8 @@
     "birth_date_written": "",
     "death_date_written": "",
     "Geschlecht": "",
-    "Titel": null,
-    "Funktionsbezeichnung": null
+    "Funktionsbezeichnungen": null,
+    "Titel": null
   },
   "349": {
     "id": 349,
@@ -8132,8 +8108,8 @@
     "birth_date_written": "",
     "death_date_written": "",
     "Geschlecht": "",
-    "Titel": null,
-    "Funktionsbezeichnung": null
+    "Funktionsbezeichnungen": null,
+    "Titel": null
   },
   "350": {
     "id": 350,
@@ -8156,8 +8132,8 @@
     "birth_date_written": "",
     "death_date_written": "",
     "Geschlecht": "",
-    "Titel": null,
-    "Funktionsbezeichnung": null
+    "Funktionsbezeichnungen": null,
+    "Titel": null
   },
   "351": {
     "id": 351,
@@ -8180,8 +8156,8 @@
     "birth_date_written": "",
     "death_date_written": "",
     "Geschlecht": "",
-    "Titel": null,
-    "Funktionsbezeichnung": null
+    "Funktionsbezeichnungen": null,
+    "Titel": null
   },
   "352": {
     "id": 352,
@@ -8204,8 +8180,8 @@
     "birth_date_written": "",
     "death_date_written": "",
     "Geschlecht": "",
-    "Titel": null,
-    "Funktionsbezeichnung": null
+    "Funktionsbezeichnungen": null,
+    "Titel": null
   },
   "354": {
     "id": 354,
@@ -8228,8 +8204,8 @@
     "birth_date_written": "",
     "death_date_written": "",
     "Geschlecht": "",
-    "Titel": null,
-    "Funktionsbezeichnung": null
+    "Funktionsbezeichnungen": null,
+    "Titel": null
   },
   "355": {
     "id": 355,
@@ -8252,8 +8228,8 @@
     "birth_date_written": "",
     "death_date_written": "",
     "Geschlecht": "",
-    "Titel": null,
-    "Funktionsbezeichnung": null
+    "Funktionsbezeichnungen": null,
+    "Titel": null
   },
   "356": {
     "id": 356,
@@ -8276,8 +8252,8 @@
     "birth_date_written": "",
     "death_date_written": "",
     "Geschlecht": "",
-    "Titel": null,
-    "Funktionsbezeichnung": null
+    "Funktionsbezeichnungen": null,
+    "Titel": null
   },
   "357": {
     "id": 357,
@@ -8300,8 +8276,8 @@
     "birth_date_written": "",
     "death_date_written": "",
     "Geschlecht": "",
-    "Titel": null,
-    "Funktionsbezeichnung": null
+    "Funktionsbezeichnungen": null,
+    "Titel": null
   },
   "358": {
     "id": 358,
@@ -8324,8 +8300,8 @@
     "birth_date_written": "",
     "death_date_written": "",
     "Geschlecht": "",
-    "Titel": null,
-    "Funktionsbezeichnung": null
+    "Funktionsbezeichnungen": null,
+    "Titel": null
   },
   "359": {
     "id": 359,
@@ -8348,8 +8324,8 @@
     "birth_date_written": "",
     "death_date_written": "",
     "Geschlecht": "",
-    "Titel": null,
-    "Funktionsbezeichnung": null
+    "Funktionsbezeichnungen": null,
+    "Titel": null
   },
   "360": {
     "id": 360,
@@ -8372,8 +8348,8 @@
     "birth_date_written": "",
     "death_date_written": "",
     "Geschlecht": "",
-    "Titel": null,
-    "Funktionsbezeichnung": null
+    "Funktionsbezeichnungen": null,
+    "Titel": null
   },
   "361": {
     "id": 361,
@@ -8396,8 +8372,8 @@
     "birth_date_written": "",
     "death_date_written": "",
     "Geschlecht": "",
-    "Titel": null,
-    "Funktionsbezeichnung": null
+    "Funktionsbezeichnungen": null,
+    "Titel": null
   },
   "362": {
     "id": 362,
@@ -8420,8 +8396,8 @@
     "birth_date_written": "1627/32",
     "death_date_written": "",
     "Geschlecht": "",
-    "Titel": null,
-    "Funktionsbezeichnung": null
+    "Funktionsbezeichnungen": null,
+    "Titel": null
   },
   "363": {
     "id": 363,
@@ -8444,8 +8420,8 @@
     "birth_date_written": "",
     "death_date_written": "",
     "Geschlecht": "",
-    "Titel": null,
-    "Funktionsbezeichnung": null
+    "Funktionsbezeichnungen": null,
+    "Titel": null
   },
   "364": {
     "id": 364,
@@ -8468,8 +8444,8 @@
     "birth_date_written": "",
     "death_date_written": "",
     "Geschlecht": "",
-    "Titel": null,
-    "Funktionsbezeichnung": null
+    "Funktionsbezeichnungen": null,
+    "Titel": null
   },
   "365": {
     "id": 365,
@@ -8492,8 +8468,8 @@
     "birth_date_written": "",
     "death_date_written": "",
     "Geschlecht": "",
-    "Titel": null,
-    "Funktionsbezeichnung": null
+    "Funktionsbezeichnungen": null,
+    "Titel": null
   },
   "366": {
     "id": 366,
@@ -8516,8 +8492,8 @@
     "birth_date_written": "",
     "death_date_written": "",
     "Geschlecht": "",
-    "Titel": null,
-    "Funktionsbezeichnung": null
+    "Funktionsbezeichnungen": null,
+    "Titel": null
   },
   "367": {
     "id": 367,
@@ -8540,8 +8516,8 @@
     "birth_date_written": "",
     "death_date_written": "",
     "Geschlecht": "",
-    "Titel": null,
-    "Funktionsbezeichnung": null
+    "Funktionsbezeichnungen": null,
+    "Titel": null
   },
   "368": {
     "id": 368,
@@ -8564,8 +8540,8 @@
     "birth_date_written": "",
     "death_date_written": "",
     "Geschlecht": "",
-    "Titel": null,
-    "Funktionsbezeichnung": null
+    "Funktionsbezeichnungen": null,
+    "Titel": null
   },
   "369": {
     "id": 369,
@@ -8588,8 +8564,8 @@
     "birth_date_written": "",
     "death_date_written": "",
     "Geschlecht": "",
-    "Titel": null,
-    "Funktionsbezeichnung": null
+    "Funktionsbezeichnungen": null,
+    "Titel": null
   },
   "370": {
     "id": 370,
@@ -8612,8 +8588,8 @@
     "birth_date_written": "",
     "death_date_written": "",
     "Geschlecht": "",
-    "Titel": null,
-    "Funktionsbezeichnung": null
+    "Funktionsbezeichnungen": null,
+    "Titel": null
   },
   "371": {
     "id": 371,
@@ -8636,8 +8612,8 @@
     "birth_date_written": "",
     "death_date_written": "",
     "Geschlecht": "",
-    "Titel": null,
-    "Funktionsbezeichnung": null
+    "Funktionsbezeichnungen": null,
+    "Titel": null
   },
   "372": {
     "id": 372,
@@ -8660,8 +8636,8 @@
     "birth_date_written": "",
     "death_date_written": "",
     "Geschlecht": "",
-    "Titel": null,
-    "Funktionsbezeichnung": null
+    "Funktionsbezeichnungen": null,
+    "Titel": null
   },
   "373": {
     "id": 373,
@@ -8684,8 +8660,8 @@
     "birth_date_written": "",
     "death_date_written": "",
     "Geschlecht": "",
-    "Titel": null,
-    "Funktionsbezeichnung": null
+    "Funktionsbezeichnungen": null,
+    "Titel": null
   },
   "374": {
     "id": 374,
@@ -8708,8 +8684,8 @@
     "birth_date_written": "",
     "death_date_written": "",
     "Geschlecht": "",
-    "Titel": null,
-    "Funktionsbezeichnung": null
+    "Funktionsbezeichnungen": null,
+    "Titel": null
   },
   "375": {
     "id": 375,
@@ -8732,8 +8708,8 @@
     "birth_date_written": "",
     "death_date_written": "",
     "Geschlecht": "",
-    "Titel": null,
-    "Funktionsbezeichnung": null
+    "Funktionsbezeichnungen": null,
+    "Titel": null
   },
   "376": {
     "id": 376,
@@ -8756,8 +8732,8 @@
     "birth_date_written": "",
     "death_date_written": "",
     "Geschlecht": "",
-    "Titel": null,
-    "Funktionsbezeichnung": null
+    "Funktionsbezeichnungen": null,
+    "Titel": null
   },
   "377": {
     "id": 377,
@@ -8780,8 +8756,8 @@
     "birth_date_written": "",
     "death_date_written": "",
     "Geschlecht": "",
-    "Titel": null,
-    "Funktionsbezeichnung": null
+    "Funktionsbezeichnungen": null,
+    "Titel": null
   },
   "378": {
     "id": 378,
@@ -8804,8 +8780,8 @@
     "birth_date_written": "",
     "death_date_written": "",
     "Geschlecht": "",
-    "Titel": null,
-    "Funktionsbezeichnung": null
+    "Funktionsbezeichnungen": null,
+    "Titel": null
   },
   "379": {
     "id": 379,
@@ -8828,8 +8804,8 @@
     "birth_date_written": "",
     "death_date_written": "",
     "Geschlecht": "",
-    "Titel": null,
-    "Funktionsbezeichnung": null
+    "Funktionsbezeichnungen": null,
+    "Titel": null
   },
   "380": {
     "id": 380,
@@ -8852,8 +8828,8 @@
     "birth_date_written": "",
     "death_date_written": "",
     "Geschlecht": "",
-    "Titel": null,
-    "Funktionsbezeichnung": null
+    "Funktionsbezeichnungen": null,
+    "Titel": null
   },
   "381": {
     "id": 381,
@@ -8876,8 +8852,8 @@
     "birth_date_written": "",
     "death_date_written": "",
     "Geschlecht": "",
-    "Titel": null,
-    "Funktionsbezeichnung": null
+    "Funktionsbezeichnungen": null,
+    "Titel": null
   },
   "382": {
     "id": 382,
@@ -8900,8 +8876,8 @@
     "birth_date_written": "",
     "death_date_written": "",
     "Geschlecht": "",
-    "Titel": null,
-    "Funktionsbezeichnung": null
+    "Funktionsbezeichnungen": null,
+    "Titel": null
   },
   "383": {
     "id": 383,
@@ -8924,8 +8900,8 @@
     "birth_date_written": "",
     "death_date_written": "",
     "Geschlecht": "",
-    "Titel": null,
-    "Funktionsbezeichnung": null
+    "Funktionsbezeichnungen": null,
+    "Titel": null
   },
   "384": {
     "id": 384,
@@ -8948,8 +8924,8 @@
     "birth_date_written": "",
     "death_date_written": "",
     "Geschlecht": "",
-    "Titel": null,
-    "Funktionsbezeichnung": null
+    "Funktionsbezeichnungen": null,
+    "Titel": null
   },
   "385": {
     "id": 385,
@@ -8972,8 +8948,8 @@
     "birth_date_written": "",
     "death_date_written": "",
     "Geschlecht": "",
-    "Titel": null,
-    "Funktionsbezeichnung": null
+    "Funktionsbezeichnungen": null,
+    "Titel": null
   },
   "386": {
     "id": 386,
@@ -8996,8 +8972,8 @@
     "birth_date_written": "",
     "death_date_written": "",
     "Geschlecht": "",
-    "Titel": null,
-    "Funktionsbezeichnung": null
+    "Funktionsbezeichnungen": null,
+    "Titel": null
   },
   "387": {
     "id": 387,
@@ -9020,8 +8996,8 @@
     "birth_date_written": "",
     "death_date_written": "",
     "Geschlecht": "",
-    "Titel": null,
-    "Funktionsbezeichnung": null
+    "Funktionsbezeichnungen": null,
+    "Titel": null
   },
   "388": {
     "id": 388,
@@ -9044,8 +9020,8 @@
     "birth_date_written": "",
     "death_date_written": "",
     "Geschlecht": "",
-    "Titel": null,
-    "Funktionsbezeichnung": null
+    "Funktionsbezeichnungen": null,
+    "Titel": null
   },
   "389": {
     "id": 389,
@@ -9068,8 +9044,8 @@
     "birth_date_written": "",
     "death_date_written": "",
     "Geschlecht": "",
-    "Titel": null,
-    "Funktionsbezeichnung": null
+    "Funktionsbezeichnungen": null,
+    "Titel": null
   },
   "390": {
     "id": 390,
@@ -9092,8 +9068,8 @@
     "birth_date_written": "",
     "death_date_written": "",
     "Geschlecht": "",
-    "Titel": null,
-    "Funktionsbezeichnung": null
+    "Funktionsbezeichnungen": null,
+    "Titel": null
   },
   "391": {
     "id": 391,
@@ -9116,8 +9092,8 @@
     "birth_date_written": "",
     "death_date_written": "",
     "Geschlecht": "",
-    "Titel": null,
-    "Funktionsbezeichnung": null
+    "Funktionsbezeichnungen": null,
+    "Titel": null
   },
   "392": {
     "id": 392,
@@ -9140,8 +9116,8 @@
     "birth_date_written": "",
     "death_date_written": "",
     "Geschlecht": "",
-    "Titel": null,
-    "Funktionsbezeichnung": null
+    "Funktionsbezeichnungen": null,
+    "Titel": null
   },
   "393": {
     "id": 393,
@@ -9164,8 +9140,8 @@
     "birth_date_written": "",
     "death_date_written": "",
     "Geschlecht": "",
-    "Titel": null,
-    "Funktionsbezeichnung": null
+    "Funktionsbezeichnungen": null,
+    "Titel": null
   },
   "394": {
     "id": 394,
@@ -9188,8 +9164,8 @@
     "birth_date_written": "",
     "death_date_written": "",
     "Geschlecht": "",
-    "Titel": null,
-    "Funktionsbezeichnung": null
+    "Funktionsbezeichnungen": null,
+    "Titel": null
   },
   "395": {
     "id": 395,
@@ -9212,8 +9188,8 @@
     "birth_date_written": "",
     "death_date_written": "",
     "Geschlecht": "",
-    "Titel": null,
-    "Funktionsbezeichnung": null
+    "Funktionsbezeichnungen": null,
+    "Titel": null
   },
   "396": {
     "id": 396,
@@ -9236,8 +9212,8 @@
     "birth_date_written": "",
     "death_date_written": "",
     "Geschlecht": "",
-    "Titel": null,
-    "Funktionsbezeichnung": null
+    "Funktionsbezeichnungen": null,
+    "Titel": null
   },
   "397": {
     "id": 397,
@@ -9260,8 +9236,8 @@
     "birth_date_written": "",
     "death_date_written": "",
     "Geschlecht": "",
-    "Titel": null,
-    "Funktionsbezeichnung": null
+    "Funktionsbezeichnungen": null,
+    "Titel": null
   },
   "398": {
     "id": 398,
@@ -9284,8 +9260,8 @@
     "birth_date_written": "",
     "death_date_written": "",
     "Geschlecht": "",
-    "Titel": null,
-    "Funktionsbezeichnung": null
+    "Funktionsbezeichnungen": null,
+    "Titel": null
   },
   "399": {
     "id": 399,
@@ -9308,8 +9284,8 @@
     "birth_date_written": "",
     "death_date_written": "",
     "Geschlecht": "",
-    "Titel": null,
-    "Funktionsbezeichnung": null
+    "Funktionsbezeichnungen": null,
+    "Titel": null
   },
   "400": {
     "id": 400,
@@ -9332,8 +9308,8 @@
     "birth_date_written": "",
     "death_date_written": "",
     "Geschlecht": "",
-    "Titel": null,
-    "Funktionsbezeichnung": null
+    "Funktionsbezeichnungen": null,
+    "Titel": null
   },
   "401": {
     "id": 401,
@@ -9356,8 +9332,8 @@
     "birth_date_written": "",
     "death_date_written": "",
     "Geschlecht": "",
-    "Titel": null,
-    "Funktionsbezeichnung": null
+    "Funktionsbezeichnungen": null,
+    "Titel": null
   },
   "402": {
     "id": 402,
@@ -9380,8 +9356,8 @@
     "birth_date_written": "",
     "death_date_written": "",
     "Geschlecht": "",
-    "Titel": null,
-    "Funktionsbezeichnung": null
+    "Funktionsbezeichnungen": null,
+    "Titel": null
   },
   "403": {
     "id": 403,
@@ -9404,8 +9380,8 @@
     "birth_date_written": "",
     "death_date_written": "",
     "Geschlecht": "",
-    "Titel": null,
-    "Funktionsbezeichnung": null
+    "Funktionsbezeichnungen": null,
+    "Titel": null
   },
   "404": {
     "id": 404,
@@ -9428,8 +9404,8 @@
     "birth_date_written": "",
     "death_date_written": "",
     "Geschlecht": "",
-    "Titel": null,
-    "Funktionsbezeichnung": null
+    "Funktionsbezeichnungen": null,
+    "Titel": null
   },
   "405": {
     "id": 405,
@@ -9452,8 +9428,8 @@
     "birth_date_written": "",
     "death_date_written": "",
     "Geschlecht": "",
-    "Titel": null,
-    "Funktionsbezeichnung": null
+    "Funktionsbezeichnungen": null,
+    "Titel": null
   },
   "406": {
     "id": 406,
@@ -9476,8 +9452,8 @@
     "birth_date_written": "",
     "death_date_written": "",
     "Geschlecht": "",
-    "Titel": null,
-    "Funktionsbezeichnung": null
+    "Funktionsbezeichnungen": null,
+    "Titel": null
   },
   "407": {
     "id": 407,
@@ -9500,8 +9476,8 @@
     "birth_date_written": "",
     "death_date_written": "",
     "Geschlecht": "",
-    "Titel": null,
-    "Funktionsbezeichnung": null
+    "Funktionsbezeichnungen": null,
+    "Titel": null
   },
   "408": {
     "id": 408,
@@ -9524,8 +9500,8 @@
     "birth_date_written": "",
     "death_date_written": "",
     "Geschlecht": "",
-    "Titel": null,
-    "Funktionsbezeichnung": null
+    "Funktionsbezeichnungen": null,
+    "Titel": null
   },
   "409": {
     "id": 409,
@@ -9548,8 +9524,8 @@
     "birth_date_written": "",
     "death_date_written": "",
     "Geschlecht": "",
-    "Titel": null,
-    "Funktionsbezeichnung": null
+    "Funktionsbezeichnungen": null,
+    "Titel": null
   },
   "410": {
     "id": 410,
@@ -9572,8 +9548,8 @@
     "birth_date_written": "",
     "death_date_written": "",
     "Geschlecht": "",
-    "Titel": null,
-    "Funktionsbezeichnung": null
+    "Funktionsbezeichnungen": null,
+    "Titel": null
   },
   "411": {
     "id": 411,
@@ -9596,8 +9572,8 @@
     "birth_date_written": "",
     "death_date_written": "",
     "Geschlecht": "",
-    "Titel": null,
-    "Funktionsbezeichnung": null
+    "Funktionsbezeichnungen": null,
+    "Titel": null
   },
   "412": {
     "id": 412,
@@ -9620,8 +9596,8 @@
     "birth_date_written": "",
     "death_date_written": "",
     "Geschlecht": "",
-    "Titel": null,
-    "Funktionsbezeichnung": null
+    "Funktionsbezeichnungen": null,
+    "Titel": null
   },
   "413": {
     "id": 413,
@@ -9644,8 +9620,8 @@
     "birth_date_written": "",
     "death_date_written": "",
     "Geschlecht": "",
-    "Titel": null,
-    "Funktionsbezeichnung": null
+    "Funktionsbezeichnungen": null,
+    "Titel": null
   },
   "414": {
     "id": 414,
@@ -9668,8 +9644,8 @@
     "birth_date_written": "",
     "death_date_written": "",
     "Geschlecht": "",
-    "Titel": null,
-    "Funktionsbezeichnung": null
+    "Funktionsbezeichnungen": null,
+    "Titel": null
   },
   "415": {
     "id": 415,
@@ -9692,8 +9668,8 @@
     "birth_date_written": "",
     "death_date_written": "",
     "Geschlecht": "",
-    "Titel": null,
-    "Funktionsbezeichnung": null
+    "Funktionsbezeichnungen": null,
+    "Titel": null
   },
   "416": {
     "id": 416,
@@ -9716,7 +9692,7 @@
     "birth_date_written": "",
     "death_date_written": "",
     "Geschlecht": "",
-    "Titel": null,
-    "Funktionsbezeichnung": null
+    "Funktionsbezeichnungen": null,
+    "Titel": null
   }
 }

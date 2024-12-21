@@ -25,7 +25,7 @@
             {
                 "id": 9,
                 "order": "9.00000000000000000000",
-                "name": "Kaiserin Eleonora Magdalena, geb. Pfalz-Neuburg",
+                "name": "Eleonora Magdalena Theresia, geb. Pfalz-Neuburg",
                 "gnd": "https://d-nb.info/gnd/101026641",
                 "other_url": "",
                 "emt_id": "emt_person_id__9",
@@ -43,13 +43,13 @@
                 "birth_date_written": null,
                 "death_date_written": null,
                 "Geschlecht": null,
-                "Titel": null,
-                "Funktionsbezeichnung": null
+                "Funktionsbezeichnungen": null,
+                "Titel": "Kaiserin"
             },
             {
                 "id": 10,
                 "order": "10.00000000000000000000",
-                "name": "Elisabeth Amalie von Pfalz-Neuburg, geb. Hessen-Darmstadt",
+                "name": "Pfalz-Neuburg, Elisabeth Amalie von, geb. Hessen-Darmstadt",
                 "gnd": "https://d-nb.info/gnd/12890285X",
                 "other_url": "",
                 "emt_id": "emt_person_id__10",
@@ -67,13 +67,13 @@
                 "birth_date_written": null,
                 "death_date_written": null,
                 "Geschlecht": null,
-                "Titel": "Herzogin, Kurfürstin",
-                "Funktionsbezeichnung": null
+                "Funktionsbezeichnungen": null,
+                "Titel": "Herzogin, Kurfürstin"
             },
             {
                 "id": 50,
                 "order": "50.00000000000000000000",
-                "name": "Philipp Wilhelm von Pfalz-Neuburg, Kurfürst von der Pfalz",
+                "name": "Pfalz-Neuburg, Philipp Wilhelm von",
                 "gnd": "https://d-nb.info/gnd/118742221",
                 "other_url": "",
                 "emt_id": "emt_person_id__50",
@@ -81,8 +81,8 @@
                 "color": "#d45121",
                 "lebensdaten": "1615-1690",
                 "ndb": "https://www.deutsche-biographie.de/sfz60354.html#indexcontent",
-                "year_of_birth": null,
-                "year_of_death": null,
+                "year_of_birth": "1615",
+                "year_of_death": "1690",
                 "wikidata_url": "http://www.wikidata.org/entity/Q60514",
                 "wikidata_enriched": true,
                 "img_name": "Anonym Herzog Philipp Wilhelm.jpg",
@@ -91,8 +91,8 @@
                 "birth_date_written": null,
                 "death_date_written": null,
                 "Geschlecht": null,
-                "Titel": null,
-                "Funktionsbezeichnung": null
+                "Funktionsbezeichnungen": null,
+                "Titel": "Herzog, Kurfürst"
             }
         ],
         "description": null,
@@ -132,7 +132,7 @@
             {
                 "id": 9,
                 "order": "9.00000000000000000000",
-                "name": "Kaiserin Eleonora Magdalena, geb. Pfalz-Neuburg",
+                "name": "Eleonora Magdalena Theresia, geb. Pfalz-Neuburg",
                 "gnd": "https://d-nb.info/gnd/101026641",
                 "other_url": "",
                 "emt_id": "emt_person_id__9",
@@ -150,13 +150,13 @@
                 "birth_date_written": null,
                 "death_date_written": null,
                 "Geschlecht": null,
-                "Titel": null,
-                "Funktionsbezeichnung": null
+                "Funktionsbezeichnungen": null,
+                "Titel": "Kaiserin"
             },
             {
                 "id": 35,
                 "order": "35.00000000000000000000",
-                "name": "Kaiser Leopold I.",
+                "name": "Leopold I.",
                 "gnd": "https://d-nb.info/gnd/118571869",
                 "other_url": "",
                 "emt_id": "emt_person_id__35",
@@ -174,8 +174,8 @@
                 "birth_date_written": null,
                 "death_date_written": null,
                 "Geschlecht": null,
-                "Titel": null,
-                "Funktionsbezeichnung": null
+                "Funktionsbezeichnungen": null,
+                "Titel": "Kaiser"
             }
         ],
         "description": null,
@@ -249,7 +249,7 @@
             {
                 "id": 9,
                 "order": "9.00000000000000000000",
-                "name": "Kaiserin Eleonora Magdalena, geb. Pfalz-Neuburg",
+                "name": "Eleonora Magdalena Theresia, geb. Pfalz-Neuburg",
                 "gnd": "https://d-nb.info/gnd/101026641",
                 "other_url": "",
                 "emt_id": "emt_person_id__9",
@@ -267,8 +267,8 @@
                 "birth_date_written": null,
                 "death_date_written": null,
                 "Geschlecht": null,
-                "Titel": null,
-                "Funktionsbezeichnung": null
+                "Funktionsbezeichnungen": null,
+                "Titel": "Kaiserin"
             },
             {
                 "id": 25,
@@ -291,8 +291,8 @@
                 "birth_date_written": null,
                 "death_date_written": null,
                 "Geschlecht": null,
-                "Titel": "Erzherzog",
-                "Funktionsbezeichnung": null
+                "Funktionsbezeichnungen": null,
+                "Titel": "Erzherzog, Kaiser"
             }
         ],
         "description": "",
@@ -332,7 +332,7 @@
             {
                 "id": 9,
                 "order": "9.00000000000000000000",
-                "name": "Kaiserin Eleonora Magdalena, geb. Pfalz-Neuburg",
+                "name": "Eleonora Magdalena Theresia, geb. Pfalz-Neuburg",
                 "gnd": "https://d-nb.info/gnd/101026641",
                 "other_url": "",
                 "emt_id": "emt_person_id__9",
@@ -350,13 +350,13 @@
                 "birth_date_written": null,
                 "death_date_written": null,
                 "Geschlecht": null,
-                "Titel": null,
-                "Funktionsbezeichnung": null
+                "Funktionsbezeichnungen": null,
+                "Titel": "Kaiserin"
             },
             {
                 "id": 35,
                 "order": "35.00000000000000000000",
-                "name": "Kaiser Leopold I.",
+                "name": "Leopold I.",
                 "gnd": "https://d-nb.info/gnd/118571869",
                 "other_url": "",
                 "emt_id": "emt_person_id__35",
@@ -374,8 +374,8 @@
                 "birth_date_written": null,
                 "death_date_written": null,
                 "Geschlecht": null,
-                "Titel": null,
-                "Funktionsbezeichnung": null
+                "Funktionsbezeichnungen": null,
+                "Titel": "Kaiser"
             }
         ],
         "description": "",
@@ -415,7 +415,7 @@
             {
                 "id": 9,
                 "order": "9.00000000000000000000",
-                "name": "Kaiserin Eleonora Magdalena, geb. Pfalz-Neuburg",
+                "name": "Eleonora Magdalena Theresia, geb. Pfalz-Neuburg",
                 "gnd": "https://d-nb.info/gnd/101026641",
                 "other_url": "",
                 "emt_id": "emt_person_id__9",
@@ -433,8 +433,8 @@
                 "birth_date_written": null,
                 "death_date_written": null,
                 "Geschlecht": null,
-                "Titel": null,
-                "Funktionsbezeichnung": null
+                "Funktionsbezeichnungen": null,
+                "Titel": "Kaiserin"
             },
             {
                 "id": 25,
@@ -457,13 +457,13 @@
                 "birth_date_written": null,
                 "death_date_written": null,
                 "Geschlecht": null,
-                "Titel": "Erzherzog",
-                "Funktionsbezeichnung": null
+                "Funktionsbezeichnungen": null,
+                "Titel": "Erzherzog, Kaiser"
             },
             {
                 "id": 35,
                 "order": "35.00000000000000000000",
-                "name": "Kaiser Leopold I.",
+                "name": "Leopold I.",
                 "gnd": "https://d-nb.info/gnd/118571869",
                 "other_url": "",
                 "emt_id": "emt_person_id__35",
@@ -481,13 +481,13 @@
                 "birth_date_written": null,
                 "death_date_written": null,
                 "Geschlecht": null,
-                "Titel": null,
-                "Funktionsbezeichnung": null
+                "Funktionsbezeichnungen": null,
+                "Titel": "Kaiser"
             },
             {
                 "id": 109,
                 "order": "109.00000000000000000000",
-                "name": "Amalie Wilhelmine von Braunschweig-Lüneburg",
+                "name": "Amalie Wilhelmine von Braunschweig-Lüneburg, vereh. Österreich",
                 "gnd": "http://d-nb.info/101076983",
                 "other_url": "",
                 "emt_id": "emt_person_id__109",
@@ -505,8 +505,8 @@
                 "birth_date_written": "",
                 "death_date_written": "",
                 "Geschlecht": null,
-                "Titel": null,
-                "Funktionsbezeichnung": null
+                "Funktionsbezeichnungen": null,
+                "Titel": "Herzogin, Kaiserin"
             }
         ],
         "description": "",
@@ -546,7 +546,7 @@
             {
                 "id": 9,
                 "order": "9.00000000000000000000",
-                "name": "Kaiserin Eleonora Magdalena, geb. Pfalz-Neuburg",
+                "name": "Eleonora Magdalena Theresia, geb. Pfalz-Neuburg",
                 "gnd": "https://d-nb.info/gnd/101026641",
                 "other_url": "",
                 "emt_id": "emt_person_id__9",
@@ -564,8 +564,8 @@
                 "birth_date_written": null,
                 "death_date_written": null,
                 "Geschlecht": null,
-                "Titel": null,
-                "Funktionsbezeichnung": null
+                "Funktionsbezeichnungen": null,
+                "Titel": "Kaiserin"
             },
             {
                 "id": 25,
@@ -588,13 +588,13 @@
                 "birth_date_written": null,
                 "death_date_written": null,
                 "Geschlecht": null,
-                "Titel": "Erzherzog",
-                "Funktionsbezeichnung": null
+                "Funktionsbezeichnungen": null,
+                "Titel": "Erzherzog, Kaiser"
             },
             {
                 "id": 109,
                 "order": "109.00000000000000000000",
-                "name": "Amalie Wilhelmine von Braunschweig-Lüneburg",
+                "name": "Amalie Wilhelmine von Braunschweig-Lüneburg, vereh. Österreich",
                 "gnd": "http://d-nb.info/101076983",
                 "other_url": "",
                 "emt_id": "emt_person_id__109",
@@ -612,8 +612,8 @@
                 "birth_date_written": "",
                 "death_date_written": "",
                 "Geschlecht": null,
-                "Titel": null,
-                "Funktionsbezeichnung": null
+                "Funktionsbezeichnungen": null,
+                "Titel": "Herzogin, Kaiserin"
             }
         ],
         "description": "",
@@ -653,7 +653,7 @@
             {
                 "id": 9,
                 "order": "9.00000000000000000000",
-                "name": "Kaiserin Eleonora Magdalena, geb. Pfalz-Neuburg",
+                "name": "Eleonora Magdalena Theresia, geb. Pfalz-Neuburg",
                 "gnd": "https://d-nb.info/gnd/101026641",
                 "other_url": "",
                 "emt_id": "emt_person_id__9",
@@ -671,13 +671,13 @@
                 "birth_date_written": null,
                 "death_date_written": null,
                 "Geschlecht": null,
-                "Titel": null,
-                "Funktionsbezeichnung": null
+                "Funktionsbezeichnungen": null,
+                "Titel": "Kaiserin"
             },
             {
                 "id": 35,
                 "order": "35.00000000000000000000",
-                "name": "Kaiser Leopold I.",
+                "name": "Leopold I.",
                 "gnd": "https://d-nb.info/gnd/118571869",
                 "other_url": "",
                 "emt_id": "emt_person_id__35",
@@ -695,8 +695,8 @@
                 "birth_date_written": null,
                 "death_date_written": null,
                 "Geschlecht": null,
-                "Titel": null,
-                "Funktionsbezeichnung": null
+                "Funktionsbezeichnungen": null,
+                "Titel": "Kaiser"
             }
         ],
         "description": "",
@@ -736,7 +736,7 @@
             {
                 "id": 9,
                 "order": "9.00000000000000000000",
-                "name": "Kaiserin Eleonora Magdalena, geb. Pfalz-Neuburg",
+                "name": "Eleonora Magdalena Theresia, geb. Pfalz-Neuburg",
                 "gnd": "https://d-nb.info/gnd/101026641",
                 "other_url": "",
                 "emt_id": "emt_person_id__9",
@@ -754,13 +754,13 @@
                 "birth_date_written": null,
                 "death_date_written": null,
                 "Geschlecht": null,
-                "Titel": null,
-                "Funktionsbezeichnung": null
+                "Funktionsbezeichnungen": null,
+                "Titel": "Kaiserin"
             },
             {
                 "id": 31,
                 "order": "31.00000000000000000000",
-                "name": "Kaiser Karl VI.",
+                "name": "Karl VI.",
                 "gnd": "https://d-nb.info/gnd/118560107",
                 "other_url": "",
                 "emt_id": "emt_person_id__31",
@@ -778,13 +778,13 @@
                 "birth_date_written": null,
                 "death_date_written": null,
                 "Geschlecht": null,
-                "Titel": null,
-                "Funktionsbezeichnung": null
+                "Funktionsbezeichnungen": null,
+                "Titel": "Erzherzog, König, Kaiser"
             },
             {
                 "id": 110,
                 "order": "110.00000000000000000000",
-                "name": "Elisabeth Christine von Braunschweig-Wolfenbüttel",
+                "name": "Elisabeth Christine von Braunschweig-Wolfenbüttel, vereh. Österreich",
                 "gnd": "http://d-nb.info/122035143",
                 "other_url": "",
                 "emt_id": "emt_person_id__110",
@@ -802,8 +802,8 @@
                 "birth_date_written": "",
                 "death_date_written": "",
                 "Geschlecht": null,
-                "Titel": null,
-                "Funktionsbezeichnung": null
+                "Funktionsbezeichnungen": null,
+                "Titel": "Herzogin, Kaiserin"
             }
         ],
         "description": "",
@@ -843,7 +843,7 @@
             {
                 "id": 9,
                 "order": "9.00000000000000000000",
-                "name": "Kaiserin Eleonora Magdalena, geb. Pfalz-Neuburg",
+                "name": "Eleonora Magdalena Theresia, geb. Pfalz-Neuburg",
                 "gnd": "https://d-nb.info/gnd/101026641",
                 "other_url": "",
                 "emt_id": "emt_person_id__9",
@@ -861,13 +861,13 @@
                 "birth_date_written": null,
                 "death_date_written": null,
                 "Geschlecht": null,
-                "Titel": null,
-                "Funktionsbezeichnung": null
+                "Funktionsbezeichnungen": null,
+                "Titel": "Kaiserin"
             },
             {
                 "id": 35,
                 "order": "35.00000000000000000000",
-                "name": "Kaiser Leopold I.",
+                "name": "Leopold I.",
                 "gnd": "https://d-nb.info/gnd/118571869",
                 "other_url": "",
                 "emt_id": "emt_person_id__35",
@@ -885,8 +885,8 @@
                 "birth_date_written": null,
                 "death_date_written": null,
                 "Geschlecht": null,
-                "Titel": null,
-                "Funktionsbezeichnung": null
+                "Funktionsbezeichnungen": null,
+                "Titel": "Kaiser"
             }
         ],
         "description": "",
@@ -926,7 +926,7 @@
             {
                 "id": 9,
                 "order": "9.00000000000000000000",
-                "name": "Kaiserin Eleonora Magdalena, geb. Pfalz-Neuburg",
+                "name": "Eleonora Magdalena Theresia, geb. Pfalz-Neuburg",
                 "gnd": "https://d-nb.info/gnd/101026641",
                 "other_url": "",
                 "emt_id": "emt_person_id__9",
@@ -944,13 +944,13 @@
                 "birth_date_written": null,
                 "death_date_written": null,
                 "Geschlecht": null,
-                "Titel": null,
-                "Funktionsbezeichnung": null
+                "Funktionsbezeichnungen": null,
+                "Titel": "Kaiserin"
             },
             {
                 "id": 35,
                 "order": "35.00000000000000000000",
-                "name": "Kaiser Leopold I.",
+                "name": "Leopold I.",
                 "gnd": "https://d-nb.info/gnd/118571869",
                 "other_url": "",
                 "emt_id": "emt_person_id__35",
@@ -968,8 +968,8 @@
                 "birth_date_written": null,
                 "death_date_written": null,
                 "Geschlecht": null,
-                "Titel": null,
-                "Funktionsbezeichnung": null
+                "Funktionsbezeichnungen": null,
+                "Titel": "Kaiser"
             }
         ],
         "description": "",
@@ -1009,7 +1009,7 @@
             {
                 "id": 9,
                 "order": "9.00000000000000000000",
-                "name": "Kaiserin Eleonora Magdalena, geb. Pfalz-Neuburg",
+                "name": "Eleonora Magdalena Theresia, geb. Pfalz-Neuburg",
                 "gnd": "https://d-nb.info/gnd/101026641",
                 "other_url": "",
                 "emt_id": "emt_person_id__9",
@@ -1027,8 +1027,8 @@
                 "birth_date_written": null,
                 "death_date_written": null,
                 "Geschlecht": null,
-                "Titel": null,
-                "Funktionsbezeichnung": null
+                "Funktionsbezeichnungen": null,
+                "Titel": "Kaiserin"
             },
             {
                 "id": 25,
@@ -1051,13 +1051,13 @@
                 "birth_date_written": null,
                 "death_date_written": null,
                 "Geschlecht": null,
-                "Titel": "Erzherzog",
-                "Funktionsbezeichnung": null
+                "Funktionsbezeichnungen": null,
+                "Titel": "Erzherzog, Kaiser"
             },
             {
                 "id": 35,
                 "order": "35.00000000000000000000",
-                "name": "Kaiser Leopold I.",
+                "name": "Leopold I.",
                 "gnd": "https://d-nb.info/gnd/118571869",
                 "other_url": "",
                 "emt_id": "emt_person_id__35",
@@ -1075,8 +1075,8 @@
                 "birth_date_written": null,
                 "death_date_written": null,
                 "Geschlecht": null,
-                "Titel": null,
-                "Funktionsbezeichnung": null
+                "Funktionsbezeichnungen": null,
+                "Titel": "Kaiser"
             }
         ],
         "description": "",
@@ -1116,7 +1116,7 @@
             {
                 "id": 9,
                 "order": "9.00000000000000000000",
-                "name": "Kaiserin Eleonora Magdalena, geb. Pfalz-Neuburg",
+                "name": "Eleonora Magdalena Theresia, geb. Pfalz-Neuburg",
                 "gnd": "https://d-nb.info/gnd/101026641",
                 "other_url": "",
                 "emt_id": "emt_person_id__9",
@@ -1134,8 +1134,8 @@
                 "birth_date_written": null,
                 "death_date_written": null,
                 "Geschlecht": null,
-                "Titel": null,
-                "Funktionsbezeichnung": null
+                "Funktionsbezeichnungen": null,
+                "Titel": "Kaiserin"
             },
             {
                 "id": 25,
@@ -1158,13 +1158,13 @@
                 "birth_date_written": null,
                 "death_date_written": null,
                 "Geschlecht": null,
-                "Titel": "Erzherzog",
-                "Funktionsbezeichnung": null
+                "Funktionsbezeichnungen": null,
+                "Titel": "Erzherzog, Kaiser"
             },
             {
                 "id": 35,
                 "order": "35.00000000000000000000",
-                "name": "Kaiser Leopold I.",
+                "name": "Leopold I.",
                 "gnd": "https://d-nb.info/gnd/118571869",
                 "other_url": "",
                 "emt_id": "emt_person_id__35",
@@ -1182,8 +1182,8 @@
                 "birth_date_written": null,
                 "death_date_written": null,
                 "Geschlecht": null,
-                "Titel": null,
-                "Funktionsbezeichnung": null
+                "Funktionsbezeichnungen": null,
+                "Titel": "Kaiser"
             }
         ],
         "description": "",
@@ -1223,7 +1223,7 @@
             {
                 "id": 31,
                 "order": "31.00000000000000000000",
-                "name": "Kaiser Karl VI.",
+                "name": "Karl VI.",
                 "gnd": "https://d-nb.info/gnd/118560107",
                 "other_url": "",
                 "emt_id": "emt_person_id__31",
@@ -1241,8 +1241,8 @@
                 "birth_date_written": null,
                 "death_date_written": null,
                 "Geschlecht": null,
-                "Titel": null,
-                "Funktionsbezeichnung": null
+                "Funktionsbezeichnungen": null,
+                "Titel": "Erzherzog, König, Kaiser"
             }
         ],
         "description": "",
@@ -1282,7 +1282,7 @@
             {
                 "id": 31,
                 "order": "31.00000000000000000000",
-                "name": "Kaiser Karl VI.",
+                "name": "Karl VI.",
                 "gnd": "https://d-nb.info/gnd/118560107",
                 "other_url": "",
                 "emt_id": "emt_person_id__31",
@@ -1300,8 +1300,8 @@
                 "birth_date_written": null,
                 "death_date_written": null,
                 "Geschlecht": null,
-                "Titel": null,
-                "Funktionsbezeichnung": null
+                "Funktionsbezeichnungen": null,
+                "Titel": "Erzherzog, König, Kaiser"
             }
         ],
         "description": "",
@@ -1341,7 +1341,7 @@
             {
                 "id": 31,
                 "order": "31.00000000000000000000",
-                "name": "Kaiser Karl VI.",
+                "name": "Karl VI.",
                 "gnd": "https://d-nb.info/gnd/118560107",
                 "other_url": "",
                 "emt_id": "emt_person_id__31",
@@ -1359,13 +1359,13 @@
                 "birth_date_written": null,
                 "death_date_written": null,
                 "Geschlecht": null,
-                "Titel": null,
-                "Funktionsbezeichnung": null
+                "Funktionsbezeichnungen": null,
+                "Titel": "Erzherzog, König, Kaiser"
             },
             {
                 "id": 110,
                 "order": "110.00000000000000000000",
-                "name": "Elisabeth Christine von Braunschweig-Wolfenbüttel",
+                "name": "Elisabeth Christine von Braunschweig-Wolfenbüttel, vereh. Österreich",
                 "gnd": "http://d-nb.info/122035143",
                 "other_url": "",
                 "emt_id": "emt_person_id__110",
@@ -1383,8 +1383,8 @@
                 "birth_date_written": "",
                 "death_date_written": "",
                 "Geschlecht": null,
-                "Titel": null,
-                "Funktionsbezeichnung": null
+                "Funktionsbezeichnungen": null,
+                "Titel": "Herzogin, Kaiserin"
             }
         ],
         "description": "",
@@ -1424,7 +1424,7 @@
             {
                 "id": 9,
                 "order": "9.00000000000000000000",
-                "name": "Kaiserin Eleonora Magdalena, geb. Pfalz-Neuburg",
+                "name": "Eleonora Magdalena Theresia, geb. Pfalz-Neuburg",
                 "gnd": "https://d-nb.info/gnd/101026641",
                 "other_url": "",
                 "emt_id": "emt_person_id__9",
@@ -1442,8 +1442,8 @@
                 "birth_date_written": null,
                 "death_date_written": null,
                 "Geschlecht": null,
-                "Titel": null,
-                "Funktionsbezeichnung": null
+                "Funktionsbezeichnungen": null,
+                "Titel": "Kaiserin"
             }
         ],
         "description": "",
@@ -1483,7 +1483,7 @@
             {
                 "id": 9,
                 "order": "9.00000000000000000000",
-                "name": "Kaiserin Eleonora Magdalena, geb. Pfalz-Neuburg",
+                "name": "Eleonora Magdalena Theresia, geb. Pfalz-Neuburg",
                 "gnd": "https://d-nb.info/gnd/101026641",
                 "other_url": "",
                 "emt_id": "emt_person_id__9",
@@ -1501,8 +1501,8 @@
                 "birth_date_written": null,
                 "death_date_written": null,
                 "Geschlecht": null,
-                "Titel": null,
-                "Funktionsbezeichnung": null
+                "Funktionsbezeichnungen": null,
+                "Titel": "Kaiserin"
             }
         ],
         "description": "",
@@ -1528,7 +1528,7 @@
             {
                 "id": 9,
                 "order": "9.00000000000000000000",
-                "name": "Kaiserin Eleonora Magdalena, geb. Pfalz-Neuburg",
+                "name": "Eleonora Magdalena Theresia, geb. Pfalz-Neuburg",
                 "gnd": "https://d-nb.info/gnd/101026641",
                 "other_url": "",
                 "emt_id": "emt_person_id__9",
@@ -1546,13 +1546,13 @@
                 "birth_date_written": null,
                 "death_date_written": null,
                 "Geschlecht": null,
-                "Titel": null,
-                "Funktionsbezeichnung": null
+                "Funktionsbezeichnungen": null,
+                "Titel": "Kaiserin"
             },
             {
                 "id": 112,
                 "order": "112.00000000000000000000",
-                "name": "Leopold Joseph, Erzherzog",
+                "name": "Österreich, Leopold Joseph von",
                 "gnd": "https://d-nb.info/gnd/104279672",
                 "other_url": "",
                 "emt_id": "emt_person_id__112",
@@ -1570,8 +1570,8 @@
                 "birth_date_written": "",
                 "death_date_written": "",
                 "Geschlecht": null,
-                "Titel": null,
-                "Funktionsbezeichnung": null
+                "Funktionsbezeichnungen": null,
+                "Titel": "Erzherzog"
             }
         ],
         "description": "",
@@ -1611,7 +1611,7 @@
             {
                 "id": 112,
                 "order": "112.00000000000000000000",
-                "name": "Leopold Joseph, Erzherzog",
+                "name": "Österreich, Leopold Joseph von",
                 "gnd": "https://d-nb.info/gnd/104279672",
                 "other_url": "",
                 "emt_id": "emt_person_id__112",
@@ -1629,8 +1629,8 @@
                 "birth_date_written": "",
                 "death_date_written": "",
                 "Geschlecht": null,
-                "Titel": null,
-                "Funktionsbezeichnung": null
+                "Funktionsbezeichnungen": null,
+                "Titel": "Erzherzog"
             }
         ],
         "description": "",
@@ -1670,7 +1670,7 @@
             {
                 "id": 9,
                 "order": "9.00000000000000000000",
-                "name": "Kaiserin Eleonora Magdalena, geb. Pfalz-Neuburg",
+                "name": "Eleonora Magdalena Theresia, geb. Pfalz-Neuburg",
                 "gnd": "https://d-nb.info/gnd/101026641",
                 "other_url": "",
                 "emt_id": "emt_person_id__9",
@@ -1688,13 +1688,13 @@
                 "birth_date_written": null,
                 "death_date_written": null,
                 "Geschlecht": null,
-                "Titel": null,
-                "Funktionsbezeichnung": null
+                "Funktionsbezeichnungen": null,
+                "Titel": "Kaiserin"
             },
             {
                 "id": 113,
                 "order": "113.00000000000000000000",
-                "name": "Maria Anna Josepha, Erzherzogin",
+                "name": "Österreich, Maria Anna Josepha von, vereh. Portugal",
                 "gnd": "http://d-nb.info/119360691",
                 "other_url": "",
                 "emt_id": "emt_person_id__113",
@@ -1712,8 +1712,8 @@
                 "birth_date_written": "",
                 "death_date_written": "",
                 "Geschlecht": null,
-                "Titel": null,
-                "Funktionsbezeichnung": null
+                "Funktionsbezeichnungen": null,
+                "Titel": "Erzherzogin"
             }
         ],
         "description": "",
@@ -1753,7 +1753,7 @@
             {
                 "id": 9,
                 "order": "9.00000000000000000000",
-                "name": "Kaiserin Eleonora Magdalena, geb. Pfalz-Neuburg",
+                "name": "Eleonora Magdalena Theresia, geb. Pfalz-Neuburg",
                 "gnd": "https://d-nb.info/gnd/101026641",
                 "other_url": "",
                 "emt_id": "emt_person_id__9",
@@ -1771,13 +1771,13 @@
                 "birth_date_written": null,
                 "death_date_written": null,
                 "Geschlecht": null,
-                "Titel": null,
-                "Funktionsbezeichnung": null
+                "Funktionsbezeichnungen": null,
+                "Titel": "Kaiserin"
             },
             {
                 "id": 113,
                 "order": "113.00000000000000000000",
-                "name": "Maria Anna Josepha, Erzherzogin",
+                "name": "Österreich, Maria Anna Josepha von, vereh. Portugal",
                 "gnd": "http://d-nb.info/119360691",
                 "other_url": "",
                 "emt_id": "emt_person_id__113",
@@ -1795,8 +1795,8 @@
                 "birth_date_written": "",
                 "death_date_written": "",
                 "Geschlecht": null,
-                "Titel": null,
-                "Funktionsbezeichnung": null
+                "Funktionsbezeichnungen": null,
+                "Titel": "Erzherzogin"
             }
         ],
         "description": "",
@@ -1836,7 +1836,7 @@
             {
                 "id": 9,
                 "order": "9.00000000000000000000",
-                "name": "Kaiserin Eleonora Magdalena, geb. Pfalz-Neuburg",
+                "name": "Eleonora Magdalena Theresia, geb. Pfalz-Neuburg",
                 "gnd": "https://d-nb.info/gnd/101026641",
                 "other_url": "",
                 "emt_id": "emt_person_id__9",
@@ -1854,13 +1854,13 @@
                 "birth_date_written": null,
                 "death_date_written": null,
                 "Geschlecht": null,
-                "Titel": null,
-                "Funktionsbezeichnung": null
+                "Funktionsbezeichnungen": null,
+                "Titel": "Kaiserin"
             },
             {
                 "id": 115,
                 "order": "115.00000000000000000000",
-                "name": "Maria Theresia, Erzherzogin",
+                "name": "Österreich, Maria Theresia von",
                 "gnd": "https://d-nb.info/gnd/130261033",
                 "other_url": "",
                 "emt_id": "emt_person_id__115",
@@ -1878,8 +1878,8 @@
                 "birth_date_written": "",
                 "death_date_written": "",
                 "Geschlecht": null,
-                "Titel": null,
-                "Funktionsbezeichnung": null
+                "Funktionsbezeichnungen": null,
+                "Titel": "Erzherzogin"
             }
         ],
         "description": "",
@@ -1919,7 +1919,7 @@
             {
                 "id": 115,
                 "order": "115.00000000000000000000",
-                "name": "Maria Theresia, Erzherzogin",
+                "name": "Österreich, Maria Theresia von",
                 "gnd": "https://d-nb.info/gnd/130261033",
                 "other_url": "",
                 "emt_id": "emt_person_id__115",
@@ -1937,8 +1937,8 @@
                 "birth_date_written": "",
                 "death_date_written": "",
                 "Geschlecht": null,
-                "Titel": null,
-                "Funktionsbezeichnung": null
+                "Funktionsbezeichnungen": null,
+                "Titel": "Erzherzogin"
             }
         ],
         "description": "",
@@ -1978,7 +1978,7 @@
             {
                 "id": 9,
                 "order": "9.00000000000000000000",
-                "name": "Kaiserin Eleonora Magdalena, geb. Pfalz-Neuburg",
+                "name": "Eleonora Magdalena Theresia, geb. Pfalz-Neuburg",
                 "gnd": "https://d-nb.info/gnd/101026641",
                 "other_url": "",
                 "emt_id": "emt_person_id__9",
@@ -1996,13 +1996,13 @@
                 "birth_date_written": null,
                 "death_date_written": null,
                 "Geschlecht": null,
-                "Titel": null,
-                "Funktionsbezeichnung": null
+                "Funktionsbezeichnungen": null,
+                "Titel": "Kaiserin"
             },
             {
                 "id": 114,
                 "order": "114.00000000000000000000",
-                "name": "Maria Josepha, Erzherzogin",
+                "name": "Österreich, Maria Josepha von",
                 "gnd": "",
                 "other_url": "",
                 "emt_id": "emt_person_id__114",
@@ -2020,8 +2020,8 @@
                 "birth_date_written": "",
                 "death_date_written": "",
                 "Geschlecht": null,
-                "Titel": null,
-                "Funktionsbezeichnung": null
+                "Funktionsbezeichnungen": null,
+                "Titel": "Erzherzogin"
             }
         ],
         "description": "",
@@ -2061,7 +2061,7 @@
             {
                 "id": 114,
                 "order": "114.00000000000000000000",
-                "name": "Maria Josepha, Erzherzogin",
+                "name": "Österreich, Maria Josepha von",
                 "gnd": "",
                 "other_url": "",
                 "emt_id": "emt_person_id__114",
@@ -2079,8 +2079,8 @@
                 "birth_date_written": "",
                 "death_date_written": "",
                 "Geschlecht": null,
-                "Titel": null,
-                "Funktionsbezeichnung": null
+                "Funktionsbezeichnungen": null,
+                "Titel": "Erzherzogin"
             }
         ],
         "description": "",
@@ -2120,7 +2120,7 @@
             {
                 "id": 9,
                 "order": "9.00000000000000000000",
-                "name": "Kaiserin Eleonora Magdalena, geb. Pfalz-Neuburg",
+                "name": "Eleonora Magdalena Theresia, geb. Pfalz-Neuburg",
                 "gnd": "https://d-nb.info/gnd/101026641",
                 "other_url": "",
                 "emt_id": "emt_person_id__9",
@@ -2138,8 +2138,8 @@
                 "birth_date_written": null,
                 "death_date_written": null,
                 "Geschlecht": null,
-                "Titel": null,
-                "Funktionsbezeichnung": null
+                "Funktionsbezeichnungen": null,
+                "Titel": "Kaiserin"
             },
             {
                 "id": 116,
@@ -2162,8 +2162,8 @@
                 "birth_date_written": "",
                 "death_date_written": "",
                 "Geschlecht": null,
-                "Titel": null,
-                "Funktionsbezeichnung": null
+                "Funktionsbezeichnungen": null,
+                "Titel": null
             }
         ],
         "description": "",
@@ -2203,7 +2203,7 @@
             {
                 "id": 9,
                 "order": "9.00000000000000000000",
-                "name": "Kaiserin Eleonora Magdalena, geb. Pfalz-Neuburg",
+                "name": "Eleonora Magdalena Theresia, geb. Pfalz-Neuburg",
                 "gnd": "https://d-nb.info/gnd/101026641",
                 "other_url": "",
                 "emt_id": "emt_person_id__9",
@@ -2221,8 +2221,8 @@
                 "birth_date_written": null,
                 "death_date_written": null,
                 "Geschlecht": null,
-                "Titel": null,
-                "Funktionsbezeichnung": null
+                "Funktionsbezeichnungen": null,
+                "Titel": "Kaiserin"
             },
             {
                 "id": 117,
@@ -2245,8 +2245,8 @@
                 "birth_date_written": "",
                 "death_date_written": "",
                 "Geschlecht": null,
-                "Titel": null,
-                "Funktionsbezeichnung": null
+                "Funktionsbezeichnungen": null,
+                "Titel": null
             }
         ],
         "description": "",
@@ -2290,8 +2290,8 @@
                 "birth_date_written": "",
                 "death_date_written": "",
                 "Geschlecht": null,
-                "Titel": null,
-                "Funktionsbezeichnung": null
+                "Funktionsbezeichnungen": null,
+                "Titel": null
             }
         ],
         "description": "",
@@ -2331,7 +2331,7 @@
             {
                 "id": 50,
                 "order": "50.00000000000000000000",
-                "name": "Philipp Wilhelm von Pfalz-Neuburg, Kurfürst von der Pfalz",
+                "name": "Pfalz-Neuburg, Philipp Wilhelm von",
                 "gnd": "https://d-nb.info/gnd/118742221",
                 "other_url": "",
                 "emt_id": "emt_person_id__50",
@@ -2339,8 +2339,8 @@
                 "color": "#d45121",
                 "lebensdaten": "1615-1690",
                 "ndb": "https://www.deutsche-biographie.de/sfz60354.html#indexcontent",
-                "year_of_birth": null,
-                "year_of_death": null,
+                "year_of_birth": "1615",
+                "year_of_death": "1690",
                 "wikidata_url": "http://www.wikidata.org/entity/Q60514",
                 "wikidata_enriched": true,
                 "img_name": "Anonym Herzog Philipp Wilhelm.jpg",
@@ -2349,8 +2349,8 @@
                 "birth_date_written": null,
                 "death_date_written": null,
                 "Geschlecht": null,
-                "Titel": null,
-                "Funktionsbezeichnung": null
+                "Funktionsbezeichnungen": null,
+                "Titel": "Herzog, Kurfürst"
             }
         ],
         "description": "",
@@ -2390,7 +2390,7 @@
             {
                 "id": 18,
                 "order": "18.00000000000000000000",
-                "name": "Johann Wilhelm von Pfalz-Neuburg, Kurfürst von der Pfalz",
+                "name": "Pfalz-Neuburg, Johann Wilhelm von",
                 "gnd": "https://d-nb.info/gnd/118712411",
                 "other_url": "",
                 "emt_id": "emt_person_id__18",
@@ -2408,8 +2408,8 @@
                 "birth_date_written": null,
                 "death_date_written": null,
                 "Geschlecht": null,
-                "Titel": null,
-                "Funktionsbezeichnung": null
+                "Funktionsbezeichnungen": null,
+                "Titel": "Herzog, Kurfürst"
             }
         ],
         "description": "",
@@ -2449,7 +2449,7 @@
             {
                 "id": 18,
                 "order": "18.00000000000000000000",
-                "name": "Johann Wilhelm von Pfalz-Neuburg, Kurfürst von der Pfalz",
+                "name": "Pfalz-Neuburg, Johann Wilhelm von",
                 "gnd": "https://d-nb.info/gnd/118712411",
                 "other_url": "",
                 "emt_id": "emt_person_id__18",
@@ -2467,13 +2467,13 @@
                 "birth_date_written": null,
                 "death_date_written": null,
                 "Geschlecht": null,
-                "Titel": null,
-                "Funktionsbezeichnung": null
+                "Funktionsbezeichnungen": null,
+                "Titel": "Herzog, Kurfürst"
             },
             {
                 "id": 60,
                 "order": "60.00000000000000000000",
-                "name": "Maria Anna von Pfalz-Neuburg, geb. Österreich",
+                "name": "Österreich, Maria Anna von, vereh. Pfalz-Neuburg",
                 "gnd": "https://d-nb.info/gnd/120100096",
                 "other_url": "",
                 "emt_id": "emt_person_id__60",
@@ -2491,8 +2491,8 @@
                 "birth_date_written": null,
                 "death_date_written": null,
                 "Geschlecht": null,
-                "Titel": null,
-                "Funktionsbezeichnung": null
+                "Funktionsbezeichnungen": null,
+                "Titel": "Erzherzogin, Herzogin"
             }
         ],
         "description": "",
@@ -2532,7 +2532,7 @@
             {
                 "id": 60,
                 "order": "60.00000000000000000000",
-                "name": "Maria Anna von Pfalz-Neuburg, geb. Österreich",
+                "name": "Österreich, Maria Anna von, vereh. Pfalz-Neuburg",
                 "gnd": "https://d-nb.info/gnd/120100096",
                 "other_url": "",
                 "emt_id": "emt_person_id__60",
@@ -2550,8 +2550,8 @@
                 "birth_date_written": null,
                 "death_date_written": null,
                 "Geschlecht": null,
-                "Titel": null,
-                "Funktionsbezeichnung": null
+                "Funktionsbezeichnungen": null,
+                "Titel": "Erzherzogin, Herzogin"
             }
         ],
         "description": "",
@@ -2591,7 +2591,7 @@
             {
                 "id": 123,
                 "order": "123.00000000000000000000",
-                "name": "Anna Maria Luisa von der Pfalz, geb. Medici",
+                "name": "Pfalz-Neuburg, Anna Maria Luisa von, geb. Medici",
                 "gnd": "http://d-nb.info/118846787",
                 "other_url": "https://www.treccani.it/enciclopedia/anna-maria-luisa-de-medici-elettrice-del-palatinato_%28Dizionario-Biografico%29/",
                 "emt_id": "emt_person_id__123",
@@ -2609,8 +2609,8 @@
                 "birth_date_written": "",
                 "death_date_written": "",
                 "Geschlecht": null,
-                "Titel": null,
-                "Funktionsbezeichnung": null
+                "Funktionsbezeichnungen": null,
+                "Titel": "Kurfürstin"
             }
         ],
         "description": "",
@@ -2650,7 +2650,7 @@
             {
                 "id": 18,
                 "order": "18.00000000000000000000",
-                "name": "Johann Wilhelm von Pfalz-Neuburg, Kurfürst von der Pfalz",
+                "name": "Pfalz-Neuburg, Johann Wilhelm von",
                 "gnd": "https://d-nb.info/gnd/118712411",
                 "other_url": "",
                 "emt_id": "emt_person_id__18",
@@ -2668,8 +2668,8 @@
                 "birth_date_written": null,
                 "death_date_written": null,
                 "Geschlecht": null,
-                "Titel": null,
-                "Funktionsbezeichnung": null
+                "Funktionsbezeichnungen": null,
+                "Titel": "Herzog, Kurfürst"
             }
         ],
         "description": "",
@@ -2709,11 +2709,11 @@
             {
                 "id": 82,
                 "order": "82.00000000000000000000",
-                "name": "Wolfgang Georg Friedrich von Pfalz-Neuburg",
+                "name": "Pfalz-Neuburg, Wolfgang Georg Friedrich von",
                 "gnd": "https://d-nb.info/gnd/118046055",
                 "other_url": "",
                 "emt_id": "emt_person_id__82",
-                "internal_comment": "Weihbischof von Köln",
+                "internal_comment": "",
                 "color": "",
                 "lebensdaten": "1659-1683",
                 "ndb": "https://www.deutsche-biographie.de/sfz19011.html#indexcontent",
@@ -2727,8 +2727,8 @@
                 "birth_date_written": null,
                 "death_date_written": null,
                 "Geschlecht": null,
-                "Titel": null,
-                "Funktionsbezeichnung": null
+                "Funktionsbezeichnungen": "Weihbischof von Köln, gewählter Fürstbischof von Breslau",
+                "Titel": "Herzog"
             }
         ],
         "description": "",
@@ -2768,11 +2768,11 @@
             {
                 "id": 82,
                 "order": "82.00000000000000000000",
-                "name": "Wolfgang Georg Friedrich von Pfalz-Neuburg",
+                "name": "Pfalz-Neuburg, Wolfgang Georg Friedrich von",
                 "gnd": "https://d-nb.info/gnd/118046055",
                 "other_url": "",
                 "emt_id": "emt_person_id__82",
-                "internal_comment": "Weihbischof von Köln",
+                "internal_comment": "",
                 "color": "",
                 "lebensdaten": "1659-1683",
                 "ndb": "https://www.deutsche-biographie.de/sfz19011.html#indexcontent",
@@ -2786,8 +2786,8 @@
                 "birth_date_written": null,
                 "death_date_written": null,
                 "Geschlecht": null,
-                "Titel": null,
-                "Funktionsbezeichnung": null
+                "Funktionsbezeichnungen": "Weihbischof von Köln, gewählter Fürstbischof von Breslau",
+                "Titel": "Herzog"
             }
         ],
         "description": "",
@@ -2827,11 +2827,11 @@
             {
                 "id": 124,
                 "order": "124.00000000000000000000",
-                "name": "Ludwig Anton von Pfalz-Neuburg",
+                "name": "Pfalz-Neuburg, Ludwig Anton von",
                 "gnd": "http://d-nb.info/118888536",
                 "other_url": "",
                 "emt_id": "emt_person_id__124",
-                "internal_comment": "Deutschmeister, Bischof von Worms",
+                "internal_comment": "",
                 "color": "",
                 "lebensdaten": "",
                 "ndb": "https://www.deutsche-biographie.de/sfz54782.html#indexcontent",
@@ -2845,8 +2845,8 @@
                 "birth_date_written": "",
                 "death_date_written": "",
                 "Geschlecht": null,
-                "Titel": null,
-                "Funktionsbezeichnung": null
+                "Funktionsbezeichnungen": "Deutschmeister, Bischof von Worms",
+                "Titel": "Herzog"
             }
         ],
         "description": "",
@@ -2886,11 +2886,11 @@
             {
                 "id": 124,
                 "order": "124.00000000000000000000",
-                "name": "Ludwig Anton von Pfalz-Neuburg",
+                "name": "Pfalz-Neuburg, Ludwig Anton von",
                 "gnd": "http://d-nb.info/118888536",
                 "other_url": "",
                 "emt_id": "emt_person_id__124",
-                "internal_comment": "Deutschmeister, Bischof von Worms",
+                "internal_comment": "",
                 "color": "",
                 "lebensdaten": "",
                 "ndb": "https://www.deutsche-biographie.de/sfz54782.html#indexcontent",
@@ -2904,8 +2904,8 @@
                 "birth_date_written": "",
                 "death_date_written": "",
                 "Geschlecht": null,
-                "Titel": null,
-                "Funktionsbezeichnung": null
+                "Funktionsbezeichnungen": "Deutschmeister, Bischof von Worms",
+                "Titel": "Herzog"
             }
         ],
         "description": "",
@@ -2945,7 +2945,7 @@
             {
                 "id": 29,
                 "order": "29.00000000000000000000",
-                "name": "Karl Philipp von Pfalz-Neuburg",
+                "name": "Pfalz-Neuburg, Karl Philipp von",
                 "gnd": "https://d-nb.info/gnd/118720953",
                 "other_url": "",
                 "emt_id": "emt_person_id__29",
@@ -2963,8 +2963,8 @@
                 "birth_date_written": null,
                 "death_date_written": null,
                 "Geschlecht": null,
-                "Titel": null,
-                "Funktionsbezeichnung": null
+                "Funktionsbezeichnungen": "General",
+                "Titel": "Herzog"
             }
         ],
         "description": "",
@@ -3004,7 +3004,7 @@
             {
                 "id": 29,
                 "order": "29.00000000000000000000",
-                "name": "Karl Philipp von Pfalz-Neuburg",
+                "name": "Pfalz-Neuburg, Karl Philipp von",
                 "gnd": "https://d-nb.info/gnd/118720953",
                 "other_url": "",
                 "emt_id": "emt_person_id__29",
@@ -3022,13 +3022,13 @@
                 "birth_date_written": null,
                 "death_date_written": null,
                 "Geschlecht": null,
-                "Titel": null,
-                "Funktionsbezeichnung": null
+                "Funktionsbezeichnungen": "General",
+                "Titel": "Herzog"
             },
             {
                 "id": 125,
                 "order": "125.00000000000000000000",
-                "name": "Luise Charlotte von Pfalz-Neuburg, geb. Radziwill, verw. Brandenburg",
+                "name": "Pfalz-Neuburg, Luise Charlotte von, geb. Radziwill, verw. Brandenburg",
                 "gnd": "https://d-nb.info/gnd/128635622",
                 "other_url": "https://de.wikipedia.org/wiki/Luise_Charlotte_Radziwill",
                 "emt_id": "emt_person_id__125",
@@ -3046,8 +3046,8 @@
                 "birth_date_written": "",
                 "death_date_written": "",
                 "Geschlecht": null,
-                "Titel": null,
-                "Funktionsbezeichnung": null
+                "Funktionsbezeichnungen": null,
+                "Titel": "Herzogin"
             }
         ],
         "description": "",
@@ -3087,7 +3087,7 @@
             {
                 "id": 29,
                 "order": "29.00000000000000000000",
-                "name": "Karl Philipp von Pfalz-Neuburg",
+                "name": "Pfalz-Neuburg, Karl Philipp von",
                 "gnd": "https://d-nb.info/gnd/118720953",
                 "other_url": "",
                 "emt_id": "emt_person_id__29",
@@ -3105,13 +3105,13 @@
                 "birth_date_written": null,
                 "death_date_written": null,
                 "Geschlecht": null,
-                "Titel": null,
-                "Funktionsbezeichnung": null
+                "Funktionsbezeichnungen": "General",
+                "Titel": "Herzog"
             },
             {
                 "id": 126,
                 "order": "126.00000000000000000000",
-                "name": "Theresia Katharina von Pfalz-Neuburg, geb. Lubomirska",
+                "name": "Pfalz-Neuburg, Theresia Katharina von, geb. Lubomirska",
                 "gnd": "https://d-nb.info/gnd/101509922X",
                 "other_url": "https://de.wikipedia.org/wiki/Theresa_Katharina_Lubomirska",
                 "emt_id": "emt_person_id__126",
@@ -3129,8 +3129,8 @@
                 "birth_date_written": "",
                 "death_date_written": "",
                 "Geschlecht": null,
-                "Titel": null,
-                "Funktionsbezeichnung": null
+                "Funktionsbezeichnungen": null,
+                "Titel": "Herzogin"
             }
         ],
         "description": "",
@@ -3170,11 +3170,11 @@
             {
                 "id": 127,
                 "order": "127.00000000000000000000",
-                "name": "Alexander Sigmund von Pfalz-Neuburg",
+                "name": "Pfalz-Neuburg, Alexander Sigmund von",
                 "gnd": "http://d-nb.info/121822036",
                 "other_url": "",
                 "emt_id": "emt_person_id__127",
-                "internal_comment": "Bischof von Augsburg",
+                "internal_comment": "",
                 "color": "",
                 "lebensdaten": "",
                 "ndb": "https://www.deutsche-biographie.de/sfz52659.html#indexcontent",
@@ -3188,8 +3188,8 @@
                 "birth_date_written": "",
                 "death_date_written": "",
                 "Geschlecht": null,
-                "Titel": null,
-                "Funktionsbezeichnung": null
+                "Funktionsbezeichnungen": "Bischof von Augsburg",
+                "Titel": "Herzog"
             }
         ],
         "description": "",
@@ -3229,11 +3229,11 @@
             {
                 "id": 124,
                 "order": "124.00000000000000000000",
-                "name": "Ludwig Anton von Pfalz-Neuburg",
+                "name": "Pfalz-Neuburg, Ludwig Anton von",
                 "gnd": "http://d-nb.info/118888536",
                 "other_url": "",
                 "emt_id": "emt_person_id__124",
-                "internal_comment": "Deutschmeister, Bischof von Worms",
+                "internal_comment": "",
                 "color": "",
                 "lebensdaten": "",
                 "ndb": "https://www.deutsche-biographie.de/sfz54782.html#indexcontent",
@@ -3247,8 +3247,8 @@
                 "birth_date_written": "",
                 "death_date_written": "",
                 "Geschlecht": null,
-                "Titel": null,
-                "Funktionsbezeichnung": null
+                "Funktionsbezeichnungen": "Deutschmeister, Bischof von Worms",
+                "Titel": "Herzog"
             }
         ],
         "description": "",
@@ -3288,11 +3288,11 @@
             {
                 "id": 127,
                 "order": "127.00000000000000000000",
-                "name": "Alexander Sigmund von Pfalz-Neuburg",
+                "name": "Pfalz-Neuburg, Alexander Sigmund von",
                 "gnd": "http://d-nb.info/121822036",
                 "other_url": "",
                 "emt_id": "emt_person_id__127",
-                "internal_comment": "Bischof von Augsburg",
+                "internal_comment": "",
                 "color": "",
                 "lebensdaten": "",
                 "ndb": "https://www.deutsche-biographie.de/sfz52659.html#indexcontent",
@@ -3306,8 +3306,8 @@
                 "birth_date_written": "",
                 "death_date_written": "",
                 "Geschlecht": null,
-                "Titel": null,
-                "Funktionsbezeichnung": null
+                "Funktionsbezeichnungen": "Bischof von Augsburg",
+                "Titel": "Herzog"
             }
         ],
         "description": "",
@@ -3333,11 +3333,11 @@
             {
                 "id": 124,
                 "order": "124.00000000000000000000",
-                "name": "Ludwig Anton von Pfalz-Neuburg",
+                "name": "Pfalz-Neuburg, Ludwig Anton von",
                 "gnd": "http://d-nb.info/118888536",
                 "other_url": "",
                 "emt_id": "emt_person_id__124",
-                "internal_comment": "Deutschmeister, Bischof von Worms",
+                "internal_comment": "",
                 "color": "",
                 "lebensdaten": "",
                 "ndb": "https://www.deutsche-biographie.de/sfz54782.html#indexcontent",
@@ -3351,8 +3351,8 @@
                 "birth_date_written": "",
                 "death_date_written": "",
                 "Geschlecht": null,
-                "Titel": null,
-                "Funktionsbezeichnung": null
+                "Funktionsbezeichnungen": "Deutschmeister, Bischof von Worms",
+                "Titel": "Herzog"
             }
         ],
         "description": "",
@@ -3392,11 +3392,11 @@
             {
                 "id": 128,
                 "order": "128.00000000000000000000",
-                "name": "Franz Ludwig von Pfalz-Neuburg",
+                "name": "Pfalz-Neuburg, Franz Ludwig von",
                 "gnd": "http://d-nb.info/11897131X",
                 "other_url": "",
                 "emt_id": "emt_person_id__128",
-                "internal_comment": "Bischof von Breslau, Deutschmeister, Kurfürst von Trier",
+                "internal_comment": "",
                 "color": "",
                 "lebensdaten": "",
                 "ndb": "https://www.deutsche-biographie.de/sfz52971.html#indexcontent",
@@ -3410,8 +3410,8 @@
                 "birth_date_written": "",
                 "death_date_written": "",
                 "Geschlecht": null,
-                "Titel": null,
-                "Funktionsbezeichnung": null
+                "Funktionsbezeichnungen": "Bischof von Breslau, Deutschmeister, Kurfürst und Erzbischof von Trier",
+                "Titel": "Herzog, Kurfürst"
             }
         ],
         "description": "",
@@ -3451,11 +3451,11 @@
             {
                 "id": 128,
                 "order": "128.00000000000000000000",
-                "name": "Franz Ludwig von Pfalz-Neuburg",
+                "name": "Pfalz-Neuburg, Franz Ludwig von",
                 "gnd": "http://d-nb.info/11897131X",
                 "other_url": "",
                 "emt_id": "emt_person_id__128",
-                "internal_comment": "Bischof von Breslau, Deutschmeister, Kurfürst von Trier",
+                "internal_comment": "",
                 "color": "",
                 "lebensdaten": "",
                 "ndb": "https://www.deutsche-biographie.de/sfz52971.html#indexcontent",
@@ -3469,8 +3469,8 @@
                 "birth_date_written": "",
                 "death_date_written": "",
                 "Geschlecht": null,
-                "Titel": null,
-                "Funktionsbezeichnung": null
+                "Funktionsbezeichnungen": "Bischof von Breslau, Deutschmeister, Kurfürst und Erzbischof von Trier",
+                "Titel": "Herzog, Kurfürst"
             }
         ],
         "description": "",
@@ -3496,11 +3496,11 @@
             {
                 "id": 128,
                 "order": "128.00000000000000000000",
-                "name": "Franz Ludwig von Pfalz-Neuburg",
+                "name": "Pfalz-Neuburg, Franz Ludwig von",
                 "gnd": "http://d-nb.info/11897131X",
                 "other_url": "",
                 "emt_id": "emt_person_id__128",
-                "internal_comment": "Bischof von Breslau, Deutschmeister, Kurfürst von Trier",
+                "internal_comment": "",
                 "color": "",
                 "lebensdaten": "",
                 "ndb": "https://www.deutsche-biographie.de/sfz52971.html#indexcontent",
@@ -3514,8 +3514,8 @@
                 "birth_date_written": "",
                 "death_date_written": "",
                 "Geschlecht": null,
-                "Titel": null,
-                "Funktionsbezeichnung": null
+                "Funktionsbezeichnungen": "Bischof von Breslau, Deutschmeister, Kurfürst und Erzbischof von Trier",
+                "Titel": "Herzog, Kurfürst"
             }
         ],
         "description": "",
@@ -3555,11 +3555,11 @@
             {
                 "id": 128,
                 "order": "128.00000000000000000000",
-                "name": "Franz Ludwig von Pfalz-Neuburg",
+                "name": "Pfalz-Neuburg, Franz Ludwig von",
                 "gnd": "http://d-nb.info/11897131X",
                 "other_url": "",
                 "emt_id": "emt_person_id__128",
-                "internal_comment": "Bischof von Breslau, Deutschmeister, Kurfürst von Trier",
+                "internal_comment": "",
                 "color": "",
                 "lebensdaten": "",
                 "ndb": "https://www.deutsche-biographie.de/sfz52971.html#indexcontent",
@@ -3573,8 +3573,8 @@
                 "birth_date_written": "",
                 "death_date_written": "",
                 "Geschlecht": null,
-                "Titel": null,
-                "Funktionsbezeichnung": null
+                "Funktionsbezeichnungen": "Bischof von Breslau, Deutschmeister, Kurfürst und Erzbischof von Trier",
+                "Titel": "Herzog, Kurfürst"
             }
         ],
         "description": "",
@@ -3614,7 +3614,7 @@
             {
                 "id": 29,
                 "order": "29.00000000000000000000",
-                "name": "Karl Philipp von Pfalz-Neuburg",
+                "name": "Pfalz-Neuburg, Karl Philipp von",
                 "gnd": "https://d-nb.info/gnd/118720953",
                 "other_url": "",
                 "emt_id": "emt_person_id__29",
@@ -3632,8 +3632,8 @@
                 "birth_date_written": null,
                 "death_date_written": null,
                 "Geschlecht": null,
-                "Titel": null,
-                "Funktionsbezeichnung": null
+                "Funktionsbezeichnungen": "General",
+                "Titel": "Herzog"
             }
         ],
         "description": "",
@@ -3673,11 +3673,11 @@
             {
                 "id": 128,
                 "order": "128.00000000000000000000",
-                "name": "Franz Ludwig von Pfalz-Neuburg",
+                "name": "Pfalz-Neuburg, Franz Ludwig von",
                 "gnd": "http://d-nb.info/11897131X",
                 "other_url": "",
                 "emt_id": "emt_person_id__128",
-                "internal_comment": "Bischof von Breslau, Deutschmeister, Kurfürst von Trier",
+                "internal_comment": "",
                 "color": "",
                 "lebensdaten": "",
                 "ndb": "https://www.deutsche-biographie.de/sfz52971.html#indexcontent",
@@ -3691,8 +3691,8 @@
                 "birth_date_written": "",
                 "death_date_written": "",
                 "Geschlecht": null,
-                "Titel": null,
-                "Funktionsbezeichnung": null
+                "Funktionsbezeichnungen": "Bischof von Breslau, Deutschmeister, Kurfürst und Erzbischof von Trier",
+                "Titel": "Herzog, Kurfürst"
             }
         ],
         "description": "",
@@ -3732,7 +3732,7 @@
             {
                 "id": 10,
                 "order": "10.00000000000000000000",
-                "name": "Elisabeth Amalie von Pfalz-Neuburg, geb. Hessen-Darmstadt",
+                "name": "Pfalz-Neuburg, Elisabeth Amalie von, geb. Hessen-Darmstadt",
                 "gnd": "https://d-nb.info/gnd/12890285X",
                 "other_url": "",
                 "emt_id": "emt_person_id__10",
@@ -3750,8 +3750,8 @@
                 "birth_date_written": null,
                 "death_date_written": null,
                 "Geschlecht": null,
-                "Titel": "Herzogin, Kurfürstin",
-                "Funktionsbezeichnung": null
+                "Funktionsbezeichnungen": null,
+                "Titel": "Herzogin, Kurfürstin"
             }
         ],
         "description": "",
@@ -3791,7 +3791,7 @@
             {
                 "id": 129,
                 "order": "129.00000000000000000000",
-                "name": "Friedrich Wilhelm von Pfalz-Neuburg",
+                "name": "Pfalz-Neuburg, Friedrich Wilhelm von",
                 "gnd": "http://d-nb.info/120091526",
                 "other_url": "",
                 "emt_id": "emt_person_id__129",
@@ -3809,8 +3809,8 @@
                 "birth_date_written": "",
                 "death_date_written": "",
                 "Geschlecht": null,
-                "Titel": null,
-                "Funktionsbezeichnung": null
+                "Funktionsbezeichnungen": "General",
+                "Titel": "Herzog"
             }
         ],
         "description": "",
@@ -3850,7 +3850,7 @@
             {
                 "id": 129,
                 "order": "129.00000000000000000000",
-                "name": "Friedrich Wilhelm von Pfalz-Neuburg",
+                "name": "Pfalz-Neuburg, Friedrich Wilhelm von",
                 "gnd": "http://d-nb.info/120091526",
                 "other_url": "",
                 "emt_id": "emt_person_id__129",
@@ -3868,8 +3868,8 @@
                 "birth_date_written": "",
                 "death_date_written": "",
                 "Geschlecht": null,
-                "Titel": null,
-                "Funktionsbezeichnung": null
+                "Funktionsbezeichnungen": "General",
+                "Titel": "Herzog"
             }
         ],
         "description": "",
@@ -3927,8 +3927,8 @@
                 "birth_date_written": null,
                 "death_date_written": null,
                 "Geschlecht": null,
-                "Titel": null,
-                "Funktionsbezeichnung": null
+                "Funktionsbezeichnungen": null,
+                "Titel": "Königin"
             }
         ],
         "description": "",
@@ -3986,8 +3986,8 @@
                 "birth_date_written": null,
                 "death_date_written": null,
                 "Geschlecht": null,
-                "Titel": null,
-                "Funktionsbezeichnung": null
+                "Funktionsbezeichnungen": null,
+                "Titel": "Königin"
             },
             {
                 "id": 130,
@@ -4010,8 +4010,8 @@
                 "birth_date_written": "",
                 "death_date_written": "",
                 "Geschlecht": null,
-                "Titel": null,
-                "Funktionsbezeichnung": null
+                "Funktionsbezeichnungen": null,
+                "Titel": "König"
             }
         ],
         "description": "",
@@ -4069,8 +4069,8 @@
                 "birth_date_written": null,
                 "death_date_written": null,
                 "Geschlecht": null,
-                "Titel": null,
-                "Funktionsbezeichnung": null
+                "Funktionsbezeichnungen": null,
+                "Titel": "Königin"
             }
         ],
         "description": "",
@@ -4128,8 +4128,8 @@
                 "birth_date_written": null,
                 "death_date_written": null,
                 "Geschlecht": null,
-                "Titel": null,
-                "Funktionsbezeichnung": null
+                "Funktionsbezeichnungen": null,
+                "Titel": "Königin"
             }
         ],
         "description": "",
@@ -4187,8 +4187,8 @@
                 "birth_date_written": null,
                 "death_date_written": null,
                 "Geschlecht": null,
-                "Titel": null,
-                "Funktionsbezeichnung": null
+                "Funktionsbezeichnungen": null,
+                "Titel": "Königin"
             },
             {
                 "id": 89,
@@ -4211,8 +4211,8 @@
                 "birth_date_written": null,
                 "death_date_written": null,
                 "Geschlecht": null,
-                "Titel": null,
-                "Funktionsbezeichnung": null
+                "Funktionsbezeichnungen": null,
+                "Titel": "König"
             }
         ],
         "description": "",
@@ -4270,8 +4270,8 @@
                 "birth_date_written": null,
                 "death_date_written": null,
                 "Geschlecht": null,
-                "Titel": null,
-                "Funktionsbezeichnung": null
+                "Funktionsbezeichnungen": null,
+                "Titel": "Königin"
             }
         ],
         "description": "",
@@ -4311,7 +4311,7 @@
             {
                 "id": 131,
                 "order": "131.00000000000000000000",
-                "name": "Philipp Wilhelm August von Pfalz-Neuburg",
+                "name": "Pfalz-Neuburg, Philipp Wilhelm August von",
                 "gnd": "http://d-nb.info/140003908",
                 "other_url": "",
                 "emt_id": "emt_person_id__131",
@@ -4329,8 +4329,8 @@
                 "birth_date_written": "",
                 "death_date_written": "",
                 "Geschlecht": null,
-                "Titel": null,
-                "Funktionsbezeichnung": null
+                "Funktionsbezeichnungen": null,
+                "Titel": "Herzog"
             }
         ],
         "description": "",
@@ -4370,7 +4370,7 @@
             {
                 "id": 3,
                 "order": "3.00000000000000000000",
-                "name": "Anna Maria Franziska de' Medici, geb. Sachsen-Lauenburg, verw. Pfalz",
+                "name": "Sachsen-Lauenburg, Anna Maria Franziska von, vereh. Pfalz-Neuburg, vereh. de' Medici",
                 "gnd": "https://d-nb.info/gnd/119426099",
                 "other_url": "",
                 "emt_id": "emt_person_id__3",
@@ -4388,13 +4388,13 @@
                 "birth_date_written": null,
                 "death_date_written": null,
                 "Geschlecht": null,
-                "Titel": null,
-                "Funktionsbezeichnung": null
+                "Funktionsbezeichnungen": null,
+                "Titel": "Herzogin, Großherzogin"
             },
             {
                 "id": 131,
                 "order": "131.00000000000000000000",
-                "name": "Philipp Wilhelm August von Pfalz-Neuburg",
+                "name": "Pfalz-Neuburg, Philipp Wilhelm August von",
                 "gnd": "http://d-nb.info/140003908",
                 "other_url": "",
                 "emt_id": "emt_person_id__131",
@@ -4412,8 +4412,8 @@
                 "birth_date_written": "",
                 "death_date_written": "",
                 "Geschlecht": null,
-                "Titel": null,
-                "Funktionsbezeichnung": null
+                "Funktionsbezeichnungen": null,
+                "Titel": "Herzog"
             }
         ],
         "description": "",
@@ -4453,7 +4453,7 @@
             {
                 "id": 131,
                 "order": "131.00000000000000000000",
-                "name": "Philipp Wilhelm August von Pfalz-Neuburg",
+                "name": "Pfalz-Neuburg, Philipp Wilhelm August von",
                 "gnd": "http://d-nb.info/140003908",
                 "other_url": "",
                 "emt_id": "emt_person_id__131",
@@ -4471,8 +4471,8 @@
                 "birth_date_written": "",
                 "death_date_written": "",
                 "Geschlecht": null,
-                "Titel": null,
-                "Funktionsbezeichnung": null
+                "Funktionsbezeichnungen": null,
+                "Titel": "Herzog"
             }
         ],
         "description": "",
@@ -4512,7 +4512,7 @@
             {
                 "id": 8,
                 "order": "8.00000000000000000000",
-                "name": "Dorothea Sophie von Parma, geb. Pfalz-Neuburg",
+                "name": "Pfalz-Neuburg, Dorothea Sophie von, vereh. von Parma",
                 "gnd": "https://d-nb.info/gnd/12227671X",
                 "other_url": "https://www.treccani.it/enciclopedia/dorotea-sofia-di-neuburg-duchessa-di-parma-e-piacenza_%28Dizionario-Biografico%29/",
                 "emt_id": "emt_person_id__8",
@@ -4530,8 +4530,8 @@
                 "birth_date_written": null,
                 "death_date_written": null,
                 "Geschlecht": null,
-                "Titel": null,
-                "Funktionsbezeichnung": null
+                "Funktionsbezeichnungen": null,
+                "Titel": "Herzogin"
             }
         ],
         "description": "",
@@ -4571,7 +4571,7 @@
             {
                 "id": 8,
                 "order": "8.00000000000000000000",
-                "name": "Dorothea Sophie von Parma, geb. Pfalz-Neuburg",
+                "name": "Pfalz-Neuburg, Dorothea Sophie von, vereh. von Parma",
                 "gnd": "https://d-nb.info/gnd/12227671X",
                 "other_url": "https://www.treccani.it/enciclopedia/dorotea-sofia-di-neuburg-duchessa-di-parma-e-piacenza_%28Dizionario-Biografico%29/",
                 "emt_id": "emt_person_id__8",
@@ -4589,13 +4589,13 @@
                 "birth_date_written": null,
                 "death_date_written": null,
                 "Geschlecht": null,
-                "Titel": null,
-                "Funktionsbezeichnung": null
+                "Funktionsbezeichnungen": null,
+                "Titel": "Herzogin"
             },
             {
                 "id": 132,
                 "order": "132.00000000000000000000",
-                "name": "Odoardo II. Farnese von Parma",
+                "name": "Parma, Odoardo II. Farnese von",
                 "gnd": "http://d-nb.info/119112086",
                 "other_url": "https://www.treccani.it/enciclopedia/farnese-odoardo-detto-odoardo-ii/",
                 "emt_id": "emt_person_id__132",
@@ -4613,8 +4613,8 @@
                 "birth_date_written": "",
                 "death_date_written": "",
                 "Geschlecht": null,
-                "Titel": null,
-                "Funktionsbezeichnung": null
+                "Funktionsbezeichnungen": null,
+                "Titel": "Herzog"
             }
         ],
         "description": "",
@@ -4654,7 +4654,7 @@
             {
                 "id": 8,
                 "order": "8.00000000000000000000",
-                "name": "Dorothea Sophie von Parma, geb. Pfalz-Neuburg",
+                "name": "Pfalz-Neuburg, Dorothea Sophie von, vereh. von Parma",
                 "gnd": "https://d-nb.info/gnd/12227671X",
                 "other_url": "https://www.treccani.it/enciclopedia/dorotea-sofia-di-neuburg-duchessa-di-parma-e-piacenza_%28Dizionario-Biografico%29/",
                 "emt_id": "emt_person_id__8",
@@ -4672,13 +4672,13 @@
                 "birth_date_written": null,
                 "death_date_written": null,
                 "Geschlecht": null,
-                "Titel": null,
-                "Funktionsbezeichnung": null
+                "Funktionsbezeichnungen": null,
+                "Titel": "Herzogin"
             },
             {
                 "id": 133,
                 "order": "133.00000000000000000000",
-                "name": "Francesco Maria Farnese von Parma",
+                "name": "Parma, Francesco Maria Farnese von",
                 "gnd": "http://d-nb.info/116693169",
                 "other_url": "",
                 "emt_id": "emt_person_id__133",
@@ -4696,8 +4696,8 @@
                 "birth_date_written": "",
                 "death_date_written": "",
                 "Geschlecht": null,
-                "Titel": null,
-                "Funktionsbezeichnung": null
+                "Funktionsbezeichnungen": null,
+                "Titel": "Herzog"
             }
         ],
         "description": "",
@@ -4737,7 +4737,7 @@
             {
                 "id": 134,
                 "order": "134.00000000000000000000",
-                "name": "Hedwig Elisabeth Sobeski, geb. Pfalz-Neuburg",
+                "name": "Pfalz-Neuburg, Hedwig Elisabeth von, vereh. Sobeski",
                 "gnd": "http://d-nb.info/139996982",
                 "other_url": "",
                 "emt_id": "emt_person_id__134",
@@ -4755,8 +4755,8 @@
                 "birth_date_written": "",
                 "death_date_written": "",
                 "Geschlecht": null,
-                "Titel": null,
-                "Funktionsbezeichnung": null
+                "Funktionsbezeichnungen": null,
+                "Titel": "Herzogin"
             }
         ],
         "description": "",
@@ -4796,7 +4796,7 @@
             {
                 "id": 134,
                 "order": "134.00000000000000000000",
-                "name": "Hedwig Elisabeth Sobeski, geb. Pfalz-Neuburg",
+                "name": "Pfalz-Neuburg, Hedwig Elisabeth von, vereh. Sobeski",
                 "gnd": "http://d-nb.info/139996982",
                 "other_url": "",
                 "emt_id": "emt_person_id__134",
@@ -4814,13 +4814,13 @@
                 "birth_date_written": "",
                 "death_date_written": "",
                 "Geschlecht": null,
-                "Titel": null,
-                "Funktionsbezeichnung": null
+                "Funktionsbezeichnungen": null,
+                "Titel": "Herzogin"
             },
             {
                 "id": 135,
                 "order": "135.00000000000000000000",
-                "name": "Jakob Louis Heinrich Sobieski",
+                "name": "Sobieski, Jakob Louis Heinrich",
                 "gnd": "http://d-nb.info/120542382",
                 "other_url": "",
                 "emt_id": "emt_person_id__135",
@@ -4838,8 +4838,8 @@
                 "birth_date_written": "",
                 "death_date_written": "",
                 "Geschlecht": null,
-                "Titel": null,
-                "Funktionsbezeichnung": null
+                "Funktionsbezeichnungen": null,
+                "Titel": "Prinz"
             }
         ],
         "description": "",
@@ -4879,7 +4879,7 @@
             {
                 "id": 134,
                 "order": "134.00000000000000000000",
-                "name": "Hedwig Elisabeth Sobeski, geb. Pfalz-Neuburg",
+                "name": "Pfalz-Neuburg, Hedwig Elisabeth von, vereh. Sobeski",
                 "gnd": "http://d-nb.info/139996982",
                 "other_url": "",
                 "emt_id": "emt_person_id__134",
@@ -4897,8 +4897,8 @@
                 "birth_date_written": "",
                 "death_date_written": "",
                 "Geschlecht": null,
-                "Titel": null,
-                "Funktionsbezeichnung": null
+                "Funktionsbezeichnungen": null,
+                "Titel": "Herzogin"
             }
         ],
         "description": "",
@@ -4938,7 +4938,7 @@
             {
                 "id": 136,
                 "order": "136.00000000000000000000",
-                "name": "Leopoldine Eleonore von Pfalz-Neuburg",
+                "name": "Pfalz-Neuburg, Leopoldine Eleonore von",
                 "gnd": "http://d-nb.info/120091798",
                 "other_url": "",
                 "emt_id": "emt_person_id__136",
@@ -4956,8 +4956,8 @@
                 "birth_date_written": "",
                 "death_date_written": "",
                 "Geschlecht": null,
-                "Titel": null,
-                "Funktionsbezeichnung": null
+                "Funktionsbezeichnungen": null,
+                "Titel": "Herzogin"
             }
         ],
         "description": "",
@@ -4997,7 +4997,7 @@
             {
                 "id": 136,
                 "order": "136.00000000000000000000",
-                "name": "Leopoldine Eleonore von Pfalz-Neuburg",
+                "name": "Pfalz-Neuburg, Leopoldine Eleonore von",
                 "gnd": "http://d-nb.info/120091798",
                 "other_url": "",
                 "emt_id": "emt_person_id__136",
@@ -5015,8 +5015,8 @@
                 "birth_date_written": "",
                 "death_date_written": "",
                 "Geschlecht": null,
-                "Titel": null,
-                "Funktionsbezeichnung": null
+                "Funktionsbezeichnungen": null,
+                "Titel": "Herzogin"
             }
         ],
         "description": "",
@@ -5056,7 +5056,7 @@
             {
                 "id": 8,
                 "order": "8.00000000000000000000",
-                "name": "Dorothea Sophie von Parma, geb. Pfalz-Neuburg",
+                "name": "Pfalz-Neuburg, Dorothea Sophie von, vereh. von Parma",
                 "gnd": "https://d-nb.info/gnd/12227671X",
                 "other_url": "https://www.treccani.it/enciclopedia/dorotea-sofia-di-neuburg-duchessa-di-parma-e-piacenza_%28Dizionario-Biografico%29/",
                 "emt_id": "emt_person_id__8",
@@ -5074,8 +5074,8 @@
                 "birth_date_written": null,
                 "death_date_written": null,
                 "Geschlecht": null,
-                "Titel": null,
-                "Funktionsbezeichnung": null
+                "Funktionsbezeichnungen": null,
+                "Titel": "Herzogin"
             }
         ],
         "description": "",
@@ -5115,7 +5115,7 @@
             {
                 "id": 35,
                 "order": "35.00000000000000000000",
-                "name": "Kaiser Leopold I.",
+                "name": "Leopold I.",
                 "gnd": "https://d-nb.info/gnd/118571869",
                 "other_url": "",
                 "emt_id": "emt_person_id__35",
@@ -5133,13 +5133,13 @@
                 "birth_date_written": null,
                 "death_date_written": null,
                 "Geschlecht": null,
-                "Titel": null,
-                "Funktionsbezeichnung": null
+                "Funktionsbezeichnungen": null,
+                "Titel": "Kaiser"
             },
             {
                 "id": 137,
                 "order": "137.00000000000000000000",
-                "name": "Kaiserin Margarita Teresa, geb. Spanien",
+                "name": "Margarita Teresa, geb. Spanien",
                 "gnd": "http://d-nb.info/118730991",
                 "other_url": "",
                 "emt_id": "emt_person_id__137",
@@ -5157,8 +5157,8 @@
                 "birth_date_written": "",
                 "death_date_written": "",
                 "Geschlecht": null,
-                "Titel": null,
-                "Funktionsbezeichnung": null
+                "Funktionsbezeichnungen": null,
+                "Titel": "Kaiserin"
             }
         ],
         "description": "",
@@ -5198,7 +5198,7 @@
             {
                 "id": 35,
                 "order": "35.00000000000000000000",
-                "name": "Kaiser Leopold I.",
+                "name": "Leopold I.",
                 "gnd": "https://d-nb.info/gnd/118571869",
                 "other_url": "",
                 "emt_id": "emt_person_id__35",
@@ -5216,13 +5216,13 @@
                 "birth_date_written": null,
                 "death_date_written": null,
                 "Geschlecht": null,
-                "Titel": null,
-                "Funktionsbezeichnung": null
+                "Funktionsbezeichnungen": null,
+                "Titel": "Kaiser"
             },
             {
                 "id": 138,
                 "order": "138.00000000000000000000",
-                "name": "Kaiserin Claudia Felicitas, geb. Tirol",
+                "name": "Claudia Felicitas, geb. Tirol",
                 "gnd": "http://d-nb.info/101072872",
                 "other_url": "",
                 "emt_id": "emt_person_id__138",
@@ -5240,8 +5240,8 @@
                 "birth_date_written": "",
                 "death_date_written": "",
                 "Geschlecht": null,
-                "Titel": null,
-                "Funktionsbezeichnung": null
+                "Funktionsbezeichnungen": null,
+                "Titel": "Kaiserin"
             }
         ],
         "description": "",
@@ -5281,7 +5281,7 @@
             {
                 "id": 35,
                 "order": "35.00000000000000000000",
-                "name": "Kaiser Leopold I.",
+                "name": "Leopold I.",
                 "gnd": "https://d-nb.info/gnd/118571869",
                 "other_url": "",
                 "emt_id": "emt_person_id__35",
@@ -5299,8 +5299,8 @@
                 "birth_date_written": null,
                 "death_date_written": null,
                 "Geschlecht": null,
-                "Titel": null,
-                "Funktionsbezeichnung": null
+                "Funktionsbezeichnungen": null,
+                "Titel": "Kaiser"
             }
         ],
         "description": "",
@@ -5340,7 +5340,7 @@
             {
                 "id": 54,
                 "order": "54.00000000000000000000",
-                "name": "Maria Antonia von Bayern, geb. Österreich",
+                "name": "Österreich, Maria Antonia von, vereh. Bayern",
                 "gnd": "http://d-nb.info/100976905",
                 "other_url": "",
                 "emt_id": "emt_person_id__54",
@@ -5358,13 +5358,13 @@
                 "birth_date_written": null,
                 "death_date_written": null,
                 "Geschlecht": null,
-                "Titel": null,
-                "Funktionsbezeichnung": null
+                "Funktionsbezeichnungen": null,
+                "Titel": "Erzherzogin, Kurfürstin"
             },
             {
                 "id": 139,
                 "order": "139.00000000000000000000",
-                "name": "Maximilian II. Emanuel von Bayern, Kurfürst",
+                "name": "Bayern, Maximilian II. Emanuel von",
                 "gnd": "http://d-nb.info/11857941X",
                 "other_url": "",
                 "emt_id": "emt_person_id__139",
@@ -5382,8 +5382,8 @@
                 "birth_date_written": "",
                 "death_date_written": "",
                 "Geschlecht": null,
-                "Titel": null,
-                "Funktionsbezeichnung": null
+                "Funktionsbezeichnungen": null,
+                "Titel": "Kurfürst"
             }
         ],
         "description": "",
