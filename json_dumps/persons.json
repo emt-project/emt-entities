@@ -484,7 +484,7 @@
     "order": "23.00000000000000000000",
     "name": "Hamilton, John James",
     "gnd": "",
-    "other_url": "",
+    "other_url": "https://de.wikipedia.org/wiki/Jakob_von_Hamilton#Familie",
     "emt_id": "emt_person_id__23",
     "internal_comment": null,
     "color": null,
@@ -4044,11 +4044,11 @@
     "ndb": "https://www.deutsche-biographie.de/sfz23228.html",
     "year_of_birth": "1651",
     "year_of_death": "1716",
-    "wikidata_url": "",
+    "wikidata_url": "https://www.wikidata.org/wiki/Q21069432",
     "wikidata_enriched": false,
-    "img_name": "",
-    "img_fetched": false,
-    "img_source": "",
+    "img_name": "Philipp Sigmund Dietrichstein (1651–1716).jpg",
+    "img_fetched": true,
+    "img_source": "commonsMedia",
     "birth_date_written": "",
     "death_date_written": "",
     "Geschlecht": null,
@@ -4058,7 +4058,7 @@
   "174": {
     "id": 174,
     "order": "174.00000000000000000000",
-    "name": "Charlotte von der Pfalz, geb. Hessen-Kassel",
+    "name": "Pfalz-Simmern, Charlotte von, geb. Hessen-Kassel",
     "gnd": "https://d-nb.info/gnd/117722944",
     "other_url": "",
     "emt_id": "emt_person_id__174",
@@ -4077,12 +4077,12 @@
     "death_date_written": "",
     "Geschlecht": null,
     "Funktionsbezeichnungen": null,
-    "Titel": null
+    "Titel": "Kurfürstin"
   },
   "175": {
     "id": 175,
     "order": "175.00000000000000000000",
-    "name": "Michael Kasimir Radziwill",
+    "name": "Radziwill, Michael Kasimir",
     "gnd": "https://d-nb.info/gnd/121002608",
     "other_url": "",
     "emt_id": "emt_person_id__175",
@@ -4110,7 +4110,7 @@
     "gnd": "",
     "other_url": "",
     "emt_id": "emt_person_id__176",
-    "internal_comment": "könnte Thomas von Quentel sein, der kölnische Offizial, der später noch vorkommt, weil Wahl des Bruders zum Weihbischof in Köln großes Thema war",
+    "internal_comment": "unidentifiziert,\nkönnte Thomas von Quentel sein, der kölnische Offizial, der später noch vorkommt, weil Wahl des Bruders zum Weihbischof in Köln großes Thema war",
     "color": "",
     "lebensdaten": "",
     "ndb": "",
@@ -4130,11 +4130,11 @@
   "178": {
     "id": 178,
     "order": "178.00000000000000000000",
-    "name": "Schwerin, an ihn oder sie soll EMT das Fräulein Egloff empfehlen 1678",
+    "name": "Schwerin, NN 1678",
     "gnd": "",
     "other_url": "",
     "emt_id": "emt_person_id__178",
-    "internal_comment": "",
+    "internal_comment": "unidentifiziert\nan ihn oder sie soll EMT das Fräulein Egloff empfehlen 1678",
     "color": "",
     "lebensdaten": "",
     "ndb": "",
@@ -4154,7 +4154,7 @@
   "179": {
     "id": 179,
     "order": "179.00000000000000000000",
-    "name": "Christoph Johann von Althann, Oberstkuchelmeister",
+    "name": "Althann, Christoph Johann von",
     "gnd": "http://d-nb.info/1218005602",
     "other_url": "",
     "emt_id": "emt_person_id__179",
@@ -4172,13 +4172,13 @@
     "birth_date_written": "",
     "death_date_written": "",
     "Geschlecht": null,
-    "Funktionsbezeichnungen": null,
-    "Titel": null
+    "Funktionsbezeichnungen": "Oberstkuchelmeister",
+    "Titel": "Graf"
   },
   "180": {
     "id": 180,
     "order": "180.00000000000000000000",
-    "name": "Heinrich Franz von Mansfeld, 1690 Fürst von Fondi",
+    "name": "Mansfeld, Heinrich Franz von",
     "gnd": "https://d-nb.info/gnd/121795063",
     "other_url": "https://saebi.isgv.de/biografie/Heinrich_Franz_I.,_F%C3%BCrst_von_Mansfeld-Bornstedt_(1641-1715)",
     "emt_id": "emt_person_id__180",
@@ -4196,8 +4196,8 @@
     "birth_date_written": "",
     "death_date_written": "",
     "Geschlecht": null,
-    "Funktionsbezeichnungen": null,
-    "Titel": null
+    "Funktionsbezeichnungen": "kaiserlicher Botschafter in Spanien",
+    "Titel": "Graf, Fürst von Fondi (1690)"
   },
   "181": {
     "id": 181,
@@ -4206,7 +4206,7 @@
     "gnd": "",
     "other_url": "",
     "emt_id": "emt_person_id__181",
-    "internal_comment": "soll Abschiedsgrüße EMTs an PW überbringen (Nov. 1678) - es gibt mindestens drei K.s, die in Frage kommen",
+    "internal_comment": "unidentifiziert\nsoll Abschiedsgrüße EMTs an PW überbringen (Nov. 1678) - es gibt mindestens drei K.s, die in Frage kommen",
     "color": "",
     "lebensdaten": "",
     "ndb": "",
@@ -4230,7 +4230,7 @@
     "gnd": "",
     "other_url": "",
     "emt_id": "emt_person_id__182",
-    "internal_comment": "überbringt Abschiedsgrüße PW an EMT nach Abreise aus Wien (Nov. 1678), bittet EMT 1683 um Fürsprache, weil er in Pfalz-Neuburg Geheimer Rat werden möchte",
+    "internal_comment": "unidentifiziert\nüberbringt Abschiedsgrüße PW an EMT nach Abreise aus Wien (Nov. 1678), bittet EMT 1683 um Fürsprache, weil er in Pfalz-Neuburg Geheimer Rat werden möchte",
     "color": "",
     "lebensdaten": "",
     "ndb": "",
@@ -4250,11 +4250,11 @@
   "183": {
     "id": 183,
     "order": "183.00000000000000000000",
-    "name": "Serin, Freiherr von, Kämmerer PWs 1678",
+    "name": "Serin / Serni, Freiherr von, Kämmerer PWs 1678",
     "gnd": "",
     "other_url": "",
     "emt_id": "emt_person_id__183",
-    "internal_comment": "",
+    "internal_comment": "unidentifiziert\nwird wegen seines Alters wohl PW 1678 nicht nach Wien begleiten",
     "color": "",
     "lebensdaten": "",
     "ndb": "",
@@ -4278,7 +4278,7 @@
     "gnd": "",
     "other_url": "",
     "emt_id": "emt_person_id__184",
-    "internal_comment": "möglicherweise Anna Maria Theresia K, die ab 1681 Hoffräulein war\nerhält Zusage für Hofdamenstelle auf Wunsch von PW (1678); ihr Vater ist möglicherweise 181",
+    "internal_comment": "unidentifiziert\nmöglicherweise Anna Maria Theresia K, die ab 1681 Hoffräulein war\nerhält Zusage für Hofdamenstelle auf Wunsch von PW (1678); ihr Vater ist möglicherweise 181",
     "color": "",
     "lebensdaten": "",
     "ndb": "",
@@ -4293,7 +4293,7 @@
     "death_date_written": "",
     "Geschlecht": null,
     "Funktionsbezeichnungen": null,
-    "Titel": null
+    "Titel": "Gräfin"
   },
   "185": {
     "id": 185,
@@ -4302,7 +4302,7 @@
     "gnd": "",
     "other_url": "",
     "emt_id": "emt_person_id__185",
-    "internal_comment": "kaiserlicher Abgesandter zu den Rebellen in Ungarn, kommt im November 1678 von dort zurück",
+    "internal_comment": "unidentifiziert\nkaiserlicher Abgesandter zu den Rebellen in Ungarn, kommt im November 1678 von dort zurück",
     "color": "",
     "lebensdaten": "",
     "ndb": "",
@@ -4322,7 +4322,7 @@
   "186": {
     "id": 186,
     "order": "186.00000000000000000000",
-    "name": "Otto Heinrich Caretto di Grana",
+    "name": "Caretto di Grana, Otto Heinrich",
     "gnd": "http://d-nb.info/116821523",
     "other_url": "",
     "emt_id": "emt_person_id__186",
@@ -4340,13 +4340,13 @@
     "birth_date_written": "",
     "death_date_written": "",
     "Geschlecht": null,
-    "Funktionsbezeichnungen": null,
-    "Titel": null
+    "Funktionsbezeichnungen": "kaiserlicher Botschafter in Spanien",
+    "Titel": "Graf"
   },
   "187": {
     "id": 187,
     "order": "187.00000000000000000000",
-    "name": "Christoph Ignaz Abele, Hofkammerpräsident",
+    "name": "Abele, Christoph Ignaz",
     "gnd": "http://d-nb.info/116002034",
     "other_url": "",
     "emt_id": "emt_person_id__187",
@@ -4364,13 +4364,13 @@
     "birth_date_written": "",
     "death_date_written": "",
     "Geschlecht": null,
-    "Funktionsbezeichnungen": null,
+    "Funktionsbezeichnungen": "Hofkammerpräsident",
     "Titel": null
   },
   "188": {
     "id": 188,
     "order": "188.00000000000000000000",
-    "name": "Johann Georg III. von Sachsen, Kurfürst",
+    "name": "Sachsen, Johann Georg III. von",
     "gnd": "http://d-nb.info/102117470",
     "other_url": "",
     "emt_id": "emt_person_id__188",
@@ -4389,12 +4389,12 @@
     "death_date_written": "",
     "Geschlecht": null,
     "Funktionsbezeichnungen": null,
-    "Titel": null
+    "Titel": "Kurfürst"
   },
   "189": {
     "id": 189,
     "order": "189.00000000000000000000",
-    "name": "Franz Ernst von Fugger, Hofmeister",
+    "name": "Fugger von Kirchheim und Weißenhorn, Franz Ernst",
     "gnd": "http://d-nb.info/136021026",
     "other_url": "",
     "emt_id": "emt_person_id__189",
@@ -4412,13 +4412,13 @@
     "birth_date_written": "",
     "death_date_written": "",
     "Geschlecht": null,
-    "Funktionsbezeichnungen": null,
-    "Titel": null
+    "Funktionsbezeichnungen": "Hofmeister Pfalz",
+    "Titel": "Graf"
   },
   "190": {
     "id": 190,
     "order": "190.00000000000000000000",
-    "name": "Marta Glass, Hebamme",
+    "name": "Glass, Marta",
     "gnd": "",
     "other_url": "",
     "emt_id": "emt_person_id__190",
@@ -4436,13 +4436,13 @@
     "birth_date_written": "",
     "death_date_written": "gestorben wohl 1689",
     "Geschlecht": null,
-    "Funktionsbezeichnungen": null,
+    "Funktionsbezeichnungen": "Hebamme",
     "Titel": null
   },
   "191": {
     "id": 191,
     "order": "191.00000000000000000000",
-    "name": "Wolfgang von Oettingen-Wallerstein, Reichshofratspräsident",
+    "name": "Oettingen-Wallerstein, Wolfgang von",
     "gnd": "http://d-nb.info/104196858",
     "other_url": "",
     "emt_id": "emt_person_id__191",
@@ -4460,8 +4460,8 @@
     "birth_date_written": "",
     "death_date_written": "",
     "Geschlecht": null,
-    "Funktionsbezeichnungen": null,
-    "Titel": null
+    "Funktionsbezeichnungen": "Reichshofratspräsident",
+    "Titel": "Graf"
   },
   "192": {
     "id": 192,
@@ -4470,7 +4470,7 @@
     "gnd": "",
     "other_url": "",
     "emt_id": "emt_person_id__192",
-    "internal_comment": "Erzherzogin Maria Anna will sie in Düsseldorf bei sich haben",
+    "internal_comment": "unidentifiziert\nErzherzogin Maria Anna will sie in Düsseldorf bei sich haben",
     "color": "",
     "lebensdaten": "",
     "ndb": "",
@@ -4485,7 +4485,7 @@
     "death_date_written": "",
     "Geschlecht": null,
     "Funktionsbezeichnungen": null,
-    "Titel": null
+    "Titel": "Gräfin"
   },
   "193": {
     "id": 193,
@@ -4494,7 +4494,7 @@
     "gnd": "",
     "other_url": "",
     "emt_id": "emt_person_id__193",
-    "internal_comment": "eventuell Maria Theresia von Rappach, die ab 1679 OHM bei EMT wird, oder ihre gleichnamige Tochter\nErzherzogin Maria Anna bedauert es sehr, dass sie nicht mit nach Düsseldorf gegangen ist 1679",
+    "internal_comment": "unidentifiziert\neventuell Maria Theresia von Rappach, die ab 1679 OHM bei EMT wird, oder ihre gleichnamige Tochter\nErzherzogin Maria Anna bedauert es sehr, dass sie nicht mit nach Düsseldorf gegangen ist 1679",
     "color": "",
     "lebensdaten": "",
     "ndb": "",
@@ -4509,12 +4509,12 @@
     "death_date_written": "",
     "Geschlecht": null,
     "Funktionsbezeichnungen": null,
-    "Titel": null
+    "Titel": "Gräfin"
   },
   "194": {
     "id": 194,
     "order": "194.00000000000000000000",
-    "name": "Juan José de Austria",
+    "name": "Austria, Juan José de",
     "gnd": "http://d-nb.info/118713302",
     "other_url": "",
     "emt_id": "emt_person_id__194",
@@ -4542,7 +4542,7 @@
     "gnd": "",
     "other_url": "",
     "emt_id": "emt_person_id__195",
-    "internal_comment": "",
+    "internal_comment": "unidentifiziert",
     "color": "",
     "lebensdaten": "",
     "ndb": "",
@@ -4562,7 +4562,7 @@
   "196": {
     "id": 196,
     "order": "196.00000000000000000000",
-    "name": "Paulinus Mayr, Fürstbischof von Brixen",
+    "name": "Mayr, Paulinus",
     "gnd": "https://d-nb.info/gnd/115881395",
     "other_url": "",
     "emt_id": "emt_person_id__196",
@@ -4580,17 +4580,17 @@
     "birth_date_written": "",
     "death_date_written": "",
     "Geschlecht": null,
-    "Funktionsbezeichnungen": null,
+    "Funktionsbezeichnungen": "Fürstbischof von Brixen",
     "Titel": null
   },
   "197": {
     "id": 197,
     "order": "197.00000000000000000000",
-    "name": "Entler 1679",
+    "name": "Entler, NN 1679",
     "gnd": "",
     "other_url": "",
     "emt_id": "emt_person_id__197",
-    "internal_comment": "für ihn soll EMT Fürsprache halten bei PW auf Bitte von Schellerer",
+    "internal_comment": "unidentifiziert\nfür ihn soll EMT Fürsprache halten bei PW auf Bitte von Schellerer",
     "color": "",
     "lebensdaten": "",
     "ndb": "",
@@ -4610,11 +4610,11 @@
   "198": {
     "id": 198,
     "order": "198.00000000000000000000",
-    "name": "Jordan, Leibarzt in Wien 1679",
+    "name": "Jordan, NN 1679",
     "gnd": "",
     "other_url": "",
     "emt_id": "emt_person_id__198",
-    "internal_comment": "",
+    "internal_comment": "unidentifiziert",
     "color": "",
     "lebensdaten": "",
     "ndb": "",
@@ -4628,17 +4628,17 @@
     "birth_date_written": "",
     "death_date_written": "",
     "Geschlecht": null,
-    "Funktionsbezeichnungen": null,
-    "Titel": null
+    "Funktionsbezeichnungen": "Leibarzt in Wien",
+    "Titel": "Doktor"
   },
   "199": {
     "id": 199,
     "order": "199.00000000000000000000",
-    "name": "Johann Heinrich von Galen",
+    "name": "Galen, Johann Heinrich von ?",
     "gnd": "https://d-nb.info/gnd/1034733370",
     "other_url": "",
     "emt_id": "emt_person_id__199",
-    "internal_comment": "im Text als Bruder des Bischofs von Münster erwähnt - Identifizierung nicht ganz sicher",
+    "internal_comment": "im Text als Bruder des Bischofs von Münster erwähnt",
     "color": "",
     "lebensdaten": "",
     "ndb": "https://www.deutsche-biographie.de/pnd1034733370.html",
@@ -4653,12 +4653,12 @@
     "death_date_written": "",
     "Geschlecht": null,
     "Funktionsbezeichnungen": null,
-    "Titel": null
+    "Titel": "Graf"
   },
   "200": {
     "id": 200,
     "order": "200.00000000000000000000",
-    "name": "Maria Elisabeth von Mansfeld, geb. Harrach",
+    "name": "Mansfeld, Maria Elisabeth von, geb. Harrach",
     "gnd": "",
     "other_url": "",
     "emt_id": "emt_person_id__200",
@@ -4677,7 +4677,7 @@
     "death_date_written": "",
     "Geschlecht": null,
     "Funktionsbezeichnungen": null,
-    "Titel": null
+    "Titel": "Gräfin"
   },
   "201": {
     "id": 201,
@@ -4686,7 +4686,7 @@
     "gnd": "",
     "other_url": "",
     "emt_id": "emt_person_id__201",
-    "internal_comment": "für ihn soll EMT Fürsprache bei Leopold einlegen",
+    "internal_comment": "unidentifiziert\nfür ihn soll EMT Fürsprache bei Leopold einlegen",
     "color": "",
     "lebensdaten": "",
     "ndb": "",
@@ -4710,7 +4710,7 @@
     "gnd": "",
     "other_url": "",
     "emt_id": "emt_person_id__202",
-    "internal_comment": "PW vermittelt ihn an Leopold I. nach Wien, evtl. Kreckler, der 1680 den Dienst antritt",
+    "internal_comment": "unidentifiziert\nPW vermittelt ihn an Leopold I. nach Wien, evtl. Kreckler, der 1680 den Dienst antritt",
     "color": "",
     "lebensdaten": "",
     "ndb": "",
@@ -4730,7 +4730,7 @@
   "203": {
     "id": 203,
     "order": "203.00000000000000000000",
-    "name": "Maria Theresia von Rappach, geb. Brandis",
+    "name": "Rappach, Maria Theresia von, geb. Brandis",
     "gnd": "",
     "other_url": "https://www.wikidata.org/wiki/Q108927109",
     "emt_id": "emt_person_id__203",
@@ -4748,13 +4748,13 @@
     "birth_date_written": "",
     "death_date_written": "",
     "Geschlecht": null,
-    "Funktionsbezeichnungen": null,
-    "Titel": null
+    "Funktionsbezeichnungen": "Fräuleinhofmeisterin",
+    "Titel": "Gräfin"
   },
   "204": {
     "id": 204,
     "order": "204.00000000000000000000",
-    "name": "Franz Joseph von Lamberg",
+    "name": "Lamberg, Franz Joseph von",
     "gnd": "https://d-nb.info/gnd/123623790",
     "other_url": "",
     "emt_id": "emt_person_id__204",
@@ -4773,7 +4773,7 @@
     "death_date_written": "",
     "Geschlecht": null,
     "Funktionsbezeichnungen": null,
-    "Titel": null
+    "Titel": "Graf"
   },
   "205": {
     "id": 205,
@@ -4802,7 +4802,7 @@
   "206": {
     "id": 206,
     "order": "206.00000000000000000000",
-    "name": "Vittorio Amadeo II. von Savoyen",
+    "name": "Savoyen, Vittorio Amadeo II. von",
     "gnd": "https://d-nb.info/gnd/118804537",
     "other_url": "",
     "emt_id": "emt_person_id__206",
@@ -4821,7 +4821,7 @@
     "death_date_written": "",
     "Geschlecht": null,
     "Funktionsbezeichnungen": null,
-    "Titel": null
+    "Titel": "Herzog"
   },
   "207": {
     "id": 207,
@@ -4830,7 +4830,7 @@
     "gnd": "",
     "other_url": "",
     "emt_id": "emt_person_id__207",
-    "internal_comment": "Wilhelm oder Philipp? beide am Wiener Hof, Philipp stirbt 1680 als Kämmerer",
+    "internal_comment": "unidentifiziert\nWilhelm oder Philipp? beide am Wiener Hof, Philipp stirbt 1680 als Kämmerer",
     "color": "",
     "lebensdaten": "",
     "ndb": "",
@@ -4850,16 +4850,16 @@
   "208": {
     "id": 208,
     "order": "208.00000000000000000000",
-    "name": "Wangen, Deutschordensritter und Vertrauter des Deutschmeisters Ampringen",
+    "name": "Wangen, Franz Christoph von",
     "gnd": "",
-    "other_url": "",
+    "other_url": "https://de.wikisource.org/wiki/BLK%C3%96:Wangen_die_Freiherren_von,_Genealogie",
     "emt_id": "emt_person_id__208",
-    "internal_comment": "eventuell Franz Christoph von Wangen, siehe https://viecpro-frontend.acdh-ch-dev.oeaw.ac.at/de/detail/persons/323528",
+    "internal_comment": "Vertrauter des Deutschmeisters Ampringen, Gesandter Leopolds I. zur Koadjutorwahl 1679 (Bittner/Groß)\nsiehe https://viecpro-frontend.acdh-ch-dev.oeaw.ac.at/de/detail/persons/323528",
     "color": "",
     "lebensdaten": "",
     "ndb": "",
-    "year_of_birth": null,
-    "year_of_death": null,
+    "year_of_birth": "1629",
+    "year_of_death": "1680",
     "wikidata_url": "",
     "wikidata_enriched": false,
     "img_name": "",
@@ -4868,17 +4868,17 @@
     "birth_date_written": "",
     "death_date_written": "",
     "Geschlecht": null,
-    "Funktionsbezeichnungen": null,
+    "Funktionsbezeichnungen": "Deutschordensritter",
     "Titel": null
   },
   "209": {
     "id": 209,
     "order": "209.00000000000000000000",
-    "name": "Pater Isidorus",
+    "name": "Isidorus",
     "gnd": "",
     "other_url": "",
     "emt_id": "emt_person_id__209",
-    "internal_comment": "",
+    "internal_comment": "unidentifiziert",
     "color": "",
     "lebensdaten": "",
     "ndb": "",
@@ -4893,12 +4893,12 @@
     "death_date_written": "",
     "Geschlecht": null,
     "Funktionsbezeichnungen": null,
-    "Titel": null
+    "Titel": "Pater"
   },
   "210": {
     "id": 210,
     "order": "210.00000000000000000000",
-    "name": "Paolo Spinola, Marques de los Balbases",
+    "name": "Spinola de los Balbases, Paolo",
     "gnd": "",
     "other_url": "https://www.wikidata.org/wiki/Q3894495",
     "emt_id": "emt_person_id__210",
@@ -4917,12 +4917,12 @@
     "death_date_written": "",
     "Geschlecht": null,
     "Funktionsbezeichnungen": null,
-    "Titel": null
+    "Titel": "Marques"
   },
   "211": {
     "id": 211,
     "order": "211.00000000000000000000",
-    "name": "Friedrich Wilhelm, Kurfürst von Brandenburg",
+    "name": "Brandenburg-Preußen, Friedrich Wilhelm von",
     "gnd": "https://d-nb.info/gnd/11853596X",
     "other_url": "",
     "emt_id": "emt_person_id__211",
@@ -4941,21 +4941,21 @@
     "death_date_written": "",
     "Geschlecht": null,
     "Funktionsbezeichnungen": null,
-    "Titel": null
+    "Titel": "Kurfürst"
   },
   "212": {
     "id": 212,
     "order": "212.00000000000000000000",
-    "name": "Franz Christoph von Wangen",
+    "name": "",
     "gnd": "",
-    "other_url": "https://de.wikisource.org/wiki/BLK%C3%96:Wangen_die_Freiherren_von,_Genealogie",
+    "other_url": "",
     "emt_id": "emt_person_id__212",
-    "internal_comment": "Abgesandter Leopolds I. zur Wahl eines Koadjutors des Deutschmeisters 1679 (Bittner/Groß)\n\nsiehe https://viecpro-frontend.acdh-ch-dev.oeaw.ac.at/de/detail/persons/323528",
+    "internal_comment": "",
     "color": "",
     "lebensdaten": "",
     "ndb": "",
-    "year_of_birth": "1629",
-    "year_of_death": "1680",
+    "year_of_birth": null,
+    "year_of_death": null,
     "wikidata_url": "",
     "wikidata_enriched": false,
     "img_name": "",
@@ -4970,7 +4970,7 @@
   "213": {
     "id": 213,
     "order": "213.00000000000000000000",
-    "name": "Louis Verjus, comte de Crécy",
+    "name": "Crécy, Louis Verjus de",
     "gnd": "https://d-nb.info/gnd/115732853",
     "other_url": "https://persondata.toolforge.org/p/Louis_Verjus_de_Cr%C3%A9cy",
     "emt_id": "emt_person_id__213",
@@ -4988,8 +4988,8 @@
     "birth_date_written": "",
     "death_date_written": "",
     "Geschlecht": null,
-    "Funktionsbezeichnungen": null,
-    "Titel": null
+    "Funktionsbezeichnungen": "französischer Botschafter",
+    "Titel": "comte"
   },
   "214": {
     "id": 214,
@@ -5013,12 +5013,12 @@
     "death_date_written": "",
     "Geschlecht": null,
     "Funktionsbezeichnungen": null,
-    "Titel": null
+    "Titel": "König"
   },
   "215": {
     "id": 215,
     "order": "215.00000000000000000000",
-    "name": "Humprecht Johann Czernin",
+    "name": "Czernin, Humprecht Johann",
     "gnd": "https://d-nb.info/gnd/130022675",
     "other_url": "",
     "emt_id": "emt_person_id__215",
@@ -5037,7 +5037,7 @@
     "death_date_written": "",
     "Geschlecht": null,
     "Funktionsbezeichnungen": null,
-    "Titel": null
+    "Titel": "Graf"
   },
   "216": {
     "id": 216,
@@ -5046,7 +5046,7 @@
     "gnd": "",
     "other_url": "",
     "emt_id": "emt_person_id__216",
-    "internal_comment": "",
+    "internal_comment": "unidentifiziert\n1679",
     "color": "",
     "lebensdaten": "",
     "ndb": "",
@@ -5066,7 +5066,7 @@
   "217": {
     "id": 217,
     "order": "217.00000000000000000000",
-    "name": "Ascanio Giustinian, venezianischer Botschafter",
+    "name": "Giustinian, Ascanio",
     "gnd": "",
     "other_url": "https://www.treccani.it/enciclopedia/giustinian-ascanio-detto-giulio_(Dizionario-Biografico)/?search=GIUSTINIAN%2C%20Ascanio%2C%20detto%20Giulio",
     "emt_id": "emt_person_id__217",
@@ -5084,13 +5084,13 @@
     "birth_date_written": "",
     "death_date_written": "",
     "Geschlecht": null,
-    "Funktionsbezeichnungen": null,
+    "Funktionsbezeichnungen": "venezianischer Botschafter",
     "Titel": null
   },
   "219": {
     "id": 219,
     "order": "219.00000000000000000000",
-    "name": "Innozenz IX. (Odeschalchi), Papst",
+    "name": "Innozenz IX. (Odeschalchi)",
     "gnd": "https://d-nb.info/gnd/118555677",
     "other_url": "https://www.newadvent.org/cathen/08021a.htm",
     "emt_id": "emt_person_id__219",
@@ -5108,8 +5108,8 @@
     "birth_date_written": "",
     "death_date_written": "",
     "Geschlecht": null,
-    "Funktionsbezeichnungen": null,
-    "Titel": null
+    "Funktionsbezeichnungen": "Papst",
+    "Titel": "Papst"
   },
   "220": {
     "id": 220,
@@ -5118,7 +5118,7 @@
     "gnd": "",
     "other_url": "",
     "emt_id": "emt_person_id__220",
-    "internal_comment": "",
+    "internal_comment": "unidentifiziert",
     "color": "",
     "lebensdaten": "",
     "ndb": "",
@@ -5138,7 +5138,7 @@
   "221": {
     "id": 221,
     "order": "221.00000000000000000000",
-    "name": "Diego Antonio Felicio de Croy y Peralta Marques de Falces, spanischer Botschafter",
+    "name": "Falces, Diego Antonio Felicio de Croy y Peralta de",
     "gnd": "",
     "other_url": "https://dbe.rah.es/biografias/42201/diego-antonio-felicio-de-croy-y-peralta",
     "emt_id": "emt_person_id__221",
@@ -5156,17 +5156,17 @@
     "birth_date_written": "",
     "death_date_written": "",
     "Geschlecht": null,
-    "Funktionsbezeichnungen": null,
-    "Titel": null
+    "Funktionsbezeichnungen": "spanischer Botschafter",
+    "Titel": "Marques"
   },
   "222": {
     "id": 222,
     "order": "222.00000000000000000000",
-    "name": "Franz von Welden",
+    "name": "Welden, Franz von",
     "gnd": "",
     "other_url": "",
     "emt_id": "emt_person_id__222",
-    "internal_comment": "soll nach PWs Wunsch 1679 zu etwas ernannt werden, was aber Hamilton wird - evtl. Geheimer Rat?",
+    "internal_comment": "unidentifiziert\nsoll nach PWs Wunsch 1679 zu etwas ernannt werden, was aber Hamilton wird - evtl. Geheimer Rat?",
     "color": "",
     "lebensdaten": "",
     "ndb": "",
@@ -5186,9 +5186,9 @@
   "223": {
     "id": 223,
     "order": "223.00000000000000000000",
-    "name": "Maria Sophie von Hamilton, geb. Weichs",
+    "name": "Hamilton, Maria Sophie von, geb. Weichs",
     "gnd": "",
-    "other_url": "",
+    "other_url": "https://de.wikipedia.org/wiki/Jakob_von_Hamilton#Familie",
     "emt_id": "emt_person_id__223",
     "internal_comment": "",
     "color": "",
@@ -5205,12 +5205,12 @@
     "death_date_written": "",
     "Geschlecht": null,
     "Funktionsbezeichnungen": null,
-    "Titel": null
+    "Titel": "Gräfin"
   },
   "224": {
     "id": 224,
     "order": "224.00000000000000000000",
-    "name": "Magdalen Bedingfield OCarm",
+    "name": "Bedingfield, Magdalen OCarm",
     "gnd": "",
     "other_url": "https://wwtn.history.qmul.ac.uk/search/csearch.php?uid=AC013",
     "emt_id": "emt_person_id__224",
@@ -5218,8 +5218,8 @@
     "color": "",
     "lebensdaten": "",
     "ndb": "",
-    "year_of_birth": "1621",
-    "year_of_death": "1684",
+    "year_of_birth": "1620",
+    "year_of_death": "1683",
     "wikidata_url": "",
     "wikidata_enriched": false,
     "img_name": "",
@@ -5228,8 +5228,8 @@
     "birth_date_written": "",
     "death_date_written": "",
     "Geschlecht": null,
-    "Funktionsbezeichnungen": null,
-    "Titel": null
+    "Funktionsbezeichnungen": "Oberin",
+    "Titel": ""
   },
   "225": {
     "id": 225,
@@ -5238,7 +5238,7 @@
     "gnd": "",
     "other_url": "",
     "emt_id": "emt_person_id__225",
-    "internal_comment": "ist 1679 schon verstorben und mit Hamilton verwandt, möglicherweise sein Vater oder Onkel?",
+    "internal_comment": "unidentifiziert\nist 1679 schon verstorben und mit Hamilton verwandt, möglicherweise sein Vater oder Onkel?",
     "color": "",
     "lebensdaten": "",
     "ndb": "",
@@ -5258,11 +5258,11 @@
   "226": {
     "id": 226,
     "order": "226.00000000000000000000",
-    "name": "Meyr",
+    "name": "Meyr, NN 1680",
     "gnd": "",
     "other_url": "",
     "emt_id": "emt_person_id__226",
-    "internal_comment": "zu dessen Gunsten hält EMT wegen des Welden Fürbitte bei Leopold I. (unklare Formulierung, 45_8_267)",
+    "internal_comment": "unidentifiziert\nzu dessen Gunsten hält EMT wegen des Welden Fürbitte bei Leopold I. (unklare Formulierung, 45_8_267)",
     "color": "",
     "lebensdaten": "",
     "ndb": "",
@@ -5282,7 +5282,7 @@
   "227": {
     "id": 227,
     "order": "227.00000000000000000000",
-    "name": "Nicolas Cotoner y de Oleza, Großmeister des Johanniterordens",
+    "name": "Cotoner y de Oleza, Nicolas",
     "gnd": "",
     "other_url": "",
     "emt_id": "emt_person_id__227",
@@ -5300,13 +5300,13 @@
     "birth_date_written": "",
     "death_date_written": "",
     "Geschlecht": null,
-    "Funktionsbezeichnungen": null,
+    "Funktionsbezeichnungen": "Großmeister des Johanniterordens",
     "Titel": null
   },
   "228": {
     "id": 228,
     "order": "228.00000000000000000000",
-    "name": "Johann Maximilian von Lamberg, Obersthofmeister Leopolds I.",
+    "name": "Lamberg, Johann Maximilian von",
     "gnd": "https://d-nb.info/gnd/118823795",
     "other_url": "",
     "emt_id": "emt_person_id__228",
@@ -5324,13 +5324,13 @@
     "birth_date_written": "",
     "death_date_written": "",
     "Geschlecht": null,
-    "Funktionsbezeichnungen": null,
-    "Titel": null
+    "Funktionsbezeichnungen": "Obersthofmeister Leopolds I.",
+    "Titel": "Graf"
   },
   "229": {
     "id": 229,
     "order": "229.00000000000000000000",
-    "name": "Julius Franz von Sachsen-Lauenburg",
+    "name": "Sachsen-Lauenburg, Julius Franz von",
     "gnd": "https://d-nb.info/gnd/102141126",
     "other_url": "",
     "emt_id": "emt_person_id__229",
@@ -5349,16 +5349,40 @@
     "death_date_written": "",
     "Geschlecht": null,
     "Funktionsbezeichnungen": null,
-    "Titel": null
+    "Titel": "Herzog"
   },
   "230": {
     "id": 230,
     "order": "230.00000000000000000000",
-    "name": "Wirts, Arzt",
+    "name": "Wirts, NN",
     "gnd": "",
     "other_url": "",
     "emt_id": "emt_person_id__230",
-    "internal_comment": "wahrscheinlich Arzt am Wiener Hof 1680 (mit in Prag)",
+    "internal_comment": "unidentifiziert\nwahrscheinlich Arzt am Wiener Hof 1680 (mit in Prag)",
+    "color": "",
+    "lebensdaten": "",
+    "ndb": "",
+    "year_of_birth": null,
+    "year_of_death": null,
+    "wikidata_url": "",
+    "wikidata_enriched": false,
+    "img_name": "",
+    "img_fetched": false,
+    "img_source": "",
+    "birth_date_written": "",
+    "death_date_written": "",
+    "Geschlecht": null,
+    "Funktionsbezeichnungen": "Leibarzt",
+    "Titel": "Doktor"
+  },
+  "231": {
+    "id": 231,
+    "order": "231.00000000000000000000",
+    "name": "",
+    "gnd": "",
+    "other_url": "",
+    "emt_id": "emt_person_id__231",
+    "internal_comment": "",
     "color": "",
     "lebensdaten": "",
     "ndb": "",
@@ -5375,34 +5399,10 @@
     "Funktionsbezeichnungen": null,
     "Titel": null
   },
-  "231": {
-    "id": 231,
-    "order": "231.00000000000000000000",
-    "name": "Philipp Sigmund von Dietrichstein",
-    "gnd": "",
-    "other_url": "",
-    "emt_id": "emt_person_id__231",
-    "internal_comment": "",
-    "color": "",
-    "lebensdaten": "",
-    "ndb": "",
-    "year_of_birth": "1651",
-    "year_of_death": "1716",
-    "wikidata_url": "https://www.wikidata.org/wiki/Q21069432",
-    "wikidata_enriched": false,
-    "img_name": "Philipp Sigmund Dietrichstein (1651–1716).jpg",
-    "img_fetched": true,
-    "img_source": "commonsMedia",
-    "birth_date_written": "",
-    "death_date_written": "",
-    "Geschlecht": null,
-    "Funktionsbezeichnungen": null,
-    "Titel": null
-  },
   "232": {
     "id": 232,
     "order": "232.00000000000000000000",
-    "name": "Johann Quintin Jörger von Tollet",
+    "name": "Jörger von Tollet, Johann Quintin",
     "gnd": "https://d-nb.info/gnd/11715010X",
     "other_url": "",
     "emt_id": "emt_person_id__232",
@@ -5421,12 +5421,12 @@
     "death_date_written": "",
     "Geschlecht": null,
     "Funktionsbezeichnungen": null,
-    "Titel": null
+    "Titel": "Graf"
   },
   "233": {
     "id": 233,
     "order": "233.00000000000000000000",
-    "name": "Johann Peter Jörger von Tollet",
+    "name": "Jörger von Tollet, Johann Peter",
     "gnd": "",
     "other_url": "",
     "emt_id": "emt_person_id__233",
@@ -5445,7 +5445,7 @@
     "death_date_written": "",
     "Geschlecht": null,
     "Funktionsbezeichnungen": null,
-    "Titel": null
+    "Titel": "Graf"
   },
   "234": {
     "id": 234,
@@ -5454,7 +5454,7 @@
     "gnd": "",
     "other_url": "",
     "emt_id": "emt_person_id__234",
-    "internal_comment": "",
+    "internal_comment": "unidentifiziert",
     "color": "",
     "lebensdaten": "",
     "ndb": "",
@@ -5474,7 +5474,7 @@
   "236": {
     "id": 236,
     "order": "236.00000000000000000000",
-    "name": "Gundakar von Dietrichstein, Oberstkämmerer Leopolds I.",
+    "name": "Dietrichstein, Gundakar von",
     "gnd": "https://d-nb.info/gnd/1052818633",
     "other_url": "",
     "emt_id": "emt_person_id__236",
@@ -5492,13 +5492,13 @@
     "birth_date_written": "",
     "death_date_written": "",
     "Geschlecht": null,
-    "Funktionsbezeichnungen": null,
-    "Titel": null
+    "Funktionsbezeichnungen": "Oberstkämmerer Leopolds I.",
+    "Titel": "Graf"
   },
   "237": {
     "id": 237,
     "order": "237.00000000000000000000",
-    "name": "Friedrich I. von Sachsen-Gotha-Altenburg",
+    "name": "Sachsen-Gotha-Altenburg, Friedrich I. von",
     "gnd": "https://d-nb.info/gnd/10210915X",
     "other_url": "",
     "emt_id": "emt_person_id__237",
@@ -5517,12 +5517,12 @@
     "death_date_written": "",
     "Geschlecht": null,
     "Funktionsbezeichnungen": null,
-    "Titel": null
+    "Titel": "Herzog"
   },
   "238": {
     "id": 238,
     "order": "238.00000000000000000000",
-    "name": "Johann Friedrich von Brandenburg-Ansbach",
+    "name": "Brandenburg-Ansbach, Johann Friedrich von",
     "gnd": "https://d-nb.info/gnd/104130881",
     "other_url": "",
     "emt_id": "emt_person_id__238",
@@ -5541,12 +5541,12 @@
     "death_date_written": "",
     "Geschlecht": null,
     "Funktionsbezeichnungen": null,
-    "Titel": null
+    "Titel": "Markgraf"
   },
   "239": {
     "id": 239,
     "order": "239.00000000000000000000",
-    "name": "Johann Ferdinand von Yrsch",
+    "name": "Yrsch, Johann Ferdinand von",
     "gnd": "http://d-nb.info/1011571021",
     "other_url": "",
     "emt_id": "emt_person_id__239",
@@ -5570,7 +5570,7 @@
   "240": {
     "id": 240,
     "order": "240.00000000000000000000",
-    "name": "Maria Anna von Bayern, Dauphine",
+    "name": "Frankreich, Maria Anna von, geb. Bayern",
     "gnd": "http://d-nb.info/120251922",
     "other_url": "",
     "emt_id": "emt_person_id__240",
@@ -5588,17 +5588,17 @@
     "birth_date_written": "",
     "death_date_written": "",
     "Geschlecht": null,
-    "Funktionsbezeichnungen": null,
-    "Titel": null
+    "Funktionsbezeichnungen": "Dauphine von Frankreich",
+    "Titel": "Dauphine"
   },
   "241": {
     "id": 241,
     "order": "241.00000000000000000000",
-    "name": "Laics, Pater",
+    "name": "Laics, NN Pater",
     "gnd": "",
     "other_url": "",
     "emt_id": "emt_person_id__241",
-    "internal_comment": "unsichere Schreibweise, evtl. 1680 als Nachfolger von Tanner im Gespräch??",
+    "internal_comment": "unidentifiziert\nunsichere Schreibweise, evtl. 1680 als Nachfolger von Tanner im Gespräch??",
     "color": "",
     "lebensdaten": "",
     "ndb": "",
@@ -5613,7 +5613,7 @@
     "death_date_written": "",
     "Geschlecht": null,
     "Funktionsbezeichnungen": null,
-    "Titel": null
+    "Titel": "Pater"
   },
   "242": {
     "id": 242,
@@ -5622,7 +5622,7 @@
     "gnd": "",
     "other_url": "",
     "emt_id": "emt_person_id__242",
-    "internal_comment": "",
+    "internal_comment": "unidentifiziert\nevtl. Baden-Baden ?",
     "color": "",
     "lebensdaten": "",
     "ndb": "",
@@ -5646,7 +5646,7 @@
     "gnd": "",
     "other_url": "",
     "emt_id": "emt_person_id__243",
-    "internal_comment": "",
+    "internal_comment": "unidentifiziert",
     "color": "",
     "lebensdaten": "",
     "ndb": "",
@@ -5670,7 +5670,7 @@
     "gnd": "",
     "other_url": "",
     "emt_id": "emt_person_id__244",
-    "internal_comment": "soll 1680 Kämmerer werden - fünf Schwiegersöhne in zeitlicher Reihenfolge:\n1667 Viktor Jakob von Prandegg\n1669 Heinrich von Pergen\n1672 Johann Georg von Kuefstein\n1675 Johann Ferdinand von Stachlburg\n1682 Ferdinand von Winkelhofen",
+    "internal_comment": "unidentifiziert\nsoll 1680 Kämmerer werden - fünf Schwiegersöhne in zeitlicher Reihenfolge:\n1667 Viktor Jakob von Prandegg\n1669 Heinrich von Pergen\n1672 Johann Georg von Kuefstein\n1675 Johann Ferdinand von Stachlburg\n1682 Ferdinand von Winkelhofen",
     "color": "",
     "lebensdaten": "",
     "ndb": "",
@@ -5690,7 +5690,7 @@
   "245": {
     "id": 245,
     "order": "245.00000000000000000000",
-    "name": "Marie Hedwig von Sachsen-Meiningen, geb. Hessen-Darmstadt",
+    "name": "Sachsen-Meiningen, Marie Hedwig von, geb. Hessen-Darmstadt",
     "gnd": "https://d-nb.info/gnd/121600092",
     "other_url": "",
     "emt_id": "emt_person_id__245",
@@ -5709,16 +5709,16 @@
     "death_date_written": "",
     "Geschlecht": null,
     "Funktionsbezeichnungen": null,
-    "Titel": null
+    "Titel": "Herzogin"
   },
   "246": {
     "id": 246,
     "order": "246.00000000000000000000",
-    "name": "Fräulein von Auersperg",
+    "name": "Auersperg, NN von 1680",
     "gnd": "",
     "other_url": "",
     "emt_id": "emt_person_id__246",
-    "internal_comment": "sollte ursprünglich Hofdame bei EMT werden, erkrankt 1680 in Prag an der Pest - sicher eine der drei unverheirateten Töchter von Johann Weikhard von Auersperg, siehe http://genealogy.euweb.cz/auersperg/auersperg4.html",
+    "internal_comment": "unidentifiziert\nsollte ursprünglich Hofdame bei EMT werden, erkrankt 1680 in Prag an der Pest - sicher eine der drei unverheirateten Töchter von Johann Weikhard von Auersperg, siehe http://genealogy.euweb.cz/auersperg/auersperg4.html",
     "color": "",
     "lebensdaten": "",
     "ndb": "",
@@ -5742,7 +5742,7 @@
     "gnd": "",
     "other_url": "",
     "emt_id": "emt_person_id__247",
-    "internal_comment": "Franziskaner oder Kapuziner, wird in Ordensprovinz geschickt, in der sich Neuburg befindet - 1680, vermutlich aus Böhmen",
+    "internal_comment": "unidentifiziert\nFranziskaner oder Kapuziner, wird in Ordensprovinz geschickt, in der sich Neuburg befindet - 1680, vermutlich aus Böhmen",
     "color": "",
     "lebensdaten": "",
     "ndb": "",
@@ -5762,7 +5762,7 @@
   "248": {
     "id": 248,
     "order": "248.00000000000000000000",
-    "name": "Albrecht, Erzherzog",
+    "name": "Österreich, Albrecht von",
     "gnd": "http://d-nb.info/11864436X",
     "other_url": "",
     "emt_id": "emt_person_id__248",
@@ -5780,13 +5780,13 @@
     "birth_date_written": "",
     "death_date_written": "",
     "Geschlecht": null,
-    "Funktionsbezeichnungen": null,
-    "Titel": null
+    "Funktionsbezeichnungen": "Statthalter der Niederlande",
+    "Titel": "Erzherzog"
   },
   "249": {
     "id": 249,
     "order": "249.00000000000000000000",
-    "name": "Infantin Isabella Clara Eugenia",
+    "name": "Österreich, Isabella Clara Eugenia von, geb. Spanien",
     "gnd": "http://d-nb.info/118555928",
     "other_url": "",
     "emt_id": "emt_person_id__249",
@@ -5804,13 +5804,13 @@
     "birth_date_written": "",
     "death_date_written": "",
     "Geschlecht": null,
-    "Funktionsbezeichnungen": null,
-    "Titel": null
+    "Funktionsbezeichnungen": "Statthalterin der Niederlande",
+    "Titel": "Infantin, Erzherzogin"
   },
   "250": {
     "id": 250,
     "order": "250.00000000000000000000",
-    "name": "Leopold Wilhelm, Erzherzog",
+    "name": "Österreich, Leopold Wilhelm von",
     "gnd": "http://d-nb.info/118727664",
     "other_url": "",
     "emt_id": "emt_person_id__250",
@@ -5828,13 +5828,13 @@
     "birth_date_written": "",
     "death_date_written": "",
     "Geschlecht": null,
-    "Funktionsbezeichnungen": null,
-    "Titel": null
+    "Funktionsbezeichnungen": "Statthalter der Niederlande",
+    "Titel": "Erzherzog"
   },
   "251": {
     "id": 251,
     "order": "251.00000000000000000000",
-    "name": "Sauter, Beichtvater EMT ab 1680",
+    "name": "Sauter, Michael SJ ?",
     "gnd": "",
     "other_url": "",
     "emt_id": "emt_person_id__251",
@@ -5842,8 +5842,8 @@
     "color": "",
     "lebensdaten": "",
     "ndb": "",
-    "year_of_birth": null,
-    "year_of_death": null,
+    "year_of_birth": "1618",
+    "year_of_death": "1684",
     "wikidata_url": "",
     "wikidata_enriched": false,
     "img_name": "",
@@ -5852,8 +5852,8 @@
     "birth_date_written": "",
     "death_date_written": "",
     "Geschlecht": null,
-    "Funktionsbezeichnungen": null,
-    "Titel": null
+    "Funktionsbezeichnungen": "Beichtvater EMT 1680-1684",
+    "Titel": "Pater"
   },
   "252": {
     "id": 252,
@@ -5877,12 +5877,12 @@
     "death_date_written": "",
     "Geschlecht": null,
     "Funktionsbezeichnungen": null,
-    "Titel": null
+    "Titel": "König"
   },
   "253": {
     "id": 253,
     "order": "253.00000000000000000000",
-    "name": "Marco d'Aviano OFMCap.",
+    "name": "Aviano, Marco de OFMCap.",
     "gnd": "http://d-nb.info/118731076",
     "other_url": "",
     "emt_id": "emt_person_id__253",
@@ -5901,12 +5901,12 @@
     "death_date_written": "",
     "Geschlecht": null,
     "Funktionsbezeichnungen": null,
-    "Titel": null
+    "Titel": "Pater"
   },
   "254": {
     "id": 254,
     "order": "254.00000000000000000000",
-    "name": "Johann Christoph von Freyberg, Bischof von Augsburg",
+    "name": "Freyberg, Johann Christoph von",
     "gnd": "https://d-nb.info/gnd/102375526",
     "other_url": "",
     "emt_id": "emt_person_id__254",
@@ -5914,8 +5914,8 @@
     "color": "",
     "lebensdaten": "",
     "ndb": "https://www.deutsche-biographie.de/sfz19192.html#indexcontent",
-    "year_of_birth": null,
-    "year_of_death": null,
+    "year_of_birth": "1616",
+    "year_of_death": "1690",
     "wikidata_url": "http://www.wikidata.org/entity/Q1693099",
     "wikidata_enriched": true,
     "img_name": "",
@@ -5924,17 +5924,17 @@
     "birth_date_written": "",
     "death_date_written": "",
     "Geschlecht": null,
-    "Funktionsbezeichnungen": null,
+    "Funktionsbezeichnungen": "Bischof von Augsburg",
     "Titel": null
   },
   "255": {
     "id": 255,
     "order": "255.00000000000000000000",
-    "name": "Herr von Stadion",
+    "name": "Stadion, NN von 1680",
     "gnd": "",
     "other_url": "",
     "emt_id": "emt_person_id__255",
-    "internal_comment": "EMT erwähnt ihn als Beispiel für Trunkenheit 1680 - möglicher weise ident mit Franz Conrad von Stadion?",
+    "internal_comment": "unidentifiziert\nEMT erwähnt ihn als Beispiel für Trunkenheit 1680 - möglicher weise ident mit Franz Conrad von Stadion?",
     "color": "",
     "lebensdaten": "",
     "ndb": "",
@@ -5954,11 +5954,11 @@
   "256": {
     "id": 256,
     "order": "256.00000000000000000000",
-    "name": "Jean de Rougemont, Resident in Brüssel",
+    "name": "Rougemont, Jean de",
     "gnd": "",
     "other_url": "",
     "emt_id": "emt_person_id__256",
-    "internal_comment": "übermittelt Nachrichten zu spanischen Niederlanden, die aber nicht korrekt sind 1680\nvielleicht 1685 gestorben",
+    "internal_comment": "unidentifiziert\nübermittelt Nachrichten zu spanischen Niederlanden, die aber nicht korrekt sind 1680\nvielleicht 1685 gestorben",
     "color": "",
     "lebensdaten": "",
     "ndb": "",
@@ -5972,17 +5972,17 @@
     "birth_date_written": "",
     "death_date_written": "",
     "Geschlecht": null,
-    "Funktionsbezeichnungen": null,
+    "Funktionsbezeichnungen": "Resident in Brüssel",
     "Titel": null
   },
   "257": {
     "id": 257,
     "order": "257.00000000000000000000",
-    "name": "Roßeler / Raßeler",
+    "name": "Roßeler / Raßeler, NN 1680",
     "gnd": "",
     "other_url": "",
     "emt_id": "emt_person_id__257",
-    "internal_comment": "wird von Wien nach Augsburg gesendet wegen Koadjutorie für Bischof für EMTs Bruder",
+    "internal_comment": "unidentifiziert\nwird von Wien nach Augsburg gesendet wegen Koadjutorie für Bischof für EMTs Bruder",
     "color": "",
     "lebensdaten": "",
     "ndb": "",
@@ -6002,7 +6002,7 @@
   "258": {
     "id": 258,
     "order": "258.00000000000000000000",
-    "name": "Johann Hartwig von Nostitz-Rieneck, Oberstkanzler in Böhmen",
+    "name": "Nostitz-Rieneck, Johann Hartwig von",
     "gnd": "http://d-nb.info/124388809",
     "other_url": "",
     "emt_id": "emt_person_id__258",
@@ -6020,17 +6020,17 @@
     "birth_date_written": "",
     "death_date_written": "",
     "Geschlecht": null,
-    "Funktionsbezeichnungen": null,
-    "Titel": null
+    "Funktionsbezeichnungen": "Oberstkanzler in Böhmen",
+    "Titel": "Graf"
   },
   "259": {
     "id": 259,
     "order": "259.00000000000000000000",
-    "name": "Alessandro Farnese",
+    "name": "Farnese, Alessandro",
     "gnd": "https://d-nb.info/gnd/12031942X",
     "other_url": "https://www.treccani.it/enciclopedia/alessandro-farnese_res-e9ad90ea-87ec-11dc-8e9d-0016357eee51_(Dizionario-Biografico)/",
     "emt_id": "emt_person_id__259",
-    "internal_comment": "1678 bis 1682 Statthalter der Spanischen Niederlande",
+    "internal_comment": "",
     "color": "",
     "lebensdaten": "",
     "ndb": "",
@@ -6044,13 +6044,13 @@
     "birth_date_written": "",
     "death_date_written": "",
     "Geschlecht": null,
-    "Funktionsbezeichnungen": null,
-    "Titel": null
+    "Funktionsbezeichnungen": "Statthalter der Spanischen Niederlande 1678 bis 1682",
+    "Titel": "Herzog"
   },
   "260": {
     "id": 260,
     "order": "260.00000000000000000000",
-    "name": "Leopold I. von Lothringen",
+    "name": "Lothringen, Leopold I. von",
     "gnd": "https://d-nb.info/gnd/118835785",
     "other_url": "",
     "emt_id": "emt_person_id__260",
@@ -6069,16 +6069,16 @@
     "death_date_written": "",
     "Geschlecht": null,
     "Funktionsbezeichnungen": null,
-    "Titel": null
+    "Titel": "Herzog"
   },
   "261": {
     "id": 261,
     "order": "261.00000000000000000000",
-    "name": "Flori 1680",
+    "name": "Flori, NN 1680",
     "gnd": "",
     "other_url": "",
     "emt_id": "emt_person_id__261",
-    "internal_comment": "bringt Erzherzog Joseph ein Pferdchen von Hamburg mit nach Linz 1680",
+    "internal_comment": "unidentifiziert\nbringt Erzherzog Joseph ein Pferdchen von Hamburg mit nach Linz 1680",
     "color": "",
     "lebensdaten": "",
     "ndb": "",
@@ -6098,16 +6098,16 @@
   "262": {
     "id": 262,
     "order": "262.00000000000000000000",
-    "name": "Hompesch, Offizier 1680",
+    "name": "Hompesch zu Bollheim, Philipp Werner von ?",
     "gnd": "",
-    "other_url": "",
+    "other_url": "https://de.wikipedia.org/wiki/Hompesch_(Adelsgeschlecht)",
     "emt_id": "emt_person_id__262",
-    "internal_comment": "ist mit Hamilton verwandt, wahrscheinlich Philipp Werner von Hompesch zu Bollheim, der mit JW auf Kavalierstour war, gest. 1683, siehe https://de.wikipedia.org/wiki/Hompesch_(Adelsgeschlecht) und http://ww-person.com/cgi-bin/l1/LANG=engl/INDEX=I631194",
+    "internal_comment": "ist mit Hamilton verwandt, wahrscheinlich Philipp Werner von Hompesch zu Bollheim, der mit JW auf Kavalierstour war",
     "color": "",
     "lebensdaten": "",
     "ndb": "",
     "year_of_birth": null,
-    "year_of_death": null,
+    "year_of_death": "1683",
     "wikidata_url": "",
     "wikidata_enriched": false,
     "img_name": "",
@@ -6122,11 +6122,11 @@
   "263": {
     "id": 263,
     "order": "263.00000000000000000000",
-    "name": "Freiberg, Herr von",
+    "name": "",
     "gnd": "",
     "other_url": "",
     "emt_id": "emt_person_id__263",
-    "internal_comment": "für ihn soll EMT im Auftrag PWs Fürbitte leisten 1680",
+    "internal_comment": "",
     "color": "",
     "lebensdaten": "",
     "ndb": "",
@@ -6146,7 +6146,7 @@
   "264": {
     "id": 264,
     "order": "264.00000000000000000000",
-    "name": "Katharina Elisabeth Pálffy, geb. Weichs",
+    "name": "Pálffy, Katharina Elisabeth, geb. Weichs",
     "gnd": "",
     "other_url": "https://de.rodovid.org/wk/Person:829987",
     "emt_id": "emt_person_id__264",
@@ -6165,12 +6165,12 @@
     "death_date_written": "",
     "Geschlecht": null,
     "Funktionsbezeichnungen": null,
-    "Titel": null
+    "Titel": "Gräfin"
   },
   "265": {
     "id": 265,
     "order": "265.00000000000000000000",
-    "name": "Raimondo Montecuccoli",
+    "name": "Montecuccoli, Raimondo",
     "gnd": "http://d-nb.info/119064324",
     "other_url": "",
     "emt_id": "emt_person_id__265",
@@ -6189,16 +6189,16 @@
     "death_date_written": "",
     "Geschlecht": null,
     "Funktionsbezeichnungen": null,
-    "Titel": null
+    "Titel": "Fürst"
   },
   "266": {
     "id": 266,
     "order": "266.00000000000000000000",
-    "name": "Bekh, Herr von",
+    "name": "Bekh, NN von",
     "gnd": "",
     "other_url": "",
     "emt_id": "emt_person_id__266",
-    "internal_comment": "Leopold I. schickt ihn im Februar 1681 zu PW",
+    "internal_comment": "unidentifiziert\nLeopold I. schickt ihn im Februar 1681 zu PW",
     "color": "",
     "lebensdaten": "",
     "ndb": "",
@@ -6218,11 +6218,11 @@
   "267": {
     "id": 267,
     "order": "267.00000000000000000000",
-    "name": "Drezelin, Herr",
+    "name": "Drezelin, NN",
     "gnd": "",
     "other_url": "",
     "emt_id": "emt_person_id__267",
-    "internal_comment": "EMT soll 1681 für ihn eine Fürbitte bei PW leisten, will Kämmerer werden, ist Truchseß",
+    "internal_comment": "unidentifiziert\nEMT soll 1681 für ihn eine Fürbitte bei PW leisten, will Kämmerer werden, ist Truchseß",
     "color": "",
     "lebensdaten": "",
     "ndb": "",
@@ -6242,11 +6242,11 @@
   "268": {
     "id": 268,
     "order": "268.00000000000000000000",
-    "name": "Pater Crescentius",
+    "name": "Crescentius",
     "gnd": "",
     "other_url": "",
     "emt_id": "emt_person_id__268",
-    "internal_comment": "segnet den erkrankten Joseph im Auftrag von Pater Marco d'Aviano in Osterzeit 1681",
+    "internal_comment": "unidentifiziert\nsegnet den erkrankten Joseph im Auftrag von Pater Marco d'Aviano in Osterzeit 1681",
     "color": "",
     "lebensdaten": "",
     "ndb": "",
@@ -6261,16 +6261,16 @@
     "death_date_written": "",
     "Geschlecht": null,
     "Funktionsbezeichnungen": null,
-    "Titel": null
+    "Titel": "Pater"
   },
   "269": {
     "id": 269,
     "order": "269.00000000000000000000",
-    "name": "Lorenz Stuber, Doktor",
+    "name": "Stuber, Lorenz",
     "gnd": "",
     "other_url": "",
     "emt_id": "emt_person_id__269",
-    "internal_comment": "Leibarzt, ist häufig krank, weshalb EMT den kränklichen Joseph in Obhut von Doktor Huber in Linz lässt 1681",
+    "internal_comment": "unidentifiziert\nist häufig krank, weshalb EMT den kränklichen Joseph in Obhut von Doktor Huber in Linz lässt 1681",
     "color": "",
     "lebensdaten": "",
     "ndb": "",
@@ -6284,17 +6284,17 @@
     "birth_date_written": "",
     "death_date_written": "",
     "Geschlecht": null,
-    "Funktionsbezeichnungen": null,
-    "Titel": null
+    "Funktionsbezeichnungen": "Leibarzt",
+    "Titel": "Doktor"
   },
   "270": {
     "id": 270,
     "order": "270.00000000000000000000",
-    "name": "Oettingen, Graf 1681",
+    "name": "Oettingen, NN von 1681",
     "gnd": "",
     "other_url": "",
     "emt_id": "emt_person_id__270",
-    "internal_comment": "unterstützt Johann Wilhelm in Regentschaft in Düsseldorf 1681",
+    "internal_comment": "unidentifiziert\nunterstützt Johann Wilhelm in Regentschaft in Düsseldorf 1681",
     "color": "",
     "lebensdaten": "",
     "ndb": "",
@@ -6309,7 +6309,7 @@
     "death_date_written": "",
     "Geschlecht": null,
     "Funktionsbezeichnungen": null,
-    "Titel": null
+    "Titel": "Graf"
   },
   "271": {
     "id": 271,
@@ -6318,7 +6318,7 @@
     "gnd": "",
     "other_url": "",
     "emt_id": "emt_person_id__271",
-    "internal_comment": "",
+    "internal_comment": "unidentifiziert",
     "color": "",
     "lebensdaten": "",
     "ndb": "",
@@ -6338,7 +6338,7 @@
   "272": {
     "id": 272,
     "order": "272.00000000000000000000",
-    "name": "Eleonore Erdmuthe von Sachsen-Eisenach, vereh. Brandenburg-Ansbach bzw. Sachsen",
+    "name": "Sachsen-Eisenach, Eleonore Erdmuthe von, vereh. Brandenburg-Ansbach, vereh. Sachsen",
     "gnd": "https://d-nb.info/gnd/104175354",
     "other_url": "",
     "emt_id": "emt_person_id__272",
@@ -6357,12 +6357,12 @@
     "death_date_written": "",
     "Geschlecht": null,
     "Funktionsbezeichnungen": null,
-    "Titel": null
+    "Titel": "Margräfin, Kurfürstin"
   },
   "273": {
     "id": 273,
     "order": "273.00000000000000000000",
-    "name": "Ferdinand von Fürstenberg, Bischof von Münster",
+    "name": "Fürstenberg, Ferdinand von",
     "gnd": "https://d-nb.info/gnd/118686755",
     "other_url": "",
     "emt_id": "emt_person_id__273",
@@ -6380,13 +6380,13 @@
     "birth_date_written": "",
     "death_date_written": "",
     "Geschlecht": null,
-    "Funktionsbezeichnungen": null,
+    "Funktionsbezeichnungen": "Bischof von Münster",
     "Titel": null
   },
   "274": {
     "id": 274,
     "order": "274.00000000000000000000",
-    "name": "Gabriel Oxenstierna, schwedischer Botschafter",
+    "name": "Oxenstierna, Gabriel",
     "gnd": "",
     "other_url": "https://sv.wikipedia.org/wiki/Gabriel_Oxenstierna_(1642%E2%80%931707)",
     "emt_id": "emt_person_id__274",
@@ -6404,13 +6404,13 @@
     "birth_date_written": "",
     "death_date_written": "",
     "Geschlecht": null,
-    "Funktionsbezeichnungen": null,
-    "Titel": null
+    "Funktionsbezeichnungen": "schwedischer Botschafter",
+    "Titel": "Graf"
   },
   "275": {
     "id": 275,
     "order": "275.00000000000000000000",
-    "name": "Sophie Charlotte von Braunschweig-Hannover, vereh. Brandenburg-Preußen",
+    "name": "Braunschweig-Hannover, Sophie Charlotte von, vereh. Brandenburg-Preußen",
     "gnd": "http://d-nb.info/118751530",
     "other_url": "",
     "emt_id": "emt_person_id__275",
@@ -6429,16 +6429,16 @@
     "death_date_written": "",
     "Geschlecht": null,
     "Funktionsbezeichnungen": null,
-    "Titel": null
+    "Titel": "Herzogin, Kurfürstin, Königin"
   },
   "276": {
     "id": 276,
     "order": "276.00000000000000000000",
-    "name": "Pater Cosmo / Cosmas",
+    "name": "Cosmo / Cosmas",
     "gnd": "",
     "other_url": "",
     "emt_id": "emt_person_id__276",
-    "internal_comment": "ist 1681 gemeinsam mit Marco d'Aviano in Frankreich unterwegs",
+    "internal_comment": "unidentifiziert\nist 1681 gemeinsam mit Marco d'Aviano in Frankreich unterwegs",
     "color": "",
     "lebensdaten": "",
     "ndb": "",
@@ -6453,16 +6453,16 @@
     "death_date_written": "",
     "Geschlecht": null,
     "Funktionsbezeichnungen": null,
-    "Titel": null
+    "Titel": "Pater"
   },
   "277": {
     "id": 277,
     "order": "277.00000000000000000000",
-    "name": "Pater Jochem (Joachim)",
+    "name": "Jochem (Joachim)",
     "gnd": "",
     "other_url": "",
     "emt_id": "emt_person_id__277",
-    "internal_comment": "hätte 1681 mit Marco d'Aviano von Neuburg nach Wien kommen können",
+    "internal_comment": "unidentifiziert\nhätte 1681 mit Marco d'Aviano von Neuburg nach Wien kommen können",
     "color": "",
     "lebensdaten": "",
     "ndb": "",
@@ -6477,12 +6477,12 @@
     "death_date_written": "",
     "Geschlecht": null,
     "Funktionsbezeichnungen": null,
-    "Titel": null
+    "Titel": "Pater"
   },
   "278": {
     "id": 278,
     "order": "278.00000000000000000000",
-    "name": "Paul Eszterházy, Palatin",
+    "name": "Eszterházy, Paul",
     "gnd": "https://d-nb.info/gnd/119031337",
     "other_url": "",
     "emt_id": "emt_person_id__278",
@@ -6500,13 +6500,13 @@
     "birth_date_written": "",
     "death_date_written": "",
     "Geschlecht": null,
-    "Funktionsbezeichnungen": null,
-    "Titel": null
+    "Funktionsbezeichnungen": "Palatin von Ungarn",
+    "Titel": "Fürst"
   },
   "279": {
     "id": 279,
     "order": "279.00000000000000000000",
-    "name": "Adam Forgách",
+    "name": "Forgách, Adam",
     "gnd": "https://d-nb.info/gnd/104352728",
     "other_url": "",
     "emt_id": "emt_person_id__279",
@@ -6525,12 +6525,12 @@
     "death_date_written": "",
     "Geschlecht": null,
     "Funktionsbezeichnungen": null,
-    "Titel": null
+    "Titel": "Graf"
   },
   "280": {
     "id": 280,
     "order": "280.00000000000000000000",
-    "name": "Stephan der Heilige, König in Ungarn",
+    "name": "Stephan (der Heilige) von Ungarn",
     "gnd": "https://d-nb.info/gnd/11861777X",
     "other_url": "",
     "emt_id": "emt_person_id__280",
@@ -6549,7 +6549,7 @@
     "death_date_written": "",
     "Geschlecht": null,
     "Funktionsbezeichnungen": null,
-    "Titel": null
+    "Titel": "König"
   },
   "281": {
     "id": 281,
@@ -6558,7 +6558,7 @@
     "gnd": "",
     "other_url": "",
     "emt_id": "emt_person_id__281",
-    "internal_comment": "",
+    "internal_comment": "unidentifiziert",
     "color": "",
     "lebensdaten": "",
     "ndb": "",
@@ -6578,16 +6578,16 @@
   "282": {
     "id": 282,
     "order": "282.00000000000000000000",
-    "name": "Stadl, militärischer Befehlshaber 1681",
+    "name": "Stadl, Ferdinand von ?",
     "gnd": "",
-    "other_url": "",
+    "other_url": "https://de.wikipedia.org/wiki/Stadl_(Adelsgeschlecht)#Familienmitglieder",
     "emt_id": "emt_person_id__282",
-    "internal_comment": "für ihn übersendet PW ein Kanzleischreiben zur Abwehr irgendwelcher Verluste von Chargen, was EMT unterstützen soll - wahrscheinlich Ferdinand von Stadl (14. März 1643, † 20. Mai 1694), Generalfeldwachtmeister, siehe https://de.wikipedia.org/wiki/Stadl_(Adelsgeschlecht)#Familienmitglieder",
+    "internal_comment": "für ihn übersendet PW ein Kanzleischreiben zur Abwehr irgendwelcher Verluste von Chargen, was EMT unterstützen soll",
     "color": "",
     "lebensdaten": "",
     "ndb": "",
-    "year_of_birth": null,
-    "year_of_death": null,
+    "year_of_birth": "1643",
+    "year_of_death": "1694",
     "wikidata_url": "",
     "wikidata_enriched": false,
     "img_name": "",
@@ -6596,17 +6596,17 @@
     "birth_date_written": "",
     "death_date_written": "",
     "Geschlecht": null,
-    "Funktionsbezeichnungen": null,
+    "Funktionsbezeichnungen": "General",
     "Titel": null
   },
   "283": {
     "id": 283,
     "order": "283.00000000000000000000",
-    "name": "Burg, Obrist",
+    "name": "Burg, NN, Obrist",
     "gnd": "",
     "other_url": "",
     "emt_id": "emt_person_id__283",
-    "internal_comment": "in Prag, an ihn soll Pension für Vetter Philipp aus dem Kriegszahlamt übermittelt werden, damit er sie dessen Beauftragten auszahlen kann",
+    "internal_comment": "unidentifiziert\nin Prag, an ihn soll Pension für Vetter Philipp aus dem Kriegszahlamt übermittelt werden, damit er sie dessen Beauftragten auszahlen kann",
     "color": "",
     "lebensdaten": "",
     "ndb": "",
@@ -6626,7 +6626,7 @@
   "285": {
     "id": 285,
     "order": "285.00000000000000000000",
-    "name": "Ferdinand Ernst von Mollard",
+    "name": "Mollard, Ferdinand Ernst von",
     "gnd": "http://d-nb.info/1041885512",
     "other_url": "",
     "emt_id": "emt_person_id__285",
@@ -6645,12 +6645,12 @@
     "death_date_written": "",
     "Geschlecht": null,
     "Funktionsbezeichnungen": null,
-    "Titel": null
+    "Titel": "Graf"
   },
   "286": {
     "id": 286,
     "order": "286.00000000000000000000",
-    "name": "Ferdinando Carlo Gonzaga-Nevers, Herzog von Mantua",
+    "name": "Mantua, Ferdinando Carlo Gonzaga-Nevers von",
     "gnd": "http://d-nb.info/101102046",
     "other_url": "https://www.treccani.it/enciclopedia/ferdinando-carlo-gonzaga-nevers-duca-di-mantova-e-del-monferrato_(Dizionario-Biografico)/",
     "emt_id": "emt_person_id__286",
@@ -6668,13 +6668,13 @@
     "birth_date_written": "",
     "death_date_written": "",
     "Geschlecht": null,
-    "Funktionsbezeichnungen": null,
-    "Titel": null
+    "Funktionsbezeichnungen": "",
+    "Titel": "Herzog"
   },
   "287": {
     "id": 287,
     "order": "287.00000000000000000000",
-    "name": "François Michel Le Tellier, Marquis de Louvois",
+    "name": "Louvois, François Michel Le Tellier de",
     "gnd": "https://d-nb.info/gnd/100194109",
     "other_url": "",
     "emt_id": "emt_person_id__287",
@@ -6693,16 +6693,16 @@
     "death_date_written": "",
     "Geschlecht": null,
     "Funktionsbezeichnungen": null,
-    "Titel": null
+    "Titel": "Marquis"
   },
   "288": {
     "id": 288,
     "order": "288.00000000000000000000",
-    "name": "Franz Michael Neveu von Windschläg, Resident des Kaisers in Straßburg 1681",
+    "name": "Neveu von Windschläg, Franz Michael",
     "gnd": "",
     "other_url": "https://hls-dhs-dss.ch/de/articles/022061/2008-08-27/",
     "emt_id": "emt_person_id__288",
-    "internal_comment": "",
+    "internal_comment": "siehe auch https://www.deutsche-digitale-bibliothek.de/item/OVU26UUFPKYYZOZQUNIUUVQUBMHYLB2L\nhttps://www.deutsche-digitale-bibliothek.de/item/QEXUNMTFRSUUK2EHL7OLI47IUHL3I7IQ",
     "color": "",
     "lebensdaten": "",
     "ndb": "",
@@ -6716,13 +6716,13 @@
     "birth_date_written": "",
     "death_date_written": "",
     "Geschlecht": null,
-    "Funktionsbezeichnungen": null,
+    "Funktionsbezeichnungen": "Resident des Kaisers in Straßburg 1681",
     "Titel": null
   },
   "289": {
     "id": 289,
     "order": "289.00000000000000000000",
-    "name": "Johann Balthasar von Hoyos",
+    "name": "Hoyos, Johann Balthasar von",
     "gnd": "http://d-nb.info/128978481",
     "other_url": "",
     "emt_id": "emt_person_id__289",
@@ -6740,17 +6740,17 @@
     "birth_date_written": "",
     "death_date_written": "",
     "Geschlecht": null,
-    "Funktionsbezeichnungen": null,
-    "Titel": null
+    "Funktionsbezeichnungen": "Landmarschall Niederösterreich",
+    "Titel": "Graf"
   },
   "290": {
     "id": 290,
     "order": "290.00000000000000000000",
-    "name": "Machau, Herr von",
+    "name": "Machau, NN von 1681",
     "gnd": "",
     "other_url": "",
     "emt_id": "emt_person_id__290",
-    "internal_comment": "in einem Duell von Flori erstochen",
+    "internal_comment": "unidentifiziert\nin einem Duell von Flori erstochen",
     "color": "",
     "lebensdaten": "",
     "ndb": "",
@@ -6770,7 +6770,7 @@
   "291": {
     "id": 291,
     "order": "291.00000000000000000000",
-    "name": "Mario Alberizzi, Kardinal",
+    "name": "Alberizzi, Mario",
     "gnd": "https://d-nb.info/gnd/1017620601",
     "other_url": "https://cardinals.fiu.edu/bios1675.htm#Alberizzi",
     "emt_id": "emt_person_id__291",
@@ -6788,8 +6788,8 @@
     "birth_date_written": "",
     "death_date_written": "",
     "Geschlecht": null,
-    "Funktionsbezeichnungen": null,
-    "Titel": null
+    "Funktionsbezeichnungen": "Kardinal",
+    "Titel": "Kardinal"
   },
   "292": {
     "id": 292,
@@ -6798,7 +6798,7 @@
     "gnd": "",
     "other_url": "",
     "emt_id": "emt_person_id__292",
-    "internal_comment": "",
+    "internal_comment": "unidentifiziert",
     "color": "",
     "lebensdaten": "",
     "ndb": "",
@@ -6822,7 +6822,7 @@
     "gnd": "",
     "other_url": "",
     "emt_id": "emt_person_id__293",
-    "internal_comment": "Marquard Ignaz von Egloff war mit JW auf Kavalierstour",
+    "internal_comment": "unidentifiziert\nMarquard Ignaz von Egloff war mit JW auf Kavalierstour, siehe https://hvneuburg.wordpress.com/wp-content/uploads/2019/12/hofrat.pdf",
     "color": "",
     "lebensdaten": "",
     "ndb": "",
@@ -6842,11 +6842,11 @@
   "294": {
     "id": 294,
     "order": "294.00000000000000000000",
-    "name": "Serni, Herr 1678",
+    "name": "",
     "gnd": "",
     "other_url": "",
     "emt_id": "emt_person_id__294",
-    "internal_comment": "wird wegen seines Alters wohl PW 1678 nicht nach Wien begleiten",
+    "internal_comment": "",
     "color": "",
     "lebensdaten": "",
     "ndb": "",
@@ -6866,11 +6866,11 @@
   "295": {
     "id": 295,
     "order": "295.00000000000000000000",
-    "name": "Lemmel, Herr",
+    "name": "Lemmel, Herr, wird 1678 nicht mit PW nach Wien reisen",
     "gnd": "",
     "other_url": "",
     "emt_id": "emt_person_id__295",
-    "internal_comment": "ist kein großer Höfling und wird deshalb 1678  nicht mit PW nach Wien reisen",
+    "internal_comment": "unidentifiziert\nist kein großer Höfling und wird deshalb 1678  nicht mit PW nach Wien reisen",
     "color": "",
     "lebensdaten": "",
     "ndb": "",
@@ -6894,7 +6894,7 @@
     "gnd": "",
     "other_url": "",
     "emt_id": "emt_person_id__296",
-    "internal_comment": "",
+    "internal_comment": "unidentifiziert",
     "color": "",
     "lebensdaten": "",
     "ndb": "",
@@ -6918,7 +6918,7 @@
     "gnd": "",
     "other_url": "",
     "emt_id": "emt_person_id__297",
-    "internal_comment": "möglicherweise der Vater von Anna Maria v.H., die dort Hoffräulein ist und 1687 einen Hompesch heiratet",
+    "internal_comment": "unidentifziert\nmöglicherweise der Vater von Anna Maria v.H., die dort Hoffräulein ist und 1687 einen Hompesch heiratet",
     "color": "",
     "lebensdaten": "",
     "ndb": "",
@@ -6938,11 +6938,11 @@
   "298": {
     "id": 298,
     "order": "298.00000000000000000000",
-    "name": "András Sebestyéni",
+    "name": "Sebestyéni, András",
     "gnd": "",
     "other_url": "https://www.uni-miskolc.hu/~bolweb/dok/varikotet/05-gyulai-eva.pdf",
     "emt_id": "emt_person_id__298",
-    "internal_comment": "https://pau.krakow.pl/ANP/ANP_XXXIV_6_2008.pdf",
+    "internal_comment": "https://pau.krakow.pl/ANP/ANP_XXXIV_6_2008.pdf:\nAndreas Sebestyéni ( 1 IV 1683), praepositus capituli Scepusiensis; ab imperatore\ndioecesis Albae Iulia (vel Transilvaniae) rector nominatus est; secundum Ritzlerum et Sefrinum\nSedes Apostolica in eum locum delegavit vicarium apostolicum, Gams autem putat Andream\nSebestyéni epum Albae Iuliae annis 16791683 fuisse, qui tamen a Roma non est comprobatus.\nImperator eo usus est in colloquiis cum gravibus Hungaris habendis (e.g. mense Aprili anno\n1683 una cum comite Saponara cum Emerico Thököly in oppido Kapos collocutus est); mense\nIanuario a. 1683 concilio ordinum Hungaricorum ab Emerico Thököly Cassoviae convocato\npraeesse coepit. Mense Martio a. 1683 Thököly eum ac Ioannem Görgei colloquiis cum Ioanne\nIII habendis delegavit, sed Sebestyéni prius obiit, ante in Poloniam profectus esset; cf. Ritzler-\nSefrin HC, p. 385; Gams, p. 382; Renner, p. 53, 170–172. Forst Battaglia (p. 189) falso tradit\nAndream Sebestyéni cum Ioanne Görgei Varsaviam venisse.",
     "color": "",
     "lebensdaten": "",
     "ndb": "",
@@ -6956,7 +6956,7 @@
     "birth_date_written": "",
     "death_date_written": "",
     "Geschlecht": null,
-    "Funktionsbezeichnungen": null,
+    "Funktionsbezeichnungen": "Probst des Zipser Kapitels",
     "Titel": null
   },
   "299": {
@@ -6966,7 +6966,7 @@
     "gnd": "",
     "other_url": "",
     "emt_id": "emt_person_id__299",
-    "internal_comment": "auf ihn vertraut EMT hinsichtlich des erfolges des ungarischen Landtages - völlig unklar, vielleicht ist Jesus gemeint - oder Marco d'Aviano??",
+    "internal_comment": "unidentifiziert\nauf ihn vertraut EMT hinsichtlich des erfolges des ungarischen Landtages - völlig unklar, vielleicht ist Jesus gemeint - oder Marco d'Aviano??",
     "color": "",
     "lebensdaten": "",
     "ndb": "",
@@ -7005,12 +7005,12 @@
     "death_date_written": "",
     "Geschlecht": null,
     "Funktionsbezeichnungen": null,
-    "Titel": null
+    "Titel": "Königin"
   },
   "301": {
     "id": 301,
     "order": "301.00000000000000000000",
-    "name": "Anselm Franz von Ingelheim, Kurfürst von Mainz",
+    "name": "Ingelheim, Anselm Franz von",
     "gnd": "http://d-nb.info/118971344",
     "other_url": "",
     "emt_id": "emt_person_id__301",
@@ -7028,8 +7028,8 @@
     "birth_date_written": "",
     "death_date_written": "",
     "Geschlecht": null,
-    "Funktionsbezeichnungen": null,
-    "Titel": null
+    "Funktionsbezeichnungen": "Erzbischof und Kurfürst von Mainz",
+    "Titel": "Kurfürst"
   },
   "302": {
     "id": 302,
@@ -7038,7 +7038,7 @@
     "gnd": "",
     "other_url": "",
     "emt_id": "emt_person_id__302",
-    "internal_comment": "führt im Auftrag der Kaiserin-Witwe in Wien einen ungarischen Tanz auf",
+    "internal_comment": "unidentifiziert\nführt im Auftrag der Kaiserin-Witwe in Wien einen ungarischen Tanz auf",
     "color": "",
     "lebensdaten": "",
     "ndb": "",

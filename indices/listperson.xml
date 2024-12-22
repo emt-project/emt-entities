@@ -345,6 +345,7 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                      <date notBefore="1717-01-01" notAfter="1717-12-31">1717</date>
                   </death>
                   <idno type="WIKIDATA">http://www.wikidata.org/entity/Q16006181</idno>
+                  <idno type="URL">https://de.wikipedia.org/wiki/Jakob_von_Hamilton#Familie</idno>
                </person>
                <person xml:id="emt_person_id__24">
                   <persName>Bayern, Joseph Clemens von</persName>
@@ -1934,10 +1935,15 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                   </death>
                   <idno type="GND">https://d-nb.info/gnd/136092829</idno>
                   <idno type="NDB">https://www.deutsche-biographie.de/sfz23228.html</idno>
+                  <idno type="WIKIDATA">http://www.wikidata.org/entity/Q21069432</idno>
                   <idno type="URL">https://kaiserhof.geschichte.lmu.de/19380</idno>
+                  <figure>
+                     <graphic url="emt_person_id__173.jpg"/>
+                     <caption>Philipp Sigmund Dietrichstein (1651–1716).jpg</caption>
+                  </figure>
                </person>
                <person xml:id="emt_person_id__174">
-                  <persName>Charlotte von der Pfalz, geb. Hessen-Kassel</persName>
+                  <persName>Pfalz-Simmern, Charlotte von, geb. Hessen-Kassel</persName>
                   <birth>
                      <date notBefore="1627-01-01" notAfter="1627-12-31">1627</date>
                   </birth>
@@ -1953,7 +1959,7 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                   </figure>
                </person>
                <person xml:id="emt_person_id__175">
-                  <persName>Michael Kasimir Radziwill</persName>
+                  <persName>Radziwill, Michael Kasimir</persName>
                   <birth>
                      <date notBefore="1635-01-01" notAfter="1635-12-31">1635</date>
                   </birth>
@@ -1971,10 +1977,10 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                   <persName>Offizial, für den EMT eine Empfehlung abgeben soll 1678</persName>
                </person>
                <person xml:id="emt_person_id__178">
-                  <persName>Schwerin, an ihn oder sie soll EMT das Fräulein Egloff empfehlen 1678</persName>
+                  <persName>Schwerin, NN 1678</persName>
                </person>
                <person xml:id="emt_person_id__179">
-                  <persName>Christoph Johann von Althann, Oberstkuchelmeister</persName>
+                  <persName>Althann, Christoph Johann von</persName>
                   <birth>
                      <date notBefore="1633-01-01" notAfter="1633-12-31">1633</date>
                   </birth>
@@ -1985,7 +1991,7 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                   <idno type="NDB">https://www.deutsche-biographie.de/pnd1218005602.html#indexcontent</idno>
                </person>
                <person xml:id="emt_person_id__180">
-                  <persName>Heinrich Franz von Mansfeld, 1690 Fürst von Fondi</persName>
+                  <persName>Mansfeld, Heinrich Franz von</persName>
                   <birth>
                      <date notBefore="1640-01-01" notAfter="1640-12-31">1640</date>
                   </birth>
@@ -2004,7 +2010,7 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                   <persName>Spiring, Baron von, Kämmerer PWs 1678</persName>
                </person>
                <person xml:id="emt_person_id__183">
-                  <persName>Serin, Freiherr von, Kämmerer PWs 1678</persName>
+                  <persName>Serin / Serni, Freiherr von, Kämmerer PWs 1678</persName>
                </person>
                <person xml:id="emt_person_id__184">
                   <persName>Kollonitsch, Fräulein, soll 1678 Hoffräulein werden</persName>
@@ -2013,7 +2019,7 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                   <persName>kaiserlicher Abgesandter zu den Rebellen in Ungarn 1678</persName>
                </person>
                <person xml:id="emt_person_id__186">
-                  <persName>Otto Heinrich Caretto di Grana</persName>
+                  <persName>Caretto di Grana, Otto Heinrich</persName>
                   <birth>
                      <date notBefore="1639-01-01" notAfter="1639-12-31">1639</date>
                   </birth>
@@ -2024,7 +2030,7 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                   <idno type="NDB">https://www.deutsche-biographie.de/pnd116821523.html#indexcontent</idno>
                </person>
                <person xml:id="emt_person_id__187">
-                  <persName>Christoph Ignaz Abele, Hofkammerpräsident</persName>
+                  <persName>Abele, Christoph Ignaz</persName>
                   <birth>
                      <date notBefore="1627-01-01" notAfter="1627-12-31">1627</date>
                   </birth>
@@ -2035,7 +2041,7 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                   <idno type="NDB">https://www.deutsche-biographie.de/sfz57.html#indexcontent</idno>
                </person>
                <person xml:id="emt_person_id__188">
-                  <persName>Johann Georg III. von Sachsen, Kurfürst</persName>
+                  <persName>Sachsen, Johann Georg III. von</persName>
                   <birth>
                      <date notBefore="1647-01-01" notAfter="1647-12-31">1647</date>
                   </birth>
@@ -2046,7 +2052,7 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                   <idno type="NDB">https://www.deutsche-biographie.de/sfz37575.html#indexcontent</idno>
                </person>
                <person xml:id="emt_person_id__189">
-                  <persName>Franz Ernst von Fugger, Hofmeister</persName>
+                  <persName>Fugger von Kirchheim und Weißenhorn, Franz Ernst</persName>
                   <birth>
                      <date notBefore="1648-01-01" notAfter="1648-12-31">1648</date>
                   </birth>
@@ -2057,10 +2063,10 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                   <idno type="NDB">https://www.deutsche-biographie.de/sfz18002.html</idno>
                </person>
                <person xml:id="emt_person_id__190">
-                  <persName>Marta Glass, Hebamme</persName>
+                  <persName>Glass, Marta</persName>
                </person>
                <person xml:id="emt_person_id__191">
-                  <persName>Wolfgang von Oettingen-Wallerstein, Reichshofratspräsident</persName>
+                  <persName>Oettingen-Wallerstein, Wolfgang von</persName>
                   <birth>
                      <date notBefore="1626-01-01" notAfter="1626-12-31">1626</date>
                   </birth>
@@ -2077,7 +2083,7 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                   <persName>Rappach, Gräfin, 1679</persName>
                </person>
                <person xml:id="emt_person_id__194">
-                  <persName>Juan José de Austria</persName>
+                  <persName>Austria, Juan José de</persName>
                   <birth>
                      <date notBefore="1629-01-01" notAfter="1629-12-31">1629</date>
                   </birth>
@@ -2091,7 +2097,7 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                   <persName>Sekretär von Kaiserin-Witwe Eleonora Gonzaga-Nevers 1679</persName>
                </person>
                <person xml:id="emt_person_id__196">
-                  <persName>Paulinus Mayr, Fürstbischof von Brixen</persName>
+                  <persName>Mayr, Paulinus</persName>
                   <birth>
                      <date notBefore="1628-01-01" notAfter="1628-12-31">1628</date>
                   </birth>
@@ -2107,13 +2113,13 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                   </figure>
                </person>
                <person xml:id="emt_person_id__197">
-                  <persName>Entler 1679</persName>
+                  <persName>Entler, NN 1679</persName>
                </person>
                <person xml:id="emt_person_id__198">
-                  <persName>Jordan, Leibarzt in Wien 1679</persName>
+                  <persName>Jordan, NN 1679</persName>
                </person>
                <person xml:id="emt_person_id__199">
-                  <persName>Johann Heinrich von Galen</persName>
+                  <persName>Galen, Johann Heinrich von ?</persName>
                   <birth>
                      <date notBefore="1609-01-01" notAfter="1609-12-31">1609</date>
                   </birth>
@@ -2125,7 +2131,7 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                   <idno type="WIKIDATA">http://www.wikidata.org/entity/Q56604694</idno>
                </person>
                <person xml:id="emt_person_id__200">
-                  <persName>Maria Elisabeth von Mansfeld, geb. Harrach</persName>
+                  <persName>Mansfeld, Maria Elisabeth von, geb. Harrach</persName>
                   <birth>
                      <date notBefore="1643-01-01" notAfter="1643-12-31">1643</date>
                   </birth>
@@ -2141,11 +2147,11 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                   <persName>Barbier Philipp Wilhelms 1679</persName>
                </person>
                <person xml:id="emt_person_id__203">
-                  <persName>Maria Theresia von Rappach, geb. Brandis</persName>
+                  <persName>Rappach, Maria Theresia von, geb. Brandis</persName>
                   <idno type="URL">http://www.wikidata.org/entity/Q108927109</idno>
                </person>
                <person xml:id="emt_person_id__204">
-                  <persName>Franz Joseph von Lamberg</persName>
+                  <persName>Lamberg, Franz Joseph von</persName>
                   <birth>
                      <date notBefore="1638-01-01" notAfter="1638-12-31">1638</date>
                   </birth>
@@ -2171,7 +2177,7 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                   <idno type="URL">https://persondata.toolforge.org/p/Elisabeth_Luisa_von_Portugal</idno>
                </person>
                <person xml:id="emt_person_id__206">
-                  <persName>Vittorio Amadeo II. von Savoyen</persName>
+                  <persName>Savoyen, Vittorio Amadeo II. von</persName>
                   <birth>
                      <date notBefore="1666-01-01" notAfter="1666-12-31">1666</date>
                   </birth>
@@ -2189,13 +2195,20 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                   <persName>Bruder des Grafen von Oettingen 1679</persName>
                </person>
                <person xml:id="emt_person_id__208">
-                  <persName>Wangen, Deutschordensritter und Vertrauter des Deutschmeisters Ampringen</persName>
+                  <persName>Wangen, Franz Christoph von</persName>
+                  <birth>
+                     <date notBefore="1629-01-01" notAfter="1629-12-31">1629</date>
+                  </birth>
+                  <death>
+                     <date notBefore="1680-01-01" notAfter="1680-12-31">1680</date>
+                  </death>
+                  <idno type="URL">https://de.wikisource.org/wiki/BLK%C3%96:Wangen_die_Freiherren_von,_Genealogie</idno>
                </person>
                <person xml:id="emt_person_id__209">
-                  <persName>Pater Isidorus</persName>
+                  <persName>Isidorus</persName>
                </person>
                <person xml:id="emt_person_id__210">
-                  <persName>Paolo Spinola, Marques de los Balbases</persName>
+                  <persName>Spinola de los Balbases, Paolo</persName>
                   <birth>
                      <date notBefore="1628-01-01" notAfter="1628-12-31">1628</date>
                   </birth>
@@ -2210,7 +2223,7 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                   </figure>
                </person>
                <person xml:id="emt_person_id__211">
-                  <persName>Friedrich Wilhelm, Kurfürst von Brandenburg</persName>
+                  <persName>Brandenburg-Preußen, Friedrich Wilhelm von</persName>
                   <birth>
                      <date notBefore="1620-01-01" notAfter="1620-12-31">1620</date>
                   </birth>
@@ -2226,17 +2239,10 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                   </figure>
                </person>
                <person xml:id="emt_person_id__212">
-                  <persName>Franz Christoph von Wangen</persName>
-                  <birth>
-                     <date notBefore="1629-01-01" notAfter="1629-12-31">1629</date>
-                  </birth>
-                  <death>
-                     <date notBefore="1680-01-01" notAfter="1680-12-31">1680</date>
-                  </death>
-                  <idno type="URL">https://de.wikisource.org/wiki/BLK%C3%96:Wangen_die_Freiherren_von,_Genealogie</idno>
+                  <persName/>
                </person>
                <person xml:id="emt_person_id__213">
-                  <persName>Louis Verjus, comte de Crécy</persName>
+                  <persName>Crécy, Louis Verjus de</persName>
                   <birth>
                      <date notBefore="1629-01-01" notAfter="1629-12-31">1629</date>
                   </birth>
@@ -2268,7 +2274,7 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                   </figure>
                </person>
                <person xml:id="emt_person_id__215">
-                  <persName>Humprecht Johann Czernin</persName>
+                  <persName>Czernin, Humprecht Johann</persName>
                   <birth>
                      <date notBefore="1628-01-01" notAfter="1628-12-31">1628</date>
                   </birth>
@@ -2287,7 +2293,7 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                   <persName>Erzbischof, der ein Archidiakonat verleiht, das Juan José de Austria inne hatte</persName>
                </person>
                <person xml:id="emt_person_id__217">
-                  <persName>Ascanio Giustinian, venezianischer Botschafter</persName>
+                  <persName>Giustinian, Ascanio</persName>
                   <birth>
                      <date notBefore="1640-01-01" notAfter="1640-12-31">1640</date>
                   </birth>
@@ -2297,7 +2303,7 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                   <idno type="URL">https://www.treccani.it/enciclopedia/giustinian-ascanio-detto-giulio_(Dizionario-Biografico)/?search=GIUSTINIAN%2C%20Ascanio%2C%20detto%20Giulio</idno>
                </person>
                <person xml:id="emt_person_id__219">
-                  <persName>Innozenz IX. (Odeschalchi), Papst</persName>
+                  <persName>Innozenz IX. (Odeschalchi)</persName>
                   <birth>
                      <date notBefore="1611-01-01" notAfter="1611-12-31">1611</date>
                   </birth>
@@ -2316,7 +2322,7 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                   <persName>Mutter Euphrasia, Äbtissin in Wien 1679</persName>
                </person>
                <person xml:id="emt_person_id__221">
-                  <persName>Diego Antonio Felicio de Croy y Peralta Marques de Falces, spanischer Botschafter</persName>
+                  <persName>Falces, Diego Antonio Felicio de Croy y Peralta de</persName>
                   <birth>
                      <date notBefore="1618-01-01" notAfter="1618-12-31">1618</date>
                   </birth>
@@ -2326,21 +2332,22 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                   <idno type="URL">https://dbe.rah.es/biografias/42201/diego-antonio-felicio-de-croy-y-peralta</idno>
                </person>
                <person xml:id="emt_person_id__222">
-                  <persName>Franz von Welden</persName>
+                  <persName>Welden, Franz von</persName>
                </person>
                <person xml:id="emt_person_id__223">
-                  <persName>Maria Sophie von Hamilton, geb. Weichs</persName>
+                  <persName>Hamilton, Maria Sophie von, geb. Weichs</persName>
                   <death>
                      <date notBefore="1698-01-01" notAfter="1698-12-31">1698</date>
                   </death>
+                  <idno type="URL">https://de.wikipedia.org/wiki/Jakob_von_Hamilton#Familie</idno>
                </person>
                <person xml:id="emt_person_id__224">
-                  <persName>Magdalen Bedingfield OCarm</persName>
+                  <persName>Bedingfield, Magdalen OCarm</persName>
                   <birth>
-                     <date notBefore="1621-01-01" notAfter="1621-12-31">1621</date>
+                     <date notBefore="1620-01-01" notAfter="1620-12-31">1620</date>
                   </birth>
                   <death>
-                     <date notBefore="1684-01-01" notAfter="1684-12-31">1684</date>
+                     <date notBefore="1683-01-01" notAfter="1683-12-31">1683</date>
                   </death>
                   <idno type="URL">https://wwtn.history.qmul.ac.uk/search/csearch.php?uid=AC013</idno>
                </person>
@@ -2348,10 +2355,10 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                   <persName>Jägermeister, der PW oder JW gut gedient hat</persName>
                </person>
                <person xml:id="emt_person_id__226">
-                  <persName>Meyr</persName>
+                  <persName>Meyr, NN 1680</persName>
                </person>
                <person xml:id="emt_person_id__227">
-                  <persName>Nicolas Cotoner y de Oleza, Großmeister des Johanniterordens</persName>
+                  <persName>Cotoner y de Oleza, Nicolas</persName>
                   <birth>
                      <date notBefore="1608-01-01" notAfter="1608-12-31">1608</date>
                   </birth>
@@ -2365,7 +2372,7 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                   </figure>
                </person>
                <person xml:id="emt_person_id__228">
-                  <persName>Johann Maximilian von Lamberg, Obersthofmeister Leopolds I.</persName>
+                  <persName>Lamberg, Johann Maximilian von</persName>
                   <birth>
                      <date notBefore="1608-01-01" notAfter="1608-12-31">1608</date>
                   </birth>
@@ -2381,7 +2388,7 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                   </figure>
                </person>
                <person xml:id="emt_person_id__229">
-                  <persName>Julius Franz von Sachsen-Lauenburg</persName>
+                  <persName>Sachsen-Lauenburg, Julius Franz von</persName>
                   <birth>
                      <date notBefore="1641-01-01" notAfter="1641-12-31">1641</date>
                   </birth>
@@ -2397,24 +2404,13 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                   </figure>
                </person>
                <person xml:id="emt_person_id__230">
-                  <persName>Wirts, Arzt</persName>
+                  <persName>Wirts, NN</persName>
                </person>
                <person xml:id="emt_person_id__231">
-                  <persName>Philipp Sigmund von Dietrichstein</persName>
-                  <birth>
-                     <date notBefore="1651-01-01" notAfter="1651-12-31">1651</date>
-                  </birth>
-                  <death>
-                     <date notBefore="1716-01-01" notAfter="1716-12-31">1716</date>
-                  </death>
-                  <idno type="WIKIDATA">http://www.wikidata.org/entity/Q21069432</idno>
-                  <figure>
-                     <graphic url="emt_person_id__231.jpg"/>
-                     <caption>Philipp Sigmund Dietrichstein (1651–1716).jpg</caption>
-                  </figure>
+                  <persName/>
                </person>
                <person xml:id="emt_person_id__232">
-                  <persName>Johann Quintin Jörger von Tollet</persName>
+                  <persName>Jörger von Tollet, Johann Quintin</persName>
                   <birth>
                      <date notBefore="1624-01-01" notAfter="1624-12-31">1624</date>
                   </birth>
@@ -2426,7 +2422,7 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                   <idno type="WIKIDATA">http://www.wikidata.org/entity/Q19816894</idno>
                </person>
                <person xml:id="emt_person_id__233">
-                  <persName>Johann Peter Jörger von Tollet</persName>
+                  <persName>Jörger von Tollet, Johann Peter</persName>
                   <birth>
                      <date notBefore="1656-01-01" notAfter="1656-12-31">1656</date>
                   </birth>
@@ -2439,7 +2435,7 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                   <persName>Santi, Tanzmeister in Wien</persName>
                </person>
                <person xml:id="emt_person_id__236">
-                  <persName>Gundakar von Dietrichstein, Oberstkämmerer Leopolds I.</persName>
+                  <persName>Dietrichstein, Gundakar von</persName>
                   <birth>
                      <date notBefore="1623-01-01" notAfter="1623-12-31">1623</date>
                   </birth>
@@ -2454,7 +2450,7 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                   </figure>
                </person>
                <person xml:id="emt_person_id__237">
-                  <persName>Friedrich I. von Sachsen-Gotha-Altenburg</persName>
+                  <persName>Sachsen-Gotha-Altenburg, Friedrich I. von</persName>
                   <birth>
                      <date notBefore="1646-01-01" notAfter="1646-12-31">1646</date>
                   </birth>
@@ -2470,7 +2466,7 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                   </figure>
                </person>
                <person xml:id="emt_person_id__238">
-                  <persName>Johann Friedrich von Brandenburg-Ansbach</persName>
+                  <persName>Brandenburg-Ansbach, Johann Friedrich von</persName>
                   <birth>
                      <date notBefore="1654-01-01" notAfter="1654-12-31">1654</date>
                   </birth>
@@ -2486,7 +2482,7 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                   </figure>
                </person>
                <person xml:id="emt_person_id__239">
-                  <persName>Johann Ferdinand von Yrsch</persName>
+                  <persName>Yrsch, Johann Ferdinand von</persName>
                   <birth>
                      <date notBefore="1667-01-01" notAfter="1667-12-31">1667</date>
                   </birth>
@@ -2494,7 +2490,7 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                   <idno type="NDB">https://www.deutsche-biographie.de/pnd1011571021.html#indexcontent</idno>
                </person>
                <person xml:id="emt_person_id__240">
-                  <persName>Maria Anna von Bayern, Dauphine</persName>
+                  <persName>Frankreich, Maria Anna von, geb. Bayern</persName>
                   <birth>
                      <date notBefore="1660-01-01" notAfter="1660-12-31">1660</date>
                   </birth>
@@ -2505,7 +2501,7 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                   <idno type="NDB">https://www.deutsche-biographie.de/sfz58314.html</idno>
                </person>
                <person xml:id="emt_person_id__241">
-                  <persName>Laics, Pater</persName>
+                  <persName>Laics, NN Pater</persName>
                </person>
                <person xml:id="emt_person_id__242">
                   <persName>Markgräfin, die im April 1680 in Prag Audienz bei EMT hat</persName>
@@ -2517,7 +2513,7 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                   <persName>Schwiegersohn des Hofkanzlers Hocher</persName>
                </person>
                <person xml:id="emt_person_id__245">
-                  <persName>Marie Hedwig von Sachsen-Meiningen, geb. Hessen-Darmstadt</persName>
+                  <persName>Sachsen-Meiningen, Marie Hedwig von, geb. Hessen-Darmstadt</persName>
                   <birth>
                      <date notBefore="1647-01-01" notAfter="1647-12-31">1647</date>
                   </birth>
@@ -2533,13 +2529,13 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                   </figure>
                </person>
                <person xml:id="emt_person_id__246">
-                  <persName>Fräulein von Auersperg</persName>
+                  <persName>Auersperg, NN von 1680</persName>
                </person>
                <person xml:id="emt_person_id__247">
                   <persName>Pater Guardian</persName>
                </person>
                <person xml:id="emt_person_id__248">
-                  <persName>Albrecht, Erzherzog</persName>
+                  <persName>Österreich, Albrecht von</persName>
                   <birth>
                      <date notBefore="1559-01-01" notAfter="1559-12-31">1559</date>
                   </birth>
@@ -2555,7 +2551,7 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                   </figure>
                </person>
                <person xml:id="emt_person_id__249">
-                  <persName>Infantin Isabella Clara Eugenia</persName>
+                  <persName>Österreich, Isabella Clara Eugenia von, geb. Spanien</persName>
                   <birth>
                      <date notBefore="1566-01-01" notAfter="1566-12-31">1566</date>
                   </birth>
@@ -2571,7 +2567,7 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                   </figure>
                </person>
                <person xml:id="emt_person_id__250">
-                  <persName>Leopold Wilhelm, Erzherzog</persName>
+                  <persName>Österreich, Leopold Wilhelm von</persName>
                   <birth>
                      <date notBefore="1614-01-01" notAfter="1614-12-31">1614</date>
                   </birth>
@@ -2587,7 +2583,13 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                   </figure>
                </person>
                <person xml:id="emt_person_id__251">
-                  <persName>Sauter, Beichtvater EMT ab 1680</persName>
+                  <persName>Sauter, Michael SJ ?</persName>
+                  <birth>
+                     <date notBefore="1618-01-01" notAfter="1618-12-31">1618</date>
+                  </birth>
+                  <death>
+                     <date notBefore="1684-01-01" notAfter="1684-12-31">1684</date>
+                  </death>
                </person>
                <person xml:id="emt_person_id__252">
                   <persName>Philipp IV. von Spanien</persName>
@@ -2606,7 +2608,7 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                   </figure>
                </person>
                <person xml:id="emt_person_id__253">
-                  <persName>Marco d'Aviano OFMCap.</persName>
+                  <persName>Aviano, Marco de OFMCap.</persName>
                   <birth>
                      <date notBefore="1631-01-01" notAfter="1631-12-31">1631</date>
                   </birth>
@@ -2622,22 +2624,28 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                   </figure>
                </person>
                <person xml:id="emt_person_id__254">
-                  <persName>Johann Christoph von Freyberg, Bischof von Augsburg</persName>
+                  <persName>Freyberg, Johann Christoph von</persName>
+                  <birth>
+                     <date notBefore="1616-01-01" notAfter="1616-12-31">1616</date>
+                  </birth>
+                  <death>
+                     <date notBefore="1690-01-01" notAfter="1690-12-31">1690</date>
+                  </death>
                   <idno type="GND">https://d-nb.info/gnd/102375526</idno>
                   <idno type="NDB">https://www.deutsche-biographie.de/sfz19192.html#indexcontent</idno>
                   <idno type="WIKIDATA">http://www.wikidata.org/entity/Q1693099</idno>
                </person>
                <person xml:id="emt_person_id__255">
-                  <persName>Herr von Stadion</persName>
+                  <persName>Stadion, NN von 1680</persName>
                </person>
                <person xml:id="emt_person_id__256">
-                  <persName>Jean de Rougemont, Resident in Brüssel</persName>
+                  <persName>Rougemont, Jean de</persName>
                </person>
                <person xml:id="emt_person_id__257">
-                  <persName>Roßeler / Raßeler</persName>
+                  <persName>Roßeler / Raßeler, NN 1680</persName>
                </person>
                <person xml:id="emt_person_id__258">
-                  <persName>Johann Hartwig von Nostitz-Rieneck, Oberstkanzler in Böhmen</persName>
+                  <persName>Nostitz-Rieneck, Johann Hartwig von</persName>
                   <birth>
                      <date notBefore="1610-01-01" notAfter="1610-12-31">1610</date>
                   </birth>
@@ -2648,7 +2656,7 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                   <idno type="NDB">https://www.deutsche-biographie.de/sfz72468.html#indexcontent</idno>
                </person>
                <person xml:id="emt_person_id__259">
-                  <persName>Alessandro Farnese</persName>
+                  <persName>Farnese, Alessandro</persName>
                   <birth>
                      <date notBefore="1635-01-01" notAfter="1635-12-31">1635</date>
                   </birth>
@@ -2664,7 +2672,7 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                   </figure>
                </person>
                <person xml:id="emt_person_id__260">
-                  <persName>Leopold I. von Lothringen</persName>
+                  <persName>Lothringen, Leopold I. von</persName>
                   <birth>
                      <date notBefore="1679-01-01" notAfter="1679-12-31">1679</date>
                   </birth>
@@ -2680,16 +2688,20 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                   </figure>
                </person>
                <person xml:id="emt_person_id__261">
-                  <persName>Flori 1680</persName>
+                  <persName>Flori, NN 1680</persName>
                </person>
                <person xml:id="emt_person_id__262">
-                  <persName>Hompesch, Offizier 1680</persName>
+                  <persName>Hompesch zu Bollheim, Philipp Werner von ?</persName>
+                  <death>
+                     <date notBefore="1683-01-01" notAfter="1683-12-31">1683</date>
+                  </death>
+                  <idno type="URL">https://de.wikipedia.org/wiki/Hompesch_(Adelsgeschlecht)</idno>
                </person>
                <person xml:id="emt_person_id__263">
-                  <persName>Freiberg, Herr von</persName>
+                  <persName/>
                </person>
                <person xml:id="emt_person_id__264">
-                  <persName>Katharina Elisabeth Pálffy, geb. Weichs</persName>
+                  <persName>Pálffy, Katharina Elisabeth, geb. Weichs</persName>
                   <death>
                      <date notBefore="1724-01-01" notAfter="1724-12-31">1724</date>
                   </death>
@@ -2697,7 +2709,7 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                   <idno type="URL">https://de.rodovid.org/wk/Person:829987</idno>
                </person>
                <person xml:id="emt_person_id__265">
-                  <persName>Raimondo Montecuccoli</persName>
+                  <persName>Montecuccoli, Raimondo</persName>
                   <birth>
                      <date notBefore="1609-01-01" notAfter="1609-12-31">1609</date>
                   </birth>
@@ -2713,28 +2725,28 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                   </figure>
                </person>
                <person xml:id="emt_person_id__266">
-                  <persName>Bekh, Herr von</persName>
+                  <persName>Bekh, NN von</persName>
                </person>
                <person xml:id="emt_person_id__267">
-                  <persName>Drezelin, Herr</persName>
+                  <persName>Drezelin, NN</persName>
                </person>
                <person xml:id="emt_person_id__268">
-                  <persName>Pater Crescentius</persName>
+                  <persName>Crescentius</persName>
                </person>
                <person xml:id="emt_person_id__269">
-                  <persName>Lorenz Stuber, Doktor</persName>
+                  <persName>Stuber, Lorenz</persName>
                   <death>
                      <date notBefore="1684-01-01" notAfter="1684-12-31">1684</date>
                   </death>
                </person>
                <person xml:id="emt_person_id__270">
-                  <persName>Oettingen, Graf 1681</persName>
+                  <persName>Oettingen, NN von 1681</persName>
                </person>
                <person xml:id="emt_person_id__271">
                   <persName>Hofmeisterin, die in Neuburg angekommen ist 1681</persName>
                </person>
                <person xml:id="emt_person_id__272">
-                  <persName>Eleonore Erdmuthe von Sachsen-Eisenach, vereh. Brandenburg-Ansbach bzw. Sachsen</persName>
+                  <persName>Sachsen-Eisenach, Eleonore Erdmuthe von, vereh. Brandenburg-Ansbach, vereh. Sachsen</persName>
                   <birth>
                      <date notBefore="1662-01-01" notAfter="1662-12-31">1662</date>
                   </birth>
@@ -2750,7 +2762,7 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                   </figure>
                </person>
                <person xml:id="emt_person_id__273">
-                  <persName>Ferdinand von Fürstenberg, Bischof von Münster</persName>
+                  <persName>Fürstenberg, Ferdinand von</persName>
                   <birth>
                      <date notBefore="1626-01-01" notAfter="1626-12-31">1626</date>
                   </birth>
@@ -2766,7 +2778,7 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                   </figure>
                </person>
                <person xml:id="emt_person_id__274">
-                  <persName>Gabriel Oxenstierna, schwedischer Botschafter</persName>
+                  <persName>Oxenstierna, Gabriel</persName>
                   <birth>
                      <date notBefore="1642-01-01" notAfter="1642-12-31">1642</date>
                   </birth>
@@ -2777,7 +2789,7 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                   <idno type="URL">https://sv.wikipedia.org/wiki/Gabriel_Oxenstierna_(1642%E2%80%931707)</idno>
                </person>
                <person xml:id="emt_person_id__275">
-                  <persName>Sophie Charlotte von Braunschweig-Hannover, vereh. Brandenburg-Preußen</persName>
+                  <persName>Braunschweig-Hannover, Sophie Charlotte von, vereh. Brandenburg-Preußen</persName>
                   <birth>
                      <date notBefore="1668-01-01" notAfter="1668-12-31">1668</date>
                   </birth>
@@ -2788,13 +2800,13 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                   <idno type="NDB">https://www.deutsche-biographie.de/sfz22668.html#indexcontent</idno>
                </person>
                <person xml:id="emt_person_id__276">
-                  <persName>Pater Cosmo / Cosmas</persName>
+                  <persName>Cosmo / Cosmas</persName>
                </person>
                <person xml:id="emt_person_id__277">
-                  <persName>Pater Jochem (Joachim)</persName>
+                  <persName>Jochem (Joachim)</persName>
                </person>
                <person xml:id="emt_person_id__278">
-                  <persName>Paul Eszterházy, Palatin</persName>
+                  <persName>Eszterházy, Paul</persName>
                   <birth>
                      <date notBefore="1635-01-01" notAfter="1635-12-31">1635</date>
                   </birth>
@@ -2810,7 +2822,7 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                   </figure>
                </person>
                <person xml:id="emt_person_id__279">
-                  <persName>Adam Forgách</persName>
+                  <persName>Forgách, Adam</persName>
                   <birth>
                      <date notBefore="1601-01-01" notAfter="1601-12-31">1601</date>
                   </birth>
@@ -2826,7 +2838,7 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                   </figure>
                </person>
                <person xml:id="emt_person_id__280">
-                  <persName>Stephan der Heilige, König in Ungarn</persName>
+                  <persName>Stephan (der Heilige) von Ungarn</persName>
                   <birth>
                      <date notBefore="0969-01-01" notAfter="0969-12-31">969</date>
                   </birth>
@@ -2845,13 +2857,20 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                   <persName>Resident des Deutschmeisters in Wien 1681</persName>
                </person>
                <person xml:id="emt_person_id__282">
-                  <persName>Stadl, militärischer Befehlshaber 1681</persName>
+                  <persName>Stadl, Ferdinand von ?</persName>
+                  <birth>
+                     <date notBefore="1643-01-01" notAfter="1643-12-31">1643</date>
+                  </birth>
+                  <death>
+                     <date notBefore="1694-01-01" notAfter="1694-12-31">1694</date>
+                  </death>
+                  <idno type="URL">https://de.wikipedia.org/wiki/Stadl_(Adelsgeschlecht)#Familienmitglieder</idno>
                </person>
                <person xml:id="emt_person_id__283">
-                  <persName>Burg, Obrist</persName>
+                  <persName>Burg, NN, Obrist</persName>
                </person>
                <person xml:id="emt_person_id__285">
-                  <persName>Ferdinand Ernst von Mollard</persName>
+                  <persName>Mollard, Ferdinand Ernst von</persName>
                   <birth>
                      <date notBefore="1648-01-01" notAfter="1648-12-31">1648</date>
                   </birth>
@@ -2862,7 +2881,7 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                   <idno type="NDB">https://www.deutsche-biographie.de/pnd1041885512.html</idno>
                </person>
                <person xml:id="emt_person_id__286">
-                  <persName>Ferdinando Carlo Gonzaga-Nevers, Herzog von Mantua</persName>
+                  <persName>Mantua, Ferdinando Carlo Gonzaga-Nevers von</persName>
                   <birth>
                      <date notBefore="1652-01-01" notAfter="1652-12-31">1652</date>
                   </birth>
@@ -2874,7 +2893,7 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                   <idno type="URL">https://www.treccani.it/enciclopedia/ferdinando-carlo-gonzaga-nevers-duca-di-mantova-e-del-monferrato_(Dizionario-Biografico)/</idno>
                </person>
                <person xml:id="emt_person_id__287">
-                  <persName>François Michel Le Tellier, Marquis de Louvois</persName>
+                  <persName>Louvois, François Michel Le Tellier de</persName>
                   <birth>
                      <date notBefore="1639-01-01" notAfter="1639-12-31">1639</date>
                   </birth>
@@ -2890,11 +2909,11 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                   </figure>
                </person>
                <person xml:id="emt_person_id__288">
-                  <persName>Franz Michael Neveu von Windschläg, Resident des Kaisers in Straßburg 1681</persName>
+                  <persName>Neveu von Windschläg, Franz Michael</persName>
                   <idno type="URL">https://hls-dhs-dss.ch/de/articles/022061/2008-08-27/</idno>
                </person>
                <person xml:id="emt_person_id__289">
-                  <persName>Johann Balthasar von Hoyos</persName>
+                  <persName>Hoyos, Johann Balthasar von</persName>
                   <birth>
                      <date notBefore="1626-01-01" notAfter="1626-12-31">1626</date>
                   </birth>
@@ -2905,13 +2924,13 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                   <idno type="NDB">https://www.deutsche-biographie.de/pnd128978481.html#indexcontent</idno>
                </person>
                <person xml:id="emt_person_id__290">
-                  <persName>Machau, Herr von</persName>
+                  <persName>Machau, NN von 1681</persName>
                   <death>
                      <date notBefore="1681-01-01" notAfter="1681-12-31">1681</date>
                   </death>
                </person>
                <person xml:id="emt_person_id__291">
-                  <persName>Mario Alberizzi, Kardinal</persName>
+                  <persName>Alberizzi, Mario</persName>
                   <birth>
                      <date notBefore="1609-01-01" notAfter="1609-12-31">1609</date>
                   </birth>
@@ -2933,10 +2952,10 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                   <persName>Egloff, Herr, soll 1678 mit PW nach Wien reisen</persName>
                </person>
                <person xml:id="emt_person_id__294">
-                  <persName>Serni, Herr 1678</persName>
+                  <persName/>
                </person>
                <person xml:id="emt_person_id__295">
-                  <persName>Lemmel, Herr</persName>
+                  <persName>Lemmel, Herr, wird 1678 nicht mit PW nach Wien reisen</persName>
                </person>
                <person xml:id="emt_person_id__296">
                   <persName>Obersthofmeisterin 1678, wahrscheinlich der Herzogin von Pfalz-Neuburg</persName>
@@ -2945,7 +2964,7 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                   <persName>Herberstein, Herr, reist 1681 nach Neuburg</persName>
                </person>
                <person xml:id="emt_person_id__298">
-                  <persName>András Sebestyéni</persName>
+                  <persName>Sebestyéni, András</persName>
                   <death>
                      <date notBefore="1683-01-01" notAfter="1683-12-31">1683</date>
                   </death>
@@ -2971,7 +2990,7 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                   </figure>
                </person>
                <person xml:id="emt_person_id__301">
-                  <persName>Anselm Franz von Ingelheim, Kurfürst von Mainz</persName>
+                  <persName>Ingelheim, Anselm Franz von</persName>
                   <birth>
                      <date notBefore="1634-01-01" notAfter="1634-12-31">1634</date>
                   </birth>
