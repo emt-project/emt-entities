@@ -3336,9 +3336,6 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                   <death>
                      <date notBefore="1707-01-01" notAfter="1707-12-31">1707</date>
                   </death>
-                  <idno type="GND">https://d-nb.info/gnd/118729500</idno>
-                  <idno type="NDB">https://www.deutsche-biographie.de/sfz54702.html#indexcontent</idno>
-                  <idno type="WIKIDATA">http://www.wikidata.org/entity/Q58755</idno>
                   <figure>
                      <graphic url="emt_person_id__344.jpg"/>
                      <caption>Louis William (1655-1707).jpg</caption>
@@ -3930,6 +3927,9 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                </person>
                <person xml:id="emt_person_id__416">
                   <persName>Linzig, Herr 1683</persName>
+               </person>
+               <person xml:id="emt_person_id__417">
+                  <persName/>
                </person>
             </listPerson>
          </div>
