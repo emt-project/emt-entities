@@ -248,7 +248,7 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                   <idno type="GEONAMES">https://sws.geonames.org/2775220/</idno>
                </place>
                <place xml:id="emt_place_id__28">
-                  <placeName>Jankov</placeName>
+                  <placeName>Jankau / Jankov</placeName>
                   <location type="coords">
                      <geo>49.41509 15.386220</geo>
                   </location>
@@ -332,7 +332,7 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                   <idno type="GEONAMES">https://sws.geonames.org/2866070/</idno>
                </place>
                <place xml:id="emt_place_id__40">
-                  <placeName>Neustadt an der Haardt?</placeName>
+                  <placeName>Neustadt an der Haardt ?</placeName>
                   <location type="coords">
                      <geo>49.35009 8.138860</geo>
                   </location>
@@ -702,7 +702,7 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                   <idno type="GEONAMES">https://sws.geonames.org/2950159/</idno>
                </place>
                <place xml:id="emt_place_id__99">
-                  <placeName>Krakau</placeName>
+                  <placeName>Krakau / Kraków</placeName>
                   <location type="coords">
                      <geo>50.06143 19.936580</geo>
                   </location>
@@ -772,7 +772,7 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                   <idno type="GEONAMES">https://sws.geonames.org/2750053/</idno>
                </place>
                <place xml:id="emt_place_id__109">
-                  <placeName>Köln (Stadt)</placeName>
+                  <placeName>Köln</placeName>
                   <location type="coords">
                      <geo>50.93333 6.950000</geo>
                   </location>
@@ -808,7 +808,7 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                   <idno type="GEONAMES">https://sws.geonames.org/2660925/</idno>
                </place>
                <place xml:id="emt_place_id__115">
-                  <placeName>Trient (Stadt)</placeName>
+                  <placeName>Trient</placeName>
                   <location type="coords">
                      <geo>46.06787 11.121080</geo>
                   </location>
@@ -916,7 +916,7 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                   <idno type="GEONAMES">https://sws.geonames.org/2973783/</idno>
                </place>
                <place xml:id="emt_place_id__132">
-                  <placeName>Belgrad</placeName>
+                  <placeName>Belgrad / Beograd</placeName>
                   <location type="coords">
                      <geo>44.80401 20.465130</geo>
                   </location>
@@ -962,7 +962,7 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                   <idno type="GEONAMES">https://sws.geonames.org/2907068/</idno>
                </place>
                <place xml:id="emt_place_id__139">
-                  <placeName>Kladruby nad Labem</placeName>
+                  <placeName>Kladrub / Kladruby nad Labem</placeName>
                   <location type="coords">
                      <geo>50.05772 15.487090</geo>
                   </location>
@@ -1101,7 +1101,6 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                </place>
                <place xml:id="emt_place_id__158">
                   <placeName>Nordgau</placeName>
-                  <idno type="GND">https://d-nb.info/gnd/4293553-2</idno>
                </place>
                <place xml:id="emt_place_id__159">
                   <placeName>Kaisheim</placeName>
@@ -1140,7 +1139,7 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                   <placeName>Ort, an dem sich Vetter Philipp Ende 1681 aufhält</placeName>
                </place>
                <place xml:id="emt_place_id__165">
-                  <placeName>Bubensch, Tiergarten bei Brandeis</placeName>
+                  <placeName>Bubensch / Bubenec, Tiergarten</placeName>
                   <location type="coords">
                      <geo>50.10921 14.406600</geo>
                   </location>
@@ -1156,12 +1155,25 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                </place>
                <place xml:id="emt_place_id__168">
                   <placeName>Dänemark</placeName>
+                  <location type="coords">
+                     <geo>56.00000 10.000000</geo>
+                  </location>
+                  <idno type="GEONAMES">https://sws.geonames.org/2623032/</idno>
+                  <idno type="GND">https://d-nb.info/gnd/4010877-6</idno>
                </place>
                <place xml:id="emt_place_id__169">
                   <placeName>Wien, Fluss</placeName>
+                  <location type="coords">
+                     <geo>48.20880 16.384090</geo>
+                  </location>
+                  <idno type="GEONAMES">https://sws.geonames.org/2761368/</idno>
                </place>
                <place xml:id="emt_place_id__170">
                   <placeName>Wien, Schönbrunn</placeName>
+                  <location type="coords">
+                     <geo>48.18494 16.312290</geo>
+                  </location>
+                  <idno type="GEONAMES">https://sws.geonames.org/6354998/</idno>
                </place>
                <place xml:id="emt_place_id__171">
                   <placeName>Wien, großer Garten des Kaisers 1682</placeName>
@@ -1171,87 +1183,164 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                </place>
                <place xml:id="emt_place_id__173">
                   <placeName>Philippsburg</placeName>
+                  <location type="coords">
+                     <geo>49.23170 8.460740</geo>
+                  </location>
+                  <idno type="GEONAMES">https://sws.geonames.org/2853907/</idno>
                </place>
                <place xml:id="emt_place_id__174">
                   <placeName>Osmanisches Reich</placeName>
+                  <idno type="GND">https://d-nb.info/gnd/4075720-1</idno>
                </place>
                <place xml:id="emt_place_id__175">
                   <placeName>Neapel</placeName>
+                  <location type="coords">
+                     <geo>40.85216 14.268110</geo>
+                  </location>
+                  <idno type="GEONAMES">https://sws.geonames.org/3172394/</idno>
                </place>
                <place xml:id="emt_place_id__176">
                   <placeName>Persien</placeName>
+                  <idno type="GND">https://d-nb.info/gnd/4027653-3</idno>
                </place>
                <place xml:id="emt_place_id__177">
                   <placeName>Passau, Wallfahrtskirche Mariahilf</placeName>
+                  <location type="coords">
+                     <geo>48.56650 13.431220</geo>
+                  </location>
+                  <idno type="GEONAMES">https://sws.geonames.org/2855328/</idno>
                </place>
                <place xml:id="emt_place_id__178">
                   <placeName>Pfaffenhofen an der Ilm</placeName>
+                  <location type="coords">
+                     <geo>48.53053 11.505000</geo>
+                  </location>
+                  <idno type="GEONAMES">https://sws.geonames.org/2854386/</idno>
                </place>
                <place xml:id="emt_place_id__179">
                   <placeName>Pfalz, Kurfürstentum</placeName>
+                  <idno type="GND">https://d-nb.info/gnd/25943-3</idno>
                </place>
                <place xml:id="emt_place_id__180">
                   <placeName>Passau, Bistum</placeName>
                </place>
                <place xml:id="emt_place_id__181">
-                  <placeName>Raab, Fluss</placeName>
+                  <placeName>Raab / Rába, Fluss</placeName>
+                  <location type="coords">
+                     <geo>47.68459 17.628180</geo>
+                  </location>
+                  <idno type="GEONAMES">https://sws.geonames.org/3046063/</idno>
                </place>
                <place xml:id="emt_place_id__182">
                   <placeName>Tulln</placeName>
+                  <location type="coords">
+                     <geo>48.32829 16.058580</geo>
+                  </location>
+                  <idno type="GEONAMES">https://sws.geonames.org/2763266/</idno>
                </place>
                <place xml:id="emt_place_id__183">
                   <placeName>Sankt Pölten</placeName>
+                  <location type="coords">
+                     <geo>48.20000 15.633330</geo>
+                  </location>
+                  <idno type="GEONAMES">https://sws.geonames.org/2766429/</idno>
                </place>
                <place xml:id="emt_place_id__184">
                   <placeName>Osmanen</placeName>
                </place>
                <place xml:id="emt_place_id__185">
                   <placeName>Wien, Leopoldstadt</placeName>
+                  <location type="coords">
+                     <geo>48.21667 16.400000</geo>
+                  </location>
+                  <idno type="GEONAMES">https://sws.geonames.org/2772614/</idno>
                </place>
                <place xml:id="emt_place_id__186">
-                  <placeName>Neuhäusel, Festung</placeName>
+                  <placeName>Neuhäusel / Nové Zámky, Festung</placeName>
+                  <location type="coords">
+                     <geo>47.98544 18.161950</geo>
+                  </location>
+                  <idno type="GEONAMES">https://sws.geonames.org/3058472/</idno>
                </place>
                <place xml:id="emt_place_id__187">
                   <placeName>Schärding</placeName>
+                  <location type="coords">
+                     <geo>48.45294 13.437220</geo>
+                  </location>
+                  <idno type="GEONAMES">https://sws.geonames.org/2766155/</idno>
                </place>
                <place xml:id="emt_place_id__188">
                   <placeName>Krems</placeName>
+                  <location type="coords">
+                     <geo>48.40921 15.614150</geo>
+                  </location>
+                  <idno type="GEONAMES">https://sws.geonames.org/2773549/</idno>
                </place>
                <place xml:id="emt_place_id__189">
                   <placeName>Donau, Fluss</placeName>
+                  <location type="coords">
+                     <geo>45.33333 29.666670</geo>
+                  </location>
+                  <idno type="GEONAMES">https://sws.geonames.org/791630/</idno>
                </place>
                <place xml:id="emt_place_id__190">
                   <placeName>Braunau am Inn</placeName>
+                  <location type="coords">
+                     <geo>48.25628 13.043430</geo>
+                  </location>
+                  <idno type="GEONAMES">https://sws.geonames.org/2781520/</idno>
                </place>
                <place xml:id="emt_place_id__191">
                   <placeName>Franken</placeName>
+                  <location type="coords">
+                     <geo>50.00000 9.000000</geo>
+                  </location>
+                  <idno type="GEONAMES">https://sws.geonames.org/2803465/</idno>
                </place>
                <place xml:id="emt_place_id__192">
                   <placeName>Tataren</placeName>
                </place>
                <place xml:id="emt_place_id__193">
                   <placeName>Gran / Esztergom</placeName>
+                  <location type="coords">
+                     <geo>47.79280 18.741480</geo>
+                  </location>
+                  <idno type="GEONAMES">https://sws.geonames.org/3053163/</idno>
                </place>
                <place xml:id="emt_place_id__194">
                   <placeName>Enzersdorf</placeName>
                </place>
                <place xml:id="emt_place_id__195">
                   <placeName>Deutschland</placeName>
+                  <idno type="GND">https://d-nb.info/gnd/4011882-4</idno>
                </place>
                <place xml:id="emt_place_id__196">
                   <placeName>Sachsen</placeName>
+                  <idno type="GND">https://d-nb.info/gnd/4051176-5</idno>
                </place>
                <place xml:id="emt_place_id__197">
-                  <placeName>Párkány</placeName>
+                  <placeName>Párkány / Štúrovo</placeName>
+                  <location type="coords">
+                     <geo>47.79495 18.717500</geo>
+                  </location>
+                  <idno type="GEONAMES">https://sws.geonames.org/3057379/</idno>
                </place>
                <place xml:id="emt_place_id__198">
                   <placeName>Kammer am Attersee</placeName>
+                  <location type="coords">
+                     <geo>47.94711 13.595410</geo>
+                  </location>
+                  <idno type="GEONAMES">https://sws.geonames.org/2774832/</idno>
                </place>
                <place xml:id="emt_place_id__199">
                   <placeName>Oberungarn</placeName>
                </place>
                <place xml:id="emt_place_id__200">
-                  <placeName>Nagykanisza</placeName>
+                  <placeName>Kanischa / Nagykanisza</placeName>
+                  <location type="coords">
+                     <geo>46.45347 16.991040</geo>
+                  </location>
+                  <idno type="GEONAMES">https://sws.geonames.org/3047679/</idno>
                </place>
             </listPlace>
          </div>

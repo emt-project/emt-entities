@@ -553,7 +553,7 @@
         "start_date": "1688-09-06",
         "text": {
           "headline": "1688-09-06 - Eroberung Belgrads",
-          "text": "Das Ereignis fand in <a href=\"emt_place_id__132.html\">Belgrad</a> statt.<br>"
+          "text": "Das Ereignis fand in <a href=\"emt_place_id__132.html\">Belgrad / Beograd</a> statt.<br>"
         },
         "location": {
           "lat": 44.80401,
@@ -891,7 +891,7 @@
         "start_date": "1701-12-15",
         "text": {
           "headline": "1701-12-15 - Hochzeit Karl Philipps von Pfalz-Neuburg mit Theresia Katharina Lubomirska",
-          "text": "Das Ereignis fand in <a href=\"emt_place_id__99.html\">Krakau</a> statt.<br>Folgende Personen waren daran beteiligt:<br><a href=\"emt_person_id__29.html\">Pfalz-Neuburg, Karl Philipp von</a><br><a href=\"emt_person_id__126.html\">Pfalz-Neuburg, Theresia Katharina von, geb. Lubomirska</a><br>"
+          "text": "Das Ereignis fand in <a href=\"emt_place_id__99.html\">Krakau / Kraków</a> statt.<br>Folgende Personen waren daran beteiligt:<br><a href=\"emt_person_id__29.html\">Pfalz-Neuburg, Karl Philipp von</a><br><a href=\"emt_person_id__126.html\">Pfalz-Neuburg, Theresia Katharina von, geb. Lubomirska</a><br>"
         },
         "location": {
           "lat": 50.06143,

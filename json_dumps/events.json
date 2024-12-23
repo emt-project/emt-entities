@@ -3072,7 +3072,7 @@
             {
                 "id": 99,
                 "order": "97.00000000000000000000",
-                "name": "Krakau",
+                "name": "Krakau / Kraków",
                 "geonames": "https://www.geonames.org/3094802/krakow.html",
                 "emt_id": "emt_place_id__99",
                 "place_type": null,
@@ -4444,7 +4444,7 @@
                 "place_type": null,
                 "lat": "50.92500",
                 "long": "12.235000",
-                "comments intern": null,
+                "comments intern": "prüfen - wirklich Ort in Thüringen? oder böhmisches Reichstadt gemeint?",
                 "gnd": "",
                 "alternative_name": null
             }
@@ -5712,7 +5712,7 @@
             {
                 "id": 132,
                 "order": "130.00000000000000000000",
-                "name": "Belgrad",
+                "name": "Belgrad / Beograd",
                 "geonames": "https://www.geonames.org/792680/belgrade.html",
                 "emt_id": "emt_place_id__132",
                 "place_type": null,

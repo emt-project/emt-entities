@@ -1086,7 +1086,7 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                  </listPerson>
                  <listPlace type="took_place">
                      <place>
-                        <placeName>Krakau</placeName>
+                        <placeName>Krakau / Kraków</placeName>
                         <location type="coords">
                            <geo>50.06143 19.936580</geo>
                         </location>
@@ -2024,7 +2024,7 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                      </eventName>                  </desc>
                  <listPlace type="took_place">
                      <place>
-                        <placeName>Belgrad</placeName>
+                        <placeName>Belgrad / Beograd</placeName>
                         <location type="coords">
                            <geo>44.80401 20.465130</geo>
                         </location>
