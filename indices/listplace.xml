@@ -69,9 +69,6 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                   </location>
                   <idno type="GEONAMES">https://sws.geonames.org/2764553/</idno>
                </place>
-               <place xml:id="emt_place_id__2">
-                  <placeName>?</placeName>
-               </place>
                <place xml:id="emt_place_id__3">
                   <placeName>Aachen</placeName>
                   <location type="coords">
@@ -522,9 +519,6 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                      <geo>48.27480 12.423110</geo>
                   </location>
                   <idno type="GEONAMES">https://sws.geonames.org/2805261/</idno>
-               </place>
-               <place xml:id="emt_place_id__69">
-                  <placeName>auf der beis</placeName>
                </place>
                <place xml:id="emt_place_id__70">
                   <placeName>Traunsee</placeName>

@@ -11,21 +11,8 @@
     "comments intern": null,
     "gnd": "",
     "alternative_name": null,
-    "wikidata_url": ""
-  },
-  "2": {
-    "id": 2,
-    "order": "2.00000000000000000000",
-    "name": "?",
-    "geonames": "",
-    "emt_id": "emt_place_id__2",
-    "place_type": null,
-    "lat": null,
-    "long": null,
-    "comments intern": "löschen?",
-    "gnd": "",
-    "alternative_name": null,
-    "wikidata_url": ""
+    "wikidata_url": "",
+    "unidentifiziert": false
   },
   "3": {
     "id": 3,
@@ -39,7 +26,8 @@
     "comments intern": null,
     "gnd": "",
     "alternative_name": null,
-    "wikidata_url": ""
+    "wikidata_url": "",
+    "unidentifiziert": false
   },
   "4": {
     "id": 4,
@@ -53,7 +41,8 @@
     "comments intern": null,
     "gnd": "",
     "alternative_name": null,
-    "wikidata_url": ""
+    "wikidata_url": "",
+    "unidentifiziert": false
   },
   "5": {
     "id": 5,
@@ -67,7 +56,8 @@
     "comments intern": null,
     "gnd": "",
     "alternative_name": null,
-    "wikidata_url": ""
+    "wikidata_url": "",
+    "unidentifiziert": false
   },
   "6": {
     "id": 6,
@@ -81,7 +71,8 @@
     "comments intern": null,
     "gnd": "",
     "alternative_name": null,
-    "wikidata_url": ""
+    "wikidata_url": "",
+    "unidentifiziert": false
   },
   "7": {
     "id": 7,
@@ -95,7 +86,8 @@
     "comments intern": null,
     "gnd": "",
     "alternative_name": null,
-    "wikidata_url": ""
+    "wikidata_url": "",
+    "unidentifiziert": false
   },
   "8": {
     "id": 8,
@@ -109,7 +101,8 @@
     "comments intern": null,
     "gnd": "",
     "alternative_name": null,
-    "wikidata_url": ""
+    "wikidata_url": "",
+    "unidentifiziert": false
   },
   "9": {
     "id": 9,
@@ -123,7 +116,8 @@
     "comments intern": null,
     "gnd": "",
     "alternative_name": null,
-    "wikidata_url": ""
+    "wikidata_url": "",
+    "unidentifiziert": false
   },
   "10": {
     "id": 10,
@@ -137,7 +131,8 @@
     "comments intern": null,
     "gnd": "",
     "alternative_name": null,
-    "wikidata_url": ""
+    "wikidata_url": "",
+    "unidentifiziert": false
   },
   "11": {
     "id": 11,
@@ -151,7 +146,8 @@
     "comments intern": null,
     "gnd": "",
     "alternative_name": null,
-    "wikidata_url": ""
+    "wikidata_url": "",
+    "unidentifiziert": false
   },
   "12": {
     "id": 12,
@@ -165,7 +161,8 @@
     "comments intern": null,
     "gnd": "",
     "alternative_name": null,
-    "wikidata_url": ""
+    "wikidata_url": "",
+    "unidentifiziert": false
   },
   "13": {
     "id": 13,
@@ -179,7 +176,8 @@
     "comments intern": null,
     "gnd": "",
     "alternative_name": null,
-    "wikidata_url": ""
+    "wikidata_url": "",
+    "unidentifiziert": false
   },
   "14": {
     "id": 14,
@@ -193,7 +191,8 @@
     "comments intern": null,
     "gnd": "",
     "alternative_name": null,
-    "wikidata_url": ""
+    "wikidata_url": "",
+    "unidentifiziert": false
   },
   "15": {
     "id": 15,
@@ -207,7 +206,8 @@
     "comments intern": null,
     "gnd": "",
     "alternative_name": null,
-    "wikidata_url": ""
+    "wikidata_url": "",
+    "unidentifiziert": false
   },
   "16": {
     "id": 16,
@@ -221,7 +221,8 @@
     "comments intern": null,
     "gnd": "",
     "alternative_name": null,
-    "wikidata_url": ""
+    "wikidata_url": "",
+    "unidentifiziert": false
   },
   "17": {
     "id": 17,
@@ -235,7 +236,8 @@
     "comments intern": null,
     "gnd": "",
     "alternative_name": null,
-    "wikidata_url": ""
+    "wikidata_url": "",
+    "unidentifiziert": false
   },
   "18": {
     "id": 18,
@@ -249,7 +251,8 @@
     "comments intern": null,
     "gnd": "",
     "alternative_name": null,
-    "wikidata_url": ""
+    "wikidata_url": "",
+    "unidentifiziert": false
   },
   "19": {
     "id": 19,
@@ -263,7 +266,8 @@
     "comments intern": null,
     "gnd": "",
     "alternative_name": null,
-    "wikidata_url": ""
+    "wikidata_url": "",
+    "unidentifiziert": false
   },
   "20": {
     "id": 20,
@@ -277,7 +281,8 @@
     "comments intern": null,
     "gnd": "",
     "alternative_name": null,
-    "wikidata_url": ""
+    "wikidata_url": "",
+    "unidentifiziert": false
   },
   "21": {
     "id": 21,
@@ -291,7 +296,8 @@
     "comments intern": null,
     "gnd": "",
     "alternative_name": null,
-    "wikidata_url": ""
+    "wikidata_url": "",
+    "unidentifiziert": false
   },
   "22": {
     "id": 22,
@@ -305,7 +311,8 @@
     "comments intern": null,
     "gnd": "",
     "alternative_name": null,
-    "wikidata_url": ""
+    "wikidata_url": "",
+    "unidentifiziert": false
   },
   "23": {
     "id": 23,
@@ -319,7 +326,8 @@
     "comments intern": null,
     "gnd": "",
     "alternative_name": null,
-    "wikidata_url": ""
+    "wikidata_url": "",
+    "unidentifiziert": false
   },
   "24": {
     "id": 24,
@@ -333,7 +341,8 @@
     "comments intern": null,
     "gnd": "",
     "alternative_name": null,
-    "wikidata_url": ""
+    "wikidata_url": "",
+    "unidentifiziert": false
   },
   "25": {
     "id": 25,
@@ -347,7 +356,8 @@
     "comments intern": null,
     "gnd": "",
     "alternative_name": null,
-    "wikidata_url": ""
+    "wikidata_url": "",
+    "unidentifiziert": false
   },
   "26": {
     "id": 26,
@@ -361,7 +371,8 @@
     "comments intern": null,
     "gnd": "",
     "alternative_name": null,
-    "wikidata_url": ""
+    "wikidata_url": "",
+    "unidentifiziert": false
   },
   "27": {
     "id": 27,
@@ -375,7 +386,8 @@
     "comments intern": null,
     "gnd": "",
     "alternative_name": null,
-    "wikidata_url": ""
+    "wikidata_url": "",
+    "unidentifiziert": false
   },
   "28": {
     "id": 28,
@@ -389,7 +401,8 @@
     "comments intern": null,
     "gnd": "",
     "alternative_name": null,
-    "wikidata_url": ""
+    "wikidata_url": "",
+    "unidentifiziert": false
   },
   "29": {
     "id": 29,
@@ -403,7 +416,8 @@
     "comments intern": null,
     "gnd": "",
     "alternative_name": null,
-    "wikidata_url": ""
+    "wikidata_url": "",
+    "unidentifiziert": false
   },
   "30": {
     "id": 30,
@@ -417,7 +431,8 @@
     "comments intern": null,
     "gnd": "",
     "alternative_name": null,
-    "wikidata_url": ""
+    "wikidata_url": "",
+    "unidentifiziert": false
   },
   "31": {
     "id": 31,
@@ -431,7 +446,8 @@
     "comments intern": null,
     "gnd": "",
     "alternative_name": null,
-    "wikidata_url": ""
+    "wikidata_url": "",
+    "unidentifiziert": false
   },
   "32": {
     "id": 32,
@@ -445,7 +461,8 @@
     "comments intern": null,
     "gnd": "",
     "alternative_name": null,
-    "wikidata_url": ""
+    "wikidata_url": "",
+    "unidentifiziert": false
   },
   "33": {
     "id": 33,
@@ -459,7 +476,8 @@
     "comments intern": null,
     "gnd": "",
     "alternative_name": null,
-    "wikidata_url": ""
+    "wikidata_url": "",
+    "unidentifiziert": false
   },
   "34": {
     "id": 34,
@@ -473,7 +491,8 @@
     "comments intern": null,
     "gnd": "",
     "alternative_name": null,
-    "wikidata_url": ""
+    "wikidata_url": "",
+    "unidentifiziert": false
   },
   "35": {
     "id": 35,
@@ -487,7 +506,8 @@
     "comments intern": null,
     "gnd": "",
     "alternative_name": null,
-    "wikidata_url": ""
+    "wikidata_url": "",
+    "unidentifiziert": false
   },
   "36": {
     "id": 36,
@@ -501,7 +521,8 @@
     "comments intern": null,
     "gnd": "",
     "alternative_name": null,
-    "wikidata_url": ""
+    "wikidata_url": "",
+    "unidentifiziert": false
   },
   "37": {
     "id": 37,
@@ -515,7 +536,8 @@
     "comments intern": null,
     "gnd": "",
     "alternative_name": null,
-    "wikidata_url": ""
+    "wikidata_url": "",
+    "unidentifiziert": false
   },
   "38": {
     "id": 38,
@@ -529,7 +551,8 @@
     "comments intern": null,
     "gnd": "",
     "alternative_name": null,
-    "wikidata_url": ""
+    "wikidata_url": "",
+    "unidentifiziert": false
   },
   "39": {
     "id": 39,
@@ -543,7 +566,8 @@
     "comments intern": null,
     "gnd": "",
     "alternative_name": null,
-    "wikidata_url": ""
+    "wikidata_url": "",
+    "unidentifiziert": false
   },
   "40": {
     "id": 40,
@@ -557,7 +581,8 @@
     "comments intern": null,
     "gnd": "",
     "alternative_name": null,
-    "wikidata_url": ""
+    "wikidata_url": "",
+    "unidentifiziert": false
   },
   "41": {
     "id": 41,
@@ -571,7 +596,8 @@
     "comments intern": null,
     "gnd": "",
     "alternative_name": null,
-    "wikidata_url": ""
+    "wikidata_url": "",
+    "unidentifiziert": false
   },
   "42": {
     "id": 42,
@@ -585,7 +611,8 @@
     "comments intern": null,
     "gnd": "",
     "alternative_name": null,
-    "wikidata_url": ""
+    "wikidata_url": "",
+    "unidentifiziert": false
   },
   "43": {
     "id": 43,
@@ -599,7 +626,8 @@
     "comments intern": null,
     "gnd": "",
     "alternative_name": null,
-    "wikidata_url": ""
+    "wikidata_url": "",
+    "unidentifiziert": false
   },
   "44": {
     "id": 44,
@@ -613,7 +641,8 @@
     "comments intern": null,
     "gnd": "",
     "alternative_name": null,
-    "wikidata_url": ""
+    "wikidata_url": "",
+    "unidentifiziert": false
   },
   "45": {
     "id": 45,
@@ -627,7 +656,8 @@
     "comments intern": null,
     "gnd": "",
     "alternative_name": null,
-    "wikidata_url": ""
+    "wikidata_url": "",
+    "unidentifiziert": false
   },
   "46": {
     "id": 46,
@@ -641,7 +671,8 @@
     "comments intern": null,
     "gnd": "",
     "alternative_name": null,
-    "wikidata_url": ""
+    "wikidata_url": "",
+    "unidentifiziert": false
   },
   "47": {
     "id": 47,
@@ -655,7 +686,8 @@
     "comments intern": null,
     "gnd": "",
     "alternative_name": null,
-    "wikidata_url": ""
+    "wikidata_url": "",
+    "unidentifiziert": false
   },
   "48": {
     "id": 48,
@@ -669,7 +701,8 @@
     "comments intern": null,
     "gnd": "",
     "alternative_name": null,
-    "wikidata_url": ""
+    "wikidata_url": "",
+    "unidentifiziert": false
   },
   "49": {
     "id": 49,
@@ -683,7 +716,8 @@
     "comments intern": "prüfen - wirklich Ort in Thüringen? oder böhmisches Reichstadt gemeint?",
     "gnd": "",
     "alternative_name": null,
-    "wikidata_url": ""
+    "wikidata_url": "",
+    "unidentifiziert": false
   },
   "51": {
     "id": 51,
@@ -697,7 +731,8 @@
     "comments intern": null,
     "gnd": "",
     "alternative_name": null,
-    "wikidata_url": ""
+    "wikidata_url": "",
+    "unidentifiziert": false
   },
   "52": {
     "id": 52,
@@ -711,7 +746,8 @@
     "comments intern": null,
     "gnd": "",
     "alternative_name": null,
-    "wikidata_url": ""
+    "wikidata_url": "",
+    "unidentifiziert": false
   },
   "53": {
     "id": 53,
@@ -725,7 +761,8 @@
     "comments intern": "löschen - Schwetzingen sollte genügen!",
     "gnd": "",
     "alternative_name": null,
-    "wikidata_url": ""
+    "wikidata_url": "",
+    "unidentifiziert": false
   },
   "54": {
     "id": 54,
@@ -739,7 +776,8 @@
     "comments intern": null,
     "gnd": "",
     "alternative_name": null,
-    "wikidata_url": ""
+    "wikidata_url": "",
+    "unidentifiziert": false
   },
   "55": {
     "id": 55,
@@ -753,7 +791,8 @@
     "comments intern": null,
     "gnd": "",
     "alternative_name": null,
-    "wikidata_url": ""
+    "wikidata_url": "",
+    "unidentifiziert": false
   },
   "56": {
     "id": 56,
@@ -767,7 +806,8 @@
     "comments intern": null,
     "gnd": "",
     "alternative_name": null,
-    "wikidata_url": ""
+    "wikidata_url": "",
+    "unidentifiziert": false
   },
   "57": {
     "id": 57,
@@ -781,7 +821,8 @@
     "comments intern": null,
     "gnd": "",
     "alternative_name": null,
-    "wikidata_url": ""
+    "wikidata_url": "",
+    "unidentifiziert": false
   },
   "58": {
     "id": 58,
@@ -795,7 +836,8 @@
     "comments intern": null,
     "gnd": "",
     "alternative_name": null,
-    "wikidata_url": ""
+    "wikidata_url": "",
+    "unidentifiziert": false
   },
   "59": {
     "id": 59,
@@ -809,7 +851,8 @@
     "comments intern": null,
     "gnd": "",
     "alternative_name": null,
-    "wikidata_url": ""
+    "wikidata_url": "",
+    "unidentifiziert": false
   },
   "60": {
     "id": 60,
@@ -823,7 +866,8 @@
     "comments intern": null,
     "gnd": "",
     "alternative_name": null,
-    "wikidata_url": ""
+    "wikidata_url": "",
+    "unidentifiziert": false
   },
   "61": {
     "id": 61,
@@ -837,7 +881,8 @@
     "comments intern": null,
     "gnd": "",
     "alternative_name": null,
-    "wikidata_url": ""
+    "wikidata_url": "",
+    "unidentifiziert": false
   },
   "62": {
     "id": 62,
@@ -851,7 +896,8 @@
     "comments intern": null,
     "gnd": "",
     "alternative_name": null,
-    "wikidata_url": ""
+    "wikidata_url": "",
+    "unidentifiziert": false
   },
   "63": {
     "id": 63,
@@ -865,7 +911,8 @@
     "comments intern": null,
     "gnd": "",
     "alternative_name": null,
-    "wikidata_url": ""
+    "wikidata_url": "",
+    "unidentifiziert": false
   },
   "64": {
     "id": 64,
@@ -879,7 +926,8 @@
     "comments intern": null,
     "gnd": "",
     "alternative_name": null,
-    "wikidata_url": ""
+    "wikidata_url": "",
+    "unidentifiziert": false
   },
   "65": {
     "id": 65,
@@ -893,7 +941,8 @@
     "comments intern": null,
     "gnd": "",
     "alternative_name": null,
-    "wikidata_url": ""
+    "wikidata_url": "",
+    "unidentifiziert": false
   },
   "66": {
     "id": 66,
@@ -907,7 +956,8 @@
     "comments intern": null,
     "gnd": "",
     "alternative_name": null,
-    "wikidata_url": ""
+    "wikidata_url": "",
+    "unidentifiziert": false
   },
   "67": {
     "id": 67,
@@ -921,7 +971,8 @@
     "comments intern": null,
     "gnd": "",
     "alternative_name": null,
-    "wikidata_url": ""
+    "wikidata_url": "",
+    "unidentifiziert": false
   },
   "68": {
     "id": 68,
@@ -935,21 +986,8 @@
     "comments intern": null,
     "gnd": "",
     "alternative_name": null,
-    "wikidata_url": ""
-  },
-  "69": {
-    "id": 69,
-    "order": "69.00000000000000000000",
-    "name": "auf der beis",
-    "geonames": "",
-    "emt_id": "emt_place_id__69",
-    "place_type": null,
-    "lat": null,
-    "long": null,
-    "comments intern": null,
-    "gnd": "",
-    "alternative_name": null,
-    "wikidata_url": ""
+    "wikidata_url": "",
+    "unidentifiziert": false
   },
   "70": {
     "id": 70,
@@ -963,7 +1001,8 @@
     "comments intern": null,
     "gnd": "",
     "alternative_name": null,
-    "wikidata_url": ""
+    "wikidata_url": "",
+    "unidentifiziert": false
   },
   "71": {
     "id": 71,
@@ -977,7 +1016,8 @@
     "comments intern": null,
     "gnd": "",
     "alternative_name": null,
-    "wikidata_url": ""
+    "wikidata_url": "",
+    "unidentifiziert": false
   },
   "72": {
     "id": 72,
@@ -991,7 +1031,8 @@
     "comments intern": null,
     "gnd": "",
     "alternative_name": null,
-    "wikidata_url": ""
+    "wikidata_url": "",
+    "unidentifiziert": false
   },
   "73": {
     "id": 73,
@@ -1005,7 +1046,8 @@
     "comments intern": null,
     "gnd": "",
     "alternative_name": null,
-    "wikidata_url": ""
+    "wikidata_url": "",
+    "unidentifiziert": false
   },
   "74": {
     "id": 74,
@@ -1019,7 +1061,8 @@
     "comments intern": "hier habe ich die Koordinaten von Belgien verwendet",
     "gnd": "",
     "alternative_name": null,
-    "wikidata_url": ""
+    "wikidata_url": "",
+    "unidentifiziert": false
   },
   "75": {
     "id": 75,
@@ -1033,7 +1076,8 @@
     "comments intern": null,
     "gnd": "",
     "alternative_name": null,
-    "wikidata_url": ""
+    "wikidata_url": "",
+    "unidentifiziert": false
   },
   "76": {
     "id": 76,
@@ -1047,7 +1091,8 @@
     "comments intern": null,
     "gnd": "",
     "alternative_name": null,
-    "wikidata_url": ""
+    "wikidata_url": "",
+    "unidentifiziert": false
   },
   "77": {
     "id": 77,
@@ -1061,7 +1106,8 @@
     "comments intern": "unidentifiziert\nOrt auf der Reise PWs zurück nach Neuburg bzw. Düsseldorf 1677",
     "gnd": "",
     "alternative_name": null,
-    "wikidata_url": ""
+    "wikidata_url": "",
+    "unidentifiziert": false
   },
   "78": {
     "id": 78,
@@ -1075,7 +1121,8 @@
     "comments intern": "hier habe ich die Koordinaten der Stadt verwendet\nPeter Andorfer: geonames ID durch gnd ersetzt; geoname-ids dürfen nur einmal verwendet werden",
     "gnd": "https://d-nb.info/gnd/1274002583",
     "alternative_name": null,
-    "wikidata_url": ""
+    "wikidata_url": "",
+    "unidentifiziert": false
   },
   "79": {
     "id": 79,
@@ -1089,7 +1136,8 @@
     "comments intern": "",
     "gnd": "",
     "alternative_name": null,
-    "wikidata_url": ""
+    "wikidata_url": "",
+    "unidentifiziert": false
   },
   "80": {
     "id": 80,
@@ -1103,7 +1151,8 @@
     "comments intern": "",
     "gnd": "",
     "alternative_name": null,
-    "wikidata_url": ""
+    "wikidata_url": "",
+    "unidentifiziert": false
   },
   "81": {
     "id": 81,
@@ -1117,7 +1166,8 @@
     "comments intern": "",
     "gnd": "",
     "alternative_name": null,
-    "wikidata_url": ""
+    "wikidata_url": "",
+    "unidentifiziert": false
   },
   "82": {
     "id": 82,
@@ -1131,7 +1181,8 @@
     "comments intern": "",
     "gnd": "",
     "alternative_name": null,
-    "wikidata_url": ""
+    "wikidata_url": "",
+    "unidentifiziert": false
   },
   "83": {
     "id": 83,
@@ -1145,7 +1196,8 @@
     "comments intern": "ich habe die Koordinaten der Niederlande benutzt",
     "gnd": "",
     "alternative_name": null,
-    "wikidata_url": ""
+    "wikidata_url": "",
+    "unidentifiziert": false
   },
   "84": {
     "id": 84,
@@ -1159,7 +1211,8 @@
     "comments intern": "mit 62 zusammenfassen!",
     "gnd": "",
     "alternative_name": null,
-    "wikidata_url": ""
+    "wikidata_url": "",
+    "unidentifiziert": false
   },
   "85": {
     "id": 85,
@@ -1173,7 +1226,8 @@
     "comments intern": "",
     "gnd": "",
     "alternative_name": null,
-    "wikidata_url": ""
+    "wikidata_url": "",
+    "unidentifiziert": false
   },
   "86": {
     "id": 86,
@@ -1187,7 +1241,8 @@
     "comments intern": "",
     "gnd": "",
     "alternative_name": null,
-    "wikidata_url": ""
+    "wikidata_url": "",
+    "unidentifiziert": false
   },
   "87": {
     "id": 87,
@@ -1201,7 +1256,8 @@
     "comments intern": "ich habe die Koordinaten für Italien allgemein benutzt, obwohl EMT sicher Norditalien meinte",
     "gnd": "",
     "alternative_name": null,
-    "wikidata_url": ""
+    "wikidata_url": "",
+    "unidentifiziert": false
   },
   "88": {
     "id": 88,
@@ -1215,7 +1271,8 @@
     "comments intern": "",
     "gnd": "https://d-nb.info/gnd/2035457-5",
     "alternative_name": null,
-    "wikidata_url": ""
+    "wikidata_url": "",
+    "unidentifiziert": false
   },
   "89": {
     "id": 89,
@@ -1229,7 +1286,8 @@
     "comments intern": "",
     "gnd": "",
     "alternative_name": null,
-    "wikidata_url": ""
+    "wikidata_url": "",
+    "unidentifiziert": false
   },
   "90": {
     "id": 90,
@@ -1243,7 +1301,8 @@
     "comments intern": "",
     "gnd": "",
     "alternative_name": null,
-    "wikidata_url": ""
+    "wikidata_url": "",
+    "unidentifiziert": false
   },
   "91": {
     "id": 91,
@@ -1257,7 +1316,8 @@
     "comments intern": "",
     "gnd": "https://d-nb.info/gnd/4031485-6",
     "alternative_name": null,
-    "wikidata_url": ""
+    "wikidata_url": "",
+    "unidentifiziert": false
   },
   "92": {
     "id": 92,
@@ -1271,7 +1331,8 @@
     "comments intern": "",
     "gnd": "",
     "alternative_name": null,
-    "wikidata_url": ""
+    "wikidata_url": "",
+    "unidentifiziert": false
   },
   "95": {
     "id": 95,
@@ -1285,7 +1346,8 @@
     "comments intern": "",
     "gnd": "",
     "alternative_name": null,
-    "wikidata_url": ""
+    "wikidata_url": "",
+    "unidentifiziert": false
   },
   "96": {
     "id": 96,
@@ -1299,7 +1361,8 @@
     "comments intern": "",
     "gnd": "",
     "alternative_name": null,
-    "wikidata_url": ""
+    "wikidata_url": "",
+    "unidentifiziert": false
   },
   "97": {
     "id": 97,
@@ -1313,7 +1376,8 @@
     "comments intern": "",
     "gnd": "",
     "alternative_name": null,
-    "wikidata_url": ""
+    "wikidata_url": "",
+    "unidentifiziert": false
   },
   "98": {
     "id": 98,
@@ -1327,7 +1391,8 @@
     "comments intern": "",
     "gnd": "",
     "alternative_name": null,
-    "wikidata_url": ""
+    "wikidata_url": "",
+    "unidentifiziert": false
   },
   "99": {
     "id": 99,
@@ -1341,7 +1406,8 @@
     "comments intern": "",
     "gnd": "",
     "alternative_name": null,
-    "wikidata_url": ""
+    "wikidata_url": "",
+    "unidentifiziert": false
   },
   "100": {
     "id": 100,
@@ -1355,7 +1421,8 @@
     "comments intern": "",
     "gnd": "",
     "alternative_name": null,
-    "wikidata_url": ""
+    "wikidata_url": "",
+    "unidentifiziert": false
   },
   "101": {
     "id": 101,
@@ -1369,7 +1436,8 @@
     "comments intern": "",
     "gnd": "",
     "alternative_name": null,
-    "wikidata_url": ""
+    "wikidata_url": "",
+    "unidentifiziert": false
   },
   "102": {
     "id": 102,
@@ -1383,7 +1451,8 @@
     "comments intern": "",
     "gnd": "",
     "alternative_name": null,
-    "wikidata_url": ""
+    "wikidata_url": "",
+    "unidentifiziert": false
   },
   "103": {
     "id": 103,
@@ -1397,7 +1466,8 @@
     "comments intern": "",
     "gnd": "",
     "alternative_name": null,
-    "wikidata_url": ""
+    "wikidata_url": "",
+    "unidentifiziert": false
   },
   "104": {
     "id": 104,
@@ -1411,7 +1481,8 @@
     "comments intern": "",
     "gnd": "",
     "alternative_name": null,
-    "wikidata_url": ""
+    "wikidata_url": "",
+    "unidentifiziert": false
   },
   "105": {
     "id": 105,
@@ -1425,7 +1496,8 @@
     "comments intern": "",
     "gnd": "",
     "alternative_name": null,
-    "wikidata_url": ""
+    "wikidata_url": "",
+    "unidentifiziert": false
   },
   "106": {
     "id": 106,
@@ -1439,7 +1511,8 @@
     "comments intern": "",
     "gnd": "",
     "alternative_name": null,
-    "wikidata_url": ""
+    "wikidata_url": "",
+    "unidentifiziert": false
   },
   "107": {
     "id": 107,
@@ -1453,7 +1526,8 @@
     "comments intern": "",
     "gnd": "",
     "alternative_name": null,
-    "wikidata_url": ""
+    "wikidata_url": "",
+    "unidentifiziert": false
   },
   "108": {
     "id": 108,
@@ -1467,7 +1541,8 @@
     "comments intern": "",
     "gnd": "",
     "alternative_name": null,
-    "wikidata_url": ""
+    "wikidata_url": "",
+    "unidentifiziert": false
   },
   "109": {
     "id": 109,
@@ -1481,7 +1556,8 @@
     "comments intern": "",
     "gnd": "",
     "alternative_name": null,
-    "wikidata_url": ""
+    "wikidata_url": "",
+    "unidentifiziert": false
   },
   "110": {
     "id": 110,
@@ -1495,7 +1571,8 @@
     "comments intern": "",
     "gnd": "",
     "alternative_name": null,
-    "wikidata_url": ""
+    "wikidata_url": "",
+    "unidentifiziert": false
   },
   "111": {
     "id": 111,
@@ -1509,7 +1586,8 @@
     "comments intern": "",
     "gnd": "https://d-nb.info/gnd/4028839-0",
     "alternative_name": null,
-    "wikidata_url": ""
+    "wikidata_url": "",
+    "unidentifiziert": false
   },
   "112": {
     "id": 112,
@@ -1523,7 +1601,8 @@
     "comments intern": "",
     "gnd": "",
     "alternative_name": null,
-    "wikidata_url": ""
+    "wikidata_url": "",
+    "unidentifiziert": false
   },
   "113": {
     "id": 113,
@@ -1537,7 +1616,8 @@
     "comments intern": "",
     "gnd": "https://d-nb.info/gnd/4279480-8",
     "alternative_name": null,
-    "wikidata_url": ""
+    "wikidata_url": "",
+    "unidentifiziert": false
   },
   "114": {
     "id": 114,
@@ -1551,7 +1631,8 @@
     "comments intern": "",
     "gnd": "",
     "alternative_name": null,
-    "wikidata_url": ""
+    "wikidata_url": "",
+    "unidentifiziert": false
   },
   "115": {
     "id": 115,
@@ -1565,7 +1646,8 @@
     "comments intern": "",
     "gnd": "",
     "alternative_name": null,
-    "wikidata_url": ""
+    "wikidata_url": "",
+    "unidentifiziert": false
   },
   "116": {
     "id": 116,
@@ -1579,7 +1661,8 @@
     "comments intern": "",
     "gnd": "",
     "alternative_name": null,
-    "wikidata_url": ""
+    "wikidata_url": "",
+    "unidentifiziert": false
   },
   "117": {
     "id": 117,
@@ -1593,7 +1676,8 @@
     "comments intern": "",
     "gnd": "",
     "alternative_name": null,
-    "wikidata_url": ""
+    "wikidata_url": "",
+    "unidentifiziert": false
   },
   "118": {
     "id": 118,
@@ -1607,7 +1691,8 @@
     "comments intern": "",
     "gnd": "",
     "alternative_name": null,
-    "wikidata_url": ""
+    "wikidata_url": "",
+    "unidentifiziert": false
   },
   "119": {
     "id": 119,
@@ -1621,7 +1706,8 @@
     "comments intern": "",
     "gnd": "",
     "alternative_name": null,
-    "wikidata_url": ""
+    "wikidata_url": "",
+    "unidentifiziert": false
   },
   "120": {
     "id": 120,
@@ -1635,7 +1721,8 @@
     "comments intern": "",
     "gnd": "",
     "alternative_name": null,
-    "wikidata_url": ""
+    "wikidata_url": "",
+    "unidentifiziert": false
   },
   "121": {
     "id": 121,
@@ -1649,7 +1736,8 @@
     "comments intern": "",
     "gnd": "",
     "alternative_name": null,
-    "wikidata_url": ""
+    "wikidata_url": "",
+    "unidentifiziert": false
   },
   "122": {
     "id": 122,
@@ -1663,7 +1751,8 @@
     "comments intern": "",
     "gnd": "",
     "alternative_name": null,
-    "wikidata_url": ""
+    "wikidata_url": "",
+    "unidentifiziert": false
   },
   "123": {
     "id": 123,
@@ -1677,7 +1766,8 @@
     "comments intern": "",
     "gnd": "",
     "alternative_name": null,
-    "wikidata_url": ""
+    "wikidata_url": "",
+    "unidentifiziert": false
   },
   "124": {
     "id": 124,
@@ -1691,7 +1781,8 @@
     "comments intern": "",
     "gnd": "",
     "alternative_name": null,
-    "wikidata_url": ""
+    "wikidata_url": "",
+    "unidentifiziert": false
   },
   "125": {
     "id": 125,
@@ -1705,7 +1796,8 @@
     "comments intern": "",
     "gnd": "",
     "alternative_name": null,
-    "wikidata_url": ""
+    "wikidata_url": "",
+    "unidentifiziert": false
   },
   "126": {
     "id": 126,
@@ -1719,7 +1811,8 @@
     "comments intern": "",
     "gnd": "",
     "alternative_name": null,
-    "wikidata_url": ""
+    "wikidata_url": "",
+    "unidentifiziert": false
   },
   "127": {
     "id": 127,
@@ -1733,7 +1826,8 @@
     "comments intern": "",
     "gnd": "",
     "alternative_name": null,
-    "wikidata_url": ""
+    "wikidata_url": "",
+    "unidentifiziert": false
   },
   "128": {
     "id": 128,
@@ -1747,7 +1841,8 @@
     "comments intern": "",
     "gnd": "https://d-nb.info/gnd/4100026-2",
     "alternative_name": null,
-    "wikidata_url": ""
+    "wikidata_url": "",
+    "unidentifiziert": false
   },
   "129": {
     "id": 129,
@@ -1758,10 +1853,11 @@
     "place_type": null,
     "lat": null,
     "long": null,
-    "comments intern": "unidentifiziert\nwohl Mergentheim gemeint??",
+    "comments intern": "wohl Mergentheim gemeint??",
     "gnd": "",
     "alternative_name": null,
-    "wikidata_url": ""
+    "wikidata_url": "",
+    "unidentifiziert": true
   },
   "130": {
     "id": 130,
@@ -1775,7 +1871,8 @@
     "comments intern": "",
     "gnd": "",
     "alternative_name": null,
-    "wikidata_url": ""
+    "wikidata_url": "",
+    "unidentifiziert": false
   },
   "131": {
     "id": 131,
@@ -1789,7 +1886,8 @@
     "comments intern": "",
     "gnd": "",
     "alternative_name": null,
-    "wikidata_url": ""
+    "wikidata_url": "",
+    "unidentifiziert": false
   },
   "132": {
     "id": 132,
@@ -1803,7 +1901,8 @@
     "comments intern": "",
     "gnd": "",
     "alternative_name": null,
-    "wikidata_url": ""
+    "wikidata_url": "",
+    "unidentifiziert": false
   },
   "133": {
     "id": 133,
@@ -1817,7 +1916,8 @@
     "comments intern": "",
     "gnd": "",
     "alternative_name": null,
-    "wikidata_url": ""
+    "wikidata_url": "",
+    "unidentifiziert": false
   },
   "134": {
     "id": 134,
@@ -1831,7 +1931,8 @@
     "comments intern": "",
     "gnd": "",
     "alternative_name": null,
-    "wikidata_url": ""
+    "wikidata_url": "",
+    "unidentifiziert": false
   },
   "135": {
     "id": 135,
@@ -1845,7 +1946,8 @@
     "comments intern": "",
     "gnd": "",
     "alternative_name": null,
-    "wikidata_url": ""
+    "wikidata_url": "",
+    "unidentifiziert": false
   },
   "136": {
     "id": 136,
@@ -1859,7 +1961,8 @@
     "comments intern": "",
     "gnd": "",
     "alternative_name": null,
-    "wikidata_url": ""
+    "wikidata_url": "",
+    "unidentifiziert": false
   },
   "137": {
     "id": 137,
@@ -1873,7 +1976,8 @@
     "comments intern": "",
     "gnd": "https://d-nb.info/gnd/4279563-1",
     "alternative_name": null,
-    "wikidata_url": ""
+    "wikidata_url": "",
+    "unidentifiziert": false
   },
   "138": {
     "id": 138,
@@ -1887,7 +1991,8 @@
     "comments intern": "Sitz des Großpriorates des Johanniterordens im Reich",
     "gnd": "",
     "alternative_name": null,
-    "wikidata_url": ""
+    "wikidata_url": "",
+    "unidentifiziert": false
   },
   "139": {
     "id": 139,
@@ -1901,7 +2006,8 @@
     "comments intern": "",
     "gnd": "",
     "alternative_name": null,
-    "wikidata_url": ""
+    "wikidata_url": "",
+    "unidentifiziert": false
   },
   "140": {
     "id": 140,
@@ -1915,7 +2021,8 @@
     "comments intern": "großer Fischteich bei Pardubice",
     "gnd": "",
     "alternative_name": null,
-    "wikidata_url": ""
+    "wikidata_url": "",
+    "unidentifiziert": false
   },
   "141": {
     "id": 141,
@@ -1929,7 +2036,8 @@
     "comments intern": "",
     "gnd": "",
     "alternative_name": null,
-    "wikidata_url": ""
+    "wikidata_url": "",
+    "unidentifiziert": false
   },
   "142": {
     "id": 142,
@@ -1943,7 +2051,8 @@
     "comments intern": "",
     "gnd": "",
     "alternative_name": null,
-    "wikidata_url": ""
+    "wikidata_url": "",
+    "unidentifiziert": false
   },
   "143": {
     "id": 143,
@@ -1957,7 +2066,8 @@
     "comments intern": "",
     "gnd": "",
     "alternative_name": null,
-    "wikidata_url": ""
+    "wikidata_url": "",
+    "unidentifiziert": false
   },
   "144": {
     "id": 144,
@@ -1971,7 +2081,8 @@
     "comments intern": "",
     "gnd": "",
     "alternative_name": null,
-    "wikidata_url": ""
+    "wikidata_url": "",
+    "unidentifiziert": false
   },
   "145": {
     "id": 145,
@@ -1985,7 +2096,8 @@
     "comments intern": "",
     "gnd": "https://d-nb.info/gnd/4075391-8",
     "alternative_name": null,
-    "wikidata_url": ""
+    "wikidata_url": "",
+    "unidentifiziert": false
   },
   "146": {
     "id": 146,
@@ -1999,7 +2111,8 @@
     "comments intern": "",
     "gnd": "",
     "alternative_name": null,
-    "wikidata_url": ""
+    "wikidata_url": "",
+    "unidentifiziert": false
   },
   "147": {
     "id": 147,
@@ -2013,7 +2126,8 @@
     "comments intern": "bei Linz, heute Stadtteil",
     "gnd": "",
     "alternative_name": null,
-    "wikidata_url": ""
+    "wikidata_url": "",
+    "unidentifiziert": false
   },
   "148": {
     "id": 148,
@@ -2027,7 +2141,8 @@
     "comments intern": "",
     "gnd": "",
     "alternative_name": null,
-    "wikidata_url": ""
+    "wikidata_url": "",
+    "unidentifiziert": false
   },
   "149": {
     "id": 149,
@@ -2041,7 +2156,8 @@
     "comments intern": "",
     "gnd": "https://d-nb.info/gnd/4078541-5",
     "alternative_name": null,
-    "wikidata_url": ""
+    "wikidata_url": "",
+    "unidentifiziert": false
   },
   "150": {
     "id": 150,
@@ -2055,7 +2171,8 @@
     "comments intern": "",
     "gnd": "https://d-nb.info/gnd/4075560-5",
     "alternative_name": null,
-    "wikidata_url": ""
+    "wikidata_url": "",
+    "unidentifiziert": false
   },
   "151": {
     "id": 151,
@@ -2069,7 +2186,8 @@
     "comments intern": "",
     "gnd": "",
     "alternative_name": null,
-    "wikidata_url": ""
+    "wikidata_url": "",
+    "unidentifiziert": false
   },
   "152": {
     "id": 152,
@@ -2083,7 +2201,8 @@
     "comments intern": "",
     "gnd": "https://d-nb.info/gnd/4053881-3",
     "alternative_name": null,
-    "wikidata_url": ""
+    "wikidata_url": "",
+    "unidentifiziert": false
   },
   "153": {
     "id": 153,
@@ -2097,7 +2216,8 @@
     "comments intern": "",
     "gnd": "",
     "alternative_name": null,
-    "wikidata_url": ""
+    "wikidata_url": "",
+    "unidentifiziert": false
   },
   "154": {
     "id": 154,
@@ -2111,7 +2231,8 @@
     "comments intern": "",
     "gnd": "",
     "alternative_name": null,
-    "wikidata_url": ""
+    "wikidata_url": "",
+    "unidentifiziert": false
   },
   "155": {
     "id": 155,
@@ -2125,7 +2246,8 @@
     "comments intern": "",
     "gnd": "https://d-nb.info/gnd/4057092-7",
     "alternative_name": null,
-    "wikidata_url": ""
+    "wikidata_url": "",
+    "unidentifiziert": false
   },
   "156": {
     "id": 156,
@@ -2139,7 +2261,8 @@
     "comments intern": "",
     "gnd": "",
     "alternative_name": null,
-    "wikidata_url": ""
+    "wikidata_url": "",
+    "unidentifiziert": false
   },
   "157": {
     "id": 157,
@@ -2153,7 +2276,8 @@
     "comments intern": "",
     "gnd": "",
     "alternative_name": null,
-    "wikidata_url": ""
+    "wikidata_url": "",
+    "unidentifiziert": false
   },
   "158": {
     "id": 158,
@@ -2164,10 +2288,11 @@
     "place_type": null,
     "lat": null,
     "long": null,
-    "comments intern": "unidentifiziert\ngemeint sein könnte ältere Bezeichnung für Oberpfalz - oder im geografischen Sinne die nördlicheren pfälzischen Besitzungen, siehe https://d-nb.info/gnd/4293553-2",
+    "comments intern": "gemeint sein könnte ältere Bezeichnung für Oberpfalz - oder im geografischen Sinne die nördlicheren pfälzischen Besitzungen, siehe https://d-nb.info/gnd/4293553-2",
     "gnd": "",
     "alternative_name": null,
-    "wikidata_url": ""
+    "wikidata_url": "",
+    "unidentifiziert": true
   },
   "159": {
     "id": 159,
@@ -2181,7 +2306,8 @@
     "comments intern": "",
     "gnd": "",
     "alternative_name": null,
-    "wikidata_url": ""
+    "wikidata_url": "",
+    "unidentifiziert": false
   },
   "160": {
     "id": 160,
@@ -2195,7 +2321,8 @@
     "comments intern": "",
     "gnd": "",
     "alternative_name": null,
-    "wikidata_url": ""
+    "wikidata_url": "",
+    "unidentifiziert": false
   },
   "161": {
     "id": 161,
@@ -2209,7 +2336,8 @@
     "comments intern": "",
     "gnd": "https://d-nb.info/gnd/10045144-5",
     "alternative_name": null,
-    "wikidata_url": ""
+    "wikidata_url": "",
+    "unidentifiziert": false
   },
   "162": {
     "id": 162,
@@ -2223,7 +2351,8 @@
     "comments intern": "",
     "gnd": "https://d-nb.info/gnd/4053668-3",
     "alternative_name": null,
-    "wikidata_url": ""
+    "wikidata_url": "",
+    "unidentifiziert": false
   },
   "163": {
     "id": 163,
@@ -2237,7 +2366,8 @@
     "comments intern": "",
     "gnd": "",
     "alternative_name": null,
-    "wikidata_url": ""
+    "wikidata_url": "",
+    "unidentifiziert": false
   },
   "164": {
     "id": 164,
@@ -2248,10 +2378,11 @@
     "place_type": null,
     "lat": null,
     "long": null,
-    "comments intern": "unidentifiziert",
+    "comments intern": "",
     "gnd": "",
     "alternative_name": null,
-    "wikidata_url": ""
+    "wikidata_url": "",
+    "unidentifiziert": true
   },
   "165": {
     "id": 165,
@@ -2265,7 +2396,8 @@
     "comments intern": "",
     "gnd": "https://d-nb.info/gnd/7521783-1",
     "alternative_name": null,
-    "wikidata_url": ""
+    "wikidata_url": "",
+    "unidentifiziert": false
   },
   "166": {
     "id": 166,
@@ -2279,7 +2411,8 @@
     "comments intern": "",
     "gnd": "https://d-nb.info/gnd/4441054-2",
     "alternative_name": null,
-    "wikidata_url": ""
+    "wikidata_url": "",
+    "unidentifiziert": false
   },
   "167": {
     "id": 167,
@@ -2290,10 +2423,11 @@
     "place_type": null,
     "lat": null,
     "long": null,
-    "comments intern": "unidentifiziert",
+    "comments intern": "",
     "gnd": "",
     "alternative_name": null,
-    "wikidata_url": ""
+    "wikidata_url": "",
+    "unidentifiziert": true
   },
   "168": {
     "id": 168,
@@ -2307,7 +2441,8 @@
     "comments intern": "",
     "gnd": "https://d-nb.info/gnd/4010877-6",
     "alternative_name": "",
-    "wikidata_url": ""
+    "wikidata_url": "",
+    "unidentifiziert": false
   },
   "169": {
     "id": 169,
@@ -2321,7 +2456,8 @@
     "comments intern": "",
     "gnd": "",
     "alternative_name": "",
-    "wikidata_url": ""
+    "wikidata_url": "",
+    "unidentifiziert": false
   },
   "170": {
     "id": 170,
@@ -2335,7 +2471,8 @@
     "comments intern": "",
     "gnd": "",
     "alternative_name": "",
-    "wikidata_url": ""
+    "wikidata_url": "",
+    "unidentifiziert": false
   },
   "171": {
     "id": 171,
@@ -2346,10 +2483,11 @@
     "place_type": null,
     "lat": null,
     "long": null,
-    "comments intern": "unidentifiziert - Favorita?",
+    "comments intern": "Favorita oder Lainzer Tiergarten?",
     "gnd": "",
     "alternative_name": "",
-    "wikidata_url": ""
+    "wikidata_url": "",
+    "unidentifiziert": true
   },
   "172": {
     "id": 172,
@@ -2363,7 +2501,8 @@
     "comments intern": "",
     "gnd": "",
     "alternative_name": "",
-    "wikidata_url": ""
+    "wikidata_url": "",
+    "unidentifiziert": false
   },
   "173": {
     "id": 173,
@@ -2377,7 +2516,8 @@
     "comments intern": "",
     "gnd": "",
     "alternative_name": "",
-    "wikidata_url": ""
+    "wikidata_url": "",
+    "unidentifiziert": false
   },
   "174": {
     "id": 174,
@@ -2391,7 +2531,8 @@
     "comments intern": "\"Türken\"",
     "gnd": "https://d-nb.info/gnd/4075720-1",
     "alternative_name": "",
-    "wikidata_url": ""
+    "wikidata_url": "",
+    "unidentifiziert": false
   },
   "175": {
     "id": 175,
@@ -2405,7 +2546,8 @@
     "comments intern": "",
     "gnd": "",
     "alternative_name": "",
-    "wikidata_url": ""
+    "wikidata_url": "",
+    "unidentifiziert": false
   },
   "176": {
     "id": 176,
@@ -2419,7 +2561,8 @@
     "comments intern": "",
     "gnd": "https://d-nb.info/gnd/4027653-3",
     "alternative_name": "",
-    "wikidata_url": ""
+    "wikidata_url": "",
+    "unidentifiziert": false
   },
   "177": {
     "id": 177,
@@ -2433,7 +2576,8 @@
     "comments intern": "",
     "gnd": "",
     "alternative_name": "",
-    "wikidata_url": "https://www.wikidata.org/wiki/Q1574738"
+    "wikidata_url": "https://www.wikidata.org/wiki/Q1574738",
+    "unidentifiziert": false
   },
   "178": {
     "id": 178,
@@ -2447,7 +2591,8 @@
     "comments intern": "",
     "gnd": "",
     "alternative_name": "",
-    "wikidata_url": ""
+    "wikidata_url": "",
+    "unidentifiziert": false
   },
   "179": {
     "id": 179,
@@ -2461,7 +2606,8 @@
     "comments intern": "",
     "gnd": "https://d-nb.info/gnd/25943-3",
     "alternative_name": "",
-    "wikidata_url": ""
+    "wikidata_url": "",
+    "unidentifiziert": false
   },
   "180": {
     "id": 180,
@@ -2475,7 +2621,8 @@
     "comments intern": "",
     "gnd": "",
     "alternative_name": "",
-    "wikidata_url": ""
+    "wikidata_url": "",
+    "unidentifiziert": false
   },
   "181": {
     "id": 181,
@@ -2489,7 +2636,8 @@
     "comments intern": "",
     "gnd": "",
     "alternative_name": "",
-    "wikidata_url": ""
+    "wikidata_url": "",
+    "unidentifiziert": false
   },
   "182": {
     "id": 182,
@@ -2503,7 +2651,8 @@
     "comments intern": "",
     "gnd": "",
     "alternative_name": "",
-    "wikidata_url": ""
+    "wikidata_url": "",
+    "unidentifiziert": false
   },
   "183": {
     "id": 183,
@@ -2517,7 +2666,8 @@
     "comments intern": "",
     "gnd": "",
     "alternative_name": "",
-    "wikidata_url": ""
+    "wikidata_url": "",
+    "unidentifiziert": false
   },
   "184": {
     "id": 184,
@@ -2531,7 +2681,8 @@
     "comments intern": "",
     "gnd": "",
     "alternative_name": "",
-    "wikidata_url": ""
+    "wikidata_url": "",
+    "unidentifiziert": false
   },
   "185": {
     "id": 185,
@@ -2545,7 +2696,8 @@
     "comments intern": "",
     "gnd": "",
     "alternative_name": "",
-    "wikidata_url": ""
+    "wikidata_url": "",
+    "unidentifiziert": false
   },
   "186": {
     "id": 186,
@@ -2559,7 +2711,8 @@
     "comments intern": "",
     "gnd": "",
     "alternative_name": "",
-    "wikidata_url": ""
+    "wikidata_url": "",
+    "unidentifiziert": false
   },
   "187": {
     "id": 187,
@@ -2573,7 +2726,8 @@
     "comments intern": "",
     "gnd": "",
     "alternative_name": "",
-    "wikidata_url": ""
+    "wikidata_url": "",
+    "unidentifiziert": false
   },
   "188": {
     "id": 188,
@@ -2587,7 +2741,8 @@
     "comments intern": "",
     "gnd": "",
     "alternative_name": "",
-    "wikidata_url": ""
+    "wikidata_url": "",
+    "unidentifiziert": false
   },
   "189": {
     "id": 189,
@@ -2601,7 +2756,8 @@
     "comments intern": "",
     "gnd": "",
     "alternative_name": "",
-    "wikidata_url": ""
+    "wikidata_url": "",
+    "unidentifiziert": false
   },
   "190": {
     "id": 190,
@@ -2615,7 +2771,8 @@
     "comments intern": "",
     "gnd": "",
     "alternative_name": "",
-    "wikidata_url": ""
+    "wikidata_url": "",
+    "unidentifiziert": false
   },
   "191": {
     "id": 191,
@@ -2629,7 +2786,8 @@
     "comments intern": "",
     "gnd": "",
     "alternative_name": "",
-    "wikidata_url": ""
+    "wikidata_url": "",
+    "unidentifiziert": false
   },
   "192": {
     "id": 192,
@@ -2643,7 +2801,8 @@
     "comments intern": "",
     "gnd": "",
     "alternative_name": "",
-    "wikidata_url": ""
+    "wikidata_url": "",
+    "unidentifiziert": false
   },
   "193": {
     "id": 193,
@@ -2657,7 +2816,8 @@
     "comments intern": "",
     "gnd": "",
     "alternative_name": "",
-    "wikidata_url": ""
+    "wikidata_url": "",
+    "unidentifiziert": false
   },
   "194": {
     "id": 194,
@@ -2668,10 +2828,11 @@
     "place_type": null,
     "lat": null,
     "long": null,
-    "comments intern": "unidentifiziert\nunklar, ob Langenzersdorf oder Maria Enzersdorf? bis hierhin verfolgen die Reichstruppen die Tataren nach einem Gefecht 1683 während der Belagerung - da die Tataren von Süden kommen ist Maria Enzersdorf wahrscheinlicher",
+    "comments intern": "unklar, ob Langenzersdorf oder Maria Enzersdorf? bis hierhin verfolgen die Reichstruppen die Tataren nach einem Gefecht 1683 während der Belagerung - da die Tataren von Süden kommen ist Maria Enzersdorf wahrscheinlicher",
     "gnd": "",
     "alternative_name": "",
-    "wikidata_url": ""
+    "wikidata_url": "",
+    "unidentifiziert": true
   },
   "195": {
     "id": 195,
@@ -2685,7 +2846,8 @@
     "comments intern": "",
     "gnd": "https://d-nb.info/gnd/4011882-4",
     "alternative_name": "",
-    "wikidata_url": ""
+    "wikidata_url": "",
+    "unidentifiziert": false
   },
   "196": {
     "id": 196,
@@ -2699,7 +2861,8 @@
     "comments intern": "",
     "gnd": "https://d-nb.info/gnd/4051176-5",
     "alternative_name": "",
-    "wikidata_url": ""
+    "wikidata_url": "",
+    "unidentifiziert": false
   },
   "197": {
     "id": 197,
@@ -2713,7 +2876,8 @@
     "comments intern": "",
     "gnd": "",
     "alternative_name": "",
-    "wikidata_url": ""
+    "wikidata_url": "",
+    "unidentifiziert": false
   },
   "198": {
     "id": 198,
@@ -2727,7 +2891,8 @@
     "comments intern": "",
     "gnd": "",
     "alternative_name": "",
-    "wikidata_url": ""
+    "wikidata_url": "",
+    "unidentifiziert": false
   },
   "199": {
     "id": 199,
@@ -2741,7 +2906,8 @@
     "comments intern": "",
     "gnd": "",
     "alternative_name": "",
-    "wikidata_url": ""
+    "wikidata_url": "",
+    "unidentifiziert": false
   },
   "200": {
     "id": 200,
@@ -2755,6 +2921,7 @@
     "comments intern": "",
     "gnd": "",
     "alternative_name": "",
-    "wikidata_url": ""
+    "wikidata_url": "",
+    "unidentifiziert": false
   }
 }

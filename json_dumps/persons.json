@@ -21,7 +21,8 @@
     "death_date_written": null,
     "Geschlecht": null,
     "Funktionsbezeichnungen": null,
-    "Titel": "Kaiserin"
+    "Titel": "Kaiserin",
+    "unidentifiziert": false
   },
   "3": {
     "id": 3,
@@ -45,7 +46,8 @@
     "death_date_written": null,
     "Geschlecht": null,
     "Funktionsbezeichnungen": null,
-    "Titel": "Herzogin, Großherzogin"
+    "Titel": "Herzogin, Großherzogin",
+    "unidentifiziert": false
   },
   "4": {
     "id": 4,
@@ -69,7 +71,8 @@
     "death_date_written": null,
     "Geschlecht": null,
     "Funktionsbezeichnungen": "Pater, Beichtvater",
-    "Titel": null
+    "Titel": null,
+    "unidentifiziert": false
   },
   "6": {
     "id": 6,
@@ -78,7 +81,7 @@
     "gnd": "",
     "other_url": "",
     "emt_id": "emt_person_id__6",
-    "internal_comment": "unidentifiziert",
+    "internal_comment": "",
     "color": null,
     "lebensdaten": null,
     "ndb": "",
@@ -93,7 +96,8 @@
     "death_date_written": null,
     "Geschlecht": null,
     "Funktionsbezeichnungen": null,
-    "Titel": null
+    "Titel": null,
+    "unidentifiziert": true
   },
   "7": {
     "id": 7,
@@ -117,7 +121,8 @@
     "death_date_written": null,
     "Geschlecht": null,
     "Funktionsbezeichnungen": "Gesandter, Reichsvizekanzler (1696-1705)",
-    "Titel": "Graf"
+    "Titel": "Graf",
+    "unidentifiziert": false
   },
   "8": {
     "id": 8,
@@ -141,7 +146,8 @@
     "death_date_written": null,
     "Geschlecht": null,
     "Funktionsbezeichnungen": null,
-    "Titel": "Herzogin"
+    "Titel": "Herzogin",
+    "unidentifiziert": false
   },
   "9": {
     "id": 9,
@@ -165,7 +171,8 @@
     "death_date_written": null,
     "Geschlecht": null,
     "Funktionsbezeichnungen": null,
-    "Titel": "Kaiserin"
+    "Titel": "Kaiserin",
+    "unidentifiziert": false
   },
   "10": {
     "id": 10,
@@ -189,7 +196,8 @@
     "death_date_written": null,
     "Geschlecht": null,
     "Funktionsbezeichnungen": null,
-    "Titel": "Herzogin, Kurfürstin"
+    "Titel": "Herzogin, Kurfürstin",
+    "unidentifiziert": false
   },
   "11": {
     "id": 11,
@@ -213,7 +221,8 @@
     "death_date_written": null,
     "Geschlecht": null,
     "Funktionsbezeichnungen": "Gesandter",
-    "Titel": "Marchese"
+    "Titel": "Marchese",
+    "unidentifiziert": false
   },
   "12": {
     "id": 12,
@@ -237,7 +246,8 @@
     "death_date_written": null,
     "Geschlecht": null,
     "Funktionsbezeichnungen": null,
-    "Titel": "Fürst"
+    "Titel": "Fürst",
+    "unidentifiziert": false
   },
   "13": {
     "id": 13,
@@ -261,7 +271,8 @@
     "death_date_written": "",
     "Geschlecht": null,
     "Funktionsbezeichnungen": null,
-    "Titel": "Graf, Fürst"
+    "Titel": "Graf, Fürst",
+    "unidentifiziert": false
   },
   "14": {
     "id": 14,
@@ -285,7 +296,8 @@
     "death_date_written": null,
     "Geschlecht": null,
     "Funktionsbezeichnungen": null,
-    "Titel": "Markgräfin"
+    "Titel": "Markgräfin",
+    "unidentifiziert": false
   },
   "15": {
     "id": 15,
@@ -309,7 +321,8 @@
     "death_date_written": null,
     "Geschlecht": null,
     "Funktionsbezeichnungen": null,
-    "Titel": "Kurfürst, König in Preußen"
+    "Titel": "Kurfürst, König in Preußen",
+    "unidentifiziert": false
   },
   "16": {
     "id": 16,
@@ -333,7 +346,8 @@
     "death_date_written": null,
     "Geschlecht": null,
     "Funktionsbezeichnungen": "Reichsvizekanzler, Domherr in Würzburg und Bamberg",
-    "Titel": "Graf"
+    "Titel": "Graf",
+    "unidentifiziert": false
   },
   "17": {
     "id": 17,
@@ -357,7 +371,8 @@
     "death_date_written": null,
     "Geschlecht": null,
     "Funktionsbezeichnungen": "Geheimer Rat",
-    "Titel": "Graf"
+    "Titel": "Graf",
+    "unidentifiziert": false
   },
   "18": {
     "id": 18,
@@ -381,7 +396,8 @@
     "death_date_written": null,
     "Geschlecht": null,
     "Funktionsbezeichnungen": null,
-    "Titel": "Herzog, Kurfürst"
+    "Titel": "Herzog, Kurfürst",
+    "unidentifiziert": false
   },
   "19": {
     "id": 19,
@@ -405,7 +421,8 @@
     "death_date_written": null,
     "Geschlecht": null,
     "Funktionsbezeichnungen": null,
-    "Titel": null
+    "Titel": null,
+    "unidentifiziert": false
   },
   "20": {
     "id": 20,
@@ -429,7 +446,8 @@
     "death_date_written": null,
     "Geschlecht": null,
     "Funktionsbezeichnungen": "Leibarzt",
-    "Titel": "Doktor"
+    "Titel": "Doktor",
+    "unidentifiziert": false
   },
   "21": {
     "id": 21,
@@ -453,7 +471,8 @@
     "death_date_written": null,
     "Geschlecht": null,
     "Funktionsbezeichnungen": "Geheimer Rat",
-    "Titel": null
+    "Titel": null,
+    "unidentifiziert": false
   },
   "22": {
     "id": 22,
@@ -477,7 +496,8 @@
     "death_date_written": null,
     "Geschlecht": null,
     "Funktionsbezeichnungen": null,
-    "Titel": null
+    "Titel": null,
+    "unidentifiziert": false
   },
   "23": {
     "id": 23,
@@ -501,7 +521,8 @@
     "death_date_written": null,
     "Geschlecht": null,
     "Funktionsbezeichnungen": null,
-    "Titel": "Graf"
+    "Titel": "Graf",
+    "unidentifiziert": false
   },
   "24": {
     "id": 24,
@@ -525,7 +546,8 @@
     "death_date_written": null,
     "Geschlecht": null,
     "Funktionsbezeichnungen": "Kurfürst und Erzbischof von Köln",
-    "Titel": "Herzog, Kurfürst"
+    "Titel": "Herzog, Kurfürst",
+    "unidentifiziert": false
   },
   "25": {
     "id": 25,
@@ -549,7 +571,8 @@
     "death_date_written": null,
     "Geschlecht": null,
     "Funktionsbezeichnungen": null,
-    "Titel": "Erzherzog, Kaiser"
+    "Titel": "Erzherzog, Kaiser",
+    "unidentifiziert": false
   },
   "26": {
     "id": 26,
@@ -573,7 +596,8 @@
     "death_date_written": null,
     "Geschlecht": null,
     "Funktionsbezeichnungen": "Kardinal",
-    "Titel": null
+    "Titel": null,
+    "unidentifiziert": false
   },
   "27": {
     "id": 27,
@@ -597,7 +621,8 @@
     "death_date_written": null,
     "Geschlecht": null,
     "Funktionsbezeichnungen": "Bischof von Raab, Kardinal",
-    "Titel": "Herzog"
+    "Titel": "Herzog",
+    "unidentifiziert": false
   },
   "28": {
     "id": 28,
@@ -621,7 +646,8 @@
     "death_date_written": null,
     "Geschlecht": null,
     "Funktionsbezeichnungen": "Kardinal, Vizekönig von Neapel (1708-1710)",
-    "Titel": null
+    "Titel": null,
+    "unidentifiziert": false
   },
   "29": {
     "id": 29,
@@ -645,7 +671,8 @@
     "death_date_written": null,
     "Geschlecht": null,
     "Funktionsbezeichnungen": "General",
-    "Titel": "Herzog"
+    "Titel": "Herzog",
+    "unidentifiziert": false
   },
   "30": {
     "id": 30,
@@ -669,7 +696,8 @@
     "death_date_written": null,
     "Geschlecht": null,
     "Funktionsbezeichnungen": null,
-    "Titel": "Fürst"
+    "Titel": "Fürst",
+    "unidentifiziert": false
   },
   "31": {
     "id": 31,
@@ -693,7 +721,8 @@
     "death_date_written": null,
     "Geschlecht": null,
     "Funktionsbezeichnungen": null,
-    "Titel": "Erzherzog, König, Kaiser"
+    "Titel": "Erzherzog, König, Kaiser",
+    "unidentifiziert": false
   },
   "32": {
     "id": 32,
@@ -717,7 +746,8 @@
     "death_date_written": null,
     "Geschlecht": null,
     "Funktionsbezeichnungen": null,
-    "Titel": "Landgraf"
+    "Titel": "Landgraf",
+    "unidentifiziert": false
   },
   "33": {
     "id": 33,
@@ -741,7 +771,8 @@
     "death_date_written": null,
     "Geschlecht": null,
     "Funktionsbezeichnungen": null,
-    "Titel": "Herzog"
+    "Titel": "Herzog",
+    "unidentifiziert": false
   },
   "34": {
     "id": 34,
@@ -750,7 +781,7 @@
     "gnd": "",
     "other_url": "",
     "emt_id": "emt_person_id__34",
-    "internal_comment": "unidentifiziert",
+    "internal_comment": "",
     "color": null,
     "lebensdaten": null,
     "ndb": "",
@@ -765,7 +796,8 @@
     "death_date_written": null,
     "Geschlecht": null,
     "Funktionsbezeichnungen": null,
-    "Titel": null
+    "Titel": null,
+    "unidentifiziert": true
   },
   "35": {
     "id": 35,
@@ -789,7 +821,8 @@
     "death_date_written": null,
     "Geschlecht": null,
     "Funktionsbezeichnungen": null,
-    "Titel": "Kaiser"
+    "Titel": "Kaiser",
+    "unidentifiziert": false
   },
   "36": {
     "id": 36,
@@ -813,7 +846,8 @@
     "death_date_written": null,
     "Geschlecht": null,
     "Funktionsbezeichnungen": "General",
-    "Titel": "Markgraf"
+    "Titel": "Markgraf",
+    "unidentifiziert": false
   },
   "37": {
     "id": 37,
@@ -837,7 +871,8 @@
     "death_date_written": null,
     "Geschlecht": null,
     "Funktionsbezeichnungen": null,
-    "Titel": "Königin"
+    "Titel": "Königin",
+    "unidentifiziert": false
   },
   "38": {
     "id": 38,
@@ -861,7 +896,8 @@
     "death_date_written": null,
     "Geschlecht": null,
     "Funktionsbezeichnungen": null,
-    "Titel": "Königin"
+    "Titel": "Königin",
+    "unidentifiziert": false
   },
   "39": {
     "id": 39,
@@ -885,7 +921,8 @@
     "death_date_written": null,
     "Geschlecht": null,
     "Funktionsbezeichnungen": "Kardinal",
-    "Titel": null
+    "Titel": null,
+    "unidentifiziert": false
   },
   "40": {
     "id": 40,
@@ -909,7 +946,8 @@
     "death_date_written": null,
     "Geschlecht": null,
     "Funktionsbezeichnungen": null,
-    "Titel": null
+    "Titel": null,
+    "unidentifiziert": false
   },
   "41": {
     "id": 41,
@@ -933,7 +971,8 @@
     "death_date_written": null,
     "Geschlecht": null,
     "Funktionsbezeichnungen": null,
-    "Titel": null
+    "Titel": null,
+    "unidentifiziert": false
   },
   "42": {
     "id": 42,
@@ -957,7 +996,8 @@
     "death_date_written": null,
     "Geschlecht": null,
     "Funktionsbezeichnungen": null,
-    "Titel": "Königin"
+    "Titel": "Königin",
+    "unidentifiziert": false
   },
   "43": {
     "id": 43,
@@ -966,7 +1006,7 @@
     "gnd": "",
     "other_url": "",
     "emt_id": "emt_person_id__43",
-    "internal_comment": "unidentifiziert",
+    "internal_comment": "",
     "color": null,
     "lebensdaten": null,
     "ndb": "",
@@ -981,7 +1021,8 @@
     "death_date_written": null,
     "Geschlecht": null,
     "Funktionsbezeichnungen": null,
-    "Titel": null
+    "Titel": null,
+    "unidentifiziert": true
   },
   "44": {
     "id": 44,
@@ -990,7 +1031,7 @@
     "gnd": "",
     "other_url": "",
     "emt_id": "emt_person_id__44",
-    "internal_comment": "unidentifiziert",
+    "internal_comment": "",
     "color": null,
     "lebensdaten": null,
     "ndb": "",
@@ -1005,7 +1046,8 @@
     "death_date_written": null,
     "Geschlecht": null,
     "Funktionsbezeichnungen": null,
-    "Titel": null
+    "Titel": null,
+    "unidentifiziert": true
   },
   "45": {
     "id": 45,
@@ -1029,7 +1071,8 @@
     "death_date_written": null,
     "Geschlecht": null,
     "Funktionsbezeichnungen": "Kurfürst und Erzbischof von Köln",
-    "Titel": "Herzog, Kurfürst"
+    "Titel": "Herzog, Kurfürst",
+    "unidentifiziert": false
   },
   "46": {
     "id": 46,
@@ -1053,7 +1096,8 @@
     "death_date_written": null,
     "Geschlecht": null,
     "Funktionsbezeichnungen": null,
-    "Titel": "Graf"
+    "Titel": "Graf",
+    "unidentifiziert": false
   },
   "47": {
     "id": 47,
@@ -1077,7 +1121,8 @@
     "death_date_written": null,
     "Geschlecht": null,
     "Funktionsbezeichnungen": null,
-    "Titel": "Fürst"
+    "Titel": "Fürst",
+    "unidentifiziert": false
   },
   "49": {
     "id": 49,
@@ -1101,7 +1146,8 @@
     "death_date_written": null,
     "Geschlecht": null,
     "Funktionsbezeichnungen": null,
-    "Titel": null
+    "Titel": null,
+    "unidentifiziert": false
   },
   "50": {
     "id": 50,
@@ -1125,7 +1171,8 @@
     "death_date_written": null,
     "Geschlecht": null,
     "Funktionsbezeichnungen": null,
-    "Titel": "Herzog, Kurfürst"
+    "Titel": "Herzog, Kurfürst",
+    "unidentifiziert": false
   },
   "51": {
     "id": 51,
@@ -1149,7 +1196,8 @@
     "death_date_written": null,
     "Geschlecht": null,
     "Funktionsbezeichnungen": "Papst",
-    "Titel": null
+    "Titel": null,
+    "unidentifiziert": false
   },
   "52": {
     "id": 52,
@@ -1173,7 +1221,8 @@
     "death_date_written": null,
     "Geschlecht": null,
     "Funktionsbezeichnungen": null,
-    "Titel": "Pater"
+    "Titel": "Pater",
+    "unidentifiziert": false
   },
   "53": {
     "id": 53,
@@ -1197,7 +1246,8 @@
     "death_date_written": null,
     "Geschlecht": null,
     "Funktionsbezeichnungen": "",
-    "Titel": "Pater"
+    "Titel": "Pater",
+    "unidentifiziert": false
   },
   "54": {
     "id": 54,
@@ -1221,7 +1271,8 @@
     "death_date_written": null,
     "Geschlecht": null,
     "Funktionsbezeichnungen": null,
-    "Titel": "Erzherzogin, Kurfürstin"
+    "Titel": "Erzherzogin, Kurfürstin",
+    "unidentifiziert": false
   },
   "55": {
     "id": 55,
@@ -1230,7 +1281,7 @@
     "gnd": "",
     "other_url": "",
     "emt_id": "emt_person_id__55",
-    "internal_comment": "unidentifiziert",
+    "internal_comment": "",
     "color": null,
     "lebensdaten": null,
     "ndb": "",
@@ -1245,7 +1296,8 @@
     "death_date_written": null,
     "Geschlecht": null,
     "Funktionsbezeichnungen": null,
-    "Titel": null
+    "Titel": null,
+    "unidentifiziert": true
   },
   "56": {
     "id": 56,
@@ -1269,7 +1321,8 @@
     "death_date_written": null,
     "Geschlecht": null,
     "Funktionsbezeichnungen": "Hofkanzler",
-    "Titel": "Graf"
+    "Titel": "Graf",
+    "unidentifiziert": false
   },
   "57": {
     "id": 57,
@@ -1293,7 +1346,8 @@
     "death_date_written": null,
     "Geschlecht": null,
     "Funktionsbezeichnungen": "Statthalter im Herzogtum Arenberg",
-    "Titel": null
+    "Titel": null,
+    "unidentifiziert": false
   },
   "58": {
     "id": 58,
@@ -1317,7 +1371,8 @@
     "death_date_written": null,
     "Geschlecht": null,
     "Funktionsbezeichnungen": "General, Kommandant von Philippsburg",
-    "Titel": null
+    "Titel": null,
+    "unidentifiziert": false
   },
   "59": {
     "id": 59,
@@ -1341,7 +1396,8 @@
     "death_date_written": null,
     "Geschlecht": null,
     "Funktionsbezeichnungen": "Beichtvater",
-    "Titel": "Pater"
+    "Titel": "Pater",
+    "unidentifiziert": false
   },
   "60": {
     "id": 60,
@@ -1365,7 +1421,8 @@
     "death_date_written": null,
     "Geschlecht": null,
     "Funktionsbezeichnungen": null,
-    "Titel": "Erzherzogin, Herzogin"
+    "Titel": "Erzherzogin, Herzogin",
+    "unidentifiziert": false
   },
   "61": {
     "id": 61,
@@ -1389,7 +1446,8 @@
     "death_date_written": null,
     "Geschlecht": null,
     "Funktionsbezeichnungen": null,
-    "Titel": null
+    "Titel": null,
+    "unidentifiziert": false
   },
   "62": {
     "id": 62,
@@ -1398,7 +1456,7 @@
     "gnd": "",
     "other_url": "",
     "emt_id": "emt_person_id__62",
-    "internal_comment": "fungiert 1677 als Überbringer von Geschenken von PW, unidentifiziert",
+    "internal_comment": "fungiert 1677 als Überbringer von Geschenken von PW",
     "color": "",
     "lebensdaten": "",
     "ndb": "",
@@ -1413,7 +1471,8 @@
     "death_date_written": null,
     "Geschlecht": null,
     "Funktionsbezeichnungen": null,
-    "Titel": null
+    "Titel": null,
+    "unidentifiziert": true
   },
   "63": {
     "id": 63,
@@ -1437,7 +1496,8 @@
     "death_date_written": null,
     "Geschlecht": null,
     "Funktionsbezeichnungen": "Erzbischof von Salzburg, Kardinal",
-    "Titel": "Graf"
+    "Titel": "Graf",
+    "unidentifiziert": false
   },
   "64": {
     "id": 64,
@@ -1461,7 +1521,8 @@
     "death_date_written": null,
     "Geschlecht": null,
     "Funktionsbezeichnungen": "Bischof von Eichstätt",
-    "Titel": null
+    "Titel": null,
+    "unidentifiziert": false
   },
   "65": {
     "id": 65,
@@ -1485,7 +1546,8 @@
     "death_date_written": null,
     "Geschlecht": null,
     "Funktionsbezeichnungen": "Bischof von Bamberg",
-    "Titel": null
+    "Titel": null,
+    "unidentifiziert": false
   },
   "66": {
     "id": 66,
@@ -1509,7 +1571,8 @@
     "death_date_written": null,
     "Geschlecht": null,
     "Funktionsbezeichnungen": "Reichshofrat",
-    "Titel": null
+    "Titel": null,
+    "unidentifiziert": false
   },
   "67": {
     "id": 67,
@@ -1533,7 +1596,8 @@
     "death_date_written": null,
     "Geschlecht": null,
     "Funktionsbezeichnungen": null,
-    "Titel": null
+    "Titel": null,
+    "unidentifiziert": false
   },
   "68": {
     "id": 68,
@@ -1542,7 +1606,7 @@
     "gnd": "",
     "other_url": "",
     "emt_id": "emt_person_id__68",
-    "internal_comment": "hat Empfehlungsschreiben von EMT bekommen 1677, unidentifiziert",
+    "internal_comment": "hat Empfehlungsschreiben von EMT bekommen 1677",
     "color": "",
     "lebensdaten": "",
     "ndb": "",
@@ -1557,7 +1621,8 @@
     "death_date_written": null,
     "Geschlecht": null,
     "Funktionsbezeichnungen": null,
-    "Titel": null
+    "Titel": null,
+    "unidentifiziert": true
   },
   "69": {
     "id": 69,
@@ -1566,7 +1631,7 @@
     "gnd": "",
     "other_url": "",
     "emt_id": "emt_person_id__69",
-    "internal_comment": "dankt EMT 1677 für ein Empfehlungsschreiben für ihren Mann, unidentifiziert",
+    "internal_comment": "dankt EMT 1677 für ein Empfehlungsschreiben für ihren Mann",
     "color": "",
     "lebensdaten": "",
     "ndb": "",
@@ -1581,7 +1646,8 @@
     "death_date_written": null,
     "Geschlecht": null,
     "Funktionsbezeichnungen": null,
-    "Titel": null
+    "Titel": null,
+    "unidentifiziert": true
   },
   "70": {
     "id": 70,
@@ -1605,7 +1671,8 @@
     "death_date_written": null,
     "Geschlecht": null,
     "Funktionsbezeichnungen": "Fürstbischof von Freising",
-    "Titel": "Herzog"
+    "Titel": "Herzog",
+    "unidentifiziert": false
   },
   "71": {
     "id": 71,
@@ -1629,7 +1696,8 @@
     "death_date_written": null,
     "Geschlecht": null,
     "Funktionsbezeichnungen": "Domherr in Münster, Paderborn und Lüttich",
-    "Titel": null
+    "Titel": null,
+    "unidentifiziert": false
   },
   "72": {
     "id": 72,
@@ -1653,7 +1721,8 @@
     "death_date_written": null,
     "Geschlecht": null,
     "Funktionsbezeichnungen": "Reichsvizekanzler",
-    "Titel": "Graf"
+    "Titel": "Graf",
+    "unidentifiziert": false
   },
   "73": {
     "id": 73,
@@ -1677,7 +1746,8 @@
     "death_date_written": null,
     "Geschlecht": null,
     "Funktionsbezeichnungen": "Kardinal, Fürstabt von Fulda und Kempten",
-    "Titel": "Landgraf"
+    "Titel": "Landgraf",
+    "unidentifiziert": false
   },
   "74": {
     "id": 74,
@@ -1701,7 +1771,8 @@
     "death_date_written": null,
     "Geschlecht": null,
     "Funktionsbezeichnungen": "Hofkanzler",
-    "Titel": null
+    "Titel": null,
+    "unidentifiziert": false
   },
   "75": {
     "id": 75,
@@ -1725,7 +1796,8 @@
     "death_date_written": null,
     "Geschlecht": null,
     "Funktionsbezeichnungen": "Kardinal, Fürstbischof von Breslau",
-    "Titel": "Landgraf"
+    "Titel": "Landgraf",
+    "unidentifiziert": false
   },
   "76": {
     "id": 76,
@@ -1734,7 +1806,7 @@
     "gnd": "",
     "other_url": "",
     "emt_id": "emt_person_id__76",
-    "internal_comment": "adlige Dame in Düsseldorf, deren Heirat mit Bernsau auf der Kippe steht 1677, unidentifiziert",
+    "internal_comment": "adlige Dame in Düsseldorf, deren Heirat mit Bernsau auf der Kippe steht 1677",
     "color": "",
     "lebensdaten": "",
     "ndb": "",
@@ -1749,7 +1821,8 @@
     "death_date_written": null,
     "Geschlecht": null,
     "Funktionsbezeichnungen": null,
-    "Titel": null
+    "Titel": null,
+    "unidentifiziert": true
   },
   "77": {
     "id": 77,
@@ -1758,7 +1831,7 @@
     "gnd": "",
     "other_url": "",
     "emt_id": "emt_person_id__77",
-    "internal_comment": "Wirich Dietrich von Bernsau (1656-1709) ?? unidentifiziert\nadliger Herr, der in Düsseldorf des Hofes verwiesen wurde, weshalb die Heirat mit Egelhoff auf der Kippe steht 1677\nLeo van de Loo, Bernsau. Zur Geschichte des Ritter- und Bauerngeschlechts (1150–1940), Essen 1940",
+    "internal_comment": "Wirich Dietrich von Bernsau (1656-1709) ??\nadliger Herr, der in Düsseldorf des Hofes verwiesen wurde, weshalb die Heirat mit Egelhoff auf der Kippe steht 1677\nLeo van de Loo, Bernsau. Zur Geschichte des Ritter- und Bauerngeschlechts (1150–1940), Essen 1940",
     "color": "",
     "lebensdaten": "",
     "ndb": "",
@@ -1773,7 +1846,8 @@
     "death_date_written": null,
     "Geschlecht": null,
     "Funktionsbezeichnungen": null,
-    "Titel": null
+    "Titel": null,
+    "unidentifiziert": true
   },
   "78": {
     "id": 78,
@@ -1782,7 +1856,7 @@
     "gnd": "",
     "other_url": "",
     "emt_id": "emt_person_id__78",
-    "internal_comment": "Mutter des in Düsseldorf des Hofes verwiesenen Herrn 1677:\nevtl. Anna Agnes von Bernsau, geb. Scholer (?), unidentifiziert",
+    "internal_comment": "Mutter des in Düsseldorf des Hofes verwiesenen Herrn 1677:\nevtl. Anna Agnes von Bernsau, geb. Scholer (?)",
     "color": "",
     "lebensdaten": "",
     "ndb": "",
@@ -1797,7 +1871,8 @@
     "death_date_written": null,
     "Geschlecht": null,
     "Funktionsbezeichnungen": null,
-    "Titel": null
+    "Titel": null,
+    "unidentifiziert": true
   },
   "79": {
     "id": 79,
@@ -1821,7 +1896,8 @@
     "death_date_written": null,
     "Geschlecht": null,
     "Funktionsbezeichnungen": "Domherr in Köln, Kämmerer",
-    "Titel": null
+    "Titel": null,
+    "unidentifiziert": false
   },
   "80": {
     "id": 80,
@@ -1845,7 +1921,8 @@
     "death_date_written": null,
     "Geschlecht": null,
     "Funktionsbezeichnungen": "General, Hofkriegsratspräsident (1681-1688)",
-    "Titel": "Markgraf"
+    "Titel": "Markgraf",
+    "unidentifiziert": false
   },
   "81": {
     "id": 81,
@@ -1869,7 +1946,8 @@
     "death_date_written": null,
     "Geschlecht": null,
     "Funktionsbezeichnungen": null,
-    "Titel": "Graf"
+    "Titel": "Graf",
+    "unidentifiziert": false
   },
   "82": {
     "id": 82,
@@ -1893,7 +1971,8 @@
     "death_date_written": null,
     "Geschlecht": null,
     "Funktionsbezeichnungen": "Weihbischof von Köln, gewählter Fürstbischof von Breslau",
-    "Titel": "Herzog"
+    "Titel": "Herzog",
+    "unidentifiziert": false
   },
   "83": {
     "id": 83,
@@ -1917,7 +1996,8 @@
     "death_date_written": null,
     "Geschlecht": null,
     "Funktionsbezeichnungen": "Bischof von Gurk, Kardinal",
-    "Titel": null
+    "Titel": null,
+    "unidentifiziert": false
   },
   "84": {
     "id": 84,
@@ -1941,7 +2021,8 @@
     "death_date_written": null,
     "Geschlecht": null,
     "Funktionsbezeichnungen": null,
-    "Titel": "Gräfin"
+    "Titel": "Gräfin",
+    "unidentifiziert": false
   },
   "85": {
     "id": 85,
@@ -1965,7 +2046,8 @@
     "death_date_written": null,
     "Geschlecht": null,
     "Funktionsbezeichnungen": null,
-    "Titel": "Graf"
+    "Titel": "Graf",
+    "unidentifiziert": false
   },
   "86": {
     "id": 86,
@@ -1989,7 +2071,8 @@
     "death_date_written": null,
     "Geschlecht": null,
     "Funktionsbezeichnungen": "Bischof von Straßburg",
-    "Titel": "Fürst"
+    "Titel": "Fürst",
+    "unidentifiziert": false
   },
   "87": {
     "id": 87,
@@ -2013,7 +2096,8 @@
     "death_date_written": null,
     "Geschlecht": null,
     "Funktionsbezeichnungen": "Geheimer Rat, Obersthofmeister",
-    "Titel": "Graf"
+    "Titel": "Graf",
+    "unidentifiziert": false
   },
   "88": {
     "id": 88,
@@ -2037,7 +2121,8 @@
     "death_date_written": null,
     "Geschlecht": null,
     "Funktionsbezeichnungen": "Bischof von Münster",
-    "Titel": "Graf"
+    "Titel": "Graf",
+    "unidentifiziert": false
   },
   "89": {
     "id": 89,
@@ -2061,7 +2146,8 @@
     "death_date_written": null,
     "Geschlecht": null,
     "Funktionsbezeichnungen": null,
-    "Titel": "König"
+    "Titel": "König",
+    "unidentifiziert": false
   },
   "90": {
     "id": 90,
@@ -2085,7 +2171,8 @@
     "death_date_written": null,
     "Geschlecht": null,
     "Funktionsbezeichnungen": null,
-    "Titel": "Fürst"
+    "Titel": "Fürst",
+    "unidentifiziert": false
   },
   "91": {
     "id": 91,
@@ -2109,7 +2196,8 @@
     "death_date_written": null,
     "Geschlecht": null,
     "Funktionsbezeichnungen": "Bischof von Straßburg, Kardinal",
-    "Titel": "Fürst"
+    "Titel": "Fürst",
+    "unidentifiziert": false
   },
   "92": {
     "id": 92,
@@ -2133,7 +2221,8 @@
     "death_date_written": null,
     "Geschlecht": null,
     "Funktionsbezeichnungen": null,
-    "Titel": "Herzog"
+    "Titel": "Herzog",
+    "unidentifiziert": false
   },
   "93": {
     "id": 93,
@@ -2157,7 +2246,8 @@
     "death_date_written": null,
     "Geschlecht": null,
     "Funktionsbezeichnungen": null,
-    "Titel": "Herzogin"
+    "Titel": "Herzogin",
+    "unidentifiziert": false
   },
   "94": {
     "id": 94,
@@ -2181,7 +2271,8 @@
     "death_date_written": null,
     "Geschlecht": null,
     "Funktionsbezeichnungen": null,
-    "Titel": "Herzogin"
+    "Titel": "Herzogin",
+    "unidentifiziert": false
   },
   "95": {
     "id": 95,
@@ -2205,7 +2296,8 @@
     "death_date_written": null,
     "Geschlecht": null,
     "Funktionsbezeichnungen": null,
-    "Titel": "Herzogin"
+    "Titel": "Herzogin",
+    "unidentifiziert": false
   },
   "96": {
     "id": 96,
@@ -2229,7 +2321,8 @@
     "death_date_written": null,
     "Geschlecht": null,
     "Funktionsbezeichnungen": null,
-    "Titel": "Gräfin"
+    "Titel": "Gräfin",
+    "unidentifiziert": false
   },
   "97": {
     "id": 97,
@@ -2253,7 +2346,8 @@
     "death_date_written": null,
     "Geschlecht": null,
     "Funktionsbezeichnungen": null,
-    "Titel": "Graf"
+    "Titel": "Graf",
+    "unidentifiziert": false
   },
   "98": {
     "id": 98,
@@ -2277,7 +2371,8 @@
     "death_date_written": null,
     "Geschlecht": null,
     "Funktionsbezeichnungen": "Leibarzt",
-    "Titel": "Doktor"
+    "Titel": "Doktor",
+    "unidentifiziert": false
   },
   "99": {
     "id": 99,
@@ -2301,7 +2396,8 @@
     "death_date_written": null,
     "Geschlecht": null,
     "Funktionsbezeichnungen": "Obersthofmeister",
-    "Titel": null
+    "Titel": null,
+    "unidentifiziert": false
   },
   "100": {
     "id": 100,
@@ -2325,7 +2421,8 @@
     "death_date_written": null,
     "Geschlecht": null,
     "Funktionsbezeichnungen": "Kurfürst und Erzbischof von Mainz",
-    "Titel": "Kurfürst"
+    "Titel": "Kurfürst",
+    "unidentifiziert": false
   },
   "101": {
     "id": 101,
@@ -2349,7 +2446,8 @@
     "death_date_written": null,
     "Geschlecht": null,
     "Funktionsbezeichnungen": "Kurfürst und Erzbischof von Trier",
-    "Titel": "Kurfürst"
+    "Titel": "Kurfürst",
+    "unidentifiziert": false
   },
   "102": {
     "id": 102,
@@ -2373,7 +2471,8 @@
     "death_date_written": null,
     "Geschlecht": null,
     "Funktionsbezeichnungen": "Gesandter Hessen-Darmstadt in Wien 1677",
-    "Titel": null
+    "Titel": null,
+    "unidentifiziert": false
   },
   "103": {
     "id": 103,
@@ -2382,7 +2481,7 @@
     "gnd": "",
     "other_url": "",
     "emt_id": "emt_person_id__103",
-    "internal_comment": "unidentifiziert\nwahrscheinlich auf der Durchreise in die Spanischen Niederlande oder nach Spanien, denn EMT kennt ihn und seine Frau\n1676 war in Wien Pedro Gaetano y Fernandez del Campo, https://datos.bne.es/persona/XX1523613.html  - file:///C:/Users/adalb/Downloads/781-Texto%20del%20art%C3%ADculo%20(necesario)-793-2-10-20140530.pdf\n\n1677 der Conde de Humanes (Bittner/Groß, 517)\neventuell Viliannosa ? siehe id_157",
+    "internal_comment": "wahrscheinlich auf der Durchreise in die Spanischen Niederlande oder nach Spanien, denn EMT kennt ihn und seine Frau\n1676 war in Wien Pedro Gaetano y Fernandez del Campo, https://datos.bne.es/persona/XX1523613.html  - file:///C:/Users/adalb/Downloads/781-Texto%20del%20art%C3%ADculo%20(necesario)-793-2-10-20140530.pdf\n\n1677 der Conde de Humanes (Bittner/Groß, 517)\neventuell Viliannosa ? siehe id_157",
     "color": "",
     "lebensdaten": "",
     "ndb": "",
@@ -2397,7 +2496,8 @@
     "death_date_written": null,
     "Geschlecht": null,
     "Funktionsbezeichnungen": null,
-    "Titel": null
+    "Titel": null,
+    "unidentifiziert": true
   },
   "104": {
     "id": 104,
@@ -2406,7 +2506,7 @@
     "gnd": "",
     "other_url": "",
     "emt_id": "emt_person_id__104",
-    "internal_comment": "unidentifiziert",
+    "internal_comment": "",
     "color": "",
     "lebensdaten": "",
     "ndb": "",
@@ -2421,7 +2521,8 @@
     "death_date_written": null,
     "Geschlecht": null,
     "Funktionsbezeichnungen": null,
-    "Titel": null
+    "Titel": null,
+    "unidentifiziert": true
   },
   "105": {
     "id": 105,
@@ -2430,7 +2531,7 @@
     "gnd": "",
     "other_url": "",
     "emt_id": "emt_person_id__105",
-    "internal_comment": "unidentifiziert",
+    "internal_comment": "",
     "color": "",
     "lebensdaten": "",
     "ndb": "",
@@ -2445,7 +2546,8 @@
     "death_date_written": null,
     "Geschlecht": null,
     "Funktionsbezeichnungen": null,
-    "Titel": null
+    "Titel": null,
+    "unidentifiziert": true
   },
   "106": {
     "id": 106,
@@ -2454,7 +2556,7 @@
     "gnd": "",
     "other_url": "",
     "emt_id": "emt_person_id__106",
-    "internal_comment": "unidentifiziert",
+    "internal_comment": "",
     "color": "",
     "lebensdaten": "",
     "ndb": "",
@@ -2469,7 +2571,8 @@
     "death_date_written": null,
     "Geschlecht": null,
     "Funktionsbezeichnungen": null,
-    "Titel": null
+    "Titel": null,
+    "unidentifiziert": true
   },
   "107": {
     "id": 107,
@@ -2493,7 +2596,8 @@
     "death_date_written": null,
     "Geschlecht": null,
     "Funktionsbezeichnungen": "Nuntius in Wien (1675-1689), Kardinal",
-    "Titel": null
+    "Titel": null,
+    "unidentifiziert": false
   },
   "109": {
     "id": 109,
@@ -2517,7 +2621,8 @@
     "death_date_written": "",
     "Geschlecht": null,
     "Funktionsbezeichnungen": null,
-    "Titel": "Herzogin, Kaiserin"
+    "Titel": "Herzogin, Kaiserin",
+    "unidentifiziert": false
   },
   "110": {
     "id": 110,
@@ -2541,7 +2646,8 @@
     "death_date_written": "",
     "Geschlecht": null,
     "Funktionsbezeichnungen": null,
-    "Titel": "Herzogin, Kaiserin"
+    "Titel": "Herzogin, Kaiserin",
+    "unidentifiziert": false
   },
   "111": {
     "id": 111,
@@ -2565,7 +2671,8 @@
     "death_date_written": "",
     "Geschlecht": null,
     "Funktionsbezeichnungen": null,
-    "Titel": "Erzherzogin"
+    "Titel": "Erzherzogin",
+    "unidentifiziert": false
   },
   "112": {
     "id": 112,
@@ -2589,7 +2696,8 @@
     "death_date_written": "",
     "Geschlecht": null,
     "Funktionsbezeichnungen": null,
-    "Titel": "Erzherzog"
+    "Titel": "Erzherzog",
+    "unidentifiziert": false
   },
   "113": {
     "id": 113,
@@ -2613,7 +2721,8 @@
     "death_date_written": "",
     "Geschlecht": null,
     "Funktionsbezeichnungen": null,
-    "Titel": "Erzherzogin"
+    "Titel": "Erzherzogin",
+    "unidentifiziert": false
   },
   "114": {
     "id": 114,
@@ -2637,7 +2746,8 @@
     "death_date_written": "",
     "Geschlecht": null,
     "Funktionsbezeichnungen": null,
-    "Titel": "Erzherzogin"
+    "Titel": "Erzherzogin",
+    "unidentifiziert": false
   },
   "115": {
     "id": 115,
@@ -2661,7 +2771,8 @@
     "death_date_written": "",
     "Geschlecht": null,
     "Funktionsbezeichnungen": null,
-    "Titel": "Erzherzogin"
+    "Titel": "Erzherzogin",
+    "unidentifiziert": false
   },
   "116": {
     "id": 116,
@@ -2685,7 +2796,8 @@
     "death_date_written": "",
     "Geschlecht": null,
     "Funktionsbezeichnungen": null,
-    "Titel": null
+    "Titel": null,
+    "unidentifiziert": false
   },
   "117": {
     "id": 117,
@@ -2709,7 +2821,8 @@
     "death_date_written": "",
     "Geschlecht": null,
     "Funktionsbezeichnungen": null,
-    "Titel": null
+    "Titel": null,
+    "unidentifiziert": false
   },
   "118": {
     "id": 118,
@@ -2733,7 +2846,8 @@
     "death_date_written": "",
     "Geschlecht": null,
     "Funktionsbezeichnungen": "Obersthofmeister",
-    "Titel": "Fürst"
+    "Titel": "Fürst",
+    "unidentifiziert": false
   },
   "119": {
     "id": 119,
@@ -2757,7 +2871,8 @@
     "death_date_written": "",
     "Geschlecht": null,
     "Funktionsbezeichnungen": "General",
-    "Titel": "Graf"
+    "Titel": "Graf",
+    "unidentifiziert": false
   },
   "120": {
     "id": 120,
@@ -2781,7 +2896,8 @@
     "death_date_written": "",
     "Geschlecht": null,
     "Funktionsbezeichnungen": null,
-    "Titel": null
+    "Titel": null,
+    "unidentifiziert": false
   },
   "121": {
     "id": 121,
@@ -2805,7 +2921,8 @@
     "death_date_written": "",
     "Geschlecht": null,
     "Funktionsbezeichnungen": "Bischof von Wien",
-    "Titel": "Pater"
+    "Titel": "Pater",
+    "unidentifiziert": false
   },
   "122": {
     "id": 122,
@@ -2829,7 +2946,8 @@
     "death_date_written": "",
     "Geschlecht": null,
     "Funktionsbezeichnungen": null,
-    "Titel": "Markgraf"
+    "Titel": "Markgraf",
+    "unidentifiziert": false
   },
   "123": {
     "id": 123,
@@ -2853,7 +2971,8 @@
     "death_date_written": "",
     "Geschlecht": null,
     "Funktionsbezeichnungen": null,
-    "Titel": "Kurfürstin"
+    "Titel": "Kurfürstin",
+    "unidentifiziert": false
   },
   "124": {
     "id": 124,
@@ -2877,7 +2996,8 @@
     "death_date_written": "",
     "Geschlecht": null,
     "Funktionsbezeichnungen": "Deutschmeister, Bischof von Worms",
-    "Titel": "Herzog"
+    "Titel": "Herzog",
+    "unidentifiziert": false
   },
   "125": {
     "id": 125,
@@ -2901,7 +3021,8 @@
     "death_date_written": "",
     "Geschlecht": null,
     "Funktionsbezeichnungen": null,
-    "Titel": "Herzogin"
+    "Titel": "Herzogin",
+    "unidentifiziert": false
   },
   "126": {
     "id": 126,
@@ -2925,7 +3046,8 @@
     "death_date_written": "",
     "Geschlecht": null,
     "Funktionsbezeichnungen": null,
-    "Titel": "Herzogin"
+    "Titel": "Herzogin",
+    "unidentifiziert": false
   },
   "127": {
     "id": 127,
@@ -2949,7 +3071,8 @@
     "death_date_written": "",
     "Geschlecht": null,
     "Funktionsbezeichnungen": "Bischof von Augsburg",
-    "Titel": "Herzog"
+    "Titel": "Herzog",
+    "unidentifiziert": false
   },
   "128": {
     "id": 128,
@@ -2973,7 +3096,8 @@
     "death_date_written": "",
     "Geschlecht": null,
     "Funktionsbezeichnungen": "Bischof von Breslau, Deutschmeister, Kurfürst und Erzbischof von Trier",
-    "Titel": "Herzog, Kurfürst"
+    "Titel": "Herzog, Kurfürst",
+    "unidentifiziert": false
   },
   "129": {
     "id": 129,
@@ -2997,7 +3121,8 @@
     "death_date_written": "",
     "Geschlecht": null,
     "Funktionsbezeichnungen": "General",
-    "Titel": "Herzog"
+    "Titel": "Herzog",
+    "unidentifiziert": false
   },
   "130": {
     "id": 130,
@@ -3021,7 +3146,8 @@
     "death_date_written": "",
     "Geschlecht": null,
     "Funktionsbezeichnungen": null,
-    "Titel": "König"
+    "Titel": "König",
+    "unidentifiziert": false
   },
   "131": {
     "id": 131,
@@ -3045,7 +3171,8 @@
     "death_date_written": "",
     "Geschlecht": null,
     "Funktionsbezeichnungen": null,
-    "Titel": "Herzog"
+    "Titel": "Herzog",
+    "unidentifiziert": false
   },
   "132": {
     "id": 132,
@@ -3069,7 +3196,8 @@
     "death_date_written": "",
     "Geschlecht": null,
     "Funktionsbezeichnungen": null,
-    "Titel": "Herzog"
+    "Titel": "Herzog",
+    "unidentifiziert": false
   },
   "133": {
     "id": 133,
@@ -3093,7 +3221,8 @@
     "death_date_written": "",
     "Geschlecht": null,
     "Funktionsbezeichnungen": null,
-    "Titel": "Herzog"
+    "Titel": "Herzog",
+    "unidentifiziert": false
   },
   "134": {
     "id": 134,
@@ -3117,7 +3246,8 @@
     "death_date_written": "",
     "Geschlecht": null,
     "Funktionsbezeichnungen": null,
-    "Titel": "Herzogin"
+    "Titel": "Herzogin",
+    "unidentifiziert": false
   },
   "135": {
     "id": 135,
@@ -3141,7 +3271,8 @@
     "death_date_written": "",
     "Geschlecht": null,
     "Funktionsbezeichnungen": null,
-    "Titel": "Prinz"
+    "Titel": "Prinz",
+    "unidentifiziert": false
   },
   "136": {
     "id": 136,
@@ -3165,7 +3296,8 @@
     "death_date_written": "",
     "Geschlecht": null,
     "Funktionsbezeichnungen": null,
-    "Titel": "Herzogin"
+    "Titel": "Herzogin",
+    "unidentifiziert": false
   },
   "137": {
     "id": 137,
@@ -3189,7 +3321,8 @@
     "death_date_written": "",
     "Geschlecht": null,
     "Funktionsbezeichnungen": null,
-    "Titel": "Kaiserin"
+    "Titel": "Kaiserin",
+    "unidentifiziert": false
   },
   "138": {
     "id": 138,
@@ -3213,7 +3346,8 @@
     "death_date_written": "",
     "Geschlecht": null,
     "Funktionsbezeichnungen": null,
-    "Titel": "Kaiserin"
+    "Titel": "Kaiserin",
+    "unidentifiziert": false
   },
   "139": {
     "id": 139,
@@ -3237,7 +3371,8 @@
     "death_date_written": "",
     "Geschlecht": null,
     "Funktionsbezeichnungen": null,
-    "Titel": "Kurfürst"
+    "Titel": "Kurfürst",
+    "unidentifiziert": false
   },
   "140": {
     "id": 140,
@@ -3246,7 +3381,7 @@
     "gnd": "",
     "other_url": "",
     "emt_id": "emt_person_id__140",
-    "internal_comment": "unidentifiziert",
+    "internal_comment": "",
     "color": "",
     "lebensdaten": "",
     "ndb": "",
@@ -3261,7 +3396,8 @@
     "death_date_written": "",
     "Geschlecht": null,
     "Funktionsbezeichnungen": null,
-    "Titel": null
+    "Titel": null,
+    "unidentifiziert": true
   },
   "141": {
     "id": 141,
@@ -3270,7 +3406,7 @@
     "gnd": "",
     "other_url": "",
     "emt_id": "emt_person_id__141",
-    "internal_comment": "unidentifiziert",
+    "internal_comment": "",
     "color": "",
     "lebensdaten": "",
     "ndb": "",
@@ -3285,7 +3421,8 @@
     "death_date_written": "",
     "Geschlecht": null,
     "Funktionsbezeichnungen": null,
-    "Titel": null
+    "Titel": null,
+    "unidentifiziert": true
   },
   "142": {
     "id": 142,
@@ -3309,7 +3446,8 @@
     "death_date_written": "",
     "Geschlecht": null,
     "Funktionsbezeichnungen": null,
-    "Titel": null
+    "Titel": null,
+    "unidentifiziert": false
   },
   "143": {
     "id": 143,
@@ -3333,7 +3471,8 @@
     "death_date_written": "",
     "Geschlecht": null,
     "Funktionsbezeichnungen": null,
-    "Titel": "Gräfin"
+    "Titel": "Gräfin",
+    "unidentifiziert": false
   },
   "144": {
     "id": 144,
@@ -3357,7 +3496,8 @@
     "death_date_written": "",
     "Geschlecht": null,
     "Funktionsbezeichnungen": null,
-    "Titel": "Gräfin"
+    "Titel": "Gräfin",
+    "unidentifiziert": false
   },
   "145": {
     "id": 145,
@@ -3381,7 +3521,8 @@
     "death_date_written": "",
     "Geschlecht": null,
     "Funktionsbezeichnungen": null,
-    "Titel": "Fürstin"
+    "Titel": "Fürstin",
+    "unidentifiziert": false
   },
   "146": {
     "id": 146,
@@ -3405,7 +3546,8 @@
     "death_date_written": "",
     "Geschlecht": null,
     "Funktionsbezeichnungen": "General",
-    "Titel": "Herzog"
+    "Titel": "Herzog",
+    "unidentifiziert": false
   },
   "147": {
     "id": 147,
@@ -3414,7 +3556,7 @@
     "gnd": "",
     "other_url": "",
     "emt_id": "emt_person_id__147",
-    "internal_comment": "unidentifiziert",
+    "internal_comment": "",
     "color": "",
     "lebensdaten": "",
     "ndb": "",
@@ -3429,7 +3571,8 @@
     "death_date_written": "",
     "Geschlecht": null,
     "Funktionsbezeichnungen": null,
-    "Titel": null
+    "Titel": null,
+    "unidentifiziert": true
   },
   "148": {
     "id": 148,
@@ -3438,7 +3581,7 @@
     "gnd": "",
     "other_url": "",
     "emt_id": "emt_person_id__148",
-    "internal_comment": "unidentifiziert",
+    "internal_comment": "",
     "color": "",
     "lebensdaten": "",
     "ndb": "",
@@ -3453,7 +3596,8 @@
     "death_date_written": "",
     "Geschlecht": null,
     "Funktionsbezeichnungen": null,
-    "Titel": null
+    "Titel": null,
+    "unidentifiziert": true
   },
   "149": {
     "id": 149,
@@ -3477,7 +3621,8 @@
     "death_date_written": "",
     "Geschlecht": null,
     "Funktionsbezeichnungen": "Obersthofmarschall, Obersthofmeister",
-    "Titel": "Fürst"
+    "Titel": "Fürst",
+    "unidentifiziert": false
   },
   "150": {
     "id": 150,
@@ -3486,7 +3631,7 @@
     "gnd": "",
     "other_url": "",
     "emt_id": "emt_person_id__150",
-    "internal_comment": "unidentifiziert",
+    "internal_comment": "",
     "color": "",
     "lebensdaten": "",
     "ndb": "",
@@ -3501,7 +3646,8 @@
     "death_date_written": "",
     "Geschlecht": null,
     "Funktionsbezeichnungen": null,
-    "Titel": null
+    "Titel": null,
+    "unidentifiziert": true
   },
   "151": {
     "id": 151,
@@ -3525,7 +3671,8 @@
     "death_date_written": "",
     "Geschlecht": null,
     "Funktionsbezeichnungen": "Nuntius bei Friedensverhandlungen in Nijmegen",
-    "Titel": null
+    "Titel": null,
+    "unidentifiziert": false
   },
   "152": {
     "id": 152,
@@ -3549,7 +3696,8 @@
     "death_date_written": "",
     "Geschlecht": null,
     "Funktionsbezeichnungen": "Kardinal",
-    "Titel": null
+    "Titel": null,
+    "unidentifiziert": false
   },
   "153": {
     "id": 153,
@@ -3558,7 +3706,7 @@
     "gnd": "",
     "other_url": "",
     "emt_id": "emt_person_id__153",
-    "internal_comment": "unidentifiziert,\näußert Meinung gegenüber EMT wegen Koadjutorie in Köln",
+    "internal_comment": "äußert Meinung gegenüber EMT wegen Koadjutorie in Köln",
     "color": "",
     "lebensdaten": "",
     "ndb": "",
@@ -3573,7 +3721,8 @@
     "death_date_written": "",
     "Geschlecht": null,
     "Funktionsbezeichnungen": null,
-    "Titel": null
+    "Titel": null,
+    "unidentifiziert": true
   },
   "154": {
     "id": 154,
@@ -3597,7 +3746,8 @@
     "death_date_written": "",
     "Geschlecht": null,
     "Funktionsbezeichnungen": null,
-    "Titel": null
+    "Titel": null,
+    "unidentifiziert": false
   },
   "155": {
     "id": 155,
@@ -3621,7 +3771,8 @@
     "death_date_written": "",
     "Geschlecht": null,
     "Funktionsbezeichnungen": "Domherr in Köln und Straßburg",
-    "Titel": "Graf"
+    "Titel": "Graf",
+    "unidentifiziert": false
   },
   "156": {
     "id": 156,
@@ -3645,7 +3796,8 @@
     "death_date_written": "",
     "Geschlecht": null,
     "Funktionsbezeichnungen": "Domherr zu Köln",
-    "Titel": "Fürst"
+    "Titel": "Fürst",
+    "unidentifiziert": false
   },
   "157": {
     "id": 157,
@@ -3654,7 +3806,7 @@
     "gnd": "",
     "other_url": "",
     "emt_id": "emt_person_id__157",
-    "internal_comment": "unidentifiziert",
+    "internal_comment": "",
     "color": "",
     "lebensdaten": "",
     "ndb": "",
@@ -3669,7 +3821,8 @@
     "death_date_written": "",
     "Geschlecht": null,
     "Funktionsbezeichnungen": null,
-    "Titel": null
+    "Titel": null,
+    "unidentifiziert": true
   },
   "158": {
     "id": 158,
@@ -3678,7 +3831,7 @@
     "gnd": "",
     "other_url": "",
     "emt_id": "emt_person_id__158",
-    "internal_comment": "unidentifiziert,\nlässt sich PW empfehlen, dem er selbst geschrieben hat (Oktober 1677)",
+    "internal_comment": "lässt sich PW empfehlen, dem er selbst geschrieben hat (Oktober 1677)",
     "color": "",
     "lebensdaten": "",
     "ndb": "",
@@ -3693,7 +3846,8 @@
     "death_date_written": "",
     "Geschlecht": null,
     "Funktionsbezeichnungen": null,
-    "Titel": null
+    "Titel": null,
+    "unidentifiziert": true
   },
   "159": {
     "id": 159,
@@ -3702,7 +3856,7 @@
     "gnd": "",
     "other_url": "",
     "emt_id": "emt_person_id__159",
-    "internal_comment": "unidentifiziert, \nsoll in Düsseldorf einen Schweißhund für Leopold I. abrichten",
+    "internal_comment": "soll in Düsseldorf einen Schweißhund für Leopold I. abrichten",
     "color": "",
     "lebensdaten": "",
     "ndb": "",
@@ -3717,7 +3871,8 @@
     "death_date_written": "",
     "Geschlecht": null,
     "Funktionsbezeichnungen": null,
-    "Titel": null
+    "Titel": null,
+    "unidentifiziert": true
   },
   "160": {
     "id": 160,
@@ -3741,7 +3896,8 @@
     "death_date_written": "",
     "Geschlecht": null,
     "Funktionsbezeichnungen": null,
-    "Titel": null
+    "Titel": null,
+    "unidentifiziert": false
   },
   "161": {
     "id": 161,
@@ -3750,7 +3906,7 @@
     "gnd": "",
     "other_url": "",
     "emt_id": "emt_person_id__161",
-    "internal_comment": "unidentifiziert,\nist im Herbst 1677 bei Wien bei Wildschweinjagd verwundet worden",
+    "internal_comment": "ist im Herbst 1677 bei Wien bei Wildschweinjagd verwundet worden",
     "color": "",
     "lebensdaten": "",
     "ndb": "",
@@ -3765,7 +3921,8 @@
     "death_date_written": "",
     "Geschlecht": null,
     "Funktionsbezeichnungen": null,
-    "Titel": null
+    "Titel": null,
+    "unidentifiziert": true
   },
   "162": {
     "id": 162,
@@ -3789,7 +3946,8 @@
     "death_date_written": "",
     "Geschlecht": null,
     "Funktionsbezeichnungen": null,
-    "Titel": "Fürst"
+    "Titel": "Fürst",
+    "unidentifiziert": false
   },
   "163": {
     "id": 163,
@@ -3813,7 +3971,8 @@
     "death_date_written": "",
     "Geschlecht": null,
     "Funktionsbezeichnungen": null,
-    "Titel": "Fürst"
+    "Titel": "Fürst",
+    "unidentifiziert": false
   },
   "164": {
     "id": 164,
@@ -3837,16 +3996,17 @@
     "death_date_written": "",
     "Geschlecht": null,
     "Funktionsbezeichnungen": null,
-    "Titel": "Graf"
+    "Titel": "Graf",
+    "unidentifiziert": false
   },
   "165": {
     "id": 165,
     "order": "165.00000000000000000000",
-    "name": "Christofl, wohl Kurier 1677",
+    "name": "Christofl, Kurier 1677",
     "gnd": "",
     "other_url": "",
     "emt_id": "emt_person_id__165",
-    "internal_comment": "unidentifiziert,\nihm hat PW keinen Brief an EMT mitgegeben",
+    "internal_comment": "wohl Kurier, ihm hat PW keinen Brief an EMT mitgegeben",
     "color": "",
     "lebensdaten": "",
     "ndb": "",
@@ -3861,7 +4021,8 @@
     "death_date_written": "",
     "Geschlecht": null,
     "Funktionsbezeichnungen": null,
-    "Titel": null
+    "Titel": null,
+    "unidentifiziert": true
   },
   "166": {
     "id": 166,
@@ -3885,7 +4046,8 @@
     "death_date_written": "",
     "Geschlecht": null,
     "Funktionsbezeichnungen": null,
-    "Titel": "Königin"
+    "Titel": "Königin",
+    "unidentifiziert": false
   },
   "167": {
     "id": 167,
@@ -3909,7 +4071,8 @@
     "death_date_written": "",
     "Geschlecht": null,
     "Funktionsbezeichnungen": null,
-    "Titel": null
+    "Titel": null,
+    "unidentifiziert": false
   },
   "168": {
     "id": 168,
@@ -3933,7 +4096,8 @@
     "death_date_written": "",
     "Geschlecht": null,
     "Funktionsbezeichnungen": null,
-    "Titel": "König"
+    "Titel": "König",
+    "unidentifiziert": false
   },
   "169": {
     "id": 169,
@@ -3957,7 +4121,8 @@
     "death_date_written": "",
     "Geschlecht": null,
     "Funktionsbezeichnungen": null,
-    "Titel": "Herzogin"
+    "Titel": "Herzogin",
+    "unidentifiziert": false
   },
   "170": {
     "id": 170,
@@ -3981,7 +4146,8 @@
     "death_date_written": "",
     "Geschlecht": null,
     "Funktionsbezeichnungen": "Deutschmeister",
-    "Titel": null
+    "Titel": null,
+    "unidentifiziert": false
   },
   "171": {
     "id": 171,
@@ -3990,7 +4156,7 @@
     "gnd": "",
     "other_url": "",
     "emt_id": "emt_person_id__171",
-    "internal_comment": "unidentifiziert,\nhat Briefe von PW überbracht und soll von EMT an Leopold empfohlen werden 1678",
+    "internal_comment": "hat Briefe von PW überbracht und soll von EMT an Leopold empfohlen werden 1678",
     "color": "",
     "lebensdaten": "",
     "ndb": "",
@@ -4005,7 +4171,8 @@
     "death_date_written": "",
     "Geschlecht": null,
     "Funktionsbezeichnungen": null,
-    "Titel": null
+    "Titel": null,
+    "unidentifiziert": true
   },
   "172": {
     "id": 172,
@@ -4029,7 +4196,8 @@
     "death_date_written": "",
     "Geschlecht": null,
     "Funktionsbezeichnungen": "Hoffräulein",
-    "Titel": "Gräfin"
+    "Titel": "Gräfin",
+    "unidentifiziert": false
   },
   "173": {
     "id": 173,
@@ -4053,7 +4221,8 @@
     "death_date_written": "",
     "Geschlecht": null,
     "Funktionsbezeichnungen": null,
-    "Titel": null
+    "Titel": null,
+    "unidentifiziert": false
   },
   "174": {
     "id": 174,
@@ -4077,7 +4246,8 @@
     "death_date_written": "",
     "Geschlecht": null,
     "Funktionsbezeichnungen": null,
-    "Titel": "Kurfürstin"
+    "Titel": "Kurfürstin",
+    "unidentifiziert": false
   },
   "175": {
     "id": 175,
@@ -4101,7 +4271,8 @@
     "death_date_written": "",
     "Geschlecht": null,
     "Funktionsbezeichnungen": null,
-    "Titel": null
+    "Titel": null,
+    "unidentifiziert": false
   },
   "176": {
     "id": 176,
@@ -4110,7 +4281,7 @@
     "gnd": "",
     "other_url": "",
     "emt_id": "emt_person_id__176",
-    "internal_comment": "unidentifiziert,\nkönnte Thomas von Quentel sein, der kölnische Offizial, der später noch vorkommt, weil Wahl des Bruders zum Weihbischof in Köln großes Thema war",
+    "internal_comment": "könnte Thomas von Quentel sein, der kölnische Offizial, der später noch vorkommt, weil Wahl des Bruders zum Weihbischof in Köln großes Thema war",
     "color": "",
     "lebensdaten": "",
     "ndb": "",
@@ -4125,7 +4296,8 @@
     "death_date_written": "",
     "Geschlecht": null,
     "Funktionsbezeichnungen": null,
-    "Titel": null
+    "Titel": null,
+    "unidentifiziert": true
   },
   "178": {
     "id": 178,
@@ -4134,7 +4306,7 @@
     "gnd": "",
     "other_url": "",
     "emt_id": "emt_person_id__178",
-    "internal_comment": "unidentifiziert\nan ihn oder sie soll EMT das Fräulein Egloff empfehlen 1678",
+    "internal_comment": "an ihn oder sie soll EMT das Fräulein Egloff empfehlen 1678",
     "color": "",
     "lebensdaten": "",
     "ndb": "",
@@ -4149,7 +4321,8 @@
     "death_date_written": "",
     "Geschlecht": null,
     "Funktionsbezeichnungen": null,
-    "Titel": null
+    "Titel": null,
+    "unidentifiziert": true
   },
   "179": {
     "id": 179,
@@ -4173,7 +4346,8 @@
     "death_date_written": "",
     "Geschlecht": null,
     "Funktionsbezeichnungen": "Oberstkuchelmeister",
-    "Titel": "Graf"
+    "Titel": "Graf",
+    "unidentifiziert": false
   },
   "180": {
     "id": 180,
@@ -4197,7 +4371,8 @@
     "death_date_written": "",
     "Geschlecht": null,
     "Funktionsbezeichnungen": "kaiserlicher Botschafter in Spanien",
-    "Titel": "Graf, Fürst von Fondi (1690)"
+    "Titel": "Graf, Fürst von Fondi (1690)",
+    "unidentifiziert": false
   },
   "181": {
     "id": 181,
@@ -4206,7 +4381,7 @@
     "gnd": "",
     "other_url": "",
     "emt_id": "emt_person_id__181",
-    "internal_comment": "unidentifiziert\nsoll Abschiedsgrüße EMTs an PW überbringen (Nov. 1678) - es gibt mindestens drei K.s, die in Frage kommen",
+    "internal_comment": "soll Abschiedsgrüße EMTs an PW überbringen (Nov. 1678) - es gibt mindestens drei K.s, die in Frage kommen",
     "color": "",
     "lebensdaten": "",
     "ndb": "",
@@ -4221,7 +4396,8 @@
     "death_date_written": "",
     "Geschlecht": null,
     "Funktionsbezeichnungen": null,
-    "Titel": null
+    "Titel": null,
+    "unidentifiziert": true
   },
   "182": {
     "id": 182,
@@ -4230,7 +4406,7 @@
     "gnd": "",
     "other_url": "",
     "emt_id": "emt_person_id__182",
-    "internal_comment": "unidentifiziert\nüberbringt Abschiedsgrüße PW an EMT nach Abreise aus Wien (Nov. 1678), bittet EMT 1683 um Fürsprache, weil er in Pfalz-Neuburg Geheimer Rat werden möchte",
+    "internal_comment": "überbringt Abschiedsgrüße PW an EMT nach Abreise aus Wien (Nov. 1678), bittet EMT 1683 um Fürsprache, weil er in Pfalz-Neuburg Geheimer Rat werden möchte",
     "color": "",
     "lebensdaten": "",
     "ndb": "",
@@ -4245,7 +4421,8 @@
     "death_date_written": "",
     "Geschlecht": null,
     "Funktionsbezeichnungen": null,
-    "Titel": null
+    "Titel": null,
+    "unidentifiziert": true
   },
   "183": {
     "id": 183,
@@ -4254,7 +4431,7 @@
     "gnd": "",
     "other_url": "",
     "emt_id": "emt_person_id__183",
-    "internal_comment": "unidentifiziert\nwird wegen seines Alters wohl PW 1678 nicht nach Wien begleiten",
+    "internal_comment": "wird wegen seines Alters wohl PW 1678 nicht nach Wien begleiten",
     "color": "",
     "lebensdaten": "",
     "ndb": "",
@@ -4269,7 +4446,8 @@
     "death_date_written": "",
     "Geschlecht": null,
     "Funktionsbezeichnungen": null,
-    "Titel": null
+    "Titel": null,
+    "unidentifiziert": true
   },
   "184": {
     "id": 184,
@@ -4278,7 +4456,7 @@
     "gnd": "",
     "other_url": "",
     "emt_id": "emt_person_id__184",
-    "internal_comment": "unidentifiziert\nmöglicherweise Anna Maria Theresia K, die ab 1681 Hoffräulein war\nerhält Zusage für Hofdamenstelle auf Wunsch von PW (1678); ihr Vater ist möglicherweise 181",
+    "internal_comment": "erhält Zusage für Hofdamenstelle auf Wunsch von PW (1678) - möglicherweise Anna Maria Theresia K, die ab 1681 Hoffräulein war; ihr Vater ist möglicherweise 181",
     "color": "",
     "lebensdaten": "",
     "ndb": "",
@@ -4293,16 +4471,17 @@
     "death_date_written": "",
     "Geschlecht": null,
     "Funktionsbezeichnungen": null,
-    "Titel": "Gräfin"
+    "Titel": "Gräfin",
+    "unidentifiziert": true
   },
   "185": {
     "id": 185,
     "order": "185.00000000000000000000",
-    "name": "kaiserlicher Abgesandter zu den Rebellen in Ungarn 1678",
+    "name": "kaiserlicher Abgesandter nach Ungarn 1678",
     "gnd": "",
     "other_url": "",
     "emt_id": "emt_person_id__185",
-    "internal_comment": "unidentifiziert\nkaiserlicher Abgesandter zu den Rebellen in Ungarn, kommt im November 1678 von dort zurück",
+    "internal_comment": "kaiserlicher Abgesandter zu den Rebellen in Ungarn, kommt im November 1678 von dort zurück",
     "color": "",
     "lebensdaten": "",
     "ndb": "",
@@ -4317,7 +4496,8 @@
     "death_date_written": "",
     "Geschlecht": null,
     "Funktionsbezeichnungen": null,
-    "Titel": null
+    "Titel": null,
+    "unidentifiziert": true
   },
   "186": {
     "id": 186,
@@ -4341,7 +4521,8 @@
     "death_date_written": "",
     "Geschlecht": null,
     "Funktionsbezeichnungen": "kaiserlicher Botschafter in Spanien",
-    "Titel": "Graf"
+    "Titel": "Graf",
+    "unidentifiziert": false
   },
   "187": {
     "id": 187,
@@ -4365,7 +4546,8 @@
     "death_date_written": "",
     "Geschlecht": null,
     "Funktionsbezeichnungen": "Hofkammerpräsident",
-    "Titel": null
+    "Titel": null,
+    "unidentifiziert": false
   },
   "188": {
     "id": 188,
@@ -4389,7 +4571,8 @@
     "death_date_written": "",
     "Geschlecht": null,
     "Funktionsbezeichnungen": null,
-    "Titel": "Kurfürst"
+    "Titel": "Kurfürst",
+    "unidentifiziert": false
   },
   "189": {
     "id": 189,
@@ -4413,7 +4596,8 @@
     "death_date_written": "",
     "Geschlecht": null,
     "Funktionsbezeichnungen": "Hofmeister Pfalz",
-    "Titel": "Graf"
+    "Titel": "Graf",
+    "unidentifiziert": false
   },
   "190": {
     "id": 190,
@@ -4437,7 +4621,8 @@
     "death_date_written": "gestorben wohl 1689",
     "Geschlecht": null,
     "Funktionsbezeichnungen": "Hebamme",
-    "Titel": null
+    "Titel": null,
+    "unidentifiziert": false
   },
   "191": {
     "id": 191,
@@ -4461,7 +4646,8 @@
     "death_date_written": "",
     "Geschlecht": null,
     "Funktionsbezeichnungen": "Reichshofratspräsident",
-    "Titel": "Graf"
+    "Titel": "Graf",
+    "unidentifiziert": false
   },
   "192": {
     "id": 192,
@@ -4470,7 +4656,7 @@
     "gnd": "",
     "other_url": "",
     "emt_id": "emt_person_id__192",
-    "internal_comment": "unidentifiziert\nErzherzogin Maria Anna will sie in Düsseldorf bei sich haben",
+    "internal_comment": "Erzherzogin Maria Anna will sie in Düsseldorf bei sich haben",
     "color": "",
     "lebensdaten": "",
     "ndb": "",
@@ -4485,7 +4671,8 @@
     "death_date_written": "",
     "Geschlecht": null,
     "Funktionsbezeichnungen": null,
-    "Titel": "Gräfin"
+    "Titel": "Gräfin",
+    "unidentifiziert": true
   },
   "193": {
     "id": 193,
@@ -4494,7 +4681,7 @@
     "gnd": "",
     "other_url": "",
     "emt_id": "emt_person_id__193",
-    "internal_comment": "unidentifiziert\neventuell Maria Theresia von Rappach, die ab 1679 OHM bei EMT wird, oder ihre gleichnamige Tochter\nErzherzogin Maria Anna bedauert es sehr, dass sie nicht mit nach Düsseldorf gegangen ist 1679",
+    "internal_comment": "Erzherzogin Maria Anna bedauert es sehr, dass sie nicht mit nach Düsseldorf gegangen ist 1679 - eventuell Maria Theresia von Rappach, die ab 1679 OHM bei EMT wird, oder ihre gleichnamige Tochter",
     "color": "",
     "lebensdaten": "",
     "ndb": "",
@@ -4509,7 +4696,8 @@
     "death_date_written": "",
     "Geschlecht": null,
     "Funktionsbezeichnungen": null,
-    "Titel": "Gräfin"
+    "Titel": "Gräfin",
+    "unidentifiziert": true
   },
   "194": {
     "id": 194,
@@ -4533,7 +4721,8 @@
     "death_date_written": "",
     "Geschlecht": null,
     "Funktionsbezeichnungen": null,
-    "Titel": null
+    "Titel": null,
+    "unidentifiziert": false
   },
   "195": {
     "id": 195,
@@ -4542,7 +4731,7 @@
     "gnd": "",
     "other_url": "",
     "emt_id": "emt_person_id__195",
-    "internal_comment": "unidentifiziert",
+    "internal_comment": "",
     "color": "",
     "lebensdaten": "",
     "ndb": "",
@@ -4557,7 +4746,8 @@
     "death_date_written": "",
     "Geschlecht": null,
     "Funktionsbezeichnungen": null,
-    "Titel": null
+    "Titel": null,
+    "unidentifiziert": true
   },
   "196": {
     "id": 196,
@@ -4581,7 +4771,8 @@
     "death_date_written": "",
     "Geschlecht": null,
     "Funktionsbezeichnungen": "Fürstbischof von Brixen",
-    "Titel": null
+    "Titel": null,
+    "unidentifiziert": false
   },
   "197": {
     "id": 197,
@@ -4590,7 +4781,7 @@
     "gnd": "",
     "other_url": "",
     "emt_id": "emt_person_id__197",
-    "internal_comment": "unidentifiziert\nfür ihn soll EMT Fürsprache halten bei PW auf Bitte von Schellerer",
+    "internal_comment": "für ihn soll EMT Fürsprache halten bei PW auf Bitte von Schellerer",
     "color": "",
     "lebensdaten": "",
     "ndb": "",
@@ -4605,7 +4796,8 @@
     "death_date_written": "",
     "Geschlecht": null,
     "Funktionsbezeichnungen": null,
-    "Titel": null
+    "Titel": null,
+    "unidentifiziert": true
   },
   "198": {
     "id": 198,
@@ -4614,7 +4806,7 @@
     "gnd": "",
     "other_url": "",
     "emt_id": "emt_person_id__198",
-    "internal_comment": "unidentifiziert",
+    "internal_comment": "",
     "color": "",
     "lebensdaten": "",
     "ndb": "",
@@ -4629,7 +4821,8 @@
     "death_date_written": "",
     "Geschlecht": null,
     "Funktionsbezeichnungen": "Leibarzt in Wien",
-    "Titel": "Doktor"
+    "Titel": "Doktor",
+    "unidentifiziert": true
   },
   "199": {
     "id": 199,
@@ -4653,7 +4846,8 @@
     "death_date_written": "",
     "Geschlecht": null,
     "Funktionsbezeichnungen": null,
-    "Titel": "Graf"
+    "Titel": "Graf",
+    "unidentifiziert": false
   },
   "200": {
     "id": 200,
@@ -4677,7 +4871,8 @@
     "death_date_written": "",
     "Geschlecht": null,
     "Funktionsbezeichnungen": null,
-    "Titel": "Gräfin"
+    "Titel": "Gräfin",
+    "unidentifiziert": false
   },
   "201": {
     "id": 201,
@@ -4686,7 +4881,7 @@
     "gnd": "",
     "other_url": "",
     "emt_id": "emt_person_id__201",
-    "internal_comment": "unidentifiziert\nfür ihn soll EMT Fürsprache bei Leopold einlegen",
+    "internal_comment": "für ihn soll EMT Fürsprache bei Leopold einlegen",
     "color": "",
     "lebensdaten": "",
     "ndb": "",
@@ -4701,7 +4896,8 @@
     "death_date_written": "",
     "Geschlecht": null,
     "Funktionsbezeichnungen": null,
-    "Titel": null
+    "Titel": null,
+    "unidentifiziert": true
   },
   "202": {
     "id": 202,
@@ -4710,7 +4906,7 @@
     "gnd": "",
     "other_url": "",
     "emt_id": "emt_person_id__202",
-    "internal_comment": "unidentifiziert\nPW vermittelt ihn an Leopold I. nach Wien, evtl. Kreckler, der 1680 den Dienst antritt",
+    "internal_comment": "PW vermittelt ihn an Leopold I. nach Wien, evtl. Kreckler, der 1680 den Dienst antritt",
     "color": "",
     "lebensdaten": "",
     "ndb": "",
@@ -4725,7 +4921,8 @@
     "death_date_written": "",
     "Geschlecht": null,
     "Funktionsbezeichnungen": null,
-    "Titel": null
+    "Titel": null,
+    "unidentifiziert": true
   },
   "203": {
     "id": 203,
@@ -4749,7 +4946,8 @@
     "death_date_written": "",
     "Geschlecht": null,
     "Funktionsbezeichnungen": "Fräuleinhofmeisterin",
-    "Titel": "Gräfin"
+    "Titel": "Gräfin",
+    "unidentifiziert": false
   },
   "204": {
     "id": 204,
@@ -4773,7 +4971,8 @@
     "death_date_written": "",
     "Geschlecht": null,
     "Funktionsbezeichnungen": null,
-    "Titel": "Graf"
+    "Titel": "Graf",
+    "unidentifiziert": false
   },
   "205": {
     "id": 205,
@@ -4797,7 +4996,8 @@
     "death_date_written": "",
     "Geschlecht": null,
     "Funktionsbezeichnungen": null,
-    "Titel": null
+    "Titel": null,
+    "unidentifiziert": false
   },
   "206": {
     "id": 206,
@@ -4821,7 +5021,8 @@
     "death_date_written": "",
     "Geschlecht": null,
     "Funktionsbezeichnungen": null,
-    "Titel": "Herzog"
+    "Titel": "Herzog",
+    "unidentifiziert": false
   },
   "207": {
     "id": 207,
@@ -4830,7 +5031,7 @@
     "gnd": "",
     "other_url": "",
     "emt_id": "emt_person_id__207",
-    "internal_comment": "unidentifiziert\nWilhelm oder Philipp? beide am Wiener Hof, Philipp stirbt 1680 als Kämmerer",
+    "internal_comment": "Wilhelm oder Philipp? beide am Wiener Hof, Philipp stirbt 1680 als Kämmerer",
     "color": "",
     "lebensdaten": "",
     "ndb": "",
@@ -4845,7 +5046,8 @@
     "death_date_written": "",
     "Geschlecht": null,
     "Funktionsbezeichnungen": null,
-    "Titel": null
+    "Titel": null,
+    "unidentifiziert": true
   },
   "208": {
     "id": 208,
@@ -4869,7 +5071,8 @@
     "death_date_written": "",
     "Geschlecht": null,
     "Funktionsbezeichnungen": "Deutschordensritter",
-    "Titel": null
+    "Titel": null,
+    "unidentifiziert": false
   },
   "209": {
     "id": 209,
@@ -4878,7 +5081,7 @@
     "gnd": "",
     "other_url": "",
     "emt_id": "emt_person_id__209",
-    "internal_comment": "unidentifiziert",
+    "internal_comment": "Pater der PW wohlbekannt sein muss",
     "color": "",
     "lebensdaten": "",
     "ndb": "",
@@ -4893,7 +5096,8 @@
     "death_date_written": "",
     "Geschlecht": null,
     "Funktionsbezeichnungen": null,
-    "Titel": "Pater"
+    "Titel": "Pater",
+    "unidentifiziert": true
   },
   "210": {
     "id": 210,
@@ -4917,7 +5121,8 @@
     "death_date_written": "",
     "Geschlecht": null,
     "Funktionsbezeichnungen": null,
-    "Titel": "Marques"
+    "Titel": "Marques",
+    "unidentifiziert": false
   },
   "211": {
     "id": 211,
@@ -4941,31 +5146,8 @@
     "death_date_written": "",
     "Geschlecht": null,
     "Funktionsbezeichnungen": null,
-    "Titel": "Kurfürst"
-  },
-  "212": {
-    "id": 212,
-    "order": "212.00000000000000000000",
-    "name": "",
-    "gnd": "",
-    "other_url": "",
-    "emt_id": "emt_person_id__212",
-    "internal_comment": "",
-    "color": "",
-    "lebensdaten": "",
-    "ndb": "",
-    "year_of_birth": null,
-    "year_of_death": null,
-    "wikidata_url": "",
-    "wikidata_enriched": false,
-    "img_name": "",
-    "img_fetched": false,
-    "img_source": "",
-    "birth_date_written": "",
-    "death_date_written": "",
-    "Geschlecht": null,
-    "Funktionsbezeichnungen": null,
-    "Titel": null
+    "Titel": "Kurfürst",
+    "unidentifiziert": false
   },
   "213": {
     "id": 213,
@@ -4989,7 +5171,8 @@
     "death_date_written": "",
     "Geschlecht": null,
     "Funktionsbezeichnungen": "französischer Botschafter",
-    "Titel": "comte"
+    "Titel": "comte",
+    "unidentifiziert": false
   },
   "214": {
     "id": 214,
@@ -5013,7 +5196,8 @@
     "death_date_written": "",
     "Geschlecht": null,
     "Funktionsbezeichnungen": null,
-    "Titel": "König"
+    "Titel": "König",
+    "unidentifiziert": false
   },
   "215": {
     "id": 215,
@@ -5037,16 +5221,17 @@
     "death_date_written": "",
     "Geschlecht": null,
     "Funktionsbezeichnungen": null,
-    "Titel": "Graf"
+    "Titel": "Graf",
+    "unidentifiziert": false
   },
   "216": {
     "id": 216,
     "order": "216.00000000000000000000",
-    "name": "Erzbischof, der ein Archidiakonat verleiht, das Juan José de Austria inne hatte",
+    "name": "Erzbischof, der 1679 ein Archidiakonat verleiht, das Juan José de Austria inne hatte",
     "gnd": "",
     "other_url": "",
     "emt_id": "emt_person_id__216",
-    "internal_comment": "unidentifiziert\n1679",
+    "internal_comment": "",
     "color": "",
     "lebensdaten": "",
     "ndb": "",
@@ -5061,7 +5246,8 @@
     "death_date_written": "",
     "Geschlecht": null,
     "Funktionsbezeichnungen": null,
-    "Titel": null
+    "Titel": null,
+    "unidentifiziert": true
   },
   "217": {
     "id": 217,
@@ -5085,7 +5271,8 @@
     "death_date_written": "",
     "Geschlecht": null,
     "Funktionsbezeichnungen": "venezianischer Botschafter",
-    "Titel": null
+    "Titel": null,
+    "unidentifiziert": false
   },
   "219": {
     "id": 219,
@@ -5109,7 +5296,8 @@
     "death_date_written": "",
     "Geschlecht": null,
     "Funktionsbezeichnungen": "Papst",
-    "Titel": "Papst"
+    "Titel": "Papst",
+    "unidentifiziert": false
   },
   "220": {
     "id": 220,
@@ -5118,7 +5306,7 @@
     "gnd": "",
     "other_url": "",
     "emt_id": "emt_person_id__220",
-    "internal_comment": "unidentifiziert",
+    "internal_comment": "",
     "color": "",
     "lebensdaten": "",
     "ndb": "",
@@ -5133,7 +5321,8 @@
     "death_date_written": "",
     "Geschlecht": null,
     "Funktionsbezeichnungen": null,
-    "Titel": null
+    "Titel": null,
+    "unidentifiziert": true
   },
   "221": {
     "id": 221,
@@ -5157,7 +5346,8 @@
     "death_date_written": "",
     "Geschlecht": null,
     "Funktionsbezeichnungen": "spanischer Botschafter",
-    "Titel": "Marques"
+    "Titel": "Marques",
+    "unidentifiziert": false
   },
   "222": {
     "id": 222,
@@ -5166,7 +5356,7 @@
     "gnd": "",
     "other_url": "",
     "emt_id": "emt_person_id__222",
-    "internal_comment": "unidentifiziert\nsoll nach PWs Wunsch 1679 zu etwas ernannt werden, was aber Hamilton wird - evtl. Geheimer Rat?",
+    "internal_comment": "soll nach PWs Wunsch 1679 zu etwas ernannt werden, was aber Hamilton wird - evtl. Geheimer Rat?",
     "color": "",
     "lebensdaten": "",
     "ndb": "",
@@ -5181,7 +5371,8 @@
     "death_date_written": "",
     "Geschlecht": null,
     "Funktionsbezeichnungen": null,
-    "Titel": null
+    "Titel": null,
+    "unidentifiziert": true
   },
   "223": {
     "id": 223,
@@ -5205,7 +5396,8 @@
     "death_date_written": "",
     "Geschlecht": null,
     "Funktionsbezeichnungen": null,
-    "Titel": "Gräfin"
+    "Titel": "Gräfin",
+    "unidentifiziert": false
   },
   "224": {
     "id": 224,
@@ -5229,7 +5421,8 @@
     "death_date_written": "",
     "Geschlecht": null,
     "Funktionsbezeichnungen": "Oberin",
-    "Titel": ""
+    "Titel": "",
+    "unidentifiziert": false
   },
   "225": {
     "id": 225,
@@ -5238,7 +5431,7 @@
     "gnd": "",
     "other_url": "",
     "emt_id": "emt_person_id__225",
-    "internal_comment": "unidentifiziert\nist 1679 schon verstorben und mit Hamilton verwandt, möglicherweise sein Vater oder Onkel?",
+    "internal_comment": "ist 1679 schon verstorben und mit Hamilton verwandt, möglicherweise sein Vater oder Onkel?",
     "color": "",
     "lebensdaten": "",
     "ndb": "",
@@ -5253,7 +5446,8 @@
     "death_date_written": "",
     "Geschlecht": null,
     "Funktionsbezeichnungen": null,
-    "Titel": null
+    "Titel": null,
+    "unidentifiziert": true
   },
   "226": {
     "id": 226,
@@ -5262,7 +5456,7 @@
     "gnd": "",
     "other_url": "",
     "emt_id": "emt_person_id__226",
-    "internal_comment": "unidentifiziert\nzu dessen Gunsten hält EMT wegen des Welden Fürbitte bei Leopold I. (unklare Formulierung, 45_8_267)",
+    "internal_comment": "zu dessen Gunsten hält EMT wegen des Welden Fürbitte bei Leopold I. (unklare Formulierung, 45_8_267)",
     "color": "",
     "lebensdaten": "",
     "ndb": "",
@@ -5277,7 +5471,8 @@
     "death_date_written": "",
     "Geschlecht": null,
     "Funktionsbezeichnungen": null,
-    "Titel": null
+    "Titel": null,
+    "unidentifiziert": true
   },
   "227": {
     "id": 227,
@@ -5301,7 +5496,8 @@
     "death_date_written": "",
     "Geschlecht": null,
     "Funktionsbezeichnungen": "Großmeister des Johanniterordens",
-    "Titel": null
+    "Titel": null,
+    "unidentifiziert": false
   },
   "228": {
     "id": 228,
@@ -5325,7 +5521,8 @@
     "death_date_written": "",
     "Geschlecht": null,
     "Funktionsbezeichnungen": "Obersthofmeister Leopolds I.",
-    "Titel": "Graf"
+    "Titel": "Graf",
+    "unidentifiziert": false
   },
   "229": {
     "id": 229,
@@ -5349,7 +5546,8 @@
     "death_date_written": "",
     "Geschlecht": null,
     "Funktionsbezeichnungen": null,
-    "Titel": "Herzog"
+    "Titel": "Herzog",
+    "unidentifiziert": false
   },
   "230": {
     "id": 230,
@@ -5358,7 +5556,7 @@
     "gnd": "",
     "other_url": "",
     "emt_id": "emt_person_id__230",
-    "internal_comment": "unidentifiziert\nwahrscheinlich Arzt am Wiener Hof 1680 (mit in Prag)",
+    "internal_comment": "wahrscheinlich Arzt am Wiener Hof 1680 (mit in Prag)",
     "color": "",
     "lebensdaten": "",
     "ndb": "",
@@ -5373,31 +5571,8 @@
     "death_date_written": "",
     "Geschlecht": null,
     "Funktionsbezeichnungen": "Leibarzt",
-    "Titel": "Doktor"
-  },
-  "231": {
-    "id": 231,
-    "order": "231.00000000000000000000",
-    "name": "",
-    "gnd": "",
-    "other_url": "",
-    "emt_id": "emt_person_id__231",
-    "internal_comment": "",
-    "color": "",
-    "lebensdaten": "",
-    "ndb": "",
-    "year_of_birth": null,
-    "year_of_death": null,
-    "wikidata_url": "",
-    "wikidata_enriched": false,
-    "img_name": "",
-    "img_fetched": false,
-    "img_source": "",
-    "birth_date_written": "",
-    "death_date_written": "",
-    "Geschlecht": null,
-    "Funktionsbezeichnungen": null,
-    "Titel": null
+    "Titel": "Doktor",
+    "unidentifiziert": true
   },
   "232": {
     "id": 232,
@@ -5421,7 +5596,8 @@
     "death_date_written": "",
     "Geschlecht": null,
     "Funktionsbezeichnungen": null,
-    "Titel": "Graf"
+    "Titel": "Graf",
+    "unidentifiziert": false
   },
   "233": {
     "id": 233,
@@ -5445,7 +5621,8 @@
     "death_date_written": "",
     "Geschlecht": null,
     "Funktionsbezeichnungen": null,
-    "Titel": "Graf"
+    "Titel": "Graf",
+    "unidentifiziert": false
   },
   "234": {
     "id": 234,
@@ -5454,7 +5631,7 @@
     "gnd": "",
     "other_url": "",
     "emt_id": "emt_person_id__234",
-    "internal_comment": "unidentifiziert",
+    "internal_comment": "",
     "color": "",
     "lebensdaten": "",
     "ndb": "",
@@ -5469,7 +5646,8 @@
     "death_date_written": "",
     "Geschlecht": null,
     "Funktionsbezeichnungen": null,
-    "Titel": null
+    "Titel": null,
+    "unidentifiziert": true
   },
   "236": {
     "id": 236,
@@ -5493,7 +5671,8 @@
     "death_date_written": "",
     "Geschlecht": null,
     "Funktionsbezeichnungen": "Oberstkämmerer Leopolds I.",
-    "Titel": "Graf"
+    "Titel": "Graf",
+    "unidentifiziert": false
   },
   "237": {
     "id": 237,
@@ -5517,7 +5696,8 @@
     "death_date_written": "",
     "Geschlecht": null,
     "Funktionsbezeichnungen": null,
-    "Titel": "Herzog"
+    "Titel": "Herzog",
+    "unidentifiziert": false
   },
   "238": {
     "id": 238,
@@ -5541,7 +5721,8 @@
     "death_date_written": "",
     "Geschlecht": null,
     "Funktionsbezeichnungen": null,
-    "Titel": "Markgraf"
+    "Titel": "Markgraf",
+    "unidentifiziert": false
   },
   "239": {
     "id": 239,
@@ -5565,7 +5746,8 @@
     "death_date_written": "",
     "Geschlecht": null,
     "Funktionsbezeichnungen": null,
-    "Titel": null
+    "Titel": null,
+    "unidentifiziert": false
   },
   "240": {
     "id": 240,
@@ -5589,7 +5771,8 @@
     "death_date_written": "",
     "Geschlecht": null,
     "Funktionsbezeichnungen": "Dauphine von Frankreich",
-    "Titel": "Dauphine"
+    "Titel": "Dauphine",
+    "unidentifiziert": false
   },
   "241": {
     "id": 241,
@@ -5598,7 +5781,7 @@
     "gnd": "",
     "other_url": "",
     "emt_id": "emt_person_id__241",
-    "internal_comment": "unidentifiziert\nunsichere Schreibweise, evtl. 1680 als Nachfolger von Tanner im Gespräch??",
+    "internal_comment": "unsichere Schreibweise, evtl. 1680 als Nachfolger von Tanner im Gespräch??",
     "color": "",
     "lebensdaten": "",
     "ndb": "",
@@ -5613,7 +5796,8 @@
     "death_date_written": "",
     "Geschlecht": null,
     "Funktionsbezeichnungen": null,
-    "Titel": "Pater"
+    "Titel": "Pater",
+    "unidentifiziert": true
   },
   "242": {
     "id": 242,
@@ -5622,7 +5806,7 @@
     "gnd": "",
     "other_url": "",
     "emt_id": "emt_person_id__242",
-    "internal_comment": "unidentifiziert\nevtl. Baden-Baden ?",
+    "internal_comment": "evtl. Baden-Baden ?",
     "color": "",
     "lebensdaten": "",
     "ndb": "",
@@ -5637,7 +5821,8 @@
     "death_date_written": "",
     "Geschlecht": null,
     "Funktionsbezeichnungen": null,
-    "Titel": null
+    "Titel": null,
+    "unidentifiziert": true
   },
   "243": {
     "id": 243,
@@ -5646,7 +5831,7 @@
     "gnd": "",
     "other_url": "",
     "emt_id": "emt_person_id__243",
-    "internal_comment": "unidentifiziert",
+    "internal_comment": "",
     "color": "",
     "lebensdaten": "",
     "ndb": "",
@@ -5661,7 +5846,8 @@
     "death_date_written": "",
     "Geschlecht": null,
     "Funktionsbezeichnungen": null,
-    "Titel": null
+    "Titel": null,
+    "unidentifiziert": true
   },
   "244": {
     "id": 244,
@@ -5670,7 +5856,7 @@
     "gnd": "",
     "other_url": "",
     "emt_id": "emt_person_id__244",
-    "internal_comment": "unidentifiziert\nsoll 1680 Kämmerer werden - fünf Schwiegersöhne in zeitlicher Reihenfolge:\n1667 Viktor Jakob von Prandegg\n1669 Heinrich von Pergen\n1672 Johann Georg von Kuefstein\n1675 Johann Ferdinand von Stachlburg\n1682 Ferdinand von Winkelhofen",
+    "internal_comment": "soll 1680 Kämmerer werden - fünf Schwiegersöhne in zeitlicher Reihenfolge:\n1667 Viktor Jakob von Prandegg\n1669 Heinrich von Pergen\n1672 Johann Georg von Kuefstein\n1675 Johann Ferdinand von Stachlburg\n1682 Ferdinand von Winkelhofen",
     "color": "",
     "lebensdaten": "",
     "ndb": "",
@@ -5685,7 +5871,8 @@
     "death_date_written": "",
     "Geschlecht": null,
     "Funktionsbezeichnungen": null,
-    "Titel": null
+    "Titel": null,
+    "unidentifiziert": true
   },
   "245": {
     "id": 245,
@@ -5709,7 +5896,8 @@
     "death_date_written": "",
     "Geschlecht": null,
     "Funktionsbezeichnungen": null,
-    "Titel": "Herzogin"
+    "Titel": "Herzogin",
+    "unidentifiziert": false
   },
   "246": {
     "id": 246,
@@ -5718,7 +5906,7 @@
     "gnd": "",
     "other_url": "",
     "emt_id": "emt_person_id__246",
-    "internal_comment": "unidentifiziert\nsollte ursprünglich Hofdame bei EMT werden, erkrankt 1680 in Prag an der Pest - sicher eine der drei unverheirateten Töchter von Johann Weikhard von Auersperg, siehe http://genealogy.euweb.cz/auersperg/auersperg4.html",
+    "internal_comment": "sollte ursprünglich Hofdame bei EMT werden, erkrankt 1680 in Prag an der Pest - sicher eine der drei unverheirateten Töchter von Johann Weikhard von Auersperg, siehe http://genealogy.euweb.cz/auersperg/auersperg4.html",
     "color": "",
     "lebensdaten": "",
     "ndb": "",
@@ -5733,7 +5921,8 @@
     "death_date_written": "",
     "Geschlecht": null,
     "Funktionsbezeichnungen": null,
-    "Titel": null
+    "Titel": null,
+    "unidentifiziert": true
   },
   "247": {
     "id": 247,
@@ -5742,7 +5931,7 @@
     "gnd": "",
     "other_url": "",
     "emt_id": "emt_person_id__247",
-    "internal_comment": "unidentifiziert\nFranziskaner oder Kapuziner, wird in Ordensprovinz geschickt, in der sich Neuburg befindet - 1680, vermutlich aus Böhmen",
+    "internal_comment": "Franziskaner oder Kapuziner, wird in Ordensprovinz geschickt, in der sich Neuburg befindet - 1680, vermutlich aus Böhmen",
     "color": "",
     "lebensdaten": "",
     "ndb": "",
@@ -5757,7 +5946,8 @@
     "death_date_written": "",
     "Geschlecht": null,
     "Funktionsbezeichnungen": null,
-    "Titel": null
+    "Titel": null,
+    "unidentifiziert": true
   },
   "248": {
     "id": 248,
@@ -5781,7 +5971,8 @@
     "death_date_written": "",
     "Geschlecht": null,
     "Funktionsbezeichnungen": "Statthalter der Niederlande",
-    "Titel": "Erzherzog"
+    "Titel": "Erzherzog",
+    "unidentifiziert": false
   },
   "249": {
     "id": 249,
@@ -5805,7 +5996,8 @@
     "death_date_written": "",
     "Geschlecht": null,
     "Funktionsbezeichnungen": "Statthalterin der Niederlande",
-    "Titel": "Infantin, Erzherzogin"
+    "Titel": "Infantin, Erzherzogin",
+    "unidentifiziert": false
   },
   "250": {
     "id": 250,
@@ -5829,7 +6021,8 @@
     "death_date_written": "",
     "Geschlecht": null,
     "Funktionsbezeichnungen": "Statthalter der Niederlande",
-    "Titel": "Erzherzog"
+    "Titel": "Erzherzog",
+    "unidentifiziert": false
   },
   "251": {
     "id": 251,
@@ -5853,7 +6046,8 @@
     "death_date_written": "",
     "Geschlecht": null,
     "Funktionsbezeichnungen": "Beichtvater EMT 1680-1684",
-    "Titel": "Pater"
+    "Titel": "Pater",
+    "unidentifiziert": false
   },
   "252": {
     "id": 252,
@@ -5877,7 +6071,8 @@
     "death_date_written": "",
     "Geschlecht": null,
     "Funktionsbezeichnungen": null,
-    "Titel": "König"
+    "Titel": "König",
+    "unidentifiziert": false
   },
   "253": {
     "id": 253,
@@ -5901,7 +6096,8 @@
     "death_date_written": "",
     "Geschlecht": null,
     "Funktionsbezeichnungen": null,
-    "Titel": "Pater"
+    "Titel": "Pater",
+    "unidentifiziert": false
   },
   "254": {
     "id": 254,
@@ -5925,7 +6121,8 @@
     "death_date_written": "",
     "Geschlecht": null,
     "Funktionsbezeichnungen": "Bischof von Augsburg",
-    "Titel": null
+    "Titel": null,
+    "unidentifiziert": false
   },
   "255": {
     "id": 255,
@@ -5934,7 +6131,7 @@
     "gnd": "",
     "other_url": "",
     "emt_id": "emt_person_id__255",
-    "internal_comment": "unidentifiziert\nEMT erwähnt ihn als Beispiel für Trunkenheit 1680 - möglicher weise ident mit Franz Conrad von Stadion?",
+    "internal_comment": "EMT erwähnt ihn als Beispiel für Trunkenheit 1680 - möglicher weise ident mit Franz Conrad von Stadion?",
     "color": "",
     "lebensdaten": "",
     "ndb": "",
@@ -5949,7 +6146,8 @@
     "death_date_written": "",
     "Geschlecht": null,
     "Funktionsbezeichnungen": null,
-    "Titel": null
+    "Titel": null,
+    "unidentifiziert": true
   },
   "256": {
     "id": 256,
@@ -5958,7 +6156,7 @@
     "gnd": "",
     "other_url": "",
     "emt_id": "emt_person_id__256",
-    "internal_comment": "unidentifiziert\nübermittelt Nachrichten zu spanischen Niederlanden, die aber nicht korrekt sind 1680\nvielleicht 1685 gestorben",
+    "internal_comment": "übermittelt Nachrichten zu spanischen Niederlanden, die aber nicht korrekt sind 1680\nvielleicht 1685 gestorben",
     "color": "",
     "lebensdaten": "",
     "ndb": "",
@@ -5973,7 +6171,8 @@
     "death_date_written": "",
     "Geschlecht": null,
     "Funktionsbezeichnungen": "Resident in Brüssel",
-    "Titel": null
+    "Titel": null,
+    "unidentifiziert": true
   },
   "257": {
     "id": 257,
@@ -5982,7 +6181,7 @@
     "gnd": "",
     "other_url": "",
     "emt_id": "emt_person_id__257",
-    "internal_comment": "unidentifiziert\nwird von Wien nach Augsburg gesendet wegen Koadjutorie für Bischof für EMTs Bruder",
+    "internal_comment": "wird von Wien nach Augsburg gesendet wegen Koadjutorie für Bischof für EMTs Bruder",
     "color": "",
     "lebensdaten": "",
     "ndb": "",
@@ -5997,7 +6196,8 @@
     "death_date_written": "",
     "Geschlecht": null,
     "Funktionsbezeichnungen": null,
-    "Titel": null
+    "Titel": null,
+    "unidentifiziert": true
   },
   "258": {
     "id": 258,
@@ -6021,7 +6221,8 @@
     "death_date_written": "",
     "Geschlecht": null,
     "Funktionsbezeichnungen": "Oberstkanzler in Böhmen",
-    "Titel": "Graf"
+    "Titel": "Graf",
+    "unidentifiziert": false
   },
   "259": {
     "id": 259,
@@ -6045,7 +6246,8 @@
     "death_date_written": "",
     "Geschlecht": null,
     "Funktionsbezeichnungen": "Statthalter der Spanischen Niederlande 1678 bis 1682",
-    "Titel": "Herzog"
+    "Titel": "Herzog",
+    "unidentifiziert": false
   },
   "260": {
     "id": 260,
@@ -6069,7 +6271,8 @@
     "death_date_written": "",
     "Geschlecht": null,
     "Funktionsbezeichnungen": null,
-    "Titel": "Herzog"
+    "Titel": "Herzog",
+    "unidentifiziert": false
   },
   "261": {
     "id": 261,
@@ -6078,7 +6281,7 @@
     "gnd": "",
     "other_url": "",
     "emt_id": "emt_person_id__261",
-    "internal_comment": "unidentifiziert\nbringt Erzherzog Joseph ein Pferdchen von Hamburg mit nach Linz 1680",
+    "internal_comment": "bringt Erzherzog Joseph ein Pferdchen von Hamburg mit nach Linz 1680",
     "color": "",
     "lebensdaten": "",
     "ndb": "",
@@ -6093,7 +6296,8 @@
     "death_date_written": "",
     "Geschlecht": null,
     "Funktionsbezeichnungen": null,
-    "Titel": null
+    "Titel": null,
+    "unidentifiziert": true
   },
   "262": {
     "id": 262,
@@ -6117,31 +6321,8 @@
     "death_date_written": "",
     "Geschlecht": null,
     "Funktionsbezeichnungen": null,
-    "Titel": null
-  },
-  "263": {
-    "id": 263,
-    "order": "263.00000000000000000000",
-    "name": "",
-    "gnd": "",
-    "other_url": "",
-    "emt_id": "emt_person_id__263",
-    "internal_comment": "",
-    "color": "",
-    "lebensdaten": "",
-    "ndb": "",
-    "year_of_birth": null,
-    "year_of_death": null,
-    "wikidata_url": "",
-    "wikidata_enriched": false,
-    "img_name": "",
-    "img_fetched": false,
-    "img_source": "",
-    "birth_date_written": "",
-    "death_date_written": "",
-    "Geschlecht": null,
-    "Funktionsbezeichnungen": null,
-    "Titel": null
+    "Titel": null,
+    "unidentifiziert": false
   },
   "264": {
     "id": 264,
@@ -6165,7 +6346,8 @@
     "death_date_written": "",
     "Geschlecht": null,
     "Funktionsbezeichnungen": null,
-    "Titel": "Gräfin"
+    "Titel": "Gräfin",
+    "unidentifiziert": false
   },
   "265": {
     "id": 265,
@@ -6189,7 +6371,8 @@
     "death_date_written": "",
     "Geschlecht": null,
     "Funktionsbezeichnungen": null,
-    "Titel": "Fürst"
+    "Titel": "Fürst",
+    "unidentifiziert": false
   },
   "266": {
     "id": 266,
@@ -6198,7 +6381,7 @@
     "gnd": "",
     "other_url": "",
     "emt_id": "emt_person_id__266",
-    "internal_comment": "unidentifiziert\nLeopold I. schickt ihn im Februar 1681 zu PW",
+    "internal_comment": "Leopold I. schickt ihn im Februar 1681 zu PW",
     "color": "",
     "lebensdaten": "",
     "ndb": "",
@@ -6213,7 +6396,8 @@
     "death_date_written": "",
     "Geschlecht": null,
     "Funktionsbezeichnungen": null,
-    "Titel": null
+    "Titel": null,
+    "unidentifiziert": true
   },
   "267": {
     "id": 267,
@@ -6222,7 +6406,7 @@
     "gnd": "",
     "other_url": "",
     "emt_id": "emt_person_id__267",
-    "internal_comment": "unidentifiziert\nEMT soll 1681 für ihn eine Fürbitte bei PW leisten, will Kämmerer werden, ist Truchseß",
+    "internal_comment": "EMT soll 1681 für ihn eine Fürbitte bei PW leisten, will Kämmerer werden, ist Truchseß",
     "color": "",
     "lebensdaten": "",
     "ndb": "",
@@ -6237,7 +6421,8 @@
     "death_date_written": "",
     "Geschlecht": null,
     "Funktionsbezeichnungen": null,
-    "Titel": null
+    "Titel": null,
+    "unidentifiziert": true
   },
   "268": {
     "id": 268,
@@ -6246,7 +6431,7 @@
     "gnd": "",
     "other_url": "",
     "emt_id": "emt_person_id__268",
-    "internal_comment": "unidentifiziert\nsegnet den erkrankten Joseph im Auftrag von Pater Marco d'Aviano in Osterzeit 1681",
+    "internal_comment": "segnet den erkrankten Erzherzog Joseph im Auftrag von Pater Marco d'Aviano in Osterzeit 1681",
     "color": "",
     "lebensdaten": "",
     "ndb": "",
@@ -6261,7 +6446,8 @@
     "death_date_written": "",
     "Geschlecht": null,
     "Funktionsbezeichnungen": null,
-    "Titel": "Pater"
+    "Titel": "Pater",
+    "unidentifiziert": true
   },
   "269": {
     "id": 269,
@@ -6270,7 +6456,7 @@
     "gnd": "",
     "other_url": "",
     "emt_id": "emt_person_id__269",
-    "internal_comment": "unidentifiziert\nist häufig krank, weshalb EMT den kränklichen Joseph in Obhut von Doktor Huber in Linz lässt 1681",
+    "internal_comment": "Leibarzt, ist häufig krank, weshalb EMT den kränklichen Joseph in Obhut von Doktor Huber in Linz lässt 1681",
     "color": "",
     "lebensdaten": "",
     "ndb": "",
@@ -6285,7 +6471,8 @@
     "death_date_written": "",
     "Geschlecht": null,
     "Funktionsbezeichnungen": "Leibarzt",
-    "Titel": "Doktor"
+    "Titel": "Doktor",
+    "unidentifiziert": true
   },
   "270": {
     "id": 270,
@@ -6294,7 +6481,7 @@
     "gnd": "",
     "other_url": "",
     "emt_id": "emt_person_id__270",
-    "internal_comment": "unidentifiziert\nunterstützt Johann Wilhelm in Regentschaft in Düsseldorf 1681",
+    "internal_comment": "unterstützt Johann Wilhelm in Regentschaft in Düsseldorf 1681",
     "color": "",
     "lebensdaten": "",
     "ndb": "",
@@ -6309,7 +6496,8 @@
     "death_date_written": "",
     "Geschlecht": null,
     "Funktionsbezeichnungen": null,
-    "Titel": "Graf"
+    "Titel": "Graf",
+    "unidentifiziert": true
   },
   "271": {
     "id": 271,
@@ -6318,7 +6506,7 @@
     "gnd": "",
     "other_url": "",
     "emt_id": "emt_person_id__271",
-    "internal_comment": "unidentifiziert",
+    "internal_comment": "",
     "color": "",
     "lebensdaten": "",
     "ndb": "",
@@ -6333,7 +6521,8 @@
     "death_date_written": "",
     "Geschlecht": null,
     "Funktionsbezeichnungen": null,
-    "Titel": null
+    "Titel": null,
+    "unidentifiziert": true
   },
   "272": {
     "id": 272,
@@ -6357,7 +6546,8 @@
     "death_date_written": "",
     "Geschlecht": null,
     "Funktionsbezeichnungen": null,
-    "Titel": "Margräfin, Kurfürstin"
+    "Titel": "Margräfin, Kurfürstin",
+    "unidentifiziert": false
   },
   "273": {
     "id": 273,
@@ -6381,7 +6571,8 @@
     "death_date_written": "",
     "Geschlecht": null,
     "Funktionsbezeichnungen": "Bischof von Münster",
-    "Titel": null
+    "Titel": null,
+    "unidentifiziert": false
   },
   "274": {
     "id": 274,
@@ -6405,7 +6596,8 @@
     "death_date_written": "",
     "Geschlecht": null,
     "Funktionsbezeichnungen": "schwedischer Botschafter",
-    "Titel": "Graf"
+    "Titel": "Graf",
+    "unidentifiziert": false
   },
   "275": {
     "id": 275,
@@ -6429,7 +6621,8 @@
     "death_date_written": "",
     "Geschlecht": null,
     "Funktionsbezeichnungen": null,
-    "Titel": "Herzogin, Kurfürstin, Königin"
+    "Titel": "Herzogin, Kurfürstin, Königin",
+    "unidentifiziert": false
   },
   "276": {
     "id": 276,
@@ -6438,7 +6631,7 @@
     "gnd": "",
     "other_url": "",
     "emt_id": "emt_person_id__276",
-    "internal_comment": "unidentifiziert\nist 1681 gemeinsam mit Marco d'Aviano in Frankreich unterwegs",
+    "internal_comment": "ist 1681 gemeinsam mit Marco d'Aviano in Frankreich unterwegs",
     "color": "",
     "lebensdaten": "",
     "ndb": "",
@@ -6453,7 +6646,8 @@
     "death_date_written": "",
     "Geschlecht": null,
     "Funktionsbezeichnungen": null,
-    "Titel": "Pater"
+    "Titel": "Pater",
+    "unidentifiziert": true
   },
   "277": {
     "id": 277,
@@ -6462,7 +6656,7 @@
     "gnd": "",
     "other_url": "",
     "emt_id": "emt_person_id__277",
-    "internal_comment": "unidentifiziert\nhätte 1681 mit Marco d'Aviano von Neuburg nach Wien kommen können",
+    "internal_comment": "hätte 1681 mit Marco d'Aviano von Neuburg nach Wien kommen können",
     "color": "",
     "lebensdaten": "",
     "ndb": "",
@@ -6477,7 +6671,8 @@
     "death_date_written": "",
     "Geschlecht": null,
     "Funktionsbezeichnungen": null,
-    "Titel": "Pater"
+    "Titel": "Pater",
+    "unidentifiziert": true
   },
   "278": {
     "id": 278,
@@ -6501,7 +6696,8 @@
     "death_date_written": "",
     "Geschlecht": null,
     "Funktionsbezeichnungen": "Palatin von Ungarn",
-    "Titel": "Fürst"
+    "Titel": "Fürst",
+    "unidentifiziert": false
   },
   "279": {
     "id": 279,
@@ -6525,7 +6721,8 @@
     "death_date_written": "",
     "Geschlecht": null,
     "Funktionsbezeichnungen": null,
-    "Titel": "Graf"
+    "Titel": "Graf",
+    "unidentifiziert": false
   },
   "280": {
     "id": 280,
@@ -6549,7 +6746,8 @@
     "death_date_written": "",
     "Geschlecht": null,
     "Funktionsbezeichnungen": null,
-    "Titel": "König"
+    "Titel": "König",
+    "unidentifiziert": false
   },
   "281": {
     "id": 281,
@@ -6558,7 +6756,7 @@
     "gnd": "",
     "other_url": "",
     "emt_id": "emt_person_id__281",
-    "internal_comment": "unidentifiziert",
+    "internal_comment": "",
     "color": "",
     "lebensdaten": "",
     "ndb": "",
@@ -6573,7 +6771,8 @@
     "death_date_written": "",
     "Geschlecht": null,
     "Funktionsbezeichnungen": null,
-    "Titel": null
+    "Titel": null,
+    "unidentifiziert": true
   },
   "282": {
     "id": 282,
@@ -6597,7 +6796,8 @@
     "death_date_written": "",
     "Geschlecht": null,
     "Funktionsbezeichnungen": "General",
-    "Titel": null
+    "Titel": null,
+    "unidentifiziert": false
   },
   "283": {
     "id": 283,
@@ -6606,7 +6806,7 @@
     "gnd": "",
     "other_url": "",
     "emt_id": "emt_person_id__283",
-    "internal_comment": "unidentifiziert\nin Prag, an ihn soll Pension für Vetter Philipp aus dem Kriegszahlamt übermittelt werden, damit er sie dessen Beauftragten auszahlen kann",
+    "internal_comment": "in Prag, an ihn soll Pension für Vetter Philipp aus dem Kriegszahlamt übermittelt werden, damit er sie dessen Beauftragten auszahlen kann",
     "color": "",
     "lebensdaten": "",
     "ndb": "",
@@ -6621,7 +6821,8 @@
     "death_date_written": "",
     "Geschlecht": null,
     "Funktionsbezeichnungen": null,
-    "Titel": null
+    "Titel": null,
+    "unidentifiziert": true
   },
   "285": {
     "id": 285,
@@ -6645,7 +6846,8 @@
     "death_date_written": "",
     "Geschlecht": null,
     "Funktionsbezeichnungen": null,
-    "Titel": "Graf"
+    "Titel": "Graf",
+    "unidentifiziert": false
   },
   "286": {
     "id": 286,
@@ -6669,7 +6871,8 @@
     "death_date_written": "",
     "Geschlecht": null,
     "Funktionsbezeichnungen": "",
-    "Titel": "Herzog"
+    "Titel": "Herzog",
+    "unidentifiziert": false
   },
   "287": {
     "id": 287,
@@ -6693,7 +6896,8 @@
     "death_date_written": "",
     "Geschlecht": null,
     "Funktionsbezeichnungen": null,
-    "Titel": "Marquis"
+    "Titel": "Marquis",
+    "unidentifiziert": false
   },
   "288": {
     "id": 288,
@@ -6717,7 +6921,8 @@
     "death_date_written": "",
     "Geschlecht": null,
     "Funktionsbezeichnungen": "Resident des Kaisers in Straßburg 1681",
-    "Titel": null
+    "Titel": null,
+    "unidentifiziert": false
   },
   "289": {
     "id": 289,
@@ -6741,7 +6946,8 @@
     "death_date_written": "",
     "Geschlecht": null,
     "Funktionsbezeichnungen": "Landmarschall Niederösterreich",
-    "Titel": "Graf"
+    "Titel": "Graf",
+    "unidentifiziert": false
   },
   "290": {
     "id": 290,
@@ -6750,7 +6956,7 @@
     "gnd": "",
     "other_url": "",
     "emt_id": "emt_person_id__290",
-    "internal_comment": "unidentifiziert\nin einem Duell von Flori erstochen",
+    "internal_comment": "in einem Duell von Flori erstochen",
     "color": "",
     "lebensdaten": "",
     "ndb": "",
@@ -6765,7 +6971,8 @@
     "death_date_written": "",
     "Geschlecht": null,
     "Funktionsbezeichnungen": null,
-    "Titel": null
+    "Titel": null,
+    "unidentifiziert": true
   },
   "291": {
     "id": 291,
@@ -6789,7 +6996,8 @@
     "death_date_written": "",
     "Geschlecht": null,
     "Funktionsbezeichnungen": "Kardinal",
-    "Titel": "Kardinal"
+    "Titel": "Kardinal",
+    "unidentifiziert": false
   },
   "292": {
     "id": 292,
@@ -6798,54 +7006,6 @@
     "gnd": "",
     "other_url": "",
     "emt_id": "emt_person_id__292",
-    "internal_comment": "unidentifiziert",
-    "color": "",
-    "lebensdaten": "",
-    "ndb": "",
-    "year_of_birth": null,
-    "year_of_death": null,
-    "wikidata_url": "",
-    "wikidata_enriched": false,
-    "img_name": "",
-    "img_fetched": false,
-    "img_source": "",
-    "birth_date_written": "",
-    "death_date_written": "",
-    "Geschlecht": null,
-    "Funktionsbezeichnungen": null,
-    "Titel": null
-  },
-  "293": {
-    "id": 293,
-    "order": "293.00000000000000000000",
-    "name": "Egloff, Herr, soll 1678 mit PW nach Wien reisen",
-    "gnd": "",
-    "other_url": "",
-    "emt_id": "emt_person_id__293",
-    "internal_comment": "unidentifiziert\nMarquard Ignaz von Egloff war mit JW auf Kavalierstour, siehe https://hvneuburg.wordpress.com/wp-content/uploads/2019/12/hofrat.pdf",
-    "color": "",
-    "lebensdaten": "",
-    "ndb": "",
-    "year_of_birth": null,
-    "year_of_death": null,
-    "wikidata_url": "",
-    "wikidata_enriched": false,
-    "img_name": "",
-    "img_fetched": false,
-    "img_source": "",
-    "birth_date_written": "",
-    "death_date_written": "",
-    "Geschlecht": null,
-    "Funktionsbezeichnungen": null,
-    "Titel": null
-  },
-  "294": {
-    "id": 294,
-    "order": "294.00000000000000000000",
-    "name": "",
-    "gnd": "",
-    "other_url": "",
-    "emt_id": "emt_person_id__294",
     "internal_comment": "",
     "color": "",
     "lebensdaten": "",
@@ -6861,7 +7021,33 @@
     "death_date_written": "",
     "Geschlecht": null,
     "Funktionsbezeichnungen": null,
-    "Titel": null
+    "Titel": null,
+    "unidentifiziert": true
+  },
+  "293": {
+    "id": 293,
+    "order": "293.00000000000000000000",
+    "name": "Egloff, Herr, soll 1678 mit PW nach Wien reisen",
+    "gnd": "",
+    "other_url": "",
+    "emt_id": "emt_person_id__293",
+    "internal_comment": "Marquard Ignaz von Egloff war mit JW auf Kavalierstour, siehe https://hvneuburg.wordpress.com/wp-content/uploads/2019/12/hofrat.pdf",
+    "color": "",
+    "lebensdaten": "",
+    "ndb": "",
+    "year_of_birth": null,
+    "year_of_death": null,
+    "wikidata_url": "",
+    "wikidata_enriched": false,
+    "img_name": "",
+    "img_fetched": false,
+    "img_source": "",
+    "birth_date_written": "",
+    "death_date_written": "",
+    "Geschlecht": null,
+    "Funktionsbezeichnungen": null,
+    "Titel": null,
+    "unidentifiziert": true
   },
   "295": {
     "id": 295,
@@ -6870,7 +7056,7 @@
     "gnd": "",
     "other_url": "",
     "emt_id": "emt_person_id__295",
-    "internal_comment": "unidentifiziert\nist kein großer Höfling und wird deshalb 1678  nicht mit PW nach Wien reisen",
+    "internal_comment": "ist kein großer Höfling und wird deshalb 1678  nicht mit PW nach Wien reisen",
     "color": "",
     "lebensdaten": "",
     "ndb": "",
@@ -6885,7 +7071,8 @@
     "death_date_written": "",
     "Geschlecht": null,
     "Funktionsbezeichnungen": null,
-    "Titel": null
+    "Titel": null,
+    "unidentifiziert": true
   },
   "296": {
     "id": 296,
@@ -6894,7 +7081,7 @@
     "gnd": "",
     "other_url": "",
     "emt_id": "emt_person_id__296",
-    "internal_comment": "unidentifiziert",
+    "internal_comment": "",
     "color": "",
     "lebensdaten": "",
     "ndb": "",
@@ -6909,7 +7096,8 @@
     "death_date_written": "",
     "Geschlecht": null,
     "Funktionsbezeichnungen": null,
-    "Titel": null
+    "Titel": null,
+    "unidentifiziert": true
   },
   "297": {
     "id": 297,
@@ -6918,7 +7106,7 @@
     "gnd": "",
     "other_url": "",
     "emt_id": "emt_person_id__297",
-    "internal_comment": "unidentifziert\nmöglicherweise der Vater von Anna Maria v.H., die dort Hoffräulein ist und 1687 einen Hompesch heiratet",
+    "internal_comment": "möglicherweise der Vater von Anna Maria v.H., die dort Hoffräulein ist und 1687 einen Hompesch heiratet",
     "color": "",
     "lebensdaten": "",
     "ndb": "",
@@ -6933,7 +7121,8 @@
     "death_date_written": "",
     "Geschlecht": null,
     "Funktionsbezeichnungen": null,
-    "Titel": null
+    "Titel": null,
+    "unidentifiziert": true
   },
   "298": {
     "id": 298,
@@ -6957,7 +7146,8 @@
     "death_date_written": "",
     "Geschlecht": null,
     "Funktionsbezeichnungen": "Probst des Zipser Kapitels",
-    "Titel": null
+    "Titel": null,
+    "unidentifiziert": false
   },
   "299": {
     "id": 299,
@@ -6966,7 +7156,7 @@
     "gnd": "",
     "other_url": "",
     "emt_id": "emt_person_id__299",
-    "internal_comment": "unidentifiziert\nauf ihn vertraut EMT hinsichtlich des erfolges des ungarischen Landtages - völlig unklar, vielleicht ist Jesus gemeint - oder Marco d'Aviano??",
+    "internal_comment": "auf ihn vertraut EMT hinsichtlich des erfolges des ungarischen Landtages - völlig unklar, vielleicht ist Jesus gemeint - oder Marco d'Aviano??",
     "color": "",
     "lebensdaten": "",
     "ndb": "",
@@ -6981,7 +7171,8 @@
     "death_date_written": "",
     "Geschlecht": null,
     "Funktionsbezeichnungen": null,
-    "Titel": null
+    "Titel": null,
+    "unidentifiziert": true
   },
   "300": {
     "id": 300,
@@ -7005,7 +7196,8 @@
     "death_date_written": "",
     "Geschlecht": null,
     "Funktionsbezeichnungen": null,
-    "Titel": "Königin"
+    "Titel": "Königin",
+    "unidentifiziert": false
   },
   "301": {
     "id": 301,
@@ -7029,7 +7221,8 @@
     "death_date_written": "",
     "Geschlecht": null,
     "Funktionsbezeichnungen": "Erzbischof und Kurfürst von Mainz",
-    "Titel": "Kurfürst"
+    "Titel": "Kurfürst",
+    "unidentifiziert": false
   },
   "302": {
     "id": 302,
@@ -7038,7 +7231,7 @@
     "gnd": "",
     "other_url": "",
     "emt_id": "emt_person_id__302",
-    "internal_comment": "unidentifiziert\nführt im Auftrag der Kaiserin-Witwe in Wien einen ungarischen Tanz auf",
+    "internal_comment": "führt im Auftrag der Kaiserin-Witwe in Wien einen ungarischen Tanz auf",
     "color": "",
     "lebensdaten": "",
     "ndb": "",
@@ -7053,7 +7246,8 @@
     "death_date_written": "",
     "Geschlecht": null,
     "Funktionsbezeichnungen": null,
-    "Titel": null
+    "Titel": null,
+    "unidentifiziert": true
   },
   "303": {
     "id": 303,
@@ -7077,7 +7271,8 @@
     "death_date_written": "",
     "Geschlecht": null,
     "Funktionsbezeichnungen": "Administrator des Herzogtums Württemberg 1677 bis 1693",
-    "Titel": "Herzog"
+    "Titel": "Herzog",
+    "unidentifiziert": false
   },
   "304": {
     "id": 304,
@@ -7101,7 +7296,8 @@
     "death_date_written": "",
     "Geschlecht": null,
     "Funktionsbezeichnungen": null,
-    "Titel": "Graf"
+    "Titel": "Graf",
+    "unidentifiziert": false
   },
   "305": {
     "id": 305,
@@ -7125,7 +7321,8 @@
     "death_date_written": "",
     "Geschlecht": null,
     "Funktionsbezeichnungen": null,
-    "Titel": "Kurfürst"
+    "Titel": "Kurfürst",
+    "unidentifiziert": false
   },
   "306": {
     "id": 306,
@@ -7149,7 +7346,8 @@
     "death_date_written": "",
     "Geschlecht": null,
     "Funktionsbezeichnungen": null,
-    "Titel": null
+    "Titel": null,
+    "unidentifiziert": false
   },
   "307": {
     "id": 307,
@@ -7158,7 +7356,7 @@
     "gnd": "",
     "other_url": "",
     "emt_id": "emt_person_id__307",
-    "internal_comment": "unidentifiziert\nSohn der kaiserlichen Aya 1681, vermutlich ein Törring, aber wer war die Aya?",
+    "internal_comment": "ist ein Verwandter der kaiserlichen Aya Maria Magdalena von Mansfeld, geb. Törring",
     "color": "",
     "lebensdaten": "",
     "ndb": "",
@@ -7173,21 +7371,22 @@
     "death_date_written": "",
     "Geschlecht": null,
     "Funktionsbezeichnungen": null,
-    "Titel": "Graf"
+    "Titel": "Graf",
+    "unidentifiziert": true
   },
   "308": {
     "id": 308,
     "order": "308.00000000000000000000",
-    "name": "Aya der kaiserlichen Kinder 1681",
+    "name": "Mansfeld, Maria Magdalena von, geb. Törring",
     "gnd": "",
-    "other_url": "",
+    "other_url": "https://kaiserhof.geschichte.lmu.de/18099",
     "emt_id": "emt_person_id__308",
-    "internal_comment": "unidentifiziert",
+    "internal_comment": "siehe Keller, Hofdamen (Kurzbiografie)",
     "color": "",
     "lebensdaten": "",
     "ndb": "",
-    "year_of_birth": null,
-    "year_of_death": null,
+    "year_of_birth": "1616",
+    "year_of_death": "1686",
     "wikidata_url": "",
     "wikidata_enriched": false,
     "img_name": "",
@@ -7196,8 +7395,9 @@
     "birth_date_written": "",
     "death_date_written": "",
     "Geschlecht": null,
-    "Funktionsbezeichnungen": null,
-    "Titel": null
+    "Funktionsbezeichnungen": "Aya der kaiserlichen Kinder 1667-1686",
+    "Titel": "Gräfin",
+    "unidentifiziert": false
   },
   "309": {
     "id": 309,
@@ -7221,7 +7421,8 @@
     "death_date_written": "",
     "Geschlecht": null,
     "Funktionsbezeichnungen": null,
-    "Titel": null
+    "Titel": null,
+    "unidentifiziert": false
   },
   "310": {
     "id": 310,
@@ -7230,7 +7431,7 @@
     "gnd": "",
     "other_url": "",
     "emt_id": "emt_person_id__310",
-    "internal_comment": "unidentifiziert\nfür ihn oder sie soll EMT Fürsprache bei Leopold halten, ist aber \"harb\" auf die Person",
+    "internal_comment": "für ihn oder sie soll EMT Fürsprache bei Leopold halten, ist aber \"harb\" auf die Person",
     "color": "",
     "lebensdaten": "",
     "ndb": "",
@@ -7245,7 +7446,8 @@
     "death_date_written": "",
     "Geschlecht": "",
     "Funktionsbezeichnungen": null,
-    "Titel": null
+    "Titel": null,
+    "unidentifiziert": true
   },
   "311": {
     "id": 311,
@@ -7254,7 +7456,7 @@
     "gnd": "",
     "other_url": "",
     "emt_id": "emt_person_id__311",
-    "internal_comment": "unidentifiziert\nwahrscheinlich kaiserlicher Leibarzt, will PW schreiben wegen der Gesundheit der Erzherzogin Maria Anna",
+    "internal_comment": "wahrscheinlich kaiserlicher Leibarzt, will PW schreiben wegen der Gesundheit der Erzherzogin Maria Anna",
     "color": "",
     "lebensdaten": "",
     "ndb": "",
@@ -7269,7 +7471,8 @@
     "death_date_written": "",
     "Geschlecht": "",
     "Funktionsbezeichnungen": "Leibarzt",
-    "Titel": "Doktor"
+    "Titel": "Doktor",
+    "unidentifiziert": true
   },
   "312": {
     "id": 312,
@@ -7293,7 +7496,8 @@
     "death_date_written": "",
     "Geschlecht": "",
     "Funktionsbezeichnungen": "kaiserlicher Gesandter nach Schweden 1682-1683",
-    "Titel": "Graf"
+    "Titel": "Graf",
+    "unidentifiziert": false
   },
   "313": {
     "id": 313,
@@ -7317,7 +7521,8 @@
     "death_date_written": "",
     "Geschlecht": "",
     "Funktionsbezeichnungen": null,
-    "Titel": "König"
+    "Titel": "König",
+    "unidentifiziert": false
   },
   "314": {
     "id": 314,
@@ -7326,7 +7531,7 @@
     "gnd": "",
     "other_url": "",
     "emt_id": "emt_person_id__314",
-    "internal_comment": "unidentifiziert\n1682 im Auftrag von PW beim Westfälischen Kreistag in Münster - Friedrich Christian von Spee? siehe https://gw.geneanet.org/cvpolier?lang=en&n=von+spee&oc=0&p=friedrich+christian",
+    "internal_comment": "1682 im Auftrag von PW beim Westfälischen Kreistag in Münster - Friedrich Christian von Spee? siehe https://gw.geneanet.org/cvpolier?lang=en&n=von+spee&oc=0&p=friedrich+christian",
     "color": "",
     "lebensdaten": "",
     "ndb": "",
@@ -7341,7 +7546,8 @@
     "death_date_written": "",
     "Geschlecht": "",
     "Funktionsbezeichnungen": null,
-    "Titel": null
+    "Titel": null,
+    "unidentifiziert": true
   },
   "315": {
     "id": 315,
@@ -7365,7 +7571,8 @@
     "death_date_written": "",
     "Geschlecht": "",
     "Funktionsbezeichnungen": "General der Karmeliten",
-    "Titel": "Pater"
+    "Titel": "Pater",
+    "unidentifiziert": false
   },
   "316": {
     "id": 316,
@@ -7374,7 +7581,7 @@
     "gnd": "",
     "other_url": "",
     "emt_id": "emt_person_id__316",
-    "internal_comment": "unidentifiziert\nvermutlich ein Markgraf von Baden",
+    "internal_comment": "vermutlich ein Markgraf von Baden",
     "color": "",
     "lebensdaten": "",
     "ndb": "",
@@ -7389,7 +7596,8 @@
     "death_date_written": "",
     "Geschlecht": "",
     "Funktionsbezeichnungen": null,
-    "Titel": null
+    "Titel": null,
+    "unidentifiziert": true
   },
   "319": {
     "id": 319,
@@ -7398,7 +7606,7 @@
     "gnd": "",
     "other_url": "",
     "emt_id": "emt_person_id__319",
-    "internal_comment": "unidentifiziert\nEMT erbittet für ein Amt als Pfleger, falls eines frei wird, insbesondere in Rücksicht auf seine verstorbene Mutter [die ihr wohl gedient hat]",
+    "internal_comment": "EMT erbittet für ein Amt als Pfleger, falls eines frei wird, insbesondere in Rücksicht auf seine verstorbene Mutter [die ihr wohl gedient hat]",
     "color": "",
     "lebensdaten": "",
     "ndb": "",
@@ -7413,7 +7621,8 @@
     "death_date_written": "",
     "Geschlecht": "",
     "Funktionsbezeichnungen": null,
-    "Titel": null
+    "Titel": null,
+    "unidentifiziert": true
   },
   "320": {
     "id": 320,
@@ -7422,7 +7631,7 @@
     "gnd": "",
     "other_url": "",
     "emt_id": "emt_person_id__320",
-    "internal_comment": "unidentifziert\nwegen ihrer Verdienste kann EMT eine Fürbitte für ihren Sohn nicht abschlagen",
+    "internal_comment": "wegen ihrer Verdienste kann EMT eine Fürbitte für ihren Sohn nicht abschlagen",
     "color": "",
     "lebensdaten": "",
     "ndb": "",
@@ -7437,7 +7646,8 @@
     "death_date_written": "",
     "Geschlecht": "",
     "Funktionsbezeichnungen": null,
-    "Titel": null
+    "Titel": null,
+    "unidentifiziert": true
   },
   "321": {
     "id": 321,
@@ -7461,7 +7671,8 @@
     "death_date_written": "",
     "Geschlecht": "",
     "Funktionsbezeichnungen": null,
-    "Titel": "Graf"
+    "Titel": "Graf",
+    "unidentifiziert": false
   },
   "322": {
     "id": 322,
@@ -7485,7 +7696,8 @@
     "death_date_written": "",
     "Geschlecht": "",
     "Funktionsbezeichnungen": "Bischof von Olmütz",
-    "Titel": "Graf"
+    "Titel": "Graf",
+    "unidentifiziert": false
   },
   "323": {
     "id": 323,
@@ -7509,7 +7721,8 @@
     "death_date_written": "",
     "Geschlecht": "",
     "Funktionsbezeichnungen": null,
-    "Titel": "Herzog"
+    "Titel": "Herzog",
+    "unidentifiziert": false
   },
   "324": {
     "id": 324,
@@ -7518,7 +7731,7 @@
     "gnd": "",
     "other_url": "https://www.historisches-lexikon-bayerns.de/Lexikon/Preysing,_Adelsfamilie#Johann_Max_IV._von_Preysing_(1689-1764)",
     "emt_id": "emt_person_id__324",
-    "internal_comment": "unidentifiziert\nist 1682 in Wien und gibt einen Besuch bei Erzherzog Joseph vor, um \"sie\" zu sehen - evtl. Maria Antonia? wenn das der Fall ist, dann muss das in 45_9_0033 noch als Identifizierung ergänzt werden",
+    "internal_comment": "ist 1682 in Wien und gibt einen Besuch bei Erzherzog Joseph vor, um \"sie\" zu sehen - evtl. Maria Antonia? wenn das der Fall ist, dann muss ihr Name in 45_9_0033 noch als Identifizierung ergänzt werden",
     "color": "",
     "lebensdaten": "",
     "ndb": "",
@@ -7533,7 +7746,8 @@
     "death_date_written": "",
     "Geschlecht": "",
     "Funktionsbezeichnungen": "bayrischer Kämmerer",
-    "Titel": "Graf"
+    "Titel": "Graf",
+    "unidentifiziert": false
   },
   "325": {
     "id": 325,
@@ -7557,7 +7771,8 @@
     "death_date_written": "",
     "Geschlecht": "",
     "Funktionsbezeichnungen": null,
-    "Titel": null
+    "Titel": null,
+    "unidentifiziert": false
   },
   "326": {
     "id": 326,
@@ -7581,7 +7796,8 @@
     "death_date_written": "",
     "Geschlecht": "",
     "Funktionsbezeichnungen": null,
-    "Titel": "Graf"
+    "Titel": "Graf",
+    "unidentifiziert": false
   },
   "327": {
     "id": 327,
@@ -7590,7 +7806,7 @@
     "gnd": "",
     "other_url": "",
     "emt_id": "emt_person_id__327",
-    "internal_comment": "unidentifiziert\nverabschiedet PW im September 1682 bei seiner Abreise aus Wien im Namen von EMT",
+    "internal_comment": "verabschiedet PW im September 1682 bei seiner Abreise aus Wien im Namen von EMT",
     "color": "",
     "lebensdaten": "",
     "ndb": "",
@@ -7605,7 +7821,8 @@
     "death_date_written": "",
     "Geschlecht": "",
     "Funktionsbezeichnungen": null,
-    "Titel": "Pater"
+    "Titel": "Pater",
+    "unidentifiziert": true
   },
   "328": {
     "id": 328,
@@ -7629,7 +7846,8 @@
     "death_date_written": "nach 1680",
     "Geschlecht": "",
     "Funktionsbezeichnungen": null,
-    "Titel": "Graf"
+    "Titel": "Graf",
+    "unidentifiziert": false
   },
   "329": {
     "id": 329,
@@ -7653,7 +7871,8 @@
     "death_date_written": "",
     "Geschlecht": "",
     "Funktionsbezeichnungen": "Bischof von Passau",
-    "Titel": "Graf"
+    "Titel": "Graf",
+    "unidentifiziert": false
   },
   "330": {
     "id": 330,
@@ -7677,7 +7896,8 @@
     "death_date_written": "",
     "Geschlecht": "",
     "Funktionsbezeichnungen": null,
-    "Titel": "Graf"
+    "Titel": "Graf",
+    "unidentifiziert": false
   },
   "331": {
     "id": 331,
@@ -7686,7 +7906,7 @@
     "gnd": "",
     "other_url": "",
     "emt_id": "emt_person_id__331",
-    "internal_comment": "unidentifiziert",
+    "internal_comment": "",
     "color": "",
     "lebensdaten": "",
     "ndb": "",
@@ -7701,7 +7921,8 @@
     "death_date_written": "",
     "Geschlecht": "",
     "Funktionsbezeichnungen": null,
-    "Titel": null
+    "Titel": null,
+    "unidentifiziert": true
   },
   "332": {
     "id": 332,
@@ -7710,7 +7931,7 @@
     "gnd": "",
     "other_url": "",
     "emt_id": "emt_person_id__332",
-    "internal_comment": "unidentifiziert\nüberbringt 1682 Antwort des Bischofs von Olmütz wegen Bischofswahl in Breslau",
+    "internal_comment": "überbringt 1682 Antwort des Bischofs von Olmütz wegen Bischofswahl in Breslau",
     "color": "",
     "lebensdaten": "",
     "ndb": "",
@@ -7725,7 +7946,8 @@
     "death_date_written": "",
     "Geschlecht": "",
     "Funktionsbezeichnungen": null,
-    "Titel": "Monsignore"
+    "Titel": "Monsignore",
+    "unidentifiziert": true
   },
   "333": {
     "id": 333,
@@ -7734,7 +7956,7 @@
     "gnd": "",
     "other_url": "",
     "emt_id": "emt_person_id__333",
-    "internal_comment": "unidentifiziert\nProtestant, aber 1682 für Nachfolge Huber als EMTs Leibarzt von PW vorgeschlagen",
+    "internal_comment": "Protestant, aber 1682 für Nachfolge Huber als EMTs Leibarzt von PW vorgeschlagen",
     "color": "",
     "lebensdaten": "",
     "ndb": "",
@@ -7749,7 +7971,8 @@
     "death_date_written": "",
     "Geschlecht": "",
     "Funktionsbezeichnungen": null,
-    "Titel": "Doktor"
+    "Titel": "Doktor",
+    "unidentifiziert": true
   },
   "334": {
     "id": 334,
@@ -7758,7 +7981,7 @@
     "gnd": "",
     "other_url": "",
     "emt_id": "emt_person_id__334",
-    "internal_comment": "unidentifiziert\n1682 von PW als Nachfolger für Huber als Leibarzt EMTs vorgeschlagen; ist aber in Düsseldorf bei Erzherzogin",
+    "internal_comment": "1682 von PW als Nachfolger für Huber als Leibarzt EMTs vorgeschlagen; ist aber in Düsseldorf bei Erzherzogin",
     "color": "",
     "lebensdaten": "",
     "ndb": "",
@@ -7773,7 +7996,8 @@
     "death_date_written": "",
     "Geschlecht": "",
     "Funktionsbezeichnungen": null,
-    "Titel": "Doktor"
+    "Titel": "Doktor",
+    "unidentifiziert": true
   },
   "335": {
     "id": 335,
@@ -7797,7 +8021,8 @@
     "death_date_written": "",
     "Geschlecht": "",
     "Funktionsbezeichnungen": "Leibarzt",
-    "Titel": "Doktor"
+    "Titel": "Doktor",
+    "unidentifiziert": false
   },
   "336": {
     "id": 336,
@@ -7821,7 +8046,8 @@
     "death_date_written": "",
     "Geschlecht": "",
     "Funktionsbezeichnungen": "Leibarzt",
-    "Titel": "Doktor"
+    "Titel": "Doktor",
+    "unidentifiziert": false
   },
   "337": {
     "id": 337,
@@ -7845,7 +8071,8 @@
     "death_date_written": "",
     "Geschlecht": "",
     "Funktionsbezeichnungen": "kaiserlicher Schiffmeister",
-    "Titel": null
+    "Titel": null,
+    "unidentifiziert": false
   },
   "338": {
     "id": 338,
@@ -7854,7 +8081,7 @@
     "gnd": "",
     "other_url": "",
     "emt_id": "emt_person_id__338",
-    "internal_comment": "unidentifiziert\nJW offeriert EMT seinen Leibarzt noch dem Tod von Doktor Huber",
+    "internal_comment": "JW offeriert EMT seinen Leibarzt noch dem Tod von Doktor Huber",
     "color": "",
     "lebensdaten": "",
     "ndb": "",
@@ -7869,7 +8096,8 @@
     "death_date_written": "",
     "Geschlecht": "",
     "Funktionsbezeichnungen": "kurpfälzischer Leibarzt",
-    "Titel": "Doktor"
+    "Titel": "Doktor",
+    "unidentifiziert": true
   },
   "339": {
     "id": 339,
@@ -7878,7 +8106,7 @@
     "gnd": "",
     "other_url": "",
     "emt_id": "emt_person_id__339",
-    "internal_comment": "unidentifiziert\n1682 als neuer Leibarzt für EMT im Gespräch, aber sie kennt ihn nicht; ist wahrscheinlich Leibarzt von Bruder Ludwig",
+    "internal_comment": "1682 als neuer Leibarzt für EMT im Gespräch, aber sie kennt ihn nicht; ist wahrscheinlich Leibarzt von Bruder Ludwig",
     "color": "",
     "lebensdaten": "",
     "ndb": "",
@@ -7893,7 +8121,8 @@
     "death_date_written": "",
     "Geschlecht": "",
     "Funktionsbezeichnungen": null,
-    "Titel": "Doktor"
+    "Titel": "Doktor",
+    "unidentifiziert": true
   },
   "340": {
     "id": 340,
@@ -7917,7 +8146,8 @@
     "death_date_written": "",
     "Geschlecht": "",
     "Funktionsbezeichnungen": "1682 außerordentlicher Botschafter an der Hohen Pforte",
-    "Titel": "Graf"
+    "Titel": "Graf",
+    "unidentifiziert": false
   },
   "341": {
     "id": 341,
@@ -7941,7 +8171,8 @@
     "death_date_written": "",
     "Geschlecht": "",
     "Funktionsbezeichnungen": null,
-    "Titel": "Königin"
+    "Titel": "Königin",
+    "unidentifiziert": false
   },
   "343": {
     "id": 343,
@@ -7965,7 +8196,8 @@
     "death_date_written": "",
     "Geschlecht": "",
     "Funktionsbezeichnungen": "spanischer Botschafter in Wien",
-    "Titel": "Marques"
+    "Titel": "Marques",
+    "unidentifiziert": false
   },
   "344": {
     "id": 344,
@@ -7989,7 +8221,8 @@
     "death_date_written": "",
     "Geschlecht": "",
     "Funktionsbezeichnungen": "General",
-    "Titel": "Margraf"
+    "Titel": "Margraf",
+    "unidentifiziert": false
   },
   "345": {
     "id": 345,
@@ -7998,7 +8231,7 @@
     "gnd": "",
     "other_url": "",
     "emt_id": "emt_person_id__345",
-    "internal_comment": "unidentifiziert\ndie Abkürzung im Text ist unklar (Brief 17.12.1682), jedenfalls äußert er den Verdacht, dass Bayern mit Frankreich verhandele",
+    "internal_comment": "die Abkürzung im Text ist unklar (Brief 17.12.1682), jedenfalls äußert er den Verdacht, dass Bayern mit Frankreich verhandele",
     "color": "",
     "lebensdaten": "",
     "ndb": "",
@@ -8013,7 +8246,8 @@
     "death_date_written": "",
     "Geschlecht": "",
     "Funktionsbezeichnungen": null,
-    "Titel": null
+    "Titel": null,
+    "unidentifiziert": true
   },
   "346": {
     "id": 346,
@@ -8022,7 +8256,7 @@
     "gnd": "",
     "other_url": "",
     "emt_id": "emt_person_id__346",
-    "internal_comment": "unidentifiziert\nist in Wien, wird aber PW keine guten Dienste leisten, sondern sollte entfernt werden, weil er Anlass zu böster Nachrede gibt\nWahrscheinlich ein Militär aus den spanischen Niederlanden, der 1683 beim Entsatz Wiens erwähnt wird: Hiob Ludolff, Allgemeine Schaubühne der Welt …, Bd. 5 (1675-1688), Frankfurt am Main 1731, Sp. 37f.",
+    "internal_comment": "ist in Wien, wird aber PW keine guten Dienste leisten, sondern sollte entfernt werden, weil er Anlass zu böster Nachrede gibt\nWahrscheinlich ein Militär aus den spanischen Niederlanden, der 1683 beim Entsatz Wiens erwähnt wird: Hiob Ludolff, Allgemeine Schaubühne der Welt …, Bd. 5 (1675-1688), Frankfurt am Main 1731, Sp. 37f.",
     "color": "",
     "lebensdaten": "",
     "ndb": "",
@@ -8037,7 +8271,8 @@
     "death_date_written": "",
     "Geschlecht": "",
     "Funktionsbezeichnungen": null,
-    "Titel": null
+    "Titel": null,
+    "unidentifiziert": true
   },
   "347": {
     "id": 347,
@@ -8046,7 +8281,7 @@
     "gnd": "",
     "other_url": "",
     "emt_id": "emt_person_id__347",
-    "internal_comment": "unidentifiziert\nist in Wien angekommen, vermutlich im Zusammenhang mit der Wahl in Breslau",
+    "internal_comment": "ist in Wien angekommen, vermutlich im Zusammenhang mit der Wahl in Breslau",
     "color": "",
     "lebensdaten": "",
     "ndb": "",
@@ -8061,7 +8296,8 @@
     "death_date_written": "",
     "Geschlecht": "",
     "Funktionsbezeichnungen": null,
-    "Titel": null
+    "Titel": null,
+    "unidentifiziert": true
   },
   "348": {
     "id": 348,
@@ -8070,7 +8306,7 @@
     "gnd": "",
     "other_url": "",
     "emt_id": "emt_person_id__348",
-    "internal_comment": "unidentifiziert\nwahrscheinlich ein Militär, EMT soll bei Leopold einen Posten für ihn besorgen",
+    "internal_comment": "wahrscheinlich ein Militär, EMT soll bei Leopold einen Posten für ihn besorgen",
     "color": "",
     "lebensdaten": "",
     "ndb": "",
@@ -8085,7 +8321,8 @@
     "death_date_written": "",
     "Geschlecht": "",
     "Funktionsbezeichnungen": null,
-    "Titel": null
+    "Titel": null,
+    "unidentifiziert": true
   },
   "349": {
     "id": 349,
@@ -8109,7 +8346,8 @@
     "death_date_written": "",
     "Geschlecht": "",
     "Funktionsbezeichnungen": "Obersthofmarschall, April bis Oktober 1683 Obersthofmeister",
-    "Titel": "Graf"
+    "Titel": "Graf",
+    "unidentifiziert": false
   },
   "350": {
     "id": 350,
@@ -8133,7 +8371,8 @@
     "death_date_written": "",
     "Geschlecht": "",
     "Funktionsbezeichnungen": "Domdechant zu Breslau",
-    "Titel": "Herzog"
+    "Titel": "Herzog",
+    "unidentifiziert": false
   },
   "351": {
     "id": 351,
@@ -8157,7 +8396,8 @@
     "death_date_written": "",
     "Geschlecht": "",
     "Funktionsbezeichnungen": "Domherr zu Breslau",
-    "Titel": "Herzog"
+    "Titel": "Herzog",
+    "unidentifiziert": false
   },
   "352": {
     "id": 352,
@@ -8181,7 +8421,8 @@
     "death_date_written": "",
     "Geschlecht": "",
     "Funktionsbezeichnungen": null,
-    "Titel": "Herzog"
+    "Titel": "Herzog",
+    "unidentifiziert": false
   },
   "354": {
     "id": 354,
@@ -8205,7 +8446,8 @@
     "death_date_written": "",
     "Geschlecht": "",
     "Funktionsbezeichnungen": "Erzbischof von Prag",
-    "Titel": "Graf"
+    "Titel": "Graf",
+    "unidentifiziert": false
   },
   "355": {
     "id": 355,
@@ -8229,7 +8471,8 @@
     "death_date_written": "",
     "Geschlecht": "",
     "Funktionsbezeichnungen": null,
-    "Titel": "Graf"
+    "Titel": "Graf",
+    "unidentifiziert": false
   },
   "356": {
     "id": 356,
@@ -8253,7 +8496,8 @@
     "death_date_written": "",
     "Geschlecht": "",
     "Funktionsbezeichnungen": "Fürst von Heitersheim, Großprior des Johanniterordens",
-    "Titel": "Fürst"
+    "Titel": "Fürst",
+    "unidentifiziert": false
   },
   "357": {
     "id": 357,
@@ -8277,7 +8521,8 @@
     "death_date_written": "",
     "Geschlecht": "",
     "Funktionsbezeichnungen": "Vizekönig von Neapel",
-    "Titel": "Marques"
+    "Titel": "Marques",
+    "unidentifiziert": false
   },
   "358": {
     "id": 358,
@@ -8286,7 +8531,7 @@
     "gnd": "",
     "other_url": "",
     "emt_id": "emt_person_id__358",
-    "internal_comment": "unidentifiziert\nvon ihm hat EMT noch nichts gehört; ist wahrscheinlich gerade mit Nachrichten in Wien eingetroffen; verhandelt mit in Breslau wegen Rücktritt Liechtensteins",
+    "internal_comment": "von ihm hat EMT noch nichts gehört; ist wahrscheinlich gerade mit Nachrichten in Wien eingetroffen; verhandelt mit in Breslau wegen Rücktritt Liechtensteins",
     "color": "",
     "lebensdaten": "",
     "ndb": "",
@@ -8301,7 +8546,8 @@
     "death_date_written": "",
     "Geschlecht": "",
     "Funktionsbezeichnungen": null,
-    "Titel": null
+    "Titel": null,
+    "unidentifiziert": true
   },
   "359": {
     "id": 359,
@@ -8325,7 +8571,8 @@
     "death_date_written": "",
     "Geschlecht": "",
     "Funktionsbezeichnungen": null,
-    "Titel": "Graf"
+    "Titel": "Graf",
+    "unidentifiziert": false
   },
   "360": {
     "id": 360,
@@ -8334,7 +8581,7 @@
     "gnd": "",
     "other_url": "",
     "emt_id": "emt_person_id__360",
-    "internal_comment": "unidentifiziert\nhält im Fasching ein gesungenes Fest",
+    "internal_comment": "hält im Fasching ein gesungenes Fest",
     "color": "",
     "lebensdaten": "",
     "ndb": "",
@@ -8349,7 +8596,8 @@
     "death_date_written": "",
     "Geschlecht": "",
     "Funktionsbezeichnungen": null,
-    "Titel": null
+    "Titel": null,
+    "unidentifiziert": true
   },
   "361": {
     "id": 361,
@@ -8358,7 +8606,7 @@
     "gnd": "",
     "other_url": "",
     "emt_id": "emt_person_id__361",
-    "internal_comment": "unidentifiziert\nschreibt musikalische Komödie, die die Fräulein der Kaiserin-Witwe aufführen",
+    "internal_comment": "schreibt musikalische Komödie, die die Fräulein der Kaiserin-Witwe aufführen",
     "color": "",
     "lebensdaten": "",
     "ndb": "",
@@ -8373,7 +8621,8 @@
     "death_date_written": "",
     "Geschlecht": "",
     "Funktionsbezeichnungen": null,
-    "Titel": null
+    "Titel": null,
+    "unidentifiziert": true
   },
   "362": {
     "id": 362,
@@ -8397,7 +8646,8 @@
     "death_date_written": "",
     "Geschlecht": "",
     "Funktionsbezeichnungen": "portugiesicher Botschafter in Paris 1683",
-    "Titel": null
+    "Titel": null,
+    "unidentifiziert": false
   },
   "363": {
     "id": 363,
@@ -8406,7 +8656,7 @@
     "gnd": "",
     "other_url": "",
     "emt_id": "emt_person_id__363",
-    "internal_comment": "unidentifiziert\nPW hat offenbar vorgeschlagen, dass er in Portugal Verhandlungen wegen der geplanten Eheschließung Karl Philipps führt",
+    "internal_comment": "PW hat offenbar vorgeschlagen, dass er in Portugal Verhandlungen wegen der geplanten Eheschließung Karl Philipps führt",
     "color": "",
     "lebensdaten": "",
     "ndb": "",
@@ -8421,7 +8671,8 @@
     "death_date_written": "",
     "Geschlecht": "",
     "Funktionsbezeichnungen": null,
-    "Titel": null
+    "Titel": null,
+    "unidentifiziert": true
   },
   "364": {
     "id": 364,
@@ -8445,7 +8696,8 @@
     "death_date_written": "",
     "Geschlecht": "",
     "Funktionsbezeichnungen": "Kardinal, Nuntius in Portugal",
-    "Titel": null
+    "Titel": null,
+    "unidentifiziert": false
   },
   "365": {
     "id": 365,
@@ -8469,7 +8721,8 @@
     "death_date_written": "",
     "Geschlecht": "",
     "Funktionsbezeichnungen": "Oberstfalkenmeister in Niederösterreich",
-    "Titel": "Graf"
+    "Titel": "Graf",
+    "unidentifiziert": false
   },
   "366": {
     "id": 366,
@@ -8478,7 +8731,7 @@
     "gnd": "",
     "other_url": "",
     "emt_id": "emt_person_id__366",
-    "internal_comment": "unidentifiziert",
+    "internal_comment": "",
     "color": "",
     "lebensdaten": "",
     "ndb": "",
@@ -8493,7 +8746,8 @@
     "death_date_written": "",
     "Geschlecht": "",
     "Funktionsbezeichnungen": null,
-    "Titel": "Graf"
+    "Titel": "Graf",
+    "unidentifiziert": true
   },
   "367": {
     "id": 367,
@@ -8502,7 +8756,7 @@
     "gnd": "",
     "other_url": "",
     "emt_id": "emt_person_id__367",
-    "internal_comment": "unidentifiziert",
+    "internal_comment": "",
     "color": "",
     "lebensdaten": "",
     "ndb": "",
@@ -8517,7 +8771,8 @@
     "death_date_written": "",
     "Geschlecht": "",
     "Funktionsbezeichnungen": null,
-    "Titel": null
+    "Titel": null,
+    "unidentifiziert": true
   },
   "368": {
     "id": 368,
@@ -8541,7 +8796,8 @@
     "death_date_written": "",
     "Geschlecht": "",
     "Funktionsbezeichnungen": null,
-    "Titel": "Kurfürst"
+    "Titel": "Kurfürst",
+    "unidentifiziert": false
   },
   "369": {
     "id": 369,
@@ -8565,7 +8821,8 @@
     "death_date_written": "",
     "Geschlecht": "",
     "Funktionsbezeichnungen": null,
-    "Titel": "König"
+    "Titel": "König",
+    "unidentifiziert": false
   },
   "370": {
     "id": 370,
@@ -8589,7 +8846,8 @@
     "death_date_written": "",
     "Geschlecht": "",
     "Funktionsbezeichnungen": null,
-    "Titel": "Schah"
+    "Titel": "Schah",
+    "unidentifiziert": false
   },
   "371": {
     "id": 371,
@@ -8598,7 +8856,7 @@
     "gnd": "",
     "other_url": "",
     "emt_id": "emt_person_id__371",
-    "internal_comment": "unidentifiziert\näußert sich zu Eheplan für Karl Philipp mit der portugisieschen Prinzessin",
+    "internal_comment": "äußert sich zu Eheplan für Karl Philipp mit der portugisieschen Prinzessin",
     "color": "",
     "lebensdaten": "",
     "ndb": "",
@@ -8613,7 +8871,8 @@
     "death_date_written": "",
     "Geschlecht": "",
     "Funktionsbezeichnungen": null,
-    "Titel": null
+    "Titel": null,
+    "unidentifiziert": true
   },
   "372": {
     "id": 372,
@@ -8637,7 +8896,8 @@
     "death_date_written": "",
     "Geschlecht": "",
     "Funktionsbezeichnungen": null,
-    "Titel": null
+    "Titel": null,
+    "unidentifiziert": false
   },
   "373": {
     "id": 373,
@@ -8661,7 +8921,8 @@
     "death_date_written": "",
     "Geschlecht": "",
     "Funktionsbezeichnungen": null,
-    "Titel": "Herzogin"
+    "Titel": "Herzogin",
+    "unidentifiziert": false
   },
   "374": {
     "id": 374,
@@ -8670,7 +8931,7 @@
     "gnd": "",
     "other_url": "",
     "emt_id": "emt_person_id__374",
-    "internal_comment": "unidentifiziert",
+    "internal_comment": "",
     "color": "",
     "lebensdaten": "",
     "ndb": "",
@@ -8685,7 +8946,8 @@
     "death_date_written": "",
     "Geschlecht": "",
     "Funktionsbezeichnungen": null,
-    "Titel": null
+    "Titel": null,
+    "unidentifiziert": true
   },
   "375": {
     "id": 375,
@@ -8694,7 +8956,7 @@
     "gnd": "",
     "other_url": "",
     "emt_id": "emt_person_id__375",
-    "internal_comment": "unidentifiziert\nsoll für Pfalz-Neuburg nach Portugal reisen wegen der geplanten Eheschließung Karl Philipps",
+    "internal_comment": "soll für Pfalz-Neuburg nach Portugal reisen wegen der geplanten Eheschließung Karl Philipps",
     "color": "",
     "lebensdaten": "",
     "ndb": "",
@@ -8709,7 +8971,8 @@
     "death_date_written": "",
     "Geschlecht": "",
     "Funktionsbezeichnungen": null,
-    "Titel": null
+    "Titel": null,
+    "unidentifiziert": true
   },
   "376": {
     "id": 376,
@@ -8733,7 +8996,8 @@
     "death_date_written": "",
     "Geschlecht": "",
     "Funktionsbezeichnungen": "Hofkammerpräsident",
-    "Titel": "Graf"
+    "Titel": "Graf",
+    "unidentifiziert": false
   },
   "377": {
     "id": 377,
@@ -8742,7 +9006,7 @@
     "gnd": "",
     "other_url": "",
     "emt_id": "emt_person_id__377",
-    "internal_comment": "unidentifiziert\nhat EMT in Neuburg gemeinsam mit Doktor Huber Käswasser gegeben, wenn sie Fieber hatte, wird 1683 erwähnt, als Ludwig Anton krank ist",
+    "internal_comment": "hat EMT in Neuburg gemeinsam mit Doktor Huber Käswasser gegeben, wenn sie Fieber hatte, wird 1683 erwähnt, als Ludwig Anton krank ist",
     "color": "",
     "lebensdaten": "",
     "ndb": "",
@@ -8757,7 +9021,8 @@
     "death_date_written": "",
     "Geschlecht": "",
     "Funktionsbezeichnungen": "pfälzischer Leibarzt",
-    "Titel": "Doktor"
+    "Titel": "Doktor",
+    "unidentifiziert": true
   },
   "378": {
     "id": 378,
@@ -8781,7 +9046,8 @@
     "death_date_written": "",
     "Geschlecht": "",
     "Funktionsbezeichnungen": "Domprobst von Bamberg und Würzburg",
-    "Titel": "Graf"
+    "Titel": "Graf",
+    "unidentifiziert": false
   },
   "379": {
     "id": 379,
@@ -8805,7 +9071,8 @@
     "death_date_written": "",
     "Geschlecht": "",
     "Funktionsbezeichnungen": null,
-    "Titel": "Graf"
+    "Titel": "Graf",
+    "unidentifiziert": false
   },
   "380": {
     "id": 380,
@@ -8814,7 +9081,7 @@
     "gnd": "",
     "other_url": "",
     "emt_id": "emt_person_id__380",
-    "internal_comment": "unidentifiziert\nihn soll EMT im Juli 1683 für einen Posten empfehlen, für den aber vielleicht der Pozinski schon in Vorschlag gebracht wurde",
+    "internal_comment": "ihn soll EMT im Juli 1683 für einen Posten empfehlen, für den aber vielleicht der Pozinski schon in Vorschlag gebracht wurde",
     "color": "",
     "lebensdaten": "",
     "ndb": "",
@@ -8829,7 +9096,8 @@
     "death_date_written": "",
     "Geschlecht": "",
     "Funktionsbezeichnungen": null,
-    "Titel": null
+    "Titel": null,
+    "unidentifiziert": true
   },
   "381": {
     "id": 381,
@@ -8838,7 +9106,7 @@
     "gnd": "",
     "other_url": "",
     "emt_id": "emt_person_id__381",
-    "internal_comment": "unidentifiziert\ner ist vielleicht schon empfohlen worden für einen Posten, für den EMT im Auftrag des Vaters den Rusenstein empfehlen soll",
+    "internal_comment": "er ist vielleicht schon empfohlen worden für einen Posten, für den EMT im Auftrag des Vaters den Rusenstein empfehlen soll",
     "color": "",
     "lebensdaten": "",
     "ndb": "",
@@ -8853,7 +9121,8 @@
     "death_date_written": "",
     "Geschlecht": "",
     "Funktionsbezeichnungen": null,
-    "Titel": null
+    "Titel": null,
+    "unidentifiziert": true
   },
   "382": {
     "id": 382,
@@ -8862,7 +9131,7 @@
     "gnd": "",
     "other_url": "",
     "emt_id": "emt_person_id__382",
-    "internal_comment": "unidentifiziert",
+    "internal_comment": "",
     "color": "",
     "lebensdaten": "",
     "ndb": "",
@@ -8877,7 +9146,8 @@
     "death_date_written": "",
     "Geschlecht": "",
     "Funktionsbezeichnungen": "Leibarzt",
-    "Titel": null
+    "Titel": null,
+    "unidentifiziert": true
   },
   "383": {
     "id": 383,
@@ -8886,7 +9156,7 @@
     "gnd": "",
     "other_url": "",
     "emt_id": "emt_person_id__383",
-    "internal_comment": "unidentifiziert",
+    "internal_comment": "",
     "color": "",
     "lebensdaten": "",
     "ndb": "",
@@ -8901,7 +9171,8 @@
     "death_date_written": "",
     "Geschlecht": "",
     "Funktionsbezeichnungen": null,
-    "Titel": null
+    "Titel": null,
+    "unidentifiziert": true
   },
   "384": {
     "id": 384,
@@ -8925,7 +9196,8 @@
     "death_date_written": "",
     "Geschlecht": "",
     "Funktionsbezeichnungen": "General",
-    "Titel": "Graf"
+    "Titel": "Graf",
+    "unidentifiziert": false
   },
   "385": {
     "id": 385,
@@ -8949,7 +9221,8 @@
     "death_date_written": "",
     "Geschlecht": "",
     "Funktionsbezeichnungen": null,
-    "Titel": "Graf"
+    "Titel": "Graf",
+    "unidentifiziert": false
   },
   "386": {
     "id": 386,
@@ -8958,7 +9231,7 @@
     "gnd": "",
     "other_url": "",
     "emt_id": "emt_person_id__386",
-    "internal_comment": "unidentifiziert\nhier ist nicht ganz klar, ob es sich um einen Ort handelt, in Bezug auf den Bruder Franz Ludwig geholfen werden soll (Pfründe?), oder um eine Person, die EMT auf PWs Bitte unterstützen soll - Lesart aber eindeutig!",
+    "internal_comment": "hier ist nicht ganz klar, ob es sich um einen Ort handelt, in Bezug auf den Bruder Franz Ludwig geholfen werden soll (Pfründe?), oder um eine Person, die EMT auf PWs Bitte unterstützen soll - Lesart aber eindeutig!",
     "color": "",
     "lebensdaten": "",
     "ndb": "",
@@ -8973,7 +9246,8 @@
     "death_date_written": "",
     "Geschlecht": "",
     "Funktionsbezeichnungen": null,
-    "Titel": null
+    "Titel": null,
+    "unidentifiziert": true
   },
   "387": {
     "id": 387,
@@ -8997,7 +9271,8 @@
     "death_date_written": "",
     "Geschlecht": "",
     "Funktionsbezeichnungen": null,
-    "Titel": "Herzog"
+    "Titel": "Herzog",
+    "unidentifiziert": false
   },
   "388": {
     "id": 388,
@@ -9021,7 +9296,8 @@
     "death_date_written": "",
     "Geschlecht": "",
     "Funktionsbezeichnungen": null,
-    "Titel": "Königin"
+    "Titel": "Königin",
+    "unidentifiziert": false
   },
   "389": {
     "id": 389,
@@ -9030,7 +9306,7 @@
     "gnd": "",
     "other_url": "",
     "emt_id": "emt_person_id__389",
-    "internal_comment": "unidentifiziert\nwahrscheinlich im Gefolge von Kurfürst Johann Georg ??",
+    "internal_comment": "wahrscheinlich im Gefolge von Kurfürst Johann Georg ??",
     "color": "",
     "lebensdaten": "",
     "ndb": "",
@@ -9045,7 +9321,8 @@
     "death_date_written": "",
     "Geschlecht": "",
     "Funktionsbezeichnungen": null,
-    "Titel": "Herzog"
+    "Titel": "Herzog",
+    "unidentifiziert": true
   },
   "390": {
     "id": 390,
@@ -9069,7 +9346,8 @@
     "death_date_written": "",
     "Geschlecht": "",
     "Funktionsbezeichnungen": "General, Herzog von Münsterberg",
-    "Titel": "Fürst"
+    "Titel": "Fürst",
+    "unidentifiziert": false
   },
   "391": {
     "id": 391,
@@ -9078,7 +9356,7 @@
     "gnd": "",
     "other_url": "",
     "emt_id": "emt_person_id__391",
-    "internal_comment": "unidentifiziert",
+    "internal_comment": "",
     "color": "",
     "lebensdaten": "",
     "ndb": "",
@@ -9093,7 +9371,8 @@
     "death_date_written": "",
     "Geschlecht": "",
     "Funktionsbezeichnungen": null,
-    "Titel": null
+    "Titel": null,
+    "unidentifiziert": true
   },
   "392": {
     "id": 392,
@@ -9117,7 +9396,8 @@
     "death_date_written": "",
     "Geschlecht": "",
     "Funktionsbezeichnungen": "General",
-    "Titel": "Graf"
+    "Titel": "Graf",
+    "unidentifiziert": false
   },
   "393": {
     "id": 393,
@@ -9141,7 +9421,8 @@
     "death_date_written": "",
     "Geschlecht": "",
     "Funktionsbezeichnungen": null,
-    "Titel": "Graf"
+    "Titel": "Graf",
+    "unidentifiziert": false
   },
   "394": {
     "id": 394,
@@ -9150,7 +9431,7 @@
     "gnd": "",
     "other_url": "",
     "emt_id": "emt_person_id__394",
-    "internal_comment": "unidentifiziert\nist 1683 in Düsseldorf und erhält viele Gnaden von PW - wahrscheinlich ist ihr Ehemann in dessen Kriegsdiensten vor Wien und dann auf dem Feldzug",
+    "internal_comment": "ist 1683 in Düsseldorf und erhält viele Gnaden von PW - wahrscheinlich ist ihr Ehemann in dessen Kriegsdiensten vor Wien und dann auf dem Feldzug",
     "color": "",
     "lebensdaten": "",
     "ndb": "",
@@ -9165,7 +9446,8 @@
     "death_date_written": "",
     "Geschlecht": "",
     "Funktionsbezeichnungen": null,
-    "Titel": null
+    "Titel": null,
+    "unidentifiziert": true
   },
   "395": {
     "id": 395,
@@ -9174,7 +9456,7 @@
     "gnd": "",
     "other_url": "",
     "emt_id": "emt_person_id__395",
-    "internal_comment": "unidentifiziert\nüberbringt Schreiben PWs an EMT im September 1683 nach Linz",
+    "internal_comment": "überbringt Schreiben PWs an EMT im September 1683 nach Linz",
     "color": "",
     "lebensdaten": "",
     "ndb": "",
@@ -9189,7 +9471,8 @@
     "death_date_written": "",
     "Geschlecht": "",
     "Funktionsbezeichnungen": null,
-    "Titel": null
+    "Titel": null,
+    "unidentifiziert": true
   },
   "396": {
     "id": 396,
@@ -9213,7 +9496,8 @@
     "death_date_written": "",
     "Geschlecht": "",
     "Funktionsbezeichnungen": "Hofmeister Breslau",
-    "Titel": "Graf"
+    "Titel": "Graf",
+    "unidentifiziert": false
   },
   "397": {
     "id": 397,
@@ -9222,7 +9506,7 @@
     "gnd": "",
     "other_url": "",
     "emt_id": "emt_person_id__397",
-    "internal_comment": "unidentifiziert\nFamilienname existiert im Rheinland",
+    "internal_comment": "Familienname existiert im Rheinland",
     "color": "",
     "lebensdaten": "",
     "ndb": "",
@@ -9237,7 +9521,8 @@
     "death_date_written": "",
     "Geschlecht": "",
     "Funktionsbezeichnungen": null,
-    "Titel": null
+    "Titel": null,
+    "unidentifiziert": true
   },
   "398": {
     "id": 398,
@@ -9261,7 +9546,8 @@
     "death_date_written": "",
     "Geschlecht": "",
     "Funktionsbezeichnungen": null,
-    "Titel": "Graf"
+    "Titel": "Graf",
+    "unidentifiziert": false
   },
   "399": {
     "id": 399,
@@ -9285,7 +9571,8 @@
     "death_date_written": "",
     "Geschlecht": "",
     "Funktionsbezeichnungen": "Pascha von Ofen",
-    "Titel": null
+    "Titel": null,
+    "unidentifiziert": false
   },
   "400": {
     "id": 400,
@@ -9309,7 +9596,8 @@
     "death_date_written": "",
     "Geschlecht": "",
     "Funktionsbezeichnungen": "Weihbischof, Generalvikar und Offizial im Bistum Breslau",
-    "Titel": null
+    "Titel": null,
+    "unidentifiziert": false
   },
   "401": {
     "id": 401,
@@ -9333,7 +9621,8 @@
     "death_date_written": "",
     "Geschlecht": "",
     "Funktionsbezeichnungen": null,
-    "Titel": "König"
+    "Titel": "König",
+    "unidentifiziert": false
   },
   "402": {
     "id": 402,
@@ -9342,7 +9631,7 @@
     "gnd": "",
     "other_url": "",
     "emt_id": "emt_person_id__402",
-    "internal_comment": "unidentifiziert",
+    "internal_comment": "",
     "color": "",
     "lebensdaten": "",
     "ndb": "",
@@ -9357,7 +9646,8 @@
     "death_date_written": "",
     "Geschlecht": "",
     "Funktionsbezeichnungen": null,
-    "Titel": null
+    "Titel": null,
+    "unidentifiziert": true
   },
   "403": {
     "id": 403,
@@ -9381,7 +9671,8 @@
     "death_date_written": "",
     "Geschlecht": "",
     "Funktionsbezeichnungen": null,
-    "Titel": "König"
+    "Titel": "König",
+    "unidentifiziert": false
   },
   "404": {
     "id": 404,
@@ -9405,7 +9696,8 @@
     "death_date_written": "",
     "Geschlecht": "",
     "Funktionsbezeichnungen": "Kommandant der Festung Gran 1683",
-    "Titel": null
+    "Titel": null,
+    "unidentifiziert": false
   },
   "405": {
     "id": 405,
@@ -9429,7 +9721,8 @@
     "death_date_written": "",
     "Geschlecht": "",
     "Funktionsbezeichnungen": null,
-    "Titel": "Markgraf"
+    "Titel": "Markgraf",
+    "unidentifiziert": false
   },
   "406": {
     "id": 406,
@@ -9453,7 +9746,8 @@
     "death_date_written": "",
     "Geschlecht": "",
     "Funktionsbezeichnungen": "Regierungspräsident und Domherr zu Breslau",
-    "Titel": null
+    "Titel": null,
+    "unidentifiziert": false
   },
   "407": {
     "id": 407,
@@ -9462,7 +9756,7 @@
     "gnd": "",
     "other_url": "",
     "emt_id": "emt_person_id__407",
-    "internal_comment": "unidentifiziert\nbetrifft ein Bistum, für das 1683 oder 1684 Friedrich Wilhelm von Pfalz-Neuburg im Gespräch ist - es kann nicht Münster sein",
+    "internal_comment": "betrifft ein Bistum, für das 1683 oder 1684 Friedrich Wilhelm von Pfalz-Neuburg im Gespräch ist - es kann nicht Münster sein",
     "color": "",
     "lebensdaten": "",
     "ndb": "",
@@ -9477,7 +9771,8 @@
     "death_date_written": "",
     "Geschlecht": "",
     "Funktionsbezeichnungen": null,
-    "Titel": null
+    "Titel": null,
+    "unidentifiziert": true
   },
   "408": {
     "id": 408,
@@ -9501,7 +9796,8 @@
     "death_date_written": "",
     "Geschlecht": "",
     "Funktionsbezeichnungen": null,
-    "Titel": "Graf"
+    "Titel": "Graf",
+    "unidentifiziert": false
   },
   "409": {
     "id": 409,
@@ -9525,7 +9821,8 @@
     "death_date_written": "",
     "Geschlecht": "",
     "Funktionsbezeichnungen": null,
-    "Titel": "Gräfin"
+    "Titel": "Gräfin",
+    "unidentifiziert": false
   },
   "410": {
     "id": 410,
@@ -9549,7 +9846,8 @@
     "death_date_written": "",
     "Geschlecht": "",
     "Funktionsbezeichnungen": null,
-    "Titel": "Graf"
+    "Titel": "Graf",
+    "unidentifiziert": false
   },
   "411": {
     "id": 411,
@@ -9573,7 +9871,8 @@
     "death_date_written": "",
     "Geschlecht": "",
     "Funktionsbezeichnungen": null,
-    "Titel": null
+    "Titel": null,
+    "unidentifiziert": false
   },
   "412": {
     "id": 412,
@@ -9597,7 +9896,8 @@
     "death_date_written": "",
     "Geschlecht": "",
     "Funktionsbezeichnungen": null,
-    "Titel": null
+    "Titel": null,
+    "unidentifiziert": false
   },
   "413": {
     "id": 413,
@@ -9606,7 +9906,7 @@
     "gnd": "",
     "other_url": "",
     "emt_id": "emt_person_id__413",
-    "internal_comment": "unidentifiziert\nist 1683 als Obersthofmeister EMT im Gespräch, aber schwach im Geiste",
+    "internal_comment": "ist 1683 als Obersthofmeister EMT im Gespräch, aber schwach im Geiste",
     "color": "",
     "lebensdaten": "",
     "ndb": "",
@@ -9621,7 +9921,8 @@
     "death_date_written": "",
     "Geschlecht": "",
     "Funktionsbezeichnungen": null,
-    "Titel": "Graf"
+    "Titel": "Graf",
+    "unidentifiziert": true
   },
   "414": {
     "id": 414,
@@ -9645,7 +9946,8 @@
     "death_date_written": "",
     "Geschlecht": "",
     "Funktionsbezeichnungen": null,
-    "Titel": "Graf"
+    "Titel": "Graf",
+    "unidentifiziert": false
   },
   "415": {
     "id": 415,
@@ -9669,7 +9971,8 @@
     "death_date_written": "",
     "Geschlecht": "",
     "Funktionsbezeichnungen": null,
-    "Titel": "Gräfin"
+    "Titel": "Gräfin",
+    "unidentifiziert": false
   },
   "416": {
     "id": 416,
@@ -9678,7 +9981,7 @@
     "gnd": "",
     "other_url": "",
     "emt_id": "emt_person_id__416",
-    "internal_comment": "unidentifiziert\nreist im Dezember 1683 nach Neuburg und nimmt Brief von EMT an PW mit",
+    "internal_comment": "reist im Dezember 1683 nach Neuburg und nimmt Brief von EMT an PW mit",
     "color": "",
     "lebensdaten": "",
     "ndb": "",
@@ -9693,7 +9996,8 @@
     "death_date_written": "",
     "Geschlecht": "",
     "Funktionsbezeichnungen": null,
-    "Titel": null
+    "Titel": null,
+    "unidentifiziert": true
   },
   "417": {
     "id": 417,
@@ -9717,6 +10021,7 @@
     "death_date_written": "",
     "Geschlecht": "",
     "Funktionsbezeichnungen": "",
-    "Titel": ""
+    "Titel": "",
+    "unidentifiziert": false
   }
 }

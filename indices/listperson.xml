@@ -1858,7 +1858,7 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                   <idno type="NDB">https://www.deutsche-biographie.de/sfz26103.html#indexcontent</idno>
                </person>
                <person xml:id="emt_person_id__165">
-                  <persName>Christofl, wohl Kurier 1677</persName>
+                  <persName>Christofl, Kurier 1677</persName>
                </person>
                <person xml:id="emt_person_id__166">
                   <persName>Eleonora Maria von Polen, geb. Österreich, vereh. Lothringen</persName>
@@ -2022,7 +2022,7 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                   <persName>Kollonitsch, Fräulein, soll 1678 Hoffräulein werden</persName>
                </person>
                <person xml:id="emt_person_id__185">
-                  <persName>kaiserlicher Abgesandter zu den Rebellen in Ungarn 1678</persName>
+                  <persName>kaiserlicher Abgesandter nach Ungarn 1678</persName>
                </person>
                <person xml:id="emt_person_id__186">
                   <persName>Caretto di Grana, Otto Heinrich</persName>
@@ -2244,9 +2244,6 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                      <caption>Frans Luycx - Frederick William, Elector of Brandenburg, at three-quarter-length.jpg</caption>
                   </figure>
                </person>
-               <person xml:id="emt_person_id__212">
-                  <persName/>
-               </person>
                <person xml:id="emt_person_id__213">
                   <persName>Crécy, Louis Verjus de</persName>
                   <birth>
@@ -2296,7 +2293,7 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                   </figure>
                </person>
                <person xml:id="emt_person_id__216">
-                  <persName>Erzbischof, der ein Archidiakonat verleiht, das Juan José de Austria inne hatte</persName>
+                  <persName>Erzbischof, der 1679 ein Archidiakonat verleiht, das Juan José de Austria inne hatte</persName>
                </person>
                <person xml:id="emt_person_id__217">
                   <persName>Giustinian, Ascanio</persName>
@@ -2411,9 +2408,6 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                </person>
                <person xml:id="emt_person_id__230">
                   <persName>Wirts, NN</persName>
-               </person>
-               <person xml:id="emt_person_id__231">
-                  <persName/>
                </person>
                <person xml:id="emt_person_id__232">
                   <persName>Jörger von Tollet, Johann Quintin</persName>
@@ -2703,9 +2697,6 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                   </death>
                   <idno type="URL">https://de.wikipedia.org/wiki/Hompesch_(Adelsgeschlecht)</idno>
                </person>
-               <person xml:id="emt_person_id__263">
-                  <persName/>
-               </person>
                <person xml:id="emt_person_id__264">
                   <persName>Pálffy, Katharina Elisabeth, geb. Weichs</persName>
                   <death>
@@ -2957,9 +2948,6 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                <person xml:id="emt_person_id__293">
                   <persName>Egloff, Herr, soll 1678 mit PW nach Wien reisen</persName>
                </person>
-               <person xml:id="emt_person_id__294">
-                  <persName/>
-               </person>
                <person xml:id="emt_person_id__295">
                   <persName>Lemmel, Herr, wird 1678 nicht mit PW nach Wien reisen</persName>
                </person>
@@ -3063,7 +3051,14 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                   <persName>Törring (Dering), NN von 1681</persName>
                </person>
                <person xml:id="emt_person_id__308">
-                  <persName>Aya der kaiserlichen Kinder 1681</persName>
+                  <persName>Mansfeld, Maria Magdalena von, geb. Törring</persName>
+                  <birth>
+                     <date notBefore="1616-01-01" notAfter="1616-12-31">1616</date>
+                  </birth>
+                  <death>
+                     <date notBefore="1686-01-01" notAfter="1686-12-31">1686</date>
+                  </death>
+                  <idno type="URL">https://kaiserhof.geschichte.lmu.de/18099</idno>
                </person>
                <person xml:id="emt_person_id__309">
                   <persName>Ansalone, Ferdinand Maria</persName>
