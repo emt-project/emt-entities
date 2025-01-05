@@ -1335,6 +1335,12 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                   </location>
                   <idno type="GEONAMES">https://sws.geonames.org/3047679/</idno>
                </place>
+               <place xml:id="emt_place_id__201">
+                  <placeName>Luxemburg</placeName>
+               </place>
+               <place xml:id="emt_place_id__202">
+                  <placeName>Russland</placeName>
+               </place>
             </listPlace>
          </div>
       </body>

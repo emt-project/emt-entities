@@ -2923,5 +2923,35 @@
     "alternative_name": "",
     "wikidata_url": "",
     "unidentifiziert": false
+  },
+  "201": {
+    "id": 201,
+    "order": "199.00000000000000000000",
+    "name": "Luxemburg",
+    "geonames": "",
+    "emt_id": "emt_place_id__201",
+    "place_type": null,
+    "lat": null,
+    "long": null,
+    "comments intern": "",
+    "gnd": "",
+    "alternative_name": "",
+    "wikidata_url": "",
+    "unidentifiziert": false
+  },
+  "202": {
+    "id": 202,
+    "order": "200.00000000000000000000",
+    "name": "Russland",
+    "geonames": "",
+    "emt_id": "emt_place_id__202",
+    "place_type": null,
+    "lat": null,
+    "long": null,
+    "comments intern": "",
+    "gnd": "",
+    "alternative_name": "",
+    "wikidata_url": "",
+    "unidentifiziert": false
   }
 }

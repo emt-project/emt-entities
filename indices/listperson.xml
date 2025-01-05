@@ -2016,7 +2016,7 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                   <persName>Spiring, Baron von, Kämmerer PWs 1678</persName>
                </person>
                <person xml:id="emt_person_id__183">
-                  <persName>Serin / Serni, Freiherr von, Kämmerer PWs 1678</persName>
+                  <persName>Serin / Serni / Seereni, Freiherr von, Kämmerer PWs 1678</persName>
                </person>
                <person xml:id="emt_person_id__184">
                   <persName>Kollonitsch, Fräulein, soll 1678 Hoffräulein werden</persName>
@@ -3924,7 +3924,36 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                   <persName>Linzig, Herr 1683</persName>
                </person>
                <person xml:id="emt_person_id__417">
-                  <persName/>
+                  <persName>spanischer Botschafter in Portugal 1684</persName>
+               </person>
+               <person xml:id="emt_person_id__418">
+                  <persName>Serenyi (Schereni), NN., soll Hofamt in Bayern übernehmen 1684</persName>
+               </person>
+               <person xml:id="emt_person_id__419">
+                  <persName>Giusti, NN, in Eheverhandlungen in Portugal involviert 1684</persName>
+               </person>
+               <person xml:id="emt_person_id__420">
+                  <persName>Starhemberg, Bruder von Ernst Rüdiger 1684</persName>
+               </person>
+               <person xml:id="emt_person_id__421">
+                  <persName>Starhemberg, Sohn Ernst Rüdigers 1684</persName>
+               </person>
+               <person xml:id="emt_person_id__422">
+                  <persName>Hessen-Darmstadt, Anna Sophie von</persName>
+                  <birth>
+                     <date notBefore="1638-01-01" notAfter="1638-12-31">1638</date>
+                  </birth>
+                  <death>
+                     <date notBefore="1683-01-01" notAfter="1683-12-31">1683</date>
+                  </death>
+                  <idno type="GND">https://d-nb.info/gnd/100011780</idno>
+                  <idno type="NDB">https://www.deutsche-biographie.de/sfz19355.html#index</idno>
+                  <idno type="WIKIDATA">http://www.wikidata.org/entity/Q290123</idno>
+                  <idno type="URL">https://www.lagis-hessen.de/pnd/100011780</idno>
+                  <figure>
+                     <graphic url="emt_person_id__422.jpg"/>
+                     <caption>AnnaSophieHeDaQued.jpg</caption>
+                  </figure>
                </person>
             </listPerson>
          </div>
