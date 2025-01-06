@@ -2016,7 +2016,7 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                   <persName>Spiring, Baron von, Kämmerer PWs 1678</persName>
                </person>
                <person xml:id="emt_person_id__183">
-                  <persName>Serin / Serni / Seereni, Freiherr von, Kämmerer PWs 1678</persName>
+                  <persName>Serin / Serni, Freiherr von, Kämmerer PWs 1678</persName>
                </person>
                <person xml:id="emt_person_id__184">
                   <persName>Kollonitsch, Fräulein, soll 1678 Hoffräulein werden</persName>
@@ -2529,7 +2529,7 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                   </figure>
                </person>
                <person xml:id="emt_person_id__246">
-                  <persName>Auersperg, NN von 1680</persName>
+                  <persName>Auersperg, Maria Franziska von, vereh. Mansfeld ?</persName>
                </person>
                <person xml:id="emt_person_id__247">
                   <persName>Pater Guardian</persName>
@@ -2639,7 +2639,7 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                   <persName>Stadion, NN von 1680</persName>
                </person>
                <person xml:id="emt_person_id__256">
-                  <persName>Rougemont, Jean de</persName>
+                  <persName>Rougemont, Francesco de</persName>
                </person>
                <person xml:id="emt_person_id__257">
                   <persName>Roßeler / Raßeler, NN 1680</persName>
@@ -3099,7 +3099,14 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                   <idno type="NDB">https://www.deutsche-biographie.de/sfz15342.html#indexcontent</idno>
                </person>
                <person xml:id="emt_person_id__314">
-                  <persName>Spee, Freiherr von 1682</persName>
+                  <persName>Spee, Friedrich Christian von</persName>
+                  <birth>
+                     <date notBefore="1626-01-01" notAfter="1626-12-31">1626</date>
+                  </birth>
+                  <death>
+                     <date notBefore="1695-01-01" notAfter="1695-12-31">1695</date>
+                  </death>
+                  <idno type="URL">https://gw.geneanet.org/cvpolier?lang=en&amp;n=von+spee&amp;oc=0&amp;p=friedrich+christian</idno>
                </person>
                <person xml:id="emt_person_id__315">
                   <persName>Slavata, Karl Johann Joachim OCD</persName>
@@ -3503,7 +3510,7 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                   <persName>Köchin der Kaiserin EMT 1683</persName>
                </person>
                <person xml:id="emt_person_id__368">
-                  <persName>Karl II. von Pfalz-Simmern</persName>
+                  <persName>Pfalz-Simmern, Karl II. von</persName>
                   <birth>
                      <date notBefore="1651-01-01" notAfter="1651-12-31">1651</date>
                   </birth>
@@ -3683,6 +3690,22 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                   <figure>
                      <graphic url="emt_person_id__388.jpg"/>
                      <caption>Detail of Marie Thérèse d'Autriche by Nocret.jpg</caption>
+                  </figure>
+               </person>
+               <person xml:id="emt_person_id__433">
+                  <persName>Pfalz-Simmern, Karl II. von ?</persName>
+                  <birth>
+                     <date notBefore="1651-01-01" notAfter="1651-12-31">1651</date>
+                  </birth>
+                  <death>
+                     <date notBefore="1685-01-01" notAfter="1685-12-31">1685</date>
+                  </death>
+                  <idno type="GND">https://d-nb.info/gnd/102440174</idno>
+                  <idno type="NDB">https://www.deutsche-biographie.de/sfz39959.html#indexcontent</idno>
+                  <idno type="WIKIDATA">http://www.wikidata.org/entity/Q62878</idno>
+                  <figure>
+                     <graphic url="emt_person_id__433.jpg"/>
+                     <caption>Charles II, Elector Palatine 01.jpg</caption>
                   </figure>
                </person>
                <person xml:id="emt_person_id__389">
@@ -3924,7 +3947,7 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                   <persName>Linzig, Herr 1683</persName>
                </person>
                <person xml:id="emt_person_id__417">
-                  <persName>spanischer Botschafter in Portugal 1684</persName>
+                  <persName>Henriquez d'Avalos, Francisco</persName>
                </person>
                <person xml:id="emt_person_id__418">
                   <persName>Serenyi (Schereni), NN., soll Hofamt in Bayern übernehmen 1684</persName>
@@ -3954,6 +3977,83 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                      <graphic url="emt_person_id__422.jpg"/>
                      <caption>AnnaSophieHeDaQued.jpg</caption>
                   </figure>
+               </person>
+               <person xml:id="emt_person_id__423">
+                  <persName>Lamberg, Maria Katharina von, vereh. Zrínyi</persName>
+                  <idno type="URL">https://dokutar.omikk.bme.hu/archivum/angol/htm/zrinyi_m.htm</idno>
+               </person>
+               <person xml:id="emt_person_id__424">
+                  <persName>Liechtenstein, Gräfin/Fürstin von</persName>
+               </person>
+               <person xml:id="emt_person_id__425">
+                  <persName>Zrínyi, Adam</persName>
+                  <birth>
+                     <date notBefore="1662-01-01" notAfter="1662-12-31">1662</date>
+                  </birth>
+                  <death>
+                     <date notBefore="1691-01-01" notAfter="1691-12-31">1691</date>
+                  </death>
+                  <idno type="GND">https://d-nb.info/gnd/124576966</idno>
+                  <idno type="WIKIDATA">http://www.wikidata.org/entity/Q351235</idno>
+                  <idno type="URL">https://dokutar.omikk.bme.hu/archivum/angol/htm/zrinyi_m.htm</idno>
+                  <figure>
+                     <graphic url="emt_person_id__425.jpg"/>
+                     <caption>Adam Zrinski.JPG</caption>
+                  </figure>
+               </person>
+               <person xml:id="emt_person_id__426">
+                  <persName>Modena, Francesco d'Este von</persName>
+                  <birth>
+                     <date notBefore="1660-01-01" notAfter="1660-12-31">1660</date>
+                  </birth>
+                  <death>
+                     <date notBefore="1694-01-01" notAfter="1694-12-31">1694</date>
+                  </death>
+                  <idno type="GND">https://d-nb.info/gnd/119386445</idno>
+                  <idno type="WIKIDATA">http://www.wikidata.org/entity/Q715243</idno>
+                  <figure>
+                     <graphic url="emt_person_id__426.jpg"/>
+                     <caption>Ritratto di Francesco II d'Este.png</caption>
+                  </figure>
+               </person>
+               <person xml:id="emt_person_id__427">
+                  <persName>Lantzé, reist im Auftrag des Kaisers nach Innsbruck 1684</persName>
+               </person>
+               <person xml:id="emt_person_id__428">
+                  <persName>Rassler, soll in Konstanz Kommission wahrnehmen 1684</persName>
+               </person>
+               <person xml:id="emt_person_id__429">
+                  <persName>Rummel, Franz Ferdinand von</persName>
+                  <birth>
+                     <date notBefore="1644-01-01" notAfter="1644-12-31">1644</date>
+                  </birth>
+                  <death>
+                     <date notBefore="1716-01-01" notAfter="1716-12-31">1716</date>
+                  </death>
+                  <idno type="GND">https://d-nb.info/gnd/118604112</idno>
+                  <idno type="NDB">https://www.deutsche-biographie.de/sfz108994.html#index</idno>
+                  <idno type="WIKIDATA">http://www.wikidata.org/entity/Q120010</idno>
+                  <figure>
+                     <graphic url="emt_person_id__429.jpg"/>
+                     <caption>Franz Ferdinand von Rummel.jpg</caption>
+                  </figure>
+               </person>
+               <person xml:id="emt_person_id__430">
+                  <persName>Rummel, Johann Leonhard von</persName>
+                  <death>
+                     <date notBefore="1681-01-01" notAfter="1681-12-31">1681</date>
+                  </death>
+                  <idno type="GND">https://d-nb.info/gnd/139516786</idno>
+                  <idno type="NDB">https://www.deutsche-biographie.de/sfz108996.html</idno>
+               </person>
+               <person xml:id="emt_person_id__431">
+                  <persName>Pierucci, Pietro</persName>
+               </person>
+               <person xml:id="emt_person_id__432">
+                  <persName>Hippolito OFM</persName>
+               </person>
+               <person xml:id="emt_person_id__434">
+                  <persName>Hamilton (Familie)</persName>
                </person>
             </listPerson>
          </div>

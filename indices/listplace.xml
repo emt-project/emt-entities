@@ -1341,6 +1341,18 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                <place xml:id="emt_place_id__202">
                   <placeName>Russland</placeName>
                </place>
+               <place xml:id="emt_place_id__203">
+                  <placeName>Konstanz, Bistum</placeName>
+               </place>
+               <place xml:id="emt_place_id__204">
+                  <placeName>Speyer, Bistum</placeName>
+               </place>
+               <place xml:id="emt_place_id__205">
+                  <placeName>Venedig (Republik)</placeName>
+               </place>
+               <place xml:id="emt_place_id__206">
+                  <placeName>Neuburg an der Donau, Karmelitinnenkloster</placeName>
+               </place>
             </listPlace>
          </div>
       </body>
