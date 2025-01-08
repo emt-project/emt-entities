@@ -585,6 +585,7 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                      <geo>46.71503 11.655980</geo>
                   </location>
                   <idno type="GEONAMES">https://sws.geonames.org/3181550/</idno>
+                  <idno type="GND">https://d-nb.info/gnd/4080541-4</idno>
                </place>
                <place xml:id="emt_place_id__80">
                   <placeName>Erblande, habsburgische</placeName>
@@ -1216,6 +1217,7 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                </place>
                <place xml:id="emt_place_id__180">
                   <placeName>Passau, Bistum</placeName>
+                  <idno type="GND">https://d-nb.info/gnd/4115866-0</idno>
                </place>
                <place xml:id="emt_place_id__181">
                   <placeName>Raab / Rába, Fluss</placeName>
@@ -1327,6 +1329,7 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                </place>
                <place xml:id="emt_place_id__199">
                   <placeName>Oberungarn</placeName>
+                  <idno type="GND">https://d-nb.info/gnd/4055297-4</idno>
                </place>
                <place xml:id="emt_place_id__200">
                   <placeName>Kanischa / Nagykanisza</placeName>
@@ -1337,21 +1340,50 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                </place>
                <place xml:id="emt_place_id__201">
                   <placeName>Luxemburg</placeName>
+                  <location type="coords">
+                     <geo>49.61167 6.130000</geo>
+                  </location>
+                  <idno type="GEONAMES">https://sws.geonames.org/2960316/</idno>
                </place>
                <place xml:id="emt_place_id__202">
                   <placeName>Russland</placeName>
+                  <idno type="GND">https://d-nb.info/gnd/4076899-5</idno>
                </place>
                <place xml:id="emt_place_id__203">
                   <placeName>Konstanz, Bistum</placeName>
+                  <idno type="GND">https://d-nb.info/gnd/4110360-9</idno>
                </place>
                <place xml:id="emt_place_id__204">
                   <placeName>Speyer, Bistum</placeName>
+                  <idno type="GND">https://d-nb.info/gnd/4118751-9</idno>
                </place>
                <place xml:id="emt_place_id__205">
                   <placeName>Venedig (Republik)</placeName>
+                  <idno type="GND">https://d-nb.info/gnd/4062501-1</idno>
                </place>
                <place xml:id="emt_place_id__206">
                   <placeName>Neuburg an der Donau, Karmelitinnenkloster</placeName>
+               </place>
+               <place xml:id="emt_place_id__207">
+                  <placeName>Gmunden</placeName>
+                  <location type="coords">
+                     <geo>47.91839 13.799330</geo>
+                  </location>
+                  <idno type="GEONAMES">https://sws.geonames.org/2778436/</idno>
+               </place>
+               <place xml:id="emt_place_id__208">
+                  <placeName>Ischl</placeName>
+                  <location type="coords">
+                     <geo>47.71109 13.618930</geo>
+                  </location>
+                  <idno type="GEONAMES">https://sws.geonames.org/2782052/</idno>
+               </place>
+               <place xml:id="emt_place_id__209">
+                  <placeName>Sankt Wolfgang</placeName>
+                  <location type="coords">
+                     <geo>47.73932 13.446660</geo>
+                  </location>
+                  <idno type="GEONAMES">https://sws.geonames.org/2766340/</idno>
                </place>
             </listPlace>
          </div>

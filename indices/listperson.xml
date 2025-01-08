@@ -4055,6 +4055,22 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                <person xml:id="emt_person_id__434">
                   <persName>Hamilton (Familie)</persName>
                </person>
+               <person xml:id="emt_person_id__435">
+                  <persName>Albert, NN. OCarm Oberin der Karmelitinnen in Neuburg seit 1684</persName>
+               </person>
+               <person xml:id="emt_person_id__436">
+                  <persName>Fuhrmann, David ?</persName>
+                  <birth>
+                     <date notBefore="1621-01-01" notAfter="1621-12-31">1621</date>
+                  </birth>
+                  <death>
+                     <date notBefore="1689-01-01" notAfter="1689-12-31">1689</date>
+                  </death>
+                  <idno type="URL">https://hdbg.eu/kloster/index.php/chorherren/detail?id=29</idno>
+               </person>
+               <person xml:id="emt_person_id__437">
+                  <persName>Obrist des Dietrichsteinschen Regiments 1684</persName>
+               </person>
             </listPerson>
          </div>
       </body>
