@@ -1385,6 +1385,33 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                   </location>
                   <idno type="GEONAMES">https://sws.geonames.org/2766340/</idno>
                </place>
+               <place xml:id="emt_place_id__210">
+                  <placeName>Waitzen / Vác</placeName>
+               </place>
+               <place xml:id="emt_place_id__211">
+                  <placeName>Pest</placeName>
+               </place>
+               <place xml:id="emt_place_id__212">
+                  <placeName>Genua</placeName>
+               </place>
+               <place xml:id="emt_place_id__213">
+                  <placeName>Traunsee</placeName>
+               </place>
+               <place xml:id="emt_place_id__214">
+                  <placeName>Girona</placeName>
+               </place>
+               <place xml:id="emt_place_id__215">
+                  <placeName>Visegrád</placeName>
+               </place>
+               <place xml:id="emt_place_id__216">
+                  <placeName>Münster</placeName>
+               </place>
+               <place xml:id="emt_place_id__217">
+                  <placeName>Tirol</placeName>
+               </place>
+               <place xml:id="emt_place_id__218">
+                  <placeName>Mauthausen</placeName>
+               </place>
             </listPlace>
          </div>
       </body>

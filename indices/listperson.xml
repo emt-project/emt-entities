@@ -2583,7 +2583,7 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                   </figure>
                </person>
                <person xml:id="emt_person_id__251">
-                  <persName>Sauter, Michael SJ ?</persName>
+                  <persName>Sauter, Michael SJ</persName>
                   <birth>
                      <date notBefore="1618-01-01" notAfter="1618-12-31">1618</date>
                   </birth>
@@ -3630,6 +3630,9 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                </person>
                <person xml:id="emt_person_id__380">
                   <persName>Rusenstein, Herr, 1683</persName>
+                  <death>
+                     <date notBefore="1684-01-01" notAfter="1684-12-31">1684</date>
+                  </death>
                </person>
                <person xml:id="emt_person_id__381">
                   <persName>Pozinski, Herr, 1683</persName>
@@ -4068,6 +4071,113 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                </person>
                <person xml:id="emt_person_id__437">
                   <persName>Obrist des Dietrichsteinschen Regiments 1684</persName>
+               </person>
+               <person xml:id="emt_person_id__438">
+                  <persName>Schmißing, NN, Inhaber einer Präbende</persName>
+               </person>
+               <person xml:id="emt_person_id__439">
+                  <persName>Schlick von Passaun, NN 1684</persName>
+               </person>
+               <person xml:id="emt_person_id__440">
+                  <persName>Kinsky, Franz Ulrich</persName>
+                  <birth>
+                     <date notBefore="1634-01-01" notAfter="1634-12-31">1634</date>
+                  </birth>
+                  <death>
+                     <date notBefore="1699-01-01" notAfter="1699-12-31">1699</date>
+                  </death>
+                  <idno type="GND">https://d-nb.info/gnd/123530822</idno>
+                  <idno type="NDB">https://www.deutsche-biographie.de/sfz41022.html#index</idno>
+                  <idno type="WIKIDATA">http://www.wikidata.org/entity/Q877716</idno>
+                  <figure>
+                     <graphic url="emt_person_id__440.jpg"/>
+                     <caption>FranzUlrichKinsky.jpg</caption>
+                  </figure>
+               </person>
+               <person xml:id="emt_person_id__441">
+                  <persName>Cavriani, Gräfin, tritt 1684 in Dienst von Erzherzogin Maria Anna in Düsseldorf</persName>
+               </person>
+               <person xml:id="emt_person_id__442">
+                  <persName>Bournonville, Alexander Hypolite de Hénin-Liétard de</persName>
+                  <birth>
+                     <date notBefore="1616-01-01" notAfter="1616-12-31">1616</date>
+                  </birth>
+                  <death>
+                     <date notBefore="1690-01-01" notAfter="1690-12-31">1690</date>
+                  </death>
+                  <idno type="GND">https://d-nb.info/gnd/116298642</idno>
+                  <idno type="NDB">https://www.deutsche-biographie.de/116298642.html?language=en</idno>
+                  <idno type="URL">https://en.wikipedia.org/wiki/Alexander_von_Bournonville</idno>
+               </person>
+               <person xml:id="emt_person_id__443">
+                  <persName>Créquy, François de Marines de</persName>
+                  <birth>
+                     <date notBefore="1629-01-01" notAfter="1629-12-31">1629</date>
+                  </birth>
+                  <death>
+                     <date notBefore="1687-01-01" notAfter="1687-12-31">1687</date>
+                  </death>
+                  <idno type="GND">https://d-nb.info/gnd/119120631</idno>
+                  <idno type="WIKIDATA">http://www.wikidata.org/entity/Q945474</idno>
+                  <idno type="URL">https://de.wikipedia.org/wiki/Fran%C3%A7ois_de_Cr%C3%A9quy</idno>
+                  <figure>
+                     <graphic url="emt_person_id__443.jpg"/>
+                     <caption>Decaisne - François de Blanchefort de Créquy (1629-1687) - MV 1037.jpg</caption>
+                  </figure>
+               </person>
+               <person xml:id="emt_person_id__444">
+                  <persName>Hallwyl (Hallweil), Friedrich Ludwig von</persName>
+                  <birth>
+                     <date notBefore="1644-01-01" notAfter="1644-12-31">1644</date>
+                  </birth>
+                  <death>
+                     <date notBefore="1684-01-01" notAfter="1684-12-31">1684</date>
+                  </death>
+                  <idno type="GND">https://d-nb.info/gnd/1068836806</idno>
+                  <idno type="NDB">https://www.deutsche-biographie.de/pnd1068836806.html#index</idno>
+                  <idno type="WIKIDATA">http://www.wikidata.org/entity/Q78063894</idno>
+               </person>
+               <person xml:id="emt_person_id__445">
+                  <persName>Sprachmeister EMTs, der wieder in neuburgischen Diensten ist 1684</persName>
+               </person>
+               <person xml:id="emt_person_id__446">
+                  <persName>Taaffe of Carlingford, Francis</persName>
+                  <birth>
+                     <date notBefore="1639-01-01" notAfter="1639-12-31">1639</date>
+                  </birth>
+                  <idno type="GND">https://d-nb.info/gnd/138584494</idno>
+                  <idno type="NDB">https://www.deutsche-biographie.de/sfz82105.html#</idno>
+                  <idno type="WIKIDATA">http://www.wikidata.org/entity/Q1441744</idno>
+                  <idno type="URL">https://www.dib.ie/biography/taaffe-francis-a8434</idno>
+               </person>
+               <person xml:id="emt_person_id__447">
+                  <persName>Scherffenberg, Friedrich Siegmund von</persName>
+                  <birth>
+                     <date notBefore="1644-01-01" notAfter="1644-12-31">1644</date>
+                  </birth>
+                  <death>
+                     <date notBefore="1688-01-01" notAfter="1688-12-31">1688</date>
+                  </death>
+                  <idno type="GND">https://d-nb.info/gnd/11696927X</idno>
+                  <idno type="NDB">https://www.deutsche-biographie.de/pnd11696927X.html#index</idno>
+                  <idno type="WIKIDATA">http://www.wikidata.org/entity/Q95258388</idno>
+               </person>
+               <person xml:id="emt_person_id__448">
+                  <persName>Kara Mehmed Pascha</persName>
+                  <death>
+                     <date notBefore="1684-01-01" notAfter="1684-12-31">1684</date>
+                  </death>
+                  <idno type="WIKIDATA">http://www.wikidata.org/entity/Q700334</idno>
+                  <idno type="URL">https://lccn.loc.gov/n2023007751</idno>
+               </person>
+               <person xml:id="emt_person_id__449">
+                  <persName>Minckwitz, Herr von aus Schlesien 1684</persName>
+               </person>
+               <person xml:id="emt_person_id__451">
+                  <persName>Großprior der Johanniter in Spanien 1684</persName>
+               </person>
+               <person xml:id="emt_person_id__452">
+                  <persName>Nostitz, Herr von 1684, wird von PW empfohlen</persName>
                </person>
             </listPerson>
          </div>
