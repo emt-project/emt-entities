@@ -3473,22 +3473,6 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                   </death>
                   <idno type="URL">https://run.unl.pt/handle/10362/75618</idno>
                </person>
-               <person xml:id="emt_person_id__455">
-                  <persName>Pfalz-Neuburg, Karl Philipp von ?</persName>
-                  <birth>
-                     <date notBefore="1661-01-01" notAfter="1661-12-31">1661</date>
-                  </birth>
-                  <death>
-                     <date notBefore="1742-01-01" notAfter="1742-12-31">1742</date>
-                  </death>
-                  <idno type="GND">https://d-nb.info/gnd/118720953</idno>
-                  <idno type="NDB">https://www.deutsche-biographie.de/sfz57322.html#indexcontent</idno>
-                  <idno type="WIKIDATA">http://www.wikidata.org/entity/Q62594</idno>
-                  <figure>
-                     <graphic url="emt_person_id__455.jpg"/>
-                     <caption>Karl Philipp, Kurfürst (1716-1742).jpg</caption>
-                  </figure>
-               </person>
                <person xml:id="emt_person_id__363">
                   <persName>Auditor (di Rota ?) 1683</persName>
                </person>
