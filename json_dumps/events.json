@@ -2247,7 +2247,7 @@
             {
                 "id": 116,
                 "order": "116.00000000000000000000",
-                "name": "Maria Magdalena, Erzherzogin",
+                "name": "Österreich, Maria Magdalena von",
                 "gnd": "http://d-nb.info/1019759852",
                 "other_url": "",
                 "emt_id": "emt_person_id__116",
@@ -2266,7 +2266,7 @@
                 "death_date_written": "",
                 "Geschlecht": null,
                 "Funktionsbezeichnungen": null,
-                "Titel": null,
+                "Titel": "Erzherzogin",
                 "unidentifiziert": false
             }
         ],
@@ -2334,7 +2334,7 @@
             {
                 "id": 117,
                 "order": "117.00000000000000000000",
-                "name": "Maria Margaretha, Erzherzogin",
+                "name": "Österreich, Maria Margaretha von",
                 "gnd": "",
                 "other_url": "",
                 "emt_id": "emt_person_id__117",
@@ -2353,7 +2353,7 @@
                 "death_date_written": "",
                 "Geschlecht": null,
                 "Funktionsbezeichnungen": null,
-                "Titel": null,
+                "Titel": "Erzherzogin",
                 "unidentifiziert": false
             }
         ],
@@ -2380,7 +2380,7 @@
             {
                 "id": 117,
                 "order": "117.00000000000000000000",
-                "name": "Maria Margaretha, Erzherzogin",
+                "name": "Österreich, Maria Margaretha von",
                 "gnd": "",
                 "other_url": "",
                 "emt_id": "emt_person_id__117",
@@ -2399,7 +2399,7 @@
                 "death_date_written": "",
                 "Geschlecht": null,
                 "Funktionsbezeichnungen": null,
-                "Titel": null,
+                "Titel": "Erzherzogin",
                 "unidentifiziert": false
             }
         ],
