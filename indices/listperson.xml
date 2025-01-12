@@ -3744,7 +3744,7 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                <person xml:id="emt_person_id__396">
                   <persName>Gall, Walter von</persName>
                   <death>
-                     <date notBefore="1685-01-01" notAfter="1685-12-31">1685</date>
+                     <date notBefore="1684-01-01" notAfter="1684-12-31">1684</date>
                   </death>
                </person>
                <person xml:id="emt_person_id__397">
@@ -4200,6 +4200,59 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                </person>
                <person xml:id="emt_person_id__460">
                   <persName>bayrischer Resident in Wien 1684</persName>
+               </person>
+               <person xml:id="emt_person_id__461">
+                  <persName>Thurn-Valsassina, NN von, soll Hofmeister werden 1684</persName>
+               </person>
+               <person xml:id="emt_person_id__462">
+                  <persName>Medinaceli, Juan Francisco II. Tomás Lorenzo de la Cerda Enriquez de Ribera y Portocarrero, duque de</persName>
+                  <birth>
+                     <date notBefore="1637-01-01" notAfter="1637-12-31">1637</date>
+                  </birth>
+                  <death>
+                     <date notBefore="1691-01-01" notAfter="1691-12-31">1691</date>
+                  </death>
+                  <idno type="WIKIDATA">http://www.wikidata.org/entity/Q3067105</idno>
+                  <idno type="URL">https://dbe.rah.es/biografias/13850/juan-francisco-tomas-lorenzo-de-la-cerda-enriquez-afan-de-ribera-portocarrero-y</idno>
+                  <figure>
+                     <graphic url="emt_person_id__462.jpg"/>
+                     <caption>Claudio Coello - Juan Francisco de la Cerda, VIII Duke of Medinaceli - Google Art Project.jpg</caption>
+                  </figure>
+               </person>
+               <person xml:id="emt_person_id__463">
+                  <persName>Seilern, Johann Friedrich von</persName>
+                  <birth>
+                     <date notBefore="1646-01-01" notAfter="1646-12-31">1646</date>
+                  </birth>
+                  <death>
+                     <date notBefore="1715-01-01" notAfter="1715-12-31">1715</date>
+                  </death>
+                  <idno type="GND">https://d-nb.info/gnd/130164097</idno>
+                  <idno type="NDB">https://www.deutsche-biographie.de/sfzS13336.html#index</idno>
+                  <idno type="WIKIDATA">http://www.wikidata.org/entity/Q15448917</idno>
+                  <figure>
+                     <graphic url="emt_person_id__463.jpg"/>
+                     <caption>Seilern-Aspang (2).jpg</caption>
+                  </figure>
+               </person>
+               <person xml:id="emt_person_id__464">
+                  <persName>Oettingen-Wallerstein, eine Tochter des Wolfgang von 1684</persName>
+               </person>
+               <person xml:id="emt_person_id__465">
+                  <persName>Oettingen-Wallerstein, Maria Anna Theresia von, vereh. Oettingen-Spielberg</persName>
+                  <birth>
+                     <date notBefore="1662-01-01" notAfter="1662-12-31">1662</date>
+                  </birth>
+                  <death>
+                     <date notBefore="1695-01-01" notAfter="1695-12-31">1695</date>
+                  </death>
+                  <idno type="URL">http://w.genealogy.euweb.cz/oett/oett3.html</idno>
+               </person>
+               <person xml:id="emt_person_id__466">
+                  <persName>Oberstleutnant im Regiment Karl Philipps 1684</persName>
+               </person>
+               <person xml:id="emt_person_id__467">
+                  <persName>Oberstfalkenmeister Leopolds I. 1684</persName>
                </person>
             </listPerson>
          </div>
