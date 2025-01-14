@@ -3208,5 +3208,20 @@
     "alternative_name": "",
     "wikidata_url": "",
     "unidentifiziert": false
+  },
+  "220": {
+    "id": 220,
+    "order": "218.00000000000000000000",
+    "name": "Neiße",
+    "geonames": "",
+    "emt_id": "emt_place_id__220",
+    "place_type": null,
+    "lat": null,
+    "long": null,
+    "comments intern": "",
+    "gnd": "",
+    "alternative_name": "",
+    "wikidata_url": "",
+    "unidentifiziert": false
   }
 }

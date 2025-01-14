@@ -1446,17 +1446,6 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                   <idno type="GND">https://d-nb.info/gnd/120092662</idno>
                   <idno type="NDB">https://www.deutsche-biographie.de/sfz13157.html#indexcontent</idno>
                </person>
-               <person xml:id="emt_person_id__122">
-                  <persName>Brandenburg-Ansbach, Johann Friedrich von</persName>
-                  <birth>
-                     <date notBefore="1654-01-01" notAfter="1654-12-31">1654</date>
-                  </birth>
-                  <death>
-                     <date notBefore="1686-01-01" notAfter="1686-12-31">1686</date>
-                  </death>
-                  <idno type="GND">https://d-nb.info/gnd/104130881</idno>
-                  <idno type="NDB">https://www.deutsche-biographie.de/sfz39430.html#indexcontent</idno>
-               </person>
                <person xml:id="emt_person_id__123">
                   <persName>Pfalz-Neuburg, Anna Maria Luisa von, geb. Medici</persName>
                   <birth>
@@ -4253,6 +4242,62 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                </person>
                <person xml:id="emt_person_id__467">
                   <persName>Oberstfalkenmeister Leopolds I. 1684</persName>
+               </person>
+               <person xml:id="emt_person_id__468">
+                  <persName>Lilienau, NN von</persName>
+               </person>
+               <person xml:id="emt_person_id__469">
+                  <persName>Proscaio, Herr von</persName>
+               </person>
+               <person xml:id="emt_person_id__470">
+                  <persName>Proscaio, Frau von, geb. Rosenberg</persName>
+               </person>
+               <person xml:id="emt_person_id__471">
+                  <persName>Rosenberg, Frau von</persName>
+               </person>
+               <person xml:id="emt_person_id__472">
+                  <persName>Spersowski (Schpsersofski), NN von</persName>
+               </person>
+               <person xml:id="emt_person_id__473">
+                  <persName>Falkenhayn, Herr von</persName>
+               </person>
+               <person xml:id="emt_person_id__474">
+                  <persName>Falkenhayn, Frau von</persName>
+               </person>
+               <person xml:id="emt_person_id__475">
+                  <persName>Casehin, NN., Landrichter in Schlesien</persName>
+               </person>
+               <person xml:id="emt_person_id__476">
+                  <persName>Paulovski (Pavlofsqui), Herr von, war Hofmeister in Breslau</persName>
+               </person>
+               <person xml:id="emt_person_id__477">
+                  <persName>Hohenlohe (Hollach), Graf von</persName>
+               </person>
+               <person xml:id="emt_person_id__478">
+                  <persName>Zweyer, Herr von</persName>
+                  <death>
+                     <date notBefore="1684-01-01" notAfter="1684-12-31">1684</date>
+                  </death>
+               </person>
+               <person xml:id="emt_person_id__479">
+                  <persName>Dünnewald NN 1685</persName>
+               </person>
+               <person xml:id="emt_person_id__480">
+                  <persName>Cose, Herr von 1685</persName>
+               </person>
+               <person xml:id="emt_person_id__481">
+                  <persName>Lamberg, Johann Philipp von</persName>
+                  <birth>
+                     <date notBefore="1652-01-01" notAfter="1652-12-31">1652</date>
+                  </birth>
+                  <death>
+                     <date notBefore="1712-01-01" notAfter="1712-12-31">1712</date>
+                  </death>
+                  <idno type="GND">https://d-nb.info/gnd/100242596</idno>
+                  <idno type="NDB">https://www.deutsche-biographie.de/sfz45858.html</idno>
+               </person>
+               <person xml:id="emt_person_id__482">
+                  <persName>Reichenbach, Herr NN</persName>
                </person>
             </listPerson>
          </div>
