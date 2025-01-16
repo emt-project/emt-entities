@@ -4275,9 +4275,6 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                </person>
                <person xml:id="emt_person_id__478">
                   <persName>Zweyer, Herr von</persName>
-                  <death>
-                     <date notBefore="1684-01-01" notAfter="1684-12-31">1684</date>
-                  </death>
                </person>
                <person xml:id="emt_person_id__479">
                   <persName>Dünnewald NN 1685</persName>
@@ -4297,7 +4294,64 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                   <idno type="NDB">https://www.deutsche-biographie.de/sfz45858.html</idno>
                </person>
                <person xml:id="emt_person_id__482">
-                  <persName>Reichenbach, Herr NN</persName>
+                  <persName>Reichenbach / Reifenbach, Herr NN</persName>
+               </person>
+               <person xml:id="emt_person_id__484">
+                  <persName>freile Werschowizin</persName>
+               </person>
+               <person xml:id="emt_person_id__485">
+                  <persName>Steinkallenfels</persName>
+                  <idno type="GND">https://d-nb.info/gnd/115880534</idno>
+               </person>
+               <person xml:id="emt_person_id__486">
+                  <persName/>
+               </person>
+               <person xml:id="emt_person_id__487">
+                  <persName/>
+               </person>
+               <person xml:id="emt_person_id__488">
+                  <persName>Sporck; Johann von</persName>
+                  <birth>
+                     <date notBefore="1600-01-01" notAfter="1600-12-31">1600</date>
+                  </birth>
+                  <death>
+                     <date notBefore="1679-01-01" notAfter="1679-12-31">1679</date>
+                  </death>
+                  <idno type="GND">https://d-nb.info/gnd/118752219</idno>
+                  <idno type="NDB">https://www.deutsche-biographie.de/sfz80809.html#index</idno>
+                  <idno type="WIKIDATA">http://www.wikidata.org/entity/Q72057</idno>
+                  <figure>
+                     <graphic url="emt_person_id__488.jpg"/>
+                     <caption>HGM Anonym Sporck.jpg</caption>
+                  </figure>
+               </person>
+               <person xml:id="emt_person_id__489">
+                  <persName>Sickingen, NN von</persName>
+               </person>
+               <person xml:id="emt_person_id__490">
+                  <persName>Cheverny, Louis de Clemont-Gallerande de</persName>
+                  <birth>
+                     <date notBefore="1645-01-01" notAfter="1645-12-31">1645</date>
+                  </birth>
+                  <death>
+                     <date notBefore="1722-01-01" notAfter="1722-12-31">1722</date>
+                  </death>
+               </person>
+               <person xml:id="emt_person_id__491">
+                  <persName>Orleans, Elisabeth Charlotte von, geb. Pfalz-Simmern</persName>
+                  <birth>
+                     <date notBefore="1652-01-01" notAfter="1652-12-31">1652</date>
+                  </birth>
+                  <death>
+                     <date notBefore="1722-01-01" notAfter="1722-12-31">1722</date>
+                  </death>
+                  <idno type="GND">https://d-nb.info/gnd/118529935</idno>
+                  <idno type="NDB">https://www.deutsche-biographie.de/sfz39180.html#index</idno>
+                  <idno type="WIKIDATA">http://www.wikidata.org/entity/Q57221</idno>
+                  <figure>
+                     <graphic url="emt_person_id__491.jpg"/>
+                     <caption>(Narbonne) Portrait de Liselotte de Palatinat - Pierre Mignard - Musée des Beaux-Arts de Narbonne.jpg</caption>
+                  </figure>
                </person>
             </listPerson>
          </div>

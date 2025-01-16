@@ -3223,5 +3223,20 @@
     "alternative_name": "",
     "wikidata_url": "",
     "unidentifiziert": false
+  },
+  "221": {
+    "id": 221,
+    "order": "219.00000000000000000000",
+    "name": "Baden-Baden, Markgrafschaft",
+    "geonames": "",
+    "emt_id": "emt_place_id__221",
+    "place_type": null,
+    "lat": null,
+    "long": null,
+    "comments intern": "",
+    "gnd": "",
+    "alternative_name": "",
+    "wikidata_url": "",
+    "unidentifiziert": false
   }
 }
