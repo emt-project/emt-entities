@@ -4353,6 +4353,37 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                      <caption>(Narbonne) Portrait de Liselotte de Palatinat - Pierre Mignard - Musée des Beaux-Arts de Narbonne.jpg</caption>
                   </figure>
                </person>
+               <person xml:id="emt_person_id__492">
+                  <persName>Medici, Cosimo III.</persName>
+                  <birth>
+                     <date notBefore="1642-01-01" notAfter="1642-12-31">1642</date>
+                  </birth>
+                  <idno type="GND">https://d-nb.info/gnd/118882945</idno>
+                  <idno type="NDB">https://www.deutsche-biographie.de/sfz35445.html</idno>
+                  <idno type="WIKIDATA">http://www.wikidata.org/entity/Q47292</idno>
+                  <idno type="URL">https://www.treccani.it/enciclopedia/cosimo-iii-granduca-di-toscana/?search=C%C3%B2simo%20III%20granduca%20di%20Toscana%2F</idno>
+                  <figure>
+                     <graphic url="emt_person_id__492.jpg"/>
+                     <caption>Volterrano, Cosimo III de' Medici in grand ducal robes (Warsaw Royal Castle).jpg</caption>
+                  </figure>
+               </person>
+               <person xml:id="emt_person_id__493">
+                  <persName>Caraffa (Carafa), Antonio</persName>
+                  <birth>
+                     <date notBefore="1642-01-01" notAfter="1642-12-31">1642</date>
+                  </birth>
+                  <death>
+                     <date notBefore="1693-01-01" notAfter="1693-12-31">1693</date>
+                  </death>
+                  <idno type="GND">https://d-nb.info/gnd/121321657</idno>
+                  <idno type="NDB">https://www.deutsche-biographie.de/sfz7886.html#</idno>
+                  <idno type="WIKIDATA">http://www.wikidata.org/entity/Q443481</idno>
+                  <idno type="URL">https://www.treccani.it/enciclopedia/antonio-carafa/</idno>
+                  <figure>
+                     <graphic url="emt_person_id__493.jpg"/>
+                     <caption>Caraffa.jpg</caption>
+                  </figure>
+               </person>
             </listPerson>
          </div>
       </body>
