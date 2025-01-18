@@ -1421,6 +1421,12 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                <place xml:id="emt_place_id__221">
                   <placeName>Baden-Baden, Markgrafschaft</placeName>
                </place>
+               <place xml:id="emt_place_id__223">
+                  <placeName/>
+               </place>
+               <place xml:id="emt_place_id__224">
+                  <placeName/>
+               </place>
             </listPlace>
          </div>
       </body>

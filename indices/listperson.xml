@@ -2726,9 +2726,6 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                      <date notBefore="1684-01-01" notAfter="1684-12-31">1684</date>
                   </death>
                </person>
-               <person xml:id="emt_person_id__270">
-                  <persName>Oettingen, NN von 1681</persName>
-               </person>
                <person xml:id="emt_person_id__271">
                   <persName>Hofmeisterin, die in Neuburg angekommen ist 1681</persName>
                </person>
@@ -3724,9 +3721,6 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                      <caption>Georg Friedrich, count of Waldeck, painted by Johann Valentin Tischbein, ca 1750.jpg</caption>
                   </figure>
                </person>
-               <person xml:id="emt_person_id__394">
-                  <persName>Palffy, Gemahlin eines Herrn 1683</persName>
-               </person>
                <person xml:id="emt_person_id__395">
                   <persName>Golstein, Herr von 1683</persName>
                </person>
@@ -3869,7 +3863,7 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                   </figure>
                </person>
                <person xml:id="emt_person_id__411">
-                  <persName>Oettingen-Wallerstein, Wilhelm von ?</persName>
+                  <persName>Oettingen-Wallerstein, Wilhelm von</persName>
                   <birth>
                      <date notBefore="1627-01-01" notAfter="1627-12-31">1627</date>
                   </birth>
@@ -3879,7 +3873,7 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                   <idno type="URL">http://w.genealogy.euweb.cz/oett/oett3.html</idno>
                </person>
                <person xml:id="emt_person_id__412">
-                  <persName>Oettingen-Wallerstein, Octavia Esther von, geb. Herberstein-Neuburg ?</persName>
+                  <persName>Oettingen-Wallerstein, Octavia Esther von, geb. Herberstein-Neuburg</persName>
                   <death>
                      <date notBefore="1702-01-01" notAfter="1702-12-31">1702</date>
                   </death>
@@ -4265,7 +4259,7 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                   <persName>Falkenhayn, Frau von</persName>
                </person>
                <person xml:id="emt_person_id__475">
-                  <persName>Casehin, NN., Landrichter in Schlesien</persName>
+                  <persName>Casehin (vielleicht Gaschin?), NN., Landrichter in Schlesien</persName>
                </person>
                <person xml:id="emt_person_id__476">
                   <persName>Paulovski (Pavlofsqui), Herr von, war Hofmeister in Breslau</persName>
@@ -4294,7 +4288,11 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                   <idno type="NDB">https://www.deutsche-biographie.de/sfz45858.html</idno>
                </person>
                <person xml:id="emt_person_id__482">
-                  <persName>Reichenbach / Reifenbach, Herr NN</persName>
+                  <persName>Reichenbach, Christian Ernst von</persName>
+                  <death>
+                     <date notBefore="1699-01-01" notAfter="1699-12-31">1699</date>
+                  </death>
+                  <idno type="NDB">https://d-nb.info/gnd/122876075</idno>
                </person>
                <person xml:id="emt_person_id__484">
                   <persName>freile Werschowizin</persName>
@@ -4383,6 +4381,120 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                      <graphic url="emt_person_id__493.jpg"/>
                      <caption>Caraffa.jpg</caption>
                   </figure>
+               </person>
+               <person xml:id="emt_person_id__494">
+                  <persName>Witwicki, Jan Stanisław</persName>
+                  <birth>
+                     <date notBefore="1638-01-01" notAfter="1638-12-31">1638</date>
+                  </birth>
+                  <death>
+                     <date notBefore="1698-01-01" notAfter="1698-12-31">1698</date>
+                  </death>
+                  <idno type="WIKIDATA">http://www.wikidata.org/entity/Q9343350</idno>
+                  <idno type="URL">https://mail.catholic-hierarchy.org/bishop/bwitw.html</idno>
+                  <figure>
+                     <graphic url="emt_person_id__494.jpg"/>
+                     <caption>Stanisław Witwicki (88587479).jpg</caption>
+                  </figure>
+               </person>
+               <person xml:id="emt_person_id__495">
+                  <persName/>
+               </person>
+               <person xml:id="emt_person_id__496">
+                  <persName/>
+               </person>
+               <person xml:id="emt_person_id__497">
+                  <persName>Alexander VIII. (Ottoboni)</persName>
+                  <birth>
+                     <date notBefore="1610-01-01" notAfter="1610-12-31">1610</date>
+                  </birth>
+                  <death>
+                     <date notBefore="1691-01-01" notAfter="1691-12-31">1691</date>
+                  </death>
+                  <idno type="GND">https://d-nb.info/gnd/11930466X</idno>
+                  <idno type="NDB">https://www.deutsche-biographie.de/pnd11930466X.html#index</idno>
+                  <idno type="WIKIDATA">http://www.wikidata.org/entity/Q101294</idno>
+                  <figure>
+                     <graphic url="emt_person_id__497.jpg"/>
+                     <caption>Portrait of Pope Alexander VIII – Roman School of 17th Century – (unframed).jpg</caption>
+                  </figure>
+               </person>
+               <person xml:id="emt_person_id__498">
+                  <persName>Maria Kazimira von Polen, geb. de la Grange d'Arquien</persName>
+                  <birth>
+                     <date notBefore="1641-01-01" notAfter="1641-12-31">1641</date>
+                  </birth>
+                  <death>
+                     <date notBefore="1716-01-01" notAfter="1716-12-31">1716</date>
+                  </death>
+                  <idno type="GND">https://d-nb.info/gnd/118818449</idno>
+                  <idno type="WIKIDATA">http://www.wikidata.org/entity/Q240113</idno>
+                  <figure>
+                     <graphic url="emt_person_id__498.jpg"/>
+                     <caption>Jan Tricius - Portrait of Maria Casimire (ca. 1676) - Google Art Project.jpg</caption>
+                  </figure>
+               </person>
+               <person xml:id="emt_person_id__499">
+                  <persName>Bayern, Violante Beatrix von, vereh. Medici</persName>
+                  <birth>
+                     <date notBefore="1673-01-01" notAfter="1673-12-31">1673</date>
+                  </birth>
+                  <death>
+                     <date notBefore="1731-01-01" notAfter="1731-12-31">1731</date>
+                  </death>
+                  <idno type="GND">https://d-nb.info/gnd/120734435</idno>
+                  <idno type="NDB">https://www.deutsche-biographie.de/sfz125774.html#index</idno>
+                  <idno type="WIKIDATA">http://www.wikidata.org/entity/Q68736</idno>
+                  <figure>
+                     <graphic url="emt_person_id__499.jpg"/>
+                     <caption>Violante of Bavaria.jpg</caption>
+                  </figure>
+               </person>
+               <person xml:id="emt_person_id__500">
+                  <persName>Bayern (Haus)</persName>
+               </person>
+               <person xml:id="emt_person_id__501">
+                  <persName>Emerich, NN Pater 1685</persName>
+               </person>
+               <person xml:id="emt_person_id__502">
+                  <persName>Hofmeister Karl Philipps 1685</persName>
+               </person>
+               <person xml:id="emt_person_id__503">
+                  <persName>Gaschin, Herr von 1685</persName>
+               </person>
+               <person xml:id="emt_person_id__504">
+                  <persName>Gardehauptmann und Stallmeister PWs 1685</persName>
+               </person>
+               <person xml:id="emt_person_id__505">
+                  <persName>Jakob II. von England und Schottland</persName>
+                  <birth>
+                     <date notBefore="1633-01-01" notAfter="1633-12-31">1633</date>
+                  </birth>
+                  <death>
+                     <date notBefore="1701-01-01" notAfter="1701-12-31">1701</date>
+                  </death>
+                  <idno type="GND">https://d-nb.info/gnd/118711539</idno>
+                  <idno type="WIKIDATA">http://www.wikidata.org/entity/Q126188</idno>
+                  <figure>
+                     <graphic url="emt_person_id__505.jpg"/>
+                     <caption>King James II by Sir Godfrey Kneller, Bt.jpg</caption>
+                  </figure>
+               </person>
+               <person xml:id="emt_person_id__507">
+                  <persName>Pálffy, Nikolaus (Miklos)</persName>
+                  <birth>
+                     <date notBefore="1657-01-01" notAfter="1657-12-31">1657</date>
+                  </birth>
+                  <death>
+                     <date notBefore="1732-01-01" notAfter="1732-12-31">1732</date>
+                  </death>
+                  <idno type="URL">https://en.wikipedia.org/wiki/Mikl%C3%B3s_P%C3%A1lffy</idno>
+               </person>
+               <person xml:id="emt_person_id__508">
+                  <persName>Nickerl, bitte 1685 um Empfehlung an PW</persName>
+               </person>
+               <person xml:id="emt_person_id__509">
+                  <persName>Pfluech, Herr 1685</persName>
                </person>
             </listPerson>
          </div>

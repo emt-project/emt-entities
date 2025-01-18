@@ -131,5 +131,12 @@
     "name": "Domkapitel zu Trient",
     "gnd": "",
     "emt_id": "emt_institution_id__19"
+  },
+  "20": {
+    "id": 20,
+    "order": "20.00000000000000000000",
+    "name": "",
+    "gnd": "",
+    "emt_id": "emt_institution_id__20"
   }
 }
