@@ -4295,17 +4295,11 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                   <idno type="NDB">https://d-nb.info/gnd/122876075</idno>
                </person>
                <person xml:id="emt_person_id__484">
-                  <persName>freile Werschowizin</persName>
+                  <persName>Werschowizin, Fräulein 1691</persName>
                </person>
                <person xml:id="emt_person_id__485">
-                  <persName>Steinkallenfels</persName>
+                  <persName>Steinkallenfels, Herr von 1691</persName>
                   <idno type="GND">https://d-nb.info/gnd/115880534</idno>
-               </person>
-               <person xml:id="emt_person_id__486">
-                  <persName/>
-               </person>
-               <person xml:id="emt_person_id__487">
-                  <persName/>
                </person>
                <person xml:id="emt_person_id__488">
                   <persName>Sporck; Johann von</persName>
@@ -4397,12 +4391,6 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                      <caption>Stanisław Witwicki (88587479).jpg</caption>
                   </figure>
                </person>
-               <person xml:id="emt_person_id__495">
-                  <persName/>
-               </person>
-               <person xml:id="emt_person_id__496">
-                  <persName/>
-               </person>
                <person xml:id="emt_person_id__497">
                   <persName>Alexander VIII. (Ottoboni)</persName>
                   <birth>
@@ -4491,7 +4479,7 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                   <idno type="URL">https://en.wikipedia.org/wiki/Mikl%C3%B3s_P%C3%A1lffy</idno>
                </person>
                <person xml:id="emt_person_id__508">
-                  <persName>Nickerl, bitte 1685 um Empfehlung an PW</persName>
+                  <persName>Nickerl, bittet 1685 um Empfehlung an PW</persName>
                </person>
                <person xml:id="emt_person_id__509">
                   <persName>Pfluech, Herr 1685</persName>

@@ -1363,6 +1363,10 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                </place>
                <place xml:id="emt_place_id__206">
                   <placeName>Neuburg an der Donau, Karmelitinnenkloster</placeName>
+                  <location type="coords">
+                     <geo>48.73218 11.187090</geo>
+                  </location>
+                  <idno type="GEONAMES">https://sws.geonames.org/2866070/</idno>
                </place>
                <place xml:id="emt_place_id__207">
                   <placeName>Gmunden</placeName>
@@ -1387,45 +1391,84 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                </place>
                <place xml:id="emt_place_id__210">
                   <placeName>Waitzen / Vác</placeName>
+                  <location type="coords">
+                     <geo>47.77591 19.136120</geo>
+                  </location>
+                  <idno type="GEONAMES">https://sws.geonames.org/3043293/</idno>
                </place>
                <place xml:id="emt_place_id__211">
                   <placeName>Pest</placeName>
+                  <location type="coords">
+                     <geo>47.50000 19.083330</geo>
+                  </location>
+                  <idno type="GEONAMES">https://sws.geonames.org/3046446/</idno>
                </place>
                <place xml:id="emt_place_id__212">
                   <placeName>Genua</placeName>
+                  <location type="coords">
+                     <geo>44.40478 8.944390</geo>
+                  </location>
+                  <idno type="GEONAMES">https://sws.geonames.org/3176219/</idno>
                </place>
                <place xml:id="emt_place_id__213">
                   <placeName>Traunsee</placeName>
+                  <location type="coords">
+                     <geo>47.85000 13.800000</geo>
+                  </location>
+                  <idno type="GEONAMES">https://sws.geonames.org/2763413/</idno>
                </place>
                <place xml:id="emt_place_id__214">
                   <placeName>Girona</placeName>
+                  <location type="coords">
+                     <geo>41.98311 2.824930</geo>
+                  </location>
+                  <idno type="GEONAMES">https://sws.geonames.org/3121456/</idno>
                </place>
                <place xml:id="emt_place_id__215">
                   <placeName>Visegrád</placeName>
+                  <location type="coords">
+                     <geo>47.78526 18.970900</geo>
+                  </location>
+                  <idno type="GEONAMES">https://sws.geonames.org/3042824/</idno>
                </place>
                <place xml:id="emt_place_id__216">
                   <placeName>Münster</placeName>
+                  <location type="coords">
+                     <geo>51.96236 7.625710</geo>
+                  </location>
+                  <idno type="GEONAMES">https://sws.geonames.org/2867543/</idno>
                </place>
                <place xml:id="emt_place_id__217">
                   <placeName>Tirol</placeName>
+                  <location type="coords">
+                     <geo>47.00000 11.500000</geo>
+                  </location>
+                  <idno type="GEONAMES">https://sws.geonames.org/2763587/</idno>
                </place>
                <place xml:id="emt_place_id__218">
                   <placeName>Mauthausen</placeName>
+                  <location type="coords">
+                     <geo>48.24114 14.519630</geo>
+                  </location>
+                  <idno type="GEONAMES">https://sws.geonames.org/2771760/</idno>
                </place>
                <place xml:id="emt_place_id__219">
                   <placeName>Böhmen</placeName>
+                  <location type="coords">
+                     <geo>50.00000 14.500000</geo>
+                  </location>
+                  <idno type="GEONAMES">https://sws.geonames.org/3078198/</idno>
                </place>
                <place xml:id="emt_place_id__220">
-                  <placeName>Neiße</placeName>
+                  <placeName>Neiße / Nysa</placeName>
+                  <location type="coords">
+                     <geo>50.47379 17.334370</geo>
+                  </location>
+                  <idno type="GEONAMES">https://sws.geonames.org/3090436/</idno>
                </place>
                <place xml:id="emt_place_id__221">
                   <placeName>Baden-Baden, Markgrafschaft</placeName>
-               </place>
-               <place xml:id="emt_place_id__223">
-                  <placeName/>
-               </place>
-               <place xml:id="emt_place_id__224">
-                  <placeName/>
+                  <idno type="GND">https://d-nb.info/gnd/4004170-0</idno>
                </place>
             </listPlace>
          </div>
