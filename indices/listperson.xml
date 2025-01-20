@@ -4259,7 +4259,7 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                   <persName>Falkenhayn, Frau von</persName>
                </person>
                <person xml:id="emt_person_id__475">
-                  <persName>Casehin (vielleicht Gaschin?), NN., Landrichter in Schlesien</persName>
+                  <persName>Gaschin, NN., Landrichter in Schlesien</persName>
                </person>
                <person xml:id="emt_person_id__476">
                   <persName>Paulovski (Pavlofsqui), Herr von, war Hofmeister in Breslau</persName>
@@ -4483,6 +4483,52 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                </person>
                <person xml:id="emt_person_id__509">
                   <persName>Pfluech, Herr 1685</persName>
+               </person>
+               <person xml:id="emt_person_id__510">
+                  <persName>Borstorf, NN. 1685, Kommandant zu Düsseldorf</persName>
+               </person>
+               <person xml:id="emt_person_id__511">
+                  <persName>spanischer Feuerwerker, 1685 in Wien</persName>
+               </person>
+               <person xml:id="emt_person_id__512">
+                  <persName>Fastenprediger bei Kaiserin Eleonora 1685</persName>
+               </person>
+               <person xml:id="emt_person_id__513">
+                  <persName>Heißler von Heitersheim, Donat Johann</persName>
+                  <birth>
+                     <date notBefore="1648-01-01" notAfter="1648-12-31">1648</date>
+                  </birth>
+                  <death>
+                     <date notBefore="1696-01-01" notAfter="1696-12-31">1696</date>
+                  </death>
+                  <idno type="GND">https://d-nb.info/gnd/135932955</idno>
+                  <idno type="NDB">https://www.deutsche-biographie.de/sfz29419.html#index</idno>
+                  <idno type="WIKIDATA">http://www.wikidata.org/entity/Q85698</idno>
+                  <figure>
+                     <graphic url="emt_person_id__513.jpg"/>
+                     <caption>Donat Johann Graf Heißler von Heitersheim.JPG</caption>
+                  </figure>
+               </person>
+               <person xml:id="emt_person_id__514">
+                  <persName>Bayern, Abgesandte wegen Eheschließung 1685</persName>
+               </person>
+               <person xml:id="emt_person_id__515">
+                  <persName>Mantua, Isabella Clara von, geb. Österreich</persName>
+                  <birth>
+                     <date notBefore="1629-01-01" notAfter="1629-12-31">1629</date>
+                  </birth>
+                  <death>
+                     <date notBefore="1685-01-01" notAfter="1685-12-31">1685</date>
+                  </death>
+                  <idno type="GND">https://d-nb.info/gnd/137411618</idno>
+                  <idno type="WIKIDATA">http://www.wikidata.org/entity/Q270520</idno>
+                  <figure>
+                     <graphic url="emt_person_id__515.jpg"/>
+                     <caption>Anonym Erzherzogin Isabella Klara.jpg</caption>
+                  </figure>
+               </person>
+               <person xml:id="emt_person_id__516">
+                  <persName>Contarini, Gemahlin des venezianischen Botschafters 1685</persName>
                </person>
             </listPerson>
          </div>
