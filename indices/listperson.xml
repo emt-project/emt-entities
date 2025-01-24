@@ -4530,6 +4530,41 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                <person xml:id="emt_person_id__516">
                   <persName>Contarini, Gemahlin des venezianischen Botschafters 1685</persName>
                </person>
+               <person xml:id="emt_person_id__517">
+                  <persName>Althann, NN von, 1685 für Hofamt empfohlen</persName>
+               </person>
+               <person xml:id="emt_person_id__518">
+                  <persName>Bayern, Maximilian I. von</persName>
+                  <birth>
+                     <date notBefore="1573-01-01" notAfter="1573-12-31">1573</date>
+                  </birth>
+                  <death>
+                     <date notBefore="1651-01-01" notAfter="1651-12-31">1651</date>
+                  </death>
+                  <idno type="GND">https://d-nb.info/gnd/118579355</idno>
+                  <idno type="NDB">https://www.deutsche-biographie.de/sfz70660.html#index</idno>
+                  <idno type="WIKIDATA">http://www.wikidata.org/entity/Q57206</idno>
+                  <figure>
+                     <graphic url="emt_person_id__518.jpg"/>
+                     <caption>Joachim von Sandrart - Maximilian I, Elector of Bavaria.jpg</caption>
+                  </figure>
+               </person>
+               <person xml:id="emt_person_id__519">
+                  <persName>Bayern, Maria Anna von, geb. Österreich</persName>
+                  <birth>
+                     <date notBefore="1610-01-01" notAfter="1610-12-31">1610</date>
+                  </birth>
+                  <death>
+                     <date notBefore="1665-01-01" notAfter="1665-12-31">1665</date>
+                  </death>
+                  <idno type="GND">https://d-nb.info/gnd/118893289</idno>
+                  <idno type="NDB">https://www.deutsche-biographie.de/sfz58295.html#index</idno>
+                  <idno type="WIKIDATA">http://www.wikidata.org/entity/Q93381</idno>
+                  <figure>
+                     <graphic url="emt_person_id__519.jpg"/>
+                     <caption>Joachim von Sandrart - Erzherzogin Maria Anna (1610-1665), Kurfürstin von Bayern.jpg</caption>
+                  </figure>
+               </person>
             </listPerson>
          </div>
       </body>
