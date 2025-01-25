@@ -1470,6 +1470,13 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                   <placeName>Baden-Baden, Markgrafschaft</placeName>
                   <idno type="GND">https://d-nb.info/gnd/4004170-0</idno>
                </place>
+               <place xml:id="emt_place_id__225">
+                  <placeName>Veldenz, Grafschaft</placeName>
+                  <idno type="GND">https://d-nb.info/gnd/4062482-1</idno>
+               </place>
+               <place xml:id="emt_place_id__226">
+                  <placeName>Wartin</placeName>
+               </place>
             </listPlace>
          </div>
       </body>

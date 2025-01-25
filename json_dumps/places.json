@@ -3238,5 +3238,35 @@
     "alternative_name": "",
     "wikidata_url": "",
     "unidentifiziert": false
+  },
+  "225": {
+    "id": 225,
+    "order": "220.00000000000000000000",
+    "name": "Veldenz, Grafschaft",
+    "geonames": "",
+    "emt_id": "emt_place_id__225",
+    "place_type": null,
+    "lat": null,
+    "long": null,
+    "comments intern": "",
+    "gnd": "https://d-nb.info/gnd/4062482-1",
+    "alternative_name": "",
+    "wikidata_url": "",
+    "unidentifiziert": false
+  },
+  "226": {
+    "id": 226,
+    "order": "221.00000000000000000000",
+    "name": "Wartin",
+    "geonames": "",
+    "emt_id": "emt_place_id__226",
+    "place_type": null,
+    "lat": null,
+    "long": null,
+    "comments intern": "ist noch nicht einmal sicher, ob es sich um einen Ort handelt: EMT schreibt, PW solle sich wegen Wartin nicht weiter engagieren, der Kaiser habe anderes vor, 19.07.1685",
+    "gnd": "",
+    "alternative_name": "",
+    "wikidata_url": "",
+    "unidentifiziert": true
   }
 }

@@ -4565,6 +4565,59 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                      <caption>Joachim von Sandrart - Erzherzogin Maria Anna (1610-1665), Kurfürstin von Bayern.jpg</caption>
                   </figure>
                </person>
+               <person xml:id="emt_person_id__520">
+                  <persName>Maria Beatrice von England und Schottland, geb. Modena</persName>
+                  <birth>
+                     <date notBefore="1658-01-01" notAfter="1658-12-31">1658</date>
+                  </birth>
+                  <death>
+                     <date notBefore="1718-01-01" notAfter="1718-12-31">1718</date>
+                  </death>
+                  <idno type="GND">https://d-nb.info/gnd/119206080</idno>
+                  <idno type="WIKIDATA">http://www.wikidata.org/entity/Q232475</idno>
+                  <figure>
+                     <graphic url="emt_person_id__520.jpg"/>
+                     <caption>Studio of Kneller - Mary of Modena.png</caption>
+                  </figure>
+               </person>
+               <person xml:id="emt_person_id__521">
+                  <persName>Bourbon (Haus)</persName>
+               </person>
+               <person xml:id="emt_person_id__522">
+                  <persName>Thun, Franz Sigismund von</persName>
+                  <birth>
+                     <date notBefore="1639-01-01" notAfter="1639-12-31">1639</date>
+                  </birth>
+                  <death>
+                     <date notBefore="1702-01-01" notAfter="1702-12-31">1702</date>
+                  </death>
+                  <idno type="GND">https://d-nb.info/gnd/1168239664</idno>
+                  <idno type="NDB">https://www.deutsche-biographie.de/sfz132446.html#index</idno>
+                  <idno type="WIKIDATA">http://www.wikidata.org/entity/Q59287083</idno>
+                  <figure>
+                     <graphic url="emt_person_id__522.jpg"/>
+                     <caption>Franz Sigmund Thun-Hohenstein.jpg</caption>
+                  </figure>
+               </person>
+               <person xml:id="emt_person_id__523">
+                  <persName>Bayern, Maximilian Philipp von</persName>
+                  <birth>
+                     <date notBefore="1638-01-01" notAfter="1638-12-31">1638</date>
+                  </birth>
+                  <death>
+                     <date notBefore="1705-01-01" notAfter="1705-12-31">1705</date>
+                  </death>
+                  <idno type="GND">https://d-nb.info/gnd/118782711</idno>
+                  <idno type="NDB">https://www.deutsche-biographie.de/sfz59381.html#index</idno>
+                  <idno type="WIKIDATA">http://www.wikidata.org/entity/Q101894</idno>
+                  <figure>
+                     <graphic url="emt_person_id__523.jpg"/>
+                     <caption>Maximilian Philipp Hieronymus von Bayern-Leuchtenberg.jpg</caption>
+                  </figure>
+               </person>
+               <person xml:id="emt_person_id__524">
+                  <persName>Bruder Florian 1685</persName>
+               </person>
             </listPerson>
          </div>
       </body>
