@@ -3268,5 +3268,20 @@
     "alternative_name": "",
     "wikidata_url": "",
     "unidentifiziert": true
+  },
+  "227": {
+    "id": 227,
+    "order": "222.00000000000000000000",
+    "name": "Wien, Kloster Sankt Lorenz",
+    "geonames": "",
+    "emt_id": "emt_place_id__227",
+    "place_type": null,
+    "lat": null,
+    "long": null,
+    "comments intern": "",
+    "gnd": "",
+    "alternative_name": "",
+    "wikidata_url": "",
+    "unidentifiziert": false
   }
 }

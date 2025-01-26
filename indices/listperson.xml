@@ -4618,6 +4618,23 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                <person xml:id="emt_person_id__524">
                   <persName>Bruder Florian 1685</persName>
                </person>
+               <person xml:id="emt_person_id__525">
+                  <persName>Obristleutnant des Fürsten Salm, verteidigt 1685 Gran</persName>
+               </person>
+               <person xml:id="emt_person_id__526">
+                  <persName>Windischgrätz, Ernst Friedrich von</persName>
+                  <birth>
+                     <date notBefore="1670-01-01" notAfter="1670-12-31">1670</date>
+                  </birth>
+                  <death>
+                     <date notBefore="1727-01-01" notAfter="1727-12-31">1727</date>
+                  </death>
+                  <idno type="GND">https://d-nb.info/gnd/1214246508</idno>
+                  <idno type="NDB">https://www.deutsche-biographie.de/pnd1214246508.html#index</idno>
+               </person>
+               <person xml:id="emt_person_id__527">
+                  <persName>Borkstorf/Burkstorf, NN, 1685 vor Gran gefallen</persName>
+               </person>
             </listPerson>
          </div>
       </body>
