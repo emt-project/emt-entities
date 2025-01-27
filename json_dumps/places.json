@@ -3283,5 +3283,35 @@
     "alternative_name": "",
     "wikidata_url": "",
     "unidentifiziert": false
+  },
+  "228": {
+    "id": 228,
+    "order": "223.00000000000000000000",
+    "name": "Oßek in Ungarn",
+    "geonames": "",
+    "emt_id": "emt_place_id__228",
+    "place_type": null,
+    "lat": null,
+    "long": null,
+    "comments intern": "wird im August 1685 von Kaiserlichen eingenommen, wohl im Umfeld der Schlacht bei Gran und der Eroberung von Neuhäusel",
+    "gnd": "",
+    "alternative_name": "",
+    "wikidata_url": "",
+    "unidentifiziert": true
+  },
+  "229": {
+    "id": 229,
+    "order": "224.00000000000000000000",
+    "name": "Königrat",
+    "geonames": "",
+    "emt_id": "emt_place_id__229",
+    "place_type": null,
+    "lat": null,
+    "long": null,
+    "comments intern": "wird nach der Eroberung von Neuhäusel verlassen (wohl von den Osmanen), lönnte das evtl. Kaschau sein?",
+    "gnd": "",
+    "alternative_name": "",
+    "wikidata_url": "",
+    "unidentifiziert": true
   }
 }

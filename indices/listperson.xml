@@ -4635,6 +4635,47 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                <person xml:id="emt_person_id__527">
                   <persName>Borkstorf/Burkstorf, NN, 1685 vor Gran gefallen</persName>
                </person>
+               <person xml:id="emt_person_id__528">
+                  <persName>Sinzendorf, Karl Ludwig von</persName>
+                  <birth>
+                     <date notBefore="1652-01-01" notAfter="1652-12-31">1652</date>
+                  </birth>
+                  <death>
+                     <date notBefore="1722-01-01" notAfter="1722-12-31">1722</date>
+                  </death>
+                  <idno type="GND">https://d-nb.info/gnd/1200669800</idno>
+                  <idno type="NDB">https://www.deutsche-biographie.de/pnd1200669800.html#index</idno>
+               </person>
+               <person xml:id="emt_person_id__529">
+                  <persName>Dietrichstein, Leopold Ignaz von</persName>
+                  <birth>
+                     <date notBefore="1660-01-01" notAfter="1660-12-31">1660</date>
+                  </birth>
+                  <death>
+                     <date notBefore="1708-01-01" notAfter="1708-12-31">1708</date>
+                  </death>
+                  <idno type="WIKIDATA">http://www.wikidata.org/entity/Q20716593</idno>
+                  <idno type="URL">https://tng.adler-wien.eu/getperson.php?personID=I310099&amp;tree=adler_person</idno>
+                  <figure>
+                     <graphic url="emt_person_id__529.jpg"/>
+                     <caption>Leopold Ignaz of Dietrichstein.jpg</caption>
+                  </figure>
+               </person>
+               <person xml:id="emt_person_id__530">
+                  <persName>Morel, Jean</persName>
+                  <death>
+                     <date notBefore="1719-01-01" notAfter="1719-12-31">1719</date>
+                  </death>
+                  <idno type="URL">https://mss-cat.nottingham.ac.uk/calmview/Record.aspx?src=CalmView.Catalog&amp;id=PwA%2F2860</idno>
+               </person>
+               <person xml:id="emt_person_id__531">
+                  <persName>Borck, Caspar von</persName>
+                  <idno type="GND">https://d-nb.info/gnd/124658725</idno>
+                  <idno type="NDB">https://www.deutsche-biographie.de/pnd124658725.html#index</idno>
+               </person>
+               <person xml:id="emt_person_id__532">
+                  <persName>Obristwachtmeister des Grafen Starhemberg 1685</persName>
+               </person>
             </listPerson>
          </div>
       </body>
