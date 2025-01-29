@@ -1486,6 +1486,13 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                <place xml:id="emt_place_id__229">
                   <placeName>Königrat</placeName>
                </place>
+               <place xml:id="emt_place_id__230">
+                  <placeName>Mailand</placeName>
+                  <location type="coords">
+                     <geo>45.46427 9.189510</geo>
+                  </location>
+                  <idno type="GEONAMES">https://sws.geonames.org/3173435/</idno>
+               </place>
             </listPlace>
          </div>
       </body>

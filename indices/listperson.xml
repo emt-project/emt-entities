@@ -1580,7 +1580,7 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                   <idno type="NDB">https://www.deutsche-biographie.de/sfz35593.html#indexcontent</idno>
                </person>
                <person xml:id="emt_person_id__134">
-                  <persName>Pfalz-Neuburg, Hedwig Elisabeth von, vereh. Sobeski</persName>
+                  <persName>Pfalz-Neuburg, Hedwig Elisabeth von, vereh. Sobieski</persName>
                   <birth>
                      <date notBefore="1673-01-01" notAfter="1673-12-31">1673</date>
                   </birth>
@@ -4675,6 +4675,55 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                </person>
                <person xml:id="emt_person_id__532">
                   <persName>Obristwachtmeister des Grafen Starhemberg 1685</persName>
+               </person>
+               <person xml:id="emt_person_id__533">
+                  <persName>Strudel, Peter</persName>
+                  <birth>
+                     <date notBefore="1660-01-01" notAfter="1660-12-31">1660</date>
+                  </birth>
+                  <death>
+                     <date notBefore="1714-01-01" notAfter="1714-12-31">1714</date>
+                  </death>
+                  <idno type="GND">https://d-nb.info/gnd/119128284</idno>
+                  <idno type="NDB">https://www.deutsche-biographie.de/pnd119128284.html#index</idno>
+                  <idno type="WIKIDATA">http://www.wikidata.org/entity/Q321520</idno>
+               </person>
+               <person xml:id="emt_person_id__534">
+                  <persName>Douven, Jan Frans van</persName>
+                  <birth>
+                     <date notBefore="1656-01-01" notAfter="1656-12-31">1656</date>
+                  </birth>
+                  <death>
+                     <date notBefore="1727-01-01" notAfter="1727-12-31">1727</date>
+                  </death>
+                  <idno type="GND">https://d-nb.info/gnd/136434584</idno>
+                  <idno type="NDB">https://www.deutsche-biographie.de/pnd136434584.html#index</idno>
+                  <idno type="WIKIDATA">http://www.wikidata.org/entity/Q643494</idno>
+                  <figure>
+                     <graphic url="emt_person_id__534.jpg"/>
+                     <caption>Jan Frans van Douven 006.jpg</caption>
+                  </figure>
+               </person>
+               <person xml:id="emt_person_id__535">
+                  <persName>Fugger, Klara Dorothea geb. von Welsberg</persName>
+               </person>
+               <person xml:id="emt_person_id__536">
+                  <persName>Windischgrätz, Fräulein von</persName>
+               </person>
+               <person xml:id="emt_person_id__537">
+                  <persName>Fräulein, das 1691 mit Hedwig Elisabeth nach Polen wollte</persName>
+               </person>
+               <person xml:id="emt_person_id__538">
+                  <persName>Güttich</persName>
+               </person>
+               <person xml:id="emt_person_id__539">
+                  <persName>Humpüsch</persName>
+               </person>
+               <person xml:id="emt_person_id__540">
+                  <persName/>
+               </person>
+               <person xml:id="emt_person_id__541">
+                  <persName/>
                </person>
             </listPerson>
          </div>

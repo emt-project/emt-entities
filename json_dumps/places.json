@@ -3313,5 +3313,20 @@
     "alternative_name": "",
     "wikidata_url": "",
     "unidentifiziert": true
+  },
+  "230": {
+    "id": 230,
+    "order": "225.00000000000000000000",
+    "name": "Mailand",
+    "geonames": "https://www.geonames.org/3173435/milan.html",
+    "emt_id": "emt_place_id__230",
+    "place_type": null,
+    "lat": "45.46427",
+    "long": "9.189510",
+    "comments intern": "",
+    "gnd": "",
+    "alternative_name": "",
+    "wikidata_url": "",
+    "unidentifiziert": false
   }
 }
