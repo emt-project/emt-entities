@@ -4720,9 +4720,51 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                   <persName>Humpüsch</persName>
                </person>
                <person xml:id="emt_person_id__540">
-                  <persName/>
+                  <persName>Montauti, Anton Francesco</persName>
                </person>
                <person xml:id="emt_person_id__541">
+                  <persName>Mannsfeld-Fondi, Heinrich Franz</persName>
+                  <idno type="GND">https://d-nb.info/gnd/pnd121795063.html#indexcontent</idno>
+                  <idno type="WIKIDATA">http://www.wikidata.org/entity/Q1597257</idno>
+                  <idno type="URL">https://de.wikisource.org/wiki/BLK%C3%96:Mansfeld,_Heinrich_Franz_F%C3%BCrst_von</idno>
+                  <figure>
+                     <graphic url="emt_person_id__541.jpg"/>
+                     <caption>Mansfeld-St-Wappen.png</caption>
+                  </figure>
+               </person>
+               <person xml:id="emt_person_id__542">
+                  <persName>Cerrini, Fabrizio</persName>
+               </person>
+               <person xml:id="emt_person_id__543">
+                  <persName>armer Mensch (Konvertit, Gefangener) 1691</persName>
+               </person>
+               <person xml:id="emt_person_id__544">
+                  <persName>Lüdinghausen genannt Wolf SJ, Friedrich von</persName>
+                  <birth>
+                     <date notBefore="1643-01-01" notAfter="1643-12-31">1643</date>
+                  </birth>
+                  <death>
+                     <date notBefore="1708-01-01" notAfter="1708-12-31">1708</date>
+                  </death>
+                  <idno type="GND">https://d-nb.info/gnd/132798549</idno>
+                  <idno type="WIKIDATA">http://www.wikidata.org/entity/Q1463876</idno>
+               </person>
+               <person xml:id="emt_person_id__545">
+                  <persName>Rummel 1691</persName>
+               </person>
+               <person xml:id="emt_person_id__546">
+                  <persName>Bodler SJ, Johann</persName>
+                  <birth>
+                     <date notBefore="1629-01-01" notAfter="1629-12-31">1629</date>
+                  </birth>
+                  <death>
+                     <date notBefore="1698-01-01" notAfter="1698-12-31">1698</date>
+                  </death>
+                  <idno type="GND">https://d-nb.info/gnd/124747019</idno>
+                  <idno type="NDB">https://www.deutsche-biographie.de/pnd124747019.html#index</idno>
+                  <idno type="WIKIDATA">http://www.wikidata.org/entity/Q55904203</idno>
+               </person>
+               <person xml:id="emt_person_id__547">
                   <persName/>
                </person>
             </listPerson>
