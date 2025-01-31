@@ -1274,21 +1274,6 @@
     "wikidata_url": "",
     "unidentifiziert": false
   },
-  "89": {
-    "id": 89,
-    "order": "89.00000000000000000000",
-    "name": "Wien, Favorita",
-    "geonames": "https://www.geonames.org/12500694/theresianum.html",
-    "emt_id": "emt_place_id__89",
-    "place_type": null,
-    "lat": "48.19307",
-    "long": "16.371200",
-    "comments intern": "",
-    "gnd": "",
-    "alternative_name": null,
-    "wikidata_url": "",
-    "unidentifiziert": false
-  },
   "90": {
     "id": 90,
     "order": "90.00000000000000000000",

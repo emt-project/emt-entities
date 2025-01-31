@@ -643,13 +643,6 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                   <placeName>Heiliges Römisches Reich</placeName>
                   <idno type="GND">https://d-nb.info/gnd/2035457-5</idno>
                </place>
-               <place xml:id="emt_place_id__89">
-                  <placeName>Wien, Favorita</placeName>
-                  <location type="coords">
-                     <geo>48.19307 16.371200</geo>
-                  </location>
-                  <idno type="GEONAMES">https://sws.geonames.org/12500694/</idno>
-               </place>
                <place xml:id="emt_place_id__90">
                   <placeName>Rom</placeName>
                   <location type="coords">
