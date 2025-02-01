@@ -4708,16 +4708,16 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                   <persName>Fugger, Klara Dorothea geb. von Welsberg</persName>
                </person>
                <person xml:id="emt_person_id__536">
-                  <persName>Windischgrätz, Fräulein von</persName>
+                  <persName>Windischgrätz, Fräulein von (1691)</persName>
                </person>
                <person xml:id="emt_person_id__537">
-                  <persName>Fräulein, das 1691 mit Hedwig Elisabeth nach Polen wollte</persName>
+                  <persName>Fräulein, das 1691 mit Hedwig Elisabeth von Pfalz-Neuburg nach Polen wollte</persName>
                </person>
                <person xml:id="emt_person_id__538">
-                  <persName>Güttich</persName>
+                  <persName>Güttich, Geheimrat (1691)</persName>
                </person>
                <person xml:id="emt_person_id__539">
-                  <persName>Humpüsch</persName>
+                  <persName>Humpüsch, der (1691)</persName>
                </person>
                <person xml:id="emt_person_id__540">
                   <persName>Montauti, Anton Francesco</persName>
@@ -4750,7 +4750,7 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                   <idno type="WIKIDATA">http://www.wikidata.org/entity/Q1463876</idno>
                </person>
                <person xml:id="emt_person_id__545">
-                  <persName>Rummel 1691</persName>
+                  <persName>Rummel, NN (1691, Bruder von Franz Ferdinand von Rummel)</persName>
                </person>
                <person xml:id="emt_person_id__546">
                   <persName>Bodler SJ, Johann</persName>
@@ -4766,6 +4766,9 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                </person>
                <person xml:id="emt_person_id__547">
                   <persName/>
+               </person>
+               <person xml:id="emt_person_id__548">
+                  <persName>Jägermeister, möglicher Weise ein Hompesch 1691</persName>
                </person>
             </listPerson>
          </div>

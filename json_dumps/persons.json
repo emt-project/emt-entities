@@ -7056,7 +7056,7 @@
     "gnd": "",
     "other_url": "",
     "emt_id": "emt_person_id__297",
-    "internal_comment": "möglicherweise der Vater von Anna Maria v.H., die dort Hoffräulein ist und 1687 einen Hompesch heiratet",
+    "internal_comment": "möglicherweise der Vater von Anna Maria v.H., die dort Hoffräulein ist und 1687 einen Hompesch heiratet. .... das wäre Wilhelm Degenhard († November 1720) Oberjägermeister in Jülich, ⚭ 1687 Maria Katharina von Herberstein",
     "color": "",
     "lebensdaten": "",
     "ndb": "",
@@ -12652,7 +12652,7 @@
   "536": {
     "id": 536,
     "order": "532.00000000000000000000",
-    "name": "Windischgrätz, Fräulein von",
+    "name": "Windischgrätz, Fräulein von (1691)",
     "gnd": "",
     "other_url": "",
     "emt_id": "emt_person_id__536",
@@ -12677,7 +12677,7 @@
   "537": {
     "id": 537,
     "order": "533.00000000000000000000",
-    "name": "Fräulein, das 1691 mit Hedwig Elisabeth nach Polen wollte",
+    "name": "Fräulein, das 1691 mit Hedwig Elisabeth von Pfalz-Neuburg nach Polen wollte",
     "gnd": "",
     "other_url": "",
     "emt_id": "emt_person_id__537",
@@ -12702,7 +12702,7 @@
   "538": {
     "id": 538,
     "order": "534.00000000000000000000",
-    "name": "Güttich",
+    "name": "Güttich, Geheimrat (1691)",
     "gnd": "",
     "other_url": "",
     "emt_id": "emt_person_id__538",
@@ -12727,7 +12727,7 @@
   "539": {
     "id": 539,
     "order": "535.00000000000000000000",
-    "name": "Humpüsch",
+    "name": "Humpüsch, der (1691)",
     "gnd": "",
     "other_url": "",
     "emt_id": "emt_person_id__539",
@@ -12877,7 +12877,7 @@
   "545": {
     "id": 545,
     "order": "541.00000000000000000000",
-    "name": "Rummel 1691",
+    "name": "Rummel, NN (1691, Bruder von Franz Ferdinand von Rummel)",
     "gnd": "",
     "other_url": "",
     "emt_id": "emt_person_id__545",
@@ -12948,5 +12948,30 @@
     "Funktionsbezeichnungen": "",
     "Titel": "",
     "unidentifiziert": false
+  },
+  "548": {
+    "id": 548,
+    "order": "544.00000000000000000000",
+    "name": "Jägermeister, möglicher Weise ein Hompesch 1691",
+    "gnd": "",
+    "other_url": "",
+    "emt_id": "emt_person_id__548",
+    "internal_comment": "Da EMT am 20.2.1691 einen Humpüsch erwähnte, diese Familie viele jülische Oberjägermeister stellte und mehrfach in der Korrespondenz vorkommt (vgl. JW 7.8.1701) könnte es sich hier entweder um Karl Kaspar von Hompesch-Bollheim (1660-1741, https://www.deutsche-biographie.de/pnd1122372906.html#index =Bruder des Philipp Werner) oder Wilhelm Degenhart von Hompesch-Rurich (gest. 1720, seit 1687 mit Maria Katharina von Herberstein verh.) handeln, die beide Oberjägermeister waren. https://de.wikipedia.org/wiki/Hompesch_(Adelsgeschlecht)#Zweig_Hompesch-Bollheim",
+    "color": "",
+    "lebensdaten": "",
+    "ndb": "",
+    "year_of_birth": null,
+    "year_of_death": null,
+    "wikidata_url": "",
+    "wikidata_enriched": false,
+    "img_name": "",
+    "img_fetched": false,
+    "img_source": "",
+    "birth_date_written": "",
+    "death_date_written": "",
+    "Geschlecht": "",
+    "Funktionsbezeichnungen": "",
+    "Titel": "",
+    "unidentifiziert": true
   }
 }
