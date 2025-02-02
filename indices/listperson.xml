@@ -4765,10 +4765,23 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                   <idno type="WIKIDATA">http://www.wikidata.org/entity/Q55904203</idno>
                </person>
                <person xml:id="emt_person_id__547">
-                  <persName/>
+                  <persName>Jägermeister, möglicher Weise ein Hompesch 1691</persName>
+                  <idno type="URL">https://de.wikipedia.org/wiki/Hompesch_(Adelsgeschlecht)#Zweig_Hompesch-Bollheim</idno>
                </person>
                <person xml:id="emt_person_id__548">
-                  <persName>Jägermeister, möglicher Weise ein Hompesch 1691</persName>
+                  <persName/>
+               </person>
+               <person xml:id="emt_person_id__549">
+                  <persName/>
+               </person>
+               <person xml:id="emt_person_id__550">
+                  <persName>Pfalz-Neuburg, Leopoldine Eleonore Elisabeth von</persName>
+                  <birth>
+                     <date notBefore="1691-01-01" notAfter="1691-12-31">1691</date>
+                  </birth>
+                  <death>
+                     <date notBefore="1693-01-01" notAfter="1693-12-31">1693</date>
+                  </death>
                </person>
             </listPerson>
          </div>

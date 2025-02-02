@@ -1486,6 +1486,14 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                   </location>
                   <idno type="GEONAMES">https://sws.geonames.org/3173435/</idno>
                </place>
+               <place xml:id="emt_place_id__231">
+                  <placeName>Wolkersdorf im Weinviertel</placeName>
+                  <location type="coords">
+                     <geo>48.38333 16.516670</geo>
+                  </location>
+                  <idno type="GEONAMES">https://sws.geonames.org/2760887/</idno>
+                  <idno type="GND">https://d-nb.info/gnd/4066889-7</idno>
+               </place>
             </listPlace>
          </div>
       </body>

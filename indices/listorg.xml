@@ -124,6 +124,12 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                <org xml:id="emt_institution_id__20">
                   <orgName>Heiliger Stuhl</orgName>
                </org>
+               <org xml:id="emt_institution_id__21">
+                  <orgName>Klarissen Wien</orgName>
+               </org>
+               <org xml:id="emt_institution_id__22">
+                  <orgName/>
+               </org>
             </listOrg>
          </div>
       </body>

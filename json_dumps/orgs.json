@@ -138,5 +138,19 @@
     "name": "Heiliger Stuhl",
     "gnd": "",
     "emt_id": "emt_institution_id__20"
+  },
+  "21": {
+    "id": 21,
+    "order": "21.00000000000000000000",
+    "name": "Klarissen Wien",
+    "gnd": "",
+    "emt_id": "emt_institution_id__21"
+  },
+  "22": {
+    "id": 22,
+    "order": "22.00000000000000000000",
+    "name": "",
+    "gnd": "",
+    "emt_id": "emt_institution_id__22"
   }
 }

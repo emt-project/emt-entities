@@ -3313,5 +3313,20 @@
     "alternative_name": "",
     "wikidata_url": "",
     "unidentifiziert": false
+  },
+  "231": {
+    "id": 231,
+    "order": "226.00000000000000000000",
+    "name": "Wolkersdorf im Weinviertel",
+    "geonames": "https://www.geonames.org/2760887/wolkersdorf-im-weinviertel.html",
+    "emt_id": "emt_place_id__231",
+    "place_type": null,
+    "lat": "48.38333",
+    "long": "16.516670",
+    "comments intern": "",
+    "gnd": "https://d-nb.info/gnd/4066889-7",
+    "alternative_name": "",
+    "wikidata_url": "",
+    "unidentifiziert": false
   }
 }
