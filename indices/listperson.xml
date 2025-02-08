@@ -3164,7 +3164,7 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                   </figure>
                </person>
                <person xml:id="emt_person_id__324">
-                  <persName>Preysing, Johann Maximilian Felix von ?</persName>
+                  <persName>Preysing, Johann Maximilian Felix von</persName>
                   <birth>
                      <date notBefore="1655-01-01" notAfter="1655-12-31">1655</date>
                   </birth>
@@ -4722,16 +4722,6 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                <person xml:id="emt_person_id__540">
                   <persName>Montauti, Anton Francesco</persName>
                </person>
-               <person xml:id="emt_person_id__541">
-                  <persName>Mannsfeld-Fondi, Heinrich Franz</persName>
-                  <idno type="GND">https://d-nb.info/gnd/pnd121795063.html#indexcontent</idno>
-                  <idno type="WIKIDATA">http://www.wikidata.org/entity/Q1597257</idno>
-                  <idno type="URL">https://de.wikisource.org/wiki/BLK%C3%96:Mansfeld,_Heinrich_Franz_F%C3%BCrst_von</idno>
-                  <figure>
-                     <graphic url="emt_person_id__541.jpg"/>
-                     <caption>Mansfeld-St-Wappen.png</caption>
-                  </figure>
-               </person>
                <person xml:id="emt_person_id__542">
                   <persName>Cerrini, Fabrizio</persName>
                </person>
@@ -4782,6 +4772,9 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                   <death>
                      <date notBefore="1693-01-01" notAfter="1693-12-31">1693</date>
                   </death>
+               </person>
+               <person xml:id="emt_person_id__551">
+                  <persName/>
                </person>
             </listPerson>
          </div>
