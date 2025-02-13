@@ -4774,7 +4774,23 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                   </death>
                </person>
                <person xml:id="emt_person_id__551">
-                  <persName/>
+                  <persName>Maria Magdalena vom Heiligen Sacrament</persName>
+               </person>
+               <person xml:id="emt_person_id__552">
+                  <persName>Maria Agnes vom Heiligen Geist</persName>
+               </person>
+               <person xml:id="emt_person_id__553">
+                  <persName>Catharina Teresia von Jesus</persName>
+               </person>
+               <person xml:id="emt_person_id__554">
+                  <persName>Johann Adolph von Brederode</persName>
+                  <birth>
+                     <date notBefore="1664-01-01" notAfter="1664-12-31">1664</date>
+                  </birth>
+                  <death>
+                     <date notBefore="1702-01-01" notAfter="1702-12-31">1702</date>
+                  </death>
+                  <idno type="URL">https://nl.wikipedia.org/wiki/Lijst_van_proosten_van_het_Sint-Servaaskapittel_te_Maastricht</idno>
                </person>
             </listPerson>
          </div>
