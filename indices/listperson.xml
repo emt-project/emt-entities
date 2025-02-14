@@ -4725,9 +4725,6 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                <person xml:id="emt_person_id__542">
                   <persName>Cerrini, Fabrizio</persName>
                </person>
-               <person xml:id="emt_person_id__543">
-                  <persName>armer Mensch (Konvertit, Gefangener) 1691</persName>
-               </person>
                <person xml:id="emt_person_id__544">
                   <persName>Lüdinghausen genannt Wolf SJ, Friedrich von</persName>
                   <birth>
@@ -4758,12 +4755,6 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                   <persName>Jägermeister, möglicher Weise ein Hompesch 1691</persName>
                   <idno type="URL">https://de.wikipedia.org/wiki/Hompesch_(Adelsgeschlecht)#Zweig_Hompesch-Bollheim</idno>
                </person>
-               <person xml:id="emt_person_id__548">
-                  <persName/>
-               </person>
-               <person xml:id="emt_person_id__549">
-                  <persName/>
-               </person>
                <person xml:id="emt_person_id__550">
                   <persName>Pfalz-Neuburg, Leopoldine Eleonore Elisabeth von</persName>
                   <birth>
@@ -4783,7 +4774,7 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                   <persName>Catharina Teresia von Jesus</persName>
                </person>
                <person xml:id="emt_person_id__554">
-                  <persName>Johann Adolph von Brederode</persName>
+                  <persName>Brederode, Johann Adolph von</persName>
                   <birth>
                      <date notBefore="1664-01-01" notAfter="1664-12-31">1664</date>
                   </birth>
@@ -4791,6 +4782,9 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                      <date notBefore="1702-01-01" notAfter="1702-12-31">1702</date>
                   </death>
                   <idno type="URL">https://nl.wikipedia.org/wiki/Lijst_van_proosten_van_het_Sint-Servaaskapittel_te_Maastricht</idno>
+               </person>
+               <person xml:id="emt_person_id__555">
+                  <persName/>
                </person>
             </listPerson>
          </div>
