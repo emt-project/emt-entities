@@ -13023,30 +13023,5 @@
     "Funktionsbezeichnungen": "Probst zu Sankt Servatius in Maastricht",
     "Titel": "",
     "unidentifiziert": false
-  },
-  "555": {
-    "id": 555,
-    "order": "551.00000000000000000000",
-    "name": "",
-    "gnd": "",
-    "other_url": "",
-    "emt_id": "emt_person_id__555",
-    "internal_comment": "",
-    "color": "",
-    "lebensdaten": "",
-    "ndb": "",
-    "year_of_birth": null,
-    "year_of_death": null,
-    "wikidata_url": "",
-    "wikidata_enriched": false,
-    "img_name": "",
-    "img_fetched": false,
-    "img_source": "",
-    "birth_date_written": "",
-    "death_date_written": "",
-    "Geschlecht": "",
-    "Funktionsbezeichnungen": "",
-    "Titel": "",
-    "unidentifiziert": false
   }
 }
