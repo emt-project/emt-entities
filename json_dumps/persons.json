@@ -13023,5 +13023,30 @@
     "Funktionsbezeichnungen": "Probst zu Sankt Servatius in Maastricht",
     "Titel": "",
     "unidentifiziert": false
+  },
+  "556": {
+    "id": 556,
+    "order": "551.00000000000000000000",
+    "name": "Erard, Matthaeus",
+    "gnd": "",
+    "other_url": "",
+    "emt_id": "emt_person_id__556",
+    "internal_comment": "",
+    "color": "",
+    "lebensdaten": "",
+    "ndb": "",
+    "year_of_birth": null,
+    "year_of_death": null,
+    "wikidata_url": "",
+    "wikidata_enriched": false,
+    "img_name": "",
+    "img_fetched": false,
+    "img_source": "",
+    "birth_date_written": "",
+    "death_date_written": "",
+    "Geschlecht": "",
+    "Funktionsbezeichnungen": "Sprachmeister",
+    "Titel": "",
+    "unidentifiziert": true
   }
 }
