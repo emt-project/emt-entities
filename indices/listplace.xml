@@ -1494,6 +1494,18 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                   <idno type="GEONAMES">https://sws.geonames.org/2760887/</idno>
                   <idno type="GND">https://d-nb.info/gnd/4066889-7</idno>
                </place>
+               <place xml:id="emt_place_id__232">
+                  <placeName>Kaschau</placeName>
+               </place>
+               <place xml:id="emt_place_id__233">
+                  <placeName>Adrianopel / Edirne</placeName>
+               </place>
+               <place xml:id="emt_place_id__234">
+                  <placeName>Szolnok</placeName>
+               </place>
+               <place xml:id="emt_place_id__235">
+                  <placeName>Eger / Erlau</placeName>
+               </place>
             </listPlace>
          </div>
       </body>
