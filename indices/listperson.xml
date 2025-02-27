@@ -4816,6 +4816,15 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                <person xml:id="emt_person_id__562">
                   <persName>Fastenprediger bei Kaiserinwitwe Eleonora 1682</persName>
                </person>
+               <person xml:id="emt_person_id__563">
+                  <persName>Ketzgen, Erich von</persName>
+                  <death>
+                     <date notBefore="1691-01-01" notAfter="1691-12-31">1691</date>
+                  </death>
+               </person>
+               <person xml:id="emt_person_id__564">
+                  <persName>Ketzgen, Margaretha Katharina, geb. von Gymnich zu Vlatten</persName>
+               </person>
             </listPerson>
          </div>
       </body>
