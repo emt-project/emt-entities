@@ -152,5 +152,19 @@
     "name": "",
     "gnd": "",
     "emt_id": "emt_institution_id__22"
+  },
+  "23": {
+    "id": 23,
+    "order": "23.00000000000000000000",
+    "name": "Königliches Lehensgericht in Prag",
+    "gnd": "",
+    "emt_id": "emt_institution_id__23"
+  },
+  "24": {
+    "id": 24,
+    "order": "24.00000000000000000000",
+    "name": "Franziskanerorden",
+    "gnd": "",
+    "emt_id": "emt_institution_id__24"
   }
 }

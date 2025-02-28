@@ -3388,5 +3388,20 @@
     "alternative_name": "",
     "wikidata_url": "",
     "unidentifiziert": false
+  },
+  "236": {
+    "id": 236,
+    "order": "231.00000000000000000000",
+    "name": "Heimbach im Herzogtum Jülich",
+    "geonames": "https://www.geonames.org/2907459/heimbach.html",
+    "emt_id": "emt_place_id__236",
+    "place_type": null,
+    "lat": "50.63693",
+    "long": "6.468960",
+    "comments intern": "",
+    "gnd": "",
+    "alternative_name": "",
+    "wikidata_url": "",
+    "unidentifiziert": false
   }
 }

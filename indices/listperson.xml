@@ -337,7 +337,7 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                   <persName>Miller, Johanna Franziska von, geb. Tänzl von Trazberg</persName>
                </person>
                <person xml:id="emt_person_id__23">
-                  <persName>Hamilton, John James</persName>
+                  <persName>Hamilton, Johann Jakob von (John James)</persName>
                   <birth>
                      <date notBefore="1642-01-01" notAfter="1642-12-31">1642</date>
                   </birth>
@@ -839,7 +839,7 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                   <idno type="URL">http://reichshofratsakten.de/wp-content/uploads/2016/11/Reichshofr%C3%A4tePdf_%C3%9Cberschriften.pdf</idno>
                </person>
                <person xml:id="emt_person_id__67">
-                  <persName>Hamilton, Jacob de</persName>
+                  <persName>Hamilton, Jakob von (Jacob de)</persName>
                   <birth>
                      <date notBefore="1640-01-01" notAfter="1640-12-31">1640</date>
                   </birth>
@@ -4824,6 +4824,73 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                </person>
                <person xml:id="emt_person_id__564">
                   <persName>Ketzgen, Margaretha Katharina, geb. von Gymnich zu Vlatten</persName>
+               </person>
+               <person xml:id="emt_person_id__565">
+                  <persName>Fräulein, für das Kaiserin Eleonore Magdalena eine Empfehlung abgegeben hat (1692)</persName>
+               </person>
+               <person xml:id="emt_person_id__566">
+                  <persName>Merveldt, Friedrich Wilhelm von</persName>
+                  <death>
+                     <date notBefore="1691-01-01" notAfter="1691-12-31">1691</date>
+                  </death>
+                  <idno type="GND">https://d-nb.info/gnd/129643912</idno>
+                  <idno type="NDB">https://www.deutsche-biographie.de/sfz61912.html#ndbcontent</idno>
+                  <idno type="WIKIDATA">http://www.wikidata.org/entity/Q1922168</idno>
+                  <idno type="URL">https://de.wikipedia.org/wiki/Merveldt_(Adelsgeschlecht)#Linie_zu_Merfeld</idno>
+               </person>
+               <person xml:id="emt_person_id__567">
+                  <persName>Merveldt, Margreth Sybille ?</persName>
+                  <death>
+                     <date notBefore="1705-01-01" notAfter="1705-12-31">1705</date>
+                  </death>
+                  <idno type="GND">https://d-nb.info/gnd/129643912</idno>
+                  <idno type="WIKIDATA">http://www.wikidata.org/entity/Q1922168</idno>
+                  <idno type="URL">https://de.wikipedia.org/wiki/Merveldt_(Adelsgeschlecht)#Linie_zu_Merfeld</idno>
+               </person>
+               <person xml:id="emt_person_id__568">
+                  <persName>Plettenberg, Friedrich Christian von</persName>
+                  <birth>
+                     <date notBefore="1644-01-01" notAfter="1644-12-31">1644</date>
+                  </birth>
+                  <death>
+                     <date notBefore="1706-01-01" notAfter="1706-12-31">1706</date>
+                  </death>
+                  <idno type="GND">https://d-nb.info/gnd/opac.htm?method=simpleSearch&amp;cqlMode=true&amp;query=nid%3D104226854</idno>
+                  <idno type="NDB">https://www.deutsche-biographie.de/sfz17409.html#adbcontent</idno>
+               </person>
+               <person xml:id="emt_person_id__569">
+                  <persName>Rios, Maria Anna</persName>
+               </person>
+               <person xml:id="emt_person_id__570">
+                  <persName>Rios, Anna Katharina ?</persName>
+               </person>
+               <person xml:id="emt_person_id__571">
+                  <persName>Rios, Johann Anton ?</persName>
+               </person>
+               <person xml:id="emt_person_id__572">
+                  <persName>Heister, Johann Rudolf von</persName>
+                  <idno type="WIKIDATA">http://www.wikidata.org/entity/Q27968966</idno>
+               </person>
+               <person xml:id="emt_person_id__573">
+                  <persName>Heister, Johann von</persName>
+                  <idno type="WIKIDATA">http://www.wikidata.org/entity/Q27968966</idno>
+               </person>
+               <person xml:id="emt_person_id__574">
+                  <persName>Schweizer</persName>
+               </person>
+               <person xml:id="emt_person_id__575">
+                  <persName/>
+               </person>
+               <person xml:id="emt_person_id__576">
+                  <persName/>
+               </person>
+               <person xml:id="emt_person_id__577">
+                  <persName>Kreith, Johann Friedrich von</persName>
+                  <idno type="NDB">https://d-nb.info/gnd/1280545585</idno>
+                  <idno type="URL">https://www.google.at/books/edition/Neues_Allgemeines_Deutsches_Adels_Lexico/0s4EAAAAIAAJ?hl=de&amp;gbpv=1&amp;dq=Johann+Friedrich+von+Kreith&amp;pg=PA279&amp;printsec=frontcover</idno>
+               </person>
+               <person xml:id="emt_person_id__578">
+                  <persName>Kaltwasser</persName>
                </person>
             </listPerson>
          </div>

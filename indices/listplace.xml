@@ -1506,6 +1506,13 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                <place xml:id="emt_place_id__235">
                   <placeName>Eger / Erlau</placeName>
                </place>
+               <place xml:id="emt_place_id__236">
+                  <placeName>Heimbach im Herzogtum Jülich</placeName>
+                  <location type="coords">
+                     <geo>50.63693 6.468960</geo>
+                  </location>
+                  <idno type="GEONAMES">https://sws.geonames.org/2907459/</idno>
+               </place>
             </listPlace>
          </div>
       </body>
