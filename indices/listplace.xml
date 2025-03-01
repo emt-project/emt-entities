@@ -1513,6 +1513,22 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                   </location>
                   <idno type="GEONAMES">https://sws.geonames.org/2907459/</idno>
                </place>
+               <place xml:id="emt_place_id__237">
+                  <placeName>Geldern / Gelderland</placeName>
+               </place>
+               <place xml:id="emt_place_id__238">
+                  <placeName/>
+               </place>
+               <place xml:id="emt_place_id__239">
+                  <placeName>Olmütz (Olomouc)</placeName>
+                  <location type="coords">
+                     <geo>49.59552 17.251750</geo>
+                  </location>
+                  <idno type="GEONAMES">https://sws.geonames.org/3069011/</idno>
+               </place>
+               <place xml:id="emt_place_id__240">
+                  <placeName/>
+               </place>
             </listPlace>
          </div>
       </body>

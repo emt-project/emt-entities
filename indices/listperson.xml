@@ -3823,7 +3823,7 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                   <idno type="URL">https://de.m.wikisource.org/wiki/Zedler:Haymann_oder_Heymann_von_Rosenthal</idno>
                </person>
                <person xml:id="emt_person_id__407">
-                  <persName>Bischof und Weihbischof eine Bistums 1683</persName>
+                  <persName>Bischof und Weihbischof eines Bistums 1683</persName>
                </person>
                <person xml:id="emt_person_id__408">
                   <persName>Slavata, Johann Joachim</persName>
@@ -4879,18 +4879,89 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                   <persName>Schweizer</persName>
                </person>
                <person xml:id="emt_person_id__575">
-                  <persName/>
+                  <persName>Sachsen, Johann Georg IV.</persName>
+                  <birth>
+                     <date notBefore="1668-01-01" notAfter="1668-12-31">1668</date>
+                  </birth>
+                  <death>
+                     <date notBefore="1694-01-01" notAfter="1694-12-31">1694</date>
+                  </death>
+                  <idno type="GND">https://d-nb.info/gnd/119240122</idno>
+                  <idno type="NDB">https://www.deutsche-biographie.de/sfz39450.html#</idno>
+                  <idno type="WIKIDATA">http://www.wikidata.org/entity/Q61093</idno>
+                  <figure>
+                     <graphic url="emt_person_id__575.jpg"/>
+                     <caption>Jan Jerzy IV 4.jpg</caption>
+                  </figure>
                </person>
                <person xml:id="emt_person_id__576">
-                  <persName/>
+                  <persName>Savoyen, Marie Adelaide von</persName>
+                  <birth>
+                     <date notBefore="1685-01-01" notAfter="1685-12-31">1685</date>
+                  </birth>
+                  <death>
+                     <date notBefore="1712-01-01" notAfter="1712-12-31">1712</date>
+                  </death>
+                  <idno type="NDB">https://www.deutsche-biographie.de/pnd11899610X.html</idno>
                </person>
                <person xml:id="emt_person_id__577">
                   <persName>Kreith, Johann Friedrich von</persName>
-                  <idno type="NDB">https://d-nb.info/gnd/1280545585</idno>
+                  <idno type="GND">https://d-nb.info/gnd/1280545585</idno>
                   <idno type="URL">https://www.google.at/books/edition/Neues_Allgemeines_Deutsches_Adels_Lexico/0s4EAAAAIAAJ?hl=de&amp;gbpv=1&amp;dq=Johann+Friedrich+von+Kreith&amp;pg=PA279&amp;printsec=frontcover</idno>
                </person>
                <person xml:id="emt_person_id__578">
                   <persName>Kaltwasser</persName>
+               </person>
+               <person xml:id="emt_person_id__579">
+                  <persName>Schweden, Hedwig Sophia von</persName>
+                  <birth>
+                     <date notBefore="1681-01-01" notAfter="1681-12-31">1681</date>
+                  </birth>
+                  <death>
+                     <date notBefore="1708-01-01" notAfter="1708-12-31">1708</date>
+                  </death>
+                  <idno type="NDB">https://www.deutsche-biographie.de/pnd138622744.html#indexcontent</idno>
+               </person>
+               <person xml:id="emt_person_id__580">
+                  <persName>Medici, Gian Gastone von</persName>
+                  <birth>
+                     <date notBefore="1671-01-01" notAfter="1671-12-31">1671</date>
+                  </birth>
+                  <death>
+                     <date notBefore="1737-01-01" notAfter="1737-12-31">1737</date>
+                  </death>
+                  <idno type="NDB">https://www.deutsche-biographie.de/sfz57040.html#index</idno>
+               </person>
+               <person xml:id="emt_person_id__581">
+                  <persName>Zwiefel, Frau von (1693)</persName>
+               </person>
+               <person xml:id="emt_person_id__582">
+                  <persName>Zwiefel, Herr von (1693)</persName>
+               </person>
+               <person xml:id="emt_person_id__583">
+                  <persName>Hessen-Darmstadt, Elisabeth Dorothea von</persName>
+                  <birth>
+                     <date notBefore="1676-01-01" notAfter="1676-12-31">1676</date>
+                  </birth>
+                  <death>
+                     <date notBefore="1721-01-01" notAfter="1721-12-31">1721</date>
+                  </death>
+                  <idno type="NDB">https://www.deutsche-biographie.de/pnd136846564.html#indexcontent</idno>
+               </person>
+               <person xml:id="emt_person_id__584">
+                  <persName>Dänemark, Sophia Hedwig von</persName>
+                  <birth>
+                     <date notBefore="1677-01-01" notAfter="1677-12-31">1677</date>
+                  </birth>
+                  <death>
+                     <date notBefore="1735-01-01" notAfter="1735-12-31">1735</date>
+                  </death>
+                  <idno type="GND">https://d-nb.info/gnd/1140027247</idno>
+                  <idno type="WIKIDATA">http://www.wikidata.org/entity/Q2618092</idno>
+                  <figure>
+                     <graphic url="emt_person_id__584.jpg"/>
+                     <caption>Prinsesse Sophie Hedvig.jpg</caption>
+                  </figure>
                </person>
             </listPerson>
          </div>
