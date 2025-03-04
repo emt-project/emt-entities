@@ -166,5 +166,12 @@
     "name": "Franziskanerorden",
     "gnd": "",
     "emt_id": "emt_institution_id__24"
+  },
+  "25": {
+    "id": 25,
+    "order": "25.00000000000000000000",
+    "name": "Kurfürstenkollegium",
+    "gnd": "",
+    "emt_id": "emt_institution_id__25"
   }
 }

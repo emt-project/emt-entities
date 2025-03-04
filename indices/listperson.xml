@@ -4755,15 +4755,6 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                   <persName>Jägermeister, möglicher Weise ein Hompesch 1691</persName>
                   <idno type="URL">https://de.wikipedia.org/wiki/Hompesch_(Adelsgeschlecht)#Zweig_Hompesch-Bollheim</idno>
                </person>
-               <person xml:id="emt_person_id__550">
-                  <persName>Pfalz-Neuburg, Leopoldine Eleonore Elisabeth von</persName>
-                  <birth>
-                     <date notBefore="1691-01-01" notAfter="1691-12-31">1691</date>
-                  </birth>
-                  <death>
-                     <date notBefore="1693-01-01" notAfter="1693-12-31">1693</date>
-                  </death>
-               </person>
                <person xml:id="emt_person_id__551">
                   <persName>Maria Magdalena vom Heiligen Sacrament</persName>
                </person>
@@ -4876,7 +4867,7 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                   <idno type="WIKIDATA">http://www.wikidata.org/entity/Q27968966</idno>
                </person>
                <person xml:id="emt_person_id__574">
-                  <persName>Schweizer</persName>
+                  <persName>Schweizer 1692</persName>
                </person>
                <person xml:id="emt_person_id__575">
                   <persName>Sachsen, Johann Georg IV.</persName>
@@ -4910,7 +4901,7 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                   <idno type="URL">https://www.google.at/books/edition/Neues_Allgemeines_Deutsches_Adels_Lexico/0s4EAAAAIAAJ?hl=de&amp;gbpv=1&amp;dq=Johann+Friedrich+von+Kreith&amp;pg=PA279&amp;printsec=frontcover</idno>
                </person>
                <person xml:id="emt_person_id__578">
-                  <persName>Kaltwasser</persName>
+                  <persName>Kaltwasser 1692</persName>
                </person>
                <person xml:id="emt_person_id__579">
                   <persName>Schweden, Hedwig Sophia von</persName>
@@ -4962,6 +4953,77 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                      <graphic url="emt_person_id__584.jpg"/>
                      <caption>Prinsesse Sophie Hedvig.jpg</caption>
                   </figure>
+               </person>
+               <person xml:id="emt_person_id__585">
+                  <persName>Hessen-Kassel, Karl von</persName>
+                  <birth>
+                     <date notBefore="1654-01-01" notAfter="1654-12-31">1654</date>
+                  </birth>
+                  <death>
+                     <date notBefore="1730-01-01" notAfter="1730-12-31">1730</date>
+                  </death>
+                  <idno type="GND">https://d-nb.info/gnd/118560050</idno>
+                  <idno type="NDB">https://www.deutsche-biographie.de/pnd118560050.html#indexcontent</idno>
+                  <idno type="WIKIDATA">http://www.wikidata.org/entity/Q62516</idno>
+                  <figure>
+                     <graphic url="emt_person_id__585.jpg"/>
+                     <caption>Karl, 1654-1730, lantgreve av Hessen-Kassel (Georg Engelhard Schröder) - Nationalmuseum - 14774.tif</caption>
+                  </figure>
+               </person>
+               <person xml:id="emt_person_id__586">
+                  <persName>Wiser, Gottfried von</persName>
+                  <death>
+                     <date notBefore="1693-01-01" notAfter="1693-12-31">1693</date>
+                  </death>
+                  <idno type="GND">https://d-nb.info/gnd/141652500</idno>
+                  <idno type="NDB">https://www.deutsche-biographie.de/pnd141652500.html#index</idno>
+                  <idno type="WIKIDATA">http://www.wikidata.org/entity/Q95334217</idno>
+                  <idno type="URL">https://books.google.de/books?id=bqNAAAAAcAAJ&amp;pg=PA680&amp;dq=Franz+Melchior+von+Wiser&amp;hl=de&amp;ei=NzpyTv-uBYGDOuyNma0J&amp;sa=X&amp;oi=book_result&amp;ct=result&amp;resnum=5&amp;ved=0CD4Q6AEwBA#v=onepage&amp;q=Wiser&amp;f=false</idno>
+               </person>
+               <person xml:id="emt_person_id__587">
+                  <persName>Wiser, Franz Melchior von</persName>
+                  <birth>
+                     <date notBefore="1651-01-01" notAfter="1651-12-31">1651</date>
+                  </birth>
+                  <death>
+                     <date notBefore="1702-01-01" notAfter="1702-12-31">1702</date>
+                  </death>
+                  <idno type="GND">https://d-nb.info/gnd/133419470X</idno>
+                  <idno type="URL">https://books.google.de/books?id=bqNAAAAAcAAJ&amp;pg=PA680&amp;dq=Franz+Melchior+von+Wiser&amp;hl=de&amp;ei=NzpyTv-uBYGDOuyNma0J&amp;sa=X&amp;oi=book_result&amp;ct=result&amp;resnum=5&amp;ved=0CD4Q6AEwBA#v=onepage&amp;q=Wiser&amp;f=false</idno>
+               </person>
+               <person xml:id="emt_person_id__588">
+                  <persName>Orleans, Elisabeth Charlotte von</persName>
+                  <birth>
+                     <date notBefore="1676-01-01" notAfter="1676-12-31">1676</date>
+                  </birth>
+                  <death>
+                     <date notBefore="1744-01-01" notAfter="1744-12-31">1744</date>
+                  </death>
+                  <idno type="GND">https://d-nb.info/gnd/1023911299</idno>
+                  <idno type="WIKIDATA">http://www.wikidata.org/entity/Q233610</idno>
+                  <figure>
+                     <graphic url="emt_person_id__588.jpg"/>
+                     <caption>Gobert, workshop of - Élisabeth Charlotte d'Orléans - Versailles, MV3690.jpg</caption>
+                  </figure>
+               </person>
+               <person xml:id="emt_person_id__589">
+                  <persName>Hessen-Darmstadt, Ernst Ludwig von</persName>
+                  <birth>
+                     <date notBefore="1667-01-01" notAfter="1667-12-31">1667</date>
+                  </birth>
+                  <death>
+                     <date notBefore="1739-01-01" notAfter="1739-12-31">1739</date>
+                  </death>
+                  <idno type="GND">https://d-nb.info/gnd/100455840</idno>
+                  <idno type="NDB">https://www.deutsche-biographie.de/pnd100455840.html#indexcontent</idno>
+                  <idno type="WIKIDATA">http://www.wikidata.org/entity/Q504498</idno>
+                  <figure>
+                     <graphic url="emt_person_id__589.jpg"/>
+                     <caption>Johann Christian Fiedler - Bildnis des Landgrafen Ernst Ludwig von Hessen-Darmstadt.jpg</caption>
+                  </figure>
+               </person>
+               <person xml:id="emt_person_id__590">
+                  <persName/>
                </person>
             </listPerson>
          </div>
