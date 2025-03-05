@@ -4937,7 +4937,13 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                   <death>
                      <date notBefore="1721-01-01" notAfter="1721-12-31">1721</date>
                   </death>
+                  <idno type="GND">https://d-nb.info/gnd/136846564</idno>
                   <idno type="NDB">https://www.deutsche-biographie.de/pnd136846564.html#indexcontent</idno>
+                  <idno type="WIKIDATA">http://www.wikidata.org/entity/Q327563</idno>
+                  <figure>
+                     <graphic url="emt_person_id__583.jpg"/>
+                     <caption>Elisabeth Dorothea Landgräfin von Hessen-Homburg.png</caption>
+                  </figure>
                </person>
                <person xml:id="emt_person_id__584">
                   <persName>Dänemark, Sophia Hedwig von</persName>
@@ -5023,6 +5029,18 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                   </figure>
                </person>
                <person xml:id="emt_person_id__590">
+                  <persName>Bergerin (im Hofstaat von Kurfürstin Elisabeth Amalies von Pfalz-Neuburg, 1693)</persName>
+               </person>
+               <person xml:id="emt_person_id__591">
+                  <persName>Pater Mans? 1693</persName>
+               </person>
+               <person xml:id="emt_person_id__592">
+                  <persName>Heddersdorf, Georg Eberhard von</persName>
+                  <idno type="GND">https://d-nb.info/gnd/1012793699</idno>
+                  <idno type="NDB">https://www.deutsche-biographie.de/pnd1012793699.html#index</idno>
+                  <idno type="URL">https://haidelberg.de/docs/georg-eberhard-von-heydersdorff-heddersdorff</idno>
+               </person>
+               <person xml:id="emt_person_id__593">
                   <persName/>
                </person>
             </listPerson>

@@ -3463,5 +3463,50 @@
     "alternative_name": "",
     "wikidata_url": "",
     "unidentifiziert": false
+  },
+  "241": {
+    "id": 241,
+    "order": "236.00000000000000000000",
+    "name": "Pfalz-Neuburg, Herzogtum",
+    "geonames": "",
+    "emt_id": "emt_place_id__241",
+    "place_type": null,
+    "lat": null,
+    "long": null,
+    "comments intern": "",
+    "gnd": "",
+    "alternative_name": "",
+    "wikidata_url": "",
+    "unidentifiziert": false
+  },
+  "242": {
+    "id": 242,
+    "order": "237.00000000000000000000",
+    "name": "Braunschweig-Lüneburg, Kurfürstentum (Hannover)",
+    "geonames": "",
+    "emt_id": "emt_place_id__242",
+    "place_type": null,
+    "lat": null,
+    "long": null,
+    "comments intern": "",
+    "gnd": "",
+    "alternative_name": "",
+    "wikidata_url": "",
+    "unidentifiziert": false
+  },
+  "243": {
+    "id": 243,
+    "order": "238.00000000000000000000",
+    "name": "",
+    "geonames": "",
+    "emt_id": "emt_place_id__243",
+    "place_type": null,
+    "lat": null,
+    "long": null,
+    "comments intern": "",
+    "gnd": "",
+    "alternative_name": "",
+    "wikidata_url": "",
+    "unidentifiziert": false
   }
 }

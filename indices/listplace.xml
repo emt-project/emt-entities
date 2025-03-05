@@ -1529,6 +1529,15 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                <place xml:id="emt_place_id__240">
                   <placeName/>
                </place>
+               <place xml:id="emt_place_id__241">
+                  <placeName>Pfalz-Neuburg, Herzogtum</placeName>
+               </place>
+               <place xml:id="emt_place_id__242">
+                  <placeName>Braunschweig-Lüneburg, Kurfürstentum (Hannover)</placeName>
+               </place>
+               <place xml:id="emt_place_id__243">
+                  <placeName/>
+               </place>
             </listPlace>
          </div>
       </body>
