@@ -1512,6 +1512,7 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                      <geo>50.63693 6.468960</geo>
                   </location>
                   <idno type="GEONAMES">https://sws.geonames.org/2907459/</idno>
+                  <idno type="GND">https://d-nb.info/gnd/4096118-7</idno>
                </place>
                <place xml:id="emt_place_id__237">
                   <placeName>Geldern / Gelderland</placeName>
@@ -1537,6 +1538,17 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                </place>
                <place xml:id="emt_place_id__243">
                   <placeName/>
+               </place>
+               <place xml:id="emt_place_id__244">
+                  <placeName>Jülich, Stadt</placeName>
+                  <location type="coords">
+                     <geo>50.92149 6.362670</geo>
+                  </location>
+                  <idno type="GEONAMES">https://sws.geonames.org/2894553/</idno>
+                  <idno type="GND">https://d-nb.info/gnd/4028835-3</idno>
+               </place>
+               <place xml:id="emt_place_id__245">
+                  <placeName>Stuhlweißenburg / Székesfehérvár</placeName>
                </place>
             </listPlace>
          </div>

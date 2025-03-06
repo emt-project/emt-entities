@@ -4705,7 +4705,7 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                   </figure>
                </person>
                <person xml:id="emt_person_id__535">
-                  <persName>Fugger, Klara Dorothea geb. von Welsberg</persName>
+                  <persName>Fugger, Klara Dorothea, geb. von Welsberg</persName>
                </person>
                <person xml:id="emt_person_id__536">
                   <persName>Windischgrätz, Fräulein von (1691)</persName>
@@ -5041,7 +5041,127 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                   <idno type="URL">https://haidelberg.de/docs/georg-eberhard-von-heydersdorff-heddersdorff</idno>
                </person>
                <person xml:id="emt_person_id__593">
-                  <persName/>
+                  <persName>Frankreich, Ludwig von</persName>
+                  <birth>
+                     <date notBefore="1661-01-01" notAfter="1661-12-31">1661</date>
+                  </birth>
+                  <death>
+                     <date notBefore="1711-01-01" notAfter="1711-12-31">1711</date>
+                  </death>
+                  <idno type="GND">https://d-nb.info/gnd/119209853</idno>
+                  <idno type="NDB">https://www.deutsche-biographie.de/pnd119209853.html#indexcontent</idno>
+                  <idno type="WIKIDATA">http://www.wikidata.org/entity/Q784173</idno>
+                  <figure>
+                     <graphic url="emt_person_id__593.jpg"/>
+                     <caption>Hyacinthe Rigaud - Louis de France, Dauphin (1661-1711), dit le Grand Dauphin - Google Art Project.jpg</caption>
+                  </figure>
+               </person>
+               <person xml:id="emt_person_id__594">
+                  <persName>Schweden, Ulrike Eleonore von, geb. Prinzessin von Dänemark</persName>
+                  <birth>
+                     <date notBefore="1656-01-01" notAfter="1656-12-31">1656</date>
+                  </birth>
+                  <death>
+                     <date notBefore="1693-01-01" notAfter="1693-12-31">1693</date>
+                  </death>
+                  <idno type="GND">https://d-nb.info/gnd/119550660</idno>
+                  <idno type="NDB">https://www.deutsche-biographie.de/pnd119550660.html#index</idno>
+                  <idno type="WIKIDATA">http://www.wikidata.org/entity/Q174256</idno>
+                  <figure>
+                     <graphic url="emt_person_id__594.jpg"/>
+                     <caption>Ulrika Eleonora d.ä. 1656-1693, drottning av Sverige prinsessa av Danmark (Jacques D' Agar) - Nationalmuseum - 15106.tif</caption>
+                  </figure>
+               </person>
+               <person xml:id="emt_person_id__595">
+                  <persName>Weisweiler, Heinrich</persName>
+                  <birth>
+                     <date notBefore="1635-01-01" notAfter="1635-12-31">1635</date>
+                  </birth>
+                  <death>
+                     <date notBefore="1714-01-01" notAfter="1714-12-31">1714</date>
+                  </death>
+                  <idno type="GND">https://d-nb.info/gnd/1047376849</idno>
+                  <idno type="WIKIDATA">http://www.wikidata.org/entity/Q111681368</idno>
+               </person>
+               <person xml:id="emt_person_id__596">
+                  <persName>Pinell, Pater</persName>
+               </person>
+               <person xml:id="emt_person_id__597">
+                  <persName>Schellart von Oberndorf, Franz Kaspar Adrian von</persName>
+                  <birth>
+                     <date notBefore="1628-01-01" notAfter="1628-12-31">1628</date>
+                  </birth>
+                  <death>
+                     <date notBefore="1701-01-01" notAfter="1701-12-31">1701</date>
+                  </death>
+                  <idno type="GND">https://d-nb.info/gnd/1021442364</idno>
+                  <idno type="URL">https://kaiserhof.geschichte.lmu.de/14083</idno>
+               </person>
+               <person xml:id="emt_person_id__598">
+                  <persName>Velbrück, Herr von 1686</persName>
+               </person>
+               <person xml:id="emt_person_id__599">
+                  <persName>Irmans, NN 1686</persName>
+               </person>
+               <person xml:id="emt_person_id__600">
+                  <persName>Irmans, Maria Susanna 1686</persName>
+               </person>
+               <person xml:id="emt_person_id__601">
+                  <persName>Eckh, Herr von 1686</persName>
+               </person>
+               <person xml:id="emt_person_id__602">
+                  <persName>Gültich, NN 1686</persName>
+               </person>
+               <person xml:id="emt_person_id__603">
+                  <persName>Rietberg und Ostfriesland, Christine Charlotte von, geb. Württemberg</persName>
+                  <birth>
+                     <date notBefore="1645-01-01" notAfter="1645-12-31">1645</date>
+                  </birth>
+                  <death>
+                     <date notBefore="1699-01-01" notAfter="1699-12-31">1699</date>
+                  </death>
+                  <idno type="GND">https://d-nb.info/gnd/118147587</idno>
+                  <idno type="NDB">https://www.deutsche-biographie.de/sfz11143.html#index</idno>
+                  <idno type="WIKIDATA">http://www.wikidata.org/entity/Q153166</idno>
+                  <figure>
+                     <graphic url="emt_person_id__603.jpg"/>
+                     <caption>Christine Charlotte von Württemberg.jpg</caption>
+                  </figure>
+               </person>
+               <person xml:id="emt_person_id__604">
+                  <persName>Rietberg und Ostfreisland, Christian Eberhard von</persName>
+                  <birth>
+                     <date notBefore="1665-01-01" notAfter="1665-12-31">1665</date>
+                  </birth>
+                  <death>
+                     <date notBefore="1708-01-01" notAfter="1708-12-31">1708</date>
+                  </death>
+                  <idno type="GND">https://d-nb.info/gnd/121002594</idno>
+                  <idno type="NDB">https://www.deutsche-biographie.de/sfz11144.html#index</idno>
+                  <idno type="WIKIDATA">http://www.wikidata.org/entity/Q466684</idno>
+                  <figure>
+                     <graphic url="emt_person_id__604.jpg"/>
+                     <caption>Christianeberhard.jpg</caption>
+                  </figure>
+               </person>
+               <person xml:id="emt_person_id__605">
+                  <persName>Fabricius, Johann Daniel</persName>
+               </person>
+               <person xml:id="emt_person_id__606">
+                  <persName>Braunschweig-Lüneburg (Hannover), Ernst August von</persName>
+                  <birth>
+                     <date notBefore="1629-01-01" notAfter="1629-12-31">1629</date>
+                  </birth>
+                  <death>
+                     <date notBefore="1698-01-01" notAfter="1698-12-31">1698</date>
+                  </death>
+                  <idno type="GND">https://d-nb.info/gnd/101052677</idno>
+                  <idno type="NDB">https://www.deutsche-biographie.de/pnd101052677.html#indexcontent</idno>
+                  <idno type="WIKIDATA">http://www.wikidata.org/entity/Q372190</idno>
+                  <figure>
+                     <graphic url="emt_person_id__606.jpg"/>
+                     <caption>Celle Schloss Ernest Augustus, Elector of Hanover 01.JPG</caption>
+                  </figure>
                </person>
             </listPerson>
          </div>
