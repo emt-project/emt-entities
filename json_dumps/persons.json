@@ -12747,7 +12747,7 @@
     "Geschlecht": "",
     "Funktionsbezeichnungen": "",
     "Titel": "",
-    "unidentifiziert": false
+    "unidentifiziert": true
   },
   "540": {
     "id": 540,
@@ -12756,7 +12756,7 @@
     "gnd": "",
     "other_url": "",
     "emt_id": "emt_person_id__540",
-    "internal_comment": "special envoy to Vienna for Cosimo III. https://colenda.library.upenn.edu/catalog/81431-p3h70809q  . Bittner S. 534",
+    "internal_comment": "special envoy to Vienna for Cosimo III. https://colenda.library.upenn.edu/catalog/81431-p3h70809q  . Bittner S. 534; https://search.worldcat.org/de/title/Anton-Francesco-Montauti-papers-ca.-1670-1723/oclc/122546354",
     "color": "",
     "lebensdaten": "",
     "ndb": "",
@@ -12797,7 +12797,7 @@
     "Geschlecht": "",
     "Funktionsbezeichnungen": "",
     "Titel": "",
-    "unidentifiziert": false
+    "unidentifiziert": true
   },
   "544": {
     "id": 544,
@@ -12852,7 +12852,7 @@
   "546": {
     "id": 546,
     "order": "542.00000000000000000000",
-    "name": "Bodler SJ, Johann",
+    "name": "Bodler, Johann SJ",
     "gnd": "https://d-nb.info/gnd/124747019",
     "other_url": "",
     "emt_id": "emt_person_id__546",
@@ -13277,16 +13277,16 @@
   "567": {
     "id": 567,
     "order": "562.00000000000000000000",
-    "name": "Merveldt, Margreth Sybille ?",
+    "name": "Schwester des Grafen Friedrich Wilhelm von Merveldt",
     "gnd": "https://d-nb.info/gnd/129643912",
     "other_url": "https://de.wikipedia.org/wiki/Merveldt_(Adelsgeschlecht)#Linie_zu_Merfeld",
     "emt_id": "emt_person_id__567",
-    "internal_comment": "siehe Erklärung und Literaturangabe bei Merveldt, Friedrich Wilhelm .. es gibt bei Fahne noch zwei weitere Schwestern, die aber ohne Lebensdaten, und da Margreth Sybille 1693 geheiratet hat, schätze ich, dass sie das Gut erfolgreich verteidigt haben dürfte; ? weil das natürlich nicht sicher ist.",
+    "internal_comment": "vermutlich Margreth Sybille (gest. 1705) siehe Erklärung und Literaturangabe bei Merveldt, Friedrich Wilhelm .. es gibt bei Fahne noch zwei weitere Schwestern, die aber ohne Lebensdaten, und da Margreth Sybille 1693 geheiratet hat, schätze ich, dass sie das Gut erfolgreich verteidigt haben dürfte; ? weil das natürlich nicht sicher ist.",
     "color": "",
     "lebensdaten": "",
     "ndb": "",
     "year_of_birth": null,
-    "year_of_death": "1705",
+    "year_of_death": null,
     "wikidata_url": "http://www.wikidata.org/entity/Q1922168",
     "wikidata_enriched": true,
     "img_name": "",
@@ -13327,11 +13327,11 @@
   "569": {
     "id": 569,
     "order": "564.00000000000000000000",
-    "name": "Rios, Maria Anna",
+    "name": "Rios, Maria Anna (1692)",
     "gnd": "",
     "other_url": "",
     "emt_id": "emt_person_id__569",
-    "internal_comment": "ist in VieCPro",
+    "internal_comment": "ist in VieCPro, wegen Zuordnung zur Erzherzogin als eindeutig anzunehmen",
     "color": "",
     "lebensdaten": "",
     "ndb": "",
@@ -13347,16 +13347,16 @@
     "Geschlecht": "",
     "Funktionsbezeichnungen": "Kammerfrau von Erzherzogin Maria Elisabeth",
     "Titel": "",
-    "unidentifiziert": false
+    "unidentifiziert": true
   },
   "570": {
     "id": 570,
     "order": "565.00000000000000000000",
-    "name": "Rios, Anna Katharina ?",
+    "name": "alte Kammerfrau Kaiserin Eleonore Magdalenas (1692)",
     "gnd": "",
     "other_url": "",
     "emt_id": "emt_person_id__570",
-    "internal_comment": "ist in VieCPro; es könnte auch Johanna Katharina Rios de Bevemont sein, die Kammerdienerin bei EMT war (ebenfalls laut VieCPro)",
+    "internal_comment": "VieCPro; vermutlich entweder Ana Katharina Rios oder es könnte auch Johanna Katharina Rios de Bevemont sein, die Kammerdienerin bei EMT war (ebenfalls laut VieCPro)",
     "color": "",
     "lebensdaten": "",
     "ndb": "",
@@ -13372,16 +13372,16 @@
     "Geschlecht": "",
     "Funktionsbezeichnungen": "Kammerfräulein von Kaiserin Eleonore Magdalena",
     "Titel": "",
-    "unidentifiziert": false
+    "unidentifiziert": true
   },
   "571": {
     "id": 571,
     "order": "566.00000000000000000000",
-    "name": "Rios, Johann Anton ?",
+    "name": "Rios, Vetter der alten Kammerfrau Kaiserin Eleonore Magdalenas (1692)",
     "gnd": "",
     "other_url": "",
     "emt_id": "emt_person_id__571",
-    "internal_comment": "VieCPro",
+    "internal_comment": "VieCPro hat einen Johann Anton, der passen könnte",
     "color": "",
     "lebensdaten": "",
     "ndb": "",
@@ -13397,7 +13397,7 @@
     "Geschlecht": "",
     "Funktionsbezeichnungen": "Kammerdiener von Kaiserin Eleonore Magdalena",
     "Titel": "",
-    "unidentifiziert": false
+    "unidentifiziert": true
   },
   "572": {
     "id": 572,
@@ -13472,7 +13472,7 @@
     "Geschlecht": "",
     "Funktionsbezeichnungen": "Leibmedicus von PW laut Kaps, EMT S.80. =der odiose Doktor, nicht in Lau. Erstmals erwähnt als betrübliche \"schweizerische sache\" in EMT 20.8.1692, ausgeschrieben in Chiffre Schweytzer in 44-7: 75: JW an EMT, 1696.04.12.",
     "Titel": "Doktor",
-    "unidentifiziert": false
+    "unidentifiziert": true
   },
   "575": {
     "id": 575,

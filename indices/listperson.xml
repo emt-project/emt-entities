@@ -4740,7 +4740,7 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                   <persName>Rummel, NN (1691, Bruder von Franz Ferdinand von Rummel)</persName>
                </person>
                <person xml:id="emt_person_id__546">
-                  <persName>Bodler SJ, Johann</persName>
+                  <persName>Bodler, Johann SJ</persName>
                   <birth>
                      <date notBefore="1629-01-01" notAfter="1629-12-31">1629</date>
                   </birth>
@@ -4830,10 +4830,7 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                   <idno type="URL">https://de.wikipedia.org/wiki/Merveldt_(Adelsgeschlecht)#Linie_zu_Merfeld</idno>
                </person>
                <person xml:id="emt_person_id__567">
-                  <persName>Merveldt, Margreth Sybille ?</persName>
-                  <death>
-                     <date notBefore="1705-01-01" notAfter="1705-12-31">1705</date>
-                  </death>
+                  <persName>Schwester des Grafen Friedrich Wilhelm von Merveldt</persName>
                   <idno type="GND">https://d-nb.info/gnd/129643912</idno>
                   <idno type="WIKIDATA">http://www.wikidata.org/entity/Q1922168</idno>
                   <idno type="URL">https://de.wikipedia.org/wiki/Merveldt_(Adelsgeschlecht)#Linie_zu_Merfeld</idno>
@@ -4850,13 +4847,13 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                   <idno type="NDB">https://www.deutsche-biographie.de/sfz17409.html#adbcontent</idno>
                </person>
                <person xml:id="emt_person_id__569">
-                  <persName>Rios, Maria Anna</persName>
+                  <persName>Rios, Maria Anna (1692)</persName>
                </person>
                <person xml:id="emt_person_id__570">
-                  <persName>Rios, Anna Katharina ?</persName>
+                  <persName>alte Kammerfrau Kaiserin Eleonore Magdalenas (1692)</persName>
                </person>
                <person xml:id="emt_person_id__571">
-                  <persName>Rios, Johann Anton ?</persName>
+                  <persName>Rios, Vetter der alten Kammerfrau Kaiserin Eleonore Magdalenas (1692)</persName>
                </person>
                <person xml:id="emt_person_id__572">
                   <persName>Heister, Johann Rudolf von</persName>
