@@ -644,11 +644,10 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                   <idno type="GND">https://d-nb.info/gnd/2035457-5</idno>
                </place>
                <place xml:id="emt_place_id__90">
-                  <placeName>Rom</placeName>
+                  <placeName>Rom (Kirchenstaat, Heiliger Stuhl)</placeName>
                   <location type="coords">
                      <geo>41.89193 12.511330</geo>
                   </location>
-                  <idno type="GEONAMES">https://sws.geonames.org/3169070/</idno>
                </place>
                <place xml:id="emt_place_id__91">
                   <placeName>Köln, Erzstift</placeName>
@@ -1518,7 +1517,11 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                   <placeName>Geldern / Gelderland</placeName>
                </place>
                <place xml:id="emt_place_id__238">
-                  <placeName/>
+                  <placeName>Rom (Stadt)</placeName>
+                  <location type="coords">
+                     <geo>41.89193 12.511330</geo>
+                  </location>
+                  <idno type="GEONAMES">https://sws.geonames.org/3169070/</idno>
                </place>
                <place xml:id="emt_place_id__239">
                   <placeName>Olmütz (Olomouc)</placeName>
@@ -1549,6 +1552,10 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                </place>
                <place xml:id="emt_place_id__245">
                   <placeName>Stuhlweißenburg / Székesfehérvár</placeName>
+               </place>
+               <place xml:id="emt_place_id__246">
+                  <placeName>Lüttich, Bistum</placeName>
+                  <idno type="GND">https://d-nb.info/gnd/4111421-8</idno>
                </place>
             </listPlace>
          </div>

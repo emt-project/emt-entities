@@ -149,7 +149,7 @@
   "22": {
     "id": 22,
     "order": "22.00000000000000000000",
-    "name": "",
+    "name": "Landtag Herzogtum Jülich",
     "gnd": "",
     "emt_id": "emt_institution_id__22"
   },
@@ -173,5 +173,19 @@
     "name": "Kurfürstenkollegium",
     "gnd": "",
     "emt_id": "emt_institution_id__25"
+  },
+  "26": {
+    "id": 26,
+    "order": "26.00000000000000000000",
+    "name": "Landtafel Böhmen",
+    "gnd": "",
+    "emt_id": "emt_institution_id__26"
+  },
+  "27": {
+    "id": 27,
+    "order": "27.00000000000000000000",
+    "name": "",
+    "gnd": "",
+    "emt_id": "emt_institution_id__27"
   }
 }

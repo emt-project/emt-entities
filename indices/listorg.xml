@@ -128,7 +128,7 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                   <orgName>Klarissenkloster in Wien</orgName>
                </org>
                <org xml:id="emt_institution_id__22">
-                  <orgName/>
+                  <orgName>Landtag Herzogtum Jülich</orgName>
                </org>
                <org xml:id="emt_institution_id__23">
                   <orgName>Königliches Lehensgericht in Prag</orgName>
@@ -138,6 +138,12 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                </org>
                <org xml:id="emt_institution_id__25">
                   <orgName>Kurfürstenkollegium</orgName>
+               </org>
+               <org xml:id="emt_institution_id__26">
+                  <orgName>Landtafel Böhmen</orgName>
+               </org>
+               <org xml:id="emt_institution_id__27">
+                  <orgName/>
                </org>
             </listOrg>
          </div>

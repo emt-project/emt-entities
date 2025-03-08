@@ -2631,9 +2631,6 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                <person xml:id="emt_person_id__256">
                   <persName>Rougemont, Francesco de</persName>
                </person>
-               <person xml:id="emt_person_id__257">
-                  <persName>Roßeler / Raßeler, NN 1680</persName>
-               </person>
                <person xml:id="emt_person_id__258">
                   <persName>Nostitz-Rieneck, Johann Hartwig von</persName>
                   <birth>
@@ -3986,7 +3983,7 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                   <persName>Lantzé, reist im Auftrag des Kaisers nach Innsbruck 1684</persName>
                </person>
                <person xml:id="emt_person_id__428">
-                  <persName>Raßler von Gamerschawang, Jakob Christoph</persName>
+                  <persName>Raßler von Gamerschwang, Jakob Christoph</persName>
                   <idno type="URL">https://de.wikipedia.org/wiki/Ra%C3%9Fler_von_Gamerschwang</idno>
                </person>
                <person xml:id="emt_person_id__429">
@@ -4439,7 +4436,7 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                   </figure>
                </person>
                <person xml:id="emt_person_id__500">
-                  <persName>Bayern (Haus)</persName>
+                  <persName>Bayern, Haus</persName>
                </person>
                <person xml:id="emt_person_id__501">
                   <persName>Emerich, NN Pater 1685</persName>
@@ -4581,7 +4578,7 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                   </figure>
                </person>
                <person xml:id="emt_person_id__521">
-                  <persName>Bourbon (Haus)</persName>
+                  <persName>Bourbon, Haus</persName>
                </person>
                <person xml:id="emt_person_id__522">
                   <persName>Thun, Franz Sigismund von</persName>
@@ -4706,6 +4703,12 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                </person>
                <person xml:id="emt_person_id__535">
                   <persName>Fugger, Klara Dorothea, geb. von Welsberg</persName>
+                  <birth>
+                     <date notBefore="1647-01-01" notAfter="1647-12-31">1647</date>
+                  </birth>
+                  <death>
+                     <date notBefore="1711-01-01" notAfter="1711-12-31">1711</date>
+                  </death>
                </person>
                <person xml:id="emt_person_id__536">
                   <persName>Windischgrätz, Fräulein von (1691)</persName>
@@ -4853,7 +4856,7 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                   <persName>alte Kammerfrau Kaiserin Eleonore Magdalenas (1692)</persName>
                </person>
                <person xml:id="emt_person_id__571">
-                  <persName>Rios, Vetter der alten Kammerfrau Kaiserin Eleonore Magdalenas (1692)</persName>
+                  <persName>Rios, NN (Vetter der alten Kammerfrau Kaiserin Eleonore Magdalenas, 1692)</persName>
                </person>
                <person xml:id="emt_person_id__572">
                   <persName>Heister, Johann Rudolf von</persName>
@@ -4864,7 +4867,7 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                   <idno type="WIKIDATA">http://www.wikidata.org/entity/Q27968966</idno>
                </person>
                <person xml:id="emt_person_id__574">
-                  <persName>Schweizer 1692</persName>
+                  <persName>Dr. Schweizer, ehem. Leibarzt von Kurfürst Philipp Wilhelm von Pfalz-Neuburg (1692)</persName>
                </person>
                <person xml:id="emt_person_id__575">
                   <persName>Sachsen, Johann Georg IV.</persName>
@@ -4898,7 +4901,7 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                   <idno type="URL">https://www.google.at/books/edition/Neues_Allgemeines_Deutsches_Adels_Lexico/0s4EAAAAIAAJ?hl=de&amp;gbpv=1&amp;dq=Johann+Friedrich+von+Kreith&amp;pg=PA279&amp;printsec=frontcover</idno>
                </person>
                <person xml:id="emt_person_id__578">
-                  <persName>Kaltwasser 1692</persName>
+                  <persName>Kaltwasser, NN (Zusammenhang mit Dr. Schweizer, 1692)</persName>
                </person>
                <person xml:id="emt_person_id__579">
                   <persName>Schweden, Hedwig Sophia von</persName>
@@ -4921,10 +4924,10 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                   <idno type="NDB">https://www.deutsche-biographie.de/sfz57040.html#index</idno>
                </person>
                <person xml:id="emt_person_id__581">
-                  <persName>Zwiefel, Frau von (1693)</persName>
+                  <persName>Zwiefel, Frau von (1693, hat dem Kaiserpaar Dienste in Polen geleistet)</persName>
                </person>
                <person xml:id="emt_person_id__582">
-                  <persName>Zwiefel, Herr von (1693)</persName>
+                  <persName>Zwiefel, Herr von (1693, verstorbener Sohn der Frau von Zwiefel)</persName>
                </person>
                <person xml:id="emt_person_id__583">
                   <persName>Hessen-Darmstadt, Elisabeth Dorothea von</persName>
@@ -5029,7 +5032,7 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                   <persName>Bergerin (im Hofstaat von Kurfürstin Elisabeth Amalies von Pfalz-Neuburg, 1693)</persName>
                </person>
                <person xml:id="emt_person_id__591">
-                  <persName>Pater Mans? 1693</persName>
+                  <persName>Pater Mans (unsichere Lesung) 1693</persName>
                </person>
                <person xml:id="emt_person_id__592">
                   <persName>Heddersdorf, Georg Eberhard von</persName>
@@ -5159,6 +5162,70 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                      <graphic url="emt_person_id__606.jpg"/>
                      <caption>Celle Schloss Ernest Augustus, Elector of Hanover 01.JPG</caption>
                   </figure>
+               </person>
+               <person xml:id="emt_person_id__607">
+                  <persName>Lothringen, Haus</persName>
+               </person>
+               <person xml:id="emt_person_id__608">
+                  <persName>Bauer von Eyseneck, Hector Wilhelm</persName>
+                  <idno type="URL">https://arcinsys.hessen.de/arcinsys/detailAction?detailid=v10910288</idno>
+               </person>
+               <person xml:id="emt_person_id__609">
+                  <persName>Holstein-Sonderburg-Wiesenburg, Philipp Ludwig</persName>
+                  <birth>
+                     <date notBefore="1620-01-01" notAfter="1620-12-31">1620</date>
+                  </birth>
+                  <death>
+                     <date notBefore="1689-01-01" notAfter="1689-12-31">1689</date>
+                  </death>
+                  <idno type="GND">https://d-nb.info/gnd/138777497</idno>
+                  <idno type="URL">https://kalliope-verbund.info/de/eac?eac.id=138777497</idno>
+               </person>
+               <person xml:id="emt_person_id__610">
+                  <persName>Schleswig-Holstein-Wiesenburg, Charlotte von, geb. Liegnitz-Brieg-Wohlau</persName>
+                  <birth>
+                     <date notBefore="1652-01-01" notAfter="1652-12-31">1652</date>
+                  </birth>
+                  <death>
+                     <date notBefore="1707-01-01" notAfter="1707-12-31">1707</date>
+                  </death>
+                  <idno type="GND">https://d-nb.info/gnd/129884219</idno>
+                  <idno type="WIKIDATA">http://www.wikidata.org/entity/Q71256</idno>
+                  <idno type="URL">https://de.wikipedia.org/wiki/Charlotte_von_Liegnitz-Brieg-Wohlau</idno>
+                  <figure>
+                     <graphic url="emt_person_id__610.jpg"/>
+                     <caption>Karolina Piastówna.JPG</caption>
+                  </figure>
+               </person>
+               <person xml:id="emt_person_id__611">
+                  <persName>Karl XI. von Schweden</persName>
+                  <birth>
+                     <date notBefore="1655-01-01" notAfter="1655-12-31">1655</date>
+                  </birth>
+                  <death>
+                     <date notBefore="1697-01-01" notAfter="1697-12-31">1697</date>
+                  </death>
+                  <idno type="GND">https://d-nb.info/gnd/119160978</idno>
+                  <idno type="NDB">https://www.deutsche-biographie.de/sfz42581.html#index</idno>
+               </person>
+               <person xml:id="emt_person_id__612">
+                  <persName>Quentel, Johann Thomas von</persName>
+               </person>
+               <person xml:id="emt_person_id__613">
+                  <persName>Quentel, Thomas von</persName>
+                  <death>
+                     <date notBefore="1690-01-01" notAfter="1690-12-31">1690</date>
+                  </death>
+                  <idno type="URL">https://de.wikipedia.org/wiki/Thomas_von_Quentel</idno>
+               </person>
+               <person xml:id="emt_person_id__614">
+                  <persName>Schwanenfeld, Franz Karl von</persName>
+                  <death>
+                     <date notBefore="1684-01-01" notAfter="1684-12-31">1684</date>
+                  </death>
+                  <idno type="GND">https://d-nb.info/gnd/120199022X</idno>
+                  <idno type="NDB">https://www.deutsche-biographie.de/pnd120199022X.html#index</idno>
+                  <idno type="WIKIDATA">http://www.wikidata.org/entity/Q55238368</idno>
                </person>
             </listPerson>
          </div>
