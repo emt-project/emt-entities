@@ -1524,11 +1524,11 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                   <idno type="GEONAMES">https://sws.geonames.org/3169070/</idno>
                </place>
                <place xml:id="emt_place_id__239">
-                  <placeName>Olmütz (Olomouc)</placeName>
+                  <placeName>Olmütz (Olomouc), Bistum</placeName>
                   <location type="coords">
                      <geo>49.59552 17.251750</geo>
                   </location>
-                  <idno type="GEONAMES">https://sws.geonames.org/3069011/</idno>
+                  <idno type="GND">https://d-nb.info/gnd/1122138016</idno>
                </place>
                <place xml:id="emt_place_id__240">
                   <placeName/>
@@ -1540,7 +1540,8 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                   <placeName>Braunschweig-Lüneburg, Kurfürstentum (Hannover)</placeName>
                </place>
                <place xml:id="emt_place_id__243">
-                  <placeName/>
+                  <placeName>Vereinigte Niederlande / Generalstaaten, Republik</placeName>
+                  <idno type="GND">https://d-nb.info/gnd/4101204-5</idno>
                </place>
                <place xml:id="emt_place_id__244">
                   <placeName>Jülich, Stadt</placeName>
@@ -1556,6 +1557,9 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                <place xml:id="emt_place_id__246">
                   <placeName>Lüttich, Bistum</placeName>
                   <idno type="GND">https://d-nb.info/gnd/4111421-8</idno>
+               </place>
+               <place xml:id="emt_place_id__247">
+                  <placeName>Savoyen, Herzogtum</placeName>
                </place>
             </listPlace>
          </div>

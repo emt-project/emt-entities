@@ -5227,6 +5227,95 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                   <idno type="NDB">https://www.deutsche-biographie.de/pnd120199022X.html#index</idno>
                   <idno type="WIKIDATA">http://www.wikidata.org/entity/Q55238368</idno>
                </person>
+               <person xml:id="emt_person_id__615">
+                  <persName>Schallenberg, Christoph Otto von</persName>
+                  <birth>
+                     <date notBefore="1655-01-01" notAfter="1655-12-31">1655</date>
+                  </birth>
+                  <death>
+                     <date notBefore="1733-01-01" notAfter="1733-12-31">1733</date>
+                  </death>
+                  <idno type="GND">https://d-nb.info/gnd/117102229</idno>
+                  <idno type="NDB">https://www.deutsche-biographie.de/pnd117102229.html#index</idno>
+                  <idno type="WIKIDATA">http://www.wikidata.org/entity/Q55901942</idno>
+               </person>
+               <person xml:id="emt_person_id__616">
+                  <persName>Vocht / Vogt, NN 1693 (geht um Empfehlung, Umkreis von Pfalzgraf Karl)</persName>
+               </person>
+               <person xml:id="emt_person_id__617">
+                  <persName>Losenstein, Franz Anton von</persName>
+                  <birth>
+                     <date notBefore="1642-01-01" notAfter="1642-12-31">1642</date>
+                  </birth>
+                  <death>
+                     <date notBefore="1692-01-01" notAfter="1692-12-31">1692</date>
+                  </death>
+                  <idno type="GND">https://d-nb.info/gnd/115615008</idno>
+                  <idno type="WIKIDATA">http://www.wikidata.org/entity/Q1446101</idno>
+                  <idno type="URL">https://personendatenbank.germania-sacra.de/index/gnd/115615008</idno>
+                  <figure>
+                     <graphic url="emt_person_id__617.jpg"/>
+                     <caption>Siebmacher-Losenstein.jpg</caption>
+                  </figure>
+               </person>
+               <person xml:id="emt_person_id__618">
+                  <persName>Lothringen, Karl Joseph von</persName>
+                  <birth>
+                     <date notBefore="1680-01-01" notAfter="1680-12-31">1680</date>
+                  </birth>
+                  <death>
+                     <date notBefore="1715-01-01" notAfter="1715-12-31">1715</date>
+                  </death>
+                  <idno type="GND">https://d-nb.info/gnd/119442647</idno>
+                  <idno type="NDB">https://www.deutsche-biographie.de/sfz70330.html#</idno>
+                  <idno type="WIKIDATA">http://www.wikidata.org/entity/Q651883</idno>
+                  <figure>
+                     <graphic url="emt_person_id__618.jpg"/>
+                     <caption>Karel III. Lotrinský.jpg</caption>
+                  </figure>
+               </person>
+               <person xml:id="emt_person_id__619">
+                  <persName>Aya 1693</persName>
+                  <death>
+                     <date notBefore="1693-01-01" notAfter="1693-12-31">1693</date>
+                  </death>
+               </person>
+               <person xml:id="emt_person_id__620">
+                  <persName>Mean, Johann Ferdinand von</persName>
+                  <birth>
+                     <date notBefore="1647-01-01" notAfter="1647-12-31">1647</date>
+                  </birth>
+                  <death>
+                     <date notBefore="1709-01-01" notAfter="1709-12-31">1709</date>
+                  </death>
+                  <idno type="URL">https://fr.wikipedia.org/wiki/Famille_de_M%C3%A9an_de_Beaurieux</idno>
+               </person>
+               <person xml:id="emt_person_id__621">
+                  <persName>Elderen, Johann Ludwig von</persName>
+                  <birth>
+                     <date notBefore="1620-01-01" notAfter="1620-12-31">1620</date>
+                  </birth>
+                  <death>
+                     <date notBefore="1694-01-01" notAfter="1694-12-31">1694</date>
+                  </death>
+                  <idno type="GND">https://d-nb.info/gnd/12303633X</idno>
+                  <idno type="NDB">https://www.deutsche-biographie.de/pnd12303633X.html#index</idno>
+                  <idno type="WIKIDATA">http://www.wikidata.org/entity/Q933350</idno>
+                  <figure>
+                     <graphic url="emt_person_id__621.jpg"/>
+                     <caption>Jean Louis d Elderen.jpg</caption>
+                  </figure>
+               </person>
+               <person xml:id="emt_person_id__622">
+                  <persName>Imsen / Imbsen, Johann Wilhelm</persName>
+                  <idno type="URL">https://de.wikipedia.org/wiki/Imbsen_(Adelsgeschlecht)#Pers%C3%B6nlichkeiten</idno>
+               </person>
+               <person xml:id="emt_person_id__623">
+                  <persName>B. Novelli (überbringt 1693 ein Schreiben von Kurfürst Johann Wilhelm)</persName>
+               </person>
+               <person xml:id="emt_person_id__624">
+                  <persName>Ehefrau des Dr. Schweizer (1693 bereits verstorben)</persName>
+               </person>
             </listPerson>
          </div>
       </body>

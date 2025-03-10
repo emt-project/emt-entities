@@ -187,5 +187,26 @@
     "name": "",
     "gnd": "",
     "emt_id": "emt_institution_id__27"
+  },
+  "28": {
+    "id": 28,
+    "order": "28.00000000000000000000",
+    "name": "Landtag Herzogtum Neuburg",
+    "gnd": "",
+    "emt_id": "emt_institution_id__28"
+  },
+  "29": {
+    "id": 29,
+    "order": "29.00000000000000000000",
+    "name": "Ursulinen in Wien",
+    "gnd": "",
+    "emt_id": "emt_institution_id__29"
+  },
+  "30": {
+    "id": 30,
+    "order": "30.00000000000000000000",
+    "name": "",
+    "gnd": "",
+    "emt_id": "emt_institution_id__30"
   }
 }
