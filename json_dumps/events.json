@@ -3708,14 +3708,14 @@
             {
                 "id": 102,
                 "order": "100.00000000000000000000",
-                "name": "Trier",
-                "geonames": "https://www.geonames.org/2821164/trier.html",
+                "name": "Trier, Stadt",
+                "geonames": "",
                 "emt_id": "emt_place_id__102",
                 "place_type": null,
                 "lat": "49.75565",
                 "long": "6.639350",
                 "comments intern": "",
-                "gnd": "",
+                "gnd": "https://d-nb.info/gnd/4060882-7/about/html",
                 "alternative_name": null,
                 "wikidata_url": "",
                 "unidentifiziert": false
@@ -4018,7 +4018,7 @@
             {
                 "id": 37,
                 "order": "37.00000000000000000000",
-                "name": "Mainz",
+                "name": "Mainz, Stadt",
                 "geonames": "https://www.geonames.org/2874225/mainz.html",
                 "emt_id": "emt_place_id__37",
                 "place_type": null,

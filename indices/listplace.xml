@@ -308,7 +308,7 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                   <idno type="GEONAMES">https://sws.geonames.org/3117735/</idno>
                </place>
                <place xml:id="emt_place_id__37">
-                  <placeName>Mainz</placeName>
+                  <placeName>Mainz, Stadt</placeName>
                   <location type="coords">
                      <geo>49.98419 8.279100</geo>
                   </location>
@@ -710,11 +710,11 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                   <idno type="GEONAMES">https://sws.geonames.org/3081368/</idno>
                </place>
                <place xml:id="emt_place_id__102">
-                  <placeName>Trier</placeName>
+                  <placeName>Trier, Stadt</placeName>
                   <location type="coords">
                      <geo>49.75565 6.639350</geo>
                   </location>
-                  <idno type="GEONAMES">https://sws.geonames.org/2821164/</idno>
+                  <idno type="GND">https://d-nb.info/gnd/4060882-7</idno>
                </place>
                <place xml:id="emt_place_id__103">
                   <placeName>Mannheim</placeName>
@@ -1020,7 +1020,7 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                   <idno type="GEONAMES">https://sws.geonames.org/2763423/</idno>
                </place>
                <place xml:id="emt_place_id__149">
-                  <placeName>Ungarn</placeName>
+                  <placeName>Ungarn, Königreich</placeName>
                   <location type="coords">
                      <geo>47.00000 20.000000</geo>
                   </location>
@@ -1445,11 +1445,11 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                   <idno type="GEONAMES">https://sws.geonames.org/2771760/</idno>
                </place>
                <place xml:id="emt_place_id__219">
-                  <placeName>Böhmen</placeName>
+                  <placeName>Böhmen, Königreich / Krone</placeName>
                   <location type="coords">
                      <geo>50.00000 14.500000</geo>
                   </location>
-                  <idno type="GEONAMES">https://sws.geonames.org/3078198/</idno>
+                  <idno type="GND">https://d-nb.info/gnd/4007467-5</idno>
                </place>
                <place xml:id="emt_place_id__220">
                   <placeName>Neiße / Nysa</placeName>
@@ -1560,6 +1560,13 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                </place>
                <place xml:id="emt_place_id__247">
                   <placeName>Savoyen, Herzogtum</placeName>
+               </place>
+               <place xml:id="emt_place_id__248">
+                  <placeName>Trier, Erzbistum / Kurfürstentum</placeName>
+                  <location type="coords">
+                     <geo>49.75565 6.639350</geo>
+                  </location>
+                  <idno type="GEONAMES">https://sws.geonames.org/2821164/</idno>
                </place>
             </listPlace>
          </div>
