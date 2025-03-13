@@ -5320,7 +5320,14 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                   <persName>Hofmeister von Oels (der Kurfürstin Elisabeth Amalia, 1693)</persName>
                </person>
                <person xml:id="emt_person_id__626">
-                  <persName>Tochter des Fugger 1694</persName>
+                  <persName>Fugger, Maria Agnes Magdalena 1694</persName>
+                  <birth>
+                     <date notBefore="1680-01-01" notAfter="1680-12-31">1680</date>
+                  </birth>
+                  <death>
+                     <date notBefore="1753-01-01" notAfter="1753-12-31">1753</date>
+                  </death>
+                  <idno type="URL">https://gw.geneanet.org/cvpolier?lang=de&amp;n=fugger&amp;p=maria+katharina</idno>
                </person>
             </listPerson>
          </div>
