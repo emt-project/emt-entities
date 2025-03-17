@@ -5370,6 +5370,48 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                <person xml:id="emt_person_id__635">
                   <persName>Galen, Herr von 1688</persName>
                </person>
+               <person xml:id="emt_person_id__636">
+                  <persName>Braut, deren Hochzeit EMT Anfang Februar 1685 am Schreiben hindert</persName>
+               </person>
+               <person xml:id="emt_person_id__637">
+                  <persName>Berchtram, Herr 1685</persName>
+               </person>
+               <person xml:id="emt_person_id__638">
+                  <persName>Freitag, Herr 1686</persName>
+               </person>
+               <person xml:id="emt_person_id__639">
+                  <persName>Sormani, Pier Marino OFM</persName>
+                  <death>
+                     <date notBefore="1702-01-01" notAfter="1702-12-31">1702</date>
+                  </death>
+                  <idno type="URL">http://viaf.org/viaf/4535155466473102160005</idno>
+               </person>
+               <person xml:id="emt_person_id__640">
+                  <persName>Thurn-Valsassina, Franz Ulrich von</persName>
+                  <birth>
+                     <date notBefore="1629-01-01" notAfter="1629-12-31">1629</date>
+                  </birth>
+                  <death>
+                     <date notBefore="1695-01-01" notAfter="1695-12-31">1695</date>
+                  </death>
+                  <idno type="GND">https://d-nb.info/gnd/1218228806</idno>
+                  <idno type="NDB">https://www.deutsche-biographie.de/pnd1218228806.html#index</idno>
+                  <idno type="WIKIDATA">http://www.wikidata.org/entity/Q94526809</idno>
+               </person>
+               <person xml:id="emt_person_id__641">
+                  <persName>Ligne, Henri Louis Ernest de</persName>
+                  <birth>
+                     <date notBefore="1644-01-01" notAfter="1644-12-31">1644</date>
+                  </birth>
+                  <death>
+                     <date notBefore="1702-01-01" notAfter="1702-12-31">1702</date>
+                  </death>
+                  <idno type="WIKIDATA">http://www.wikidata.org/entity/Q4995309</idno>
+                  <figure>
+                     <graphic url="emt_person_id__641.jpg"/>
+                     <caption>Henri Louis Ernest de Ligne.jpg</caption>
+                  </figure>
+               </person>
             </listPerson>
          </div>
       </body>

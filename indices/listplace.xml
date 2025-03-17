@@ -1568,6 +1568,13 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                   </location>
                   <idno type="GEONAMES">https://sws.geonames.org/2821164/</idno>
                </place>
+               <place xml:id="emt_place_id__249">
+                  <placeName>Brandenburg, Kurfürstentum</placeName>
+               </place>
+               <place xml:id="emt_place_id__250">
+                  <placeName>Schütt, Insel</placeName>
+                  <idno type="GND">https://d-nb.info/gnd/4254661-8</idno>
+               </place>
             </listPlace>
          </div>
       </body>

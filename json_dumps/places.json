@@ -3583,5 +3583,35 @@
     "alternative_name": "",
     "wikidata_url": "",
     "unidentifiziert": false
+  },
+  "249": {
+    "id": 249,
+    "order": "244.00000000000000000000",
+    "name": "Brandenburg, Kurfürstentum",
+    "geonames": "",
+    "emt_id": "emt_place_id__249",
+    "place_type": null,
+    "lat": null,
+    "long": null,
+    "comments intern": "",
+    "gnd": "",
+    "alternative_name": "",
+    "wikidata_url": "",
+    "unidentifiziert": false
+  },
+  "250": {
+    "id": 250,
+    "order": "245.00000000000000000000",
+    "name": "Schütt, Insel",
+    "geonames": "",
+    "emt_id": "emt_place_id__250",
+    "place_type": null,
+    "lat": null,
+    "long": null,
+    "comments intern": "https://de.wikipedia.org/wiki/Gro%C3%9Fe_Sch%C3%BCttinsel",
+    "gnd": "https://d-nb.info/gnd/4254661-8",
+    "alternative_name": "",
+    "wikidata_url": "",
+    "unidentifiziert": false
   }
 }
