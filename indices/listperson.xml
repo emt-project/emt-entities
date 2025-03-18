@@ -4232,7 +4232,16 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                   <persName>Oberstleutnant im Regiment Karl Philipps 1684</persName>
                </person>
                <person xml:id="emt_person_id__467">
-                  <persName>Oberstfalkenmeister Leopolds I. 1684</persName>
+                  <persName>Cavriani, Franz Karl</persName>
+                  <birth>
+                     <date notBefore="1637-01-01" notAfter="1637-12-31">1637</date>
+                  </birth>
+                  <death>
+                     <date notBefore="1696-01-01" notAfter="1696-12-31">1696</date>
+                  </death>
+                  <idno type="GND">https://d-nb.info/gnd/1200031954</idno>
+                  <idno type="NDB">https://www.deutsche-biographie.de/pnd1200031954.html#index</idno>
+                  <idno type="URL">https://agso.uni-graz.at/archive/mitterndorf/mitterndorf/cavriani/03_07.htm</idno>
                </person>
                <person xml:id="emt_person_id__468">
                   <persName>Lilienau, NN von</persName>
@@ -4473,6 +4482,8 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                   <death>
                      <date notBefore="1732-01-01" notAfter="1732-12-31">1732</date>
                   </death>
+                  <idno type="GND">https://d-nb.info/gnd/138693501</idno>
+                  <idno type="NDB">https://www.deutsche-biographie.de/sfz93632.html#index</idno>
                   <idno type="URL">https://en.wikipedia.org/wiki/Mikl%C3%B3s_P%C3%A1lffy</idno>
                </person>
                <person xml:id="emt_person_id__508">
@@ -5314,7 +5325,7 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                   <idno type="URL">https://de.wikipedia.org/wiki/Imbsen_(Adelsgeschlecht)#Pers%C3%B6nlichkeiten</idno>
                </person>
                <person xml:id="emt_person_id__623">
-                  <persName>B. Novelli (überbringt 1693 ein Schreiben von Kurfürst Johann Wilhelm)</persName>
+                  <persName>Novelli (überbringt 1693 ein Schreiben von Kurfürst Johann Wilhelm)</persName>
                </person>
                <person xml:id="emt_person_id__624">
                   <persName>Ehefrau des Dr. Schweizer (1693 bereits verstorben)</persName>
@@ -5411,6 +5422,168 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                      <graphic url="emt_person_id__641.jpg"/>
                      <caption>Henri Louis Ernest de Ligne.jpg</caption>
                   </figure>
+               </person>
+               <person xml:id="emt_person_id__642">
+                  <persName>Grumbkow, Joachim Ernst von</persName>
+                  <birth>
+                     <date notBefore="1637-01-01" notAfter="1637-12-31">1637</date>
+                  </birth>
+                  <death>
+                     <date notBefore="1690-01-01" notAfter="1690-12-31">1690</date>
+                  </death>
+                  <idno type="GND">https://d-nb.info/gnd/117572217</idno>
+                  <idno type="NDB">https://www.deutsche-biographie.de/sfz24282.html#</idno>
+               </person>
+               <person xml:id="emt_person_id__643">
+                  <persName>Hörwart (Herwart) von Hohenburg, Johann Heinrich von</persName>
+                  <idno type="URL">https://reichshofratsakten.de/wp-content/uploads/2016/11/Reichshofr%C3%A4tePdf_%C3%9Cberschriften.pdf</idno>
+               </person>
+               <person xml:id="emt_person_id__644">
+                  <persName>Braunschweig-Lüneburg-Celle, Georg Wilhelm von</persName>
+                  <birth>
+                     <date notBefore="1624-01-01" notAfter="1624-12-31">1624</date>
+                  </birth>
+                  <death>
+                     <date notBefore="1705-01-01" notAfter="1705-12-31">1705</date>
+                  </death>
+                  <idno type="GND">https://d-nb.info/gnd/119200767</idno>
+                  <idno type="NDB">https://www.deutsche-biographie.de/sfz35691.html#index</idno>
+                  <idno type="WIKIDATA">http://www.wikidata.org/entity/Q61574</idno>
+                  <figure>
+                     <graphic url="emt_person_id__644.jpg"/>
+                     <caption>Georg-Wilhelm.jpg</caption>
+                  </figure>
+               </person>
+               <person xml:id="emt_person_id__645">
+                  <persName>Telles da Silva, Fernan, Conde de Vilar Maior</persName>
+                  <birth>
+                     <date notBefore="1662-01-01" notAfter="1662-12-31">1662</date>
+                  </birth>
+                  <death>
+                     <date notBefore="1734-01-01" notAfter="1734-12-31">1734</date>
+                  </death>
+                  <idno type="URL">https://www.geni.com/people/Fernando-Teles-da-Silva/6000000014349044578</idno>
+               </person>
+               <person xml:id="emt_person_id__646">
+                  <persName>Fieger von Hirschberg, Johann Karl</persName>
+                  <death>
+                     <date notBefore="1707-01-01" notAfter="1707-12-31">1707</date>
+                  </death>
+                  <idno type="URL">https://de.wikipedia.org/wiki/Fieger_(Adelsgeschlecht)</idno>
+               </person>
+               <person xml:id="emt_person_id__647">
+                  <persName>Täsch, Peter</persName>
+               </person>
+               <person xml:id="emt_person_id__648">
+                  <persName>Österreich, Sigismund Franz von</persName>
+                  <birth>
+                     <date notBefore="1630-01-01" notAfter="1630-12-31">1630</date>
+                  </birth>
+                  <death>
+                     <date notBefore="1665-01-01" notAfter="1665-12-31">1665</date>
+                  </death>
+                  <idno type="GND">https://d-nb.info/gnd/117654108</idno>
+                  <idno type="NDB">https://www.deutsche-biographie.de/sfz52373.html#index</idno>
+                  <idno type="WIKIDATA">http://www.wikidata.org/entity/Q94393</idno>
+                  <figure>
+                     <graphic url="emt_person_id__648.jpg"/>
+                     <caption>Giovanni Maria Morandi 002.jpg</caption>
+                  </figure>
+               </person>
+               <person xml:id="emt_person_id__649">
+                  <persName>Beer, Aaron</persName>
+               </person>
+               <person xml:id="emt_person_id__650">
+                  <persName>Mercy, Peter Ernst von</persName>
+                  <birth>
+                     <date notBefore="1641-01-01" notAfter="1641-12-31">1641</date>
+                  </birth>
+                  <death>
+                     <date notBefore="1686-01-01" notAfter="1686-12-31">1686</date>
+                  </death>
+                  <idno type="URL">https://de.wikipedia.org/wiki/Liste_der_kaiserlichen_Generale_der_Fr%C3%BChen_Neuzeit/M</idno>
+               </person>
+               <person xml:id="emt_person_id__651">
+                  <persName>Oberbefehlshaber Osmanen 1686</persName>
+               </person>
+               <person xml:id="emt_person_id__652">
+                  <persName>Braunschweig (Welfen), Haus</persName>
+               </person>
+               <person xml:id="emt_person_id__653">
+                  <persName>Lamberg, Judith Rebekka von, geb. Wrbna</persName>
+                  <birth>
+                     <date notBefore="1612-01-01" notAfter="1612-12-31">1612</date>
+                  </birth>
+                  <death>
+                     <date notBefore="1690-01-01" notAfter="1690-12-31">1690</date>
+                  </death>
+                  <idno type="GND">https://d-nb.info/gnd/101886850X</idno>
+                  <idno type="NDB">https://www.deutsche-biographie.de/pnd101886850X.html#index</idno>
+               </person>
+               <person xml:id="emt_person_id__654">
+                  <persName>Colonna von Völs, Maria Elisabeth, geb. Scherffenberg</persName>
+                  <birth>
+                     <date notBefore="1638-01-01" notAfter="1638-12-31">1638</date>
+                  </birth>
+                  <death>
+                     <date notBefore="1709-01-01" notAfter="1709-12-31">1709</date>
+                  </death>
+               </person>
+               <person xml:id="emt_person_id__655">
+                  <persName>Colonna von Völs, Johann Franz</persName>
+                  <death>
+                     <date notBefore="1681-01-01" notAfter="1681-12-31">1681</date>
+                  </death>
+               </person>
+               <person xml:id="emt_person_id__656">
+                  <persName>Pálffy, Maria Eleonora, geb. Harrach</persName>
+                  <birth>
+                     <date notBefore="1623-01-01" notAfter="1623-12-31">1623</date>
+                  </birth>
+                  <death>
+                     <date notBefore="1693-01-01" notAfter="1693-12-31">1693</date>
+                  </death>
+                  <idno type="GND">https://d-nb.info/gnd/1154580628</idno>
+                  <idno type="NDB">https://www.deutsche-biographie.de/pnd1154580628.html#index</idno>
+                  <idno type="URL">https://kaiserhof.geschichte.lmu.de/17530</idno>
+               </person>
+               <person xml:id="emt_person_id__657">
+                  <persName>Pálffy, Nikolaus (Miklos)</persName>
+                  <birth>
+                     <date notBefore="1619-01-01" notAfter="1619-12-31">1619</date>
+                  </birth>
+                  <death>
+                     <date notBefore="1679-01-01" notAfter="1679-12-31">1679</date>
+                  </death>
+                  <idno type="GND">https://d-nb.info/gnd/1016756046</idno>
+                  <idno type="NDB">https://www.deutsche-biographie.de/pnd1016756046.html#index</idno>
+               </person>
+               <person xml:id="emt_person_id__658">
+                  <persName>Harrach, Franziska von, geb. Eggenberg</persName>
+                  <birth>
+                     <date notBefore="1602-01-01" notAfter="1602-12-31">1602</date>
+                  </birth>
+                  <death>
+                     <date notBefore="1676-01-01" notAfter="1676-12-31">1676</date>
+                  </death>
+                  <idno type="URL">https://kaiserhof.geschichte.lmu.de/10490</idno>
+               </person>
+               <person xml:id="emt_person_id__659">
+                  <persName>Eleonora, geb. Gonzaga</persName>
+                  <birth>
+                     <date notBefore="1598-01-01" notAfter="1598-12-31">1598</date>
+                  </birth>
+                  <death>
+                     <date notBefore="1655-01-01" notAfter="1655-12-31">1655</date>
+                  </death>
+                  <idno type="GND">https://d-nb.info/gnd/104086491</idno>
+                  <idno type="NDB">https://www.deutsche-biographie.de/sfz15434.html#index</idno>
+               </person>
+               <person xml:id="emt_person_id__660">
+                  <persName>Schiefer, "Junge" bei Bruder Friedrich</persName>
+               </person>
+               <person xml:id="emt_person_id__661">
+                  <persName>Schiefer, Vater des bei Bruder Friedrich dienenden Jungen</persName>
                </person>
             </listPerson>
          </div>

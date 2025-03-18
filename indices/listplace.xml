@@ -1575,6 +1575,9 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                   <placeName>Schütt, Insel</placeName>
                   <idno type="GND">https://d-nb.info/gnd/4254661-8</idno>
                </place>
+               <place xml:id="emt_place_id__251">
+                  <placeName>Venedig (Stadt)</placeName>
+               </place>
             </listPlace>
          </div>
       </body>

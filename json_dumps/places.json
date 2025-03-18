@@ -3613,5 +3613,20 @@
     "alternative_name": "",
     "wikidata_url": "",
     "unidentifiziert": false
+  },
+  "251": {
+    "id": 251,
+    "order": "246.00000000000000000000",
+    "name": "Venedig (Stadt)",
+    "geonames": "",
+    "emt_id": "emt_place_id__251",
+    "place_type": null,
+    "lat": null,
+    "long": null,
+    "comments intern": "",
+    "gnd": "",
+    "alternative_name": "",
+    "wikidata_url": "",
+    "unidentifiziert": false
   }
 }
