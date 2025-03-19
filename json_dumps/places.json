@@ -3628,5 +3628,35 @@
     "alternative_name": "",
     "wikidata_url": "",
     "unidentifiziert": false
+  },
+  "252": {
+    "id": 252,
+    "order": "247.00000000000000000000",
+    "name": "Cleve",
+    "geonames": "",
+    "emt_id": "emt_place_id__252",
+    "place_type": null,
+    "lat": null,
+    "long": null,
+    "comments intern": "",
+    "gnd": "",
+    "alternative_name": "",
+    "wikidata_url": "",
+    "unidentifiziert": false
+  },
+  "253": {
+    "id": 253,
+    "order": "248.00000000000000000000",
+    "name": "Wien, Kloster Sankt Jakob auf der Hülben",
+    "geonames": "",
+    "emt_id": "emt_place_id__253",
+    "place_type": null,
+    "lat": null,
+    "long": null,
+    "comments intern": "",
+    "gnd": "",
+    "alternative_name": "",
+    "wikidata_url": "",
+    "unidentifiziert": false
   }
 }

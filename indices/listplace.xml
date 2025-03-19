@@ -1578,6 +1578,12 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                <place xml:id="emt_place_id__251">
                   <placeName>Venedig (Stadt)</placeName>
                </place>
+               <place xml:id="emt_place_id__252">
+                  <placeName>Cleve</placeName>
+               </place>
+               <place xml:id="emt_place_id__253">
+                  <placeName>Wien, Kloster Sankt Jakob auf der Hülben</placeName>
+               </place>
             </listPlace>
          </div>
       </body>

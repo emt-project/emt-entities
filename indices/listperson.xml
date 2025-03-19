@@ -5585,6 +5585,25 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                <person xml:id="emt_person_id__661">
                   <persName>Schiefer, Vater des bei Bruder Friedrich dienenden Jungen</persName>
                </person>
+               <person xml:id="emt_person_id__662">
+                  <persName>NN, soll Hofmeister von Bruder Philipp werden 1686</persName>
+               </person>
+               <person xml:id="emt_person_id__663">
+                  <persName>Waldstein, Maria Theresia von, geb. Losenstein</persName>
+                  <birth>
+                     <date notBefore="1666-01-01" notAfter="1666-12-31">1666</date>
+                  </birth>
+                  <death>
+                     <date notBefore="1729-01-01" notAfter="1729-12-31">1729</date>
+                  </death>
+                  <idno type="URL">https://kaiserhof.geschichte.lmu.de/13026</idno>
+               </person>
+               <person xml:id="emt_person_id__664">
+                  <persName>Weichs, Herr von 1686</persName>
+               </person>
+               <person xml:id="emt_person_id__665">
+                  <persName>Arco, Gaetana</persName>
+               </person>
             </listPerson>
          </div>
       </body>

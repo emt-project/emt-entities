@@ -205,8 +205,15 @@
   "30": {
     "id": 30,
     "order": "30.00000000000000000000",
-    "name": "",
+    "name": "Orden \"Sklavinnen der Tugend\"",
     "gnd": "",
     "emt_id": "emt_institution_id__30"
+  },
+  "31": {
+    "id": 31,
+    "order": "31.00000000000000000000",
+    "name": "Sternkreuzorden",
+    "gnd": "",
+    "emt_id": "emt_institution_id__31"
   }
 }
