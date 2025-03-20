@@ -3658,5 +3658,20 @@
     "alternative_name": "",
     "wikidata_url": "",
     "unidentifiziert": false
+  },
+  "254": {
+    "id": 254,
+    "order": "249.00000000000000000000",
+    "name": "Litauen, Großfürstentum",
+    "geonames": "",
+    "emt_id": "emt_place_id__254",
+    "place_type": null,
+    "lat": null,
+    "long": null,
+    "comments intern": "",
+    "gnd": "https://d-nb.info/gnd/4499060-1",
+    "alternative_name": "",
+    "wikidata_url": "",
+    "unidentifiziert": false
   }
 }

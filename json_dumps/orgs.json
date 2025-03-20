@@ -215,5 +215,12 @@
     "name": "Sternkreuzorden",
     "gnd": "",
     "emt_id": "emt_institution_id__31"
+  },
+  "32": {
+    "id": 32,
+    "order": "32.00000000000000000000",
+    "name": "Domkapitel zu Augsburg",
+    "gnd": "",
+    "emt_id": "emt_institution_id__32"
   }
 }

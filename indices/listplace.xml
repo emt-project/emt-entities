@@ -1584,6 +1584,10 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                <place xml:id="emt_place_id__253">
                   <placeName>Wien, Kloster Sankt Jakob auf der Hülben</placeName>
                </place>
+               <place xml:id="emt_place_id__254">
+                  <placeName>Litauen, Großfürstentum</placeName>
+                  <idno type="GND">https://d-nb.info/gnd/4499060-1</idno>
+               </place>
             </listPlace>
          </div>
       </body>

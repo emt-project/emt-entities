@@ -2295,7 +2295,7 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                   <idno type="URL">https://www.treccani.it/enciclopedia/giustinian-ascanio-detto-giulio_(Dizionario-Biografico)/?search=GIUSTINIAN%2C%20Ascanio%2C%20detto%20Giulio</idno>
                </person>
                <person xml:id="emt_person_id__219">
-                  <persName>Innozenz IX. (Odeschalchi)</persName>
+                  <persName>Innozenz XI. (Odeschalchi)</persName>
                   <birth>
                      <date notBefore="1611-01-01" notAfter="1611-12-31">1611</date>
                   </birth>
@@ -5331,7 +5331,7 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                   <persName>Ehefrau des Dr. Schweizer (1693 bereits verstorben)</persName>
                </person>
                <person xml:id="emt_person_id__625">
-                  <persName>Hofmeister von Oels (der Kurfürstin Elisabeth Amalia, 1693)</persName>
+                  <persName>Hofmeister von Oels / Eltz (der Kurfürstin Elisabeth Amalia, ab 1693)</persName>
                </person>
                <person xml:id="emt_person_id__626">
                   <persName>Fugger, Maria Agnes Magdalena 1694</persName>
@@ -5603,6 +5603,58 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                </person>
                <person xml:id="emt_person_id__665">
                   <persName>Arco, Gaetana</persName>
+               </person>
+               <person xml:id="emt_person_id__666">
+                  <persName>Vehlen, Alexander Otto von</persName>
+                  <birth>
+                     <date notBefore="1657-01-01" notAfter="1657-12-31">1657</date>
+                  </birth>
+                  <death>
+                     <date notBefore="1727-01-01" notAfter="1727-12-31">1727</date>
+                  </death>
+                  <idno type="GND">https://d-nb.info/gnd/102930257X</idno>
+                  <idno type="NDB">https://www.deutsche-biographie.de/pnd102930257X.html</idno>
+                  <idno type="WIKIDATA">http://www.wikidata.org/entity/Q94887808</idno>
+               </person>
+               <person xml:id="emt_person_id__667">
+                  <persName>Innozenz XII. (Pignatelli)</persName>
+                  <birth>
+                     <date notBefore="1615-01-01" notAfter="1615-12-31">1615</date>
+                  </birth>
+                  <death>
+                     <date notBefore="1700-01-01" notAfter="1700-12-31">1700</date>
+                  </death>
+                  <idno type="GND">https://d-nb.info/gnd/118920758</idno>
+                  <idno type="NDB">https://www.deutsche-biographie.de/pnd118920758.html#index</idno>
+                  <idno type="WIKIDATA">http://www.wikidata.org/entity/Q132708</idno>
+                  <figure>
+                     <graphic url="emt_person_id__667.jpg"/>
+                     <caption>Antonio Zanchi – Papa Innocenzo XII.jpg</caption>
+                  </figure>
+               </person>
+               <person xml:id="emt_person_id__668">
+                  <persName>Bucelleni von Reichenberg, Julius Friedrich von</persName>
+                  <birth>
+                     <date notBefore="1639-01-01" notAfter="1639-12-31">1639</date>
+                  </birth>
+                  <death>
+                     <date notBefore="1712-01-01" notAfter="1712-12-31">1712</date>
+                  </death>
+                  <idno type="GND">https://d-nb.info/gnd/142942502</idno>
+                  <idno type="NDB">https://www.deutsche-biographie.de/pnd142942502.html?language=en</idno>
+               </person>
+               <person xml:id="emt_person_id__669">
+                  <persName>Hofmeisterin der Kurfürstin Elisabeth Amalia 1694</persName>
+               </person>
+               <person xml:id="emt_person_id__670">
+                  <persName>Hamilton, Maria Sophia geb. von Weichs</persName>
+                  <death>
+                     <date notBefore="1698-01-01" notAfter="1698-12-31">1698</date>
+                  </death>
+                  <idno type="URL">https://de.wikipedia.org/wiki/Jakob_von_Hamilton#Familie</idno>
+               </person>
+               <person xml:id="emt_person_id__671">
+                  <persName>Welsberg, NN</persName>
                </person>
             </listPerson>
          </div>
