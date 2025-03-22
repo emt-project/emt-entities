@@ -5656,6 +5656,136 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                <person xml:id="emt_person_id__671">
                   <persName>Welsberg, NN</persName>
                </person>
+               <person xml:id="emt_person_id__672">
+                  <persName>Beichtvater von Kaiserin Eleonora Gonzaga-Nevers 1686</persName>
+               </person>
+               <person xml:id="emt_person_id__673">
+                  <persName>Ludwig von Frankreich</persName>
+                  <birth>
+                     <date notBefore="1682-01-01" notAfter="1682-12-31">1682</date>
+                  </birth>
+                  <death>
+                     <date notBefore="1712-01-01" notAfter="1712-12-31">1712</date>
+                  </death>
+                  <idno type="GND">https://d-nb.info/gnd/119544687</idno>
+                  <idno type="WIKIDATA">http://www.wikidata.org/entity/Q1127505</idno>
+                  <figure>
+                     <graphic url="emt_person_id__673.jpg"/>
+                     <caption>Louis Duc de Bourgogne.jpg</caption>
+                  </figure>
+               </person>
+               <person xml:id="emt_person_id__674">
+                  <persName>Philipp V. von Spanien</persName>
+                  <birth>
+                     <date notBefore="1683-01-01" notAfter="1683-12-31">1683</date>
+                  </birth>
+                  <death>
+                     <date notBefore="1746-01-01" notAfter="1746-12-31">1746</date>
+                  </death>
+                  <idno type="GND">https://d-nb.info/gnd/119186640</idno>
+                  <idno type="WIKIDATA">http://www.wikidata.org/entity/Q170467</idno>
+                  <figure>
+                     <graphic url="emt_person_id__674.jpg"/>
+                     <caption>Felipe V de España.jpg</caption>
+                  </figure>
+               </person>
+               <person xml:id="emt_person_id__675">
+                  <persName>Karl von Frankreich</persName>
+                  <birth>
+                     <date notBefore="1686-01-01" notAfter="1686-12-31">1686</date>
+                  </birth>
+                  <death>
+                     <date notBefore="1714-01-01" notAfter="1714-12-31">1714</date>
+                  </death>
+                  <idno type="GND">https://d-nb.info/gnd/124580041</idno>
+                  <idno type="WIKIDATA">http://www.wikidata.org/entity/Q317929</idno>
+                  <figure>
+                     <graphic url="emt_person_id__675.jpg"/>
+                     <caption>Charles of France, Duke of Berry wearing the sash of the order of the Holy Spirit (18th century, Nicolas de Largillière) .jpg</caption>
+                  </figure>
+               </person>
+               <person xml:id="emt_person_id__676">
+                  <persName>Minato, Nicolò</persName>
+                  <death>
+                     <date notBefore="1698-01-01" notAfter="1698-12-31">1698</date>
+                  </death>
+                  <idno type="GND">https://d-nb.info/gnd/100213723</idno>
+                  <idno type="WIKIDATA">http://www.wikidata.org/entity/Q1987241</idno>
+                  <idno type="URL">https://dx.doi.org/10.1553/0x0001d9b1</idno>
+               </person>
+               <person xml:id="emt_person_id__677">
+                  <persName>Luti, Giovanni Battista OFM</persName>
+               </person>
+               <person xml:id="emt_person_id__678">
+                  <persName>Windischgrätz, Maria Theresia von, geb. Saurau</persName>
+                  <birth>
+                     <date notBefore="1657-01-01" notAfter="1657-12-31">1657</date>
+                  </birth>
+                  <death>
+                     <date notBefore="1713-01-01" notAfter="1713-12-31">1713</date>
+                  </death>
+                  <idno type="URL">https://de.wikipedia.org/wiki/Gottlieb_von_Windisch-Graetz#Familie</idno>
+               </person>
+               <person xml:id="emt_person_id__679">
+                  <persName>Beichtvater des Deutschmeister Ludwig Anton 1686</persName>
+               </person>
+               <person xml:id="emt_person_id__680">
+                  <persName>Geistlicher, der Kaplan bei Maria Sophia in Portugal werden könnte</persName>
+               </person>
+               <person xml:id="emt_person_id__681">
+                  <persName>Draghi, Antonio</persName>
+                  <birth>
+                     <date notBefore="1634-01-01" notAfter="1634-12-31">1634</date>
+                  </birth>
+                  <death>
+                     <date notBefore="1700-01-01" notAfter="1700-12-31">1700</date>
+                  </death>
+                  <idno type="GND">https://d-nb.info/gnd/118527169</idno>
+                  <idno type="WIKIDATA">http://www.wikidata.org/entity/Q601855</idno>
+                  <idno type="URL">https://dx.doi.org/10.1553/0x0001cbf9</idno>
+               </person>
+               <person xml:id="emt_person_id__682">
+                  <persName>Maler, der bald (Januar 1687) von Wien nach Venedig reisen wird</persName>
+               </person>
+               <person xml:id="emt_person_id__683">
+                  <persName>Madlen (?), Frau 1687</persName>
+               </person>
+               <person xml:id="emt_person_id__684">
+                  <persName>Nikerlin, Frau, 1687 im Hofstaat EMT</persName>
+               </person>
+               <person xml:id="emt_person_id__685">
+                  <persName>Sicola, Amedeo</persName>
+               </person>
+               <person xml:id="emt_person_id__686">
+                  <persName>Wirz, wahrscheinlich Leibarzt 1687</persName>
+               </person>
+               <person xml:id="emt_person_id__687">
+                  <persName>Tänzer aus Frankreich 1687</persName>
+               </person>
+               <person xml:id="emt_person_id__688">
+                  <persName>Speroni (Muzzi), Giovanni Battista</persName>
+                  <idno type="GND">https://d-nb.info/gnd/1044058781</idno>
+                  <idno type="URL">https://www.musiklexikon.ac.at/ml/musik_S/Speroni_Giovanni.xml</idno>
+               </person>
+               <person xml:id="emt_person_id__689">
+                  <persName>Galli, Herr, wohl Musiker von PW 1687</persName>
+               </person>
+               <person xml:id="emt_person_id__690">
+                  <persName>Margelle, Gottfried Ulrich de la</persName>
+                  <birth>
+                     <date notBefore="1635-01-01" notAfter="1635-12-31">1635</date>
+                  </birth>
+                  <death>
+                     <date notBefore="1703-01-01" notAfter="1703-12-31">1703</date>
+                  </death>
+                  <idno type="GND">https://d-nb.info/gnd/17333914X</idno>
+                  <idno type="NDB">https://www.deutsche-biographie.de/pnd17333914X.html#index</idno>
+                  <idno type="WIKIDATA">http://www.wikidata.org/entity/Q1340906</idno>
+                  <idno type="URL">https://www.catholic-hierarchy.org/bishop/bdlmarg.html</idno>
+               </person>
+               <person xml:id="emt_person_id__691">
+                  <persName>"Granpasteur von firsten" 1694</persName>
+               </person>
             </listPerson>
          </div>
       </body>

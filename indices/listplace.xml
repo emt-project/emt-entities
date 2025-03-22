@@ -496,9 +496,6 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                   </location>
                   <idno type="GEONAMES">https://sws.geonames.org/2761369/</idno>
                </place>
-               <place xml:id="emt_place_id__65">
-                  <placeName>Wien ?</placeName>
-               </place>
                <place xml:id="emt_place_id__66">
                   <placeName>Wiener Neustadt</placeName>
                   <location type="coords">
@@ -648,6 +645,7 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                   <location type="coords">
                      <geo>41.89193 12.511330</geo>
                   </location>
+                  <idno type="GND">https://d-nb.info/gnd/4114201-9</idno>
                </place>
                <place xml:id="emt_place_id__91">
                   <placeName>Köln, Erzstift</placeName>
@@ -1163,10 +1161,15 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                   <idno type="GEONAMES">https://sws.geonames.org/6354998/</idno>
                </place>
                <place xml:id="emt_place_id__171">
-                  <placeName>Wien, großer Garten des Kaisers 1682</placeName>
+                  <placeName>Wien, Augarten</placeName>
+                  <location type="coords">
+                     <geo>48.22583 16.377780</geo>
+                  </location>
+                  <idno type="GEONAMES">https://sws.geonames.org/3322733/</idno>
                </place>
                <place xml:id="emt_place_id__172">
                   <placeName>Schlesien</placeName>
+                  <idno type="GND">https://d-nb.info/gnd/4052678-1</idno>
                </place>
                <place xml:id="emt_place_id__173">
                   <placeName>Philippsburg</placeName>
@@ -1195,6 +1198,7 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                   <location type="coords">
                      <geo>48.56904 13.470200</geo>
                   </location>
+                  <idno type="GND">https://d-nb.info/gnd/4476139-9</idno>
                </place>
                <place xml:id="emt_place_id__178">
                   <placeName>Pfaffenhofen an der Ilm</placeName>
@@ -1471,9 +1475,17 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                </place>
                <place xml:id="emt_place_id__227">
                   <placeName>Wien, Kloster Sankt Lorenz</placeName>
+                  <location type="coords">
+                     <geo>48.21052 16.378580</geo>
+                  </location>
+                  <idno type="GEONAMES">https://sws.geonames.org/12501021/</idno>
                </place>
                <place xml:id="emt_place_id__228">
-                  <placeName>Oßek in Ungarn</placeName>
+                  <placeName>Essek / Osijek</placeName>
+                  <location type="coords">
+                     <geo>45.55111 18.693890</geo>
+                  </location>
+                  <idno type="GEONAMES">https://sws.geonames.org/3193935/</idno>
                </place>
                <place xml:id="emt_place_id__229">
                   <placeName>Königrat</placeName>
@@ -1494,16 +1506,28 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                   <idno type="GND">https://d-nb.info/gnd/4066889-7</idno>
                </place>
                <place xml:id="emt_place_id__232">
-                  <placeName>Kaschau</placeName>
+                  <placeName>Kaschau / Košice</placeName>
+                  <location type="coords">
+                     <geo>48.71395 21.258080</geo>
+                  </location>
+                  <idno type="GEONAMES">https://sws.geonames.org/724443/</idno>
                </place>
                <place xml:id="emt_place_id__233">
                   <placeName>Adrianopel / Edirne</placeName>
                </place>
                <place xml:id="emt_place_id__234">
                   <placeName>Szolnok</placeName>
+                  <location type="coords">
+                     <geo>47.18333 20.200000</geo>
+                  </location>
+                  <idno type="GEONAMES">https://sws.geonames.org/715126/</idno>
                </place>
                <place xml:id="emt_place_id__235">
                   <placeName>Eger / Erlau</placeName>
+                  <location type="coords">
+                     <geo>47.90265 20.373290</geo>
+                  </location>
+                  <idno type="GEONAMES">https://sws.geonames.org/721239/</idno>
                </place>
                <place xml:id="emt_place_id__236">
                   <placeName>Heimbach im Herzogtum Jülich</placeName>
@@ -1515,6 +1539,7 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                </place>
                <place xml:id="emt_place_id__237">
                   <placeName>Geldern / Gelderland</placeName>
+                  <idno type="GND">https://d-nb.info/gnd/4019896-0</idno>
                </place>
                <place xml:id="emt_place_id__238">
                   <placeName>Rom (Stadt)</placeName>
@@ -1535,9 +1560,11 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                </place>
                <place xml:id="emt_place_id__241">
                   <placeName>Pfalz-Neuburg, Herzogtum</placeName>
+                  <idno type="GND">https://d-nb.info/gnd/4045461-7</idno>
                </place>
                <place xml:id="emt_place_id__242">
                   <placeName>Braunschweig-Lüneburg, Kurfürstentum (Hannover)</placeName>
+                  <idno type="GND">https://d-nb.info/gnd/1342457072</idno>
                </place>
                <place xml:id="emt_place_id__243">
                   <placeName>Vereinigte Niederlande / Generalstaaten, Republik</placeName>
@@ -1553,6 +1580,10 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                </place>
                <place xml:id="emt_place_id__245">
                   <placeName>Stuhlweißenburg / Székesfehérvár</placeName>
+                  <location type="coords">
+                     <geo>47.18995 18.410340</geo>
+                  </location>
+                  <idno type="GEONAMES">https://sws.geonames.org/3044774/</idno>
                </place>
                <place xml:id="emt_place_id__246">
                   <placeName>Lüttich, Bistum</placeName>
@@ -1560,6 +1591,7 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                </place>
                <place xml:id="emt_place_id__247">
                   <placeName>Savoyen, Herzogtum</placeName>
+                  <idno type="GND">https://d-nb.info/gnd/4051850-4</idno>
                </place>
                <place xml:id="emt_place_id__248">
                   <placeName>Trier, Erzbistum / Kurfürstentum</placeName>
@@ -1577,9 +1609,17 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                </place>
                <place xml:id="emt_place_id__251">
                   <placeName>Venedig (Stadt)</placeName>
+                  <location type="coords">
+                     <geo>45.43713 12.332650</geo>
+                  </location>
+                  <idno type="GEONAMES">https://sws.geonames.org/3164603/</idno>
                </place>
                <place xml:id="emt_place_id__252">
-                  <placeName>Cleve</placeName>
+                  <placeName>Kleve</placeName>
+                  <location type="coords">
+                     <geo>51.78826 6.138650</geo>
+                  </location>
+                  <idno type="GEONAMES">https://sws.geonames.org/2887835/</idno>
                </place>
                <place xml:id="emt_place_id__253">
                   <placeName>Wien, Kloster Sankt Jakob auf der Hülben</placeName>
@@ -1587,6 +1627,19 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                <place xml:id="emt_place_id__254">
                   <placeName>Litauen, Großfürstentum</placeName>
                   <idno type="GND">https://d-nb.info/gnd/4499060-1</idno>
+               </place>
+               <place xml:id="emt_place_id__255">
+                  <placeName>Loreto</placeName>
+                  <location type="coords">
+                     <geo>43.43617 13.612320</geo>
+                  </location>
+                  <idno type="GEONAMES">https://sws.geonames.org/3174567/</idno>
+               </place>
+               <place xml:id="emt_place_id__256">
+                  <placeName>Wien, Prater</placeName>
+               </place>
+               <place xml:id="emt_place_id__257">
+                  <placeName/>
                </place>
             </listPlace>
          </div>
