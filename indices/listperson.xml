@@ -5786,6 +5786,29 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                <person xml:id="emt_person_id__691">
                   <persName>"Granpasteur von firsten" 1694</persName>
                </person>
+               <person xml:id="emt_person_id__692">
+                  <persName>Wurmb, Herr 1687</persName>
+               </person>
+               <person xml:id="emt_person_id__693">
+                  <persName>La Vauguyon, André de Bétoulat de</persName>
+                  <birth>
+                     <date notBefore="1630-01-01" notAfter="1630-12-31">1630</date>
+                  </birth>
+                  <death>
+                     <date notBefore="1693-01-01" notAfter="1693-12-31">1693</date>
+                  </death>
+                  <idno type="URL">https://at.ambafrance.org/Les-Ambassadeurs-de-France-du-XVIIIeme-siecle-a-nos-jours</idno>
+               </person>
+               <person xml:id="emt_person_id__694">
+                  <persName>Stella, Herr 1687</persName>
+               </person>
+               <person xml:id="emt_person_id__695">
+                  <persName>Vischer, Herr 1687</persName>
+               </person>
+               <person xml:id="emt_person_id__696">
+                  <persName>Massucci, Eleonora</persName>
+                  <idno type="URL">https://viecpro.oeaw.ac.at/persons/263622</idno>
+               </person>
             </listPerson>
          </div>
       </body>

@@ -1556,7 +1556,7 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                   <idno type="GND">https://d-nb.info/gnd/1122138016</idno>
                </place>
                <place xml:id="emt_place_id__240">
-                  <placeName/>
+                  <placeName>Rovereto</placeName>
                </place>
                <place xml:id="emt_place_id__241">
                   <placeName>Pfalz-Neuburg, Herzogtum</placeName>
@@ -1639,7 +1639,11 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                   <placeName>Wien, Prater</placeName>
                </place>
                <place xml:id="emt_place_id__257">
-                  <placeName/>
+                  <placeName>Germersheim</placeName>
+                  <location type="coords">
+                     <geo>49.21440 8.366870</geo>
+                  </location>
+                  <idno type="GEONAMES">https://sws.geonames.org/2921034/</idno>
                </place>
             </listPlace>
          </div>
