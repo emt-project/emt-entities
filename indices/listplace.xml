@@ -1645,6 +1645,12 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                   </location>
                   <idno type="GEONAMES">https://sws.geonames.org/2921034/</idno>
                </place>
+               <place xml:id="emt_place_id__258">
+                  <placeName>Karlsbad</placeName>
+               </place>
+               <place xml:id="emt_place_id__259">
+                  <placeName>Nikolsburg / Mikulov</placeName>
+               </place>
             </listPlace>
          </div>
       </body>

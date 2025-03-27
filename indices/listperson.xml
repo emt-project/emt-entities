@@ -5388,7 +5388,16 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                   <persName>Berchtram, Herr 1685</persName>
                </person>
                <person xml:id="emt_person_id__638">
-                  <persName>Freitag, Herr 1686</persName>
+                  <persName>Frydag von Gödens, Franz Heinrich</persName>
+                  <birth>
+                     <date notBefore="1643-01-01" notAfter="1643-12-31">1643</date>
+                  </birth>
+                  <death>
+                     <date notBefore="1694-01-01" notAfter="1694-12-31">1694</date>
+                  </death>
+                  <idno type="GND">https://d-nb.info/gnd/116790016</idno>
+                  <idno type="NDB">https://www.deutsche-biographie.de/sfz42355.html</idno>
+                  <idno type="URL">https://de.wikipedia.org/wiki/Frydag_(Adelsgeschlecht)</idno>
                </person>
                <person xml:id="emt_person_id__639">
                   <persName>Sormani, Pier Marino OFM</persName>
@@ -5808,6 +5817,110 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                <person xml:id="emt_person_id__696">
                   <persName>Massucci, Eleonora</persName>
                   <idno type="URL">https://viecpro.oeaw.ac.at/persons/263622</idno>
+               </person>
+               <person xml:id="emt_person_id__697">
+                  <persName>Brandenburg, Ludwig von</persName>
+                  <birth>
+                     <date notBefore="1666-01-01" notAfter="1666-12-31">1666</date>
+                  </birth>
+                  <death>
+                     <date notBefore="1687-01-01" notAfter="1687-12-31">1687</date>
+                  </death>
+                  <idno type="GND">https://d-nb.info/gnd/104183152</idno>
+                  <idno type="WIKIDATA">http://www.wikidata.org/entity/Q824990</idno>
+                  <figure>
+                     <graphic url="emt_person_id__697.jpg"/>
+                     <caption>LudwigvonBrandenburg.JPG</caption>
+                  </figure>
+               </person>
+               <person xml:id="emt_person_id__698">
+                  <persName>Hamel Bruynincx, Gerard</persName>
+                  <death>
+                     <date notBefore="1692-01-01" notAfter="1692-12-31">1692</date>
+                  </death>
+                  <idno type="URL">http://www.biografischportaal.nl/persoon/33019680</idno>
+               </person>
+               <person xml:id="emt_person_id__699">
+                  <persName>Michael Korybut Wiśniowiecki von Polen</persName>
+                  <birth>
+                     <date notBefore="1640-01-01" notAfter="1640-12-31">1640</date>
+                  </birth>
+                  <death>
+                     <date notBefore="1673-01-01" notAfter="1673-12-31">1673</date>
+                  </death>
+                  <idno type="GND">https://d-nb.info/gnd/119333945</idno>
+                  <idno type="WIKIDATA">http://www.wikidata.org/entity/Q54041</idno>
+                  <figure>
+                     <graphic url="emt_person_id__699.jpg"/>
+                     <caption>King Michael Korybut Wisniowiecki.jpg</caption>
+                  </figure>
+               </person>
+               <person xml:id="emt_person_id__700">
+                  <persName>Agricola, hat 1687 mit Oper in Düsseldorf zu tun</persName>
+               </person>
+               <person xml:id="emt_person_id__701">
+                  <persName>Caprara, Enea Silvio</persName>
+                  <birth>
+                     <date notBefore="1631-01-01" notAfter="1631-12-31">1631</date>
+                  </birth>
+                  <death>
+                     <date notBefore="1701-01-01" notAfter="1701-12-31">1701</date>
+                  </death>
+                  <idno type="GND">https://d-nb.info/gnd/116448210</idno>
+                  <idno type="NDB">https://www.deutsche-biographie.de/sfz7881.html#</idno>
+               </person>
+               <person xml:id="emt_person_id__702">
+                  <persName>Kollonitsch, Anna Maria Theresia</persName>
+                  <idno type="URL">https://viecpro.oeaw.ac.at/persons/70666</idno>
+               </person>
+               <person xml:id="emt_person_id__703">
+                  <persName>Künigl von Ehrenburg, Anna Maria</persName>
+                  <birth>
+                     <date notBefore="1657-01-01" notAfter="1657-12-31">1657</date>
+                  </birth>
+                  <death>
+                     <date notBefore="1727-01-01" notAfter="1727-12-31">1727</date>
+                  </death>
+                  <idno type="URL">https://de.wikipedia.org/wiki/Stammliste_der_K%C3%BCnigl</idno>
+               </person>
+               <person xml:id="emt_person_id__704">
+                  <persName>Martinitz, Maximilian Guidobald von</persName>
+                  <birth>
+                     <date notBefore="1664-01-01" notAfter="1664-12-31">1664</date>
+                  </birth>
+                  <death>
+                     <date notBefore="1733-01-01" notAfter="1733-12-31">1733</date>
+                  </death>
+                  <idno type="GND">https://d-nb.info/gnd/116811013</idno>
+                  <idno type="NDB">https://www.deutsche-biographie.de/pnd116811013.html#index</idno>
+                  <idno type="WIKIDATA">http://www.wikidata.org/entity/Q94860366</idno>
+                  <idno type="URL">https://viecpro.oeaw.ac.at/persons/293866</idno>
+               </person>
+               <person xml:id="emt_person_id__705">
+                  <persName>Herwart, Pater (1687)</persName>
+               </person>
+               <person xml:id="emt_person_id__706">
+                  <persName>Jesuit, Prokurator der böhmischen Provinz 1687</persName>
+               </person>
+               <person xml:id="emt_person_id__707">
+                  <persName>Fugger, Magdalena Theresia, vereh. Mollard</persName>
+                  <death>
+                     <date notBefore="1713-01-01" notAfter="1713-12-31">1713</date>
+                  </death>
+                  <idno type="URL">https://viecpro.oeaw.ac.at/persons/252422</idno>
+               </person>
+               <person xml:id="emt_person_id__708">
+                  <persName>Dietrichstein, Maria Dorothea von, geb. Salm</persName>
+                  <birth>
+                     <date notBefore="1667-01-01" notAfter="1667-12-31">1667</date>
+                  </birth>
+                  <death>
+                     <date notBefore="1732-01-01" notAfter="1732-12-31">1732</date>
+                  </death>
+               </person>
+               <person xml:id="emt_person_id__709">
+                  <persName>Gombaud de la Guiletterie, Amador</persName>
+                  <idno type="URL">https://germania-sacra-datenbank.uni-goettingen.de/index/gsn/048-02443-001</idno>
                </person>
             </listPerson>
          </div>

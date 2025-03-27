@@ -3703,5 +3703,35 @@
     "alternative_name": "",
     "wikidata_url": "",
     "unidentifiziert": false
+  },
+  "258": {
+    "id": 258,
+    "order": "253.00000000000000000000",
+    "name": "Karlsbad",
+    "geonames": "",
+    "emt_id": "emt_place_id__258",
+    "place_type": null,
+    "lat": null,
+    "long": null,
+    "comments intern": "",
+    "gnd": "",
+    "alternative_name": "",
+    "wikidata_url": "",
+    "unidentifiziert": false
+  },
+  "259": {
+    "id": 259,
+    "order": "254.00000000000000000000",
+    "name": "Nikolsburg / Mikulov",
+    "geonames": "",
+    "emt_id": "emt_place_id__259",
+    "place_type": null,
+    "lat": null,
+    "long": null,
+    "comments intern": "",
+    "gnd": "",
+    "alternative_name": "",
+    "wikidata_url": "",
+    "unidentifiziert": false
   }
 }
