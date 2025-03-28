@@ -3733,5 +3733,50 @@
     "alternative_name": "",
     "wikidata_url": "",
     "unidentifiziert": false
+  },
+  "260": {
+    "id": 260,
+    "order": "255.00000000000000000000",
+    "name": "Wien, Himmelpfortkloster (St. Agnes)",
+    "geonames": "",
+    "emt_id": "emt_place_id__260",
+    "place_type": null,
+    "lat": null,
+    "long": null,
+    "comments intern": "https://www.geschichtewiki.wien.gv.at/Himmelpfortkloster",
+    "gnd": "",
+    "alternative_name": "",
+    "wikidata_url": "",
+    "unidentifiziert": false
+  },
+  "261": {
+    "id": 261,
+    "order": "256.00000000000000000000",
+    "name": "Siklos",
+    "geonames": "",
+    "emt_id": "emt_place_id__261",
+    "place_type": null,
+    "lat": null,
+    "long": null,
+    "comments intern": "",
+    "gnd": "",
+    "alternative_name": "",
+    "wikidata_url": "",
+    "unidentifiziert": false
+  },
+  "262": {
+    "id": 262,
+    "order": "257.00000000000000000000",
+    "name": "Kroatien",
+    "geonames": "",
+    "emt_id": "emt_place_id__262",
+    "place_type": null,
+    "lat": null,
+    "long": null,
+    "comments intern": "",
+    "gnd": "",
+    "alternative_name": "",
+    "wikidata_url": "",
+    "unidentifiziert": false
   }
 }

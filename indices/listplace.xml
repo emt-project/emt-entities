@@ -1651,6 +1651,15 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                <place xml:id="emt_place_id__259">
                   <placeName>Nikolsburg / Mikulov</placeName>
                </place>
+               <place xml:id="emt_place_id__260">
+                  <placeName>Wien, Himmelpfortkloster (St. Agnes)</placeName>
+               </place>
+               <place xml:id="emt_place_id__261">
+                  <placeName>Siklos</placeName>
+               </place>
+               <place xml:id="emt_place_id__262">
+                  <placeName>Kroatien</placeName>
+               </place>
             </listPlace>
          </div>
       </body>

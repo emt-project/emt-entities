@@ -2200,7 +2200,7 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                   <idno type="URL">https://de.wikisource.org/wiki/BLK%C3%96:Wangen_die_Freiherren_von,_Genealogie</idno>
                </person>
                <person xml:id="emt_person_id__209">
-                  <persName>Isidorus</persName>
+                  <persName>Isidorus OFM Carm</persName>
                </person>
                <person xml:id="emt_person_id__210">
                   <persName>Spinola de los Balbases, Paolo</persName>
@@ -5143,7 +5143,7 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                   </figure>
                </person>
                <person xml:id="emt_person_id__604">
-                  <persName>Rietberg und Ostfreisland, Christian Eberhard von</persName>
+                  <persName>Rietberg und Ostfriesland, Christian Eberhard von</persName>
                   <birth>
                      <date notBefore="1665-01-01" notAfter="1665-12-31">1665</date>
                   </birth>
@@ -5388,7 +5388,7 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                   <persName>Berchtram, Herr 1685</persName>
                </person>
                <person xml:id="emt_person_id__638">
-                  <persName>Frydag von Gödens, Franz Heinrich</persName>
+                  <persName>Frydag (Freitag) von Gödens, Franz Heinrich</persName>
                   <birth>
                      <date notBefore="1643-01-01" notAfter="1643-12-31">1643</date>
                   </birth>
@@ -5921,6 +5921,123 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                <person xml:id="emt_person_id__709">
                   <persName>Gombaud de la Guiletterie, Amador</persName>
                   <idno type="URL">https://germania-sacra-datenbank.uni-goettingen.de/index/gsn/048-02443-001</idno>
+               </person>
+               <person xml:id="emt_person_id__710">
+                  <persName>Savoyen-Carignan, Eugen von</persName>
+                  <birth>
+                     <date notBefore="1663-01-01" notAfter="1663-12-31">1663</date>
+                  </birth>
+                  <death>
+                     <date notBefore="1736-01-01" notAfter="1736-12-31">1736</date>
+                  </death>
+                  <idno type="GND">https://d-nb.info/gnd/118605941</idno>
+                  <idno type="NDB">https://www.deutsche-biographie.de/sfz52925.html#index</idno>
+                  <idno type="WIKIDATA">http://www.wikidata.org/entity/Q152428</idno>
+                  <figure>
+                     <graphic url="emt_person_id__710.jpg"/>
+                     <caption>Godfrey Kneller Eugen von Savoyen 1712.jpg</caption>
+                  </figure>
+               </person>
+               <person xml:id="emt_person_id__711">
+                  <persName>Veterani, Friedrich von</persName>
+                  <death>
+                     <date notBefore="1695-01-01" notAfter="1695-12-31">1695</date>
+                  </death>
+                  <idno type="GND">https://d-nb.info/gnd/124825907</idno>
+                  <idno type="NDB">https://www.deutsche-biographie.de/sfz83711.html#index</idno>
+                  <idno type="WIKIDATA">http://www.wikidata.org/entity/Q17353056</idno>
+                  <figure>
+                     <graphic url="emt_person_id__711.jpg"/>
+                     <caption>Friedrich Graf Veterani - bust.jpg</caption>
+                  </figure>
+               </person>
+               <person xml:id="emt_person_id__712">
+                  <persName>Kurland, Friedrich II. Kasimir Kettler von</persName>
+                  <birth>
+                     <date notBefore="1650-01-01" notAfter="1650-12-31">1650</date>
+                  </birth>
+                  <death>
+                     <date notBefore="1698-01-01" notAfter="1698-12-31">1698</date>
+                  </death>
+                  <idno type="GND">https://d-nb.info/gnd/124762123</idno>
+                  <idno type="NDB">https://www.deutsche-biographie.de/sfz35620.html#index</idno>
+                  <idno type="WIKIDATA">http://www.wikidata.org/entity/Q177095</idno>
+                  <figure>
+                     <graphic url="emt_person_id__712.jpg"/>
+                     <caption>Frederick Casimir Kettler duke of Courland.jpg</caption>
+                  </figure>
+               </person>
+               <person xml:id="emt_person_id__713">
+                  <persName>Kurland, Luise Charlotte von, geb. Brandenburg</persName>
+                  <birth>
+                     <date notBefore="1617-01-01" notAfter="1617-12-31">1617</date>
+                  </birth>
+                  <death>
+                     <date notBefore="1676-01-01" notAfter="1676-12-31">1676</date>
+                  </death>
+                  <idno type="GND">https://d-nb.info/gnd/135569893</idno>
+                  <idno type="WIKIDATA">http://www.wikidata.org/entity/Q433010</idno>
+                  <figure>
+                     <graphic url="emt_person_id__713.jpg"/>
+                     <caption>Luize sharlote.jpg</caption>
+                  </figure>
+               </person>
+               <person xml:id="emt_person_id__714">
+                  <persName>Perseus, gibt 1687 Mitteilung über Gesundung des Deutschmeisters</persName>
+               </person>
+               <person xml:id="emt_person_id__715">
+                  <persName>Rustem Pascha</persName>
+               </person>
+               <person xml:id="emt_person_id__716">
+                  <persName>Maria Columba von Santa Teresa</persName>
+               </person>
+               <person xml:id="emt_person_id__717">
+                  <persName>Rietberg und Ostfriesland, Franz Adolph Wilhelm von</persName>
+                  <birth>
+                     <date notBefore="1651-01-01" notAfter="1651-12-31">1651</date>
+                  </birth>
+                  <death>
+                     <date notBefore="1690-01-01" notAfter="1690-12-31">1690</date>
+                  </death>
+                  <idno type="GND">https://d-nb.info/gnd/139261745</idno>
+                  <idno type="NDB">https://www.deutsche-biographie.de/sfzR4452-3.html#index</idno>
+                  <idno type="WIKIDATA">http://www.wikidata.org/entity/Q11219557</idno>
+               </person>
+               <person xml:id="emt_person_id__718">
+                  <persName>Ferdinand III.</persName>
+                  <birth>
+                     <date notBefore="1608-01-01" notAfter="1608-12-31">1608</date>
+                  </birth>
+                  <death>
+                     <date notBefore="1657-01-01" notAfter="1657-12-31">1657</date>
+                  </death>
+                  <idno type="GND">https://d-nb.info/gnd/118532529</idno>
+                  <idno type="NDB">https://www.deutsche-biographie.de/sfz69770.html#index</idno>
+                  <idno type="WIKIDATA">http://www.wikidata.org/entity/Q150575</idno>
+                  <figure>
+                     <graphic url="emt_person_id__718.jpg"/>
+                     <caption>Frans Luycx 002 - Emperor Ferdinand III.jpg</caption>
+                  </figure>
+               </person>
+               <person xml:id="emt_person_id__719">
+                  <persName>Hohenzollern, Graf von, Domherr in Köln 1687</persName>
+               </person>
+               <person xml:id="emt_person_id__720">
+                  <persName/>
+               </person>
+               <person xml:id="emt_person_id__721">
+                  <persName>Markgraf (von Baden?), Domherr in Köln 1687</persName>
+               </person>
+               <person xml:id="emt_person_id__722">
+                  <persName>Ranuzzi, Angelo Maria</persName>
+                  <birth>
+                     <date notBefore="1626-01-01" notAfter="1626-12-31">1626</date>
+                  </birth>
+                  <death>
+                     <date notBefore="1689-01-01" notAfter="1689-12-31">1689</date>
+                  </death>
+                  <idno type="GND">https://d-nb.info/gnd/119303981</idno>
+                  <idno type="URL">https://cardinals.fiu.edu/bios1686.htm#Ranuzzi</idno>
                </person>
             </listPerson>
          </div>
