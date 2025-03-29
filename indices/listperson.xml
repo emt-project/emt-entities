@@ -3974,6 +3974,7 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                   </death>
                   <idno type="GND">https://d-nb.info/gnd/119386445</idno>
                   <idno type="WIKIDATA">http://www.wikidata.org/entity/Q715243</idno>
+                  <idno type="URL">https://www.treccani.it/enciclopedia/francesco-ii-d-este-duca-di-modena-e-reggio_(Dizionario-Biografico)/</idno>
                   <figure>
                      <graphic url="emt_person_id__426.jpg"/>
                      <caption>Ritratto di Francesco II d'Este.png</caption>
@@ -5624,6 +5625,7 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                   <idno type="GND">https://d-nb.info/gnd/102930257X</idno>
                   <idno type="NDB">https://www.deutsche-biographie.de/pnd102930257X.html</idno>
                   <idno type="WIKIDATA">http://www.wikidata.org/entity/Q94887808</idno>
+                  <idno type="URL">https://de.wikipedia.org/wiki/Alexander_Otto_von_Velen</idno>
                </person>
                <person xml:id="emt_person_id__667">
                   <persName>Innozenz XII. (Pignatelli)</persName>
@@ -6023,7 +6025,19 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                   <persName>Hohenzollern, Graf von, Domherr in Köln 1687</persName>
                </person>
                <person xml:id="emt_person_id__720">
-                  <persName/>
+                  <persName>Villars, Claude Louis Hector de</persName>
+                  <birth>
+                     <date notBefore="1653-01-01" notAfter="1653-12-31">1653</date>
+                  </birth>
+                  <death>
+                     <date notBefore="1734-01-01" notAfter="1734-12-31">1734</date>
+                  </death>
+                  <idno type="GND">https://d-nb.info/gnd/118804618</idno>
+                  <idno type="WIKIDATA">http://www.wikidata.org/entity/Q158654</idno>
+                  <figure>
+                     <graphic url="emt_person_id__720.jpg"/>
+                     <caption>0 'Le maréchal de Villars' - Rigaud - Vaux-le-Vicomte.jpg</caption>
+                  </figure>
                </person>
                <person xml:id="emt_person_id__721">
                   <persName>Markgraf (von Baden?), Domherr in Köln 1687</persName>
@@ -6038,6 +6052,72 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                   </death>
                   <idno type="GND">https://d-nb.info/gnd/119303981</idno>
                   <idno type="URL">https://cardinals.fiu.edu/bios1686.htm#Ranuzzi</idno>
+               </person>
+               <person xml:id="emt_person_id__723">
+                  <persName>Mayersheim, Johann Friedrich von</persName>
+                  <death>
+                     <date notBefore="1708-01-01" notAfter="1708-12-31">1708</date>
+                  </death>
+                  <idno type="URL">https://viecpro.oeaw.ac.at/persons/165118</idno>
+               </person>
+               <person xml:id="emt_person_id__724">
+                  <persName>Aspremont-Lynden und Reckheim, Franz Gobert</persName>
+                  <birth>
+                     <date notBefore="1649-01-01" notAfter="1649-12-31">1649</date>
+                  </birth>
+                  <death>
+                     <date notBefore="1703-01-01" notAfter="1703-12-31">1703</date>
+                  </death>
+                  <idno type="URL">https://www.sn.at/wiki/Franz_Gobert_Graf_von_Aspermont-Reckheim</idno>
+               </person>
+               <person xml:id="emt_person_id__725">
+                  <persName>Baden-Baden, Maria Magdalena von, geb. Oettingen-Baldern</persName>
+                  <birth>
+                     <date notBefore="1619-01-01" notAfter="1619-12-31">1619</date>
+                  </birth>
+                  <death>
+                     <date notBefore="1688-01-01" notAfter="1688-12-31">1688</date>
+                  </death>
+                  <idno type="GND">https://d-nb.info/gnd/1201434998</idno>
+                  <idno type="NDB">https://www.deutsche-biographie.de/pnd1201434998.html#index</idno>
+                  <idno type="URL">https://de.wikipedia.org/wiki/Maria_Magdalena_von_Oettingen-Baldern</idno>
+               </person>
+               <person xml:id="emt_person_id__726">
+                  <persName>Cloudi, Herr 1687</persName>
+               </person>
+               <person xml:id="emt_person_id__727">
+                  <persName>Sternberg, Adolf Wratislaw von</persName>
+                  <birth>
+                     <date notBefore="1627-01-01" notAfter="1627-12-31">1627</date>
+                  </birth>
+                  <death>
+                     <date notBefore="1703-01-01" notAfter="1703-12-31">1703</date>
+                  </death>
+                  <idno type="GND">https://d-nb.info/gnd/136018599</idno>
+                  <idno type="NDB">https://www.deutsche-biographie.de/sfz41713.html#index</idno>
+               </person>
+               <person xml:id="emt_person_id__728">
+                  <persName>Kaunitz, Maria Eleonore von, geb. Sternberg</persName>
+                  <birth>
+                     <date notBefore="1657-01-01" notAfter="1657-12-31">1657</date>
+                  </birth>
+                  <death>
+                     <date notBefore="1706-01-01" notAfter="1706-12-31">1706</date>
+                  </death>
+                  <idno type="URL">https://kaiserhof.geschichte.lmu.de/13280</idno>
+               </person>
+               <person xml:id="emt_person_id__729">
+                  <persName>Vehlen, Frau von</persName>
+               </person>
+               <person xml:id="emt_person_id__730">
+                  <persName>Lezay de Lusignan, Claude Hugues de</persName>
+                  <birth>
+                     <date notBefore="1633-01-01" notAfter="1633-12-31">1633</date>
+                  </birth>
+                  <death>
+                     <date notBefore="1707-01-01" notAfter="1707-12-31">1707</date>
+                  </death>
+                  <idno type="URL">https://austria-forum.org/af/AustriaWiki/Liste_der_franz%C3%B6sischen_Botschafter_in_%C3%96sterreich</idno>
                </person>
             </listPerson>
          </div>

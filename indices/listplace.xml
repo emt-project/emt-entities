@@ -1660,6 +1660,18 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                <place xml:id="emt_place_id__262">
                   <placeName>Kroatien</placeName>
                </place>
+               <place xml:id="emt_place_id__263">
+                  <placeName>Orth an der Donau</placeName>
+               </place>
+               <place xml:id="emt_place_id__264">
+                  <placeName>March, Fluss</placeName>
+               </place>
+               <place xml:id="emt_place_id__265">
+                  <placeName>Parma, Herzogtum</placeName>
+               </place>
+               <place xml:id="emt_place_id__266">
+                  <placeName>Turin</placeName>
+               </place>
             </listPlace>
          </div>
       </body>
