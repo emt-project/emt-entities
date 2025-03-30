@@ -3107,7 +3107,7 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                   <persName>Markgraf, der 1682 im Fasching in Wien ein Fest hält</persName>
                </person>
                <person xml:id="emt_person_id__319">
-                  <persName>Egloff, Sohn des Herrn von</persName>
+                  <persName>Egloff, Sohn des Herrn von, 1682</persName>
                </person>
                <person xml:id="emt_person_id__320">
                   <persName>Egloff, verstorbene Frau von 1682</persName>
@@ -6118,6 +6118,47 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                      <date notBefore="1707-01-01" notAfter="1707-12-31">1707</date>
                   </death>
                   <idno type="URL">https://austria-forum.org/af/AustriaWiki/Liste_der_franz%C3%B6sischen_Botschafter_in_%C3%96sterreich</idno>
+               </person>
+               <person xml:id="emt_person_id__731">
+                  <persName>Wels, Frau von, 1687</persName>
+               </person>
+               <person xml:id="emt_person_id__732">
+                  <persName>Holas /Holos, Herr, 1687</persName>
+               </person>
+               <person xml:id="emt_person_id__733">
+                  <persName>Kargs /Karch, Herr, 1688</persName>
+               </person>
+               <person xml:id="emt_person_id__734">
+                  <persName>Leydl, Johann Baptist</persName>
+                  <death>
+                     <date notBefore="1691-01-01" notAfter="1691-12-31">1691</date>
+                  </death>
+                  <idno type="GND">https://d-nb.info/gnd/136669689</idno>
+                  <idno type="NDB">https://www.deutsche-biographie.de/pnd136669689.html?language=en#</idno>
+               </person>
+               <person xml:id="emt_person_id__735">
+                  <persName>Jörger von Tollet, Juliana Dorothea</persName>
+                  <idno type="URL">https://viecpro.oeaw.ac.at/persons/258143</idno>
+               </person>
+               <person xml:id="emt_person_id__736">
+                  <persName>Hessen-Darmstadt, Georg von</persName>
+                  <birth>
+                     <date notBefore="1669-01-01" notAfter="1669-12-31">1669</date>
+                  </birth>
+                  <death>
+                     <date notBefore="1705-01-01" notAfter="1705-12-31">1705</date>
+                  </death>
+                  <idno type="GND">https://d-nb.info/gnd/128670606</idno>
+                  <idno type="NDB">https://www.deutsche-biographie.de/sfz20407.html#index</idno>
+                  <idno type="WIKIDATA">http://www.wikidata.org/entity/Q689289</idno>
+                  <idno type="URL">https://www.lagis-hessen.de/pnd/128670606</idno>
+                  <figure>
+                     <graphic url="emt_person_id__736.jpg"/>
+                     <caption>After Thomas Murray - George of Hesse-Darmstadt - Government Art Collection.jpg</caption>
+                  </figure>
+               </person>
+               <person xml:id="emt_person_id__737">
+                  <persName>Archinto, Filippo</persName>
                </person>
             </listPerson>
          </div>
