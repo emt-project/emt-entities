@@ -1514,6 +1514,10 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                </place>
                <place xml:id="emt_place_id__233">
                   <placeName>Adrianopel / Edirne</placeName>
+                  <location type="coords">
+                     <geo>41.67719 26.555970</geo>
+                  </location>
+                  <idno type="GEONAMES">https://sws.geonames.org/747712/</idno>
                </place>
                <place xml:id="emt_place_id__234">
                   <placeName>Szolnok</placeName>
@@ -1557,6 +1561,10 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                </place>
                <place xml:id="emt_place_id__240">
                   <placeName>Rovereto</placeName>
+                  <location type="coords">
+                     <geo>45.89040 11.040530</geo>
+                  </location>
+                  <idno type="GEONAMES">https://sws.geonames.org/3168854/</idno>
                </place>
                <place xml:id="emt_place_id__241">
                   <placeName>Pfalz-Neuburg, Herzogtum</placeName>
@@ -1623,6 +1631,10 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                </place>
                <place xml:id="emt_place_id__253">
                   <placeName>Wien, Kloster Sankt Jakob auf der Hülben</placeName>
+                  <location type="coords">
+                     <geo>48.20702 16.378140</geo>
+                  </location>
+                  <idno type="GEONAMES">https://sws.geonames.org/12495773/</idno>
                </place>
                <place xml:id="emt_place_id__254">
                   <placeName>Litauen, Großfürstentum</placeName>
@@ -1637,6 +1649,10 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                </place>
                <place xml:id="emt_place_id__256">
                   <placeName>Wien, Prater</placeName>
+                  <location type="coords">
+                     <geo>48.20609 16.411690</geo>
+                  </location>
+                  <idno type="GEONAMES">https://sws.geonames.org/3322725/</idno>
                </place>
                <place xml:id="emt_place_id__257">
                   <placeName>Germersheim</placeName>
@@ -1647,30 +1663,67 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                </place>
                <place xml:id="emt_place_id__258">
                   <placeName>Karlsbad</placeName>
+                  <location type="coords">
+                     <geo>50.23271 12.871170</geo>
+                  </location>
+                  <idno type="GEONAMES">https://sws.geonames.org/3073803/</idno>
                </place>
                <place xml:id="emt_place_id__259">
                   <placeName>Nikolsburg / Mikulov</placeName>
+                  <location type="coords">
+                     <geo>48.80556 16.637800</geo>
+                  </location>
+                  <idno type="GEONAMES">https://sws.geonames.org/3070720/</idno>
                </place>
                <place xml:id="emt_place_id__260">
                   <placeName>Wien, Himmelpfortkloster (St. Agnes)</placeName>
+                  <location type="coords">
+                     <geo>48.20600 16.372620</geo>
+                  </location>
+                  <idno type="GEONAMES">https://sws.geonames.org/12500522/</idno>
                </place>
                <place xml:id="emt_place_id__261">
                   <placeName>Siklos</placeName>
+                  <location type="coords">
+                     <geo>45.85499 18.297520</geo>
+                  </location>
+                  <idno type="GEONAMES">https://sws.geonames.org/3045364/</idno>
                </place>
                <place xml:id="emt_place_id__262">
                   <placeName>Kroatien</placeName>
+                  <idno type="GND">https://d-nb.info/gnd/4073841-3</idno>
                </place>
                <place xml:id="emt_place_id__263">
                   <placeName>Orth an der Donau</placeName>
+                  <location type="coords">
+                     <geo>48.14524 16.700890</geo>
+                  </location>
+                  <idno type="GEONAMES">https://sws.geonames.org/2769409/</idno>
                </place>
                <place xml:id="emt_place_id__264">
                   <placeName>March, Fluss</placeName>
+                  <location type="coords">
+                     <geo>48.16667 16.983330</geo>
+                  </location>
+                  <idno type="GEONAMES">https://sws.geonames.org/2771972/</idno>
                </place>
                <place xml:id="emt_place_id__265">
                   <placeName>Parma, Herzogtum</placeName>
+                  <idno type="GND">https://d-nb.info/gnd/4283585-9</idno>
                </place>
                <place xml:id="emt_place_id__266">
                   <placeName>Turin</placeName>
+                  <location type="coords">
+                     <geo>45.07049 7.686820</geo>
+                  </location>
+                  <idno type="GEONAMES">https://sws.geonames.org/3165524/</idno>
+               </place>
+               <place xml:id="emt_place_id__267">
+                  <placeName/>
+               </place>
+               <place xml:id="emt_place_id__268">
+                  <placeName>Toskana, Großherzogtum</placeName>
+                  <idno type="GND">https://d-nb.info/gnd/4119667-3</idno>
                </place>
             </listPlace>
          </div>

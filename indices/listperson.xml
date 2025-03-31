@@ -6126,7 +6126,21 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                   <persName>Holas /Holos, Herr, 1687</persName>
                </person>
                <person xml:id="emt_person_id__733">
-                  <persName>Kargs /Karch, Herr, 1688</persName>
+                  <persName>Karg von Bebenburg, Johann Friedrich</persName>
+                  <birth>
+                     <date notBefore="1648-01-01" notAfter="1648-12-31">1648</date>
+                  </birth>
+                  <death>
+                     <date notBefore="1719-01-01" notAfter="1719-12-31">1719</date>
+                  </death>
+                  <idno type="GND">https://d-nb.info/gnd/119550016</idno>
+                  <idno type="NDB">https://www.deutsche-biographie.de/sfz39859.html#index</idno>
+                  <idno type="WIKIDATA">http://www.wikidata.org/entity/Q1693595</idno>
+                  <idno type="URL">https://www.rheinische-geschichte.lvr.de/Persoenlichkeiten/johann-friedrich-karg-von-bebenburg/DE-2086/lido/57c931e4b8d144.90457396</idno>
+                  <figure>
+                     <graphic url="emt_person_id__733.jpg"/>
+                     <caption>Johann Friedrich Ignaz Karg Freiherr von Bebenburg.jpg</caption>
+                  </figure>
                </person>
                <person xml:id="emt_person_id__734">
                   <persName>Leydl, Johann Baptist</persName>
@@ -6159,6 +6173,33 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                </person>
                <person xml:id="emt_person_id__737">
                   <persName>Archinto, Filippo</persName>
+               </person>
+               <person xml:id="emt_person_id__738">
+                  <persName>Soler, Herr 1688</persName>
+               </person>
+               <person xml:id="emt_person_id__739">
+                  <persName>Prediger in Wien 1688</persName>
+               </person>
+               <person xml:id="emt_person_id__740">
+                  <persName>Pierucci, Pietro</persName>
+               </person>
+               <person xml:id="emt_person_id__741">
+                  <persName>Süleyman II.</persName>
+                  <birth>
+                     <date notBefore="1642-01-01" notAfter="1642-12-31">1642</date>
+                  </birth>
+                  <death>
+                     <date notBefore="1691-01-01" notAfter="1691-12-31">1691</date>
+                  </death>
+                  <idno type="GND">https://d-nb.info/gnd/122838068</idno>
+                  <idno type="WIKIDATA">http://www.wikidata.org/entity/Q172061</idno>
+                  <figure>
+                     <graphic url="emt_person_id__741.jpg"/>
+                     <caption>Süleyman II.jpg</caption>
+                  </figure>
+               </person>
+               <person xml:id="emt_person_id__742">
+                  <persName>Peyegra, Manuel</persName>
                </person>
             </listPerson>
          </div>
