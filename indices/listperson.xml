@@ -6201,6 +6201,48 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                <person xml:id="emt_person_id__742">
                   <persName>Peyegra, Manuel</persName>
                </person>
+               <person xml:id="emt_person_id__743">
+                  <persName>Windischgrätz, Eberhardina Eleonora Sophie von</persName>
+                  <birth>
+                     <date notBefore="1668-01-01" notAfter="1668-12-31">1668</date>
+                  </birth>
+                  <death>
+                     <date notBefore="1724-01-01" notAfter="1724-12-31">1724</date>
+                  </death>
+                  <idno type="URL">https://de.wikipedia.org/wiki/Gottlieb_von_Windisch-Graetz</idno>
+               </person>
+               <person xml:id="emt_person_id__744">
+                  <persName>Sipi (Sixi?) von Stuhlweißenburg / Székesfehérvár 1688</persName>
+               </person>
+               <person xml:id="emt_person_id__745">
+                  <persName>Starhemberg, Helena Dorothea von, geb. Starhemberg</persName>
+                  <birth>
+                     <date notBefore="1634-01-01" notAfter="1634-12-31">1634</date>
+                  </birth>
+                  <death>
+                     <date notBefore="1688-01-01" notAfter="1688-12-31">1688</date>
+                  </death>
+                  <idno type="URL">https://kaiserhof.geschichte.lmu.de/10357</idno>
+               </person>
+               <person xml:id="emt_person_id__746">
+                  <persName>Yvelin de Roquemont, Sieur 1688</persName>
+               </person>
+               <person xml:id="emt_person_id__747">
+                  <persName>Marsiglio, Herr, reist 1688 nach Rom</persName>
+               </person>
+               <person xml:id="emt_person_id__748">
+                  <persName>Waßenhofen, Pater, 1688 in Wien</persName>
+               </person>
+               <person xml:id="emt_person_id__749">
+                  <persName>Frydag (Freitag) von Gödens, Haro Burchard</persName>
+                  <birth>
+                     <date notBefore="1640-01-01" notAfter="1640-12-31">1640</date>
+                  </birth>
+                  <death>
+                     <date notBefore="1692-01-01" notAfter="1692-12-31">1692</date>
+                  </death>
+                  <idno type="URL">https://www.jewiki.net/wiki/Frydag_(Adelsgeschlecht)</idno>
+               </person>
             </listPerson>
          </div>
       </body>

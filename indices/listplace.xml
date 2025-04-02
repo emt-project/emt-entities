@@ -329,7 +329,7 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                   <idno type="GEONAMES">https://sws.geonames.org/2866070/</idno>
                </place>
                <place xml:id="emt_place_id__40">
-                  <placeName>Neustadt an der Haardt ?</placeName>
+                  <placeName>Neustadt an der Haardt</placeName>
                   <location type="coords">
                      <geo>49.35009 8.138860</geo>
                   </location>
@@ -1719,11 +1719,17 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                   <idno type="GEONAMES">https://sws.geonames.org/3165524/</idno>
                </place>
                <place xml:id="emt_place_id__267">
-                  <placeName/>
+                  <placeName>Heidelberg, Kapuzinerkloster</placeName>
                </place>
                <place xml:id="emt_place_id__268">
                   <placeName>Toskana, Großherzogtum</placeName>
                   <idno type="GND">https://d-nb.info/gnd/4119667-3</idno>
+               </place>
+               <place xml:id="emt_place_id__269">
+                  <placeName>Siebenbürgen</placeName>
+               </place>
+               <place xml:id="emt_place_id__270">
+                  <placeName>Hildesheim, Bistum</placeName>
                </place>
             </listPlace>
          </div>
