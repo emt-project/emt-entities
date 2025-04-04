@@ -2770,7 +2770,7 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                   <idno type="URL">https://sv.wikipedia.org/wiki/Gabriel_Oxenstierna_(1642%E2%80%931707)</idno>
                </person>
                <person xml:id="emt_person_id__275">
-                  <persName>Braunschweig-Hannover, Sophie Charlotte von, vereh. Brandenburg-Preußen</persName>
+                  <persName>Braunschweig-Lüneburg (Hannover), Sophie Charlotte von, vereh. Brandenburg-Preußen</persName>
                   <birth>
                      <date notBefore="1668-01-01" notAfter="1668-12-31">1668</date>
                   </birth>
@@ -5795,7 +5795,7 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                   <idno type="URL">https://www.catholic-hierarchy.org/bishop/bdlmarg.html</idno>
                </person>
                <person xml:id="emt_person_id__691">
-                  <persName>"Granpasteur von firsten" 1694</persName>
+                  <persName>"Granpasteur von firsten" / "Grand Pasteur" 1694</persName>
                </person>
                <person xml:id="emt_person_id__692">
                   <persName>Wurmb, Herr 1687</persName>
@@ -6228,7 +6228,7 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                   <persName>Yvelin de Roquemont, Sieur 1688</persName>
                </person>
                <person xml:id="emt_person_id__747">
-                  <persName>Marsiglio, Herr, reist 1688 nach Rom</persName>
+                  <persName>Marsiglio/Marsillo, Herr, reist 1688 nach Rom</persName>
                </person>
                <person xml:id="emt_person_id__748">
                   <persName>Waßenhofen, Pater, 1688 in Wien</persName>
@@ -6242,6 +6242,54 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                      <date notBefore="1692-01-01" notAfter="1692-12-31">1692</date>
                   </death>
                   <idno type="URL">https://www.jewiki.net/wiki/Frydag_(Adelsgeschlecht)</idno>
+               </person>
+               <person xml:id="emt_person_id__750">
+                  <persName>Schomberg (Schönberg), Friedrich von</persName>
+                  <birth>
+                     <date notBefore="1640-01-01" notAfter="1640-12-31">1640</date>
+                  </birth>
+                  <death>
+                     <date notBefore="1700-01-01" notAfter="1700-12-31">1700</date>
+                  </death>
+                  <idno type="GND">https://d-nb.info/gnd/121009351</idno>
+                  <idno type="WIKIDATA">http://www.wikidata.org/entity/Q61718</idno>
+                  <figure>
+                     <graphic url="emt_person_id__750.jpg"/>
+                     <caption>Adrian van der Werff Portrait Friedrich von Schomberg.jpg</caption>
+                  </figure>
+               </person>
+               <person xml:id="emt_person_id__751">
+                  <persName>Schomberg (Schönberg), Friedrich Hermann von</persName>
+                  <birth>
+                     <date notBefore="1615-01-01" notAfter="1615-12-31">1615</date>
+                  </birth>
+                  <death>
+                     <date notBefore="1690-01-01" notAfter="1690-12-31">1690</date>
+                  </death>
+                  <idno type="GND">https://d-nb.info/gnd/121009351</idno>
+                  <idno type="NDB">https://www.deutsche-biographie.de/sfz78956.html#index</idno>
+                  <idno type="WIKIDATA">http://www.wikidata.org/entity/Q61718</idno>
+                  <figure>
+                     <graphic url="emt_person_id__751.jpg"/>
+                     <caption>Adrian van der Werff Portrait Friedrich von Schomberg.jpg</caption>
+                  </figure>
+               </person>
+               <person xml:id="emt_person_id__752">
+                  <persName>Sickingen, NN von (1688)</persName>
+               </person>
+               <person xml:id="emt_person_id__753">
+                  <persName>Rossoni, Giulio</persName>
+               </person>
+               <person xml:id="emt_person_id__754">
+                  <persName>Braunschweig-Lüneburg (Hannover), Friedrich August von</persName>
+                  <birth>
+                     <date notBefore="1661-01-01" notAfter="1661-12-31">1661</date>
+                  </birth>
+                  <death>
+                     <date notBefore="1690-01-01" notAfter="1690-12-31">1690</date>
+                  </death>
+                  <idno type="GND">https://d-nb.info/gnd/118064819</idno>
+                  <idno type="NDB">https://www.deutsche-biographie.de/sfz122952.html#index</idno>
                </person>
             </listPerson>
          </div>

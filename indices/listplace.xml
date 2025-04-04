@@ -1731,6 +1731,30 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                <place xml:id="emt_place_id__270">
                   <placeName>Hildesheim, Bistum</placeName>
                </place>
+               <place xml:id="emt_place_id__271">
+                  <placeName>Lipa, Festung in Ungarn</placeName>
+               </place>
+               <place xml:id="emt_place_id__272">
+                  <placeName>Save, Fluss</placeName>
+               </place>
+               <place xml:id="emt_place_id__273">
+                  <placeName>Titel, Festung</placeName>
+                  <location type="coords">
+                     <geo>45.20611 20.294440</geo>
+                  </location>
+                  <idno type="GEONAMES">https://sws.geonames.org/785062/</idno>
+               </place>
+               <place xml:id="emt_place_id__274">
+                  <placeName/>
+               </place>
+               <place xml:id="emt_place_id__275">
+                  <placeName>Gent</placeName>
+                  <location type="coords">
+                     <geo>51.05000 3.716670</geo>
+                  </location>
+                  <idno type="GEONAMES">https://sws.geonames.org/2797656/</idno>
+                  <idno type="GND">https://d-nb.info/gnd/4020176-4</idno>
+               </place>
             </listPlace>
          </div>
       </body>
