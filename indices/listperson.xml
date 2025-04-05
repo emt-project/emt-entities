@@ -6291,6 +6291,13 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                   <idno type="GND">https://d-nb.info/gnd/118064819</idno>
                   <idno type="NDB">https://www.deutsche-biographie.de/sfz122952.html#index</idno>
                </person>
+               <person xml:id="emt_person_id__756">
+                  <persName>Starhemberg, Dorothea Polyxena von, geb. Scherffenberg</persName>
+               </person>
+               <person xml:id="emt_person_id__757">
+                  <persName>Strassoldo, Anna Dorothea</persName>
+                  <idno type="URL">https://viecpro.oeaw.ac.at/persons/71518</idno>
+               </person>
             </listPerson>
          </div>
       </body>

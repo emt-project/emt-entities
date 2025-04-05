@@ -1745,7 +1745,11 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                   <idno type="GEONAMES">https://sws.geonames.org/785062/</idno>
                </place>
                <place xml:id="emt_place_id__274">
-                  <placeName/>
+                  <placeName>Gradiška</placeName>
+                  <location type="coords">
+                     <geo>45.14484 17.254530</geo>
+                  </location>
+                  <idno type="GEONAMES">https://sws.geonames.org/3203656/</idno>
                </place>
                <place xml:id="emt_place_id__275">
                   <placeName>Gent</placeName>
@@ -1754,6 +1758,26 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                   </location>
                   <idno type="GEONAMES">https://sws.geonames.org/2797656/</idno>
                   <idno type="GND">https://d-nb.info/gnd/4020176-4</idno>
+               </place>
+               <place xml:id="emt_place_id__276">
+                  <placeName>Ilok</placeName>
+                  <location type="coords">
+                     <geo>45.22222 19.376940</geo>
+                  </location>
+                  <idno type="GEONAMES">https://sws.geonames.org/3199128/</idno>
+               </place>
+               <place xml:id="emt_place_id__277">
+                  <placeName>Peterwardein</placeName>
+                  <location type="coords">
+                     <geo>45.24667 19.879440</geo>
+                  </location>
+                  <idno type="GEONAMES">https://sws.geonames.org/3193406/</idno>
+               </place>
+               <place xml:id="emt_place_id__278">
+                  <placeName>Regensburg, Bistum</placeName>
+               </place>
+               <place xml:id="emt_place_id__279">
+                  <placeName>Freising, Bistum</placeName>
                </place>
             </listPlace>
          </div>
