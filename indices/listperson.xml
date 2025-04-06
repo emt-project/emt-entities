@@ -5122,7 +5122,15 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                   <persName>Irmans, Maria Susanna 1686</persName>
                </person>
                <person xml:id="emt_person_id__601">
-                  <persName>Eckh, Herr von 1686</persName>
+                  <persName>Eck von Hungersbach, Christian</persName>
+                  <birth>
+                     <date notBefore="1645-01-01" notAfter="1645-12-31">1645</date>
+                  </birth>
+                  <death>
+                     <date notBefore="1706-01-01" notAfter="1706-12-31">1706</date>
+                  </death>
+                  <idno type="GND">https://d-nb.info/gnd/1051948495</idno>
+                  <idno type="NDB">https://www.deutsche-biographie.de/1051948495.html</idno>
                </person>
                <person xml:id="emt_person_id__602">
                   <persName>Gültich, NN 1686</persName>
@@ -6297,6 +6305,34 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                <person xml:id="emt_person_id__757">
                   <persName>Strassoldo, Anna Dorothea</persName>
                   <idno type="URL">https://viecpro.oeaw.ac.at/persons/71518</idno>
+               </person>
+               <person xml:id="emt_person_id__758">
+                  <persName>Yeğen Osman (Giengieng) Pascha</persName>
+                  <death>
+                     <date notBefore="1689-01-01" notAfter="1689-12-31">1689</date>
+                  </death>
+                  <idno type="GND">https://d-nb.info/gnd/1089609841</idno>
+                  <idno type="WIKIDATA">http://www.wikidata.org/entity/Q18640000</idno>
+                  <figure>
+                     <graphic url="emt_person_id__758.jpg"/>
+                     <caption>Belgrad-1688-by Adlerschwung.jpg</caption>
+                  </figure>
+               </person>
+               <person xml:id="emt_person_id__759">
+                  <persName>Dohna-Schlobitten, Alexander von</persName>
+                  <birth>
+                     <date notBefore="1661-01-01" notAfter="1661-12-31">1661</date>
+                  </birth>
+                  <death>
+                     <date notBefore="1728-01-01" notAfter="1728-12-31">1728</date>
+                  </death>
+                  <idno type="GND">https://d-nb.info/gnd/116170964</idno>
+                  <idno type="NDB">https://www.deutsche-biographie.de/pnd116170964.html#indexcontent</idno>
+                  <idno type="WIKIDATA">http://www.wikidata.org/entity/Q72540</idno>
+                  <figure>
+                     <graphic url="emt_person_id__759.jpg"/>
+                     <caption>Dohna-Schlobitten, Alexander Burggraf und Graf zu (1661-1728)2.jpg</caption>
+                  </figure>
                </person>
             </listPerson>
          </div>
