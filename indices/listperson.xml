@@ -2332,6 +2332,7 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                   <death>
                      <date notBefore="1698-01-01" notAfter="1698-12-31">1698</date>
                   </death>
+                  <idno type="WIKIDATA">http://www.wikidata.org/entity/Q1922168</idno>
                   <idno type="URL">https://de.wikipedia.org/wiki/Jakob_von_Hamilton#Familie</idno>
                </person>
                <person xml:id="emt_person_id__224">
@@ -5665,13 +5666,6 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                <person xml:id="emt_person_id__669">
                   <persName>Hofmeisterin der Kurfürstin Elisabeth Amalia 1694</persName>
                </person>
-               <person xml:id="emt_person_id__670">
-                  <persName>Hamilton, Maria Sophia geb. von Weichs</persName>
-                  <death>
-                     <date notBefore="1698-01-01" notAfter="1698-12-31">1698</date>
-                  </death>
-                  <idno type="URL">https://de.wikipedia.org/wiki/Jakob_von_Hamilton#Familie</idno>
-               </person>
                <person xml:id="emt_person_id__671">
                   <persName>Welsberg, NN</persName>
                </person>
@@ -6332,6 +6326,82 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                   <figure>
                      <graphic url="emt_person_id__759.jpg"/>
                      <caption>Dohna-Schlobitten, Alexander Burggraf und Graf zu (1661-1728)2.jpg</caption>
+                  </figure>
+               </person>
+               <person xml:id="emt_person_id__760">
+                  <persName>Segneri SJ, Paolo</persName>
+                  <birth>
+                     <date notBefore="1673-01-01" notAfter="1673-12-31">1673</date>
+                  </birth>
+                  <death>
+                     <date notBefore="1713-01-01" notAfter="1713-12-31">1713</date>
+                  </death>
+                  <idno type="GND">https://d-nb.info/gnd/125827681X</idno>
+                  <idno type="WIKIDATA">http://www.wikidata.org/entity/Q104602578</idno>
+                  <idno type="URL">https://www.bbkl.de/index.php/frontend/lexicon/S/Sd-Sg/segneri-paolo-d-j-74166</idno>
+               </person>
+               <person xml:id="emt_person_id__761">
+                  <persName>Schönborn, Lothar Franz von</persName>
+                  <birth>
+                     <date notBefore="1655-01-01" notAfter="1655-12-31">1655</date>
+                  </birth>
+                  <death>
+                     <date notBefore="1729-01-01" notAfter="1729-12-31">1729</date>
+                  </death>
+                  <idno type="GND">https://d-nb.info/gnd/118729187</idno>
+                  <idno type="NDB">https://www.deutsche-biographie.de/pnd118729187.html#indexcontent</idno>
+                  <idno type="WIKIDATA">http://www.wikidata.org/entity/Q71715</idno>
+                  <figure>
+                     <graphic url="emt_person_id__761.jpg"/>
+                     <caption>Kurfürst Lothar Franz von Schönborn.jpg</caption>
+                  </figure>
+               </person>
+               <person xml:id="emt_person_id__762">
+                  <persName>Hedwig Eleonora von Schleswig-Holstein-Gottorf, vereh. Königin von Schweden</persName>
+                  <birth>
+                     <date notBefore="1636-01-01" notAfter="1636-12-31">1636</date>
+                  </birth>
+                  <death>
+                     <date notBefore="1715-01-01" notAfter="1715-12-31">1715</date>
+                  </death>
+                  <idno type="GND">https://d-nb.info/gnd/115616276</idno>
+                  <idno type="NDB">https://www.deutsche-biographie.de/pnd115616276.html#index</idno>
+                  <idno type="WIKIDATA">http://www.wikidata.org/entity/Q161322</idno>
+                  <figure>
+                     <graphic url="emt_person_id__762.jpg"/>
+                     <caption>Drottning Hedvig Eleonora (1661-1675).jpg</caption>
+                  </figure>
+               </person>
+               <person xml:id="emt_person_id__763">
+                  <persName>La Tour d'Auvergne, Emmanuel Théodose de (genannt Kardinal von Bouillon)</persName>
+                  <birth>
+                     <date notBefore="1643-01-01" notAfter="1643-12-31">1643</date>
+                  </birth>
+                  <death>
+                     <date notBefore="1715-01-01" notAfter="1715-12-31">1715</date>
+                  </death>
+                  <idno type="GND">https://d-nb.info/gnd/134105001</idno>
+                  <idno type="NDB">https://www.deutsche-biographie.de/pnd134105001.html#index</idno>
+                  <idno type="WIKIDATA">http://www.wikidata.org/entity/Q1338441</idno>
+                  <figure>
+                     <graphic url="emt_person_id__763.jpg"/>
+                     <caption>Baciccio Cardinal de Bouillon.jpg</caption>
+                  </figure>
+               </person>
+               <person xml:id="emt_person_id__764">
+                  <persName>Liechtenstein, Anton Florian</persName>
+                  <birth>
+                     <date notBefore="1656-01-01" notAfter="1656-12-31">1656</date>
+                  </birth>
+                  <death>
+                     <date notBefore="1721-01-01" notAfter="1721-12-31">1721</date>
+                  </death>
+                  <idno type="GND">https://d-nb.info/gnd/12429300X</idno>
+                  <idno type="NDB">https://www.deutsche-biographie.de/pnd12429300X.html#indexcontent</idno>
+                  <idno type="WIKIDATA">http://www.wikidata.org/entity/Q589374</idno>
+                  <figure>
+                     <graphic url="emt_person_id__764.jpg"/>
+                     <caption>Anton Florian v Liechtenstein.jpg</caption>
                   </figure>
                </person>
             </listPerson>
