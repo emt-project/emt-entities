@@ -6404,6 +6404,40 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                      <caption>Anton Florian v Liechtenstein.jpg</caption>
                   </figure>
                </person>
+               <person xml:id="emt_person_id__765">
+                  <persName>Zierowski von Zierowa, Johann Christoph</persName>
+                  <idno type="URL">https://daten.digitale-sammlungen.de/~db/bsb00000424/images/bsb00000424_00348.pdf</idno>
+               </person>
+               <person xml:id="emt_person_id__766">
+                  <persName>Sapieha, Haus</persName>
+               </person>
+               <person xml:id="emt_person_id__767">
+                  <persName>Radziwill, Georg Joseph</persName>
+                  <birth>
+                     <date notBefore="1668-01-01" notAfter="1668-12-31">1668</date>
+                  </birth>
+                  <death>
+                     <date notBefore="1689-01-01" notAfter="1689-12-31">1689</date>
+                  </death>
+                  <idno type="GND">https://d-nb.info/gnd/137674023</idno>
+                  <idno type="NDB">https://www.deutsche-biographie.de/pnd137674023.html?language=de</idno>
+               </person>
+               <person xml:id="emt_person_id__768">
+                  <persName>Radziwill, Karl Stanislaw</persName>
+                  <birth>
+                     <date notBefore="1669-01-01" notAfter="1669-12-31">1669</date>
+                  </birth>
+                  <death>
+                     <date notBefore="1719-01-01" notAfter="1719-12-31">1719</date>
+                  </death>
+                  <idno type="GND">https://d-nb.info/gnd/123548810</idno>
+                  <idno type="NDB">https://www.deutsche-biographie.de/sfz38557.html#index</idno>
+                  <idno type="WIKIDATA">http://www.wikidata.org/entity/Q1376676</idno>
+                  <figure>
+                     <graphic url="emt_person_id__768.jpg"/>
+                     <caption>Karol Stanisław Radziwiłł.JPG</caption>
+                  </figure>
+               </person>
             </listPerson>
          </div>
       </body>
