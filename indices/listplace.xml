@@ -588,11 +588,11 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                   <placeName>Erblande, habsburgische</placeName>
                </place>
                <place xml:id="emt_place_id__81">
-                  <placeName>Polen</placeName>
+                  <placeName>Polen, Königreich</placeName>
                   <location type="coords">
                      <geo>52.00000 20.000000</geo>
                   </location>
-                  <idno type="GEONAMES">https://sws.geonames.org/798544/</idno>
+                  <idno type="GND">https://d-nb.info/gnd/1060577984</idno>
                </place>
                <place xml:id="emt_place_id__82">
                   <placeName>Osnabrück, Stift</placeName>
@@ -1778,6 +1778,51 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                </place>
                <place xml:id="emt_place_id__279">
                   <placeName>Freising, Bistum</placeName>
+               </place>
+               <place xml:id="emt_place_id__280">
+                  <placeName>Bosanski Brod</placeName>
+                  <location type="coords">
+                     <geo>45.13747 17.987220</geo>
+                  </location>
+                  <idno type="GEONAMES">https://sws.geonames.org/3203651/</idno>
+               </place>
+               <place xml:id="emt_place_id__281">
+                  <placeName>Frankenthal</placeName>
+                  <location type="coords">
+                     <geo>49.53414 8.353570</geo>
+                  </location>
+                  <idno type="GEONAMES">https://sws.geonames.org/2925550/</idno>
+               </place>
+               <place xml:id="emt_place_id__282">
+                  <placeName>Wien, Dominikanerkloster Santa Maria Rotunda</placeName>
+               </place>
+               <place xml:id="emt_place_id__283">
+                  <placeName>Speyer</placeName>
+                  <location type="coords">
+                     <geo>49.32083 8.431110</geo>
+                  </location>
+                  <idno type="GEONAMES">https://sws.geonames.org/2830582/</idno>
+               </place>
+               <place xml:id="emt_place_id__284">
+                  <placeName>Oppenheim</placeName>
+                  <location type="coords">
+                     <geo>49.85470 8.359740</geo>
+                  </location>
+                  <idno type="GEONAMES">https://sws.geonames.org/2857167/</idno>
+               </place>
+               <place xml:id="emt_place_id__285">
+                  <placeName>Konstanz</placeName>
+                  <location type="coords">
+                     <geo>47.66033 9.175820</geo>
+                  </location>
+                  <idno type="GEONAMES">https://sws.geonames.org/2885679/</idno>
+               </place>
+               <place xml:id="emt_place_id__286">
+                  <placeName>Ulm</placeName>
+                  <location type="coords">
+                     <geo>48.39841 9.991550</geo>
+                  </location>
+                  <idno type="GEONAMES">https://sws.geonames.org/2820256/</idno>
                </place>
             </listPlace>
          </div>

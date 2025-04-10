@@ -6409,7 +6409,14 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                   <idno type="URL">https://daten.digitale-sammlungen.de/~db/bsb00000424/images/bsb00000424_00348.pdf</idno>
                </person>
                <person xml:id="emt_person_id__766">
-                  <persName>Sapieha, Haus</persName>
+                  <persName>Sapieha, Benedikt Paul</persName>
+                  <birth>
+                     <date notBefore="1655-01-01" notAfter="1655-12-31">1655</date>
+                  </birth>
+                  <death>
+                     <date notBefore="1707-01-01" notAfter="1707-12-31">1707</date>
+                  </death>
+                  <idno type="URL">https://de.wikipedia.org/wiki/Sapieha_(Adelsgeschlecht)</idno>
                </person>
                <person xml:id="emt_person_id__767">
                   <persName>Radziwill, Georg Joseph</persName>
@@ -6437,6 +6444,39 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                      <graphic url="emt_person_id__768.jpg"/>
                      <caption>Karol Stanisław Radziwiłł.JPG</caption>
                   </figure>
+               </person>
+               <person xml:id="emt_person_id__769">
+                  <persName>Lubomirski, Hieronim Augustyn</persName>
+                  <death>
+                     <date notBefore="1706-01-01" notAfter="1706-12-31">1706</date>
+                  </death>
+                  <idno type="GND">https://d-nb.info/gnd/136666728</idno>
+                  <idno type="WIKIDATA">http://www.wikidata.org/entity/Q1617521</idno>
+                  <figure>
+                     <graphic url="emt_person_id__769.jpg"/>
+                     <caption>Hieronim Augustyn Lubomirski 111.PNG</caption>
+                  </figure>
+               </person>
+               <person xml:id="emt_person_id__770">
+                  <persName>Schiemunski, Georg von</persName>
+               </person>
+               <person xml:id="emt_person_id__771">
+                  <persName>Sapieha, Kasimir Paul</persName>
+                  <death>
+                     <date notBefore="1720-01-01" notAfter="1720-12-31">1720</date>
+                  </death>
+                  <idno type="WIKIDATA">http://www.wikidata.org/entity/Q2453437</idno>
+                  <idno type="URL">https://de.wikisource.org/wiki/BLK%C3%96:Sapieha,_Kasimir_Paul_Johann</idno>
+                  <figure>
+                     <graphic url="emt_person_id__771.jpg"/>
+                     <caption>Kazimier Jan Sapieha. Казімер Ян Сапега (1709).jpg</caption>
+                  </figure>
+               </person>
+               <person xml:id="emt_person_id__772">
+                  <persName>Suffraganbischof für Köln 1688</persName>
+               </person>
+               <person xml:id="emt_person_id__773">
+                  <persName>Her, Sekretär am brandenburgischen Hof 1688</persName>
                </person>
             </listPerson>
          </div>
