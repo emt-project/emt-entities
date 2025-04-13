@@ -4138,5 +4138,35 @@
     "alternative_name": "",
     "wikidata_url": "",
     "unidentifiziert": false
+  },
+  "287": {
+    "id": 287,
+    "order": "282.00000000000000000000",
+    "name": "Schloss Horneck (Gundelsheim)",
+    "geonames": "https://www.geonames.org/2913693/gundelsheim.html",
+    "emt_id": "emt_place_id__287",
+    "place_type": null,
+    "lat": "49.28330",
+    "long": "9.160370",
+    "comments intern": "",
+    "gnd": "",
+    "alternative_name": "",
+    "wikidata_url": "",
+    "unidentifiziert": false
+  },
+  "288": {
+    "id": 288,
+    "order": "283.00000000000000000000",
+    "name": "Salzburg, Fürsterzbistum",
+    "geonames": "",
+    "emt_id": "emt_place_id__288",
+    "place_type": null,
+    "lat": null,
+    "long": null,
+    "comments intern": "",
+    "gnd": "https://d-nb.info/gnd/4359711-7",
+    "alternative_name": "",
+    "wikidata_url": "",
+    "unidentifiziert": false
   }
 }

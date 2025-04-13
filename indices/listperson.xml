@@ -4354,7 +4354,7 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                   </figure>
                </person>
                <person xml:id="emt_person_id__492">
-                  <persName>Medici, Cosimo III.</persName>
+                  <persName>Medici, Cosimo III. de'</persName>
                   <birth>
                      <date notBefore="1642-01-01" notAfter="1642-12-31">1642</date>
                   </birth>
@@ -4933,7 +4933,7 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                   </figure>
                </person>
                <person xml:id="emt_person_id__580">
-                  <persName>Medici, Gian Gastone von</persName>
+                  <persName>Medici, Gian Gastone de'</persName>
                   <birth>
                      <date notBefore="1671-01-01" notAfter="1671-12-31">1671</date>
                   </birth>
@@ -6477,6 +6477,34 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                </person>
                <person xml:id="emt_person_id__773">
                   <persName>Her, Sekretär am brandenburgischen Hof 1688</persName>
+               </person>
+               <person xml:id="emt_person_id__774">
+                  <persName>Radziwill, Haus</persName>
+               </person>
+               <person xml:id="emt_person_id__775">
+                  <persName>Medici, Ferdinando de'</persName>
+                  <birth>
+                     <date notBefore="1663-01-01" notAfter="1663-12-31">1663</date>
+                  </birth>
+                  <death>
+                     <date notBefore="1713-01-01" notAfter="1713-12-31">1713</date>
+                  </death>
+                  <idno type="GND">https://d-nb.info/gnd/118896628</idno>
+                  <idno type="WIKIDATA">http://www.wikidata.org/entity/Q465178</idno>
+                  <figure>
+                     <graphic url="emt_person_id__775.jpg"/>
+                     <caption>Portrait-Of-Ferdinand-II-De-Medici.jpg</caption>
+                  </figure>
+               </person>
+               <person xml:id="emt_person_id__776">
+                  <persName>Johann Franz von Portugal</persName>
+                  <birth>
+                     <date notBefore="1688-01-01" notAfter="1688-12-31">1688</date>
+                  </birth>
+                  <death>
+                     <date notBefore="1688-01-01" notAfter="1688-12-31">1688</date>
+                  </death>
+                  <idno type="URL">https://de.wikipedia.org/wiki/Peter_II._(Portugal)#Familie</idno>
                </person>
             </listPerson>
          </div>

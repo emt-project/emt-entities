@@ -1824,6 +1824,17 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                   </location>
                   <idno type="GEONAMES">https://sws.geonames.org/2820256/</idno>
                </place>
+               <place xml:id="emt_place_id__287">
+                  <placeName>Schloss Horneck (Gundelsheim)</placeName>
+                  <location type="coords">
+                     <geo>49.28330 9.160370</geo>
+                  </location>
+                  <idno type="GEONAMES">https://sws.geonames.org/2913693/</idno>
+               </place>
+               <place xml:id="emt_place_id__288">
+                  <placeName>Salzburg, Fürsterzbistum</placeName>
+                  <idno type="GND">https://d-nb.info/gnd/4359711-7</idno>
+               </place>
             </listPlace>
          </div>
       </body>
