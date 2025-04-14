@@ -6506,6 +6506,37 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                   </death>
                   <idno type="URL">https://de.wikipedia.org/wiki/Peter_II._(Portugal)#Familie</idno>
                </person>
+               <person xml:id="emt_person_id__777">
+                  <persName>Stredonius, Martin SJ</persName>
+                  <birth>
+                     <date notBefore="1587-01-01" notAfter="1587-12-31">1587</date>
+                  </birth>
+                  <death>
+                     <date notBefore="1649-01-01" notAfter="1649-12-31">1649</date>
+                  </death>
+                  <idno type="GND">https://d-nb.info/gnd/119549174</idno>
+                  <idno type="WIKIDATA">http://www.wikidata.org/entity/Q467789</idno>
+                  <figure>
+                     <graphic url="emt_person_id__777.jpg"/>
+                     <caption>Martin Stredonius2.jpg</caption>
+                  </figure>
+               </person>
+               <person xml:id="emt_person_id__778">
+                  <persName>Württemberg, Eberhard Ludwig von</persName>
+                  <birth>
+                     <date notBefore="1676-01-01" notAfter="1676-12-31">1676</date>
+                  </birth>
+                  <death>
+                     <date notBefore="1733-01-01" notAfter="1733-12-31">1733</date>
+                  </death>
+                  <idno type="GND">https://d-nb.info/gnd/118687441</idno>
+                  <idno type="NDB">https://www.deutsche-biographie.de/sfz39161.html#index</idno>
+                  <idno type="WIKIDATA">http://www.wikidata.org/entity/Q61169</idno>
+                  <figure>
+                     <graphic url="emt_person_id__778.jpg"/>
+                     <caption>Eberhard Ludwig, Duke of Württemberg.png</caption>
+                  </figure>
+               </person>
             </listPerson>
          </div>
       </body>

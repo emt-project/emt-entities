@@ -1835,6 +1835,38 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                   <placeName>Salzburg, Fürsterzbistum</placeName>
                   <idno type="GND">https://d-nb.info/gnd/4359711-7</idno>
                </place>
+               <place xml:id="emt_place_id__289">
+                  <placeName>Württemberg, Herzogtum</placeName>
+                  <idno type="GND">https://d-nb.info/gnd/4067029-6</idno>
+               </place>
+               <place xml:id="emt_place_id__290">
+                  <placeName>Raab / Győr</placeName>
+                  <location type="coords">
+                     <geo>47.68333 17.635120</geo>
+                  </location>
+                  <idno type="GEONAMES">https://sws.geonames.org/3052009/</idno>
+               </place>
+               <place xml:id="emt_place_id__291">
+                  <placeName>Hohentwiel, Festung</placeName>
+                  <location type="coords">
+                     <geo>47.76471 8.819020</geo>
+                  </location>
+                  <idno type="GEONAMES">https://sws.geonames.org/7646414/</idno>
+               </place>
+               <place xml:id="emt_place_id__292">
+                  <placeName>Nördlingen</placeName>
+                  <location type="coords">
+                     <geo>48.85122 10.488680</geo>
+                  </location>
+                  <idno type="GEONAMES">https://sws.geonames.org/2861914/</idno>
+               </place>
+               <place xml:id="emt_place_id__293">
+                  <placeName>Eichstätt, Bistum</placeName>
+               </place>
+               <place xml:id="emt_place_id__294">
+                  <placeName>Öttingen, Grafschaft</placeName>
+                  <idno type="GND">https://d-nb.info/gnd/4043335-3</idno>
+               </place>
             </listPlace>
          </div>
       </body>
