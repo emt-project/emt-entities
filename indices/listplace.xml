@@ -1867,6 +1867,17 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                   <placeName>Öttingen, Grafschaft</placeName>
                   <idno type="GND">https://d-nb.info/gnd/4043335-3</idno>
                </place>
+               <place xml:id="emt_place_id__295">
+                  <placeName>Hessen, Landgrafschaft</placeName>
+                  <idno type="GND">https://d-nb.info/gnd/4240073-9</idno>
+               </place>
+               <place xml:id="emt_place_id__296">
+                  <placeName>Koblenz</placeName>
+                  <location type="coords">
+                     <geo>50.35357 7.578830</geo>
+                  </location>
+                  <idno type="GEONAMES">https://sws.geonames.org/2886946/</idno>
+               </place>
             </listPlace>
          </div>
       </body>

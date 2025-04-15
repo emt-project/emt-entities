@@ -6537,6 +6537,49 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                      <caption>Eberhard Ludwig, Duke of Württemberg.png</caption>
                   </figure>
                </person>
+               <person xml:id="emt_person_id__779">
+                  <persName>Pallavicini, Opizio</persName>
+                  <birth>
+                     <date notBefore="1632-01-01" notAfter="1632-12-31">1632</date>
+                  </birth>
+                  <death>
+                     <date notBefore="1700-01-01" notAfter="1700-12-31">1700</date>
+                  </death>
+                  <idno type="GND">https://d-nb.info/gnd/120212897</idno>
+                  <idno type="WIKIDATA">http://www.wikidata.org/entity/Q749200</idno>
+                  <idno type="URL">https://www.treccani.it/enciclopedia/opizio-pallavicino_(Dizionario-Biografico)/</idno>
+                  <figure>
+                     <graphic url="emt_person_id__779.jpg"/>
+                     <caption>Opizio Pallavicini.JPG</caption>
+                  </figure>
+               </person>
+               <person xml:id="emt_person_id__780">
+                  <persName>Lubomirski, Stanisław Herakliusz</persName>
+                  <birth>
+                     <date notBefore="1642-01-01" notAfter="1642-12-31">1642</date>
+                  </birth>
+                  <death>
+                     <date notBefore="1702-01-01" notAfter="1702-12-31">1702</date>
+                  </death>
+                  <idno type="GND">https://d-nb.info/gnd/100194478</idno>
+                  <idno type="URL">https://pl.wikipedia.org/wiki/Stanis%C5%82aw_Herakliusz_Lubomirski</idno>
+               </person>
+               <person xml:id="emt_person_id__781">
+                  <persName>Radziejowski, Michael Stefan</persName>
+                  <birth>
+                     <date notBefore="1645-01-01" notAfter="1645-12-31">1645</date>
+                  </birth>
+                  <death>
+                     <date notBefore="1705-01-01" notAfter="1705-12-31">1705</date>
+                  </death>
+                  <idno type="GND">https://d-nb.info/gnd/104221224</idno>
+                  <idno type="WIKIDATA">http://www.wikidata.org/entity/Q1929502</idno>
+                  <idno type="URL">https://cardinals.fiu.edu/bios1686.htm#Radziejowski</idno>
+                  <figure>
+                     <graphic url="emt_person_id__781.jpg"/>
+                     <caption>Croix Michał Stefan Radziejowski.png</caption>
+                  </figure>
+               </person>
             </listPerson>
          </div>
       </body>

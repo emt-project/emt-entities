@@ -4258,5 +4258,35 @@
     "alternative_name": "",
     "wikidata_url": "",
     "unidentifiziert": false
+  },
+  "295": {
+    "id": 295,
+    "order": "290.00000000000000000000",
+    "name": "Hessen, Landgrafschaft",
+    "geonames": "",
+    "emt_id": "emt_place_id__295",
+    "place_type": null,
+    "lat": null,
+    "long": null,
+    "comments intern": "",
+    "gnd": "https://d-nb.info/gnd/4240073-9",
+    "alternative_name": "",
+    "wikidata_url": "",
+    "unidentifiziert": false
+  },
+  "296": {
+    "id": 296,
+    "order": "291.00000000000000000000",
+    "name": "Koblenz",
+    "geonames": "https://www.geonames.org/2886946/koblenz.html",
+    "emt_id": "emt_place_id__296",
+    "place_type": null,
+    "lat": "50.35357",
+    "long": "7.578830",
+    "comments intern": "",
+    "gnd": "",
+    "alternative_name": "",
+    "wikidata_url": "",
+    "unidentifiziert": false
   }
 }
