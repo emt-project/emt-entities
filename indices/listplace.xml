@@ -1306,7 +1306,7 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                   <idno type="GND">https://d-nb.info/gnd/4011882-4</idno>
                </place>
                <place xml:id="emt_place_id__196">
-                  <placeName>Sachsen</placeName>
+                  <placeName>Sachsen, Kurfürstentum</placeName>
                   <idno type="GND">https://d-nb.info/gnd/4051176-5</idno>
                </place>
                <place xml:id="emt_place_id__197">
@@ -1877,6 +1877,20 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                      <geo>50.35357 7.578830</geo>
                   </location>
                   <idno type="GEONAMES">https://sws.geonames.org/2886946/</idno>
+               </place>
+               <place xml:id="emt_place_id__297">
+                  <placeName>Lauingen</placeName>
+                  <location type="coords">
+                     <geo>48.56775 10.427060</geo>
+                  </location>
+                  <idno type="GEONAMES">https://sws.geonames.org/2880099/</idno>
+               </place>
+               <place xml:id="emt_place_id__298">
+                  <placeName>Ingolstadt</placeName>
+                  <location type="coords">
+                     <geo>48.76508 11.423720</geo>
+                  </location>
+                  <idno type="GEONAMES">https://sws.geonames.org/2895992/</idno>
                </place>
             </listPlace>
          </div>

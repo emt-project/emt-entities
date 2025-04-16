@@ -6389,7 +6389,7 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                   </figure>
                </person>
                <person xml:id="emt_person_id__764">
-                  <persName>Liechtenstein, Anton Florian</persName>
+                  <persName>Liechtenstein, Anton Florian von</persName>
                   <birth>
                      <date notBefore="1656-01-01" notAfter="1656-12-31">1656</date>
                   </birth>
@@ -6579,6 +6579,55 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                      <graphic url="emt_person_id__781.jpg"/>
                      <caption>Croix Michał Stefan Radziejowski.png</caption>
                   </figure>
+               </person>
+               <person xml:id="emt_person_id__782">
+                  <persName>Marc Antoni, geht wieder nach Portugal zurück 1688</persName>
+               </person>
+               <person xml:id="emt_person_id__783">
+                  <persName>Pfalz, Wilhelmine Ernestine von der, geb. Dänemark</persName>
+                  <birth>
+                     <date notBefore="1650-01-01" notAfter="1650-12-31">1650</date>
+                  </birth>
+                  <death>
+                     <date notBefore="1706-01-01" notAfter="1706-12-31">1706</date>
+                  </death>
+                  <idno type="GND">https://d-nb.info/gnd/120040050</idno>
+                  <idno type="NDB">https://www.deutsche-biographie.de/pnd120040050.html#index</idno>
+                  <idno type="WIKIDATA">http://www.wikidata.org/entity/Q241196</idno>
+                  <figure>
+                     <graphic url="emt_person_id__783.jpg"/>
+                     <caption>Princess Wilhelmina Ernestine of Denmark.jpg</caption>
+                  </figure>
+               </person>
+               <person xml:id="emt_person_id__784">
+                  <persName>Fuess, Leopold SJ</persName>
+                  <birth>
+                     <date notBefore="1642-01-01" notAfter="1642-12-31">1642</date>
+                  </birth>
+                  <death>
+                     <date notBefore="1697-01-01" notAfter="1697-12-31">1697</date>
+                  </death>
+                  <idno type="GND">https://d-nb.info/gnd/100773931</idno>
+                  <idno type="WIKIDATA">http://www.wikidata.org/entity/Q131425724</idno>
+               </person>
+               <person xml:id="emt_person_id__785">
+                  <persName>Vogt von Altensumerau und Prasberg, Franz Johann</persName>
+                  <birth>
+                     <date notBefore="1611-01-01" notAfter="1611-12-31">1611</date>
+                  </birth>
+                  <death>
+                     <date notBefore="1689-01-01" notAfter="1689-12-31">1689</date>
+                  </death>
+                  <idno type="GND">https://d-nb.info/gnd/102479178</idno>
+                  <idno type="NDB">https://www.deutsche-biographie.de/sfz57230.html#index</idno>
+                  <idno type="WIKIDATA">http://www.wikidata.org/entity/Q1447464</idno>
+                  <figure>
+                     <graphic url="emt_person_id__785.jpg"/>
+                     <caption>Franz Johann von Prassberg.jpg</caption>
+                  </figure>
+               </person>
+               <person xml:id="emt_person_id__786">
+                  <persName>Steinkallenfels, Sohn des Hofmarschalls von PW 1688</persName>
                </person>
             </listPerson>
          </div>
