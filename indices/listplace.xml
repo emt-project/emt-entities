@@ -1892,6 +1892,20 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                   </location>
                   <idno type="GEONAMES">https://sws.geonames.org/2895992/</idno>
                </place>
+               <place xml:id="emt_place_id__299">
+                  <placeName>Wien, Kloster Sankt Joseph (Siebenbüchnerinnenkloster, Karmelitinnen)</placeName>
+               </place>
+               <place xml:id="emt_place_id__300">
+                  <placeName>Berg, Herzogtum</placeName>
+                  <idno type="GND">https://d-nb.info/gnd/4137215-3</idno>
+               </place>
+               <place xml:id="emt_place_id__301">
+                  <placeName>Szigetvár</placeName>
+                  <location type="coords">
+                     <geo>46.04865 17.805540</geo>
+                  </location>
+                  <idno type="GEONAMES">https://sws.geonames.org/3044469/</idno>
+               </place>
             </listPlace>
          </div>
       </body>

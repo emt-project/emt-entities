@@ -4306,7 +4306,13 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                   <persName>Werschowizin, Fräulein 1691</persName>
                </person>
                <person xml:id="emt_person_id__485">
-                  <persName>Steinkallenfels, Herr von (1691)</persName>
+                  <persName>Steinkallenfels, Kasimir Heinrich von und zu</persName>
+                  <birth>
+                     <date notBefore="1634-01-01" notAfter="1634-12-31">1634</date>
+                  </birth>
+                  <death>
+                     <date notBefore="1693-01-01" notAfter="1693-12-31">1693</date>
+                  </death>
                   <idno type="GND">https://d-nb.info/gnd/115880534</idno>
                </person>
                <person xml:id="emt_person_id__488">
@@ -6229,9 +6235,6 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                <person xml:id="emt_person_id__746">
                   <persName>Yvelin de Roquemont, Sieur 1688</persName>
                </person>
-               <person xml:id="emt_person_id__747">
-                  <persName>Marsiglio/Marsillo, Herr, reist 1688 nach Rom</persName>
-               </person>
                <person xml:id="emt_person_id__748">
                   <persName>Waßenhofen, Pater, 1688 in Wien</persName>
                </person>
@@ -6627,7 +6630,10 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                   </figure>
                </person>
                <person xml:id="emt_person_id__786">
-                  <persName>Steinkallenfels, Sohn des Hofmarschalls von PW 1688</persName>
+                  <persName>Steinkallenfels, Sohn oder Neffe des Hofmarschalls von PW 1688</persName>
+               </person>
+               <person xml:id="emt_person_id__787">
+                  <persName>Perletti, Fabio</persName>
                </person>
             </listPerson>
          </div>

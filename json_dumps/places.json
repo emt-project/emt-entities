@@ -4318,5 +4318,50 @@
     "alternative_name": "",
     "wikidata_url": "",
     "unidentifiziert": false
+  },
+  "299": {
+    "id": 299,
+    "order": "294.00000000000000000000",
+    "name": "Wien, Kloster Sankt Joseph (Siebenbüchnerinnenkloster, Karmelitinnen)",
+    "geonames": "",
+    "emt_id": "emt_place_id__299",
+    "place_type": null,
+    "lat": null,
+    "long": null,
+    "comments intern": "https://www.geschichtewiki.wien.gv.at/Siebenb%C3%BCchnerinnenkloster\nweder in Geonames noch in GND",
+    "gnd": "",
+    "alternative_name": "",
+    "wikidata_url": "",
+    "unidentifiziert": false
+  },
+  "300": {
+    "id": 300,
+    "order": "295.00000000000000000000",
+    "name": "Berg, Herzogtum",
+    "geonames": "",
+    "emt_id": "emt_place_id__300",
+    "place_type": null,
+    "lat": null,
+    "long": null,
+    "comments intern": "",
+    "gnd": "https://d-nb.info/gnd/4137215-3",
+    "alternative_name": "",
+    "wikidata_url": "",
+    "unidentifiziert": false
+  },
+  "301": {
+    "id": 301,
+    "order": "296.00000000000000000000",
+    "name": "Szigetvár",
+    "geonames": "https://www.geonames.org/3044469/szigetvar.html",
+    "emt_id": "emt_place_id__301",
+    "place_type": null,
+    "lat": "46.04865",
+    "long": "17.805540",
+    "comments intern": "",
+    "gnd": "",
+    "alternative_name": "",
+    "wikidata_url": "",
+    "unidentifiziert": false
   }
 }
