@@ -1906,6 +1906,38 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                   </location>
                   <idno type="GEONAMES">https://sws.geonames.org/3044469/</idno>
                </place>
+               <place xml:id="emt_place_id__302">
+                  <placeName>Glatz / Kłodzko</placeName>
+                  <location type="coords">
+                     <geo>50.43488 16.661450</geo>
+                  </location>
+                  <idno type="GEONAMES">https://sws.geonames.org/3096053/</idno>
+               </place>
+               <place xml:id="emt_place_id__303">
+                  <placeName>Brieg / Brzeg</placeName>
+                  <location type="coords">
+                     <geo>50.86079 17.467400</geo>
+                  </location>
+                  <idno type="GEONAMES">https://sws.geonames.org/3102459/</idno>
+               </place>
+               <place xml:id="emt_place_id__304">
+                  <placeName>Liegnitz / Legnica</placeName>
+                  <location type="coords">
+                     <geo>51.21006 16.161900</geo>
+                  </location>
+                  <idno type="GEONAMES">https://sws.geonames.org/3093692/</idno>
+               </place>
+               <place xml:id="emt_place_id__305">
+                  <placeName>Glatz, Grafschaft</placeName>
+                  <idno type="GND">https://d-nb.info/gnd/4021197-6</idno>
+               </place>
+               <place xml:id="emt_place_id__306">
+                  <placeName>Leipzig</placeName>
+                  <location type="coords">
+                     <geo>51.33962 12.371290</geo>
+                  </location>
+                  <idno type="GEONAMES">https://sws.geonames.org/2879139/</idno>
+               </place>
             </listPlace>
          </div>
       </body>

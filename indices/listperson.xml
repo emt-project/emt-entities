@@ -6635,6 +6635,31 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                <person xml:id="emt_person_id__787">
                   <persName>Perletti, Fabio</persName>
                </person>
+               <person xml:id="emt_person_id__788">
+                  <persName>Chassignet (Scassignet), Herr, kommt Anfang 1689 aus Polen zurück</persName>
+               </person>
+               <person xml:id="emt_person_id__789">
+                  <persName>Mavrokordatos, Alexandros</persName>
+                  <birth>
+                     <date notBefore="1641-01-01" notAfter="1641-12-31">1641</date>
+                  </birth>
+                  <death>
+                     <date notBefore="1709-01-01" notAfter="1709-12-31">1709</date>
+                  </death>
+                  <idno type="GND">https://d-nb.info/gnd/118952420</idno>
+                  <idno type="WIKIDATA">http://www.wikidata.org/entity/Q729486</idno>
+                  <figure>
+                     <graphic url="emt_person_id__789.jpg"/>
+                     <caption>Alexandros Maurokordatos o ex aporiton.JPG</caption>
+                  </figure>
+               </person>
+               <person xml:id="emt_person_id__790">
+                  <persName>Zülfikar Pascha</persName>
+                  <death>
+                     <date notBefore="1696-01-01" notAfter="1696-12-31">1696</date>
+                  </death>
+                  <idno type="URL">https://islamansiklopedisi.org.tr/zulfikar-pasa</idno>
+               </person>
             </listPerson>
          </div>
       </body>
