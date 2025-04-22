@@ -4438,5 +4438,20 @@
     "alternative_name": "",
     "wikidata_url": "",
     "unidentifiziert": false
+  },
+  "307": {
+    "id": 307,
+    "order": "302.00000000000000000000",
+    "name": "Monschau",
+    "geonames": "https://www.geonames.org/2869756/monschau.html",
+    "emt_id": "emt_place_id__307",
+    "place_type": null,
+    "lat": "50.55462",
+    "long": "6.240010",
+    "comments intern": "",
+    "gnd": "",
+    "alternative_name": "",
+    "wikidata_url": "",
+    "unidentifiziert": false
   }
 }

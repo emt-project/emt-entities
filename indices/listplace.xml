@@ -1938,6 +1938,13 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                   </location>
                   <idno type="GEONAMES">https://sws.geonames.org/2879139/</idno>
                </place>
+               <place xml:id="emt_place_id__307">
+                  <placeName>Monschau</placeName>
+                  <location type="coords">
+                     <geo>50.55462 6.240010</geo>
+                  </location>
+                  <idno type="GEONAMES">https://sws.geonames.org/2869756/</idno>
+               </place>
             </listPlace>
          </div>
       </body>
