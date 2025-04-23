@@ -1945,6 +1945,20 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                   </location>
                   <idno type="GEONAMES">https://sws.geonames.org/2869756/</idno>
                </place>
+               <place xml:id="emt_place_id__308">
+                  <placeName>Neuß</placeName>
+                  <location type="coords">
+                     <geo>51.19807 6.685040</geo>
+                  </location>
+                  <idno type="GEONAMES">https://sws.geonames.org/2864118/</idno>
+               </place>
+               <place xml:id="emt_place_id__309">
+                  <placeName>Kaiserswerth</placeName>
+                  <location type="coords">
+                     <geo>51.30147 6.736240</geo>
+                  </location>
+                  <idno type="GEONAMES">https://sws.geonames.org/2893993/</idno>
+               </place>
             </listPlace>
          </div>
       </body>

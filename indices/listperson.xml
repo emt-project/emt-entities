@@ -4279,7 +4279,20 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                   <persName>Zweyer, Herr von</persName>
                </person>
                <person xml:id="emt_person_id__479">
-                  <persName>Dünnewald NN 1685</persName>
+                  <persName>Dünewald, Johann Heinrich von</persName>
+                  <birth>
+                     <date notBefore="1617-01-01" notAfter="1617-12-31">1617</date>
+                  </birth>
+                  <death>
+                     <date notBefore="1691-01-01" notAfter="1691-12-31">1691</date>
+                  </death>
+                  <idno type="GND">https://d-nb.info/gnd/135718694</idno>
+                  <idno type="NDB">https://www.deutsche-biographie.de/sfz11982.html#index</idno>
+                  <idno type="WIKIDATA">http://www.wikidata.org/entity/Q1675786</idno>
+                  <figure>
+                     <graphic url="emt_person_id__479.jpg"/>
+                     <caption>Dünewald, Johann Heinrich von (1617-1691)3.jpg</caption>
+                  </figure>
                </person>
                <person xml:id="emt_person_id__480">
                   <persName>Cose, Herr von 1685</persName>
@@ -6659,6 +6672,54 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                      <date notBefore="1696-01-01" notAfter="1696-12-31">1696</date>
                   </death>
                   <idno type="URL">https://islamansiklopedisi.org.tr/zulfikar-pasa</idno>
+               </person>
+               <person xml:id="emt_person_id__791">
+                  <persName>Coligny, Gaspard Alexandre de</persName>
+                  <birth>
+                     <date notBefore="1665-01-01" notAfter="1665-12-31">1665</date>
+                  </birth>
+                  <death>
+                     <date notBefore="1697-01-01" notAfter="1697-12-31">1697</date>
+                  </death>
+                  <idno type="URL">https://gw.geneanet.org/garric?lang=en&amp;n=de+coligny&amp;p=gaspard+alexandre</idno>
+               </person>
+               <person xml:id="emt_person_id__792">
+                  <persName>Louvois, Michel Courtenvau le Tellier de</persName>
+                  <birth>
+                     <date notBefore="1663-01-01" notAfter="1663-12-31">1663</date>
+                  </birth>
+                  <death>
+                     <date notBefore="1721-01-01" notAfter="1721-12-31">1721</date>
+                  </death>
+                  <idno type="WIKIDATA">http://www.wikidata.org/entity/Q60835846</idno>
+                  <idno type="URL">https://de.wikipedia.org/wiki/Le_Tellier_de_Louvois</idno>
+               </person>
+               <person xml:id="emt_person_id__793">
+                  <persName>Parma, Margherita Maria Farnese von, vereh. Este</persName>
+                  <birth>
+                     <date notBefore="1664-01-01" notAfter="1664-12-31">1664</date>
+                  </birth>
+                  <death>
+                     <date notBefore="1718-01-01" notAfter="1718-12-31">1718</date>
+                  </death>
+                  <idno type="WIKIDATA">http://www.wikidata.org/entity/Q2550274</idno>
+                  <idno type="URL">https://en.wikipedia.org/wiki/Margherita_Maria_Farnese</idno>
+               </person>
+               <person xml:id="emt_person_id__794">
+                  <persName>Sachsen, Friedrich August I. von</persName>
+                  <birth>
+                     <date notBefore="1670-01-01" notAfter="1670-12-31">1670</date>
+                  </birth>
+                  <death>
+                     <date notBefore="1733-01-01" notAfter="1733-12-31">1733</date>
+                  </death>
+                  <idno type="GND">https://d-nb.info/gnd/118505084</idno>
+                  <idno type="NDB">https://www.deutsche-biographie.de/sfz68343.html#index</idno>
+                  <idno type="WIKIDATA">http://www.wikidata.org/entity/Q53437</idno>
+                  <figure>
+                     <graphic url="emt_person_id__794.jpg"/>
+                     <caption>Nicolas de Largillière - Augustus the Strong, Elector of Saxony and King of Poland.jpg</caption>
+                  </figure>
                </person>
             </listPerson>
          </div>

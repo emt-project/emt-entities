@@ -4453,5 +4453,35 @@
     "alternative_name": "",
     "wikidata_url": "",
     "unidentifiziert": false
+  },
+  "308": {
+    "id": 308,
+    "order": "303.00000000000000000000",
+    "name": "Neuß",
+    "geonames": "https://www.geonames.org/2864118/neuss.html",
+    "emt_id": "emt_place_id__308",
+    "place_type": null,
+    "lat": "51.19807",
+    "long": "6.685040",
+    "comments intern": "",
+    "gnd": "",
+    "alternative_name": "",
+    "wikidata_url": "",
+    "unidentifiziert": false
+  },
+  "309": {
+    "id": 309,
+    "order": "304.00000000000000000000",
+    "name": "Kaiserswerth",
+    "geonames": "https://www.geonames.org/2893993/kaiserswerth.html",
+    "emt_id": "emt_place_id__309",
+    "place_type": null,
+    "lat": "51.30147",
+    "long": "6.736240",
+    "comments intern": "",
+    "gnd": "",
+    "alternative_name": "",
+    "wikidata_url": "",
+    "unidentifiziert": false
   }
 }
