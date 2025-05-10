@@ -18798,5 +18798,30 @@
     "Funktionsbezeichnungen": "König von Polen",
     "Titel": "Kurfürst",
     "unidentifiziert": false
+  },
+  "795": {
+    "id": 795,
+    "order": "789.00000000000000000000",
+    "name": "Gesser, Johann Wilhelm",
+    "gnd": "",
+    "other_url": "",
+    "emt_id": "emt_person_id__795",
+    "internal_comment": "Lau, Regierungskollegien S. 238: Regierungsrat Johann Wilhelm Gesser war auch Rechenmeister (was man laut Lau S.237 offenbar gleichzeitig mit Rat sein kann) 1690-1701, dann Rat bis 1716 – der letztere dürfte es also wohl sein.",
+    "color": "",
+    "lebensdaten": "",
+    "ndb": "",
+    "year_of_birth": null,
+    "year_of_death": null,
+    "wikidata_url": "",
+    "wikidata_enriched": false,
+    "img_name": "",
+    "img_fetched": false,
+    "img_source": "",
+    "birth_date_written": "vor 1690",
+    "death_date_written": "1716 oder später",
+    "Geschlecht": "",
+    "Funktionsbezeichnungen": "Hofkammerrat, Rechenmeister",
+    "Titel": "",
+    "unidentifiziert": false
   }
 }

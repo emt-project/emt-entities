@@ -4483,5 +4483,20 @@
     "alternative_name": "",
     "wikidata_url": "",
     "unidentifiziert": false
+  },
+  "310": {
+    "id": 310,
+    "order": "305.00000000000000000000",
+    "name": "Länder des Hauses Pfalz-Neuburg",
+    "geonames": "",
+    "emt_id": "emt_place_id__310",
+    "place_type": null,
+    "lat": null,
+    "long": null,
+    "comments intern": "",
+    "gnd": "",
+    "alternative_name": "",
+    "wikidata_url": "",
+    "unidentifiziert": false
   }
 }

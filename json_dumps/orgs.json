@@ -229,5 +229,12 @@
     "name": "Reichstag (Sejm) in Polen",
     "gnd": "",
     "emt_id": "emt_institution_id__33"
+  },
+  "34": {
+    "id": 34,
+    "order": "34.00000000000000000000",
+    "name": "Deutscher Orden",
+    "gnd": "",
+    "emt_id": "emt_institution_id__34"
   }
 }
