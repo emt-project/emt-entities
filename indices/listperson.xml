@@ -6724,6 +6724,47 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                <person xml:id="emt_person_id__795">
                   <persName>Gesser, Johann Wilhelm</persName>
                </person>
+               <person xml:id="emt_person_id__796">
+                  <persName>Herberstein, Fräulein von 1694</persName>
+               </person>
+               <person xml:id="emt_person_id__797">
+                  <persName>Schöning, Hans Adam von</persName>
+                  <birth>
+                     <date notBefore="1641-01-01" notAfter="1641-12-31">1641</date>
+                  </birth>
+                  <death>
+                     <date notBefore="1696-01-01" notAfter="1696-12-31">1696</date>
+                  </death>
+                  <idno type="GND">https://d-nb.info/gnd/116888571</idno>
+                  <idno type="NDB">https://www.deutsche-biographie.de/pnd116888571.html#indexcontent</idno>
+                  <idno type="WIKIDATA">http://www.wikidata.org/entity/Q91584</idno>
+                  <figure>
+                     <graphic url="emt_person_id__797.jpg"/>
+                     <caption>Arolsen Klebeband 01 419.jpg</caption>
+                  </figure>
+               </person>
+               <person xml:id="emt_person_id__798">
+                  <persName>Schönborn-Buchheim, Melchior Friedrich von</persName>
+                  <birth>
+                     <date notBefore="1644-01-01" notAfter="1644-12-31">1644</date>
+                  </birth>
+                  <death>
+                     <date notBefore="1717-01-01" notAfter="1717-12-31">1717</date>
+                  </death>
+                  <idno type="GND">https://d-nb.info/gnd/119475936</idno>
+                  <idno type="NDB">https://www.deutsche-biographie.de/pnd119475936.html#indexcontent</idno>
+                  <idno type="WIKIDATA">http://www.wikidata.org/entity/Q1919128</idno>
+                  <figure>
+                     <graphic url="emt_person_id__798.jpg"/>
+                     <caption>Schönborn Melchior Friedrich.jpg</caption>
+                  </figure>
+               </person>
+               <person xml:id="emt_person_id__799">
+                  <persName>Schönborn, Haus</persName>
+               </person>
+               <person xml:id="emt_person_id__800">
+                  <persName/>
+               </person>
             </listPerson>
          </div>
       </body>

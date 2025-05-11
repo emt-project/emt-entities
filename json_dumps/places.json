@@ -4498,5 +4498,35 @@
     "alternative_name": "",
     "wikidata_url": "",
     "unidentifiziert": false
+  },
+  "311": {
+    "id": 311,
+    "order": "306.00000000000000000000",
+    "name": "Modena (Herzogtum)",
+    "geonames": "",
+    "emt_id": "emt_place_id__311",
+    "place_type": null,
+    "lat": null,
+    "long": null,
+    "comments intern": "",
+    "gnd": "",
+    "alternative_name": "",
+    "wikidata_url": "",
+    "unidentifiziert": false
+  },
+  "312": {
+    "id": 312,
+    "order": "307.00000000000000000000",
+    "name": "Kaub",
+    "geonames": "",
+    "emt_id": "emt_place_id__312",
+    "place_type": null,
+    "lat": null,
+    "long": null,
+    "comments intern": "Wohl Aufenthaltsort des Dr. Schweizer 1694, Kleinstadt in der Pfalz",
+    "gnd": "https://d-nb.info/gnd/4194073-8",
+    "alternative_name": "",
+    "wikidata_url": "",
+    "unidentifiziert": false
   }
 }

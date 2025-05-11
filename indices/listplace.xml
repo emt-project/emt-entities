@@ -1962,6 +1962,13 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                <place xml:id="emt_place_id__310">
                   <placeName>Länder des Hauses Pfalz-Neuburg</placeName>
                </place>
+               <place xml:id="emt_place_id__311">
+                  <placeName>Modena (Herzogtum)</placeName>
+               </place>
+               <place xml:id="emt_place_id__312">
+                  <placeName>Kaub</placeName>
+                  <idno type="GND">https://d-nb.info/gnd/4194073-8</idno>
+               </place>
             </listPlace>
          </div>
       </body>
