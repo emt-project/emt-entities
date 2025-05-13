@@ -4273,7 +4273,7 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                   <persName>Paulovski (Pavlofsqui), Herr von, war Hofmeister in Breslau</persName>
                </person>
                <person xml:id="emt_person_id__477">
-                  <persName>Hohenlohe (Hollach), Graf von</persName>
+                  <persName>Hohenlohe (Hollach), von</persName>
                </person>
                <person xml:id="emt_person_id__478">
                   <persName>Zweyer, Herr von</persName>
@@ -6726,6 +6726,13 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                </person>
                <person xml:id="emt_person_id__796">
                   <persName>Herberstein, Fräulein von 1694</persName>
+                  <birth>
+                     <date notBefore="1675-01-01" notAfter="1675-12-31">1675</date>
+                  </birth>
+                  <death>
+                     <date notBefore="1735-01-01" notAfter="1735-12-31">1735</date>
+                  </death>
+                  <idno type="URL">https://de.wikisource.org/wiki/BLK%C3%96:Herberstein,_das_Haus,_Genealogie</idno>
                </person>
                <person xml:id="emt_person_id__797">
                   <persName>Schöning, Hans Adam von</persName>
@@ -6763,6 +6770,34 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                   <persName>Schönborn, Haus</persName>
                </person>
                <person xml:id="emt_person_id__800">
+                  <persName/>
+               </person>
+               <person xml:id="emt_person_id__801">
+                  <persName>Hohenlohe, von</persName>
+               </person>
+               <person xml:id="emt_person_id__802">
+                  <persName>Königsegg 1694</persName>
+               </person>
+               <person xml:id="emt_person_id__803">
+                  <persName>Daun, Wirich Philipp Lorenz</persName>
+                  <birth>
+                     <date notBefore="1669-01-01" notAfter="1669-12-31">1669</date>
+                  </birth>
+                  <death>
+                     <date notBefore="1741-01-01" notAfter="1741-12-31">1741</date>
+                  </death>
+                  <idno type="GND">https://d-nb.info/gnd/137373260</idno>
+                  <idno type="NDB">https://www.deutsche-biographie.de/sfz27628.html#ndbcontent</idno>
+                  <idno type="WIKIDATA">http://www.wikidata.org/entity/Q385148</idno>
+                  <figure>
+                     <graphic url="emt_person_id__803.jpg"/>
+                     <caption>Porträt Wirich von Daun im HGM.jpg</caption>
+                  </figure>
+               </person>
+               <person xml:id="emt_person_id__804">
+                  <persName>Hezers 1694</persName>
+               </person>
+               <person xml:id="emt_person_id__805">
                   <persName/>
                </person>
             </listPerson>

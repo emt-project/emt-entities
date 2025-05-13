@@ -236,5 +236,26 @@
     "name": "Deutscher Orden",
     "gnd": "",
     "emt_id": "emt_institution_id__34"
+  },
+  "35": {
+    "id": 35,
+    "order": "35.00000000000000000000",
+    "name": "Eichstätt (Domkapitel)",
+    "gnd": "",
+    "emt_id": "emt_institution_id__35"
+  },
+  "36": {
+    "id": 36,
+    "order": "36.00000000000000000000",
+    "name": "Kaiserlicher Hofkriegsrat",
+    "gnd": "",
+    "emt_id": "emt_institution_id__36"
+  },
+  "37": {
+    "id": 37,
+    "order": "37.00000000000000000000",
+    "name": "Oberrheinischer Kreis",
+    "gnd": "",
+    "emt_id": "emt_institution_id__37"
   }
 }

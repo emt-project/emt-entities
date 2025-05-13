@@ -1802,7 +1802,7 @@
   "128": {
     "id": 128,
     "order": "126.00000000000000000000",
-    "name": "Mainz, Kurfürstentum",
+    "name": "Mainz, Erzstift",
     "geonames": "",
     "emt_id": "emt_place_id__128",
     "place_type": null,
@@ -3557,7 +3557,7 @@
   "248": {
     "id": 248,
     "order": "243.00000000000000000000",
-    "name": "Trier, Erzbistum / Kurfürstentum",
+    "name": "Trier, Erzstift",
     "geonames": "https://www.geonames.org/2821164/trier.html",
     "emt_id": "emt_place_id__248",
     "place_type": null,

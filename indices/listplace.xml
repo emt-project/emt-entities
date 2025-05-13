@@ -880,7 +880,7 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                   <idno type="GEONAMES">https://sws.geonames.org/3074199/</idno>
                </place>
                <place xml:id="emt_place_id__128">
-                  <placeName>Mainz, Kurfürstentum</placeName>
+                  <placeName>Mainz, Erzstift</placeName>
                   <idno type="GND">https://d-nb.info/gnd/4100026-2</idno>
                </place>
                <place xml:id="emt_place_id__129">
@@ -1602,7 +1602,7 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                   <idno type="GND">https://d-nb.info/gnd/4051850-4</idno>
                </place>
                <place xml:id="emt_place_id__248">
-                  <placeName>Trier, Erzbistum / Kurfürstentum</placeName>
+                  <placeName>Trier, Erzstift</placeName>
                   <location type="coords">
                      <geo>49.75565 6.639350</geo>
                   </location>
