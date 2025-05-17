@@ -4528,5 +4528,20 @@
     "alternative_name": "",
     "wikidata_url": "",
     "unidentifiziert": false
+  },
+  "313": {
+    "id": 313,
+    "order": "308.00000000000000000000",
+    "name": "Stockholm",
+    "geonames": "https://www.geonames.org/2673730/stockholm.html",
+    "emt_id": "emt_place_id__313",
+    "place_type": null,
+    "lat": "59.32938",
+    "long": "18.068710",
+    "comments intern": "",
+    "gnd": "https://d-nb.info/gnd/4057648-6",
+    "alternative_name": "",
+    "wikidata_url": "",
+    "unidentifiziert": false
   }
 }

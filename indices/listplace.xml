@@ -1969,6 +1969,14 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                   <placeName>Kaub</placeName>
                   <idno type="GND">https://d-nb.info/gnd/4194073-8</idno>
                </place>
+               <place xml:id="emt_place_id__313">
+                  <placeName>Stockholm</placeName>
+                  <location type="coords">
+                     <geo>59.32938 18.068710</geo>
+                  </location>
+                  <idno type="GEONAMES">https://sws.geonames.org/2673730/</idno>
+                  <idno type="GND">https://d-nb.info/gnd/4057648-6</idno>
+               </place>
             </listPlace>
          </div>
       </body>

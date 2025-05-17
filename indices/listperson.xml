@@ -3720,7 +3720,7 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                   </figure>
                </person>
                <person xml:id="emt_person_id__395">
-                  <persName>Golstein, Herr von 1683</persName>
+                  <persName>Golstein, Herr von 1683, 1694</persName>
                </person>
                <person xml:id="emt_person_id__396">
                   <persName>Gall, Walter von</persName>
@@ -6798,7 +6798,45 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                   <persName>Hezers 1694</persName>
                </person>
                <person xml:id="emt_person_id__805">
+                  <persName>Este, Rinaldo III. von</persName>
+                  <birth>
+                     <date notBefore="1655-01-01" notAfter="1655-12-31">1655</date>
+                  </birth>
+                  <death>
+                     <date notBefore="1737-01-01" notAfter="1737-12-31">1737</date>
+                  </death>
+                  <idno type="GND">https://d-nb.info/gnd/118863576</idno>
+                  <idno type="NDB">https://www.deutsche-biographie.de/pnd118863576.html#indexcontent</idno>
+                  <idno type="WIKIDATA">http://www.wikidata.org/entity/Q715048</idno>
+                  <figure>
+                     <graphic url="emt_person_id__805.jpg"/>
+                     <caption>Portrait of Duke Rinaldo d'Este.png</caption>
+                  </figure>
+               </person>
+               <person xml:id="emt_person_id__806">
+                  <persName>kaiserlicher Resident in Polen 1694</persName>
+               </person>
+               <person xml:id="emt_person_id__807">
+                  <persName>Hessen-Darmstadt, Philipp von</persName>
+                  <birth>
+                     <date notBefore="1661-01-01" notAfter="1661-12-31">1661</date>
+                  </birth>
+                  <death>
+                     <date notBefore="1736-01-01" notAfter="1736-12-31">1736</date>
+                  </death>
+                  <idno type="GND">https://d-nb.info/gnd/132306093</idno>
+                  <idno type="NDB">https://www.deutsche-biographie.de/pnd132306093.html#indexcontent</idno>
+                  <idno type="WIKIDATA">http://www.wikidata.org/entity/Q669773</idno>
+                  <figure>
+                     <graphic url="emt_person_id__807.jpg"/>
+                     <caption>Philipphessdarm.jpg</caption>
+                  </figure>
+               </person>
+               <person xml:id="emt_person_id__808">
                   <persName/>
+               </person>
+               <person xml:id="emt_person_id__809">
+                  <persName>Loh 1694</persName>
                </person>
             </listPerson>
          </div>
