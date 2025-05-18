@@ -13781,7 +13781,7 @@
     "gnd": "",
     "other_url": "",
     "emt_id": "emt_person_id__590",
-    "internal_comment": "",
+    "internal_comment": "1694 soll sie mit einem Mann versorgt werden",
     "color": "",
     "lebensdaten": "",
     "ndb": "",
@@ -19127,7 +19127,7 @@
   "808": {
     "id": 808,
     "order": "802.00000000000000000000",
-    "name": "",
+    "name": "Margret (wohl Bedienstete der Mutter 1694)",
     "gnd": "",
     "other_url": "",
     "emt_id": "emt_person_id__808",
@@ -19147,7 +19147,7 @@
     "Geschlecht": "",
     "Funktionsbezeichnungen": "",
     "Titel": "",
-    "unidentifiziert": false
+    "unidentifiziert": true
   },
   "809": {
     "id": 809,
@@ -19173,5 +19173,30 @@
     "Funktionsbezeichnungen": "Domherr in Münster",
     "Titel": "",
     "unidentifiziert": true
+  },
+  "810": {
+    "id": 810,
+    "order": "804.00000000000000000000",
+    "name": "Schenk von Castell, Johann Euchar",
+    "gnd": "https://d-nb.info/gnd/12006703X",
+    "other_url": "",
+    "emt_id": "emt_person_id__810",
+    "internal_comment": "",
+    "color": "",
+    "lebensdaten": "",
+    "ndb": "https://www.deutsche-biographie.de/pnd12006703X.html#indexcontent",
+    "year_of_birth": "1625",
+    "year_of_death": "1697",
+    "wikidata_url": "http://www.wikidata.org/entity/Q1693396",
+    "wikidata_enriched": true,
+    "img_name": "Schenk von Castell Johan Euchar1.jpg",
+    "img_fetched": true,
+    "img_source": "commonsMedia",
+    "birth_date_written": "",
+    "death_date_written": "",
+    "Geschlecht": "",
+    "Funktionsbezeichnungen": "Bischof von Eichstätt",
+    "Titel": "",
+    "unidentifiziert": false
   }
 }

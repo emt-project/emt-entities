@@ -6833,10 +6833,26 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                   </figure>
                </person>
                <person xml:id="emt_person_id__808">
-                  <persName/>
+                  <persName>Margret (wohl Bedienstete der Mutter 1694)</persName>
                </person>
                <person xml:id="emt_person_id__809">
                   <persName>Loh 1694</persName>
+               </person>
+               <person xml:id="emt_person_id__810">
+                  <persName>Schenk von Castell, Johann Euchar</persName>
+                  <birth>
+                     <date notBefore="1625-01-01" notAfter="1625-12-31">1625</date>
+                  </birth>
+                  <death>
+                     <date notBefore="1697-01-01" notAfter="1697-12-31">1697</date>
+                  </death>
+                  <idno type="GND">https://d-nb.info/gnd/12006703X</idno>
+                  <idno type="NDB">https://www.deutsche-biographie.de/pnd12006703X.html#indexcontent</idno>
+                  <idno type="WIKIDATA">http://www.wikidata.org/entity/Q1693396</idno>
+                  <figure>
+                     <graphic url="emt_person_id__810.jpg"/>
+                     <caption>Schenk von Castell Johan Euchar1.jpg</caption>
+                  </figure>
                </person>
             </listPerson>
          </div>
