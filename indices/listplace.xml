@@ -1977,6 +1977,10 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                   <idno type="GEONAMES">https://sws.geonames.org/2673730/</idno>
                   <idno type="GND">https://d-nb.info/gnd/4057648-6</idno>
                </place>
+               <place xml:id="emt_place_id__314">
+                  <placeName>Vorlande, Vorderösterreich</placeName>
+                  <idno type="GND">https://d-nb.info/gnd/4063961-7</idno>
+               </place>
             </listPlace>
          </div>
       </body>

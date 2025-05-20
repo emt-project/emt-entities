@@ -2760,13 +2760,15 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                   </figure>
                </person>
                <person xml:id="emt_person_id__274">
-                  <persName>Oxenstierna, Gabriel</persName>
+                  <persName>Oxenstierna, Gabriel Turreson</persName>
                   <birth>
                      <date notBefore="1642-01-01" notAfter="1642-12-31">1642</date>
                   </birth>
                   <death>
                      <date notBefore="1707-01-01" notAfter="1707-12-31">1707</date>
                   </death>
+                  <idno type="GND">https://d-nb.info/gnd/104202815</idno>
+                  <idno type="NDB">https://www.deutsche-biographie.de/pnd104202815.html#index</idno>
                   <idno type="WIKIDATA">http://www.wikidata.org/entity/Q6031761</idno>
                   <idno type="URL">https://sv.wikipedia.org/wiki/Gabriel_Oxenstierna_(1642%E2%80%931707)</idno>
                </person>
@@ -3720,7 +3722,7 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                   </figure>
                </person>
                <person xml:id="emt_person_id__395">
-                  <persName>Golstein, Herr von 1683, 1694</persName>
+                  <persName>Golstein, Herr von 1683, 1687, 1694</persName>
                </person>
                <person xml:id="emt_person_id__396">
                   <persName>Gall, Walter von</persName>
@@ -4014,6 +4016,9 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                </person>
                <person xml:id="emt_person_id__431">
                   <persName>Pierucci, Pietro</persName>
+                  <death>
+                     <date notBefore="1697-01-01" notAfter="1697-12-31">1697</date>
+                  </death>
                </person>
                <person xml:id="emt_person_id__432">
                   <persName>Ippolito da Pergine OFM</persName>
@@ -6201,9 +6206,6 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                <person xml:id="emt_person_id__739">
                   <persName>Prediger in Wien 1688</persName>
                </person>
-               <person xml:id="emt_person_id__740">
-                  <persName>Pierucci, Pietro</persName>
-               </person>
                <person xml:id="emt_person_id__741">
                   <persName>Süleyman II.</persName>
                   <birth>
@@ -6853,6 +6855,35 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                      <graphic url="emt_person_id__810.jpg"/>
                      <caption>Schenk von Castell Johan Euchar1.jpg</caption>
                   </figure>
+               </person>
+               <person xml:id="emt_person_id__811">
+                  <persName>Farnese, Ranuccio II.</persName>
+                  <birth>
+                     <date notBefore="1630-01-01" notAfter="1630-12-31">1630</date>
+                  </birth>
+                  <death>
+                     <date notBefore="1694-01-01" notAfter="1694-12-31">1694</date>
+                  </death>
+                  <idno type="GND">https://d-nb.info/gnd/102328102</idno>
+                  <idno type="NDB">https://www.deutsche-biographie.de/pnd102328102.html#index</idno>
+                  <idno type="WIKIDATA">http://www.wikidata.org/entity/Q555008</idno>
+                  <figure>
+                     <graphic url="emt_person_id__811.jpg"/>
+                     <caption>Jacob Denys - Portrait of Ranuccio II.jpg</caption>
+                  </figure>
+               </person>
+               <person xml:id="emt_person_id__812">
+                  <persName>Horn, Friedrich Wilhelm Leopold von</persName>
+               </person>
+               <person xml:id="emt_person_id__813">
+                  <persName>Melchiori, Joseph</persName>
+                  <death>
+                     <date notBefore="1718-01-01" notAfter="1718-12-31">1718</date>
+                  </death>
+                  <idno type="URL">https://de.wikipedia.org/wiki/Melchiori_(Adelsgeschlecht)</idno>
+               </person>
+               <person xml:id="emt_person_id__814">
+                  <persName>Abbate Firmiani 1694</persName>
                </person>
             </listPerson>
          </div>

@@ -4543,5 +4543,20 @@
     "alternative_name": "",
     "wikidata_url": "",
     "unidentifiziert": false
+  },
+  "314": {
+    "id": 314,
+    "order": "309.00000000000000000000",
+    "name": "Vorlande, Vorderösterreich",
+    "geonames": "",
+    "emt_id": "emt_place_id__314",
+    "place_type": null,
+    "lat": null,
+    "long": null,
+    "comments intern": "",
+    "gnd": "https://d-nb.info/gnd/4063961-7",
+    "alternative_name": "",
+    "wikidata_url": "",
+    "unidentifiziert": false
   }
 }
