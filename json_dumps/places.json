@@ -4558,5 +4558,20 @@
     "alternative_name": "",
     "wikidata_url": "",
     "unidentifiziert": false
+  },
+  "315": {
+    "id": 315,
+    "order": "310.00000000000000000000",
+    "name": "Mähren",
+    "geonames": "",
+    "emt_id": "emt_place_id__315",
+    "place_type": null,
+    "lat": null,
+    "long": null,
+    "comments intern": "",
+    "gnd": "https://d-nb.info/gnd/4074432-2",
+    "alternative_name": "",
+    "wikidata_url": "",
+    "unidentifiziert": false
   }
 }

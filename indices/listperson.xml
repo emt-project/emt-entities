@@ -6885,6 +6885,107 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                <person xml:id="emt_person_id__814">
                   <persName>Abbate Firmiani 1694</persName>
                </person>
+               <person xml:id="emt_person_id__815">
+                  <persName>Hessen-Darmstadt, Marie Therese von, geb. Prinzessin von Croy</persName>
+                  <birth>
+                     <date notBefore="1673-01-01" notAfter="1673-12-31">1673</date>
+                  </birth>
+                  <death>
+                     <date notBefore="1714-01-01" notAfter="1714-12-31">1714</date>
+                  </death>
+                  <idno type="URL">https://de.wikipedia.org/wiki/Philipp_von_Hessen-Darmstadt</idno>
+               </person>
+               <person xml:id="emt_person_id__816">
+                  <persName>Hessen-Rotenburg, Wilhelm I. von</persName>
+                  <birth>
+                     <date notBefore="1648-01-01" notAfter="1648-12-31">1648</date>
+                  </birth>
+                  <death>
+                     <date notBefore="1725-01-01" notAfter="1725-12-31">1725</date>
+                  </death>
+                  <idno type="GND">https://d-nb.info/gnd/1109099231</idno>
+                  <idno type="WIKIDATA">http://www.wikidata.org/entity/Q68212</idno>
+                  <idno type="URL">https://www.lagis-hessen.de/pnd/1109099231</idno>
+                  <figure>
+                     <graphic url="emt_person_id__816.jpg"/>
+                     <caption>Landgraf Wilhelm „der Ältere“.jpg</caption>
+                  </figure>
+               </person>
+               <person xml:id="emt_person_id__817">
+                  <persName>Hessen-Rheinfels, Ernst von</persName>
+                  <birth>
+                     <date notBefore="1623-01-01" notAfter="1623-12-31">1623</date>
+                  </birth>
+                  <death>
+                     <date notBefore="1693-01-01" notAfter="1693-12-31">1693</date>
+                  </death>
+                  <idno type="GND">https://d-nb.info/gnd/118963287</idno>
+                  <idno type="NDB">https://www.deutsche-biographie.de/sfz13631.html#</idno>
+                  <idno type="WIKIDATA">http://www.wikidata.org/entity/Q70941</idno>
+                  <figure>
+                     <graphic url="emt_person_id__817.jpg"/>
+                     <caption>Ernst von Hessen-Rheinfels.jpg</caption>
+                  </figure>
+               </person>
+               <person xml:id="emt_person_id__818">
+                  <persName>Dürnitzel, Alexandrine</persName>
+                  <birth>
+                     <date notBefore="1673-01-01" notAfter="1673-12-31">1673</date>
+                  </birth>
+                  <death>
+                     <date notBefore="1754-01-01" notAfter="1754-12-31">1754</date>
+                  </death>
+                  <idno type="URL">https://www.lagis-hessen.de/de/subjects/rsrec/current/1/entry/duernitzel%252C%2Balexandrina%2Bernestina%2Bmaria%2Bjuliana/sn/bio/register/person</idno>
+               </person>
+               <person xml:id="emt_person_id__819">
+                  <persName>Farnese, Margherita Maria Farnese,vereh. Herzogin von Modena</persName>
+                  <birth>
+                     <date notBefore="1664-01-01" notAfter="1664-12-31">1664</date>
+                  </birth>
+                  <death>
+                     <date notBefore="1718-01-01" notAfter="1718-12-31">1718</date>
+                  </death>
+                  <idno type="URL">https://www.treccani.it/enciclopedia/ranuccio-ii-farnese-duca-di-parma-e-piacenza_%28Dizionario-Biografico%29/</idno>
+               </person>
+               <person xml:id="emt_person_id__820">
+                  <persName>Farnese, Theresa von</persName>
+                  <birth>
+                     <date notBefore="1665-01-01" notAfter="1665-12-31">1665</date>
+                  </birth>
+                  <death>
+                     <date notBefore="1702-01-01" notAfter="1702-12-31">1702</date>
+                  </death>
+                  <idno type="URL">https://www.treccani.it/enciclopedia/ranuccio-ii-farnese-duca-di-parma-e-piacenza_%28Dizionario-Biografico%29/</idno>
+               </person>
+               <person xml:id="emt_person_id__821">
+                  <persName>Farnese, Isabella von</persName>
+                  <birth>
+                     <date notBefore="1666-01-01" notAfter="1666-12-31">1666</date>
+                  </birth>
+                  <death>
+                     <date notBefore="1718-01-01" notAfter="1718-12-31">1718</date>
+                  </death>
+                  <idno type="URL">https://www.treccani.it/enciclopedia/ranuccio-ii-farnese-duca-di-parma-e-piacenza_%28Dizionario-Biografico%29/</idno>
+               </person>
+               <person xml:id="emt_person_id__822">
+                  <persName>Goess, Johann Peter von</persName>
+                  <birth>
+                     <date notBefore="1667-01-01" notAfter="1667-12-31">1667</date>
+                  </birth>
+                  <death>
+                     <date notBefore="1716-01-01" notAfter="1716-12-31">1716</date>
+                  </death>
+                  <idno type="URL">https://de.wikipedia.org/wiki/Go%C3%ABss_(Adelsgeschlecht)</idno>
+               </person>
+               <person xml:id="emt_person_id__823">
+                  <persName/>
+               </person>
+               <person xml:id="emt_person_id__824">
+                  <persName/>
+               </person>
+               <person xml:id="emt_person_id__825">
+                  <persName/>
+               </person>
             </listPerson>
          </div>
       </body>

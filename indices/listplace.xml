@@ -1981,6 +1981,10 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                   <placeName>Vorlande, Vorderösterreich</placeName>
                   <idno type="GND">https://d-nb.info/gnd/4063961-7</idno>
                </place>
+               <place xml:id="emt_place_id__315">
+                  <placeName>Mähren</placeName>
+                  <idno type="GND">https://d-nb.info/gnd/4074432-2</idno>
+               </place>
             </listPlace>
          </div>
       </body>
