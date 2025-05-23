@@ -6775,10 +6775,26 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                   <persName/>
                </person>
                <person xml:id="emt_person_id__801">
-                  <persName>Hohenlohe, von</persName>
+                  <persName>Hohenlohe-Schillingsfürst, Philipp Ernst von</persName>
+                  <birth>
+                     <date notBefore="1663-01-01" notAfter="1663-12-31">1663</date>
+                  </birth>
+                  <death>
+                     <date notBefore="1759-01-01" notAfter="1759-12-31">1759</date>
+                  </death>
+                  <idno type="GND">https://d-nb.info/gnd/116956046</idno>
+                  <idno type="NDB">https://www.deutsche-biographie.de/pnd116956046.html#indexcontent</idno>
+                  <idno type="WIKIDATA">http://www.wikidata.org/entity/Q31191717</idno>
                </person>
                <person xml:id="emt_person_id__802">
-                  <persName>Königsegg 1694</persName>
+                  <persName>Königsegg-Rothenfels, Albert Eusebius von</persName>
+                  <death>
+                     <date notBefore="1736-01-01" notAfter="1736-12-31">1736</date>
+                  </death>
+                  <idno type="GND">https://d-nb.info/gnd/116293934</idno>
+                  <idno type="NDB">https://www.deutsche-biographie.de/pnd116956046.html#indexcontent</idno>
+                  <idno type="WIKIDATA">http://www.wikidata.org/entity/Q55890418</idno>
+                  <idno type="URL">https://personendatenbank.germania-sacra.de/index/gnd/116293934</idno>
                </person>
                <person xml:id="emt_person_id__803">
                   <persName>Daun, Wirich Philipp Lorenz</persName>
@@ -6978,12 +6994,15 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                   <idno type="URL">https://de.wikipedia.org/wiki/Go%C3%ABss_(Adelsgeschlecht)</idno>
                </person>
                <person xml:id="emt_person_id__823">
-                  <persName/>
+                  <persName>Bocholtz, Johann Arnold von</persName>
                </person>
                <person xml:id="emt_person_id__824">
-                  <persName/>
+                  <persName>Loe (Domherr in Münster 1694)</persName>
                </person>
                <person xml:id="emt_person_id__825">
+                  <persName/>
+               </person>
+               <person xml:id="emt_person_id__826">
                   <persName/>
                </person>
             </listPerson>
