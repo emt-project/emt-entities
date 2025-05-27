@@ -7005,6 +7005,44 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                <person xml:id="emt_person_id__826">
                   <persName/>
                </person>
+               <person xml:id="emt_person_id__827">
+                  <persName/>
+               </person>
+               <person xml:id="emt_person_id__828">
+                  <persName>Croÿ Roeulx, Philippe Henri de / Philipp Heinrich von</persName>
+                  <birth>
+                     <date notBefore="1652-01-01" notAfter="1652-12-31">1652</date>
+                  </birth>
+                  <death>
+                     <date notBefore="1724-01-01" notAfter="1724-12-31">1724</date>
+                  </death>
+                  <idno type="URL">https://www.genealogieonline.nl/en/genealogie-richard-remme/I12128.php</idno>
+               </person>
+               <person xml:id="emt_person_id__829">
+                  <persName/>
+               </person>
+               <person xml:id="emt_person_id__830">
+                  <persName/>
+               </person>
+               <person xml:id="emt_person_id__831">
+                  <persName>Croÿ Roeulx, Charles Eugène de / Karl Eugen von</persName>
+                  <birth>
+                     <date notBefore="1651-01-01" notAfter="1651-12-31">1651</date>
+                  </birth>
+                  <death>
+                     <date notBefore="1702-01-01" notAfter="1702-12-31">1702</date>
+                  </death>
+                  <idno type="GND">https://d-nb.info/gnd/135686652</idno>
+                  <idno type="NDB">https://www.deutsche-biographie.de/pnd135686652.html#indexcontent</idno>
+                  <idno type="WIKIDATA">http://www.wikidata.org/entity/Q696637</idno>
+                  <figure>
+                     <graphic url="emt_person_id__831.jpg"/>
+                     <caption>CEdeCroy.jpg</caption>
+                  </figure>
+               </person>
+               <person xml:id="emt_person_id__832">
+                  <persName/>
+               </person>
             </listPerson>
          </div>
       </body>
