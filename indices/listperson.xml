@@ -7000,10 +7000,22 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                   <persName>Loe (Domherr in Münster 1694)</persName>
                </person>
                <person xml:id="emt_person_id__825">
-                  <persName/>
+                  <persName>Pfalz-Neuburg, Leopoldine Eleonore Elisabeth von</persName>
+                  <birth>
+                     <date notBefore="1691-01-01" notAfter="1691-12-31">1691</date>
+                  </birth>
+                  <death>
+                     <date notBefore="1693-01-01" notAfter="1693-12-31">1693</date>
+                  </death>
                </person>
                <person xml:id="emt_person_id__826">
-                  <persName/>
+                  <persName>Pfalz-Neuburg, Maria Anna Karoline von</persName>
+                  <birth>
+                     <date notBefore="1693-01-01" notAfter="1693-12-31">1693</date>
+                  </birth>
+                  <death>
+                     <date notBefore="1751-01-01" notAfter="1751-12-31">1751</date>
+                  </death>
                </person>
                <person xml:id="emt_person_id__827">
                   <persName/>
@@ -7041,7 +7053,47 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                   </figure>
                </person>
                <person xml:id="emt_person_id__832">
-                  <persName/>
+                  <persName>Braunschweig-Calenberg, Benedikta Henriette Philippine von, geb. Pfalz-Simmern</persName>
+                  <birth>
+                     <date notBefore="1652-01-01" notAfter="1652-12-31">1652</date>
+                  </birth>
+                  <death>
+                     <date notBefore="1730-01-01" notAfter="1730-12-31">1730</date>
+                  </death>
+                  <idno type="GND">https://d-nb.info/gnd/116120053</idno>
+                  <idno type="NDB">https://www.deutsche-biographie.de/pnd116120053.html#indexcontent</idno>
+                  <idno type="WIKIDATA">http://www.wikidata.org/entity/Q63933</idno>
+                  <figure>
+                     <graphic url="emt_person_id__832.jpg"/>
+                     <caption>BenediktaHenrietteSimmBraunschw.JPG</caption>
+                  </figure>
+               </person>
+               <person xml:id="emt_person_id__833">
+                  <persName>Braunschweig-Lünegburg (Hannover), Charlotte Felicitas von</persName>
+                  <birth>
+                     <date notBefore="1671-01-01" notAfter="1671-12-31">1671</date>
+                  </birth>
+                  <death>
+                     <date notBefore="1710-01-01" notAfter="1710-12-31">1710</date>
+                  </death>
+                  <idno type="GND">https://d-nb.info/gnd/123384664</idno>
+                  <idno type="NDB">https://www.deutsche-biographie.de/pnd123384664.html#index</idno>
+                  <idno type="WIKIDATA">http://www.wikidata.org/entity/Q2551176</idno>
+                  <figure>
+                     <graphic url="emt_person_id__833.jpg"/>
+                     <caption>Charlotte of Brunswick-Lüneburg duchess of Modena.jpg</caption>
+                  </figure>
+               </person>
+               <person xml:id="emt_person_id__834">
+                  <persName>Braunschweig-Lüneburg (Hannover), Henriette Marie</persName>
+                  <birth>
+                     <date notBefore="1672-01-01" notAfter="1672-12-31">1672</date>
+                  </birth>
+                  <death>
+                     <date notBefore="1757-01-01" notAfter="1757-12-31">1757</date>
+                  </death>
+                  <idno type="GND">https://d-nb.info/gnd/123384680</idno>
+                  <idno type="WIKIDATA">http://www.wikidata.org/entity/Q75239877</idno>
                </person>
             </listPerson>
          </div>
