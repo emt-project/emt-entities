@@ -6772,7 +6772,9 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                   <persName>Schönborn, Haus</persName>
                </person>
                <person xml:id="emt_person_id__800">
-                  <persName/>
+                  <persName>Medici, Haus</persName>
+                  <idno type="GND">https://d-nb.info/gnd/118732455</idno>
+                  <idno type="WIKIDATA">http://www.wikidata.org/entity/Q170022</idno>
                </person>
                <person xml:id="emt_person_id__801">
                   <persName>Hohenlohe-Schillingsfürst, Philipp Ernst von</persName>
@@ -7018,7 +7020,20 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                   </death>
                </person>
                <person xml:id="emt_person_id__827">
-                  <persName/>
+                  <persName>Harcourt, Henri de</persName>
+                  <birth>
+                     <date notBefore="1654-01-01" notAfter="1654-12-31">1654</date>
+                  </birth>
+                  <death>
+                     <date notBefore="1718-01-01" notAfter="1718-12-31">1718</date>
+                  </death>
+                  <idno type="GND">https://d-nb.info/gnd/1085132811</idno>
+                  <idno type="NDB">https://www.deutsche-biographie.de/pnd1085132811.html#index</idno>
+                  <idno type="WIKIDATA">http://www.wikidata.org/entity/Q442581</idno>
+                  <figure>
+                     <graphic url="emt_person_id__827.jpg"/>
+                     <caption>Maréchal Henry d'Harcourt Beuvron.jpg</caption>
+                  </figure>
                </person>
                <person xml:id="emt_person_id__828">
                   <persName>Croÿ Roeulx, Philippe Henri de / Philipp Heinrich von</persName>
@@ -7031,10 +7046,18 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                   <idno type="URL">https://www.genealogieonline.nl/en/genealogie-richard-remme/I12128.php</idno>
                </person>
                <person xml:id="emt_person_id__829">
-                  <persName/>
+                  <persName>Hedera, Pater 1695 (wohl vormals Beichtvater von Herzog Karl V. von Lothringen)</persName>
+                  <idno type="URL">https://leibniz-connection.adw-goe.de/src/webroot/persons/view/9350</idno>
                </person>
                <person xml:id="emt_person_id__830">
-                  <persName/>
+                  <persName>Elter, Johann Friedrich von Elter</persName>
+                  <birth>
+                     <date notBefore="1645-01-01" notAfter="1645-12-31">1645</date>
+                  </birth>
+                  <death>
+                     <date notBefore="1716-01-01" notAfter="1716-12-31">1716</date>
+                  </death>
+                  <idno type="URL">https://de.wikipedia.org/wiki/Johann_Friedrich_von_Elter</idno>
                </person>
                <person xml:id="emt_person_id__831">
                   <persName>Croÿ Roeulx, Charles Eugène de / Karl Eugen von</persName>
@@ -7094,6 +7117,9 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                   </death>
                   <idno type="GND">https://d-nb.info/gnd/123384680</idno>
                   <idno type="WIKIDATA">http://www.wikidata.org/entity/Q75239877</idno>
+               </person>
+               <person xml:id="emt_person_id__835">
+                  <persName>Pandolfinin (1695, ihr Rezept für Opobalsam)</persName>
                </person>
             </listPerson>
          </div>
