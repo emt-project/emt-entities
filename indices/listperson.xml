@@ -4280,9 +4280,6 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                <person xml:id="emt_person_id__477">
                   <persName>Hohenlohe (Hollach), von</persName>
                </person>
-               <person xml:id="emt_person_id__478">
-                  <persName>Zweyer, Herr von</persName>
-               </person>
                <person xml:id="emt_person_id__479">
                   <persName>Dünewald, Johann Heinrich von</persName>
                   <birth>
@@ -5378,10 +5375,24 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                   <idno type="URL">https://gw.geneanet.org/cvpolier?lang=de&amp;n=fugger&amp;p=maria+katharina</idno>
                </person>
                <person xml:id="emt_person_id__627">
-                  <persName>Zweyer, Ferdinand von</persName>
+                  <persName>Zwyer von Evibach, Ferdinand</persName>
+                  <birth>
+                     <date notBefore="1642-01-01" notAfter="1642-12-31">1642</date>
+                  </birth>
+                  <death>
+                     <date notBefore="1685-01-01" notAfter="1685-12-31">1685</date>
+                  </death>
+                  <idno type="URL">https://www.urnergeschlechter.ch/HUMO612/index.php?page=family&amp;tree_id=159&amp;id=F8803</idno>
                </person>
                <person xml:id="emt_person_id__628">
-                  <persName>Zweyer, NN. von 1684</persName>
+                  <persName>Zwyer von Evibach, Sebastian Heinrich Peregrin</persName>
+                  <birth>
+                     <date notBefore="1633-01-01" notAfter="1633-12-31">1633</date>
+                  </birth>
+                  <death>
+                     <date notBefore="1694-01-01" notAfter="1694-12-31">1694</date>
+                  </death>
+                  <idno type="URL">https://www.urnergeschlechter.ch/HUMO612/index.php?page=family&amp;tree_id=159&amp;id=F8803</idno>
                </person>
                <person xml:id="emt_person_id__629">
                   <persName>Persius von Lonsdorff, Ernst Julius</persName>
@@ -7092,7 +7103,7 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                   </figure>
                </person>
                <person xml:id="emt_person_id__833">
-                  <persName>Braunschweig-Lünegburg (Hannover), Charlotte Felicitas von</persName>
+                  <persName>Braunschweig-Lünegburg (Hannover), Charlotte Felicitas von, vereh. Modena</persName>
                   <birth>
                      <date notBefore="1671-01-01" notAfter="1671-12-31">1671</date>
                   </birth>
@@ -7120,6 +7131,68 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                </person>
                <person xml:id="emt_person_id__835">
                   <persName>Pandolfinin (1695, ihr Rezept für Opobalsam)</persName>
+               </person>
+               <person xml:id="emt_person_id__836">
+                  <persName>Rodt zu Bußmannshausen, Marquard Rudolf von</persName>
+                  <birth>
+                     <date notBefore="1644-01-01" notAfter="1644-12-31">1644</date>
+                  </birth>
+                  <death>
+                     <date notBefore="1704-01-01" notAfter="1704-12-31">1704</date>
+                  </death>
+                  <idno type="GND">https://d-nb.info/gnd/137363575</idno>
+                  <idno type="NDB">https://www.deutsche-biographie.de/sfz58492.html#index</idno>
+                  <idno type="WIKIDATA">http://www.wikidata.org/entity/Q1261984</idno>
+                  <figure>
+                     <graphic url="emt_person_id__836.jpg"/>
+                     <caption>Adel im Wandel80.jpg</caption>
+                  </figure>
+               </person>
+               <person xml:id="emt_person_id__837">
+                  <persName>Weselow, Christoph von</persName>
+                  <death>
+                     <date notBefore="1695-01-01" notAfter="1695-12-31">1695</date>
+                  </death>
+                  <idno type="GND">https://d-nb.info/gnd/1035173840</idno>
+                  <idno type="NDB">https://www.deutsche-biographie.de/pnd1035173840.html#index</idno>
+                  <idno type="WIKIDATA">http://www.wikidata.org/entity/Q121333112</idno>
+               </person>
+               <person xml:id="emt_person_id__838">
+                  <persName>Munschowiz/Monschowiz, NN 1689</persName>
+               </person>
+               <person xml:id="emt_person_id__839">
+                  <persName>Sachsen-Lauenburg, Anna Magdalena von, geb. Popel von Lobkowitz, verw. Kolowrat</persName>
+                  <birth>
+                     <date notBefore="1609-01-01" notAfter="1609-12-31">1609</date>
+                  </birth>
+                  <death>
+                     <date notBefore="1668-01-01" notAfter="1668-12-31">1668</date>
+                  </death>
+                  <idno type="URL">https://de.wikipedia.org/wiki/Julius_Heinrich_(Sachsen-Lauenburg)</idno>
+               </person>
+               <person xml:id="emt_person_id__840">
+                  <persName>Hessen-Darmstadt, Haus</persName>
+               </person>
+               <person xml:id="emt_person_id__841">
+                  <persName>Lavardin, Henri Charles de Beaumanoir de</persName>
+                  <birth>
+                     <date notBefore="1644-01-01" notAfter="1644-12-31">1644</date>
+                  </birth>
+                  <death>
+                     <date notBefore="1701-01-01" notAfter="1701-12-31">1701</date>
+                  </death>
+                  <idno type="NDB">https://www.deutsche-biographie.de/131793578.html?language=en</idno>
+                  <idno type="URL">https://en.wikipedia.org/wiki/Henri-Charles_de_Beaumanoir_of_Lavardin</idno>
+               </person>
+               <person xml:id="emt_person_id__842">
+                  <persName>Bayern, Leopold Ferdinand von</persName>
+                  <birth>
+                     <date notBefore="1689-01-01" notAfter="1689-12-31">1689</date>
+                  </birth>
+                  <death>
+                     <date notBefore="1689-01-01" notAfter="1689-12-31">1689</date>
+                  </death>
+                  <idno type="URL">https://de.wikipedia.org/wiki/Maximilian_II._Emanuel_(Bayern)#Ehen_und_Nachkommen</idno>
                </person>
             </listPerson>
          </div>
