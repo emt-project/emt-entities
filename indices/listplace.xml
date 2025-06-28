@@ -1985,6 +1985,13 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                   <placeName>Mähren</placeName>
                   <idno type="GND">https://d-nb.info/gnd/4074432-2</idno>
                </place>
+               <place xml:id="emt_place_id__316">
+                  <placeName>Darmstadt</placeName>
+                  <location type="coords">
+                     <geo>49.87167 8.650270</geo>
+                  </location>
+                  <idno type="GEONAMES">https://sws.geonames.org/2938913/</idno>
+               </place>
             </listPlace>
          </div>
       </body>

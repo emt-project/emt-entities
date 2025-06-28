@@ -4573,5 +4573,20 @@
     "alternative_name": "",
     "wikidata_url": "",
     "unidentifiziert": false
+  },
+  "316": {
+    "id": 316,
+    "order": "311.00000000000000000000",
+    "name": "Darmstadt",
+    "geonames": "https://www.geonames.org/2938913/darmstadt.html",
+    "emt_id": "emt_place_id__316",
+    "place_type": null,
+    "lat": "49.87167",
+    "long": "8.650270",
+    "comments intern": "",
+    "gnd": "",
+    "alternative_name": "",
+    "wikidata_url": "",
+    "unidentifiziert": false
   }
 }
