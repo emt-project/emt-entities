@@ -1992,6 +1992,13 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                   </location>
                   <idno type="GEONAMES">https://sws.geonames.org/2938913/</idno>
                </place>
+               <place xml:id="emt_place_id__317">
+                  <placeName>Altbunzlau / Stará Boleslav</placeName>
+                  <location type="coords">
+                     <geo>50.19614 14.681770</geo>
+                  </location>
+                  <idno type="GEONAMES">https://sws.geonames.org/3065420/</idno>
+               </place>
             </listPlace>
          </div>
       </body>

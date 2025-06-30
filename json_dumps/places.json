@@ -4588,5 +4588,20 @@
     "alternative_name": "",
     "wikidata_url": "",
     "unidentifiziert": false
+  },
+  "317": {
+    "id": 317,
+    "order": "312.00000000000000000000",
+    "name": "Altbunzlau / Stará Boleslav",
+    "geonames": "https://www.geonames.org/3065420/stara-boleslav.html",
+    "emt_id": "emt_place_id__317",
+    "place_type": null,
+    "lat": "50.19614",
+    "long": "14.681770",
+    "comments intern": "",
+    "gnd": "",
+    "alternative_name": "",
+    "wikidata_url": "",
+    "unidentifiziert": false
   }
 }

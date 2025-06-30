@@ -6324,6 +6324,9 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                </person>
                <person xml:id="emt_person_id__756">
                   <persName>Starhemberg, Dorothea Polyxena von, geb. Scherffenberg</persName>
+                  <death>
+                     <date notBefore="1713-01-01" notAfter="1713-12-31">1713</date>
+                  </death>
                </person>
                <person xml:id="emt_person_id__757">
                   <persName>Strassoldo, Anna Dorothea</persName>
@@ -7218,6 +7221,49 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                </person>
                <person xml:id="emt_person_id__846">
                   <persName>Marci (Marzi), Hofmeister Philipp Wilhelms von Pfalz-Neuburg 1689</persName>
+               </person>
+               <person xml:id="emt_person_id__847">
+                  <persName>Draskovich, Johann</persName>
+                  <death>
+                     <date notBefore="1692-01-01" notAfter="1692-12-31">1692</date>
+                  </death>
+                  <idno type="GND">https://d-nb.info/gnd/1199263540</idno>
+                  <idno type="NDB">www.deutsche-biographie.de/1199263540.html#indexcontent</idno>
+                  <idno type="WIKIDATA">http://www.wikidata.org/entity/Q107305076</idno>
+                  <idno type="URL">hbl.lzmk.hr/clanak/5360</idno>
+               </person>
+               <person xml:id="emt_person_id__848">
+                  <persName>Sickingen, Frau von (1689)</persName>
+               </person>
+               <person xml:id="emt_person_id__849">
+                  <persName>Mutter der Frau von Sickingen (1689)</persName>
+               </person>
+               <person xml:id="emt_person_id__850">
+                  <persName>Martinitz, Georg Adam von</persName>
+                  <birth>
+                     <date notBefore="1645-01-01" notAfter="1645-12-31">1645</date>
+                  </birth>
+                  <death>
+                     <date notBefore="1714-01-01" notAfter="1714-12-31">1714</date>
+                  </death>
+                  <idno type="GND">https://d-nb.info/gnd/11681098X</idno>
+                  <idno type="NDB">https://www.deutsche-biographie.de/sfz58734.html#</idno>
+               </person>
+               <person xml:id="emt_person_id__851">
+                  <persName>Berlepsch, Maria Gertrude von, geb. Gudenberg</persName>
+                  <birth>
+                     <date notBefore="1654-01-01" notAfter="1654-12-31">1654</date>
+                  </birth>
+                  <death>
+                     <date notBefore="1723-01-01" notAfter="1723-12-31">1723</date>
+                  </death>
+                  <idno type="GND">https://d-nb.info/gnd/135668166</idno>
+                  <idno type="NDB">https://www.deutsche-biographie.de/sfz3937.html#index</idno>
+                  <idno type="WIKIDATA">http://www.wikidata.org/entity/Q55847400</idno>
+                  <figure>
+                     <graphic url="emt_person_id__851.jpg"/>
+                     <caption>Condesa de Berlepsch.jpg</caption>
+                  </figure>
                </person>
             </listPerson>
          </div>
