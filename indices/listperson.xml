@@ -7265,6 +7265,74 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                      <caption>Condesa de Berlepsch.jpg</caption>
                   </figure>
                </person>
+               <person xml:id="emt_person_id__852">
+                  <persName>Kolowrat, Franz Wilhelm von</persName>
+                  <birth>
+                     <date notBefore="1653-01-01" notAfter="1653-12-31">1653</date>
+                  </birth>
+                  <death>
+                     <date notBefore="1715-01-01" notAfter="1715-12-31">1715</date>
+                  </death>
+                  <idno type="GND">https://d-nb.info/gnd/1220988316</idno>
+                  <idno type="NDB">https://www.deutsche-biographie.de/pnd1220988316.html#index</idno>
+                  <idno type="URL">https://kaiserhof.geschichte.lmu.de/17401</idno>
+               </person>
+               <person xml:id="emt_person_id__853">
+                  <persName>Cobenzl, Johann Caspar von</persName>
+                  <birth>
+                     <date notBefore="1664-01-01" notAfter="1664-12-31">1664</date>
+                  </birth>
+                  <death>
+                     <date notBefore="1742-01-01" notAfter="1742-12-31">1742</date>
+                  </death>
+                  <idno type="GND">https://d-nb.info/gnd/1019406798</idno>
+                  <idno type="NDB">https://www.deutsche-biographie.de/pnd1019406798.html#index</idno>
+               </person>
+               <person xml:id="emt_person_id__854">
+                  <persName>Karl, Kammerfourier PW 1689</persName>
+               </person>
+               <person xml:id="emt_person_id__855">
+                  <persName>Hohenzollern-Hechingen, Friedrich Wilhelm von</persName>
+                  <birth>
+                     <date notBefore="1663-01-01" notAfter="1663-12-31">1663</date>
+                  </birth>
+                  <death>
+                     <date notBefore="1735-01-01" notAfter="1735-12-31">1735</date>
+                  </death>
+                  <idno type="GND">https://d-nb.info/gnd/120092875</idno>
+                  <idno type="NDB">https://www.deutsche-biographie.de/pnd120092875.html#index</idno>
+                  <idno type="WIKIDATA">http://www.wikidata.org/entity/Q479379</idno>
+                  <figure>
+                     <graphic url="emt_person_id__855.jpg"/>
+                     <caption>Friedrich Wilhelm, Fùrst von Hohenzollern-Hechingen (1663-1735).jpg</caption>
+                  </figure>
+               </person>
+               <person xml:id="emt_person_id__856">
+                  <persName>Danckelmann, Nikolaus Bartholomäus von</persName>
+                  <birth>
+                     <date notBefore="1650-01-01" notAfter="1650-12-31">1650</date>
+                  </birth>
+                  <death>
+                     <date notBefore="1739-01-01" notAfter="1739-12-31">1739</date>
+                  </death>
+                  <idno type="GND">https://d-nb.info/gnd/116029293</idno>
+                  <idno type="NDB">https://www.deutsche-biographie.de/sfz9264.html</idno>
+                  <idno type="WIKIDATA">http://www.wikidata.org/entity/Q11792097</idno>
+                  <figure>
+                     <graphic url="emt_person_id__856.jpg"/>
+                     <caption>Nikolaus Bartholomäus Michael von Danckelman (auch Danckelmann).jpg</caption>
+                  </figure>
+               </person>
+               <person xml:id="emt_person_id__858">
+                  <persName>Brömbsen, Sophie Magdalena von, vereh. Danckelmann</persName>
+                  <birth>
+                     <date notBefore="1660-01-01" notAfter="1660-12-31">1660</date>
+                  </birth>
+                  <death>
+                     <date notBefore="1702-01-01" notAfter="1702-12-31">1702</date>
+                  </death>
+                  <idno type="URL">https://de.wikipedia.org/wiki/Nikolaus_Bartholom%C3%A4us_von_Danckelmann</idno>
+               </person>
             </listPerson>
          </div>
       </body>

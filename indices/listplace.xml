@@ -1999,6 +1999,34 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                   </location>
                   <idno type="GEONAMES">https://sws.geonames.org/3065420/</idno>
                </place>
+               <place xml:id="emt_place_id__318">
+                  <placeName>Marxheim</placeName>
+                  <location type="coords">
+                     <geo>48.74153 10.945040</geo>
+                  </location>
+                  <idno type="GEONAMES">https://sws.geonames.org/2873080/</idno>
+               </place>
+               <place xml:id="emt_place_id__319">
+                  <placeName>Nissa / Niš</placeName>
+                  <location type="coords">
+                     <geo>43.32472 21.903330</geo>
+                  </location>
+                  <idno type="GEONAMES">https://sws.geonames.org/787657/</idno>
+               </place>
+               <place xml:id="emt_place_id__320">
+                  <placeName>Nissa / Nišava, Fluss</placeName>
+                  <location type="coords">
+                     <geo>43.37044 21.769420</geo>
+                  </location>
+                  <idno type="GEONAMES">https://sws.geonames.org/728776/</idno>
+               </place>
+               <place xml:id="emt_place_id__321">
+                  <placeName>Enns, Fluss</placeName>
+                  <location type="coords">
+                     <geo>48.23333 14.500000</geo>
+                  </location>
+                  <idno type="GEONAMES">https://sws.geonames.org/2780047/</idno>
+               </place>
             </listPlace>
          </div>
       </body>
