@@ -1610,6 +1610,7 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                </place>
                <place xml:id="emt_place_id__249">
                   <placeName>Brandenburg, Kurfürstentum</placeName>
+                  <idno type="GND">https://d-nb.info/gnd/4007955-7</idno>
                </place>
                <place xml:id="emt_place_id__250">
                   <placeName>Schütt, Insel</placeName>
@@ -1727,15 +1728,21 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                </place>
                <place xml:id="emt_place_id__269">
                   <placeName>Siebenbürgen</placeName>
+                  <idno type="GND">https://d-nb.info/gnd/4054835-1</idno>
                </place>
                <place xml:id="emt_place_id__270">
                   <placeName>Hildesheim, Bistum</placeName>
+                  <idno type="GND">https://d-nb.info/gnd/4095261-7</idno>
                </place>
                <place xml:id="emt_place_id__271">
                   <placeName>Lipa, Festung in Ungarn</placeName>
                </place>
                <place xml:id="emt_place_id__272">
                   <placeName>Save, Fluss</placeName>
+                  <location type="coords">
+                     <geo>-20.90725 35.067330</geo>
+                  </location>
+                  <idno type="GEONAMES">https://sws.geonames.org/1027190/</idno>
                </place>
                <place xml:id="emt_place_id__273">
                   <placeName>Titel, Festung</placeName>
@@ -1775,9 +1782,11 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                </place>
                <place xml:id="emt_place_id__278">
                   <placeName>Regensburg, Bistum</placeName>
+                  <idno type="GND">https://d-nb.info/gnd/4116939-6</idno>
                </place>
                <place xml:id="emt_place_id__279">
                   <placeName>Freising, Bistum</placeName>
+                  <idno type="GND">https://d-nb.info/gnd/4086538-1</idno>
                </place>
                <place xml:id="emt_place_id__280">
                   <placeName>Bosanski Brod</placeName>
@@ -1862,6 +1871,7 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                </place>
                <place xml:id="emt_place_id__293">
                   <placeName>Eichstätt, Bistum</placeName>
+                  <idno type="GND">https://d-nb.info/gnd/4085539-9</idno>
                </place>
                <place xml:id="emt_place_id__294">
                   <placeName>Öttingen, Grafschaft</placeName>
@@ -1964,6 +1974,7 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                </place>
                <place xml:id="emt_place_id__311">
                   <placeName>Modena (Herzogtum)</placeName>
+                  <idno type="GND">https://d-nb.info/gnd/16029224-4</idno>
                </place>
                <place xml:id="emt_place_id__312">
                   <placeName>Kaub</placeName>

@@ -44,10 +44,11 @@
                 "img_source": "commonsMedia",
                 "birth_date_written": null,
                 "death_date_written": null,
-                "Geschlecht": null,
-                "Funktionsbezeichnungen": null,
-                "Titel": "Kaiserin",
-                "unidentifiziert": false
+                "geschlecht": null,
+                "funktionsbezeichnungen": null,
+                "titel": "Kaiserin",
+                "unidentifiziert": false,
+                "title_alt": []
             },
             {
                 "id": 10,
@@ -69,10 +70,11 @@
                 "img_source": "commonsMedia",
                 "birth_date_written": null,
                 "death_date_written": null,
-                "Geschlecht": null,
-                "Funktionsbezeichnungen": null,
-                "Titel": "Herzogin, Kurfürstin",
-                "unidentifiziert": false
+                "geschlecht": null,
+                "funktionsbezeichnungen": null,
+                "titel": "Herzogin, Kurfürstin",
+                "unidentifiziert": false,
+                "title_alt": []
             },
             {
                 "id": 50,
@@ -94,10 +96,11 @@
                 "img_source": "commonsMedia",
                 "birth_date_written": null,
                 "death_date_written": null,
-                "Geschlecht": null,
-                "Funktionsbezeichnungen": null,
-                "Titel": "Herzog, Kurfürst",
-                "unidentifiziert": false
+                "geschlecht": null,
+                "funktionsbezeichnungen": null,
+                "titel": "Herzog, Kurfürst",
+                "unidentifiziert": false,
+                "title_alt": []
             }
         ],
         "description": null,
@@ -156,10 +159,11 @@
                 "img_source": "commonsMedia",
                 "birth_date_written": null,
                 "death_date_written": null,
-                "Geschlecht": null,
-                "Funktionsbezeichnungen": null,
-                "Titel": "Kaiserin",
-                "unidentifiziert": false
+                "geschlecht": null,
+                "funktionsbezeichnungen": null,
+                "titel": "Kaiserin",
+                "unidentifiziert": false,
+                "title_alt": []
             },
             {
                 "id": 35,
@@ -181,10 +185,11 @@
                 "img_source": "commonsMedia",
                 "birth_date_written": null,
                 "death_date_written": null,
-                "Geschlecht": null,
-                "Funktionsbezeichnungen": null,
-                "Titel": "Kaiser",
-                "unidentifiziert": false
+                "geschlecht": null,
+                "funktionsbezeichnungen": null,
+                "titel": "Kaiser",
+                "unidentifiziert": false,
+                "title_alt": []
             }
         ],
         "description": null,
@@ -279,10 +284,11 @@
                 "img_source": "commonsMedia",
                 "birth_date_written": null,
                 "death_date_written": null,
-                "Geschlecht": null,
-                "Funktionsbezeichnungen": null,
-                "Titel": "Kaiserin",
-                "unidentifiziert": false
+                "geschlecht": null,
+                "funktionsbezeichnungen": null,
+                "titel": "Kaiserin",
+                "unidentifiziert": false,
+                "title_alt": []
             },
             {
                 "id": 25,
@@ -304,10 +310,11 @@
                 "img_source": "commonsMedia",
                 "birth_date_written": null,
                 "death_date_written": null,
-                "Geschlecht": null,
-                "Funktionsbezeichnungen": null,
-                "Titel": "Erzherzog, Kaiser",
-                "unidentifiziert": false
+                "geschlecht": null,
+                "funktionsbezeichnungen": null,
+                "titel": "Erzherzog, Kaiser",
+                "unidentifiziert": false,
+                "title_alt": []
             }
         ],
         "description": "",
@@ -366,10 +373,11 @@
                 "img_source": "commonsMedia",
                 "birth_date_written": null,
                 "death_date_written": null,
-                "Geschlecht": null,
-                "Funktionsbezeichnungen": null,
-                "Titel": "Kaiserin",
-                "unidentifiziert": false
+                "geschlecht": null,
+                "funktionsbezeichnungen": null,
+                "titel": "Kaiserin",
+                "unidentifiziert": false,
+                "title_alt": []
             },
             {
                 "id": 35,
@@ -391,10 +399,11 @@
                 "img_source": "commonsMedia",
                 "birth_date_written": null,
                 "death_date_written": null,
-                "Geschlecht": null,
-                "Funktionsbezeichnungen": null,
-                "Titel": "Kaiser",
-                "unidentifiziert": false
+                "geschlecht": null,
+                "funktionsbezeichnungen": null,
+                "titel": "Kaiser",
+                "unidentifiziert": false,
+                "title_alt": []
             }
         ],
         "description": "",
@@ -453,10 +462,11 @@
                 "img_source": "commonsMedia",
                 "birth_date_written": null,
                 "death_date_written": null,
-                "Geschlecht": null,
-                "Funktionsbezeichnungen": null,
-                "Titel": "Kaiserin",
-                "unidentifiziert": false
+                "geschlecht": null,
+                "funktionsbezeichnungen": null,
+                "titel": "Kaiserin",
+                "unidentifiziert": false,
+                "title_alt": []
             },
             {
                 "id": 25,
@@ -478,10 +488,11 @@
                 "img_source": "commonsMedia",
                 "birth_date_written": null,
                 "death_date_written": null,
-                "Geschlecht": null,
-                "Funktionsbezeichnungen": null,
-                "Titel": "Erzherzog, Kaiser",
-                "unidentifiziert": false
+                "geschlecht": null,
+                "funktionsbezeichnungen": null,
+                "titel": "Erzherzog, Kaiser",
+                "unidentifiziert": false,
+                "title_alt": []
             },
             {
                 "id": 35,
@@ -503,10 +514,11 @@
                 "img_source": "commonsMedia",
                 "birth_date_written": null,
                 "death_date_written": null,
-                "Geschlecht": null,
-                "Funktionsbezeichnungen": null,
-                "Titel": "Kaiser",
-                "unidentifiziert": false
+                "geschlecht": null,
+                "funktionsbezeichnungen": null,
+                "titel": "Kaiser",
+                "unidentifiziert": false,
+                "title_alt": []
             },
             {
                 "id": 109,
@@ -528,10 +540,11 @@
                 "img_source": "",
                 "birth_date_written": "",
                 "death_date_written": "",
-                "Geschlecht": null,
-                "Funktionsbezeichnungen": null,
-                "Titel": "Herzogin, Kaiserin",
-                "unidentifiziert": false
+                "geschlecht": null,
+                "funktionsbezeichnungen": null,
+                "titel": "Herzogin, Kaiserin",
+                "unidentifiziert": false,
+                "title_alt": []
             }
         ],
         "description": "",
@@ -590,10 +603,11 @@
                 "img_source": "commonsMedia",
                 "birth_date_written": null,
                 "death_date_written": null,
-                "Geschlecht": null,
-                "Funktionsbezeichnungen": null,
-                "Titel": "Kaiserin",
-                "unidentifiziert": false
+                "geschlecht": null,
+                "funktionsbezeichnungen": null,
+                "titel": "Kaiserin",
+                "unidentifiziert": false,
+                "title_alt": []
             },
             {
                 "id": 25,
@@ -615,10 +629,11 @@
                 "img_source": "commonsMedia",
                 "birth_date_written": null,
                 "death_date_written": null,
-                "Geschlecht": null,
-                "Funktionsbezeichnungen": null,
-                "Titel": "Erzherzog, Kaiser",
-                "unidentifiziert": false
+                "geschlecht": null,
+                "funktionsbezeichnungen": null,
+                "titel": "Erzherzog, Kaiser",
+                "unidentifiziert": false,
+                "title_alt": []
             },
             {
                 "id": 109,
@@ -640,10 +655,11 @@
                 "img_source": "",
                 "birth_date_written": "",
                 "death_date_written": "",
-                "Geschlecht": null,
-                "Funktionsbezeichnungen": null,
-                "Titel": "Herzogin, Kaiserin",
-                "unidentifiziert": false
+                "geschlecht": null,
+                "funktionsbezeichnungen": null,
+                "titel": "Herzogin, Kaiserin",
+                "unidentifiziert": false,
+                "title_alt": []
             }
         ],
         "description": "",
@@ -702,10 +718,11 @@
                 "img_source": "commonsMedia",
                 "birth_date_written": null,
                 "death_date_written": null,
-                "Geschlecht": null,
-                "Funktionsbezeichnungen": null,
-                "Titel": "Kaiserin",
-                "unidentifiziert": false
+                "geschlecht": null,
+                "funktionsbezeichnungen": null,
+                "titel": "Kaiserin",
+                "unidentifiziert": false,
+                "title_alt": []
             },
             {
                 "id": 35,
@@ -727,10 +744,11 @@
                 "img_source": "commonsMedia",
                 "birth_date_written": null,
                 "death_date_written": null,
-                "Geschlecht": null,
-                "Funktionsbezeichnungen": null,
-                "Titel": "Kaiser",
-                "unidentifiziert": false
+                "geschlecht": null,
+                "funktionsbezeichnungen": null,
+                "titel": "Kaiser",
+                "unidentifiziert": false,
+                "title_alt": []
             }
         ],
         "description": "",
@@ -789,10 +807,11 @@
                 "img_source": "commonsMedia",
                 "birth_date_written": null,
                 "death_date_written": null,
-                "Geschlecht": null,
-                "Funktionsbezeichnungen": null,
-                "Titel": "Kaiserin",
-                "unidentifiziert": false
+                "geschlecht": null,
+                "funktionsbezeichnungen": null,
+                "titel": "Kaiserin",
+                "unidentifiziert": false,
+                "title_alt": []
             },
             {
                 "id": 31,
@@ -814,10 +833,11 @@
                 "img_source": "commonsMedia",
                 "birth_date_written": null,
                 "death_date_written": null,
-                "Geschlecht": null,
-                "Funktionsbezeichnungen": null,
-                "Titel": "Erzherzog, König, Kaiser",
-                "unidentifiziert": false
+                "geschlecht": null,
+                "funktionsbezeichnungen": null,
+                "titel": "Erzherzog, König, Kaiser",
+                "unidentifiziert": false,
+                "title_alt": []
             },
             {
                 "id": 110,
@@ -839,10 +859,11 @@
                 "img_source": "",
                 "birth_date_written": "",
                 "death_date_written": "",
-                "Geschlecht": null,
-                "Funktionsbezeichnungen": null,
-                "Titel": "Herzogin, Kaiserin",
-                "unidentifiziert": false
+                "geschlecht": null,
+                "funktionsbezeichnungen": null,
+                "titel": "Herzogin, Kaiserin",
+                "unidentifiziert": false,
+                "title_alt": []
             }
         ],
         "description": "",
@@ -901,10 +922,11 @@
                 "img_source": "commonsMedia",
                 "birth_date_written": null,
                 "death_date_written": null,
-                "Geschlecht": null,
-                "Funktionsbezeichnungen": null,
-                "Titel": "Kaiserin",
-                "unidentifiziert": false
+                "geschlecht": null,
+                "funktionsbezeichnungen": null,
+                "titel": "Kaiserin",
+                "unidentifiziert": false,
+                "title_alt": []
             },
             {
                 "id": 35,
@@ -926,10 +948,11 @@
                 "img_source": "commonsMedia",
                 "birth_date_written": null,
                 "death_date_written": null,
-                "Geschlecht": null,
-                "Funktionsbezeichnungen": null,
-                "Titel": "Kaiser",
-                "unidentifiziert": false
+                "geschlecht": null,
+                "funktionsbezeichnungen": null,
+                "titel": "Kaiser",
+                "unidentifiziert": false,
+                "title_alt": []
             }
         ],
         "description": "",
@@ -988,10 +1011,11 @@
                 "img_source": "commonsMedia",
                 "birth_date_written": null,
                 "death_date_written": null,
-                "Geschlecht": null,
-                "Funktionsbezeichnungen": null,
-                "Titel": "Kaiserin",
-                "unidentifiziert": false
+                "geschlecht": null,
+                "funktionsbezeichnungen": null,
+                "titel": "Kaiserin",
+                "unidentifiziert": false,
+                "title_alt": []
             },
             {
                 "id": 35,
@@ -1013,10 +1037,11 @@
                 "img_source": "commonsMedia",
                 "birth_date_written": null,
                 "death_date_written": null,
-                "Geschlecht": null,
-                "Funktionsbezeichnungen": null,
-                "Titel": "Kaiser",
-                "unidentifiziert": false
+                "geschlecht": null,
+                "funktionsbezeichnungen": null,
+                "titel": "Kaiser",
+                "unidentifiziert": false,
+                "title_alt": []
             }
         ],
         "description": "",
@@ -1075,10 +1100,11 @@
                 "img_source": "commonsMedia",
                 "birth_date_written": null,
                 "death_date_written": null,
-                "Geschlecht": null,
-                "Funktionsbezeichnungen": null,
-                "Titel": "Kaiserin",
-                "unidentifiziert": false
+                "geschlecht": null,
+                "funktionsbezeichnungen": null,
+                "titel": "Kaiserin",
+                "unidentifiziert": false,
+                "title_alt": []
             },
             {
                 "id": 25,
@@ -1100,10 +1126,11 @@
                 "img_source": "commonsMedia",
                 "birth_date_written": null,
                 "death_date_written": null,
-                "Geschlecht": null,
-                "Funktionsbezeichnungen": null,
-                "Titel": "Erzherzog, Kaiser",
-                "unidentifiziert": false
+                "geschlecht": null,
+                "funktionsbezeichnungen": null,
+                "titel": "Erzherzog, Kaiser",
+                "unidentifiziert": false,
+                "title_alt": []
             },
             {
                 "id": 35,
@@ -1125,10 +1152,11 @@
                 "img_source": "commonsMedia",
                 "birth_date_written": null,
                 "death_date_written": null,
-                "Geschlecht": null,
-                "Funktionsbezeichnungen": null,
-                "Titel": "Kaiser",
-                "unidentifiziert": false
+                "geschlecht": null,
+                "funktionsbezeichnungen": null,
+                "titel": "Kaiser",
+                "unidentifiziert": false,
+                "title_alt": []
             }
         ],
         "description": "",
@@ -1187,10 +1215,11 @@
                 "img_source": "commonsMedia",
                 "birth_date_written": null,
                 "death_date_written": null,
-                "Geschlecht": null,
-                "Funktionsbezeichnungen": null,
-                "Titel": "Kaiserin",
-                "unidentifiziert": false
+                "geschlecht": null,
+                "funktionsbezeichnungen": null,
+                "titel": "Kaiserin",
+                "unidentifiziert": false,
+                "title_alt": []
             },
             {
                 "id": 25,
@@ -1212,10 +1241,11 @@
                 "img_source": "commonsMedia",
                 "birth_date_written": null,
                 "death_date_written": null,
-                "Geschlecht": null,
-                "Funktionsbezeichnungen": null,
-                "Titel": "Erzherzog, Kaiser",
-                "unidentifiziert": false
+                "geschlecht": null,
+                "funktionsbezeichnungen": null,
+                "titel": "Erzherzog, Kaiser",
+                "unidentifiziert": false,
+                "title_alt": []
             },
             {
                 "id": 35,
@@ -1237,10 +1267,11 @@
                 "img_source": "commonsMedia",
                 "birth_date_written": null,
                 "death_date_written": null,
-                "Geschlecht": null,
-                "Funktionsbezeichnungen": null,
-                "Titel": "Kaiser",
-                "unidentifiziert": false
+                "geschlecht": null,
+                "funktionsbezeichnungen": null,
+                "titel": "Kaiser",
+                "unidentifiziert": false,
+                "title_alt": []
             }
         ],
         "description": "",
@@ -1299,10 +1330,11 @@
                 "img_source": "commonsMedia",
                 "birth_date_written": null,
                 "death_date_written": null,
-                "Geschlecht": null,
-                "Funktionsbezeichnungen": null,
-                "Titel": "Erzherzog, König, Kaiser",
-                "unidentifiziert": false
+                "geschlecht": null,
+                "funktionsbezeichnungen": null,
+                "titel": "Erzherzog, König, Kaiser",
+                "unidentifiziert": false,
+                "title_alt": []
             }
         ],
         "description": "",
@@ -1361,10 +1393,11 @@
                 "img_source": "commonsMedia",
                 "birth_date_written": null,
                 "death_date_written": null,
-                "Geschlecht": null,
-                "Funktionsbezeichnungen": null,
-                "Titel": "Erzherzog, König, Kaiser",
-                "unidentifiziert": false
+                "geschlecht": null,
+                "funktionsbezeichnungen": null,
+                "titel": "Erzherzog, König, Kaiser",
+                "unidentifiziert": false,
+                "title_alt": []
             }
         ],
         "description": "",
@@ -1423,10 +1456,11 @@
                 "img_source": "commonsMedia",
                 "birth_date_written": null,
                 "death_date_written": null,
-                "Geschlecht": null,
-                "Funktionsbezeichnungen": null,
-                "Titel": "Erzherzog, König, Kaiser",
-                "unidentifiziert": false
+                "geschlecht": null,
+                "funktionsbezeichnungen": null,
+                "titel": "Erzherzog, König, Kaiser",
+                "unidentifiziert": false,
+                "title_alt": []
             },
             {
                 "id": 110,
@@ -1448,10 +1482,11 @@
                 "img_source": "",
                 "birth_date_written": "",
                 "death_date_written": "",
-                "Geschlecht": null,
-                "Funktionsbezeichnungen": null,
-                "Titel": "Herzogin, Kaiserin",
-                "unidentifiziert": false
+                "geschlecht": null,
+                "funktionsbezeichnungen": null,
+                "titel": "Herzogin, Kaiserin",
+                "unidentifiziert": false,
+                "title_alt": []
             }
         ],
         "description": "",
@@ -1510,10 +1545,11 @@
                 "img_source": "commonsMedia",
                 "birth_date_written": null,
                 "death_date_written": null,
-                "Geschlecht": null,
-                "Funktionsbezeichnungen": null,
-                "Titel": "Kaiserin",
-                "unidentifiziert": false
+                "geschlecht": null,
+                "funktionsbezeichnungen": null,
+                "titel": "Kaiserin",
+                "unidentifiziert": false,
+                "title_alt": []
             }
         ],
         "description": "",
@@ -1572,10 +1608,11 @@
                 "img_source": "commonsMedia",
                 "birth_date_written": null,
                 "death_date_written": null,
-                "Geschlecht": null,
-                "Funktionsbezeichnungen": null,
-                "Titel": "Kaiserin",
-                "unidentifiziert": false
+                "geschlecht": null,
+                "funktionsbezeichnungen": null,
+                "titel": "Kaiserin",
+                "unidentifiziert": false,
+                "title_alt": []
             }
         ],
         "description": "",
@@ -1618,10 +1655,11 @@
                 "img_source": "commonsMedia",
                 "birth_date_written": null,
                 "death_date_written": null,
-                "Geschlecht": null,
-                "Funktionsbezeichnungen": null,
-                "Titel": "Kaiserin",
-                "unidentifiziert": false
+                "geschlecht": null,
+                "funktionsbezeichnungen": null,
+                "titel": "Kaiserin",
+                "unidentifiziert": false,
+                "title_alt": []
             },
             {
                 "id": 112,
@@ -1643,10 +1681,11 @@
                 "img_source": "",
                 "birth_date_written": "",
                 "death_date_written": "",
-                "Geschlecht": null,
-                "Funktionsbezeichnungen": null,
-                "Titel": "Erzherzog",
-                "unidentifiziert": false
+                "geschlecht": null,
+                "funktionsbezeichnungen": null,
+                "titel": "Erzherzog",
+                "unidentifiziert": false,
+                "title_alt": []
             }
         ],
         "description": "",
@@ -1705,10 +1744,11 @@
                 "img_source": "",
                 "birth_date_written": "",
                 "death_date_written": "",
-                "Geschlecht": null,
-                "Funktionsbezeichnungen": null,
-                "Titel": "Erzherzog",
-                "unidentifiziert": false
+                "geschlecht": null,
+                "funktionsbezeichnungen": null,
+                "titel": "Erzherzog",
+                "unidentifiziert": false,
+                "title_alt": []
             }
         ],
         "description": "",
@@ -1767,10 +1807,11 @@
                 "img_source": "commonsMedia",
                 "birth_date_written": null,
                 "death_date_written": null,
-                "Geschlecht": null,
-                "Funktionsbezeichnungen": null,
-                "Titel": "Kaiserin",
-                "unidentifiziert": false
+                "geschlecht": null,
+                "funktionsbezeichnungen": null,
+                "titel": "Kaiserin",
+                "unidentifiziert": false,
+                "title_alt": []
             },
             {
                 "id": 113,
@@ -1792,10 +1833,11 @@
                 "img_source": "",
                 "birth_date_written": "",
                 "death_date_written": "",
-                "Geschlecht": null,
-                "Funktionsbezeichnungen": null,
-                "Titel": "Erzherzogin",
-                "unidentifiziert": false
+                "geschlecht": null,
+                "funktionsbezeichnungen": null,
+                "titel": "Erzherzogin",
+                "unidentifiziert": false,
+                "title_alt": []
             }
         ],
         "description": "",
@@ -1854,10 +1896,11 @@
                 "img_source": "commonsMedia",
                 "birth_date_written": null,
                 "death_date_written": null,
-                "Geschlecht": null,
-                "Funktionsbezeichnungen": null,
-                "Titel": "Kaiserin",
-                "unidentifiziert": false
+                "geschlecht": null,
+                "funktionsbezeichnungen": null,
+                "titel": "Kaiserin",
+                "unidentifiziert": false,
+                "title_alt": []
             },
             {
                 "id": 113,
@@ -1879,10 +1922,11 @@
                 "img_source": "",
                 "birth_date_written": "",
                 "death_date_written": "",
-                "Geschlecht": null,
-                "Funktionsbezeichnungen": null,
-                "Titel": "Erzherzogin",
-                "unidentifiziert": false
+                "geschlecht": null,
+                "funktionsbezeichnungen": null,
+                "titel": "Erzherzogin",
+                "unidentifiziert": false,
+                "title_alt": []
             }
         ],
         "description": "",
@@ -1941,10 +1985,11 @@
                 "img_source": "commonsMedia",
                 "birth_date_written": null,
                 "death_date_written": null,
-                "Geschlecht": null,
-                "Funktionsbezeichnungen": null,
-                "Titel": "Kaiserin",
-                "unidentifiziert": false
+                "geschlecht": null,
+                "funktionsbezeichnungen": null,
+                "titel": "Kaiserin",
+                "unidentifiziert": false,
+                "title_alt": []
             },
             {
                 "id": 115,
@@ -1966,10 +2011,11 @@
                 "img_source": "commonsMedia",
                 "birth_date_written": "",
                 "death_date_written": "",
-                "Geschlecht": null,
-                "Funktionsbezeichnungen": null,
-                "Titel": "Erzherzogin",
-                "unidentifiziert": false
+                "geschlecht": null,
+                "funktionsbezeichnungen": null,
+                "titel": "Erzherzogin",
+                "unidentifiziert": false,
+                "title_alt": []
             }
         ],
         "description": "",
@@ -2028,10 +2074,11 @@
                 "img_source": "commonsMedia",
                 "birth_date_written": "",
                 "death_date_written": "",
-                "Geschlecht": null,
-                "Funktionsbezeichnungen": null,
-                "Titel": "Erzherzogin",
-                "unidentifiziert": false
+                "geschlecht": null,
+                "funktionsbezeichnungen": null,
+                "titel": "Erzherzogin",
+                "unidentifiziert": false,
+                "title_alt": []
             }
         ],
         "description": "",
@@ -2090,10 +2137,11 @@
                 "img_source": "commonsMedia",
                 "birth_date_written": null,
                 "death_date_written": null,
-                "Geschlecht": null,
-                "Funktionsbezeichnungen": null,
-                "Titel": "Kaiserin",
-                "unidentifiziert": false
+                "geschlecht": null,
+                "funktionsbezeichnungen": null,
+                "titel": "Kaiserin",
+                "unidentifiziert": false,
+                "title_alt": []
             },
             {
                 "id": 114,
@@ -2115,10 +2163,11 @@
                 "img_source": "",
                 "birth_date_written": "",
                 "death_date_written": "",
-                "Geschlecht": null,
-                "Funktionsbezeichnungen": null,
-                "Titel": "Erzherzogin",
-                "unidentifiziert": false
+                "geschlecht": null,
+                "funktionsbezeichnungen": null,
+                "titel": "Erzherzogin",
+                "unidentifiziert": false,
+                "title_alt": []
             }
         ],
         "description": "",
@@ -2177,10 +2226,11 @@
                 "img_source": "",
                 "birth_date_written": "",
                 "death_date_written": "",
-                "Geschlecht": null,
-                "Funktionsbezeichnungen": null,
-                "Titel": "Erzherzogin",
-                "unidentifiziert": false
+                "geschlecht": null,
+                "funktionsbezeichnungen": null,
+                "titel": "Erzherzogin",
+                "unidentifiziert": false,
+                "title_alt": []
             }
         ],
         "description": "",
@@ -2239,10 +2289,11 @@
                 "img_source": "commonsMedia",
                 "birth_date_written": null,
                 "death_date_written": null,
-                "Geschlecht": null,
-                "Funktionsbezeichnungen": null,
-                "Titel": "Kaiserin",
-                "unidentifiziert": false
+                "geschlecht": null,
+                "funktionsbezeichnungen": null,
+                "titel": "Kaiserin",
+                "unidentifiziert": false,
+                "title_alt": []
             },
             {
                 "id": 116,
@@ -2264,10 +2315,11 @@
                 "img_source": "",
                 "birth_date_written": "",
                 "death_date_written": "",
-                "Geschlecht": null,
-                "Funktionsbezeichnungen": null,
-                "Titel": "Erzherzogin",
-                "unidentifiziert": false
+                "geschlecht": null,
+                "funktionsbezeichnungen": null,
+                "titel": "Erzherzogin",
+                "unidentifiziert": false,
+                "title_alt": []
             }
         ],
         "description": "",
@@ -2326,10 +2378,11 @@
                 "img_source": "commonsMedia",
                 "birth_date_written": null,
                 "death_date_written": null,
-                "Geschlecht": null,
-                "Funktionsbezeichnungen": null,
-                "Titel": "Kaiserin",
-                "unidentifiziert": false
+                "geschlecht": null,
+                "funktionsbezeichnungen": null,
+                "titel": "Kaiserin",
+                "unidentifiziert": false,
+                "title_alt": []
             },
             {
                 "id": 117,
@@ -2351,10 +2404,11 @@
                 "img_source": "",
                 "birth_date_written": "",
                 "death_date_written": "",
-                "Geschlecht": null,
-                "Funktionsbezeichnungen": null,
-                "Titel": "Erzherzogin",
-                "unidentifiziert": false
+                "geschlecht": null,
+                "funktionsbezeichnungen": null,
+                "titel": "Erzherzogin",
+                "unidentifiziert": false,
+                "title_alt": []
             }
         ],
         "description": "",
@@ -2397,10 +2451,11 @@
                 "img_source": "",
                 "birth_date_written": "",
                 "death_date_written": "",
-                "Geschlecht": null,
-                "Funktionsbezeichnungen": null,
-                "Titel": "Erzherzogin",
-                "unidentifiziert": false
+                "geschlecht": null,
+                "funktionsbezeichnungen": null,
+                "titel": "Erzherzogin",
+                "unidentifiziert": false,
+                "title_alt": []
             }
         ],
         "description": "",
@@ -2459,10 +2514,11 @@
                 "img_source": "commonsMedia",
                 "birth_date_written": null,
                 "death_date_written": null,
-                "Geschlecht": null,
-                "Funktionsbezeichnungen": null,
-                "Titel": "Herzog, Kurfürst",
-                "unidentifiziert": false
+                "geschlecht": null,
+                "funktionsbezeichnungen": null,
+                "titel": "Herzog, Kurfürst",
+                "unidentifiziert": false,
+                "title_alt": []
             }
         ],
         "description": "",
@@ -2521,10 +2577,11 @@
                 "img_source": "commonsMedia",
                 "birth_date_written": null,
                 "death_date_written": null,
-                "Geschlecht": null,
-                "Funktionsbezeichnungen": null,
-                "Titel": "Herzog, Kurfürst",
-                "unidentifiziert": false
+                "geschlecht": null,
+                "funktionsbezeichnungen": null,
+                "titel": "Herzog, Kurfürst",
+                "unidentifiziert": false,
+                "title_alt": []
             }
         ],
         "description": "",
@@ -2583,10 +2640,11 @@
                 "img_source": "commonsMedia",
                 "birth_date_written": null,
                 "death_date_written": null,
-                "Geschlecht": null,
-                "Funktionsbezeichnungen": null,
-                "Titel": "Herzog, Kurfürst",
-                "unidentifiziert": false
+                "geschlecht": null,
+                "funktionsbezeichnungen": null,
+                "titel": "Herzog, Kurfürst",
+                "unidentifiziert": false,
+                "title_alt": []
             },
             {
                 "id": 60,
@@ -2608,10 +2666,11 @@
                 "img_source": "commonsMedia",
                 "birth_date_written": null,
                 "death_date_written": null,
-                "Geschlecht": null,
-                "Funktionsbezeichnungen": null,
-                "Titel": "Erzherzogin, Herzogin",
-                "unidentifiziert": false
+                "geschlecht": null,
+                "funktionsbezeichnungen": null,
+                "titel": "Erzherzogin, Herzogin",
+                "unidentifiziert": false,
+                "title_alt": []
             }
         ],
         "description": "",
@@ -2670,10 +2729,11 @@
                 "img_source": "commonsMedia",
                 "birth_date_written": null,
                 "death_date_written": null,
-                "Geschlecht": null,
-                "Funktionsbezeichnungen": null,
-                "Titel": "Erzherzogin, Herzogin",
-                "unidentifiziert": false
+                "geschlecht": null,
+                "funktionsbezeichnungen": null,
+                "titel": "Erzherzogin, Herzogin",
+                "unidentifiziert": false,
+                "title_alt": []
             }
         ],
         "description": "",
@@ -2732,10 +2792,11 @@
                 "img_source": "",
                 "birth_date_written": "",
                 "death_date_written": "",
-                "Geschlecht": null,
-                "Funktionsbezeichnungen": null,
-                "Titel": "Kurfürstin",
-                "unidentifiziert": false
+                "geschlecht": null,
+                "funktionsbezeichnungen": null,
+                "titel": "Kurfürstin",
+                "unidentifiziert": false,
+                "title_alt": []
             }
         ],
         "description": "",
@@ -2794,10 +2855,11 @@
                 "img_source": "commonsMedia",
                 "birth_date_written": null,
                 "death_date_written": null,
-                "Geschlecht": null,
-                "Funktionsbezeichnungen": null,
-                "Titel": "Herzog, Kurfürst",
-                "unidentifiziert": false
+                "geschlecht": null,
+                "funktionsbezeichnungen": null,
+                "titel": "Herzog, Kurfürst",
+                "unidentifiziert": false,
+                "title_alt": []
             }
         ],
         "description": "",
@@ -2856,10 +2918,11 @@
                 "img_source": "commonsMedia",
                 "birth_date_written": null,
                 "death_date_written": null,
-                "Geschlecht": null,
-                "Funktionsbezeichnungen": "Weihbischof von Köln, gewählter Fürstbischof von Breslau",
-                "Titel": "Herzog",
-                "unidentifiziert": false
+                "geschlecht": null,
+                "funktionsbezeichnungen": "Weihbischof von Köln, gewählter Fürstbischof von Breslau",
+                "titel": "Herzog",
+                "unidentifiziert": false,
+                "title_alt": []
             }
         ],
         "description": "",
@@ -2918,10 +2981,11 @@
                 "img_source": "commonsMedia",
                 "birth_date_written": null,
                 "death_date_written": null,
-                "Geschlecht": null,
-                "Funktionsbezeichnungen": "Weihbischof von Köln, gewählter Fürstbischof von Breslau",
-                "Titel": "Herzog",
-                "unidentifiziert": false
+                "geschlecht": null,
+                "funktionsbezeichnungen": "Weihbischof von Köln, gewählter Fürstbischof von Breslau",
+                "titel": "Herzog",
+                "unidentifiziert": false,
+                "title_alt": []
             }
         ],
         "description": "",
@@ -2980,10 +3044,11 @@
                 "img_source": "",
                 "birth_date_written": "",
                 "death_date_written": "",
-                "Geschlecht": null,
-                "Funktionsbezeichnungen": "Deutschmeister, Bischof von Worms",
-                "Titel": "Herzog",
-                "unidentifiziert": false
+                "geschlecht": null,
+                "funktionsbezeichnungen": "Deutschmeister, Bischof von Worms",
+                "titel": "Herzog",
+                "unidentifiziert": false,
+                "title_alt": []
             }
         ],
         "description": "",
@@ -3042,10 +3107,11 @@
                 "img_source": "",
                 "birth_date_written": "",
                 "death_date_written": "",
-                "Geschlecht": null,
-                "Funktionsbezeichnungen": "Deutschmeister, Bischof von Worms",
-                "Titel": "Herzog",
-                "unidentifiziert": false
+                "geschlecht": null,
+                "funktionsbezeichnungen": "Deutschmeister, Bischof von Worms",
+                "titel": "Herzog",
+                "unidentifiziert": false,
+                "title_alt": []
             }
         ],
         "description": "",
@@ -3104,10 +3170,11 @@
                 "img_source": "commonsMedia",
                 "birth_date_written": null,
                 "death_date_written": null,
-                "Geschlecht": null,
-                "Funktionsbezeichnungen": "General",
-                "Titel": "Herzog",
-                "unidentifiziert": false
+                "geschlecht": null,
+                "funktionsbezeichnungen": "General",
+                "titel": "Herzog",
+                "unidentifiziert": false,
+                "title_alt": []
             }
         ],
         "description": "",
@@ -3166,10 +3233,11 @@
                 "img_source": "commonsMedia",
                 "birth_date_written": null,
                 "death_date_written": null,
-                "Geschlecht": null,
-                "Funktionsbezeichnungen": "General",
-                "Titel": "Herzog",
-                "unidentifiziert": false
+                "geschlecht": null,
+                "funktionsbezeichnungen": "General",
+                "titel": "Herzog",
+                "unidentifiziert": false,
+                "title_alt": []
             },
             {
                 "id": 125,
@@ -3191,10 +3259,11 @@
                 "img_source": "commonsMedia",
                 "birth_date_written": "",
                 "death_date_written": "",
-                "Geschlecht": null,
-                "Funktionsbezeichnungen": null,
-                "Titel": "Herzogin",
-                "unidentifiziert": false
+                "geschlecht": null,
+                "funktionsbezeichnungen": null,
+                "titel": "Herzogin",
+                "unidentifiziert": false,
+                "title_alt": []
             }
         ],
         "description": "",
@@ -3253,10 +3322,11 @@
                 "img_source": "commonsMedia",
                 "birth_date_written": null,
                 "death_date_written": null,
-                "Geschlecht": null,
-                "Funktionsbezeichnungen": "General",
-                "Titel": "Herzog",
-                "unidentifiziert": false
+                "geschlecht": null,
+                "funktionsbezeichnungen": "General",
+                "titel": "Herzog",
+                "unidentifiziert": false,
+                "title_alt": []
             },
             {
                 "id": 126,
@@ -3278,10 +3348,22 @@
                 "img_source": "commonsMedia",
                 "birth_date_written": "",
                 "death_date_written": "",
-                "Geschlecht": null,
-                "Funktionsbezeichnungen": null,
-                "Titel": "Herzogin",
-                "unidentifiziert": false
+                "geschlecht": null,
+                "funktionsbezeichnungen": null,
+                "titel": "Herzogin",
+                "unidentifiziert": false,
+                "title_alt": [
+                    {
+                        "id": 19684,
+                        "value": "Graf",
+                        "color": "dark-yellow"
+                    },
+                    {
+                        "id": 19686,
+                        "value": "Kurfürst",
+                        "color": "light-orange"
+                    }
+                ]
             }
         ],
         "description": "",
@@ -3340,10 +3422,11 @@
                 "img_source": "",
                 "birth_date_written": "",
                 "death_date_written": "",
-                "Geschlecht": null,
-                "Funktionsbezeichnungen": "Bischof von Augsburg",
-                "Titel": "Herzog",
-                "unidentifiziert": false
+                "geschlecht": null,
+                "funktionsbezeichnungen": "Bischof von Augsburg",
+                "titel": "Herzog",
+                "unidentifiziert": false,
+                "title_alt": []
             }
         ],
         "description": "",
@@ -3402,10 +3485,11 @@
                 "img_source": "",
                 "birth_date_written": "",
                 "death_date_written": "",
-                "Geschlecht": null,
-                "Funktionsbezeichnungen": "Deutschmeister, Bischof von Worms",
-                "Titel": "Herzog",
-                "unidentifiziert": false
+                "geschlecht": null,
+                "funktionsbezeichnungen": "Deutschmeister, Bischof von Worms",
+                "titel": "Herzog",
+                "unidentifiziert": false,
+                "title_alt": []
             }
         ],
         "description": "",
@@ -3464,10 +3548,11 @@
                 "img_source": "",
                 "birth_date_written": "",
                 "death_date_written": "",
-                "Geschlecht": null,
-                "Funktionsbezeichnungen": "Bischof von Augsburg",
-                "Titel": "Herzog",
-                "unidentifiziert": false
+                "geschlecht": null,
+                "funktionsbezeichnungen": "Bischof von Augsburg",
+                "titel": "Herzog",
+                "unidentifiziert": false,
+                "title_alt": []
             }
         ],
         "description": "",
@@ -3510,10 +3595,11 @@
                 "img_source": "",
                 "birth_date_written": "",
                 "death_date_written": "",
-                "Geschlecht": null,
-                "Funktionsbezeichnungen": "Deutschmeister, Bischof von Worms",
-                "Titel": "Herzog",
-                "unidentifiziert": false
+                "geschlecht": null,
+                "funktionsbezeichnungen": "Deutschmeister, Bischof von Worms",
+                "titel": "Herzog",
+                "unidentifiziert": false,
+                "title_alt": []
             }
         ],
         "description": "",
@@ -3572,10 +3658,11 @@
                 "img_source": "",
                 "birth_date_written": "",
                 "death_date_written": "",
-                "Geschlecht": null,
-                "Funktionsbezeichnungen": "Bischof von Breslau, Deutschmeister, Kurfürst und Erzbischof von Trier",
-                "Titel": "Herzog, Kurfürst",
-                "unidentifiziert": false
+                "geschlecht": null,
+                "funktionsbezeichnungen": "Bischof von Breslau, Deutschmeister, Kurfürst und Erzbischof von Trier",
+                "titel": "Herzog, Kurfürst",
+                "unidentifiziert": false,
+                "title_alt": []
             }
         ],
         "description": "",
@@ -3634,10 +3721,11 @@
                 "img_source": "",
                 "birth_date_written": "",
                 "death_date_written": "",
-                "Geschlecht": null,
-                "Funktionsbezeichnungen": "Bischof von Breslau, Deutschmeister, Kurfürst und Erzbischof von Trier",
-                "Titel": "Herzog, Kurfürst",
-                "unidentifiziert": false
+                "geschlecht": null,
+                "funktionsbezeichnungen": "Bischof von Breslau, Deutschmeister, Kurfürst und Erzbischof von Trier",
+                "titel": "Herzog, Kurfürst",
+                "unidentifiziert": false,
+                "title_alt": []
             }
         ],
         "description": "",
@@ -3680,10 +3768,11 @@
                 "img_source": "",
                 "birth_date_written": "",
                 "death_date_written": "",
-                "Geschlecht": null,
-                "Funktionsbezeichnungen": "Bischof von Breslau, Deutschmeister, Kurfürst und Erzbischof von Trier",
-                "Titel": "Herzog, Kurfürst",
-                "unidentifiziert": false
+                "geschlecht": null,
+                "funktionsbezeichnungen": "Bischof von Breslau, Deutschmeister, Kurfürst und Erzbischof von Trier",
+                "titel": "Herzog, Kurfürst",
+                "unidentifiziert": false,
+                "title_alt": []
             }
         ],
         "description": "",
@@ -3742,10 +3831,11 @@
                 "img_source": "",
                 "birth_date_written": "",
                 "death_date_written": "",
-                "Geschlecht": null,
-                "Funktionsbezeichnungen": "Bischof von Breslau, Deutschmeister, Kurfürst und Erzbischof von Trier",
-                "Titel": "Herzog, Kurfürst",
-                "unidentifiziert": false
+                "geschlecht": null,
+                "funktionsbezeichnungen": "Bischof von Breslau, Deutschmeister, Kurfürst und Erzbischof von Trier",
+                "titel": "Herzog, Kurfürst",
+                "unidentifiziert": false,
+                "title_alt": []
             }
         ],
         "description": "",
@@ -3804,10 +3894,11 @@
                 "img_source": "commonsMedia",
                 "birth_date_written": null,
                 "death_date_written": null,
-                "Geschlecht": null,
-                "Funktionsbezeichnungen": "General",
-                "Titel": "Herzog",
-                "unidentifiziert": false
+                "geschlecht": null,
+                "funktionsbezeichnungen": "General",
+                "titel": "Herzog",
+                "unidentifiziert": false,
+                "title_alt": []
             }
         ],
         "description": "",
@@ -3866,10 +3957,11 @@
                 "img_source": "",
                 "birth_date_written": "",
                 "death_date_written": "",
-                "Geschlecht": null,
-                "Funktionsbezeichnungen": "Bischof von Breslau, Deutschmeister, Kurfürst und Erzbischof von Trier",
-                "Titel": "Herzog, Kurfürst",
-                "unidentifiziert": false
+                "geschlecht": null,
+                "funktionsbezeichnungen": "Bischof von Breslau, Deutschmeister, Kurfürst und Erzbischof von Trier",
+                "titel": "Herzog, Kurfürst",
+                "unidentifiziert": false,
+                "title_alt": []
             }
         ],
         "description": "",
@@ -3928,10 +4020,11 @@
                 "img_source": "commonsMedia",
                 "birth_date_written": null,
                 "death_date_written": null,
-                "Geschlecht": null,
-                "Funktionsbezeichnungen": null,
-                "Titel": "Herzogin, Kurfürstin",
-                "unidentifiziert": false
+                "geschlecht": null,
+                "funktionsbezeichnungen": null,
+                "titel": "Herzogin, Kurfürstin",
+                "unidentifiziert": false,
+                "title_alt": []
             }
         ],
         "description": "",
@@ -3990,10 +4083,11 @@
                 "img_source": "",
                 "birth_date_written": "",
                 "death_date_written": "",
-                "Geschlecht": null,
-                "Funktionsbezeichnungen": "General",
-                "Titel": "Herzog",
-                "unidentifiziert": false
+                "geschlecht": null,
+                "funktionsbezeichnungen": "General",
+                "titel": "Herzog",
+                "unidentifiziert": false,
+                "title_alt": []
             }
         ],
         "description": "",
@@ -4052,10 +4146,11 @@
                 "img_source": "",
                 "birth_date_written": "",
                 "death_date_written": "",
-                "Geschlecht": null,
-                "Funktionsbezeichnungen": "General",
-                "Titel": "Herzog",
-                "unidentifiziert": false
+                "geschlecht": null,
+                "funktionsbezeichnungen": "General",
+                "titel": "Herzog",
+                "unidentifiziert": false,
+                "title_alt": []
             }
         ],
         "description": "",
@@ -4114,10 +4209,11 @@
                 "img_source": "commonsMedia",
                 "birth_date_written": null,
                 "death_date_written": null,
-                "Geschlecht": null,
-                "Funktionsbezeichnungen": null,
-                "Titel": "Königin",
-                "unidentifiziert": false
+                "geschlecht": null,
+                "funktionsbezeichnungen": null,
+                "titel": "Königin",
+                "unidentifiziert": false,
+                "title_alt": []
             }
         ],
         "description": "",
@@ -4176,10 +4272,11 @@
                 "img_source": "commonsMedia",
                 "birth_date_written": null,
                 "death_date_written": null,
-                "Geschlecht": null,
-                "Funktionsbezeichnungen": null,
-                "Titel": "Königin",
-                "unidentifiziert": false
+                "geschlecht": null,
+                "funktionsbezeichnungen": null,
+                "titel": "Königin",
+                "unidentifiziert": false,
+                "title_alt": []
             },
             {
                 "id": 130,
@@ -4201,10 +4298,11 @@
                 "img_source": "",
                 "birth_date_written": "",
                 "death_date_written": "",
-                "Geschlecht": null,
-                "Funktionsbezeichnungen": null,
-                "Titel": "König",
-                "unidentifiziert": false
+                "geschlecht": null,
+                "funktionsbezeichnungen": null,
+                "titel": "König",
+                "unidentifiziert": false,
+                "title_alt": []
             }
         ],
         "description": "",
@@ -4263,10 +4361,11 @@
                 "img_source": "commonsMedia",
                 "birth_date_written": null,
                 "death_date_written": null,
-                "Geschlecht": null,
-                "Funktionsbezeichnungen": null,
-                "Titel": "Königin",
-                "unidentifiziert": false
+                "geschlecht": null,
+                "funktionsbezeichnungen": null,
+                "titel": "Königin",
+                "unidentifiziert": false,
+                "title_alt": []
             }
         ],
         "description": "",
@@ -4325,10 +4424,11 @@
                 "img_source": "commonsMedia",
                 "birth_date_written": null,
                 "death_date_written": null,
-                "Geschlecht": null,
-                "Funktionsbezeichnungen": null,
-                "Titel": "Königin",
-                "unidentifiziert": false
+                "geschlecht": null,
+                "funktionsbezeichnungen": null,
+                "titel": "Königin",
+                "unidentifiziert": false,
+                "title_alt": []
             }
         ],
         "description": "",
@@ -4387,10 +4487,11 @@
                 "img_source": "commonsMedia",
                 "birth_date_written": null,
                 "death_date_written": null,
-                "Geschlecht": null,
-                "Funktionsbezeichnungen": null,
-                "Titel": "Königin",
-                "unidentifiziert": false
+                "geschlecht": null,
+                "funktionsbezeichnungen": null,
+                "titel": "Königin",
+                "unidentifiziert": false,
+                "title_alt": []
             },
             {
                 "id": 89,
@@ -4412,10 +4513,11 @@
                 "img_source": "commonsMedia",
                 "birth_date_written": null,
                 "death_date_written": null,
-                "Geschlecht": null,
-                "Funktionsbezeichnungen": null,
-                "Titel": "König",
-                "unidentifiziert": false
+                "geschlecht": null,
+                "funktionsbezeichnungen": null,
+                "titel": "König",
+                "unidentifiziert": false,
+                "title_alt": []
             }
         ],
         "description": "",
@@ -4474,10 +4576,11 @@
                 "img_source": "commonsMedia",
                 "birth_date_written": null,
                 "death_date_written": null,
-                "Geschlecht": null,
-                "Funktionsbezeichnungen": null,
-                "Titel": "Königin",
-                "unidentifiziert": false
+                "geschlecht": null,
+                "funktionsbezeichnungen": null,
+                "titel": "Königin",
+                "unidentifiziert": false,
+                "title_alt": []
             }
         ],
         "description": "",
@@ -4536,10 +4639,11 @@
                 "img_source": "",
                 "birth_date_written": "",
                 "death_date_written": "",
-                "Geschlecht": null,
-                "Funktionsbezeichnungen": null,
-                "Titel": "Herzog",
-                "unidentifiziert": false
+                "geschlecht": null,
+                "funktionsbezeichnungen": null,
+                "titel": "Herzog",
+                "unidentifiziert": false,
+                "title_alt": []
             }
         ],
         "description": "",
@@ -4598,10 +4702,11 @@
                 "img_source": "commonsMedia",
                 "birth_date_written": null,
                 "death_date_written": null,
-                "Geschlecht": null,
-                "Funktionsbezeichnungen": null,
-                "Titel": "Herzogin, Großherzogin",
-                "unidentifiziert": false
+                "geschlecht": null,
+                "funktionsbezeichnungen": null,
+                "titel": "Herzogin, Großherzogin",
+                "unidentifiziert": false,
+                "title_alt": []
             },
             {
                 "id": 131,
@@ -4623,10 +4728,11 @@
                 "img_source": "",
                 "birth_date_written": "",
                 "death_date_written": "",
-                "Geschlecht": null,
-                "Funktionsbezeichnungen": null,
-                "Titel": "Herzog",
-                "unidentifiziert": false
+                "geschlecht": null,
+                "funktionsbezeichnungen": null,
+                "titel": "Herzog",
+                "unidentifiziert": false,
+                "title_alt": []
             }
         ],
         "description": "",
@@ -4685,10 +4791,11 @@
                 "img_source": "",
                 "birth_date_written": "",
                 "death_date_written": "",
-                "Geschlecht": null,
-                "Funktionsbezeichnungen": null,
-                "Titel": "Herzog",
-                "unidentifiziert": false
+                "geschlecht": null,
+                "funktionsbezeichnungen": null,
+                "titel": "Herzog",
+                "unidentifiziert": false,
+                "title_alt": []
             }
         ],
         "description": "",
@@ -4747,10 +4854,11 @@
                 "img_source": "commonsMedia",
                 "birth_date_written": null,
                 "death_date_written": null,
-                "Geschlecht": null,
-                "Funktionsbezeichnungen": null,
-                "Titel": "Herzogin",
-                "unidentifiziert": false
+                "geschlecht": null,
+                "funktionsbezeichnungen": null,
+                "titel": "Herzogin",
+                "unidentifiziert": false,
+                "title_alt": []
             }
         ],
         "description": "",
@@ -4809,10 +4917,11 @@
                 "img_source": "commonsMedia",
                 "birth_date_written": null,
                 "death_date_written": null,
-                "Geschlecht": null,
-                "Funktionsbezeichnungen": null,
-                "Titel": "Herzogin",
-                "unidentifiziert": false
+                "geschlecht": null,
+                "funktionsbezeichnungen": null,
+                "titel": "Herzogin",
+                "unidentifiziert": false,
+                "title_alt": []
             },
             {
                 "id": 132,
@@ -4834,10 +4943,11 @@
                 "img_source": "",
                 "birth_date_written": "",
                 "death_date_written": "",
-                "Geschlecht": null,
-                "Funktionsbezeichnungen": null,
-                "Titel": "Herzog",
-                "unidentifiziert": false
+                "geschlecht": null,
+                "funktionsbezeichnungen": null,
+                "titel": "Herzog",
+                "unidentifiziert": false,
+                "title_alt": []
             }
         ],
         "description": "",
@@ -4896,10 +5006,11 @@
                 "img_source": "commonsMedia",
                 "birth_date_written": null,
                 "death_date_written": null,
-                "Geschlecht": null,
-                "Funktionsbezeichnungen": null,
-                "Titel": "Herzogin",
-                "unidentifiziert": false
+                "geschlecht": null,
+                "funktionsbezeichnungen": null,
+                "titel": "Herzogin",
+                "unidentifiziert": false,
+                "title_alt": []
             },
             {
                 "id": 133,
@@ -4921,10 +5032,11 @@
                 "img_source": "",
                 "birth_date_written": "",
                 "death_date_written": "",
-                "Geschlecht": null,
-                "Funktionsbezeichnungen": null,
-                "Titel": "Herzog",
-                "unidentifiziert": false
+                "geschlecht": null,
+                "funktionsbezeichnungen": null,
+                "titel": "Herzog",
+                "unidentifiziert": false,
+                "title_alt": []
             }
         ],
         "description": "",
@@ -4983,10 +5095,11 @@
                 "img_source": "",
                 "birth_date_written": "",
                 "death_date_written": "",
-                "Geschlecht": null,
-                "Funktionsbezeichnungen": null,
-                "Titel": "Herzogin",
-                "unidentifiziert": false
+                "geschlecht": null,
+                "funktionsbezeichnungen": null,
+                "titel": "Herzogin",
+                "unidentifiziert": false,
+                "title_alt": []
             }
         ],
         "description": "",
@@ -5045,10 +5158,11 @@
                 "img_source": "",
                 "birth_date_written": "",
                 "death_date_written": "",
-                "Geschlecht": null,
-                "Funktionsbezeichnungen": null,
-                "Titel": "Herzogin",
-                "unidentifiziert": false
+                "geschlecht": null,
+                "funktionsbezeichnungen": null,
+                "titel": "Herzogin",
+                "unidentifiziert": false,
+                "title_alt": []
             },
             {
                 "id": 135,
@@ -5070,10 +5184,11 @@
                 "img_source": "",
                 "birth_date_written": "",
                 "death_date_written": "",
-                "Geschlecht": null,
-                "Funktionsbezeichnungen": null,
-                "Titel": "Prinz",
-                "unidentifiziert": false
+                "geschlecht": null,
+                "funktionsbezeichnungen": null,
+                "titel": "Prinz",
+                "unidentifiziert": false,
+                "title_alt": []
             }
         ],
         "description": "",
@@ -5132,10 +5247,11 @@
                 "img_source": "",
                 "birth_date_written": "",
                 "death_date_written": "",
-                "Geschlecht": null,
-                "Funktionsbezeichnungen": null,
-                "Titel": "Herzogin",
-                "unidentifiziert": false
+                "geschlecht": null,
+                "funktionsbezeichnungen": null,
+                "titel": "Herzogin",
+                "unidentifiziert": false,
+                "title_alt": []
             }
         ],
         "description": "",
@@ -5194,10 +5310,11 @@
                 "img_source": "",
                 "birth_date_written": "",
                 "death_date_written": "",
-                "Geschlecht": null,
-                "Funktionsbezeichnungen": null,
-                "Titel": "Herzogin",
-                "unidentifiziert": false
+                "geschlecht": null,
+                "funktionsbezeichnungen": null,
+                "titel": "Herzogin",
+                "unidentifiziert": false,
+                "title_alt": []
             }
         ],
         "description": "",
@@ -5256,10 +5373,11 @@
                 "img_source": "",
                 "birth_date_written": "",
                 "death_date_written": "",
-                "Geschlecht": null,
-                "Funktionsbezeichnungen": null,
-                "Titel": "Herzogin",
-                "unidentifiziert": false
+                "geschlecht": null,
+                "funktionsbezeichnungen": null,
+                "titel": "Herzogin",
+                "unidentifiziert": false,
+                "title_alt": []
             }
         ],
         "description": "",
@@ -5318,10 +5436,11 @@
                 "img_source": "commonsMedia",
                 "birth_date_written": null,
                 "death_date_written": null,
-                "Geschlecht": null,
-                "Funktionsbezeichnungen": null,
-                "Titel": "Herzogin",
-                "unidentifiziert": false
+                "geschlecht": null,
+                "funktionsbezeichnungen": null,
+                "titel": "Herzogin",
+                "unidentifiziert": false,
+                "title_alt": []
             }
         ],
         "description": "",
@@ -5380,10 +5499,11 @@
                 "img_source": "commonsMedia",
                 "birth_date_written": null,
                 "death_date_written": null,
-                "Geschlecht": null,
-                "Funktionsbezeichnungen": null,
-                "Titel": "Kaiser",
-                "unidentifiziert": false
+                "geschlecht": null,
+                "funktionsbezeichnungen": null,
+                "titel": "Kaiser",
+                "unidentifiziert": false,
+                "title_alt": []
             },
             {
                 "id": 137,
@@ -5405,10 +5525,11 @@
                 "img_source": "",
                 "birth_date_written": "",
                 "death_date_written": "",
-                "Geschlecht": null,
-                "Funktionsbezeichnungen": null,
-                "Titel": "Kaiserin",
-                "unidentifiziert": false
+                "geschlecht": null,
+                "funktionsbezeichnungen": null,
+                "titel": "Kaiserin",
+                "unidentifiziert": false,
+                "title_alt": []
             }
         ],
         "description": "",
@@ -5467,10 +5588,11 @@
                 "img_source": "commonsMedia",
                 "birth_date_written": null,
                 "death_date_written": null,
-                "Geschlecht": null,
-                "Funktionsbezeichnungen": null,
-                "Titel": "Kaiser",
-                "unidentifiziert": false
+                "geschlecht": null,
+                "funktionsbezeichnungen": null,
+                "titel": "Kaiser",
+                "unidentifiziert": false,
+                "title_alt": []
             },
             {
                 "id": 138,
@@ -5492,10 +5614,11 @@
                 "img_source": "",
                 "birth_date_written": "",
                 "death_date_written": "",
-                "Geschlecht": null,
-                "Funktionsbezeichnungen": null,
-                "Titel": "Kaiserin",
-                "unidentifiziert": false
+                "geschlecht": null,
+                "funktionsbezeichnungen": null,
+                "titel": "Kaiserin",
+                "unidentifiziert": false,
+                "title_alt": []
             }
         ],
         "description": "",
@@ -5554,10 +5677,11 @@
                 "img_source": "commonsMedia",
                 "birth_date_written": null,
                 "death_date_written": null,
-                "Geschlecht": null,
-                "Funktionsbezeichnungen": null,
-                "Titel": "Kaiser",
-                "unidentifiziert": false
+                "geschlecht": null,
+                "funktionsbezeichnungen": null,
+                "titel": "Kaiser",
+                "unidentifiziert": false,
+                "title_alt": []
             }
         ],
         "description": "",
@@ -5616,10 +5740,11 @@
                 "img_source": null,
                 "birth_date_written": null,
                 "death_date_written": null,
-                "Geschlecht": null,
-                "Funktionsbezeichnungen": null,
-                "Titel": "Erzherzogin, Kurfürstin",
-                "unidentifiziert": false
+                "geschlecht": null,
+                "funktionsbezeichnungen": null,
+                "titel": "Erzherzogin, Kurfürstin",
+                "unidentifiziert": false,
+                "title_alt": []
             },
             {
                 "id": 139,
@@ -5641,10 +5766,11 @@
                 "img_source": "",
                 "birth_date_written": "",
                 "death_date_written": "",
-                "Geschlecht": null,
-                "Funktionsbezeichnungen": null,
-                "Titel": "Kurfürst",
-                "unidentifiziert": false
+                "geschlecht": null,
+                "funktionsbezeichnungen": null,
+                "titel": "Kurfürst",
+                "unidentifiziert": false,
+                "title_alt": []
             }
         ],
         "description": "",

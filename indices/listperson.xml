@@ -7106,7 +7106,7 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                   </figure>
                </person>
                <person xml:id="emt_person_id__833">
-                  <persName>Braunschweig-Lüneburg (Hannover), Charlotte Felicitas von, vereh. Modena</persName>
+                  <persName>Braunschweig-Lüneburg (Calenberg), Charlotte Felicitas von, vereh. Modena</persName>
                   <birth>
                      <date notBefore="1671-01-01" notAfter="1671-12-31">1671</date>
                   </birth>
@@ -7122,7 +7122,7 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                   </figure>
                </person>
                <person xml:id="emt_person_id__834">
-                  <persName>Braunschweig-Lüneburg (Hannover), Henriette Marie</persName>
+                  <persName>Braunschweig-Lüneburg (Calenberg), Henriette Marie von</persName>
                   <birth>
                      <date notBefore="1672-01-01" notAfter="1672-12-31">1672</date>
                   </birth>
@@ -7214,7 +7214,11 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                   </figure>
                </person>
                <person xml:id="emt_person_id__844">
-                  <persName>Los, Wladislaw</persName>
+                  <persName>Los, Wladislaw Stanislaw</persName>
+                  <death>
+                     <date notBefore="1694-01-01" notAfter="1694-12-31">1694</date>
+                  </death>
+                  <idno type="URL">https://pl.wikipedia.org/wiki/W%C5%82adys%C5%82aw_Stanis%C5%82aw_%C5%81o%C5%9B</idno>
                </person>
                <person xml:id="emt_person_id__845">
                   <persName>Spanien, Haus</persName>
@@ -7266,7 +7270,7 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                   </figure>
                </person>
                <person xml:id="emt_person_id__852">
-                  <persName>Kolowrat, Franz Wilhelm von</persName>
+                  <persName>Kolowrat, Franz Wilhelm Liebsteinsky von</persName>
                   <birth>
                      <date notBefore="1653-01-01" notAfter="1653-12-31">1653</date>
                   </birth>

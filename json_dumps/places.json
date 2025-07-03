@@ -2457,7 +2457,7 @@
     "gnd": "",
     "alternative_name": "",
     "wikidata_url": "",
-    "unidentifiziert": true
+    "unidentifiziert": false
   },
   "172": {
     "id": 172,
@@ -3267,7 +3267,7 @@
     "gnd": "",
     "alternative_name": "",
     "wikidata_url": "",
-    "unidentifiziert": true
+    "unidentifiziert": false
   },
   "229": {
     "id": 229,
@@ -3579,7 +3579,7 @@
     "lat": null,
     "long": null,
     "comments intern": "",
-    "gnd": "",
+    "gnd": "https://d-nb.info/gnd/4007955-7",
     "alternative_name": "",
     "wikidata_url": "",
     "unidentifiziert": false
@@ -3879,7 +3879,7 @@
     "lat": null,
     "long": null,
     "comments intern": "",
-    "gnd": "",
+    "gnd": "https://d-nb.info/gnd/4054835-1",
     "alternative_name": "",
     "wikidata_url": "",
     "unidentifiziert": false
@@ -3894,7 +3894,7 @@
     "lat": null,
     "long": null,
     "comments intern": "",
-    "gnd": "",
+    "gnd": "https://d-nb.info/gnd/4095261-7",
     "alternative_name": "",
     "wikidata_url": "",
     "unidentifiziert": false
@@ -3912,17 +3912,17 @@
     "gnd": "",
     "alternative_name": "",
     "wikidata_url": "",
-    "unidentifiziert": false
+    "unidentifiziert": true
   },
   "272": {
     "id": 272,
     "order": "267.00000000000000000000",
     "name": "Save, Fluss",
-    "geonames": "",
+    "geonames": "https://www.geonames.org/1027190/save.html",
     "emt_id": "emt_place_id__272",
     "place_type": null,
-    "lat": null,
-    "long": null,
+    "lat": "-20.90725",
+    "long": "35.067330",
     "comments intern": "",
     "gnd": "",
     "alternative_name": "",
@@ -4014,7 +4014,7 @@
     "lat": null,
     "long": null,
     "comments intern": "",
-    "gnd": "",
+    "gnd": "https://d-nb.info/gnd/4116939-6",
     "alternative_name": "",
     "wikidata_url": "",
     "unidentifiziert": false
@@ -4029,7 +4029,7 @@
     "lat": null,
     "long": null,
     "comments intern": "",
-    "gnd": "",
+    "gnd": "https://d-nb.info/gnd/4086538-1",
     "alternative_name": "",
     "wikidata_url": "",
     "unidentifiziert": false
@@ -4239,7 +4239,7 @@
     "lat": null,
     "long": null,
     "comments intern": "kein Nachweis in GND!",
-    "gnd": "",
+    "gnd": "https://d-nb.info/gnd/4085539-9",
     "alternative_name": "",
     "wikidata_url": "",
     "unidentifiziert": false
@@ -4509,7 +4509,7 @@
     "lat": null,
     "long": null,
     "comments intern": "",
-    "gnd": "",
+    "gnd": "https://d-nb.info/gnd/16029224-4",
     "alternative_name": "",
     "wikidata_url": "",
     "unidentifiziert": false
