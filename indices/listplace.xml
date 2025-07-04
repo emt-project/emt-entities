@@ -2038,6 +2038,55 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                   </location>
                   <idno type="GEONAMES">https://sws.geonames.org/2780047/</idno>
                </place>
+               <place xml:id="emt_place_id__322">
+                  <placeName>Portsmouth</placeName>
+                  <location type="coords">
+                     <geo>50.79899 -1.091250</geo>
+                  </location>
+                  <idno type="GEONAMES">https://sws.geonames.org/2639996/</idno>
+               </place>
+               <place xml:id="emt_place_id__323">
+                  <placeName>Plymouth</placeName>
+                  <location type="coords">
+                     <geo>50.37153 -4.143050</geo>
+                  </location>
+                  <idno type="GEONAMES">https://sws.geonames.org/2640194/</idno>
+               </place>
+               <place xml:id="emt_place_id__324">
+                  <placeName>Ten Duinen, Kloster</placeName>
+                  <location type="coords">
+                     <geo>51.11642 2.637720</geo>
+                  </location>
+                  <idno type="GEONAMES">https://sws.geonames.org/2794166/</idno>
+               </place>
+               <place xml:id="emt_place_id__325">
+                  <placeName>Walachei</placeName>
+                  <idno type="GND">https://d-nb.info/gnd/4118956-5</idno>
+               </place>
+               <place xml:id="emt_place_id__326">
+                  <placeName>Dartmouth</placeName>
+                  <location type="coords">
+                     <geo>50.35220 -3.579400</geo>
+                  </location>
+                  <idno type="GEONAMES">https://sws.geonames.org/2651498/</idno>
+               </place>
+               <place xml:id="emt_place_id__327">
+                  <placeName>Ärmelkanal</placeName>
+                  <location type="coords">
+                     <geo>50.00000 -1.000000</geo>
+                  </location>
+                  <idno type="GEONAMES">https://sws.geonames.org/2649991/</idno>
+               </place>
+               <place xml:id="emt_place_id__328">
+                  <placeName>Raitzen</placeName>
+               </place>
+               <place xml:id="emt_place_id__329">
+                  <placeName>Brest</placeName>
+                  <location type="coords">
+                     <geo>48.39029 -4.486280</geo>
+                  </location>
+                  <idno type="GEONAMES">https://sws.geonames.org/3030300/</idno>
+               </place>
             </listPlace>
          </div>
       </body>

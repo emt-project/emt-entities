@@ -48,7 +48,13 @@
                 "funktionsbezeichnungen": null,
                 "titel": "Kaiserin",
                 "unidentifiziert": false,
-                "title_alt": []
+                "titel_new": [
+                    {
+                        "id": 19702,
+                        "value": "Kaiserin",
+                        "color": "deep-dark-orange"
+                    }
+                ]
             },
             {
                 "id": 10,
@@ -74,7 +80,18 @@
                 "funktionsbezeichnungen": null,
                 "titel": "Herzogin, Kurfürstin",
                 "unidentifiziert": false,
-                "title_alt": []
+                "titel_new": [
+                    {
+                        "id": 19691,
+                        "value": "Herzogin",
+                        "color": "light-brown"
+                    },
+                    {
+                        "id": 19701,
+                        "value": "Kurfürstin",
+                        "color": "brown"
+                    }
+                ]
             },
             {
                 "id": 50,
@@ -100,7 +117,18 @@
                 "funktionsbezeichnungen": null,
                 "titel": "Herzog, Kurfürst",
                 "unidentifiziert": false,
-                "title_alt": []
+                "titel_new": [
+                    {
+                        "id": 19690,
+                        "value": "Herzog",
+                        "color": "darker-blue"
+                    },
+                    {
+                        "id": 19695,
+                        "value": "Kurfürst",
+                        "color": "light-pink"
+                    }
+                ]
             }
         ],
         "description": null,
@@ -163,7 +191,13 @@
                 "funktionsbezeichnungen": null,
                 "titel": "Kaiserin",
                 "unidentifiziert": false,
-                "title_alt": []
+                "titel_new": [
+                    {
+                        "id": 19702,
+                        "value": "Kaiserin",
+                        "color": "deep-dark-orange"
+                    }
+                ]
             },
             {
                 "id": 35,
@@ -189,7 +223,13 @@
                 "funktionsbezeichnungen": null,
                 "titel": "Kaiser",
                 "unidentifiziert": false,
-                "title_alt": []
+                "titel_new": [
+                    {
+                        "id": 19708,
+                        "value": "Kaiser",
+                        "color": "darker-red"
+                    }
+                ]
             }
         ],
         "description": null,
@@ -288,7 +328,13 @@
                 "funktionsbezeichnungen": null,
                 "titel": "Kaiserin",
                 "unidentifiziert": false,
-                "title_alt": []
+                "titel_new": [
+                    {
+                        "id": 19702,
+                        "value": "Kaiserin",
+                        "color": "deep-dark-orange"
+                    }
+                ]
             },
             {
                 "id": 25,
@@ -314,7 +360,18 @@
                 "funktionsbezeichnungen": null,
                 "titel": "Erzherzog, Kaiser",
                 "unidentifiziert": false,
-                "title_alt": []
+                "titel_new": [
+                    {
+                        "id": 19703,
+                        "value": "Erzherzog",
+                        "color": "deep-dark-green"
+                    },
+                    {
+                        "id": 19708,
+                        "value": "Kaiser",
+                        "color": "darker-red"
+                    }
+                ]
             }
         ],
         "description": "",
@@ -377,7 +434,13 @@
                 "funktionsbezeichnungen": null,
                 "titel": "Kaiserin",
                 "unidentifiziert": false,
-                "title_alt": []
+                "titel_new": [
+                    {
+                        "id": 19702,
+                        "value": "Kaiserin",
+                        "color": "deep-dark-orange"
+                    }
+                ]
             },
             {
                 "id": 35,
@@ -403,7 +466,13 @@
                 "funktionsbezeichnungen": null,
                 "titel": "Kaiser",
                 "unidentifiziert": false,
-                "title_alt": []
+                "titel_new": [
+                    {
+                        "id": 19708,
+                        "value": "Kaiser",
+                        "color": "darker-red"
+                    }
+                ]
             }
         ],
         "description": "",
@@ -466,7 +535,13 @@
                 "funktionsbezeichnungen": null,
                 "titel": "Kaiserin",
                 "unidentifiziert": false,
-                "title_alt": []
+                "titel_new": [
+                    {
+                        "id": 19702,
+                        "value": "Kaiserin",
+                        "color": "deep-dark-orange"
+                    }
+                ]
             },
             {
                 "id": 25,
@@ -492,7 +567,18 @@
                 "funktionsbezeichnungen": null,
                 "titel": "Erzherzog, Kaiser",
                 "unidentifiziert": false,
-                "title_alt": []
+                "titel_new": [
+                    {
+                        "id": 19703,
+                        "value": "Erzherzog",
+                        "color": "deep-dark-green"
+                    },
+                    {
+                        "id": 19708,
+                        "value": "Kaiser",
+                        "color": "darker-red"
+                    }
+                ]
             },
             {
                 "id": 35,
@@ -518,7 +604,13 @@
                 "funktionsbezeichnungen": null,
                 "titel": "Kaiser",
                 "unidentifiziert": false,
-                "title_alt": []
+                "titel_new": [
+                    {
+                        "id": 19708,
+                        "value": "Kaiser",
+                        "color": "darker-red"
+                    }
+                ]
             },
             {
                 "id": 109,
@@ -544,7 +636,18 @@
                 "funktionsbezeichnungen": null,
                 "titel": "Herzogin, Kaiserin",
                 "unidentifiziert": false,
-                "title_alt": []
+                "titel_new": [
+                    {
+                        "id": 19691,
+                        "value": "Herzogin",
+                        "color": "light-brown"
+                    },
+                    {
+                        "id": 19702,
+                        "value": "Kaiserin",
+                        "color": "deep-dark-orange"
+                    }
+                ]
             }
         ],
         "description": "",
@@ -607,7 +710,13 @@
                 "funktionsbezeichnungen": null,
                 "titel": "Kaiserin",
                 "unidentifiziert": false,
-                "title_alt": []
+                "titel_new": [
+                    {
+                        "id": 19702,
+                        "value": "Kaiserin",
+                        "color": "deep-dark-orange"
+                    }
+                ]
             },
             {
                 "id": 25,
@@ -633,7 +742,18 @@
                 "funktionsbezeichnungen": null,
                 "titel": "Erzherzog, Kaiser",
                 "unidentifiziert": false,
-                "title_alt": []
+                "titel_new": [
+                    {
+                        "id": 19703,
+                        "value": "Erzherzog",
+                        "color": "deep-dark-green"
+                    },
+                    {
+                        "id": 19708,
+                        "value": "Kaiser",
+                        "color": "darker-red"
+                    }
+                ]
             },
             {
                 "id": 109,
@@ -659,7 +779,18 @@
                 "funktionsbezeichnungen": null,
                 "titel": "Herzogin, Kaiserin",
                 "unidentifiziert": false,
-                "title_alt": []
+                "titel_new": [
+                    {
+                        "id": 19691,
+                        "value": "Herzogin",
+                        "color": "light-brown"
+                    },
+                    {
+                        "id": 19702,
+                        "value": "Kaiserin",
+                        "color": "deep-dark-orange"
+                    }
+                ]
             }
         ],
         "description": "",
@@ -722,7 +853,13 @@
                 "funktionsbezeichnungen": null,
                 "titel": "Kaiserin",
                 "unidentifiziert": false,
-                "title_alt": []
+                "titel_new": [
+                    {
+                        "id": 19702,
+                        "value": "Kaiserin",
+                        "color": "deep-dark-orange"
+                    }
+                ]
             },
             {
                 "id": 35,
@@ -748,7 +885,13 @@
                 "funktionsbezeichnungen": null,
                 "titel": "Kaiser",
                 "unidentifiziert": false,
-                "title_alt": []
+                "titel_new": [
+                    {
+                        "id": 19708,
+                        "value": "Kaiser",
+                        "color": "darker-red"
+                    }
+                ]
             }
         ],
         "description": "",
@@ -811,7 +954,13 @@
                 "funktionsbezeichnungen": null,
                 "titel": "Kaiserin",
                 "unidentifiziert": false,
-                "title_alt": []
+                "titel_new": [
+                    {
+                        "id": 19702,
+                        "value": "Kaiserin",
+                        "color": "deep-dark-orange"
+                    }
+                ]
             },
             {
                 "id": 31,
@@ -837,7 +986,23 @@
                 "funktionsbezeichnungen": null,
                 "titel": "Erzherzog, König, Kaiser",
                 "unidentifiziert": false,
-                "title_alt": []
+                "titel_new": [
+                    {
+                        "id": 19703,
+                        "value": "Erzherzog",
+                        "color": "deep-dark-green"
+                    },
+                    {
+                        "id": 19697,
+                        "value": "König",
+                        "color": "dark-red"
+                    },
+                    {
+                        "id": 19708,
+                        "value": "Kaiser",
+                        "color": "darker-red"
+                    }
+                ]
             },
             {
                 "id": 110,
@@ -863,7 +1028,18 @@
                 "funktionsbezeichnungen": null,
                 "titel": "Herzogin, Kaiserin",
                 "unidentifiziert": false,
-                "title_alt": []
+                "titel_new": [
+                    {
+                        "id": 19691,
+                        "value": "Herzogin",
+                        "color": "light-brown"
+                    },
+                    {
+                        "id": 19702,
+                        "value": "Kaiserin",
+                        "color": "deep-dark-orange"
+                    }
+                ]
             }
         ],
         "description": "",
@@ -926,7 +1102,13 @@
                 "funktionsbezeichnungen": null,
                 "titel": "Kaiserin",
                 "unidentifiziert": false,
-                "title_alt": []
+                "titel_new": [
+                    {
+                        "id": 19702,
+                        "value": "Kaiserin",
+                        "color": "deep-dark-orange"
+                    }
+                ]
             },
             {
                 "id": 35,
@@ -952,7 +1134,13 @@
                 "funktionsbezeichnungen": null,
                 "titel": "Kaiser",
                 "unidentifiziert": false,
-                "title_alt": []
+                "titel_new": [
+                    {
+                        "id": 19708,
+                        "value": "Kaiser",
+                        "color": "darker-red"
+                    }
+                ]
             }
         ],
         "description": "",
@@ -1015,7 +1203,13 @@
                 "funktionsbezeichnungen": null,
                 "titel": "Kaiserin",
                 "unidentifiziert": false,
-                "title_alt": []
+                "titel_new": [
+                    {
+                        "id": 19702,
+                        "value": "Kaiserin",
+                        "color": "deep-dark-orange"
+                    }
+                ]
             },
             {
                 "id": 35,
@@ -1041,7 +1235,13 @@
                 "funktionsbezeichnungen": null,
                 "titel": "Kaiser",
                 "unidentifiziert": false,
-                "title_alt": []
+                "titel_new": [
+                    {
+                        "id": 19708,
+                        "value": "Kaiser",
+                        "color": "darker-red"
+                    }
+                ]
             }
         ],
         "description": "",
@@ -1104,7 +1304,13 @@
                 "funktionsbezeichnungen": null,
                 "titel": "Kaiserin",
                 "unidentifiziert": false,
-                "title_alt": []
+                "titel_new": [
+                    {
+                        "id": 19702,
+                        "value": "Kaiserin",
+                        "color": "deep-dark-orange"
+                    }
+                ]
             },
             {
                 "id": 25,
@@ -1130,7 +1336,18 @@
                 "funktionsbezeichnungen": null,
                 "titel": "Erzherzog, Kaiser",
                 "unidentifiziert": false,
-                "title_alt": []
+                "titel_new": [
+                    {
+                        "id": 19703,
+                        "value": "Erzherzog",
+                        "color": "deep-dark-green"
+                    },
+                    {
+                        "id": 19708,
+                        "value": "Kaiser",
+                        "color": "darker-red"
+                    }
+                ]
             },
             {
                 "id": 35,
@@ -1156,7 +1373,13 @@
                 "funktionsbezeichnungen": null,
                 "titel": "Kaiser",
                 "unidentifiziert": false,
-                "title_alt": []
+                "titel_new": [
+                    {
+                        "id": 19708,
+                        "value": "Kaiser",
+                        "color": "darker-red"
+                    }
+                ]
             }
         ],
         "description": "",
@@ -1219,7 +1442,13 @@
                 "funktionsbezeichnungen": null,
                 "titel": "Kaiserin",
                 "unidentifiziert": false,
-                "title_alt": []
+                "titel_new": [
+                    {
+                        "id": 19702,
+                        "value": "Kaiserin",
+                        "color": "deep-dark-orange"
+                    }
+                ]
             },
             {
                 "id": 25,
@@ -1245,7 +1474,18 @@
                 "funktionsbezeichnungen": null,
                 "titel": "Erzherzog, Kaiser",
                 "unidentifiziert": false,
-                "title_alt": []
+                "titel_new": [
+                    {
+                        "id": 19703,
+                        "value": "Erzherzog",
+                        "color": "deep-dark-green"
+                    },
+                    {
+                        "id": 19708,
+                        "value": "Kaiser",
+                        "color": "darker-red"
+                    }
+                ]
             },
             {
                 "id": 35,
@@ -1271,7 +1511,13 @@
                 "funktionsbezeichnungen": null,
                 "titel": "Kaiser",
                 "unidentifiziert": false,
-                "title_alt": []
+                "titel_new": [
+                    {
+                        "id": 19708,
+                        "value": "Kaiser",
+                        "color": "darker-red"
+                    }
+                ]
             }
         ],
         "description": "",
@@ -1334,7 +1580,23 @@
                 "funktionsbezeichnungen": null,
                 "titel": "Erzherzog, König, Kaiser",
                 "unidentifiziert": false,
-                "title_alt": []
+                "titel_new": [
+                    {
+                        "id": 19703,
+                        "value": "Erzherzog",
+                        "color": "deep-dark-green"
+                    },
+                    {
+                        "id": 19697,
+                        "value": "König",
+                        "color": "dark-red"
+                    },
+                    {
+                        "id": 19708,
+                        "value": "Kaiser",
+                        "color": "darker-red"
+                    }
+                ]
             }
         ],
         "description": "",
@@ -1397,7 +1659,23 @@
                 "funktionsbezeichnungen": null,
                 "titel": "Erzherzog, König, Kaiser",
                 "unidentifiziert": false,
-                "title_alt": []
+                "titel_new": [
+                    {
+                        "id": 19703,
+                        "value": "Erzherzog",
+                        "color": "deep-dark-green"
+                    },
+                    {
+                        "id": 19697,
+                        "value": "König",
+                        "color": "dark-red"
+                    },
+                    {
+                        "id": 19708,
+                        "value": "Kaiser",
+                        "color": "darker-red"
+                    }
+                ]
             }
         ],
         "description": "",
@@ -1460,7 +1738,23 @@
                 "funktionsbezeichnungen": null,
                 "titel": "Erzherzog, König, Kaiser",
                 "unidentifiziert": false,
-                "title_alt": []
+                "titel_new": [
+                    {
+                        "id": 19703,
+                        "value": "Erzherzog",
+                        "color": "deep-dark-green"
+                    },
+                    {
+                        "id": 19697,
+                        "value": "König",
+                        "color": "dark-red"
+                    },
+                    {
+                        "id": 19708,
+                        "value": "Kaiser",
+                        "color": "darker-red"
+                    }
+                ]
             },
             {
                 "id": 110,
@@ -1486,7 +1780,18 @@
                 "funktionsbezeichnungen": null,
                 "titel": "Herzogin, Kaiserin",
                 "unidentifiziert": false,
-                "title_alt": []
+                "titel_new": [
+                    {
+                        "id": 19691,
+                        "value": "Herzogin",
+                        "color": "light-brown"
+                    },
+                    {
+                        "id": 19702,
+                        "value": "Kaiserin",
+                        "color": "deep-dark-orange"
+                    }
+                ]
             }
         ],
         "description": "",
@@ -1549,7 +1854,13 @@
                 "funktionsbezeichnungen": null,
                 "titel": "Kaiserin",
                 "unidentifiziert": false,
-                "title_alt": []
+                "titel_new": [
+                    {
+                        "id": 19702,
+                        "value": "Kaiserin",
+                        "color": "deep-dark-orange"
+                    }
+                ]
             }
         ],
         "description": "",
@@ -1612,7 +1923,13 @@
                 "funktionsbezeichnungen": null,
                 "titel": "Kaiserin",
                 "unidentifiziert": false,
-                "title_alt": []
+                "titel_new": [
+                    {
+                        "id": 19702,
+                        "value": "Kaiserin",
+                        "color": "deep-dark-orange"
+                    }
+                ]
             }
         ],
         "description": "",
@@ -1659,7 +1976,13 @@
                 "funktionsbezeichnungen": null,
                 "titel": "Kaiserin",
                 "unidentifiziert": false,
-                "title_alt": []
+                "titel_new": [
+                    {
+                        "id": 19702,
+                        "value": "Kaiserin",
+                        "color": "deep-dark-orange"
+                    }
+                ]
             },
             {
                 "id": 112,
@@ -1685,7 +2008,13 @@
                 "funktionsbezeichnungen": null,
                 "titel": "Erzherzog",
                 "unidentifiziert": false,
-                "title_alt": []
+                "titel_new": [
+                    {
+                        "id": 19703,
+                        "value": "Erzherzog",
+                        "color": "deep-dark-green"
+                    }
+                ]
             }
         ],
         "description": "",
@@ -1748,7 +2077,13 @@
                 "funktionsbezeichnungen": null,
                 "titel": "Erzherzog",
                 "unidentifiziert": false,
-                "title_alt": []
+                "titel_new": [
+                    {
+                        "id": 19703,
+                        "value": "Erzherzog",
+                        "color": "deep-dark-green"
+                    }
+                ]
             }
         ],
         "description": "",
@@ -1811,7 +2146,13 @@
                 "funktionsbezeichnungen": null,
                 "titel": "Kaiserin",
                 "unidentifiziert": false,
-                "title_alt": []
+                "titel_new": [
+                    {
+                        "id": 19702,
+                        "value": "Kaiserin",
+                        "color": "deep-dark-orange"
+                    }
+                ]
             },
             {
                 "id": 113,
@@ -1837,7 +2178,13 @@
                 "funktionsbezeichnungen": null,
                 "titel": "Erzherzogin",
                 "unidentifiziert": false,
-                "title_alt": []
+                "titel_new": [
+                    {
+                        "id": 19699,
+                        "value": "Erzherzogin",
+                        "color": "darker-cyan"
+                    }
+                ]
             }
         ],
         "description": "",
@@ -1900,7 +2247,13 @@
                 "funktionsbezeichnungen": null,
                 "titel": "Kaiserin",
                 "unidentifiziert": false,
-                "title_alt": []
+                "titel_new": [
+                    {
+                        "id": 19702,
+                        "value": "Kaiserin",
+                        "color": "deep-dark-orange"
+                    }
+                ]
             },
             {
                 "id": 113,
@@ -1926,7 +2279,13 @@
                 "funktionsbezeichnungen": null,
                 "titel": "Erzherzogin",
                 "unidentifiziert": false,
-                "title_alt": []
+                "titel_new": [
+                    {
+                        "id": 19699,
+                        "value": "Erzherzogin",
+                        "color": "darker-cyan"
+                    }
+                ]
             }
         ],
         "description": "",
@@ -1989,7 +2348,13 @@
                 "funktionsbezeichnungen": null,
                 "titel": "Kaiserin",
                 "unidentifiziert": false,
-                "title_alt": []
+                "titel_new": [
+                    {
+                        "id": 19702,
+                        "value": "Kaiserin",
+                        "color": "deep-dark-orange"
+                    }
+                ]
             },
             {
                 "id": 115,
@@ -2015,7 +2380,13 @@
                 "funktionsbezeichnungen": null,
                 "titel": "Erzherzogin",
                 "unidentifiziert": false,
-                "title_alt": []
+                "titel_new": [
+                    {
+                        "id": 19699,
+                        "value": "Erzherzogin",
+                        "color": "darker-cyan"
+                    }
+                ]
             }
         ],
         "description": "",
@@ -2078,7 +2449,13 @@
                 "funktionsbezeichnungen": null,
                 "titel": "Erzherzogin",
                 "unidentifiziert": false,
-                "title_alt": []
+                "titel_new": [
+                    {
+                        "id": 19699,
+                        "value": "Erzherzogin",
+                        "color": "darker-cyan"
+                    }
+                ]
             }
         ],
         "description": "",
@@ -2141,7 +2518,13 @@
                 "funktionsbezeichnungen": null,
                 "titel": "Kaiserin",
                 "unidentifiziert": false,
-                "title_alt": []
+                "titel_new": [
+                    {
+                        "id": 19702,
+                        "value": "Kaiserin",
+                        "color": "deep-dark-orange"
+                    }
+                ]
             },
             {
                 "id": 114,
@@ -2167,7 +2550,13 @@
                 "funktionsbezeichnungen": null,
                 "titel": "Erzherzogin",
                 "unidentifiziert": false,
-                "title_alt": []
+                "titel_new": [
+                    {
+                        "id": 19699,
+                        "value": "Erzherzogin",
+                        "color": "darker-cyan"
+                    }
+                ]
             }
         ],
         "description": "",
@@ -2230,7 +2619,13 @@
                 "funktionsbezeichnungen": null,
                 "titel": "Erzherzogin",
                 "unidentifiziert": false,
-                "title_alt": []
+                "titel_new": [
+                    {
+                        "id": 19699,
+                        "value": "Erzherzogin",
+                        "color": "darker-cyan"
+                    }
+                ]
             }
         ],
         "description": "",
@@ -2293,7 +2688,13 @@
                 "funktionsbezeichnungen": null,
                 "titel": "Kaiserin",
                 "unidentifiziert": false,
-                "title_alt": []
+                "titel_new": [
+                    {
+                        "id": 19702,
+                        "value": "Kaiserin",
+                        "color": "deep-dark-orange"
+                    }
+                ]
             },
             {
                 "id": 116,
@@ -2319,7 +2720,13 @@
                 "funktionsbezeichnungen": null,
                 "titel": "Erzherzogin",
                 "unidentifiziert": false,
-                "title_alt": []
+                "titel_new": [
+                    {
+                        "id": 19699,
+                        "value": "Erzherzogin",
+                        "color": "darker-cyan"
+                    }
+                ]
             }
         ],
         "description": "",
@@ -2382,7 +2789,13 @@
                 "funktionsbezeichnungen": null,
                 "titel": "Kaiserin",
                 "unidentifiziert": false,
-                "title_alt": []
+                "titel_new": [
+                    {
+                        "id": 19702,
+                        "value": "Kaiserin",
+                        "color": "deep-dark-orange"
+                    }
+                ]
             },
             {
                 "id": 117,
@@ -2408,7 +2821,13 @@
                 "funktionsbezeichnungen": null,
                 "titel": "Erzherzogin",
                 "unidentifiziert": false,
-                "title_alt": []
+                "titel_new": [
+                    {
+                        "id": 19699,
+                        "value": "Erzherzogin",
+                        "color": "darker-cyan"
+                    }
+                ]
             }
         ],
         "description": "",
@@ -2455,7 +2874,13 @@
                 "funktionsbezeichnungen": null,
                 "titel": "Erzherzogin",
                 "unidentifiziert": false,
-                "title_alt": []
+                "titel_new": [
+                    {
+                        "id": 19699,
+                        "value": "Erzherzogin",
+                        "color": "darker-cyan"
+                    }
+                ]
             }
         ],
         "description": "",
@@ -2518,7 +2943,18 @@
                 "funktionsbezeichnungen": null,
                 "titel": "Herzog, Kurfürst",
                 "unidentifiziert": false,
-                "title_alt": []
+                "titel_new": [
+                    {
+                        "id": 19690,
+                        "value": "Herzog",
+                        "color": "darker-blue"
+                    },
+                    {
+                        "id": 19695,
+                        "value": "Kurfürst",
+                        "color": "light-pink"
+                    }
+                ]
             }
         ],
         "description": "",
@@ -2581,7 +3017,18 @@
                 "funktionsbezeichnungen": null,
                 "titel": "Herzog, Kurfürst",
                 "unidentifiziert": false,
-                "title_alt": []
+                "titel_new": [
+                    {
+                        "id": 19690,
+                        "value": "Herzog",
+                        "color": "darker-blue"
+                    },
+                    {
+                        "id": 19695,
+                        "value": "Kurfürst",
+                        "color": "light-pink"
+                    }
+                ]
             }
         ],
         "description": "",
@@ -2644,7 +3091,18 @@
                 "funktionsbezeichnungen": null,
                 "titel": "Herzog, Kurfürst",
                 "unidentifiziert": false,
-                "title_alt": []
+                "titel_new": [
+                    {
+                        "id": 19690,
+                        "value": "Herzog",
+                        "color": "darker-blue"
+                    },
+                    {
+                        "id": 19695,
+                        "value": "Kurfürst",
+                        "color": "light-pink"
+                    }
+                ]
             },
             {
                 "id": 60,
@@ -2670,7 +3128,18 @@
                 "funktionsbezeichnungen": null,
                 "titel": "Erzherzogin, Herzogin",
                 "unidentifiziert": false,
-                "title_alt": []
+                "titel_new": [
+                    {
+                        "id": 19699,
+                        "value": "Erzherzogin",
+                        "color": "darker-cyan"
+                    },
+                    {
+                        "id": 19691,
+                        "value": "Herzogin",
+                        "color": "light-brown"
+                    }
+                ]
             }
         ],
         "description": "",
@@ -2733,7 +3202,18 @@
                 "funktionsbezeichnungen": null,
                 "titel": "Erzherzogin, Herzogin",
                 "unidentifiziert": false,
-                "title_alt": []
+                "titel_new": [
+                    {
+                        "id": 19699,
+                        "value": "Erzherzogin",
+                        "color": "darker-cyan"
+                    },
+                    {
+                        "id": 19691,
+                        "value": "Herzogin",
+                        "color": "light-brown"
+                    }
+                ]
             }
         ],
         "description": "",
@@ -2796,7 +3276,13 @@
                 "funktionsbezeichnungen": null,
                 "titel": "Kurfürstin",
                 "unidentifiziert": false,
-                "title_alt": []
+                "titel_new": [
+                    {
+                        "id": 19701,
+                        "value": "Kurfürstin",
+                        "color": "brown"
+                    }
+                ]
             }
         ],
         "description": "",
@@ -2859,7 +3345,18 @@
                 "funktionsbezeichnungen": null,
                 "titel": "Herzog, Kurfürst",
                 "unidentifiziert": false,
-                "title_alt": []
+                "titel_new": [
+                    {
+                        "id": 19690,
+                        "value": "Herzog",
+                        "color": "darker-blue"
+                    },
+                    {
+                        "id": 19695,
+                        "value": "Kurfürst",
+                        "color": "light-pink"
+                    }
+                ]
             }
         ],
         "description": "",
@@ -2922,7 +3419,13 @@
                 "funktionsbezeichnungen": "Weihbischof von Köln, gewählter Fürstbischof von Breslau",
                 "titel": "Herzog",
                 "unidentifiziert": false,
-                "title_alt": []
+                "titel_new": [
+                    {
+                        "id": 19690,
+                        "value": "Herzog",
+                        "color": "darker-blue"
+                    }
+                ]
             }
         ],
         "description": "",
@@ -2985,7 +3488,13 @@
                 "funktionsbezeichnungen": "Weihbischof von Köln, gewählter Fürstbischof von Breslau",
                 "titel": "Herzog",
                 "unidentifiziert": false,
-                "title_alt": []
+                "titel_new": [
+                    {
+                        "id": 19690,
+                        "value": "Herzog",
+                        "color": "darker-blue"
+                    }
+                ]
             }
         ],
         "description": "",
@@ -3048,7 +3557,13 @@
                 "funktionsbezeichnungen": "Deutschmeister, Bischof von Worms",
                 "titel": "Herzog",
                 "unidentifiziert": false,
-                "title_alt": []
+                "titel_new": [
+                    {
+                        "id": 19690,
+                        "value": "Herzog",
+                        "color": "darker-blue"
+                    }
+                ]
             }
         ],
         "description": "",
@@ -3111,7 +3626,13 @@
                 "funktionsbezeichnungen": "Deutschmeister, Bischof von Worms",
                 "titel": "Herzog",
                 "unidentifiziert": false,
-                "title_alt": []
+                "titel_new": [
+                    {
+                        "id": 19690,
+                        "value": "Herzog",
+                        "color": "darker-blue"
+                    }
+                ]
             }
         ],
         "description": "",
@@ -3174,7 +3695,13 @@
                 "funktionsbezeichnungen": "General",
                 "titel": "Herzog",
                 "unidentifiziert": false,
-                "title_alt": []
+                "titel_new": [
+                    {
+                        "id": 19690,
+                        "value": "Herzog",
+                        "color": "darker-blue"
+                    }
+                ]
             }
         ],
         "description": "",
@@ -3237,7 +3764,13 @@
                 "funktionsbezeichnungen": "General",
                 "titel": "Herzog",
                 "unidentifiziert": false,
-                "title_alt": []
+                "titel_new": [
+                    {
+                        "id": 19690,
+                        "value": "Herzog",
+                        "color": "darker-blue"
+                    }
+                ]
             },
             {
                 "id": 125,
@@ -3263,7 +3796,13 @@
                 "funktionsbezeichnungen": null,
                 "titel": "Herzogin",
                 "unidentifiziert": false,
-                "title_alt": []
+                "titel_new": [
+                    {
+                        "id": 19691,
+                        "value": "Herzogin",
+                        "color": "light-brown"
+                    }
+                ]
             }
         ],
         "description": "",
@@ -3326,7 +3865,13 @@
                 "funktionsbezeichnungen": "General",
                 "titel": "Herzog",
                 "unidentifiziert": false,
-                "title_alt": []
+                "titel_new": [
+                    {
+                        "id": 19690,
+                        "value": "Herzog",
+                        "color": "darker-blue"
+                    }
+                ]
             },
             {
                 "id": 126,
@@ -3352,16 +3897,11 @@
                 "funktionsbezeichnungen": null,
                 "titel": "Herzogin",
                 "unidentifiziert": false,
-                "title_alt": [
+                "titel_new": [
                     {
-                        "id": 19684,
-                        "value": "Graf",
-                        "color": "dark-yellow"
-                    },
-                    {
-                        "id": 19686,
-                        "value": "Kurfürst",
-                        "color": "light-orange"
+                        "id": 19691,
+                        "value": "Herzogin",
+                        "color": "light-brown"
                     }
                 ]
             }
@@ -3426,7 +3966,13 @@
                 "funktionsbezeichnungen": "Bischof von Augsburg",
                 "titel": "Herzog",
                 "unidentifiziert": false,
-                "title_alt": []
+                "titel_new": [
+                    {
+                        "id": 19690,
+                        "value": "Herzog",
+                        "color": "darker-blue"
+                    }
+                ]
             }
         ],
         "description": "",
@@ -3489,7 +4035,13 @@
                 "funktionsbezeichnungen": "Deutschmeister, Bischof von Worms",
                 "titel": "Herzog",
                 "unidentifiziert": false,
-                "title_alt": []
+                "titel_new": [
+                    {
+                        "id": 19690,
+                        "value": "Herzog",
+                        "color": "darker-blue"
+                    }
+                ]
             }
         ],
         "description": "",
@@ -3552,7 +4104,13 @@
                 "funktionsbezeichnungen": "Bischof von Augsburg",
                 "titel": "Herzog",
                 "unidentifiziert": false,
-                "title_alt": []
+                "titel_new": [
+                    {
+                        "id": 19690,
+                        "value": "Herzog",
+                        "color": "darker-blue"
+                    }
+                ]
             }
         ],
         "description": "",
@@ -3599,7 +4157,13 @@
                 "funktionsbezeichnungen": "Deutschmeister, Bischof von Worms",
                 "titel": "Herzog",
                 "unidentifiziert": false,
-                "title_alt": []
+                "titel_new": [
+                    {
+                        "id": 19690,
+                        "value": "Herzog",
+                        "color": "darker-blue"
+                    }
+                ]
             }
         ],
         "description": "",
@@ -3662,7 +4226,18 @@
                 "funktionsbezeichnungen": "Bischof von Breslau, Deutschmeister, Kurfürst und Erzbischof von Trier",
                 "titel": "Herzog, Kurfürst",
                 "unidentifiziert": false,
-                "title_alt": []
+                "titel_new": [
+                    {
+                        "id": 19690,
+                        "value": "Herzog",
+                        "color": "darker-blue"
+                    },
+                    {
+                        "id": 19695,
+                        "value": "Kurfürst",
+                        "color": "light-pink"
+                    }
+                ]
             }
         ],
         "description": "",
@@ -3725,7 +4300,18 @@
                 "funktionsbezeichnungen": "Bischof von Breslau, Deutschmeister, Kurfürst und Erzbischof von Trier",
                 "titel": "Herzog, Kurfürst",
                 "unidentifiziert": false,
-                "title_alt": []
+                "titel_new": [
+                    {
+                        "id": 19690,
+                        "value": "Herzog",
+                        "color": "darker-blue"
+                    },
+                    {
+                        "id": 19695,
+                        "value": "Kurfürst",
+                        "color": "light-pink"
+                    }
+                ]
             }
         ],
         "description": "",
@@ -3772,7 +4358,18 @@
                 "funktionsbezeichnungen": "Bischof von Breslau, Deutschmeister, Kurfürst und Erzbischof von Trier",
                 "titel": "Herzog, Kurfürst",
                 "unidentifiziert": false,
-                "title_alt": []
+                "titel_new": [
+                    {
+                        "id": 19690,
+                        "value": "Herzog",
+                        "color": "darker-blue"
+                    },
+                    {
+                        "id": 19695,
+                        "value": "Kurfürst",
+                        "color": "light-pink"
+                    }
+                ]
             }
         ],
         "description": "",
@@ -3835,7 +4432,18 @@
                 "funktionsbezeichnungen": "Bischof von Breslau, Deutschmeister, Kurfürst und Erzbischof von Trier",
                 "titel": "Herzog, Kurfürst",
                 "unidentifiziert": false,
-                "title_alt": []
+                "titel_new": [
+                    {
+                        "id": 19690,
+                        "value": "Herzog",
+                        "color": "darker-blue"
+                    },
+                    {
+                        "id": 19695,
+                        "value": "Kurfürst",
+                        "color": "light-pink"
+                    }
+                ]
             }
         ],
         "description": "",
@@ -3898,7 +4506,13 @@
                 "funktionsbezeichnungen": "General",
                 "titel": "Herzog",
                 "unidentifiziert": false,
-                "title_alt": []
+                "titel_new": [
+                    {
+                        "id": 19690,
+                        "value": "Herzog",
+                        "color": "darker-blue"
+                    }
+                ]
             }
         ],
         "description": "",
@@ -3961,7 +4575,18 @@
                 "funktionsbezeichnungen": "Bischof von Breslau, Deutschmeister, Kurfürst und Erzbischof von Trier",
                 "titel": "Herzog, Kurfürst",
                 "unidentifiziert": false,
-                "title_alt": []
+                "titel_new": [
+                    {
+                        "id": 19690,
+                        "value": "Herzog",
+                        "color": "darker-blue"
+                    },
+                    {
+                        "id": 19695,
+                        "value": "Kurfürst",
+                        "color": "light-pink"
+                    }
+                ]
             }
         ],
         "description": "",
@@ -4024,7 +4649,18 @@
                 "funktionsbezeichnungen": null,
                 "titel": "Herzogin, Kurfürstin",
                 "unidentifiziert": false,
-                "title_alt": []
+                "titel_new": [
+                    {
+                        "id": 19691,
+                        "value": "Herzogin",
+                        "color": "light-brown"
+                    },
+                    {
+                        "id": 19701,
+                        "value": "Kurfürstin",
+                        "color": "brown"
+                    }
+                ]
             }
         ],
         "description": "",
@@ -4087,7 +4723,13 @@
                 "funktionsbezeichnungen": "General",
                 "titel": "Herzog",
                 "unidentifiziert": false,
-                "title_alt": []
+                "titel_new": [
+                    {
+                        "id": 19690,
+                        "value": "Herzog",
+                        "color": "darker-blue"
+                    }
+                ]
             }
         ],
         "description": "",
@@ -4150,7 +4792,13 @@
                 "funktionsbezeichnungen": "General",
                 "titel": "Herzog",
                 "unidentifiziert": false,
-                "title_alt": []
+                "titel_new": [
+                    {
+                        "id": 19690,
+                        "value": "Herzog",
+                        "color": "darker-blue"
+                    }
+                ]
             }
         ],
         "description": "",
@@ -4213,7 +4861,13 @@
                 "funktionsbezeichnungen": null,
                 "titel": "Königin",
                 "unidentifiziert": false,
-                "title_alt": []
+                "titel_new": [
+                    {
+                        "id": 19698,
+                        "value": "Königin",
+                        "color": "pink"
+                    }
+                ]
             }
         ],
         "description": "",
@@ -4276,7 +4930,13 @@
                 "funktionsbezeichnungen": null,
                 "titel": "Königin",
                 "unidentifiziert": false,
-                "title_alt": []
+                "titel_new": [
+                    {
+                        "id": 19698,
+                        "value": "Königin",
+                        "color": "pink"
+                    }
+                ]
             },
             {
                 "id": 130,
@@ -4302,7 +4962,13 @@
                 "funktionsbezeichnungen": null,
                 "titel": "König",
                 "unidentifiziert": false,
-                "title_alt": []
+                "titel_new": [
+                    {
+                        "id": 19697,
+                        "value": "König",
+                        "color": "dark-red"
+                    }
+                ]
             }
         ],
         "description": "",
@@ -4365,7 +5031,13 @@
                 "funktionsbezeichnungen": null,
                 "titel": "Königin",
                 "unidentifiziert": false,
-                "title_alt": []
+                "titel_new": [
+                    {
+                        "id": 19698,
+                        "value": "Königin",
+                        "color": "pink"
+                    }
+                ]
             }
         ],
         "description": "",
@@ -4428,7 +5100,13 @@
                 "funktionsbezeichnungen": null,
                 "titel": "Königin",
                 "unidentifiziert": false,
-                "title_alt": []
+                "titel_new": [
+                    {
+                        "id": 19698,
+                        "value": "Königin",
+                        "color": "pink"
+                    }
+                ]
             }
         ],
         "description": "",
@@ -4491,7 +5169,13 @@
                 "funktionsbezeichnungen": null,
                 "titel": "Königin",
                 "unidentifiziert": false,
-                "title_alt": []
+                "titel_new": [
+                    {
+                        "id": 19698,
+                        "value": "Königin",
+                        "color": "pink"
+                    }
+                ]
             },
             {
                 "id": 89,
@@ -4517,7 +5201,13 @@
                 "funktionsbezeichnungen": null,
                 "titel": "König",
                 "unidentifiziert": false,
-                "title_alt": []
+                "titel_new": [
+                    {
+                        "id": 19697,
+                        "value": "König",
+                        "color": "dark-red"
+                    }
+                ]
             }
         ],
         "description": "",
@@ -4580,7 +5270,13 @@
                 "funktionsbezeichnungen": null,
                 "titel": "Königin",
                 "unidentifiziert": false,
-                "title_alt": []
+                "titel_new": [
+                    {
+                        "id": 19698,
+                        "value": "Königin",
+                        "color": "pink"
+                    }
+                ]
             }
         ],
         "description": "",
@@ -4643,7 +5339,13 @@
                 "funktionsbezeichnungen": null,
                 "titel": "Herzog",
                 "unidentifiziert": false,
-                "title_alt": []
+                "titel_new": [
+                    {
+                        "id": 19690,
+                        "value": "Herzog",
+                        "color": "darker-blue"
+                    }
+                ]
             }
         ],
         "description": "",
@@ -4706,7 +5408,18 @@
                 "funktionsbezeichnungen": null,
                 "titel": "Herzogin, Großherzogin",
                 "unidentifiziert": false,
-                "title_alt": []
+                "titel_new": [
+                    {
+                        "id": 19691,
+                        "value": "Herzogin",
+                        "color": "light-brown"
+                    },
+                    {
+                        "id": 19718,
+                        "value": "Großherzogin",
+                        "color": "light-green"
+                    }
+                ]
             },
             {
                 "id": 131,
@@ -4732,7 +5445,13 @@
                 "funktionsbezeichnungen": null,
                 "titel": "Herzog",
                 "unidentifiziert": false,
-                "title_alt": []
+                "titel_new": [
+                    {
+                        "id": 19690,
+                        "value": "Herzog",
+                        "color": "darker-blue"
+                    }
+                ]
             }
         ],
         "description": "",
@@ -4795,7 +5514,13 @@
                 "funktionsbezeichnungen": null,
                 "titel": "Herzog",
                 "unidentifiziert": false,
-                "title_alt": []
+                "titel_new": [
+                    {
+                        "id": 19690,
+                        "value": "Herzog",
+                        "color": "darker-blue"
+                    }
+                ]
             }
         ],
         "description": "",
@@ -4858,7 +5583,13 @@
                 "funktionsbezeichnungen": null,
                 "titel": "Herzogin",
                 "unidentifiziert": false,
-                "title_alt": []
+                "titel_new": [
+                    {
+                        "id": 19691,
+                        "value": "Herzogin",
+                        "color": "light-brown"
+                    }
+                ]
             }
         ],
         "description": "",
@@ -4921,7 +5652,13 @@
                 "funktionsbezeichnungen": null,
                 "titel": "Herzogin",
                 "unidentifiziert": false,
-                "title_alt": []
+                "titel_new": [
+                    {
+                        "id": 19691,
+                        "value": "Herzogin",
+                        "color": "light-brown"
+                    }
+                ]
             },
             {
                 "id": 132,
@@ -4947,7 +5684,13 @@
                 "funktionsbezeichnungen": null,
                 "titel": "Herzog",
                 "unidentifiziert": false,
-                "title_alt": []
+                "titel_new": [
+                    {
+                        "id": 19690,
+                        "value": "Herzog",
+                        "color": "darker-blue"
+                    }
+                ]
             }
         ],
         "description": "",
@@ -5010,7 +5753,13 @@
                 "funktionsbezeichnungen": null,
                 "titel": "Herzogin",
                 "unidentifiziert": false,
-                "title_alt": []
+                "titel_new": [
+                    {
+                        "id": 19691,
+                        "value": "Herzogin",
+                        "color": "light-brown"
+                    }
+                ]
             },
             {
                 "id": 133,
@@ -5036,7 +5785,13 @@
                 "funktionsbezeichnungen": null,
                 "titel": "Herzog",
                 "unidentifiziert": false,
-                "title_alt": []
+                "titel_new": [
+                    {
+                        "id": 19690,
+                        "value": "Herzog",
+                        "color": "darker-blue"
+                    }
+                ]
             }
         ],
         "description": "",
@@ -5099,7 +5854,13 @@
                 "funktionsbezeichnungen": null,
                 "titel": "Herzogin",
                 "unidentifiziert": false,
-                "title_alt": []
+                "titel_new": [
+                    {
+                        "id": 19691,
+                        "value": "Herzogin",
+                        "color": "light-brown"
+                    }
+                ]
             }
         ],
         "description": "",
@@ -5162,7 +5923,13 @@
                 "funktionsbezeichnungen": null,
                 "titel": "Herzogin",
                 "unidentifiziert": false,
-                "title_alt": []
+                "titel_new": [
+                    {
+                        "id": 19691,
+                        "value": "Herzogin",
+                        "color": "light-brown"
+                    }
+                ]
             },
             {
                 "id": 135,
@@ -5188,7 +5955,13 @@
                 "funktionsbezeichnungen": null,
                 "titel": "Prinz",
                 "unidentifiziert": false,
-                "title_alt": []
+                "titel_new": [
+                    {
+                        "id": 19706,
+                        "value": "Prinz",
+                        "color": "light-gray"
+                    }
+                ]
             }
         ],
         "description": "",
@@ -5251,7 +6024,13 @@
                 "funktionsbezeichnungen": null,
                 "titel": "Herzogin",
                 "unidentifiziert": false,
-                "title_alt": []
+                "titel_new": [
+                    {
+                        "id": 19691,
+                        "value": "Herzogin",
+                        "color": "light-brown"
+                    }
+                ]
             }
         ],
         "description": "",
@@ -5314,7 +6093,13 @@
                 "funktionsbezeichnungen": null,
                 "titel": "Herzogin",
                 "unidentifiziert": false,
-                "title_alt": []
+                "titel_new": [
+                    {
+                        "id": 19691,
+                        "value": "Herzogin",
+                        "color": "light-brown"
+                    }
+                ]
             }
         ],
         "description": "",
@@ -5377,7 +6162,13 @@
                 "funktionsbezeichnungen": null,
                 "titel": "Herzogin",
                 "unidentifiziert": false,
-                "title_alt": []
+                "titel_new": [
+                    {
+                        "id": 19691,
+                        "value": "Herzogin",
+                        "color": "light-brown"
+                    }
+                ]
             }
         ],
         "description": "",
@@ -5440,7 +6231,13 @@
                 "funktionsbezeichnungen": null,
                 "titel": "Herzogin",
                 "unidentifiziert": false,
-                "title_alt": []
+                "titel_new": [
+                    {
+                        "id": 19691,
+                        "value": "Herzogin",
+                        "color": "light-brown"
+                    }
+                ]
             }
         ],
         "description": "",
@@ -5503,7 +6300,13 @@
                 "funktionsbezeichnungen": null,
                 "titel": "Kaiser",
                 "unidentifiziert": false,
-                "title_alt": []
+                "titel_new": [
+                    {
+                        "id": 19708,
+                        "value": "Kaiser",
+                        "color": "darker-red"
+                    }
+                ]
             },
             {
                 "id": 137,
@@ -5529,7 +6332,13 @@
                 "funktionsbezeichnungen": null,
                 "titel": "Kaiserin",
                 "unidentifiziert": false,
-                "title_alt": []
+                "titel_new": [
+                    {
+                        "id": 19702,
+                        "value": "Kaiserin",
+                        "color": "deep-dark-orange"
+                    }
+                ]
             }
         ],
         "description": "",
@@ -5592,7 +6401,13 @@
                 "funktionsbezeichnungen": null,
                 "titel": "Kaiser",
                 "unidentifiziert": false,
-                "title_alt": []
+                "titel_new": [
+                    {
+                        "id": 19708,
+                        "value": "Kaiser",
+                        "color": "darker-red"
+                    }
+                ]
             },
             {
                 "id": 138,
@@ -5618,7 +6433,13 @@
                 "funktionsbezeichnungen": null,
                 "titel": "Kaiserin",
                 "unidentifiziert": false,
-                "title_alt": []
+                "titel_new": [
+                    {
+                        "id": 19702,
+                        "value": "Kaiserin",
+                        "color": "deep-dark-orange"
+                    }
+                ]
             }
         ],
         "description": "",
@@ -5681,7 +6502,13 @@
                 "funktionsbezeichnungen": null,
                 "titel": "Kaiser",
                 "unidentifiziert": false,
-                "title_alt": []
+                "titel_new": [
+                    {
+                        "id": 19708,
+                        "value": "Kaiser",
+                        "color": "darker-red"
+                    }
+                ]
             }
         ],
         "description": "",
@@ -5744,7 +6571,18 @@
                 "funktionsbezeichnungen": null,
                 "titel": "Erzherzogin, Kurfürstin",
                 "unidentifiziert": false,
-                "title_alt": []
+                "titel_new": [
+                    {
+                        "id": 19699,
+                        "value": "Erzherzogin",
+                        "color": "darker-cyan"
+                    },
+                    {
+                        "id": 19701,
+                        "value": "Kurfürstin",
+                        "color": "brown"
+                    }
+                ]
             },
             {
                 "id": 139,
@@ -5770,7 +6608,13 @@
                 "funktionsbezeichnungen": null,
                 "titel": "Kurfürst",
                 "unidentifiziert": false,
-                "title_alt": []
+                "titel_new": [
+                    {
+                        "id": 19695,
+                        "value": "Kurfürst",
+                        "color": "light-pink"
+                    }
+                ]
             }
         ],
         "description": "",

@@ -7034,7 +7034,7 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                   </death>
                </person>
                <person xml:id="emt_person_id__827">
-                  <persName>Harcourt, Henri de</persName>
+                  <persName>Harcourt, Henri de Beuvron et de Thary-Harcourt</persName>
                   <birth>
                      <date notBefore="1654-01-01" notAfter="1654-12-31">1654</date>
                   </birth>
@@ -7064,7 +7064,7 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                   <idno type="URL">https://leibniz-connection.adw-goe.de/src/webroot/persons/view/9350</idno>
                </person>
                <person xml:id="emt_person_id__830">
-                  <persName>Elter, Johann Friedrich von Elter</persName>
+                  <persName>Elter, Johann Friedrich von</persName>
                   <birth>
                      <date notBefore="1645-01-01" notAfter="1645-12-31">1645</date>
                   </birth>
@@ -7336,6 +7336,99 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                      <date notBefore="1702-01-01" notAfter="1702-12-31">1702</date>
                   </death>
                   <idno type="URL">https://de.wikipedia.org/wiki/Nikolaus_Bartholom%C3%A4us_von_Danckelmann</idno>
+               </person>
+               <person xml:id="emt_person_id__859">
+                  <persName>Crampricht von Kronenfeld, Daniel Johannes</persName>
+                  <birth>
+                     <date notBefore="1617-01-01" notAfter="1617-12-31">1617</date>
+                  </birth>
+                  <death>
+                     <date notBefore="1693-01-01" notAfter="1693-12-31">1693</date>
+                  </death>
+                  <idno type="GND">https://d-nb.info/gnd/103086757</idno>
+                  <idno type="NDB">https://www.deutsche-biographie.de/103086757.html</idno>
+               </person>
+               <person xml:id="emt_person_id__860">
+                  <persName>Hoffmann, Johann Philipp</persName>
+               </person>
+               <person xml:id="emt_person_id__861">
+                  <persName>Ronquillo Briceño, Pedro de</persName>
+                  <birth>
+                     <date notBefore="1630-01-01" notAfter="1630-12-31">1630</date>
+                  </birth>
+                  <death>
+                     <date notBefore="1691-01-01" notAfter="1691-12-31">1691</date>
+                  </death>
+                  <idno type="URL">https://de.wikipedia.org/wiki/Pedro_Ronquillo_Brice%C3%B1o</idno>
+               </person>
+               <person xml:id="emt_person_id__862">
+                  <persName>Constantin Brâncoveanu, Fürst der Walachei</persName>
+                  <birth>
+                     <date notBefore="1654-01-01" notAfter="1654-12-31">1654</date>
+                  </birth>
+                  <death>
+                     <date notBefore="1714-01-01" notAfter="1714-12-31">1714</date>
+                  </death>
+                  <idno type="GND">https://d-nb.info/gnd/119463687</idno>
+                  <idno type="WIKIDATA">http://www.wikidata.org/entity/Q461926</idno>
+                  <idno type="URL">https://de.wikipedia.org/wiki/Constantin_Br%C3%A2ncoveanu</idno>
+                  <figure>
+                     <graphic url="emt_person_id__862.jpg"/>
+                     <caption>Constantin Brâncoveanu - litografie de A. Bielz.jpg</caption>
+                  </figure>
+               </person>
+               <person xml:id="emt_person_id__863">
+                  <persName>Berka von Duba, Franz Anton</persName>
+                  <birth>
+                     <date notBefore="1649-01-01" notAfter="1649-12-31">1649</date>
+                  </birth>
+                  <death>
+                     <date notBefore="1706-01-01" notAfter="1706-12-31">1706</date>
+                  </death>
+                  <idno type="GND">https://d-nb.info/gnd/1075079411</idno>
+                  <idno type="NDB">https://www.deutsche-biographie.de/pnd1075079411.html#index</idno>
+               </person>
+               <person xml:id="emt_person_id__864">
+                  <persName>Berkeley, Charles Dursley of</persName>
+                  <birth>
+                     <date notBefore="1649-01-01" notAfter="1649-12-31">1649</date>
+                  </birth>
+                  <death>
+                     <date notBefore="1710-01-01" notAfter="1710-12-31">1710</date>
+                  </death>
+                  <idno type="WIKIDATA">http://www.wikidata.org/entity/Q5075564</idno>
+               </person>
+               <person xml:id="emt_person_id__865">
+                  <persName>Hofkirchen, Georg Lorenz von</persName>
+                  <birth>
+                     <date notBefore="1649-01-01" notAfter="1649-12-31">1649</date>
+                  </birth>
+                  <death>
+                     <date notBefore="1694-01-01" notAfter="1694-12-31">1694</date>
+                  </death>
+                  <idno type="GND">https://d-nb.info/gnd/13759996X</idno>
+                  <idno type="NDB">https://www.deutsche-biographie.de/sfz33200.html#index</idno>
+                  <idno type="WIKIDATA">http://www.wikidata.org/entity/Q94863633</idno>
+               </person>
+               <person xml:id="emt_person_id__866">
+                  <persName>Pater Rektor der Jesuiten in Neuburg 1690</persName>
+               </person>
+               <person xml:id="emt_person_id__867">
+                  <persName>Sapieha, Michael Franz</persName>
+                  <birth>
+                     <date notBefore="1670-01-01" notAfter="1670-12-31">1670</date>
+                  </birth>
+                  <death>
+                     <date notBefore="1700-01-01" notAfter="1700-12-31">1700</date>
+                  </death>
+                  <idno type="WIKIDATA">http://www.wikidata.org/entity/Q3918320</idno>
+                  <idno type="URL">https://en.wikipedia.org/wiki/Micha%C5%82_Franciszek_Sapieha</idno>
+               </person>
+               <person xml:id="emt_person_id__868">
+                  <persName>Wangen, Herr von 1690</persName>
+               </person>
+               <person xml:id="emt_person_id__869">
+                  <persName>Küsel/Küßel, Herr, geleitet 1690 Königin Maria Anna nach Spanien</persName>
                </person>
             </listPerson>
          </div>
