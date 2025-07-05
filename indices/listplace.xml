@@ -2087,6 +2087,30 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                   </location>
                   <idno type="GEONAMES">https://sws.geonames.org/3030300/</idno>
                </place>
+               <place xml:id="emt_place_id__330">
+                  <placeName>A Coruña</placeName>
+                  <location type="coords">
+                     <geo>43.37135 -8.396000</geo>
+                  </location>
+                  <idno type="GEONAMES">https://sws.geonames.org/3119841/</idno>
+               </place>
+               <place xml:id="emt_place_id__331">
+                  <placeName>Wien, Karmeliterkloster (Jungfrau vom Berge Karmel und heilige Theresia von Avila)</placeName>
+               </place>
+               <place xml:id="emt_place_id__332">
+                  <placeName>Ferrol</placeName>
+                  <location type="coords">
+                     <geo>43.48451 -8.232930</geo>
+                  </location>
+                  <idno type="GEONAMES">https://sws.geonames.org/3123493/</idno>
+               </place>
+               <place xml:id="emt_place_id__333">
+                  <placeName>Marseille</placeName>
+                  <location type="coords">
+                     <geo>43.29695 5.381070</geo>
+                  </location>
+                  <idno type="GEONAMES">https://sws.geonames.org/2995469/</idno>
+               </place>
             </listPlace>
          </div>
       </body>

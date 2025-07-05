@@ -7430,6 +7430,44 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                <person xml:id="emt_person_id__869">
                   <persName>Küsel/Küßel, Herr, geleitet 1690 Königin Maria Anna nach Spanien</persName>
                </person>
+               <person xml:id="emt_person_id__870">
+                  <persName>Mansfeld, Franz Maximilian von</persName>
+                  <birth>
+                     <date notBefore="1639-01-01" notAfter="1639-12-31">1639</date>
+                  </birth>
+                  <death>
+                     <date notBefore="1692-01-01" notAfter="1692-12-31">1692</date>
+                  </death>
+                  <idno type="GND">https://d-nb.info/gnd/1089320639</idno>
+                  <idno type="NDB">https://www.deutsche-biographie.de/pnd1089320639.html#index</idno>
+                  <idno type="WIKIDATA">http://www.wikidata.org/entity/Q107215000</idno>
+                  <figure>
+                     <graphic url="emt_person_id__870.jpg"/>
+                     <caption>Mansfeld-St-Wappen.png</caption>
+                  </figure>
+               </person>
+               <person xml:id="emt_person_id__871">
+                  <persName>Obersthofmeister der regierenden Königin von Spanien 1690</persName>
+               </person>
+               <person xml:id="emt_person_id__872">
+                  <persName>Russel, Herr, begleitet 1690 Maria Anna nach Spanien</persName>
+               </person>
+               <person xml:id="emt_person_id__873">
+                  <persName>Balde, Johann Jacob SJ</persName>
+                  <birth>
+                     <date notBefore="1604-01-01" notAfter="1604-12-31">1604</date>
+                  </birth>
+                  <death>
+                     <date notBefore="1668-01-01" notAfter="1668-12-31">1668</date>
+                  </death>
+                  <idno type="GND">https://d-nb.info/gnd/118506137</idno>
+                  <idno type="NDB">https://www.deutsche-biographie.de/sfz1924.html#index</idno>
+                  <idno type="WIKIDATA">http://www.wikidata.org/entity/Q65850</idno>
+                  <figure>
+                     <graphic url="emt_person_id__873.jpg"/>
+                     <caption>Jakob Balde.jpg</caption>
+                  </figure>
+               </person>
             </listPerson>
          </div>
       </body>
