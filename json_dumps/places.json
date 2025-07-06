@@ -4843,5 +4843,35 @@
     "alternative_name": "",
     "wikidata_url": "",
     "unidentifiziert": false
+  },
+  "334": {
+    "id": 334,
+    "order": "329.00000000000000000000",
+    "name": "Santiago de Compostela",
+    "geonames": "https://www.geonames.org/3109642/santiago-de-compostela.html",
+    "emt_id": "emt_place_id__334",
+    "place_type": null,
+    "lat": "42.88052",
+    "long": "-8.545690",
+    "comments intern": "",
+    "gnd": "",
+    "alternative_name": "",
+    "wikidata_url": "",
+    "unidentifiziert": false
+  },
+  "335": {
+    "id": 335,
+    "order": "330.00000000000000000000",
+    "name": "Hohenau, Fluss oder Ort",
+    "geonames": "",
+    "emt_id": "emt_place_id__335",
+    "place_type": null,
+    "lat": null,
+    "long": null,
+    "comments intern": "ab dort könnte Pater Emerich im Schiff nach Wien reisen",
+    "gnd": "",
+    "alternative_name": "",
+    "wikidata_url": "",
+    "unidentifiziert": true
   }
 }

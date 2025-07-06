@@ -2111,6 +2111,16 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                   </location>
                   <idno type="GEONAMES">https://sws.geonames.org/2995469/</idno>
                </place>
+               <place xml:id="emt_place_id__334">
+                  <placeName>Santiago de Compostela</placeName>
+                  <location type="coords">
+                     <geo>42.88052 -8.545690</geo>
+                  </location>
+                  <idno type="GEONAMES">https://sws.geonames.org/3109642/</idno>
+               </place>
+               <place xml:id="emt_place_id__335">
+                  <placeName>Hohenau, Fluss oder Ort</placeName>
+               </place>
             </listPlace>
          </div>
       </body>

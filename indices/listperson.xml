@@ -4379,6 +4379,9 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                   <birth>
                      <date notBefore="1642-01-01" notAfter="1642-12-31">1642</date>
                   </birth>
+                  <death>
+                     <date notBefore="1723-01-01" notAfter="1723-12-31">1723</date>
+                  </death>
                   <idno type="GND">https://d-nb.info/gnd/118882945</idno>
                   <idno type="NDB">https://www.deutsche-biographie.de/sfz35445.html</idno>
                   <idno type="WIKIDATA">http://www.wikidata.org/entity/Q47292</idno>
@@ -5575,7 +5578,7 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                   <idno type="NDB">https://www.deutsche-biographie.de/pnd101886850X.html#index</idno>
                </person>
                <person xml:id="emt_person_id__654">
-                  <persName>Colonna von Völs, Maria Elisabeth, geb. Scherffenberg</persName>
+                  <persName>Colonna von Völs (Fels), Maria Elisabeth, geb. Scherffenberg</persName>
                   <birth>
                      <date notBefore="1638-01-01" notAfter="1638-12-31">1638</date>
                   </birth>
@@ -5584,7 +5587,7 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                   </death>
                </person>
                <person xml:id="emt_person_id__655">
-                  <persName>Colonna von Völs, Johann Franz</persName>
+                  <persName>Colonna von Völs (Fels), Johann Franz</persName>
                   <death>
                      <date notBefore="1681-01-01" notAfter="1681-12-31">1681</date>
                   </death>
@@ -7466,6 +7469,96 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                   <figure>
                      <graphic url="emt_person_id__873.jpg"/>
                      <caption>Jakob Balde.jpg</caption>
+                  </figure>
+               </person>
+               <person xml:id="emt_person_id__874">
+                  <persName>Paget, William</persName>
+                  <birth>
+                     <date notBefore="1637-01-01" notAfter="1637-12-31">1637</date>
+                  </birth>
+                  <death>
+                     <date notBefore="1713-01-01" notAfter="1713-12-31">1713</date>
+                  </death>
+                  <idno type="WIKIDATA">http://www.wikidata.org/entity/Q8016533</idno>
+                  <idno type="URL">https://en.wikipedia.org/wiki/William_Paget,_6th_Baron_Paget</idno>
+                  <figure>
+                     <graphic url="emt_person_id__874.jpg"/>
+                     <caption>William Paget, 6th Baron Paget (1637-1713).jpg</caption>
+                  </figure>
+               </person>
+               <person xml:id="emt_person_id__875">
+                  <persName>Starhemberg, Reichard von</persName>
+                  <death>
+                     <date notBefore="1691-01-01" notAfter="1691-12-31">1691</date>
+                  </death>
+                  <idno type="URL">https://genealogy.euweb.cz/austria/starhemb2.html</idno>
+               </person>
+               <person xml:id="emt_person_id__876">
+                  <persName>Wolkenstein, Graf, 1690 in bayerischen Diensten</persName>
+               </person>
+               <person xml:id="emt_person_id__877">
+                  <persName>Lobkowitz, Maria Anna Wilhelmine von, geb. Baden-Baden</persName>
+                  <birth>
+                     <date notBefore="1655-01-01" notAfter="1655-12-31">1655</date>
+                  </birth>
+                  <death>
+                     <date notBefore="1702-01-01" notAfter="1702-12-31">1702</date>
+                  </death>
+                  <idno type="GND">https://d-nb.info/gnd/1201526655</idno>
+                  <idno type="WIKIDATA">http://www.wikidata.org/entity/Q133422765</idno>
+               </person>
+               <person xml:id="emt_person_id__878">
+                  <persName>Wrbna von Freudenthal, Ferdinand Oktavian</persName>
+                  <birth>
+                     <date notBefore="1650-01-01" notAfter="1650-12-31">1650</date>
+                  </birth>
+                  <death>
+                     <date notBefore="1694-01-01" notAfter="1694-12-31">1694</date>
+                  </death>
+                  <idno type="URL">https://de.wikisource.org/wiki/BLK%C3%96:Wrbna-Freudenthal,_Ferdinand_Octavian</idno>
+               </person>
+               <person xml:id="emt_person_id__879">
+                  <persName>Brandenburg-Bayreuth, Christiane Eberhardine von, vereh. Sachsen</persName>
+                  <birth>
+                     <date notBefore="1671-01-01" notAfter="1671-12-31">1671</date>
+                  </birth>
+                  <death>
+                     <date notBefore="1727-01-01" notAfter="1727-12-31">1727</date>
+                  </death>
+                  <idno type="GND">https://d-nb.info/gnd/119337630</idno>
+                  <idno type="NDB">https://www.deutsche-biographie.de/gnd119337630.html</idno>
+                  <idno type="WIKIDATA">http://www.wikidata.org/entity/Q240094</idno>
+                  <idno type="URL">https://saebi.isgv.de/biografie/Christiane_Eberhardine,_Kurf%C3%BCrstin_von_Sachsen_(1671-1727)</idno>
+                  <figure>
+                     <graphic url="emt_person_id__879.jpg"/>
+                     <caption>Christiane Eberhardine of Brandenburg-Bayreuth.jpg</caption>
+                  </figure>
+               </person>
+               <person xml:id="emt_person_id__880">
+                  <persName>Brandenburg-Bayreuth, Eleonore Magdalena von, vereh. Hohenzollern-Hechingen</persName>
+                  <birth>
+                     <date notBefore="1673-01-01" notAfter="1673-12-31">1673</date>
+                  </birth>
+                  <death>
+                     <date notBefore="1711-01-01" notAfter="1711-12-31">1711</date>
+                  </death>
+                  <idno type="GND">https://d-nb.info/gnd/12434741X</idno>
+                  <idno type="NDB">https://www.deutsche-biographie.de/pnd12434741X.html#index</idno>
+               </person>
+               <person xml:id="emt_person_id__881">
+                  <persName>Waldstein, Karl Ernst von</persName>
+                  <birth>
+                     <date notBefore="1661-01-01" notAfter="1661-12-31">1661</date>
+                  </birth>
+                  <death>
+                     <date notBefore="1713-01-01" notAfter="1713-12-31">1713</date>
+                  </death>
+                  <idno type="GND">https://d-nb.info/gnd/136864414</idno>
+                  <idno type="NDB">https://www.deutsche-biographie.de/sfz60601.html#index</idno>
+                  <idno type="WIKIDATA">http://www.wikidata.org/entity/Q1471491</idno>
+                  <figure>
+                     <graphic url="emt_person_id__881.jpg"/>
+                     <caption>Portrait of Karel Arnošt z Valdštejna.jpg</caption>
                   </figure>
                </person>
             </listPerson>
