@@ -7561,6 +7561,19 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                      <caption>Portrait of Karel Arnošt z Valdštejna.jpg</caption>
                   </figure>
                </person>
+               <person xml:id="emt_person_id__882">
+                  <persName>Guardian der Kapuziner oder Franziskaner in Wien 1690</persName>
+               </person>
+               <person xml:id="emt_person_id__883">
+                  <persName>Martinitz, Maria Bonaventura von, geb. Althann</persName>
+                  <birth>
+                     <date notBefore="1667-01-01" notAfter="1667-12-31">1667</date>
+                  </birth>
+                  <death>
+                     <date notBefore="1709-01-01" notAfter="1709-12-31">1709</date>
+                  </death>
+                  <idno type="URL">https://genealogy.euweb.cz/althann/althann1.html</idno>
+               </person>
             </listPerson>
          </div>
       </body>

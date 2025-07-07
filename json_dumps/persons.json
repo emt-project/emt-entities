@@ -5307,7 +5307,7 @@
     "gnd": "",
     "other_url": "",
     "emt_id": "emt_person_id__182",
-    "internal_comment": "überbringt Abschiedsgrüße PW an EMT nach Abreise aus Wien (Nov. 1678), bittet EMT 1683 um Fürsprache, weil er in Pfalz-Neuburg Geheimer Rat werden möchte\nvermutlich ein SOhn von EMTs Hofmeisterin, die 1672 in der Erziehungsinstruktion erwähnt wird",
+    "internal_comment": "überbringt Abschiedsgrüße PW an EMT nach Abreise aus Wien (Nov. 1678), bittet EMT 1683 um Fürsprache, weil er in Pfalz-Neuburg Geheimer Rat werden möchte\nvermutlich ein Sohn von EMTs Hofmeisterin, die 1672 in der Erziehungsinstruktion erwähnt wird\nüberbringt 1690 letzten Brief PWs vor Ankunft in Wien",
     "color": "",
     "lebensdaten": "",
     "ndb": "",
@@ -13973,7 +13973,7 @@
     "gnd": "",
     "other_url": "",
     "emt_id": "emt_person_id__501",
-    "internal_comment": "1685 wird eine \"perservation\" des Paters erwähnt, die PW nicht geschadet habe\n1687 hofft EMT, er werde in Heidelberg Bruder Ludwig kurieren\n1690 ist sie erfreut, dass PW trotz des Einspruchs des Paters seine Reise nach Wien fortsetzen möchte",
+    "internal_comment": "1685 wird eine \"perservation\" des Paters erwähnt, die PW nicht geschadet habe\n1687 hofft EMT, er werde in Heidelberg Bruder Ludwig kurieren\n1690 ist sie erfreut, dass PW trotz des Einspruchs des Paters seine Reise nach Wien fortsetzen möchte\nmuss Kapuziner oder Franziskaner sein, weil EMT 1690 den Guardian in Wien bitten will, für ihn zu sorgen",
     "color": "",
     "lebensdaten": "",
     "ndb": "",
@@ -24489,5 +24489,63 @@
         "color": "purple"
       }
     ]
+  },
+  "882": {
+    "id": 882,
+    "order": "876.00000000000000000000",
+    "name": "Guardian der Kapuziner oder Franziskaner in Wien 1690",
+    "gnd": "",
+    "other_url": "",
+    "emt_id": "emt_person_id__882",
+    "internal_comment": "ihn will EMT 1690 bitten, den Pater Emerich während des AUfnethaltes von PW in Wien aufzunehmen",
+    "color": "",
+    "lebensdaten": "",
+    "ndb": "",
+    "year_of_birth": null,
+    "year_of_death": null,
+    "wikidata_url": "",
+    "wikidata_enriched": false,
+    "img_name": "",
+    "img_fetched": false,
+    "img_source": "",
+    "birth_date_written": "",
+    "death_date_written": "",
+    "geschlecht": "",
+    "funktionsbezeichnungen": "",
+    "titel": "",
+    "unidentifiziert": true,
+    "titel_new": [
+      {
+        "id": 19694,
+        "value": "Pater",
+        "color": "yellow"
+      }
+    ]
+  },
+  "883": {
+    "id": 883,
+    "order": "877.00000000000000000000",
+    "name": "Martinitz, Maria Bonaventura von, geb. Althann",
+    "gnd": "",
+    "other_url": "https://genealogy.euweb.cz/althann/althann1.html",
+    "emt_id": "emt_person_id__883",
+    "internal_comment": "https://viecpro.acdh.oeaw.ac.at/persons/69881",
+    "color": "",
+    "lebensdaten": "",
+    "ndb": "",
+    "year_of_birth": "1667",
+    "year_of_death": "1709",
+    "wikidata_url": "",
+    "wikidata_enriched": false,
+    "img_name": "",
+    "img_fetched": false,
+    "img_source": "",
+    "birth_date_written": "",
+    "death_date_written": "",
+    "geschlecht": "",
+    "funktionsbezeichnungen": "",
+    "titel": "",
+    "unidentifiziert": false,
+    "titel_new": []
   }
 }
