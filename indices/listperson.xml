@@ -7574,6 +7574,27 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                   </death>
                   <idno type="URL">https://genealogy.euweb.cz/althann/althann1.html</idno>
                </person>
+               <person xml:id="emt_person_id__884">
+                  <persName>Dietrichstein, Georg Siegfried von</persName>
+                  <birth>
+                     <date notBefore="1645-01-01" notAfter="1645-12-31">1645</date>
+                  </birth>
+                  <death>
+                     <date notBefore="1714-01-01" notAfter="1714-12-31">1714</date>
+                  </death>
+                  <idno type="GND">https://d-nb.info/gnd/128922656</idno>
+                  <idno type="NDB">https://www.deutsche-biographie.de/128922656.html#indexcontent</idno>
+               </person>
+               <person xml:id="emt_person_id__885">
+                  <persName>Hofmann von Grünbühel, Johanna Xaveria von, vereh. Dietrichstein</persName>
+                  <birth>
+                     <date notBefore="1658-01-01" notAfter="1658-12-31">1658</date>
+                  </birth>
+                  <death>
+                     <date notBefore="1686-01-01" notAfter="1686-12-31">1686</date>
+                  </death>
+                  <idno type="URL">https://kaiserhof.geschichte.lmu.de/31261</idno>
+               </person>
             </listPerson>
          </div>
       </body>

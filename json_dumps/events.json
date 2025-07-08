@@ -46,9 +46,8 @@
                 "death_date_written": null,
                 "geschlecht": null,
                 "funktionsbezeichnungen": null,
-                "titel": "Kaiserin",
                 "unidentifiziert": false,
-                "titel_new": [
+                "titel": [
                     {
                         "id": 19702,
                         "value": "Kaiserin",
@@ -78,9 +77,8 @@
                 "death_date_written": null,
                 "geschlecht": null,
                 "funktionsbezeichnungen": null,
-                "titel": "Herzogin, Kurfürstin",
                 "unidentifiziert": false,
-                "titel_new": [
+                "titel": [
                     {
                         "id": 19691,
                         "value": "Herzogin",
@@ -115,9 +113,8 @@
                 "death_date_written": null,
                 "geschlecht": null,
                 "funktionsbezeichnungen": null,
-                "titel": "Herzog, Kurfürst",
                 "unidentifiziert": false,
-                "titel_new": [
+                "titel": [
                     {
                         "id": 19690,
                         "value": "Herzog",
@@ -189,9 +186,8 @@
                 "death_date_written": null,
                 "geschlecht": null,
                 "funktionsbezeichnungen": null,
-                "titel": "Kaiserin",
                 "unidentifiziert": false,
-                "titel_new": [
+                "titel": [
                     {
                         "id": 19702,
                         "value": "Kaiserin",
@@ -221,9 +217,8 @@
                 "death_date_written": null,
                 "geschlecht": null,
                 "funktionsbezeichnungen": null,
-                "titel": "Kaiser",
                 "unidentifiziert": false,
-                "titel_new": [
+                "titel": [
                     {
                         "id": 19708,
                         "value": "Kaiser",
@@ -326,9 +321,8 @@
                 "death_date_written": null,
                 "geschlecht": null,
                 "funktionsbezeichnungen": null,
-                "titel": "Kaiserin",
                 "unidentifiziert": false,
-                "titel_new": [
+                "titel": [
                     {
                         "id": 19702,
                         "value": "Kaiserin",
@@ -358,9 +352,8 @@
                 "death_date_written": null,
                 "geschlecht": null,
                 "funktionsbezeichnungen": null,
-                "titel": "Erzherzog, Kaiser",
                 "unidentifiziert": false,
-                "titel_new": [
+                "titel": [
                     {
                         "id": 19703,
                         "value": "Erzherzog",
@@ -432,9 +425,8 @@
                 "death_date_written": null,
                 "geschlecht": null,
                 "funktionsbezeichnungen": null,
-                "titel": "Kaiserin",
                 "unidentifiziert": false,
-                "titel_new": [
+                "titel": [
                     {
                         "id": 19702,
                         "value": "Kaiserin",
@@ -464,9 +456,8 @@
                 "death_date_written": null,
                 "geschlecht": null,
                 "funktionsbezeichnungen": null,
-                "titel": "Kaiser",
                 "unidentifiziert": false,
-                "titel_new": [
+                "titel": [
                     {
                         "id": 19708,
                         "value": "Kaiser",
@@ -533,9 +524,8 @@
                 "death_date_written": null,
                 "geschlecht": null,
                 "funktionsbezeichnungen": null,
-                "titel": "Kaiserin",
                 "unidentifiziert": false,
-                "titel_new": [
+                "titel": [
                     {
                         "id": 19702,
                         "value": "Kaiserin",
@@ -565,9 +555,8 @@
                 "death_date_written": null,
                 "geschlecht": null,
                 "funktionsbezeichnungen": null,
-                "titel": "Erzherzog, Kaiser",
                 "unidentifiziert": false,
-                "titel_new": [
+                "titel": [
                     {
                         "id": 19703,
                         "value": "Erzherzog",
@@ -602,9 +591,8 @@
                 "death_date_written": null,
                 "geschlecht": null,
                 "funktionsbezeichnungen": null,
-                "titel": "Kaiser",
                 "unidentifiziert": false,
-                "titel_new": [
+                "titel": [
                     {
                         "id": 19708,
                         "value": "Kaiser",
@@ -634,9 +622,8 @@
                 "death_date_written": "",
                 "geschlecht": null,
                 "funktionsbezeichnungen": null,
-                "titel": "Herzogin, Kaiserin",
                 "unidentifiziert": false,
-                "titel_new": [
+                "titel": [
                     {
                         "id": 19691,
                         "value": "Herzogin",
@@ -708,9 +695,8 @@
                 "death_date_written": null,
                 "geschlecht": null,
                 "funktionsbezeichnungen": null,
-                "titel": "Kaiserin",
                 "unidentifiziert": false,
-                "titel_new": [
+                "titel": [
                     {
                         "id": 19702,
                         "value": "Kaiserin",
@@ -740,9 +726,8 @@
                 "death_date_written": null,
                 "geschlecht": null,
                 "funktionsbezeichnungen": null,
-                "titel": "Erzherzog, Kaiser",
                 "unidentifiziert": false,
-                "titel_new": [
+                "titel": [
                     {
                         "id": 19703,
                         "value": "Erzherzog",
@@ -777,9 +762,8 @@
                 "death_date_written": "",
                 "geschlecht": null,
                 "funktionsbezeichnungen": null,
-                "titel": "Herzogin, Kaiserin",
                 "unidentifiziert": false,
-                "titel_new": [
+                "titel": [
                     {
                         "id": 19691,
                         "value": "Herzogin",
@@ -851,9 +835,8 @@
                 "death_date_written": null,
                 "geschlecht": null,
                 "funktionsbezeichnungen": null,
-                "titel": "Kaiserin",
                 "unidentifiziert": false,
-                "titel_new": [
+                "titel": [
                     {
                         "id": 19702,
                         "value": "Kaiserin",
@@ -883,9 +866,8 @@
                 "death_date_written": null,
                 "geschlecht": null,
                 "funktionsbezeichnungen": null,
-                "titel": "Kaiser",
                 "unidentifiziert": false,
-                "titel_new": [
+                "titel": [
                     {
                         "id": 19708,
                         "value": "Kaiser",
@@ -952,9 +934,8 @@
                 "death_date_written": null,
                 "geschlecht": null,
                 "funktionsbezeichnungen": null,
-                "titel": "Kaiserin",
                 "unidentifiziert": false,
-                "titel_new": [
+                "titel": [
                     {
                         "id": 19702,
                         "value": "Kaiserin",
@@ -984,9 +965,8 @@
                 "death_date_written": null,
                 "geschlecht": null,
                 "funktionsbezeichnungen": null,
-                "titel": "Erzherzog, König, Kaiser",
                 "unidentifiziert": false,
-                "titel_new": [
+                "titel": [
                     {
                         "id": 19703,
                         "value": "Erzherzog",
@@ -1026,9 +1006,8 @@
                 "death_date_written": "",
                 "geschlecht": null,
                 "funktionsbezeichnungen": null,
-                "titel": "Herzogin, Kaiserin",
                 "unidentifiziert": false,
-                "titel_new": [
+                "titel": [
                     {
                         "id": 19691,
                         "value": "Herzogin",
@@ -1100,9 +1079,8 @@
                 "death_date_written": null,
                 "geschlecht": null,
                 "funktionsbezeichnungen": null,
-                "titel": "Kaiserin",
                 "unidentifiziert": false,
-                "titel_new": [
+                "titel": [
                     {
                         "id": 19702,
                         "value": "Kaiserin",
@@ -1132,9 +1110,8 @@
                 "death_date_written": null,
                 "geschlecht": null,
                 "funktionsbezeichnungen": null,
-                "titel": "Kaiser",
                 "unidentifiziert": false,
-                "titel_new": [
+                "titel": [
                     {
                         "id": 19708,
                         "value": "Kaiser",
@@ -1201,9 +1178,8 @@
                 "death_date_written": null,
                 "geschlecht": null,
                 "funktionsbezeichnungen": null,
-                "titel": "Kaiserin",
                 "unidentifiziert": false,
-                "titel_new": [
+                "titel": [
                     {
                         "id": 19702,
                         "value": "Kaiserin",
@@ -1233,9 +1209,8 @@
                 "death_date_written": null,
                 "geschlecht": null,
                 "funktionsbezeichnungen": null,
-                "titel": "Kaiser",
                 "unidentifiziert": false,
-                "titel_new": [
+                "titel": [
                     {
                         "id": 19708,
                         "value": "Kaiser",
@@ -1302,9 +1277,8 @@
                 "death_date_written": null,
                 "geschlecht": null,
                 "funktionsbezeichnungen": null,
-                "titel": "Kaiserin",
                 "unidentifiziert": false,
-                "titel_new": [
+                "titel": [
                     {
                         "id": 19702,
                         "value": "Kaiserin",
@@ -1334,9 +1308,8 @@
                 "death_date_written": null,
                 "geschlecht": null,
                 "funktionsbezeichnungen": null,
-                "titel": "Erzherzog, Kaiser",
                 "unidentifiziert": false,
-                "titel_new": [
+                "titel": [
                     {
                         "id": 19703,
                         "value": "Erzherzog",
@@ -1371,9 +1344,8 @@
                 "death_date_written": null,
                 "geschlecht": null,
                 "funktionsbezeichnungen": null,
-                "titel": "Kaiser",
                 "unidentifiziert": false,
-                "titel_new": [
+                "titel": [
                     {
                         "id": 19708,
                         "value": "Kaiser",
@@ -1440,9 +1412,8 @@
                 "death_date_written": null,
                 "geschlecht": null,
                 "funktionsbezeichnungen": null,
-                "titel": "Kaiserin",
                 "unidentifiziert": false,
-                "titel_new": [
+                "titel": [
                     {
                         "id": 19702,
                         "value": "Kaiserin",
@@ -1472,9 +1443,8 @@
                 "death_date_written": null,
                 "geschlecht": null,
                 "funktionsbezeichnungen": null,
-                "titel": "Erzherzog, Kaiser",
                 "unidentifiziert": false,
-                "titel_new": [
+                "titel": [
                     {
                         "id": 19703,
                         "value": "Erzherzog",
@@ -1509,9 +1479,8 @@
                 "death_date_written": null,
                 "geschlecht": null,
                 "funktionsbezeichnungen": null,
-                "titel": "Kaiser",
                 "unidentifiziert": false,
-                "titel_new": [
+                "titel": [
                     {
                         "id": 19708,
                         "value": "Kaiser",
@@ -1578,9 +1547,8 @@
                 "death_date_written": null,
                 "geschlecht": null,
                 "funktionsbezeichnungen": null,
-                "titel": "Erzherzog, König, Kaiser",
                 "unidentifiziert": false,
-                "titel_new": [
+                "titel": [
                     {
                         "id": 19703,
                         "value": "Erzherzog",
@@ -1657,9 +1625,8 @@
                 "death_date_written": null,
                 "geschlecht": null,
                 "funktionsbezeichnungen": null,
-                "titel": "Erzherzog, König, Kaiser",
                 "unidentifiziert": false,
-                "titel_new": [
+                "titel": [
                     {
                         "id": 19703,
                         "value": "Erzherzog",
@@ -1736,9 +1703,8 @@
                 "death_date_written": null,
                 "geschlecht": null,
                 "funktionsbezeichnungen": null,
-                "titel": "Erzherzog, König, Kaiser",
                 "unidentifiziert": false,
-                "titel_new": [
+                "titel": [
                     {
                         "id": 19703,
                         "value": "Erzherzog",
@@ -1778,9 +1744,8 @@
                 "death_date_written": "",
                 "geschlecht": null,
                 "funktionsbezeichnungen": null,
-                "titel": "Herzogin, Kaiserin",
                 "unidentifiziert": false,
-                "titel_new": [
+                "titel": [
                     {
                         "id": 19691,
                         "value": "Herzogin",
@@ -1852,9 +1817,8 @@
                 "death_date_written": null,
                 "geschlecht": null,
                 "funktionsbezeichnungen": null,
-                "titel": "Kaiserin",
                 "unidentifiziert": false,
-                "titel_new": [
+                "titel": [
                     {
                         "id": 19702,
                         "value": "Kaiserin",
@@ -1921,9 +1885,8 @@
                 "death_date_written": null,
                 "geschlecht": null,
                 "funktionsbezeichnungen": null,
-                "titel": "Kaiserin",
                 "unidentifiziert": false,
-                "titel_new": [
+                "titel": [
                     {
                         "id": 19702,
                         "value": "Kaiserin",
@@ -1974,9 +1937,8 @@
                 "death_date_written": null,
                 "geschlecht": null,
                 "funktionsbezeichnungen": null,
-                "titel": "Kaiserin",
                 "unidentifiziert": false,
-                "titel_new": [
+                "titel": [
                     {
                         "id": 19702,
                         "value": "Kaiserin",
@@ -2006,9 +1968,8 @@
                 "death_date_written": "",
                 "geschlecht": null,
                 "funktionsbezeichnungen": null,
-                "titel": "Erzherzog",
                 "unidentifiziert": false,
-                "titel_new": [
+                "titel": [
                     {
                         "id": 19703,
                         "value": "Erzherzog",
@@ -2075,9 +2036,8 @@
                 "death_date_written": "",
                 "geschlecht": null,
                 "funktionsbezeichnungen": null,
-                "titel": "Erzherzog",
                 "unidentifiziert": false,
-                "titel_new": [
+                "titel": [
                     {
                         "id": 19703,
                         "value": "Erzherzog",
@@ -2144,9 +2104,8 @@
                 "death_date_written": null,
                 "geschlecht": null,
                 "funktionsbezeichnungen": null,
-                "titel": "Kaiserin",
                 "unidentifiziert": false,
-                "titel_new": [
+                "titel": [
                     {
                         "id": 19702,
                         "value": "Kaiserin",
@@ -2176,9 +2135,8 @@
                 "death_date_written": "",
                 "geschlecht": null,
                 "funktionsbezeichnungen": null,
-                "titel": "Erzherzogin",
                 "unidentifiziert": false,
-                "titel_new": [
+                "titel": [
                     {
                         "id": 19699,
                         "value": "Erzherzogin",
@@ -2245,9 +2203,8 @@
                 "death_date_written": null,
                 "geschlecht": null,
                 "funktionsbezeichnungen": null,
-                "titel": "Kaiserin",
                 "unidentifiziert": false,
-                "titel_new": [
+                "titel": [
                     {
                         "id": 19702,
                         "value": "Kaiserin",
@@ -2277,9 +2234,8 @@
                 "death_date_written": "",
                 "geschlecht": null,
                 "funktionsbezeichnungen": null,
-                "titel": "Erzherzogin",
                 "unidentifiziert": false,
-                "titel_new": [
+                "titel": [
                     {
                         "id": 19699,
                         "value": "Erzherzogin",
@@ -2346,9 +2302,8 @@
                 "death_date_written": null,
                 "geschlecht": null,
                 "funktionsbezeichnungen": null,
-                "titel": "Kaiserin",
                 "unidentifiziert": false,
-                "titel_new": [
+                "titel": [
                     {
                         "id": 19702,
                         "value": "Kaiserin",
@@ -2378,9 +2333,8 @@
                 "death_date_written": "",
                 "geschlecht": null,
                 "funktionsbezeichnungen": null,
-                "titel": "Erzherzogin",
                 "unidentifiziert": false,
-                "titel_new": [
+                "titel": [
                     {
                         "id": 19699,
                         "value": "Erzherzogin",
@@ -2447,9 +2401,8 @@
                 "death_date_written": "",
                 "geschlecht": null,
                 "funktionsbezeichnungen": null,
-                "titel": "Erzherzogin",
                 "unidentifiziert": false,
-                "titel_new": [
+                "titel": [
                     {
                         "id": 19699,
                         "value": "Erzherzogin",
@@ -2516,9 +2469,8 @@
                 "death_date_written": null,
                 "geschlecht": null,
                 "funktionsbezeichnungen": null,
-                "titel": "Kaiserin",
                 "unidentifiziert": false,
-                "titel_new": [
+                "titel": [
                     {
                         "id": 19702,
                         "value": "Kaiserin",
@@ -2548,9 +2500,8 @@
                 "death_date_written": "",
                 "geschlecht": null,
                 "funktionsbezeichnungen": null,
-                "titel": "Erzherzogin",
                 "unidentifiziert": false,
-                "titel_new": [
+                "titel": [
                     {
                         "id": 19699,
                         "value": "Erzherzogin",
@@ -2617,9 +2568,8 @@
                 "death_date_written": "",
                 "geschlecht": null,
                 "funktionsbezeichnungen": null,
-                "titel": "Erzherzogin",
                 "unidentifiziert": false,
-                "titel_new": [
+                "titel": [
                     {
                         "id": 19699,
                         "value": "Erzherzogin",
@@ -2686,9 +2636,8 @@
                 "death_date_written": null,
                 "geschlecht": null,
                 "funktionsbezeichnungen": null,
-                "titel": "Kaiserin",
                 "unidentifiziert": false,
-                "titel_new": [
+                "titel": [
                     {
                         "id": 19702,
                         "value": "Kaiserin",
@@ -2718,9 +2667,8 @@
                 "death_date_written": "",
                 "geschlecht": null,
                 "funktionsbezeichnungen": null,
-                "titel": "Erzherzogin",
                 "unidentifiziert": false,
-                "titel_new": [
+                "titel": [
                     {
                         "id": 19699,
                         "value": "Erzherzogin",
@@ -2787,9 +2735,8 @@
                 "death_date_written": null,
                 "geschlecht": null,
                 "funktionsbezeichnungen": null,
-                "titel": "Kaiserin",
                 "unidentifiziert": false,
-                "titel_new": [
+                "titel": [
                     {
                         "id": 19702,
                         "value": "Kaiserin",
@@ -2819,9 +2766,8 @@
                 "death_date_written": "",
                 "geschlecht": null,
                 "funktionsbezeichnungen": null,
-                "titel": "Erzherzogin",
                 "unidentifiziert": false,
-                "titel_new": [
+                "titel": [
                     {
                         "id": 19699,
                         "value": "Erzherzogin",
@@ -2872,9 +2818,8 @@
                 "death_date_written": "",
                 "geschlecht": null,
                 "funktionsbezeichnungen": null,
-                "titel": "Erzherzogin",
                 "unidentifiziert": false,
-                "titel_new": [
+                "titel": [
                     {
                         "id": 19699,
                         "value": "Erzherzogin",
@@ -2941,9 +2886,8 @@
                 "death_date_written": null,
                 "geschlecht": null,
                 "funktionsbezeichnungen": null,
-                "titel": "Herzog, Kurfürst",
                 "unidentifiziert": false,
-                "titel_new": [
+                "titel": [
                     {
                         "id": 19690,
                         "value": "Herzog",
@@ -3015,9 +2959,8 @@
                 "death_date_written": null,
                 "geschlecht": null,
                 "funktionsbezeichnungen": null,
-                "titel": "Herzog, Kurfürst",
                 "unidentifiziert": false,
-                "titel_new": [
+                "titel": [
                     {
                         "id": 19690,
                         "value": "Herzog",
@@ -3089,9 +3032,8 @@
                 "death_date_written": null,
                 "geschlecht": null,
                 "funktionsbezeichnungen": null,
-                "titel": "Herzog, Kurfürst",
                 "unidentifiziert": false,
-                "titel_new": [
+                "titel": [
                     {
                         "id": 19690,
                         "value": "Herzog",
@@ -3126,9 +3068,8 @@
                 "death_date_written": null,
                 "geschlecht": null,
                 "funktionsbezeichnungen": null,
-                "titel": "Erzherzogin, Herzogin",
                 "unidentifiziert": false,
-                "titel_new": [
+                "titel": [
                     {
                         "id": 19699,
                         "value": "Erzherzogin",
@@ -3200,9 +3141,8 @@
                 "death_date_written": null,
                 "geschlecht": null,
                 "funktionsbezeichnungen": null,
-                "titel": "Erzherzogin, Herzogin",
                 "unidentifiziert": false,
-                "titel_new": [
+                "titel": [
                     {
                         "id": 19699,
                         "value": "Erzherzogin",
@@ -3274,9 +3214,8 @@
                 "death_date_written": "",
                 "geschlecht": null,
                 "funktionsbezeichnungen": null,
-                "titel": "Kurfürstin",
                 "unidentifiziert": false,
-                "titel_new": [
+                "titel": [
                     {
                         "id": 19701,
                         "value": "Kurfürstin",
@@ -3343,9 +3282,8 @@
                 "death_date_written": null,
                 "geschlecht": null,
                 "funktionsbezeichnungen": null,
-                "titel": "Herzog, Kurfürst",
                 "unidentifiziert": false,
-                "titel_new": [
+                "titel": [
                     {
                         "id": 19690,
                         "value": "Herzog",
@@ -3417,9 +3355,8 @@
                 "death_date_written": null,
                 "geschlecht": null,
                 "funktionsbezeichnungen": "Weihbischof von Köln, gewählter Fürstbischof von Breslau",
-                "titel": "Herzog",
                 "unidentifiziert": false,
-                "titel_new": [
+                "titel": [
                     {
                         "id": 19690,
                         "value": "Herzog",
@@ -3486,9 +3423,8 @@
                 "death_date_written": null,
                 "geschlecht": null,
                 "funktionsbezeichnungen": "Weihbischof von Köln, gewählter Fürstbischof von Breslau",
-                "titel": "Herzog",
                 "unidentifiziert": false,
-                "titel_new": [
+                "titel": [
                     {
                         "id": 19690,
                         "value": "Herzog",
@@ -3555,9 +3491,8 @@
                 "death_date_written": "",
                 "geschlecht": null,
                 "funktionsbezeichnungen": "Deutschmeister, Bischof von Worms",
-                "titel": "Herzog",
                 "unidentifiziert": false,
-                "titel_new": [
+                "titel": [
                     {
                         "id": 19690,
                         "value": "Herzog",
@@ -3624,9 +3559,8 @@
                 "death_date_written": "",
                 "geschlecht": null,
                 "funktionsbezeichnungen": "Deutschmeister, Bischof von Worms",
-                "titel": "Herzog",
                 "unidentifiziert": false,
-                "titel_new": [
+                "titel": [
                     {
                         "id": 19690,
                         "value": "Herzog",
@@ -3693,9 +3627,8 @@
                 "death_date_written": null,
                 "geschlecht": null,
                 "funktionsbezeichnungen": "General",
-                "titel": "Herzog",
                 "unidentifiziert": false,
-                "titel_new": [
+                "titel": [
                     {
                         "id": 19690,
                         "value": "Herzog",
@@ -3762,9 +3695,8 @@
                 "death_date_written": null,
                 "geschlecht": null,
                 "funktionsbezeichnungen": "General",
-                "titel": "Herzog",
                 "unidentifiziert": false,
-                "titel_new": [
+                "titel": [
                     {
                         "id": 19690,
                         "value": "Herzog",
@@ -3794,9 +3726,8 @@
                 "death_date_written": "",
                 "geschlecht": null,
                 "funktionsbezeichnungen": null,
-                "titel": "Herzogin",
                 "unidentifiziert": false,
-                "titel_new": [
+                "titel": [
                     {
                         "id": 19691,
                         "value": "Herzogin",
@@ -3863,9 +3794,8 @@
                 "death_date_written": null,
                 "geschlecht": null,
                 "funktionsbezeichnungen": "General",
-                "titel": "Herzog",
                 "unidentifiziert": false,
-                "titel_new": [
+                "titel": [
                     {
                         "id": 19690,
                         "value": "Herzog",
@@ -3895,9 +3825,8 @@
                 "death_date_written": "",
                 "geschlecht": null,
                 "funktionsbezeichnungen": null,
-                "titel": "Herzogin",
                 "unidentifiziert": false,
-                "titel_new": [
+                "titel": [
                     {
                         "id": 19691,
                         "value": "Herzogin",
@@ -3964,9 +3893,8 @@
                 "death_date_written": "",
                 "geschlecht": null,
                 "funktionsbezeichnungen": "Bischof von Augsburg",
-                "titel": "Herzog",
                 "unidentifiziert": false,
-                "titel_new": [
+                "titel": [
                     {
                         "id": 19690,
                         "value": "Herzog",
@@ -4033,9 +3961,8 @@
                 "death_date_written": "",
                 "geschlecht": null,
                 "funktionsbezeichnungen": "Deutschmeister, Bischof von Worms",
-                "titel": "Herzog",
                 "unidentifiziert": false,
-                "titel_new": [
+                "titel": [
                     {
                         "id": 19690,
                         "value": "Herzog",
@@ -4102,9 +4029,8 @@
                 "death_date_written": "",
                 "geschlecht": null,
                 "funktionsbezeichnungen": "Bischof von Augsburg",
-                "titel": "Herzog",
                 "unidentifiziert": false,
-                "titel_new": [
+                "titel": [
                     {
                         "id": 19690,
                         "value": "Herzog",
@@ -4155,9 +4081,8 @@
                 "death_date_written": "",
                 "geschlecht": null,
                 "funktionsbezeichnungen": "Deutschmeister, Bischof von Worms",
-                "titel": "Herzog",
                 "unidentifiziert": false,
-                "titel_new": [
+                "titel": [
                     {
                         "id": 19690,
                         "value": "Herzog",
@@ -4224,9 +4149,8 @@
                 "death_date_written": "",
                 "geschlecht": null,
                 "funktionsbezeichnungen": "Bischof von Breslau, Deutschmeister, Kurfürst und Erzbischof von Trier",
-                "titel": "Herzog, Kurfürst",
                 "unidentifiziert": false,
-                "titel_new": [
+                "titel": [
                     {
                         "id": 19690,
                         "value": "Herzog",
@@ -4298,9 +4222,8 @@
                 "death_date_written": "",
                 "geschlecht": null,
                 "funktionsbezeichnungen": "Bischof von Breslau, Deutschmeister, Kurfürst und Erzbischof von Trier",
-                "titel": "Herzog, Kurfürst",
                 "unidentifiziert": false,
-                "titel_new": [
+                "titel": [
                     {
                         "id": 19690,
                         "value": "Herzog",
@@ -4356,9 +4279,8 @@
                 "death_date_written": "",
                 "geschlecht": null,
                 "funktionsbezeichnungen": "Bischof von Breslau, Deutschmeister, Kurfürst und Erzbischof von Trier",
-                "titel": "Herzog, Kurfürst",
                 "unidentifiziert": false,
-                "titel_new": [
+                "titel": [
                     {
                         "id": 19690,
                         "value": "Herzog",
@@ -4430,9 +4352,8 @@
                 "death_date_written": "",
                 "geschlecht": null,
                 "funktionsbezeichnungen": "Bischof von Breslau, Deutschmeister, Kurfürst und Erzbischof von Trier",
-                "titel": "Herzog, Kurfürst",
                 "unidentifiziert": false,
-                "titel_new": [
+                "titel": [
                     {
                         "id": 19690,
                         "value": "Herzog",
@@ -4504,9 +4425,8 @@
                 "death_date_written": null,
                 "geschlecht": null,
                 "funktionsbezeichnungen": "General",
-                "titel": "Herzog",
                 "unidentifiziert": false,
-                "titel_new": [
+                "titel": [
                     {
                         "id": 19690,
                         "value": "Herzog",
@@ -4573,9 +4493,8 @@
                 "death_date_written": "",
                 "geschlecht": null,
                 "funktionsbezeichnungen": "Bischof von Breslau, Deutschmeister, Kurfürst und Erzbischof von Trier",
-                "titel": "Herzog, Kurfürst",
                 "unidentifiziert": false,
-                "titel_new": [
+                "titel": [
                     {
                         "id": 19690,
                         "value": "Herzog",
@@ -4647,9 +4566,8 @@
                 "death_date_written": null,
                 "geschlecht": null,
                 "funktionsbezeichnungen": null,
-                "titel": "Herzogin, Kurfürstin",
                 "unidentifiziert": false,
-                "titel_new": [
+                "titel": [
                     {
                         "id": 19691,
                         "value": "Herzogin",
@@ -4721,9 +4639,8 @@
                 "death_date_written": "",
                 "geschlecht": null,
                 "funktionsbezeichnungen": "General",
-                "titel": "Herzog",
                 "unidentifiziert": false,
-                "titel_new": [
+                "titel": [
                     {
                         "id": 19690,
                         "value": "Herzog",
@@ -4790,9 +4707,8 @@
                 "death_date_written": "",
                 "geschlecht": null,
                 "funktionsbezeichnungen": "General",
-                "titel": "Herzog",
                 "unidentifiziert": false,
-                "titel_new": [
+                "titel": [
                     {
                         "id": 19690,
                         "value": "Herzog",
@@ -4859,9 +4775,8 @@
                 "death_date_written": null,
                 "geschlecht": null,
                 "funktionsbezeichnungen": null,
-                "titel": "Königin",
                 "unidentifiziert": false,
-                "titel_new": [
+                "titel": [
                     {
                         "id": 19698,
                         "value": "Königin",
@@ -4928,9 +4843,8 @@
                 "death_date_written": null,
                 "geschlecht": null,
                 "funktionsbezeichnungen": null,
-                "titel": "Königin",
                 "unidentifiziert": false,
-                "titel_new": [
+                "titel": [
                     {
                         "id": 19698,
                         "value": "Königin",
@@ -4960,9 +4874,8 @@
                 "death_date_written": "",
                 "geschlecht": null,
                 "funktionsbezeichnungen": null,
-                "titel": "König",
                 "unidentifiziert": false,
-                "titel_new": [
+                "titel": [
                     {
                         "id": 19697,
                         "value": "König",
@@ -5029,9 +4942,8 @@
                 "death_date_written": null,
                 "geschlecht": null,
                 "funktionsbezeichnungen": null,
-                "titel": "Königin",
                 "unidentifiziert": false,
-                "titel_new": [
+                "titel": [
                     {
                         "id": 19698,
                         "value": "Königin",
@@ -5098,9 +5010,8 @@
                 "death_date_written": null,
                 "geschlecht": null,
                 "funktionsbezeichnungen": null,
-                "titel": "Königin",
                 "unidentifiziert": false,
-                "titel_new": [
+                "titel": [
                     {
                         "id": 19698,
                         "value": "Königin",
@@ -5167,9 +5078,8 @@
                 "death_date_written": null,
                 "geschlecht": null,
                 "funktionsbezeichnungen": null,
-                "titel": "Königin",
                 "unidentifiziert": false,
-                "titel_new": [
+                "titel": [
                     {
                         "id": 19698,
                         "value": "Königin",
@@ -5199,9 +5109,8 @@
                 "death_date_written": null,
                 "geschlecht": null,
                 "funktionsbezeichnungen": null,
-                "titel": "König",
                 "unidentifiziert": false,
-                "titel_new": [
+                "titel": [
                     {
                         "id": 19697,
                         "value": "König",
@@ -5268,9 +5177,8 @@
                 "death_date_written": null,
                 "geschlecht": null,
                 "funktionsbezeichnungen": null,
-                "titel": "Königin",
                 "unidentifiziert": false,
-                "titel_new": [
+                "titel": [
                     {
                         "id": 19698,
                         "value": "Königin",
@@ -5337,9 +5245,8 @@
                 "death_date_written": "",
                 "geschlecht": null,
                 "funktionsbezeichnungen": null,
-                "titel": "Herzog",
                 "unidentifiziert": false,
-                "titel_new": [
+                "titel": [
                     {
                         "id": 19690,
                         "value": "Herzog",
@@ -5406,9 +5313,8 @@
                 "death_date_written": null,
                 "geschlecht": null,
                 "funktionsbezeichnungen": null,
-                "titel": "Herzogin, Großherzogin",
                 "unidentifiziert": false,
-                "titel_new": [
+                "titel": [
                     {
                         "id": 19691,
                         "value": "Herzogin",
@@ -5443,9 +5349,8 @@
                 "death_date_written": "",
                 "geschlecht": null,
                 "funktionsbezeichnungen": null,
-                "titel": "Herzog",
                 "unidentifiziert": false,
-                "titel_new": [
+                "titel": [
                     {
                         "id": 19690,
                         "value": "Herzog",
@@ -5512,9 +5417,8 @@
                 "death_date_written": "",
                 "geschlecht": null,
                 "funktionsbezeichnungen": null,
-                "titel": "Herzog",
                 "unidentifiziert": false,
-                "titel_new": [
+                "titel": [
                     {
                         "id": 19690,
                         "value": "Herzog",
@@ -5581,9 +5485,8 @@
                 "death_date_written": null,
                 "geschlecht": null,
                 "funktionsbezeichnungen": null,
-                "titel": "Herzogin",
                 "unidentifiziert": false,
-                "titel_new": [
+                "titel": [
                     {
                         "id": 19691,
                         "value": "Herzogin",
@@ -5650,9 +5553,8 @@
                 "death_date_written": null,
                 "geschlecht": null,
                 "funktionsbezeichnungen": null,
-                "titel": "Herzogin",
                 "unidentifiziert": false,
-                "titel_new": [
+                "titel": [
                     {
                         "id": 19691,
                         "value": "Herzogin",
@@ -5682,9 +5584,8 @@
                 "death_date_written": "",
                 "geschlecht": null,
                 "funktionsbezeichnungen": null,
-                "titel": "Herzog",
                 "unidentifiziert": false,
-                "titel_new": [
+                "titel": [
                     {
                         "id": 19690,
                         "value": "Herzog",
@@ -5751,9 +5652,8 @@
                 "death_date_written": null,
                 "geschlecht": null,
                 "funktionsbezeichnungen": null,
-                "titel": "Herzogin",
                 "unidentifiziert": false,
-                "titel_new": [
+                "titel": [
                     {
                         "id": 19691,
                         "value": "Herzogin",
@@ -5783,9 +5683,8 @@
                 "death_date_written": "",
                 "geschlecht": null,
                 "funktionsbezeichnungen": null,
-                "titel": "Herzog",
                 "unidentifiziert": false,
-                "titel_new": [
+                "titel": [
                     {
                         "id": 19690,
                         "value": "Herzog",
@@ -5852,9 +5751,8 @@
                 "death_date_written": "",
                 "geschlecht": null,
                 "funktionsbezeichnungen": null,
-                "titel": "Herzogin",
                 "unidentifiziert": false,
-                "titel_new": [
+                "titel": [
                     {
                         "id": 19691,
                         "value": "Herzogin",
@@ -5921,9 +5819,8 @@
                 "death_date_written": "",
                 "geschlecht": null,
                 "funktionsbezeichnungen": null,
-                "titel": "Herzogin",
                 "unidentifiziert": false,
-                "titel_new": [
+                "titel": [
                     {
                         "id": 19691,
                         "value": "Herzogin",
@@ -5953,9 +5850,8 @@
                 "death_date_written": "",
                 "geschlecht": null,
                 "funktionsbezeichnungen": null,
-                "titel": "Prinz",
                 "unidentifiziert": false,
-                "titel_new": [
+                "titel": [
                     {
                         "id": 19706,
                         "value": "Prinz",
@@ -6022,9 +5918,8 @@
                 "death_date_written": "",
                 "geschlecht": null,
                 "funktionsbezeichnungen": null,
-                "titel": "Herzogin",
                 "unidentifiziert": false,
-                "titel_new": [
+                "titel": [
                     {
                         "id": 19691,
                         "value": "Herzogin",
@@ -6091,9 +5986,8 @@
                 "death_date_written": "",
                 "geschlecht": null,
                 "funktionsbezeichnungen": null,
-                "titel": "Herzogin",
                 "unidentifiziert": false,
-                "titel_new": [
+                "titel": [
                     {
                         "id": 19691,
                         "value": "Herzogin",
@@ -6160,9 +6054,8 @@
                 "death_date_written": "",
                 "geschlecht": null,
                 "funktionsbezeichnungen": null,
-                "titel": "Herzogin",
                 "unidentifiziert": false,
-                "titel_new": [
+                "titel": [
                     {
                         "id": 19691,
                         "value": "Herzogin",
@@ -6229,9 +6122,8 @@
                 "death_date_written": null,
                 "geschlecht": null,
                 "funktionsbezeichnungen": null,
-                "titel": "Herzogin",
                 "unidentifiziert": false,
-                "titel_new": [
+                "titel": [
                     {
                         "id": 19691,
                         "value": "Herzogin",
@@ -6298,9 +6190,8 @@
                 "death_date_written": null,
                 "geschlecht": null,
                 "funktionsbezeichnungen": null,
-                "titel": "Kaiser",
                 "unidentifiziert": false,
-                "titel_new": [
+                "titel": [
                     {
                         "id": 19708,
                         "value": "Kaiser",
@@ -6330,9 +6221,8 @@
                 "death_date_written": "",
                 "geschlecht": null,
                 "funktionsbezeichnungen": null,
-                "titel": "Kaiserin",
                 "unidentifiziert": false,
-                "titel_new": [
+                "titel": [
                     {
                         "id": 19702,
                         "value": "Kaiserin",
@@ -6399,9 +6289,8 @@
                 "death_date_written": null,
                 "geschlecht": null,
                 "funktionsbezeichnungen": null,
-                "titel": "Kaiser",
                 "unidentifiziert": false,
-                "titel_new": [
+                "titel": [
                     {
                         "id": 19708,
                         "value": "Kaiser",
@@ -6431,9 +6320,8 @@
                 "death_date_written": "",
                 "geschlecht": null,
                 "funktionsbezeichnungen": null,
-                "titel": "Kaiserin",
                 "unidentifiziert": false,
-                "titel_new": [
+                "titel": [
                     {
                         "id": 19702,
                         "value": "Kaiserin",
@@ -6500,9 +6388,8 @@
                 "death_date_written": null,
                 "geschlecht": null,
                 "funktionsbezeichnungen": null,
-                "titel": "Kaiser",
                 "unidentifiziert": false,
-                "titel_new": [
+                "titel": [
                     {
                         "id": 19708,
                         "value": "Kaiser",
@@ -6569,9 +6456,8 @@
                 "death_date_written": null,
                 "geschlecht": null,
                 "funktionsbezeichnungen": null,
-                "titel": "Erzherzogin, Kurfürstin",
                 "unidentifiziert": false,
-                "titel_new": [
+                "titel": [
                     {
                         "id": 19699,
                         "value": "Erzherzogin",
@@ -6606,9 +6492,8 @@
                 "death_date_written": "",
                 "geschlecht": null,
                 "funktionsbezeichnungen": null,
-                "titel": "Kurfürst",
                 "unidentifiziert": false,
-                "titel_new": [
+                "titel": [
                     {
                         "id": 19695,
                         "value": "Kurfürst",
