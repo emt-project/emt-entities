@@ -6,7 +6,7 @@
             <title type="main">Personenregister</title>
             <title type="sub">
 Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiserin Eleonora Magdalena von Pfalz-Neuburg (1655-1720)
-</title>
+            </title>
             <respStmt>
                <resp>Aufbereitung der Daten</resp>
                <name>Keller, Katrin</name>
@@ -20,12 +20,12 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
             <funder xmlns="http://www.tei-c.org/ns/1.0">
                <name>FWF Der Wissenschaftsfond</name>
                <address>
-                     <street>Sensengasse 1</street>
-                     <postCode>1090 Wien</postCode>
-                     <placeName>
-                        <country>Österreich</country>
-                        <settlement>Wien</settlement>
-                     </placeName>
+                  <street>Sensengasse 1</street>
+                  <postCode>1090 Wien</postCode>
+                  <placeName>
+                     <country>Österreich</country>
+                     <settlement>Wien</settlement>
+                  </placeName>
                </address>
             </funder>
          </titleStmt>
@@ -64,6 +64,7 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
             <listPerson xml:id="listperson">
                <person xml:id="emt_person_id__2">
                   <persName>Eleonora, geb. Gonzaga-Nevers</persName>
+                  <roleName>Kaiserin</roleName>
                   <birth>
                      <date notBefore="1630-01-01" notAfter="1630-12-31">1630</date>
                   </birth>
@@ -80,6 +81,8 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                </person>
                <person xml:id="emt_person_id__3">
                   <persName>Sachsen-Lauenburg, Anna Maria Franziska von, vereh. Pfalz-Neuburg, vereh. de' Medici</persName>
+                  <roleName>Herzogin</roleName>
+                  <roleName>Großherzogin</roleName>
                   <birth>
                      <date notBefore="1672-01-01" notAfter="1672-12-31">1672</date>
                   </birth>
@@ -111,6 +114,7 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                </person>
                <person xml:id="emt_person_id__7">
                   <persName>Kaunitz, Dominik Andreas von</persName>
+                  <roleName>Graf</roleName>
                   <birth>
                      <date notBefore="1665-01-01" notAfter="1665-12-31">1665</date>
                   </birth>
@@ -127,6 +131,7 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                </person>
                <person xml:id="emt_person_id__8">
                   <persName>Pfalz-Neuburg, Dorothea Sophie von, vereh. von Parma</persName>
+                  <roleName>Herzogin</roleName>
                   <birth>
                      <date notBefore="1670-01-01" notAfter="1670-12-31">1670</date>
                   </birth>
@@ -144,6 +149,7 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                </person>
                <person xml:id="emt_person_id__9">
                   <persName>Eleonora Magdalena Theresia, geb. Pfalz-Neuburg</persName>
+                  <roleName>Kaiserin</roleName>
                   <birth>
                      <date notBefore="1655-01-01" notAfter="1655-12-31">1655</date>
                   </birth>
@@ -160,6 +166,8 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                </person>
                <person xml:id="emt_person_id__10">
                   <persName>Pfalz-Neuburg, Elisabeth Amalie von, geb. Hessen-Darmstadt</persName>
+                  <roleName>Herzogin</roleName>
+                  <roleName>Kurfürstin</roleName>
                   <birth>
                      <date notBefore="1635-01-01" notAfter="1635-12-31">1635</date>
                   </birth>
@@ -176,6 +184,7 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                </person>
                <person xml:id="emt_person_id__11">
                   <persName>Priè, Ercole Turinetti de</persName>
+                  <roleName>Marchese</roleName>
                   <birth>
                      <date notBefore="1658-01-01" notAfter="1658-12-31">1658</date>
                   </birth>
@@ -193,6 +202,7 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                </person>
                <person xml:id="emt_person_id__12">
                   <persName>Lobkowitz, Ferdinand August von</persName>
+                  <roleName>Fürst</roleName>
                   <birth>
                      <date notBefore="1655-01-01" notAfter="1655-12-31">1655</date>
                   </birth>
@@ -209,6 +219,8 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                </person>
                <person xml:id="emt_person_id__13">
                   <persName>Lamberg, Leopold Matthias von</persName>
+                  <roleName>Graf</roleName>
+                  <roleName>Fürst</roleName>
                   <birth>
                      <date notBefore="1667-01-01" notAfter="1667-12-31">1667</date>
                   </birth>
@@ -220,6 +232,7 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                </person>
                <person xml:id="emt_person_id__14">
                   <persName>Baden-Baden, Franziska Sibylla Augusta von, geb. Sachsen-Lauenburg</persName>
+                  <roleName>Markgräfin</roleName>
                   <birth>
                      <date notBefore="1675-01-01" notAfter="1675-12-31">1675</date>
                   </birth>
@@ -236,6 +249,7 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                </person>
                <person xml:id="emt_person_id__15">
                   <persName>Brandenburg-Preußen, Friedrich I. von</persName>
+                  <roleName>Kurfürst</roleName>
                   <birth>
                      <date notBefore="1657-01-01" notAfter="1657-12-31">1657</date>
                   </birth>
@@ -252,6 +266,7 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                </person>
                <person xml:id="emt_person_id__16">
                   <persName>Schönborn, Friedrich Karl von</persName>
+                  <roleName>Graf</roleName>
                   <birth>
                      <date notBefore="1674-01-01" notAfter="1674-12-31">1674</date>
                   </birth>
@@ -268,6 +283,7 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                </person>
                <person xml:id="emt_person_id__17">
                   <persName>Windischgrätz, Gottlieb Amadeus von</persName>
+                  <roleName>Graf</roleName>
                   <birth>
                      <date notBefore="1630-01-01" notAfter="1630-12-31">1630</date>
                   </birth>
@@ -284,6 +300,8 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                </person>
                <person xml:id="emt_person_id__18">
                   <persName>Pfalz-Neuburg, Johann Wilhelm von</persName>
+                  <roleName>Herzog</roleName>
+                  <roleName>Kurfürst</roleName>
                   <birth>
                      <date notBefore="1658-01-01" notAfter="1658-12-31">1658</date>
                   </birth>
@@ -312,6 +330,7 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                </person>
                <person xml:id="emt_person_id__20">
                   <persName>Hertodt, Johann Ferdinand von</persName>
+                  <roleName>Doktor</roleName>
                   <birth>
                      <date notBefore="1645-01-01" notAfter="1645-12-31">1645</date>
                   </birth>
@@ -338,6 +357,7 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                </person>
                <person xml:id="emt_person_id__23">
                   <persName>Hamilton, Johann Jakob von (John James)</persName>
+                  <roleName>Graf</roleName>
                   <birth>
                      <date notBefore="1642-01-01" notAfter="1642-12-31">1642</date>
                   </birth>
@@ -349,6 +369,8 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                </person>
                <person xml:id="emt_person_id__24">
                   <persName>Bayern, Joseph Clemens von</persName>
+                  <roleName>Herzog</roleName>
+                  <roleName>Kurfürst</roleName>
                   <birth>
                      <date notBefore="1671-01-01" notAfter="1671-12-31">1671</date>
                   </birth>
@@ -365,6 +387,8 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                </person>
                <person xml:id="emt_person_id__25">
                   <persName>Joseph I.</persName>
+                  <roleName>Erzherzog</roleName>
+                  <roleName>Kaiser</roleName>
                   <birth>
                      <date notBefore="1678-01-01" notAfter="1678-12-31">1678</date>
                   </birth>
@@ -397,6 +421,7 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                </person>
                <person xml:id="emt_person_id__27">
                   <persName>Sachsen-Zeitz, Christian August von</persName>
+                  <roleName>Herzog</roleName>
                   <birth>
                      <date notBefore="1666-01-01" notAfter="1666-12-31">1666</date>
                   </birth>
@@ -430,6 +455,7 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                </person>
                <person xml:id="emt_person_id__29">
                   <persName>Pfalz-Neuburg, Karl Philipp von</persName>
+                  <roleName>Herzog</roleName>
                   <birth>
                      <date notBefore="1661-01-01" notAfter="1661-12-31">1661</date>
                   </birth>
@@ -446,6 +472,7 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                </person>
                <person xml:id="emt_person_id__30">
                   <persName>Salm, Karl Theodor Otto zu</persName>
+                  <roleName>Fürst</roleName>
                   <birth>
                      <date notBefore="1645-01-01" notAfter="1645-12-31">1645</date>
                   </birth>
@@ -462,6 +489,9 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                </person>
                <person xml:id="emt_person_id__31">
                   <persName>Karl VI.</persName>
+                  <roleName>Erzherzog</roleName>
+                  <roleName>König</roleName>
+                  <roleName>Kaiser</roleName>
                   <birth>
                      <date notBefore="1685-01-01" notAfter="1685-12-31">1685</date>
                   </birth>
@@ -478,6 +508,7 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                </person>
                <person xml:id="emt_person_id__32">
                   <persName>Hessen-Wanfried, Karl von</persName>
+                  <roleName>Landgraf</roleName>
                   <birth>
                      <date notBefore="1649-01-01" notAfter="1649-12-31">1649</date>
                   </birth>
@@ -489,6 +520,7 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                </person>
                <person xml:id="emt_person_id__33">
                   <persName>Lothringen, Karl V. von</persName>
+                  <roleName>Herzog</roleName>
                   <birth>
                      <date notBefore="1643-01-01" notAfter="1643-12-31">1643</date>
                   </birth>
@@ -508,6 +540,7 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                </person>
                <person xml:id="emt_person_id__35">
                   <persName>Leopold I.</persName>
+                  <roleName>Kaiser</roleName>
                   <birth>
                      <date notBefore="1640-01-01" notAfter="1640-12-31">1640</date>
                   </birth>
@@ -524,6 +557,7 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                </person>
                <person xml:id="emt_person_id__36">
                   <persName>Baden-Baden, Ludwig Wilhelm von</persName>
+                  <roleName>Markgraf</roleName>
                   <birth>
                      <date notBefore="1655-01-01" notAfter="1655-12-31">1655</date>
                   </birth>
@@ -540,6 +574,7 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                </person>
                <person xml:id="emt_person_id__37">
                   <persName>Maria Anna von Spanien, geb. Österreich</persName>
+                  <roleName>Königin</roleName>
                   <birth>
                      <date notBefore="1634-01-01" notAfter="1634-12-31">1634</date>
                   </birth>
@@ -556,6 +591,7 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                </person>
                <person xml:id="emt_person_id__38">
                   <persName>Maria Anna von Spanien, geb. Pfalz-Neuburg</persName>
+                  <roleName>Königin</roleName>
                   <birth>
                      <date notBefore="1667-01-01" notAfter="1667-12-31">1667</date>
                   </birth>
@@ -591,6 +627,7 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                </person>
                <person xml:id="emt_person_id__42">
                   <persName>Maria Sophie von Portugal, geb. Pfalz-Neuburg</persName>
+                  <roleName>Königin</roleName>
                   <birth>
                      <date notBefore="1666-01-01" notAfter="1666-12-31">1666</date>
                   </birth>
@@ -613,6 +650,8 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                </person>
                <person xml:id="emt_person_id__45">
                   <persName>Bayern, Maximilian Heinrich von</persName>
+                  <roleName>Herzog</roleName>
+                  <roleName>Kurfürst</roleName>
                   <birth>
                      <date notBefore="1621-01-01" notAfter="1621-12-31">1621</date>
                   </birth>
@@ -629,6 +668,7 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                </person>
                <person xml:id="emt_person_id__46">
                   <persName>Degenfeld, Maximilian von</persName>
+                  <roleName>Graf</roleName>
                   <birth>
                      <date notBefore="1645-01-01" notAfter="1645-12-31">1645</date>
                   </birth>
@@ -641,6 +681,7 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                </person>
                <person xml:id="emt_person_id__47">
                   <persName>Nassau-Hadamar, Moritz Heinrich von</persName>
+                  <roleName>Fürst</roleName>
                   <birth>
                      <date notBefore="1626-01-01" notAfter="1626-12-31">1626</date>
                   </birth>
@@ -668,6 +709,8 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                </person>
                <person xml:id="emt_person_id__50">
                   <persName>Pfalz-Neuburg, Philipp Wilhelm von</persName>
+                  <roleName>Herzog</roleName>
+                  <roleName>Kurfürst</roleName>
                   <birth>
                      <date notBefore="1615-01-01" notAfter="1615-12-31">1615</date>
                   </birth>
@@ -700,12 +743,14 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                </person>
                <person xml:id="emt_person_id__52">
                   <persName>Pottier, Karl SJ</persName>
+                  <roleName>Pater</roleName>
                   <death>
                      <date notBefore="1722-01-01" notAfter="1722-12-31">1722</date>
                   </death>
                </person>
                <person xml:id="emt_person_id__53">
                   <persName>Wiser, Johann SJ</persName>
+                  <roleName>Pater</roleName>
                   <birth>
                      <date notBefore="1656-01-01" notAfter="1656-12-31">1656</date>
                   </birth>
@@ -715,6 +760,8 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                </person>
                <person xml:id="emt_person_id__54">
                   <persName>Österreich, Maria Antonia von, vereh. Bayern</persName>
+                  <roleName>Erzherzogin</roleName>
+                  <roleName>Kurfürstin</roleName>
                   <birth>
                      <date notBefore="1669-01-01" notAfter="1669-12-31">1669</date>
                   </birth>
@@ -729,6 +776,7 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                </person>
                <person xml:id="emt_person_id__56">
                   <persName>Strattmann, Theodor Heinrich von</persName>
+                  <roleName>Graf</roleName>
                   <birth>
                      <date notBefore="1637-01-01" notAfter="1637-12-31">1637</date>
                   </birth>
@@ -756,12 +804,15 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                </person>
                <person xml:id="emt_person_id__59">
                   <persName>Tanner, Johann Evangelist SJ</persName>
+                  <roleName>Pater</roleName>
                   <death>
                      <date notBefore="1680-01-01" notAfter="1680-12-31">1680</date>
                   </death>
                </person>
                <person xml:id="emt_person_id__60">
                   <persName>Österreich, Maria Anna von, vereh. Pfalz-Neuburg</persName>
+                  <roleName>Erzherzogin</roleName>
+                  <roleName>Herzogin</roleName>
                   <birth>
                      <date notBefore="1654-01-01" notAfter="1654-12-31">1654</date>
                   </birth>
@@ -784,6 +835,7 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                </person>
                <person xml:id="emt_person_id__63">
                   <persName>Kuenburg, Maximilian Gandolf von</persName>
+                  <roleName>Graf</roleName>
                   <birth>
                      <date notBefore="1622-01-01" notAfter="1622-12-31">1622</date>
                   </birth>
@@ -858,6 +910,7 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                </person>
                <person xml:id="emt_person_id__70">
                   <persName>Bayern, Albrecht Sigismund von</persName>
+                  <roleName>Herzog</roleName>
                   <birth>
                      <date notBefore="1623-01-01" notAfter="1623-12-31">1623</date>
                   </birth>
@@ -886,6 +939,7 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                </person>
                <person xml:id="emt_person_id__72">
                   <persName>Königsegg-Aulendorf, Leopold Wilhelm von</persName>
+                  <roleName>Graf</roleName>
                   <birth>
                      <date notBefore="1630-01-01" notAfter="1630-12-31">1630</date>
                   </birth>
@@ -902,6 +956,7 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                </person>
                <person xml:id="emt_person_id__73">
                   <persName>Baden-Durlach, Bernhard Gustav von OSB</persName>
+                  <roleName>Landgraf</roleName>
                   <birth>
                      <date notBefore="1631-01-01" notAfter="1631-12-31">1631</date>
                   </birth>
@@ -935,6 +990,7 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                </person>
                <person xml:id="emt_person_id__75">
                   <persName>Hessen-Darmstadt, Friedrich von OSIoHieros</persName>
+                  <roleName>Landgraf</roleName>
                   <birth>
                      <date notBefore="1616-01-01" notAfter="1616-12-31">1616</date>
                   </birth>
@@ -972,6 +1028,7 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                </person>
                <person xml:id="emt_person_id__80">
                   <persName>Baden-Baden, Hermann von</persName>
+                  <roleName>Markgraf</roleName>
                   <birth>
                      <date notBefore="1628-01-01" notAfter="1628-12-31">1628</date>
                   </birth>
@@ -988,6 +1045,7 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                </person>
                <person xml:id="emt_person_id__81">
                   <persName>Fürstenberg-Meßkirch, Froben Ferdinand von</persName>
+                  <roleName>Graf</roleName>
                   <birth>
                      <date notBefore="1664-01-01" notAfter="1664-12-31">1664</date>
                   </birth>
@@ -1004,6 +1062,7 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                </person>
                <person xml:id="emt_person_id__82">
                   <persName>Pfalz-Neuburg, Wolfgang Georg Friedrich von</persName>
+                  <roleName>Herzog</roleName>
                   <birth>
                      <date notBefore="1659-01-01" notAfter="1659-12-31">1659</date>
                   </birth>
@@ -1037,6 +1096,7 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                </person>
                <person xml:id="emt_person_id__84">
                   <persName>Rietberg und Ostfriesland, Anna Katharina von, geb. Salm-Reifferscheidt</persName>
+                  <roleName>Gräfin</roleName>
                   <birth>
                      <date notBefore="1624-01-01" notAfter="1624-12-31">1624</date>
                   </birth>
@@ -1049,6 +1109,7 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                </person>
                <person xml:id="emt_person_id__85">
                   <persName>Rietberg und Ostfriesland, Friedrich Wilhelm von</persName>
+                  <roleName>Graf</roleName>
                   <birth>
                      <date notBefore="1650-01-01" notAfter="1650-12-31">1650</date>
                   </birth>
@@ -1061,6 +1122,7 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                </person>
                <person xml:id="emt_person_id__86">
                   <persName>Fürstenberg-Heiligenberg, Franz Egon von</persName>
+                  <roleName>Fürst</roleName>
                   <birth>
                      <date notBefore="1626-01-01" notAfter="1626-12-31">1626</date>
                   </birth>
@@ -1077,6 +1139,7 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                </person>
                <person xml:id="emt_person_id__87">
                   <persName>Waldstein, Karl Ferdinand von</persName>
+                  <roleName>Graf</roleName>
                   <birth>
                      <date notBefore="1634-01-01" notAfter="1634-12-31">1634</date>
                   </birth>
@@ -1093,6 +1156,7 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                </person>
                <person xml:id="emt_person_id__88">
                   <persName>Galen, Christoph Bernhard von</persName>
+                  <roleName>Graf</roleName>
                   <birth>
                      <date notBefore="1606-01-01" notAfter="1606-12-31">1606</date>
                   </birth>
@@ -1109,6 +1173,7 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                </person>
                <person xml:id="emt_person_id__89">
                   <persName>Karl II. von Spanien</persName>
+                  <roleName>König</roleName>
                   <birth>
                      <date notBefore="1661-01-01" notAfter="1661-12-31">1661</date>
                   </birth>
@@ -1125,6 +1190,7 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                </person>
                <person xml:id="emt_person_id__90">
                   <persName>Fürstenberg-Heiligenberg, Ferdinand Maximilian von</persName>
+                  <roleName>Fürst</roleName>
                   <birth>
                      <date notBefore="1661-01-01" notAfter="1661-12-31">1661</date>
                   </birth>
@@ -1135,6 +1201,7 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                </person>
                <person xml:id="emt_person_id__91">
                   <persName>Fürstenberg-Heiligenberg, Wilhelm Egon von</persName>
+                  <roleName>Fürst</roleName>
                   <birth>
                      <date notBefore="1629-01-01" notAfter="1629-12-31">1629</date>
                   </birth>
@@ -1152,6 +1219,7 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                </person>
                <person xml:id="emt_person_id__92">
                   <persName>Pfalz-Zweibrücken-Kleeburg, Adolf Johann von</persName>
+                  <roleName>Herzog</roleName>
                   <birth>
                      <date notBefore="1629-01-01" notAfter="1629-12-31">1629</date>
                   </birth>
@@ -1168,6 +1236,7 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                </person>
                <person xml:id="emt_person_id__93">
                   <persName>Pfalz-Zweibrücken-Kleeburg, Elsa Elisabeth von, geb. Brahe, verw. Oxenstierna</persName>
+                  <roleName>Herzogin</roleName>
                   <birth>
                      <date notBefore="1632-01-01" notAfter="1632-12-31">1632</date>
                   </birth>
@@ -1178,6 +1247,7 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                </person>
                <person xml:id="emt_person_id__94">
                   <persName>Pfalz-Zweibrücken-Kleeburg, Katharina von, vereh. Gyllenstierna</persName>
+                  <roleName>Herzogin</roleName>
                   <birth>
                      <date notBefore="1661-01-01" notAfter="1661-12-31">1661</date>
                   </birth>
@@ -1188,6 +1258,7 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                </person>
                <person xml:id="emt_person_id__95">
                   <persName>Pfalz-Zweibrücken-Kleeburg, Maria Elisabeth von, vereh. Gersdorff</persName>
+                  <roleName>Herzogin</roleName>
                   <birth>
                      <date notBefore="1663-01-01" notAfter="1663-12-31">1663</date>
                   </birth>
@@ -1200,6 +1271,7 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                </person>
                <person xml:id="emt_person_id__96">
                   <persName>Kollonitsch, Maria Theresia von, geb. Aspremont-Lynden (Reckheim)</persName>
+                  <roleName>Gräfin</roleName>
                   <birth>
                      <date notBefore="1654-01-01" notAfter="1654-12-31">1654</date>
                   </birth>
@@ -1210,6 +1282,7 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                </person>
                <person xml:id="emt_person_id__97">
                   <persName>Kollonitsch, Johann Georg von</persName>
+                  <roleName>Graf</roleName>
                   <birth>
                      <date notBefore="1644-01-01" notAfter="1644-12-31">1644</date>
                   </birth>
@@ -1221,6 +1294,7 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                </person>
                <person xml:id="emt_person_id__98">
                   <persName>Huber, Johann Georg</persName>
+                  <roleName>Doktor</roleName>
                   <death>
                      <date notBefore="1682-01-01" notAfter="1682-12-31">1682</date>
                   </death>
@@ -1238,6 +1312,7 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                </person>
                <person xml:id="emt_person_id__100">
                   <persName>von der Leyen, Damian Hartard</persName>
+                  <roleName>Kurfürst</roleName>
                   <birth>
                      <date notBefore="1624-01-01" notAfter="1624-12-31">1624</date>
                   </birth>
@@ -1254,6 +1329,7 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                </person>
                <person xml:id="emt_person_id__101">
                   <persName>Orsbeck, Johann Hugo von</persName>
+                  <roleName>Kurfürst</roleName>
                   <birth>
                      <date notBefore="1634-01-01" notAfter="1634-12-31">1634</date>
                   </birth>
@@ -1311,6 +1387,8 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                </person>
                <person xml:id="emt_person_id__109">
                   <persName>Amalie Wilhelmine von Braunschweig-Lüneburg (Calenberg), vereh. Österreich</persName>
+                  <roleName>Herzogin</roleName>
+                  <roleName>Kaiserin</roleName>
                   <birth>
                      <date notBefore="1673-01-01" notAfter="1673-12-31">1673</date>
                   </birth>
@@ -1322,6 +1400,8 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                </person>
                <person xml:id="emt_person_id__110">
                   <persName>Elisabeth Christine von Braunschweig-Wolfenbüttel, vereh. Österreich</persName>
+                  <roleName>Herzogin</roleName>
+                  <roleName>Kaiserin</roleName>
                   <birth>
                      <date notBefore="1691-01-01" notAfter="1691-12-31">1691</date>
                   </birth>
@@ -1333,6 +1413,7 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                </person>
                <person xml:id="emt_person_id__111">
                   <persName>Österreich, Maria Elisabeth von</persName>
+                  <roleName>Erzherzogin</roleName>
                   <birth>
                      <date notBefore="1680-01-01" notAfter="1680-12-31">1680</date>
                   </birth>
@@ -1344,6 +1425,7 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                </person>
                <person xml:id="emt_person_id__112">
                   <persName>Österreich, Leopold Joseph von</persName>
+                  <roleName>Erzherzog</roleName>
                   <birth>
                      <date notBefore="1682-01-01" notAfter="1682-12-31">1682</date>
                   </birth>
@@ -1355,6 +1437,7 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                </person>
                <person xml:id="emt_person_id__113">
                   <persName>Österreich, Maria Anna Josepha von, vereh. Portugal</persName>
+                  <roleName>Erzherzogin</roleName>
                   <birth>
                      <date notBefore="1683-01-01" notAfter="1683-12-31">1683</date>
                   </birth>
@@ -1366,6 +1449,7 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                </person>
                <person xml:id="emt_person_id__114">
                   <persName>Österreich, Maria Josepha von</persName>
+                  <roleName>Erzherzogin</roleName>
                   <birth>
                      <date notBefore="1687-01-01" notAfter="1687-12-31">1687</date>
                   </birth>
@@ -1375,6 +1459,7 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                </person>
                <person xml:id="emt_person_id__115">
                   <persName>Österreich, Maria Theresia von</persName>
+                  <roleName>Erzherzogin</roleName>
                   <birth>
                      <date notBefore="1684-01-01" notAfter="1684-12-31">1684</date>
                   </birth>
@@ -1390,6 +1475,7 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                </person>
                <person xml:id="emt_person_id__116">
                   <persName>Österreich, Maria Magdalena von</persName>
+                  <roleName>Erzherzogin</roleName>
                   <birth>
                      <date notBefore="1689-01-01" notAfter="1689-12-31">1689</date>
                   </birth>
@@ -1401,6 +1487,7 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                </person>
                <person xml:id="emt_person_id__117">
                   <persName>Österreich, Maria Margaretha von</persName>
+                  <roleName>Erzherzogin</roleName>
                   <birth>
                      <date notBefore="1690-01-01" notAfter="1690-12-31">1690</date>
                   </birth>
@@ -1410,6 +1497,7 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                </person>
                <person xml:id="emt_person_id__118">
                   <persName>Dietrichstein, Ferdinand Joseph von</persName>
+                  <roleName>Fürst</roleName>
                   <birth>
                      <date notBefore="1636-01-01" notAfter="1636-12-31">1636</date>
                   </birth>
@@ -1421,6 +1509,7 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                </person>
                <person xml:id="emt_person_id__119">
                   <persName>Velen, Alexander Otto von</persName>
+                  <roleName>Graf</roleName>
                   <birth>
                      <date notBefore="1657-01-01" notAfter="1657-12-31">1657</date>
                   </birth>
@@ -1437,6 +1526,7 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                </person>
                <person xml:id="emt_person_id__121">
                   <persName>Sinelli, Emerich OFMCap</persName>
+                  <roleName>Pater</roleName>
                   <birth>
                      <date notBefore="1622-01-01" notAfter="1622-12-31">1622</date>
                   </birth>
@@ -1448,6 +1538,7 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                </person>
                <person xml:id="emt_person_id__123">
                   <persName>Pfalz-Neuburg, Anna Maria Luisa von, geb. Medici</persName>
+                  <roleName>Kurfürstin</roleName>
                   <birth>
                      <date notBefore="1667-01-01" notAfter="1667-12-31">1667</date>
                   </birth>
@@ -1460,6 +1551,7 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                </person>
                <person xml:id="emt_person_id__124">
                   <persName>Pfalz-Neuburg, Ludwig Anton von</persName>
+                  <roleName>Herzog</roleName>
                   <birth>
                      <date notBefore="1660-01-01" notAfter="1660-12-31">1660</date>
                   </birth>
@@ -1471,6 +1563,7 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                </person>
                <person xml:id="emt_person_id__125">
                   <persName>Pfalz-Neuburg, Luise Charlotte von, geb. Radziwill, verw. Brandenburg</persName>
+                  <roleName>Herzogin</roleName>
                   <birth>
                      <date notBefore="1667-01-01" notAfter="1667-12-31">1667</date>
                   </birth>
@@ -1487,6 +1580,7 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                </person>
                <person xml:id="emt_person_id__126">
                   <persName>Pfalz-Neuburg, Theresia Katharina von, geb. Lubomirska</persName>
+                  <roleName>Herzogin</roleName>
                   <birth>
                      <date notBefore="1685-01-01" notAfter="1685-12-31">1685</date>
                   </birth>
@@ -1503,6 +1597,7 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                </person>
                <person xml:id="emt_person_id__127">
                   <persName>Pfalz-Neuburg, Alexander Sigmund von</persName>
+                  <roleName>Herzog</roleName>
                   <birth>
                      <date notBefore="1663-01-01" notAfter="1663-12-31">1663</date>
                   </birth>
@@ -1514,6 +1609,8 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                </person>
                <person xml:id="emt_person_id__128">
                   <persName>Pfalz-Neuburg, Franz Ludwig von</persName>
+                  <roleName>Herzog</roleName>
+                  <roleName>Kurfürst</roleName>
                   <birth>
                      <date notBefore="1664-01-01" notAfter="1664-12-31">1664</date>
                   </birth>
@@ -1525,6 +1622,7 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                </person>
                <person xml:id="emt_person_id__129">
                   <persName>Pfalz-Neuburg, Friedrich Wilhelm von</persName>
+                  <roleName>Herzog</roleName>
                   <birth>
                      <date notBefore="1665-01-01" notAfter="1665-12-31">1665</date>
                   </birth>
@@ -1536,6 +1634,7 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                </person>
                <person xml:id="emt_person_id__130">
                   <persName>Peter II. von Portugal</persName>
+                  <roleName>König</roleName>
                   <birth>
                      <date notBefore="1648-01-01" notAfter="1648-12-31">1648</date>
                   </birth>
@@ -1547,6 +1646,7 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                </person>
                <person xml:id="emt_person_id__131">
                   <persName>Pfalz-Neuburg, Philipp Wilhelm August von</persName>
+                  <roleName>Herzog</roleName>
                   <birth>
                      <date notBefore="1668-01-01" notAfter="1668-12-31">1668</date>
                   </birth>
@@ -1558,6 +1658,7 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                </person>
                <person xml:id="emt_person_id__132">
                   <persName>Parma, Odoardo II. Farnese von</persName>
+                  <roleName>Herzog</roleName>
                   <birth>
                      <date notBefore="1666-01-01" notAfter="1666-12-31">1666</date>
                   </birth>
@@ -1570,6 +1671,7 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                </person>
                <person xml:id="emt_person_id__133">
                   <persName>Parma, Francesco Maria Farnese von</persName>
+                  <roleName>Herzog</roleName>
                   <birth>
                      <date notBefore="1678-01-01" notAfter="1678-12-31">1678</date>
                   </birth>
@@ -1581,6 +1683,7 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                </person>
                <person xml:id="emt_person_id__134">
                   <persName>Pfalz-Neuburg, Hedwig Elisabeth von, vereh. Sobieski</persName>
+                  <roleName>Herzogin</roleName>
                   <birth>
                      <date notBefore="1673-01-01" notAfter="1673-12-31">1673</date>
                   </birth>
@@ -1592,6 +1695,7 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                </person>
                <person xml:id="emt_person_id__135">
                   <persName>Sobieski, Jakob Louis Heinrich</persName>
+                  <roleName>Prinz</roleName>
                   <birth>
                      <date notBefore="1667-01-01" notAfter="1667-12-31">1667</date>
                   </birth>
@@ -1603,6 +1707,7 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                </person>
                <person xml:id="emt_person_id__136">
                   <persName>Pfalz-Neuburg, Leopoldine Eleonore von</persName>
+                  <roleName>Herzogin</roleName>
                   <birth>
                      <date notBefore="1679-01-01" notAfter="1679-12-31">1679</date>
                   </birth>
@@ -1614,6 +1719,7 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                </person>
                <person xml:id="emt_person_id__137">
                   <persName>Margarita Teresa, geb. Spanien</persName>
+                  <roleName>Kaiserin</roleName>
                   <birth>
                      <date notBefore="1651-01-01" notAfter="1651-12-31">1651</date>
                   </birth>
@@ -1625,6 +1731,7 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                </person>
                <person xml:id="emt_person_id__138">
                   <persName>Claudia Felicitas, geb. Tirol</persName>
+                  <roleName>Kaiserin</roleName>
                   <birth>
                      <date notBefore="1653-01-01" notAfter="1653-12-31">1653</date>
                   </birth>
@@ -1636,6 +1743,7 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                </person>
                <person xml:id="emt_person_id__139">
                   <persName>Bayern, Maximilian II. Emanuel von</persName>
+                  <roleName>Kurfürst</roleName>
                   <birth>
                      <date notBefore="1662-01-01" notAfter="1662-12-31">1662</date>
                   </birth>
@@ -1656,6 +1764,7 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                </person>
                <person xml:id="emt_person_id__143">
                   <persName>Rietberg und Ostfriesland, Maria Leopoldina Katharina von</persName>
+                  <roleName>Gräfin</roleName>
                   <birth>
                      <date notBefore="1649-01-01" notAfter="1649-12-31">1649</date>
                   </birth>
@@ -1666,6 +1775,7 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                </person>
                <person xml:id="emt_person_id__144">
                   <persName>Rietberg und Ostfriesland, Bernhardine Sophie von</persName>
+                  <roleName>Gräfin</roleName>
                   <birth>
                      <date notBefore="1654-01-01" notAfter="1654-12-31">1654</date>
                   </birth>
@@ -1676,6 +1786,7 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                </person>
                <person xml:id="emt_person_id__145">
                   <persName>Liechtenstein, Sidonie Elisabeth von, geb. Salm-Reifferscheidt</persName>
+                  <roleName>Fürstin</roleName>
                   <birth>
                      <date notBefore="1623-01-01" notAfter="1623-12-31">1623</date>
                   </birth>
@@ -1686,6 +1797,7 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                </person>
                <person xml:id="emt_person_id__146">
                   <persName>Pfalz-Sulzbach, Philipp Florinus von</persName>
+                  <roleName>Herzog</roleName>
                   <birth>
                      <date notBefore="1630-01-01" notAfter="1630-12-31">1630</date>
                   </birth>
@@ -1707,6 +1819,7 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                </person>
                <person xml:id="emt_person_id__149">
                   <persName>Schwarzenberg, Ferdinand Wilhelm von</persName>
+                  <roleName>Fürst</roleName>
                   <birth>
                      <date notBefore="1652-01-01" notAfter="1652-12-31">1652</date>
                   </birth>
@@ -1769,6 +1882,7 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                </person>
                <person xml:id="emt_person_id__155">
                   <persName>Königsegg-Aulendorf, Ignaz Eusebius von</persName>
+                  <roleName>Graf</roleName>
                   <birth>
                      <date notBefore="1646-01-01" notAfter="1646-12-31">1646</date>
                   </birth>
@@ -1779,6 +1893,7 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                </person>
                <person xml:id="emt_person_id__156">
                   <persName>Nassau-Hadamar, Franz Bernhard von</persName>
+                  <roleName>Fürst</roleName>
                   <birth>
                      <date notBefore="1637-01-01" notAfter="1637-12-31">1637</date>
                   </birth>
@@ -1815,6 +1930,7 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                </person>
                <person xml:id="emt_person_id__162">
                   <persName>Anhalt-Dessau, Johann Georg II. von</persName>
+                  <roleName>Fürst</roleName>
                   <birth>
                      <date notBefore="1627-01-01" notAfter="1627-12-31">1627</date>
                   </birth>
@@ -1826,6 +1942,7 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                </person>
                <person xml:id="emt_person_id__163">
                   <persName>Anhalt-Dessau, Johann Kasimir von</persName>
+                  <roleName>Fürst</roleName>
                   <birth>
                      <date notBefore="1596-01-01" notAfter="1596-12-31">1596</date>
                   </birth>
@@ -1837,6 +1954,7 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                </person>
                <person xml:id="emt_person_id__164">
                   <persName>Harrach, Ferdinand Bonaventura von</persName>
+                  <roleName>Graf</roleName>
                   <birth>
                      <date notBefore="1637-01-01" notAfter="1637-12-31">1637</date>
                   </birth>
@@ -1851,6 +1969,7 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                </person>
                <person xml:id="emt_person_id__166">
                   <persName>Eleonora Maria von Polen, geb. Österreich, vereh. Lothringen</persName>
+                  <roleName>Königin</roleName>
                   <birth>
                      <date notBefore="1653-01-01" notAfter="1653-12-31">1653</date>
                   </birth>
@@ -1871,6 +1990,7 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                </person>
                <person xml:id="emt_person_id__168">
                   <persName>Wilhelm III. von Oranien, König von England und Schottland</persName>
+                  <roleName>König</roleName>
                   <birth>
                      <date notBefore="1650-01-01" notAfter="1650-12-31">1650</date>
                   </birth>
@@ -1887,6 +2007,7 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                </person>
                <person xml:id="emt_person_id__169">
                   <persName>Sachsen-Lauenburg, Marie Hedwig Augusta von, geb. Pfalz-Sulzbach</persName>
+                  <roleName>Herzogin</roleName>
                   <birth>
                      <date notBefore="1650-01-01" notAfter="1650-12-31">1650</date>
                   </birth>
@@ -1912,6 +2033,7 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                </person>
                <person xml:id="emt_person_id__172">
                   <persName>Hoffmann von Grünbühel, Maria Elisabeth, vereh. Dietrichstein</persName>
+                  <roleName>Gräfin</roleName>
                   <birth>
                      <date notBefore="1658-01-01" notAfter="1658-12-31">1658</date>
                   </birth>
@@ -1922,6 +2044,8 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                </person>
                <person xml:id="emt_person_id__173">
                   <persName>Dietrichstein, Philipp Siegmund von</persName>
+                  <roleName>Fürst</roleName>
+                  <roleName>Graf</roleName>
                   <birth>
                      <date notBefore="1651-01-01" notAfter="1651-12-31">1651</date>
                   </birth>
@@ -1939,6 +2063,7 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                </person>
                <person xml:id="emt_person_id__174">
                   <persName>Pfalz-Simmern, Charlotte von, geb. Hessen-Kassel</persName>
+                  <roleName>Kurfürstin</roleName>
                   <birth>
                      <date notBefore="1627-01-01" notAfter="1627-12-31">1627</date>
                   </birth>
@@ -1976,6 +2101,7 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                </person>
                <person xml:id="emt_person_id__179">
                   <persName>Althann, Christoph Johann von</persName>
+                  <roleName>Graf</roleName>
                   <birth>
                      <date notBefore="1633-01-01" notAfter="1633-12-31">1633</date>
                   </birth>
@@ -1987,6 +2113,8 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                </person>
                <person xml:id="emt_person_id__180">
                   <persName>Mansfeld, Heinrich Franz von</persName>
+                  <roleName>Graf</roleName>
+                  <roleName>Fürst</roleName>
                   <birth>
                      <date notBefore="1640-01-01" notAfter="1640-12-31">1640</date>
                   </birth>
@@ -2009,12 +2137,14 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                </person>
                <person xml:id="emt_person_id__184">
                   <persName>Kollonitsch, Fräulein, soll 1678 Hoffräulein werden</persName>
+                  <roleName>Gräfin</roleName>
                </person>
                <person xml:id="emt_person_id__185">
                   <persName>kaiserlicher Abgesandter nach Ungarn 1678</persName>
                </person>
                <person xml:id="emt_person_id__186">
                   <persName>Caretto di Grana, Otto Heinrich</persName>
+                  <roleName>Graf</roleName>
                   <birth>
                      <date notBefore="1639-01-01" notAfter="1639-12-31">1639</date>
                   </birth>
@@ -2037,6 +2167,7 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                </person>
                <person xml:id="emt_person_id__188">
                   <persName>Sachsen, Johann Georg III. von</persName>
+                  <roleName>Kurfürst</roleName>
                   <birth>
                      <date notBefore="1647-01-01" notAfter="1647-12-31">1647</date>
                   </birth>
@@ -2048,6 +2179,7 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                </person>
                <person xml:id="emt_person_id__189">
                   <persName>Fugger von Kirchheim und Weißenhorn, Franz Ernst</persName>
+                  <roleName>Graf</roleName>
                   <birth>
                      <date notBefore="1648-01-01" notAfter="1648-12-31">1648</date>
                   </birth>
@@ -2062,6 +2194,7 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                </person>
                <person xml:id="emt_person_id__191">
                   <persName>Oettingen-Wallerstein, Wolfgang von</persName>
+                  <roleName>Graf</roleName>
                   <birth>
                      <date notBefore="1626-01-01" notAfter="1626-12-31">1626</date>
                   </birth>
@@ -2073,9 +2206,11 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                </person>
                <person xml:id="emt_person_id__192">
                   <persName>Breuner, Gräfin 1679</persName>
+                  <roleName>Gräfin</roleName>
                </person>
                <person xml:id="emt_person_id__193">
                   <persName>Rappach, Gräfin, 1679</persName>
+                  <roleName>Gräfin</roleName>
                </person>
                <person xml:id="emt_person_id__194">
                   <persName>Austria, Juan José de</persName>
@@ -2112,9 +2247,11 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                </person>
                <person xml:id="emt_person_id__198">
                   <persName>Jordan, NN 1679</persName>
+                  <roleName>Doktor</roleName>
                </person>
                <person xml:id="emt_person_id__199">
                   <persName>Galen, Johann Heinrich von</persName>
+                  <roleName>Graf</roleName>
                   <birth>
                      <date notBefore="1609-01-01" notAfter="1609-12-31">1609</date>
                   </birth>
@@ -2127,6 +2264,7 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                </person>
                <person xml:id="emt_person_id__200">
                   <persName>Mansfeld, Maria Elisabeth von, geb. Harrach</persName>
+                  <roleName>Gräfin</roleName>
                   <birth>
                      <date notBefore="1643-01-01" notAfter="1643-12-31">1643</date>
                   </birth>
@@ -2143,10 +2281,12 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                </person>
                <person xml:id="emt_person_id__203">
                   <persName>Rappach, Maria Theresia von, geb. Brandis</persName>
+                  <roleName>Gräfin</roleName>
                   <idno type="URL">http://www.wikidata.org/entity/Q108927109</idno>
                </person>
                <person xml:id="emt_person_id__204">
                   <persName>Lamberg, Franz Joseph von</persName>
+                  <roleName>Graf</roleName>
                   <birth>
                      <date notBefore="1638-01-01" notAfter="1638-12-31">1638</date>
                   </birth>
@@ -2173,6 +2313,7 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                </person>
                <person xml:id="emt_person_id__206">
                   <persName>Savoyen, Vittorio Amadeo II. von</persName>
+                  <roleName>Herzog</roleName>
                   <birth>
                      <date notBefore="1666-01-01" notAfter="1666-12-31">1666</date>
                   </birth>
@@ -2201,9 +2342,11 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                </person>
                <person xml:id="emt_person_id__209">
                   <persName>Isidorus OFM Carm</persName>
+                  <roleName>Pater</roleName>
                </person>
                <person xml:id="emt_person_id__210">
                   <persName>Spinola de los Balbases, Paolo</persName>
+                  <roleName>Marques</roleName>
                   <birth>
                      <date notBefore="1628-01-01" notAfter="1628-12-31">1628</date>
                   </birth>
@@ -2219,6 +2362,7 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                </person>
                <person xml:id="emt_person_id__211">
                   <persName>Brandenburg-Preußen, Friedrich Wilhelm von</persName>
+                  <roleName>Kurfürst</roleName>
                   <birth>
                      <date notBefore="1620-01-01" notAfter="1620-12-31">1620</date>
                   </birth>
@@ -2235,6 +2379,7 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                </person>
                <person xml:id="emt_person_id__213">
                   <persName>Crécy, Louis Verjus de</persName>
+                  <roleName>Comte</roleName>
                   <birth>
                      <date notBefore="1629-01-01" notAfter="1629-12-31">1629</date>
                   </birth>
@@ -2252,6 +2397,7 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                </person>
                <person xml:id="emt_person_id__214">
                   <persName>Ludwig XIV. von Frankreich</persName>
+                  <roleName>König</roleName>
                   <birth>
                      <date notBefore="1638-01-01" notAfter="1638-12-31">1638</date>
                   </birth>
@@ -2267,6 +2413,7 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                </person>
                <person xml:id="emt_person_id__215">
                   <persName>Czernin, Humprecht Johann</persName>
+                  <roleName>Graf</roleName>
                   <birth>
                      <date notBefore="1628-01-01" notAfter="1628-12-31">1628</date>
                   </birth>
@@ -2296,6 +2443,7 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                </person>
                <person xml:id="emt_person_id__219">
                   <persName>Innozenz XI. (Odeschalchi)</persName>
+                  <roleName>Papst</roleName>
                   <birth>
                      <date notBefore="1611-01-01" notAfter="1611-12-31">1611</date>
                   </birth>
@@ -2315,6 +2463,7 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                </person>
                <person xml:id="emt_person_id__221">
                   <persName>Falces, Diego Antonio Felicio de Croy y Peralta de</persName>
+                  <roleName>Marques</roleName>
                   <birth>
                      <date notBefore="1618-01-01" notAfter="1618-12-31">1618</date>
                   </birth>
@@ -2329,6 +2478,7 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                </person>
                <person xml:id="emt_person_id__223">
                   <persName>Hamilton, Maria Sophie von, geb. Weichs</persName>
+                  <roleName>Gräfin</roleName>
                   <death>
                      <date notBefore="1698-01-01" notAfter="1698-12-31">1698</date>
                   </death>
@@ -2367,6 +2517,7 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                </person>
                <person xml:id="emt_person_id__228">
                   <persName>Lamberg, Johann Maximilian von</persName>
+                  <roleName>Graf</roleName>
                   <birth>
                      <date notBefore="1608-01-01" notAfter="1608-12-31">1608</date>
                   </birth>
@@ -2383,6 +2534,7 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                </person>
                <person xml:id="emt_person_id__229">
                   <persName>Sachsen-Lauenburg, Julius Franz von</persName>
+                  <roleName>Herzog</roleName>
                   <birth>
                      <date notBefore="1641-01-01" notAfter="1641-12-31">1641</date>
                   </birth>
@@ -2399,9 +2551,11 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                </person>
                <person xml:id="emt_person_id__230">
                   <persName>Wirts, NN</persName>
+                  <roleName>Doktor</roleName>
                </person>
                <person xml:id="emt_person_id__232">
                   <persName>Jörger von Tollet, Johann Quintin</persName>
+                  <roleName>Graf</roleName>
                   <birth>
                      <date notBefore="1624-01-01" notAfter="1624-12-31">1624</date>
                   </birth>
@@ -2414,6 +2568,7 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                </person>
                <person xml:id="emt_person_id__233">
                   <persName>Jörger von Tollet, Johann Peter</persName>
+                  <roleName>Graf</roleName>
                   <birth>
                      <date notBefore="1656-01-01" notAfter="1656-12-31">1656</date>
                   </birth>
@@ -2427,6 +2582,7 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                </person>
                <person xml:id="emt_person_id__236">
                   <persName>Dietrichstein, Gundakar von</persName>
+                  <roleName>Graf</roleName>
                   <birth>
                      <date notBefore="1623-01-01" notAfter="1623-12-31">1623</date>
                   </birth>
@@ -2442,6 +2598,7 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                </person>
                <person xml:id="emt_person_id__237">
                   <persName>Sachsen-Gotha-Altenburg, Friedrich I. von</persName>
+                  <roleName>Herzog</roleName>
                   <birth>
                      <date notBefore="1646-01-01" notAfter="1646-12-31">1646</date>
                   </birth>
@@ -2458,6 +2615,7 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                </person>
                <person xml:id="emt_person_id__238">
                   <persName>Brandenburg-Ansbach, Johann Friedrich von</persName>
+                  <roleName>Markgraf</roleName>
                   <birth>
                      <date notBefore="1654-01-01" notAfter="1654-12-31">1654</date>
                   </birth>
@@ -2482,6 +2640,7 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                </person>
                <person xml:id="emt_person_id__240">
                   <persName>Frankreich, Maria Anna von, geb. Bayern</persName>
+                  <roleName>Dauphine</roleName>
                   <birth>
                      <date notBefore="1660-01-01" notAfter="1660-12-31">1660</date>
                   </birth>
@@ -2493,6 +2652,7 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                </person>
                <person xml:id="emt_person_id__241">
                   <persName>Laics, NN Pater</persName>
+                  <roleName>Pater</roleName>
                </person>
                <person xml:id="emt_person_id__242">
                   <persName>Markgräfin, die im April 1680 in Prag Audienz bei EMT hat</persName>
@@ -2505,6 +2665,7 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                </person>
                <person xml:id="emt_person_id__245">
                   <persName>Sachsen-Meiningen, Marie Hedwig von, geb. Hessen-Darmstadt</persName>
+                  <roleName>Herzogin</roleName>
                   <birth>
                      <date notBefore="1647-01-01" notAfter="1647-12-31">1647</date>
                   </birth>
@@ -2521,12 +2682,15 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                </person>
                <person xml:id="emt_person_id__246">
                   <persName>Auersperg, Maria Franziska von, vereh. Mansfeld</persName>
+                  <roleName>Hoffräulein</roleName>
+                  <roleName>Kammerfräulein</roleName>
                </person>
                <person xml:id="emt_person_id__247">
                   <persName>Pater Guardian</persName>
                </person>
                <person xml:id="emt_person_id__248">
                   <persName>Österreich, Albrecht von</persName>
+                  <roleName>Erzherzog</roleName>
                   <birth>
                      <date notBefore="1559-01-01" notAfter="1559-12-31">1559</date>
                   </birth>
@@ -2543,6 +2707,8 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                </person>
                <person xml:id="emt_person_id__249">
                   <persName>Österreich, Isabella Clara Eugenia von, geb. Spanien</persName>
+                  <roleName>Infantin</roleName>
+                  <roleName>Erzherzogin</roleName>
                   <birth>
                      <date notBefore="1566-01-01" notAfter="1566-12-31">1566</date>
                   </birth>
@@ -2559,6 +2725,7 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                </person>
                <person xml:id="emt_person_id__250">
                   <persName>Österreich, Leopold Wilhelm von</persName>
+                  <roleName>Erzherzog</roleName>
                   <birth>
                      <date notBefore="1614-01-01" notAfter="1614-12-31">1614</date>
                   </birth>
@@ -2575,6 +2742,7 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                </person>
                <person xml:id="emt_person_id__251">
                   <persName>Sauter, Michael SJ</persName>
+                  <roleName>Pater</roleName>
                   <birth>
                      <date notBefore="1618-01-01" notAfter="1618-12-31">1618</date>
                   </birth>
@@ -2584,6 +2752,7 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                </person>
                <person xml:id="emt_person_id__252">
                   <persName>Philipp IV. von Spanien</persName>
+                  <roleName>König</roleName>
                   <birth>
                      <date notBefore="1605-01-01" notAfter="1605-12-31">1605</date>
                   </birth>
@@ -2600,6 +2769,7 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                </person>
                <person xml:id="emt_person_id__253">
                   <persName>Aviano, Marco de OFMCap.</persName>
+                  <roleName>Pater</roleName>
                   <birth>
                      <date notBefore="1631-01-01" notAfter="1631-12-31">1631</date>
                   </birth>
@@ -2634,6 +2804,7 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                </person>
                <person xml:id="emt_person_id__258">
                   <persName>Nostitz-Rieneck, Johann Hartwig von</persName>
+                  <roleName>Graf</roleName>
                   <birth>
                      <date notBefore="1610-01-01" notAfter="1610-12-31">1610</date>
                   </birth>
@@ -2645,6 +2816,7 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                </person>
                <person xml:id="emt_person_id__259">
                   <persName>Farnese, Alessandro</persName>
+                  <roleName>Herzog</roleName>
                   <birth>
                      <date notBefore="1635-01-01" notAfter="1635-12-31">1635</date>
                   </birth>
@@ -2661,6 +2833,7 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                </person>
                <person xml:id="emt_person_id__260">
                   <persName>Lothringen, Leopold I. von</persName>
+                  <roleName>Herzog</roleName>
                   <birth>
                      <date notBefore="1679-01-01" notAfter="1679-12-31">1679</date>
                   </birth>
@@ -2687,6 +2860,7 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                </person>
                <person xml:id="emt_person_id__264">
                   <persName>Pálffy, Katharina Elisabeth, geb. Weichs</persName>
+                  <roleName>Gräfin</roleName>
                   <death>
                      <date notBefore="1724-01-01" notAfter="1724-12-31">1724</date>
                   </death>
@@ -2695,6 +2869,7 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                </person>
                <person xml:id="emt_person_id__265">
                   <persName>Montecuccoli, Raimondo</persName>
+                  <roleName>Fürst</roleName>
                   <birth>
                      <date notBefore="1609-01-01" notAfter="1609-12-31">1609</date>
                   </birth>
@@ -2717,9 +2892,11 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                </person>
                <person xml:id="emt_person_id__268">
                   <persName>Crescentius</persName>
+                  <roleName>Pater</roleName>
                </person>
                <person xml:id="emt_person_id__269">
                   <persName>Stuber, Lorenz</persName>
+                  <roleName>Doktor</roleName>
                   <death>
                      <date notBefore="1684-01-01" notAfter="1684-12-31">1684</date>
                   </death>
@@ -2729,6 +2906,8 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                </person>
                <person xml:id="emt_person_id__272">
                   <persName>Sachsen-Eisenach, Eleonore Erdmuthe von, vereh. Brandenburg-Ansbach, vereh. Sachsen</persName>
+                  <roleName>Margräfin</roleName>
+                  <roleName>Kurfürstin</roleName>
                   <birth>
                      <date notBefore="1662-01-01" notAfter="1662-12-31">1662</date>
                   </birth>
@@ -2761,6 +2940,7 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                </person>
                <person xml:id="emt_person_id__274">
                   <persName>Oxenstierna, Gabriel Turreson</persName>
+                  <roleName>Graf</roleName>
                   <birth>
                      <date notBefore="1642-01-01" notAfter="1642-12-31">1642</date>
                   </birth>
@@ -2774,6 +2954,9 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                </person>
                <person xml:id="emt_person_id__275">
                   <persName>Braunschweig-Lüneburg (Hannover), Sophie Charlotte von, vereh. Brandenburg-Preußen</persName>
+                  <roleName>Herzogin</roleName>
+                  <roleName>Kurfürstin</roleName>
+                  <roleName>Königin</roleName>
                   <birth>
                      <date notBefore="1668-01-01" notAfter="1668-12-31">1668</date>
                   </birth>
@@ -2785,12 +2968,15 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                </person>
                <person xml:id="emt_person_id__276">
                   <persName>Cosmo / Cosmas</persName>
+                  <roleName>Pater</roleName>
                </person>
                <person xml:id="emt_person_id__277">
                   <persName>Jochem (Joachim)</persName>
+                  <roleName>Pater</roleName>
                </person>
                <person xml:id="emt_person_id__278">
                   <persName>Eszterházy, Paul</persName>
+                  <roleName>Fürst</roleName>
                   <birth>
                      <date notBefore="1635-01-01" notAfter="1635-12-31">1635</date>
                   </birth>
@@ -2807,6 +2993,7 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                </person>
                <person xml:id="emt_person_id__279">
                   <persName>Forgách, Adam</persName>
+                  <roleName>Graf</roleName>
                   <birth>
                      <date notBefore="1601-01-01" notAfter="1601-12-31">1601</date>
                   </birth>
@@ -2823,6 +3010,7 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                </person>
                <person xml:id="emt_person_id__280">
                   <persName>Stephan (der Heilige) von Ungarn</persName>
+                  <roleName>König</roleName>
                   <birth>
                      <date notBefore="0969-01-01" notAfter="0969-12-31">969</date>
                   </birth>
@@ -2855,6 +3043,7 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                </person>
                <person xml:id="emt_person_id__285">
                   <persName>Mollard, Ferdinand Ernst von</persName>
+                  <roleName>Graf</roleName>
                   <birth>
                      <date notBefore="1648-01-01" notAfter="1648-12-31">1648</date>
                   </birth>
@@ -2866,6 +3055,7 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                </person>
                <person xml:id="emt_person_id__286">
                   <persName>Mantua, Ferdinando Carlo Gonzaga-Nevers von</persName>
+                  <roleName>Herzog</roleName>
                   <birth>
                      <date notBefore="1652-01-01" notAfter="1652-12-31">1652</date>
                   </birth>
@@ -2878,6 +3068,7 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                </person>
                <person xml:id="emt_person_id__287">
                   <persName>Louvois, François Michel Le Tellier de</persName>
+                  <roleName>Marquis</roleName>
                   <birth>
                      <date notBefore="1639-01-01" notAfter="1639-12-31">1639</date>
                   </birth>
@@ -2898,6 +3089,7 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                </person>
                <person xml:id="emt_person_id__289">
                   <persName>Hoyos, Johann Balthasar von</persName>
+                  <roleName>Graf</roleName>
                   <birth>
                      <date notBefore="1626-01-01" notAfter="1626-12-31">1626</date>
                   </birth>
@@ -2915,6 +3107,7 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                </person>
                <person xml:id="emt_person_id__291">
                   <persName>Alberizzi, Mario</persName>
+                  <roleName>Kardinal</roleName>
                   <birth>
                      <date notBefore="1609-01-01" notAfter="1609-12-31">1609</date>
                   </birth>
@@ -2956,6 +3149,7 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                </person>
                <person xml:id="emt_person_id__300">
                   <persName>Marie Louise von Spanien, geb. Orleans</persName>
+                  <roleName>Königin</roleName>
                   <birth>
                      <date notBefore="1662-01-01" notAfter="1662-12-31">1662</date>
                   </birth>
@@ -2972,6 +3166,7 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                </person>
                <person xml:id="emt_person_id__301">
                   <persName>Ingelheim, Anselm Franz von</persName>
+                  <roleName>Kurfürst</roleName>
                   <birth>
                      <date notBefore="1634-01-01" notAfter="1634-12-31">1634</date>
                   </birth>
@@ -2986,6 +3181,7 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                </person>
                <person xml:id="emt_person_id__303">
                   <persName>Württemberg-Winnental, Friedrich Karl von</persName>
+                  <roleName>Herzog</roleName>
                   <birth>
                      <date notBefore="1652-01-01" notAfter="1652-12-31">1652</date>
                   </birth>
@@ -2997,6 +3193,7 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                </person>
                <person xml:id="emt_person_id__304">
                   <persName>Castell-Remlingen, Wolfgang Dietrich zu</persName>
+                  <roleName>Graf</roleName>
                   <birth>
                      <date notBefore="1641-01-01" notAfter="1641-12-31">1641</date>
                   </birth>
@@ -3008,6 +3205,7 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                </person>
                <person xml:id="emt_person_id__305">
                   <persName>Bayern, Ferdinand Maria von</persName>
+                  <roleName>Kurfürst</roleName>
                   <birth>
                      <date notBefore="1636-01-01" notAfter="1636-12-31">1636</date>
                   </birth>
@@ -3036,9 +3234,11 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                </person>
                <person xml:id="emt_person_id__307">
                   <persName>Törring (Dering), NN von 1681</persName>
+                  <roleName>Graf</roleName>
                </person>
                <person xml:id="emt_person_id__308">
                   <persName>Mansfeld, Maria Magdalena von, geb. Törring</persName>
+                  <roleName>Gräfin</roleName>
                   <birth>
                      <date notBefore="1616-01-01" notAfter="1616-12-31">1616</date>
                   </birth>
@@ -3062,9 +3262,11 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                </person>
                <person xml:id="emt_person_id__311">
                   <persName>Hiele, NN</persName>
+                  <roleName>Doktor</roleName>
                </person>
                <person xml:id="emt_person_id__312">
                   <persName>Althann, Michael Wenzel von</persName>
+                  <roleName>Graf</roleName>
                   <birth>
                      <date notBefore="1630-01-01" notAfter="1630-12-31">1630</date>
                   </birth>
@@ -3076,6 +3278,7 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                </person>
                <person xml:id="emt_person_id__313">
                   <persName>Christian V. von Dänemark</persName>
+                  <roleName>König</roleName>
                   <birth>
                      <date notBefore="1646-01-01" notAfter="1646-12-31">1646</date>
                   </birth>
@@ -3097,6 +3300,7 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                </person>
                <person xml:id="emt_person_id__315">
                   <persName>Slavata, Karl Johann Joachim OCD</persName>
+                  <roleName>Pater</roleName>
                   <birth>
                      <date notBefore="1641-01-01" notAfter="1641-12-31">1641</date>
                   </birth>
@@ -3117,6 +3321,7 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                </person>
                <person xml:id="emt_person_id__321">
                   <persName>Castell-Remlingen, Friedrich Magnus zu</persName>
+                  <roleName>Graf</roleName>
                   <birth>
                      <date notBefore="1646-01-01" notAfter="1646-12-31">1646</date>
                   </birth>
@@ -3133,6 +3338,7 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                </person>
                <person xml:id="emt_person_id__322">
                   <persName>Liechtenstein-Castelcorn, Karl von</persName>
+                  <roleName>Graf</roleName>
                   <birth>
                      <date notBefore="1623-01-01" notAfter="1623-12-31">1623</date>
                   </birth>
@@ -3149,6 +3355,7 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                </person>
                <person xml:id="emt_person_id__323">
                   <persName>Holstein-Sonderburg-Wiesenburg, Friedrich von</persName>
+                  <roleName>Herzog</roleName>
                   <birth>
                      <date notBefore="1651-01-01" notAfter="1651-12-31">1651</date>
                   </birth>
@@ -3165,6 +3372,7 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                </person>
                <person xml:id="emt_person_id__324">
                   <persName>Preysing, Johann Maximilian Felix von</persName>
+                  <roleName>Graf</roleName>
                   <birth>
                      <date notBefore="1655-01-01" notAfter="1655-12-31">1655</date>
                   </birth>
@@ -3178,6 +3386,7 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                </person>
                <person xml:id="emt_person_id__326">
                   <persName>Colloredo, Ludwig</persName>
+                  <roleName>Graf</roleName>
                   <birth>
                      <date notBefore="1631-01-01" notAfter="1631-12-31">1631</date>
                   </birth>
@@ -3191,9 +3400,11 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                </person>
                <person xml:id="emt_person_id__327">
                   <persName>Genger, NN</persName>
+                  <roleName>Pater</roleName>
                </person>
                <person xml:id="emt_person_id__328">
                   <persName>Pötting, Johann Sebastian von</persName>
+                  <roleName>Graf</roleName>
                   <birth>
                      <date notBefore="1626-01-01" notAfter="1626-12-31">1626</date>
                   </birth>
@@ -3206,6 +3417,7 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                </person>
                <person xml:id="emt_person_id__329">
                   <persName>Pötting, Sebastian von</persName>
+                  <roleName>Graf</roleName>
                   <birth>
                      <date notBefore="1628-01-01" notAfter="1628-12-31">1628</date>
                   </birth>
@@ -3222,6 +3434,7 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                </person>
                <person xml:id="emt_person_id__330">
                   <persName>Pötting, Ignaz Dominikus von</persName>
+                  <roleName>Graf</roleName>
                   <birth>
                      <date notBefore="1651-01-01" notAfter="1651-12-31">1651</date>
                   </birth>
@@ -3238,15 +3451,19 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                </person>
                <person xml:id="emt_person_id__332">
                   <persName>Massimi, NN</persName>
+                  <roleName>Monsignore</roleName>
                </person>
                <person xml:id="emt_person_id__333">
                   <persName>Mehlheim / Mellem, NN 1682</persName>
+                  <roleName>Doktor</roleName>
                </person>
                <person xml:id="emt_person_id__334">
                   <persName>Schorn, NN 1682</persName>
+                  <roleName>Doktor</roleName>
                </person>
                <person xml:id="emt_person_id__335">
                   <persName>Beckers, Nikolaus Wilhelm</persName>
+                  <roleName>Doktor</roleName>
                   <birth>
                      <date notBefore="1630-01-01" notAfter="1630-12-31">1630</date>
                   </birth>
@@ -3259,6 +3476,7 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                </person>
                <person xml:id="emt_person_id__336">
                   <persName>Illmer von und zu Wartenberg, Friedrich Ferdinand</persName>
+                  <roleName>Doktor</roleName>
                   <birth>
                      <date notBefore="1640-01-01" notAfter="1640-12-31">1640</date>
                   </birth>
@@ -3275,12 +3493,15 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                </person>
                <person xml:id="emt_person_id__338">
                   <persName>NN, Leibarzt Johann Wilhelms 1682</persName>
+                  <roleName>Doktor</roleName>
                </person>
                <person xml:id="emt_person_id__339">
                   <persName>Herst / Horst, NN 1682</persName>
+                  <roleName>Doktor</roleName>
                </person>
                <person xml:id="emt_person_id__340">
                   <persName>Caprara, Alberto</persName>
+                  <roleName>Graf</roleName>
                   <birth>
                      <date notBefore="1627-01-01" notAfter="1627-12-31">1627</date>
                   </birth>
@@ -3297,6 +3518,7 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                </person>
                <person xml:id="emt_person_id__341">
                   <persName>Maria Franziska von Portugal, geb. Savoyen</persName>
+                  <roleName>Königin</roleName>
                   <birth>
                      <date notBefore="1646-01-01" notAfter="1646-12-31">1646</date>
                   </birth>
@@ -3312,6 +3534,7 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                </person>
                <person xml:id="emt_person_id__343">
                   <persName>Borgomanero, Carlo Emanuele d’Este de</persName>
+                  <roleName>Marques</roleName>
                   <birth>
                      <date notBefore="1622-01-01" notAfter="1622-12-31">1622</date>
                   </birth>
@@ -3334,6 +3557,7 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                </person>
                <person xml:id="emt_person_id__349">
                   <persName>Zinzendorf, Albrecht von</persName>
+                  <roleName>Graf</roleName>
                   <birth>
                      <date notBefore="1618-01-01" notAfter="1618-12-31">1618</date>
                   </birth>
@@ -3345,6 +3569,7 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                </person>
                <person xml:id="emt_person_id__350">
                   <persName>Holstein-Sonderburg, Ferdinand Leopold von</persName>
+                  <roleName>Herzog</roleName>
                   <birth>
                      <date notBefore="1647-01-01" notAfter="1647-12-31">1647</date>
                   </birth>
@@ -3360,6 +3585,7 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                </person>
                <person xml:id="emt_person_id__351">
                   <persName>Holstein-Sonderburg, Alexander Rudolf von</persName>
+                  <roleName>Herzog</roleName>
                   <birth>
                      <date notBefore="1651-01-01" notAfter="1651-12-31">1651</date>
                   </birth>
@@ -3370,6 +3596,7 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                </person>
                <person xml:id="emt_person_id__352">
                   <persName>Holstein-Sonderburg, Georg Christian von</persName>
+                  <roleName>Herzog</roleName>
                   <birth>
                      <date notBefore="1653-01-01" notAfter="1653-12-31">1653</date>
                   </birth>
@@ -3380,6 +3607,7 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                </person>
                <person xml:id="emt_person_id__354">
                   <persName>Waldstein, Johann Friedrich von</persName>
+                  <roleName>Graf</roleName>
                   <birth>
                      <date notBefore="1642-01-01" notAfter="1642-12-31">1642</date>
                   </birth>
@@ -3391,6 +3619,7 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                </person>
                <person xml:id="emt_person_id__355">
                   <persName>Waldstein, Franz Augustin von</persName>
+                  <roleName>Graf</roleName>
                   <birth>
                      <date notBefore="1628-01-01" notAfter="1628-12-31">1628</date>
                   </birth>
@@ -3402,6 +3631,7 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                </person>
                <person xml:id="emt_person_id__356">
                   <persName>Wachtendonk, Hermann von</persName>
+                  <roleName>Fürst</roleName>
                   <death>
                      <date notBefore="1704-01-01" notAfter="1704-12-31">1704</date>
                   </death>
@@ -3410,6 +3640,7 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                </person>
                <person xml:id="emt_person_id__357">
                   <persName>Vélez, Fernando Joaquín Fajardo de Requeséns y Zúñiga de los</persName>
+                  <roleName>Marques</roleName>
                   <birth>
                      <date notBefore="1635-01-01" notAfter="1635-12-31">1635</date>
                   </birth>
@@ -3423,6 +3654,7 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                </person>
                <person xml:id="emt_person_id__359">
                   <persName>Kinsky, Wenzel Norbert Octavian</persName>
+                  <roleName>Graf</roleName>
                   <birth>
                      <date notBefore="1642-01-01" notAfter="1642-12-31">1642</date>
                   </birth>
@@ -3470,6 +3702,7 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                </person>
                <person xml:id="emt_person_id__365">
                   <persName>Saint-Julien, Adam Maximilian von</persName>
+                  <roleName>Graf</roleName>
                   <birth>
                      <date notBefore="1639-01-01" notAfter="1639-12-31">1639</date>
                   </birth>
@@ -3482,12 +3715,14 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                </person>
                <person xml:id="emt_person_id__366">
                   <persName>Cavriani, NN, wird 1683 Kämmerer</persName>
+                  <roleName>Graf</roleName>
                </person>
                <person xml:id="emt_person_id__367">
                   <persName>Köchin der Kaiserin EMT 1683</persName>
                </person>
                <person xml:id="emt_person_id__368">
                   <persName>Pfalz-Simmern, Karl II. von</persName>
+                  <roleName>Kurfürst</roleName>
                   <birth>
                      <date notBefore="1651-01-01" notAfter="1651-12-31">1651</date>
                   </birth>
@@ -3504,6 +3739,7 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                </person>
                <person xml:id="emt_person_id__369">
                   <persName>Johann Sobieski von Polen</persName>
+                  <roleName>König</roleName>
                   <birth>
                      <date notBefore="1629-01-01" notAfter="1629-12-31">1629</date>
                   </birth>
@@ -3520,6 +3756,7 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                </person>
                <person xml:id="emt_person_id__370">
                   <persName>Safi II. von Persien</persName>
+                  <roleName>Schah</roleName>
                   <birth>
                      <date notBefore="1647-01-01" notAfter="1647-12-31">1647</date>
                   </birth>
@@ -3541,6 +3778,7 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                </person>
                <person xml:id="emt_person_id__373">
                   <persName>Savoyen, Anne Marie von, geb. Orleans</persName>
+                  <roleName>Herzogin</roleName>
                   <birth>
                      <date notBefore="1669-01-01" notAfter="1669-12-31">1669</date>
                   </birth>
@@ -3563,6 +3801,7 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                </person>
                <person xml:id="emt_person_id__376">
                   <persName>Orsini-Rosenberg, Wolfgang Andreas von</persName>
+                  <roleName>Graf</roleName>
                   <birth>
                      <date notBefore="1626-01-01" notAfter="1626-12-31">1626</date>
                   </birth>
@@ -3572,9 +3811,11 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                </person>
                <person xml:id="emt_person_id__377">
                   <persName>Weibl, NN 1683</persName>
+                  <roleName>Doktor</roleName>
                </person>
                <person xml:id="emt_person_id__378">
                   <persName>Stadion, Franz Conrad von</persName>
+                  <roleName>Graf</roleName>
                   <birth>
                      <date notBefore="1615-01-01" notAfter="1615-12-31">1615</date>
                   </birth>
@@ -3591,6 +3832,7 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                </person>
                <person xml:id="emt_person_id__379">
                   <persName>Schaffgotsch, Christoph Leopold von</persName>
+                  <roleName>Graf</roleName>
                   <birth>
                      <date notBefore="1623-01-01" notAfter="1623-12-31">1623</date>
                   </birth>
@@ -3622,6 +3864,7 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                </person>
                <person xml:id="emt_person_id__384">
                   <persName>Leslie, Jakob</persName>
+                  <roleName>Graf</roleName>
                   <death>
                      <date notBefore="1685-01-01" notAfter="1685-12-31">1685</date>
                   </death>
@@ -3630,6 +3873,7 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                </person>
                <person xml:id="emt_person_id__385">
                   <persName>Thököly, Emmerich (Imre)</persName>
+                  <roleName>Graf</roleName>
                   <birth>
                      <date notBefore="1657-01-01" notAfter="1657-12-31">1657</date>
                   </birth>
@@ -3649,6 +3893,7 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                </person>
                <person xml:id="emt_person_id__387">
                   <persName>Lothringen, Karl Ferdinand von</persName>
+                  <roleName>Herzog</roleName>
                   <birth>
                      <date notBefore="1683-01-01" notAfter="1683-12-31">1683</date>
                   </birth>
@@ -3658,6 +3903,7 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                </person>
                <person xml:id="emt_person_id__388">
                   <persName>Maria Teresa von Frankreich, geb. Spanien</persName>
+                  <roleName>Königin</roleName>
                   <birth>
                      <date notBefore="1638-01-01" notAfter="1638-12-31">1638</date>
                   </birth>
@@ -3674,9 +3920,11 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                </person>
                <person xml:id="emt_person_id__389">
                   <persName>Sachsen, NN von, 1683 beim Entsatz von Wien</persName>
+                  <roleName>Herzog</roleName>
                </person>
                <person xml:id="emt_person_id__390">
                   <persName>Auersperg, Franz Karl von</persName>
+                  <roleName>Fürst</roleName>
                   <birth>
                      <date notBefore="1660-01-01" notAfter="1660-12-31">1660</date>
                   </birth>
@@ -3691,6 +3939,7 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                </person>
                <person xml:id="emt_person_id__392">
                   <persName>Starhemberg, Ernst Rüdiger von</persName>
+                  <roleName>Graf</roleName>
                   <birth>
                      <date notBefore="1638-01-01" notAfter="1638-12-31">1638</date>
                   </birth>
@@ -3707,6 +3956,7 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                </person>
                <person xml:id="emt_person_id__393">
                   <persName>Waldeck-Pyrmont, Georg Friedrich von</persName>
+                  <roleName>Graf</roleName>
                   <birth>
                      <date notBefore="1620-01-01" notAfter="1620-12-31">1620</date>
                   </birth>
@@ -3726,6 +3976,7 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                </person>
                <person xml:id="emt_person_id__396">
                   <persName>Gall, Walter von</persName>
+                  <roleName>Graf</roleName>
                   <death>
                      <date notBefore="1684-01-01" notAfter="1684-12-31">1684</date>
                   </death>
@@ -3735,6 +3986,7 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                </person>
                <person xml:id="emt_person_id__398">
                   <persName>Törring-Seefeld, Maximilian Ferdinand von</persName>
+                  <roleName>Graf</roleName>
                   <birth>
                      <date notBefore="1632-01-01" notAfter="1632-12-31">1632</date>
                   </birth>
@@ -3765,6 +4017,7 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                </person>
                <person xml:id="emt_person_id__401">
                   <persName>Karl II. von England und Schottland</persName>
+                  <roleName>König</roleName>
                   <birth>
                      <date notBefore="1630-01-01" notAfter="1630-12-31">1630</date>
                   </birth>
@@ -3783,6 +4036,7 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                </person>
                <person xml:id="emt_person_id__403">
                   <persName>Alfonso VI. von Portugal</persName>
+                  <roleName>König</roleName>
                   <birth>
                      <date notBefore="1643-01-01" notAfter="1643-12-31">1643</date>
                   </birth>
@@ -3805,6 +4059,7 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                </person>
                <person xml:id="emt_person_id__405">
                   <persName>Baden-Durlach, Friedrich Magnus von</persName>
+                  <roleName>Markgraf</roleName>
                   <birth>
                      <date notBefore="1647-01-01" notAfter="1647-12-31">1647</date>
                   </birth>
@@ -3827,6 +4082,7 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                </person>
                <person xml:id="emt_person_id__408">
                   <persName>Slavata, Johann Joachim</persName>
+                  <roleName>Graf</roleName>
                   <birth>
                      <date notBefore="1634-01-01" notAfter="1634-12-31">1634</date>
                   </birth>
@@ -3839,6 +4095,7 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                </person>
                <person xml:id="emt_person_id__409">
                   <persName>Slavata, Maria Margaretha Elisabeth, geb. Trautson</persName>
+                  <roleName>Gräfin</roleName>
                   <birth>
                      <date notBefore="1643-01-01" notAfter="1643-12-31">1643</date>
                   </birth>
@@ -3849,6 +4106,7 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                </person>
                <person xml:id="emt_person_id__410">
                   <persName>Dietrichstein, Sigmund Helfried von</persName>
+                  <roleName>Graf</roleName>
                   <birth>
                      <date notBefore="1635-01-01" notAfter="1635-12-31">1635</date>
                   </birth>
@@ -3881,9 +4139,11 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                </person>
                <person xml:id="emt_person_id__413">
                   <persName>Breuner, NN, Kandidat als Obersthofmeister EMT 1683</persName>
+                  <roleName>Graf</roleName>
                </person>
                <person xml:id="emt_person_id__414">
                   <persName>Ungnad von Weißenwolff, Helmhard Christoph</persName>
+                  <roleName>Graf</roleName>
                   <birth>
                      <date notBefore="1635-01-01" notAfter="1635-12-31">1635</date>
                   </birth>
@@ -3899,6 +4159,7 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                </person>
                <person xml:id="emt_person_id__415">
                   <persName>Ungnad von Weißenwolf, Franziska Benigna, geb. Porcia</persName>
+                  <roleName>Gräfin</roleName>
                   <death>
                      <date notBefore="1690-01-01" notAfter="1690-12-31">1690</date>
                   </death>
@@ -3912,6 +4173,7 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                </person>
                <person xml:id="emt_person_id__418">
                   <persName>Sereni (Schereni), Johann Karl von</persName>
+                  <roleName>Graf</roleName>
                   <death>
                      <date notBefore="1691-01-01" notAfter="1691-12-31">1691</date>
                   </death>
@@ -3929,6 +4191,7 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                </person>
                <person xml:id="emt_person_id__422">
                   <persName>Hessen-Darmstadt, Anna Sophie von</persName>
+                  <roleName>Landgräfin</roleName>
                   <birth>
                      <date notBefore="1638-01-01" notAfter="1638-12-31">1638</date>
                   </birth>
@@ -3946,6 +4209,7 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                </person>
                <person xml:id="emt_person_id__423">
                   <persName>Lamberg, Maria Katharina von, vereh. Zrínyi</persName>
+                  <roleName>Gräfin</roleName>
                   <idno type="URL">https://dokutar.omikk.bme.hu/archivum/angol/htm/zrinyi_m.htm</idno>
                </person>
                <person xml:id="emt_person_id__424">
@@ -3969,6 +4233,7 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                </person>
                <person xml:id="emt_person_id__426">
                   <persName>Modena, Francesco d'Este von</persName>
+                  <roleName>Herzog</roleName>
                   <birth>
                      <date notBefore="1660-01-01" notAfter="1660-12-31">1660</date>
                   </birth>
@@ -3992,6 +4257,7 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                </person>
                <person xml:id="emt_person_id__429">
                   <persName>Rummel, Franz Ferdinand von</persName>
+                  <roleName>Pater</roleName>
                   <birth>
                      <date notBefore="1644-01-01" notAfter="1644-12-31">1644</date>
                   </birth>
@@ -4016,12 +4282,14 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                </person>
                <person xml:id="emt_person_id__431">
                   <persName>Pierucci, Pietro</persName>
+                  <roleName>Abbate</roleName>
                   <death>
                      <date notBefore="1697-01-01" notAfter="1697-12-31">1697</date>
                   </death>
                </person>
                <person xml:id="emt_person_id__432">
                   <persName>Ippolito da Pergine OFM</persName>
+                  <roleName>Pater</roleName>
                   <birth>
                      <date notBefore="1643-01-01" notAfter="1643-12-31">1643</date>
                   </birth>
@@ -4035,6 +4303,7 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                </person>
                <person xml:id="emt_person_id__435">
                   <persName>Albert, NN. OCarm Oberin der Karmelitinnen in Neuburg seit 1684</persName>
+                  <roleName>Oberin</roleName>
                </person>
                <person xml:id="emt_person_id__436">
                   <persName>Fuhrmann, David</persName>
@@ -4054,9 +4323,11 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                </person>
                <person xml:id="emt_person_id__439">
                   <persName>Schlick von Passaun, NN 1684</persName>
+                  <roleName>Graf</roleName>
                </person>
                <person xml:id="emt_person_id__440">
                   <persName>Kinsky, Franz Ulrich</persName>
+                  <roleName>Graf</roleName>
                   <birth>
                      <date notBefore="1634-01-01" notAfter="1634-12-31">1634</date>
                   </birth>
@@ -4073,9 +4344,11 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                </person>
                <person xml:id="emt_person_id__441">
                   <persName>Cavriani, Gräfin, tritt 1684 in Dienst von Erzherzogin Maria Anna in Düsseldorf</persName>
+                  <roleName>Gräfin</roleName>
                </person>
                <person xml:id="emt_person_id__442">
                   <persName>Bournonville, Alexander Hypolite de Hénin-Liétard de</persName>
+                  <roleName>Fürst</roleName>
                   <birth>
                      <date notBefore="1616-01-01" notAfter="1616-12-31">1616</date>
                   </birth>
@@ -4088,6 +4361,7 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                </person>
                <person xml:id="emt_person_id__443">
                   <persName>Créquy, François de Marines de</persName>
+                  <roleName>Marquis</roleName>
                   <birth>
                      <date notBefore="1629-01-01" notAfter="1629-12-31">1629</date>
                   </birth>
@@ -4119,6 +4393,7 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                </person>
                <person xml:id="emt_person_id__446">
                   <persName>Taaffe of Carlingford, Francis</persName>
+                  <roleName>Graf</roleName>
                   <birth>
                      <date notBefore="1639-01-01" notAfter="1639-12-31">1639</date>
                   </birth>
@@ -4161,6 +4436,7 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                </person>
                <person xml:id="emt_person_id__454">
                   <persName>Spinola, Gerardo</persName>
+                  <roleName>Marchese</roleName>
                   <birth>
                      <date notBefore="1647-01-01" notAfter="1647-12-31">1647</date>
                   </birth>
@@ -4190,9 +4466,11 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                </person>
                <person xml:id="emt_person_id__461">
                   <persName>Thurn-Valsassina, NN von, soll Hofmeister werden 1684</persName>
+                  <roleName>Graf</roleName>
                </person>
                <person xml:id="emt_person_id__462">
                   <persName>Medinaceli, Juan Francisco II. Tomás Lorenzo de la Cerda Enriquez de Ribera y Portocarrero, duque de</persName>
+                  <roleName>duque</roleName>
                   <birth>
                      <date notBefore="1637-01-01" notAfter="1637-12-31">1637</date>
                   </birth>
@@ -4208,6 +4486,7 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                </person>
                <person xml:id="emt_person_id__463">
                   <persName>Seilern, Johann Friedrich von</persName>
+                  <roleName>Graf</roleName>
                   <birth>
                      <date notBefore="1646-01-01" notAfter="1646-12-31">1646</date>
                   </birth>
@@ -4240,6 +4519,7 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                </person>
                <person xml:id="emt_person_id__467">
                   <persName>Cavriani, Franz Karl</persName>
+                  <roleName>Graf</roleName>
                   <birth>
                      <date notBefore="1637-01-01" notAfter="1637-12-31">1637</date>
                   </birth>
@@ -4279,9 +4559,11 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                </person>
                <person xml:id="emt_person_id__477">
                   <persName>Hohenlohe (Hollach), von</persName>
+                  <roleName>Graf</roleName>
                </person>
                <person xml:id="emt_person_id__479">
                   <persName>Dünewald, Johann Heinrich von</persName>
+                  <roleName>Graf</roleName>
                   <birth>
                      <date notBefore="1617-01-01" notAfter="1617-12-31">1617</date>
                   </birth>
@@ -4301,6 +4583,7 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                </person>
                <person xml:id="emt_person_id__481">
                   <persName>Lamberg, Johann Philipp von</persName>
+                  <roleName>Graf</roleName>
                   <birth>
                      <date notBefore="1652-01-01" notAfter="1652-12-31">1652</date>
                   </birth>
@@ -4312,6 +4595,7 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                </person>
                <person xml:id="emt_person_id__482">
                   <persName>Reichenbach, Christian Ernst von</persName>
+                  <roleName>Doktor</roleName>
                   <death>
                      <date notBefore="1699-01-01" notAfter="1699-12-31">1699</date>
                   </death>
@@ -4319,6 +4603,7 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                </person>
                <person xml:id="emt_person_id__484">
                   <persName>Werschowizin, Fräulein 1691</persName>
+                  <roleName>Gräfin</roleName>
                </person>
                <person xml:id="emt_person_id__485">
                   <persName>Steinkallenfels, Kasimir Heinrich von und zu</persName>
@@ -4332,6 +4617,7 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                </person>
                <person xml:id="emt_person_id__488">
                   <persName>Sporck; Johann von</persName>
+                  <roleName>Graf</roleName>
                   <birth>
                      <date notBefore="1600-01-01" notAfter="1600-12-31">1600</date>
                   </birth>
@@ -4348,9 +4634,11 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                </person>
                <person xml:id="emt_person_id__489">
                   <persName>Sickingen, NN von</persName>
+                  <roleName>Graf</roleName>
                </person>
                <person xml:id="emt_person_id__490">
                   <persName>Cheverny, Louis de Clemont-Gallerande de</persName>
+                  <roleName>Comte</roleName>
                   <birth>
                      <date notBefore="1645-01-01" notAfter="1645-12-31">1645</date>
                   </birth>
@@ -4360,6 +4648,7 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                </person>
                <person xml:id="emt_person_id__491">
                   <persName>Orleans, Elisabeth Charlotte von, geb. Pfalz-Simmern</persName>
+                  <roleName>Herzogin</roleName>
                   <birth>
                      <date notBefore="1652-01-01" notAfter="1652-12-31">1652</date>
                   </birth>
@@ -4376,6 +4665,7 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                </person>
                <person xml:id="emt_person_id__492">
                   <persName>Medici, Cosimo III. de'</persName>
+                  <roleName>Großherzog</roleName>
                   <birth>
                      <date notBefore="1642-01-01" notAfter="1642-12-31">1642</date>
                   </birth>
@@ -4393,6 +4683,7 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                </person>
                <person xml:id="emt_person_id__493">
                   <persName>Caraffa (Carafa), Antonio</persName>
+                  <roleName>Graf</roleName>
                   <birth>
                      <date notBefore="1642-01-01" notAfter="1642-12-31">1642</date>
                   </birth>
@@ -4425,6 +4716,7 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                </person>
                <person xml:id="emt_person_id__497">
                   <persName>Alexander VIII. (Ottoboni)</persName>
+                  <roleName>Papst</roleName>
                   <birth>
                      <date notBefore="1610-01-01" notAfter="1610-12-31">1610</date>
                   </birth>
@@ -4441,6 +4733,7 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                </person>
                <person xml:id="emt_person_id__498">
                   <persName>Maria Kazimira von Polen, geb. de la Grange d'Arquien</persName>
+                  <roleName>Königin</roleName>
                   <birth>
                      <date notBefore="1641-01-01" notAfter="1641-12-31">1641</date>
                   </birth>
@@ -4456,6 +4749,8 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                </person>
                <person xml:id="emt_person_id__499">
                   <persName>Bayern, Violante Beatrix von, vereh. Medici</persName>
+                  <roleName>Herzogin</roleName>
+                  <roleName>Großherzogin</roleName>
                   <birth>
                      <date notBefore="1673-01-01" notAfter="1673-12-31">1673</date>
                   </birth>
@@ -4475,6 +4770,7 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                </person>
                <person xml:id="emt_person_id__501">
                   <persName>Emerich, NN Pater 1685</persName>
+                  <roleName>Pater</roleName>
                </person>
                <person xml:id="emt_person_id__502">
                   <persName>Hofmeister Karl Philipps 1685</persName>
@@ -4487,6 +4783,7 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                </person>
                <person xml:id="emt_person_id__505">
                   <persName>Jakob II. von England und Schottland</persName>
+                  <roleName>König</roleName>
                   <birth>
                      <date notBefore="1633-01-01" notAfter="1633-12-31">1633</date>
                   </birth>
@@ -4502,6 +4799,7 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                </person>
                <person xml:id="emt_person_id__507">
                   <persName>Pálffy, Nikolaus (Miklos)</persName>
+                  <roleName>Graf</roleName>
                   <birth>
                      <date notBefore="1657-01-01" notAfter="1657-12-31">1657</date>
                   </birth>
@@ -4548,6 +4846,7 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                </person>
                <person xml:id="emt_person_id__515">
                   <persName>Mantua, Isabella Clara von, geb. Österreich</persName>
+                  <roleName>Herzogin</roleName>
                   <birth>
                      <date notBefore="1629-01-01" notAfter="1629-12-31">1629</date>
                   </birth>
@@ -4566,9 +4865,11 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                </person>
                <person xml:id="emt_person_id__517">
                   <persName>Althann, NN von, 1685 für Hofamt empfohlen</persName>
+                  <roleName>Graf</roleName>
                </person>
                <person xml:id="emt_person_id__518">
                   <persName>Bayern, Maximilian I. von</persName>
+                  <roleName>Kurfürst</roleName>
                   <birth>
                      <date notBefore="1573-01-01" notAfter="1573-12-31">1573</date>
                   </birth>
@@ -4585,6 +4886,8 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                </person>
                <person xml:id="emt_person_id__519">
                   <persName>Bayern, Maria Anna von, geb. Österreich</persName>
+                  <roleName>Kurfürstin</roleName>
+                  <roleName>Erzherzogin</roleName>
                   <birth>
                      <date notBefore="1610-01-01" notAfter="1610-12-31">1610</date>
                   </birth>
@@ -4601,6 +4904,7 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                </person>
                <person xml:id="emt_person_id__520">
                   <persName>Maria Beatrice von England und Schottland, geb. Modena</persName>
+                  <roleName>Königin</roleName>
                   <birth>
                      <date notBefore="1658-01-01" notAfter="1658-12-31">1658</date>
                   </birth>
@@ -4619,6 +4923,7 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                </person>
                <person xml:id="emt_person_id__522">
                   <persName>Thun, Franz Sigismund von</persName>
+                  <roleName>Graf</roleName>
                   <birth>
                      <date notBefore="1639-01-01" notAfter="1639-12-31">1639</date>
                   </birth>
@@ -4635,6 +4940,7 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                </person>
                <person xml:id="emt_person_id__523">
                   <persName>Bayern, Maximilian Philipp von</persName>
+                  <roleName>Herzog</roleName>
                   <birth>
                      <date notBefore="1638-01-01" notAfter="1638-12-31">1638</date>
                   </birth>
@@ -4657,6 +4963,7 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                </person>
                <person xml:id="emt_person_id__526">
                   <persName>Windischgrätz, Ernst Friedrich von</persName>
+                  <roleName>Graf</roleName>
                   <birth>
                      <date notBefore="1670-01-01" notAfter="1670-12-31">1670</date>
                   </birth>
@@ -4671,6 +4978,7 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                </person>
                <person xml:id="emt_person_id__528">
                   <persName>Sinzendorf, Karl Ludwig von</persName>
+                  <roleName>Graf</roleName>
                   <birth>
                      <date notBefore="1652-01-01" notAfter="1652-12-31">1652</date>
                   </birth>
@@ -4682,6 +4990,7 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                </person>
                <person xml:id="emt_person_id__529">
                   <persName>Dietrichstein, Leopold Ignaz von</persName>
+                  <roleName>Fürst</roleName>
                   <birth>
                      <date notBefore="1660-01-01" notAfter="1660-12-31">1660</date>
                   </birth>
@@ -4697,6 +5006,7 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                </person>
                <person xml:id="emt_person_id__530">
                   <persName>Morel, Jean</persName>
+                  <roleName>Abbé</roleName>
                   <death>
                      <date notBefore="1719-01-01" notAfter="1719-12-31">1719</date>
                   </death>
@@ -4758,12 +5068,14 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                </person>
                <person xml:id="emt_person_id__540">
                   <persName>Montauti, Anton Francesco</persName>
+                  <roleName>Marchese</roleName>
                </person>
                <person xml:id="emt_person_id__542">
                   <persName>Cerrini, Fabrizio</persName>
                </person>
                <person xml:id="emt_person_id__544">
                   <persName>Lüdinghausen genannt Wolf SJ, Friedrich von</persName>
+                  <roleName>Pater</roleName>
                   <birth>
                      <date notBefore="1643-01-01" notAfter="1643-12-31">1643</date>
                   </birth>
@@ -4778,6 +5090,7 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                </person>
                <person xml:id="emt_person_id__546">
                   <persName>Bodler, Johann SJ</persName>
+                  <roleName>Pater</roleName>
                   <birth>
                      <date notBefore="1629-01-01" notAfter="1629-12-31">1629</date>
                   </birth>
@@ -4816,6 +5129,7 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                </person>
                <person xml:id="emt_person_id__558">
                   <persName>Brandenburg, Ludwig von</persName>
+                  <roleName>Herzog</roleName>
                   <birth>
                      <date notBefore="1666-01-01" notAfter="1666-12-31">1666</date>
                   </birth>
@@ -4840,6 +5154,7 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                </person>
                <person xml:id="emt_person_id__562">
                   <persName>Fastenprediger bei Kaiserinwitwe Eleonora 1682</persName>
+                  <roleName>Pater</roleName>
                </person>
                <person xml:id="emt_person_id__563">
                   <persName>Ketzgen, Erich von</persName>
@@ -4855,6 +5170,7 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                </person>
                <person xml:id="emt_person_id__566">
                   <persName>Merveldt, Friedrich Wilhelm von (1692)</persName>
+                  <roleName>Graf</roleName>
                   <death>
                      <date notBefore="1691-01-01" notAfter="1691-12-31">1691</date>
                   </death>
@@ -4899,9 +5215,12 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                </person>
                <person xml:id="emt_person_id__574">
                   <persName>Dr. Schweizer, ehemaliger Leibarzt von Kurfürst Philipp Wilhelm von Pfalz-Neuburg (1692)</persName>
+                  <roleName>Doktor</roleName>
                </person>
                <person xml:id="emt_person_id__575">
                   <persName>Sachsen, Johann Georg IV. von</persName>
+                  <roleName>Herzog</roleName>
+                  <roleName>Kurfürst</roleName>
                   <birth>
                      <date notBefore="1668-01-01" notAfter="1668-12-31">1668</date>
                   </birth>
@@ -4918,6 +5237,7 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                </person>
                <person xml:id="emt_person_id__576">
                   <persName>Savoyen, Marie Adelaide von, vereh. Bourbon</persName>
+                  <roleName>Herzogin</roleName>
                   <birth>
                      <date notBefore="1685-01-01" notAfter="1685-12-31">1685</date>
                   </birth>
@@ -4942,6 +5262,7 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                </person>
                <person xml:id="emt_person_id__579">
                   <persName>Hedwig Sophia von Schweden, vereh. Holstein-Gottorf</persName>
+                  <roleName>Prinzessin</roleName>
                   <birth>
                      <date notBefore="1681-01-01" notAfter="1681-12-31">1681</date>
                   </birth>
@@ -4958,6 +5279,7 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                </person>
                <person xml:id="emt_person_id__580">
                   <persName>Medici, Gian Gastone de'</persName>
+                  <roleName>Prinz</roleName>
                   <birth>
                      <date notBefore="1671-01-01" notAfter="1671-12-31">1671</date>
                   </birth>
@@ -4974,6 +5296,7 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                </person>
                <person xml:id="emt_person_id__583">
                   <persName>Hessen-Darmstadt, Elisabeth Dorothea von, verh. Hessen-Homburg</persName>
+                  <roleName>Landgräfin</roleName>
                   <birth>
                      <date notBefore="1676-01-01" notAfter="1676-12-31">1676</date>
                   </birth>
@@ -4990,6 +5313,7 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                </person>
                <person xml:id="emt_person_id__584">
                   <persName>Sophia Hedwig von Dänemark</persName>
+                  <roleName>Prinzessin</roleName>
                   <birth>
                      <date notBefore="1677-01-01" notAfter="1677-12-31">1677</date>
                   </birth>
@@ -5005,6 +5329,7 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                </person>
                <person xml:id="emt_person_id__585">
                   <persName>Hessen-Kassel, Karl von</persName>
+                  <roleName>Landgraf</roleName>
                   <birth>
                      <date notBefore="1654-01-01" notAfter="1654-12-31">1654</date>
                   </birth>
@@ -5031,6 +5356,7 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                </person>
                <person xml:id="emt_person_id__587">
                   <persName>Wiser, Franz Melchior von</persName>
+                  <roleName>Graf</roleName>
                   <birth>
                      <date notBefore="1651-01-01" notAfter="1651-12-31">1651</date>
                   </birth>
@@ -5042,6 +5368,7 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                </person>
                <person xml:id="emt_person_id__588">
                   <persName>Orleans, Elisabeth Charlotte von</persName>
+                  <roleName>Herzogin</roleName>
                   <birth>
                      <date notBefore="1676-01-01" notAfter="1676-12-31">1676</date>
                   </birth>
@@ -5057,6 +5384,7 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                </person>
                <person xml:id="emt_person_id__589">
                   <persName>Hessen-Darmstadt, Ernst Ludwig von</persName>
+                  <roleName>Landgraf</roleName>
                   <birth>
                      <date notBefore="1667-01-01" notAfter="1667-12-31">1667</date>
                   </birth>
@@ -5082,6 +5410,7 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                </person>
                <person xml:id="emt_person_id__593">
                   <persName>Ludwig von Frankreich</persName>
+                  <roleName>Dauphin</roleName>
                   <birth>
                      <date notBefore="1661-01-01" notAfter="1661-12-31">1661</date>
                   </birth>
@@ -5098,6 +5427,7 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                </person>
                <person xml:id="emt_person_id__594">
                   <persName>Ulrike Eleonore von Schweden, geb. von Dänemark</persName>
+                  <roleName>Königin</roleName>
                   <birth>
                      <date notBefore="1656-01-01" notAfter="1656-12-31">1656</date>
                   </birth>
@@ -5114,6 +5444,7 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                </person>
                <person xml:id="emt_person_id__595">
                   <persName>Weisweiler, Heinrich</persName>
+                  <roleName>Pater</roleName>
                   <birth>
                      <date notBefore="1635-01-01" notAfter="1635-12-31">1635</date>
                   </birth>
@@ -5128,6 +5459,7 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                </person>
                <person xml:id="emt_person_id__597">
                   <persName>Schellart von Oberndorf, Franz Kaspar Adrian von</persName>
+                  <roleName>Graf</roleName>
                   <birth>
                      <date notBefore="1628-01-01" notAfter="1628-12-31">1628</date>
                   </birth>
@@ -5162,6 +5494,7 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                </person>
                <person xml:id="emt_person_id__603">
                   <persName>Rietberg und Ostfriesland, Christine Charlotte von, geb. Württemberg</persName>
+                  <roleName>Fürstin</roleName>
                   <birth>
                      <date notBefore="1645-01-01" notAfter="1645-12-31">1645</date>
                   </birth>
@@ -5178,6 +5511,7 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                </person>
                <person xml:id="emt_person_id__604">
                   <persName>Rietberg und Ostfriesland, Christian Eberhard von</persName>
+                  <roleName>Fürst</roleName>
                   <birth>
                      <date notBefore="1665-01-01" notAfter="1665-12-31">1665</date>
                   </birth>
@@ -5197,6 +5531,8 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                </person>
                <person xml:id="emt_person_id__606">
                   <persName>Braunschweig-Lüneburg (Hannover), Ernst August von</persName>
+                  <roleName>Herzog</roleName>
+                  <roleName>Kurfürst</roleName>
                   <birth>
                      <date notBefore="1629-01-01" notAfter="1629-12-31">1629</date>
                   </birth>
@@ -5220,6 +5556,7 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                </person>
                <person xml:id="emt_person_id__609">
                   <persName>Holstein-Sonderburg-Wiesenburg, Philipp Ludwig</persName>
+                  <roleName>Herzog</roleName>
                   <birth>
                      <date notBefore="1620-01-01" notAfter="1620-12-31">1620</date>
                   </birth>
@@ -5231,6 +5568,7 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                </person>
                <person xml:id="emt_person_id__610">
                   <persName>Schleswig-Holstein-Wiesenburg, Charlotte von, geb. Liegnitz-Brieg-Wohlau</persName>
+                  <roleName>Herzogin</roleName>
                   <birth>
                      <date notBefore="1652-01-01" notAfter="1652-12-31">1652</date>
                   </birth>
@@ -5247,6 +5585,7 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                </person>
                <person xml:id="emt_person_id__611">
                   <persName>Karl XI. von Schweden</persName>
+                  <roleName>König</roleName>
                   <birth>
                      <date notBefore="1655-01-01" notAfter="1655-12-31">1655</date>
                   </birth>
@@ -5308,6 +5647,7 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                </person>
                <person xml:id="emt_person_id__618">
                   <persName>Lothringen, Karl Joseph von</persName>
+                  <roleName>Herzog</roleName>
                   <birth>
                      <date notBefore="1680-01-01" notAfter="1680-12-31">1680</date>
                   </birth>
@@ -5369,6 +5709,7 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                </person>
                <person xml:id="emt_person_id__626">
                   <persName>Fugger, Maria Agnes Magdalena 1694</persName>
+                  <roleName>Gräfin</roleName>
                   <birth>
                      <date notBefore="1680-01-01" notAfter="1680-12-31">1680</date>
                   </birth>
@@ -5406,6 +5747,7 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                </person>
                <person xml:id="emt_person_id__630">
                   <persName>Maigret et Neau, Franz Wilhelm von</persName>
+                  <roleName>Graf</roleName>
                   <idno type="URL">https://www.oesta.gv.at/dam/jcr:29b98584-9598-456f-9e7d-61650d3f30df/Kaiserliche%20bzw_%20k_%20k_%20Generale%201618-1815%20_Liste_.pdf</idno>
                </person>
                <person xml:id="emt_person_id__631">
@@ -5437,6 +5779,7 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                </person>
                <person xml:id="emt_person_id__638">
                   <persName>Frydag (Freitag) von Gödens, Franz Heinrich</persName>
+                  <roleName>Graf</roleName>
                   <birth>
                      <date notBefore="1643-01-01" notAfter="1643-12-31">1643</date>
                   </birth>
@@ -5456,6 +5799,7 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                </person>
                <person xml:id="emt_person_id__640">
                   <persName>Thurn-Valsassina, Franz Ulrich von</persName>
+                  <roleName>Graf</roleName>
                   <birth>
                      <date notBefore="1629-01-01" notAfter="1629-12-31">1629</date>
                   </birth>
@@ -5468,6 +5812,7 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                </person>
                <person xml:id="emt_person_id__641">
                   <persName>Ligne, Henri Louis Ernest de</persName>
+                  <roleName>Fürst</roleName>
                   <birth>
                      <date notBefore="1644-01-01" notAfter="1644-12-31">1644</date>
                   </birth>
@@ -5497,6 +5842,7 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                </person>
                <person xml:id="emt_person_id__644">
                   <persName>Braunschweig-Lüneburg-Celle, Georg Wilhelm von</persName>
+                  <roleName>Herzog</roleName>
                   <birth>
                      <date notBefore="1624-01-01" notAfter="1624-12-31">1624</date>
                   </birth>
@@ -5513,6 +5859,7 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                </person>
                <person xml:id="emt_person_id__645">
                   <persName>Telles da Silva, Fernan, Conde de Vilar Maior</persName>
+                  <roleName>Conde</roleName>
                   <birth>
                      <date notBefore="1662-01-01" notAfter="1662-12-31">1662</date>
                   </birth>
@@ -5533,6 +5880,7 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                </person>
                <person xml:id="emt_person_id__648">
                   <persName>Österreich, Sigismund Franz von</persName>
+                  <roleName>Erzherzog</roleName>
                   <birth>
                      <date notBefore="1630-01-01" notAfter="1630-12-31">1630</date>
                   </birth>
@@ -5579,6 +5927,7 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                </person>
                <person xml:id="emt_person_id__654">
                   <persName>Colonna von Völs (Fels), Maria Elisabeth, geb. Scherffenberg</persName>
+                  <roleName>Gräfin</roleName>
                   <birth>
                      <date notBefore="1638-01-01" notAfter="1638-12-31">1638</date>
                   </birth>
@@ -5588,12 +5937,14 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                </person>
                <person xml:id="emt_person_id__655">
                   <persName>Colonna von Völs (Fels), Johann Franz</persName>
+                  <roleName>Graf</roleName>
                   <death>
                      <date notBefore="1681-01-01" notAfter="1681-12-31">1681</date>
                   </death>
                </person>
                <person xml:id="emt_person_id__656">
                   <persName>Pálffy, Maria Eleonora, geb. Harrach</persName>
+                  <roleName>Gräfin</roleName>
                   <birth>
                      <date notBefore="1623-01-01" notAfter="1623-12-31">1623</date>
                   </birth>
@@ -5606,6 +5957,7 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                </person>
                <person xml:id="emt_person_id__657">
                   <persName>Pálffy, Nikolaus (Miklos)</persName>
+                  <roleName>Graf</roleName>
                   <birth>
                      <date notBefore="1619-01-01" notAfter="1619-12-31">1619</date>
                   </birth>
@@ -5617,6 +5969,7 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                </person>
                <person xml:id="emt_person_id__658">
                   <persName>Harrach, Franziska von, geb. Eggenberg</persName>
+                  <roleName>Gräfin</roleName>
                   <birth>
                      <date notBefore="1602-01-01" notAfter="1602-12-31">1602</date>
                   </birth>
@@ -5627,6 +5980,7 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                </person>
                <person xml:id="emt_person_id__659">
                   <persName>Eleonora, geb. Gonzaga</persName>
+                  <roleName>Kaiserin</roleName>
                   <birth>
                      <date notBefore="1598-01-01" notAfter="1598-12-31">1598</date>
                   </birth>
@@ -5647,6 +6001,7 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                </person>
                <person xml:id="emt_person_id__663">
                   <persName>Waldstein, Maria Theresia von, geb. Losenstein</persName>
+                  <roleName>Gräfin</roleName>
                   <birth>
                      <date notBefore="1666-01-01" notAfter="1666-12-31">1666</date>
                   </birth>
@@ -5660,9 +6015,11 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                </person>
                <person xml:id="emt_person_id__665">
                   <persName>Arco, Gaetana</persName>
+                  <roleName>Gräfin</roleName>
                </person>
                <person xml:id="emt_person_id__666">
                   <persName>Vehlen, Alexander Otto von</persName>
+                  <roleName>Graf</roleName>
                   <birth>
                      <date notBefore="1657-01-01" notAfter="1657-12-31">1657</date>
                   </birth>
@@ -5676,6 +6033,7 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                </person>
                <person xml:id="emt_person_id__667">
                   <persName>Innozenz XII. (Pignatelli)</persName>
+                  <roleName>Papst</roleName>
                   <birth>
                      <date notBefore="1615-01-01" notAfter="1615-12-31">1615</date>
                   </birth>
@@ -5692,6 +6050,7 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                </person>
                <person xml:id="emt_person_id__668">
                   <persName>Bucelleni von Reichenberg, Julius Friedrich von</persName>
+                  <roleName>Graf</roleName>
                   <birth>
                      <date notBefore="1639-01-01" notAfter="1639-12-31">1639</date>
                   </birth>
@@ -5712,6 +6071,8 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                </person>
                <person xml:id="emt_person_id__673">
                   <persName>Ludwig von Frankreich</persName>
+                  <roleName>Dauphin</roleName>
+                  <roleName>Herzog</roleName>
                   <birth>
                      <date notBefore="1682-01-01" notAfter="1682-12-31">1682</date>
                   </birth>
@@ -5727,6 +6088,7 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                </person>
                <person xml:id="emt_person_id__674">
                   <persName>Philipp V. von Spanien</persName>
+                  <roleName>Herzog</roleName>
                   <birth>
                      <date notBefore="1683-01-01" notAfter="1683-12-31">1683</date>
                   </birth>
@@ -5742,6 +6104,7 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                </person>
                <person xml:id="emt_person_id__675">
                   <persName>Karl von Frankreich</persName>
+                  <roleName>Herzog</roleName>
                   <birth>
                      <date notBefore="1686-01-01" notAfter="1686-12-31">1686</date>
                   </birth>
@@ -5842,6 +6205,7 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                </person>
                <person xml:id="emt_person_id__693">
                   <persName>La Vauguyon, André de Bétoulat de</persName>
+                  <roleName>Comte</roleName>
                   <birth>
                      <date notBefore="1630-01-01" notAfter="1630-12-31">1630</date>
                   </birth>
@@ -5862,6 +6226,7 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                </person>
                <person xml:id="emt_person_id__697">
                   <persName>Brandenburg, Ludwig von</persName>
+                  <roleName>Markgraf</roleName>
                   <birth>
                      <date notBefore="1666-01-01" notAfter="1666-12-31">1666</date>
                   </birth>
@@ -5884,6 +6249,7 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                </person>
                <person xml:id="emt_person_id__699">
                   <persName>Michael Korybut Wiśniowiecki von Polen</persName>
+                  <roleName>König</roleName>
                   <birth>
                      <date notBefore="1640-01-01" notAfter="1640-12-31">1640</date>
                   </birth>
@@ -5902,6 +6268,7 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                </person>
                <person xml:id="emt_person_id__701">
                   <persName>Caprara, Enea Silvio</persName>
+                  <roleName>Graf</roleName>
                   <birth>
                      <date notBefore="1631-01-01" notAfter="1631-12-31">1631</date>
                   </birth>
@@ -5913,10 +6280,12 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                </person>
                <person xml:id="emt_person_id__702">
                   <persName>Kollonitsch, Anna Maria Theresia</persName>
+                  <roleName>Gräfin</roleName>
                   <idno type="URL">https://viecpro.oeaw.ac.at/persons/70666</idno>
                </person>
                <person xml:id="emt_person_id__703">
                   <persName>Künigl von Ehrenburg, Anna Maria</persName>
+                  <roleName>Gräfin</roleName>
                   <birth>
                      <date notBefore="1657-01-01" notAfter="1657-12-31">1657</date>
                   </birth>
@@ -5927,6 +6296,7 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                </person>
                <person xml:id="emt_person_id__704">
                   <persName>Martinitz, Maximilian Guidobald von</persName>
+                  <roleName>Graf</roleName>
                   <birth>
                      <date notBefore="1664-01-01" notAfter="1664-12-31">1664</date>
                   </birth>
@@ -5946,6 +6316,7 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                </person>
                <person xml:id="emt_person_id__707">
                   <persName>Fugger, Magdalena Theresia, vereh. Mollard</persName>
+                  <roleName>Gräfin</roleName>
                   <death>
                      <date notBefore="1713-01-01" notAfter="1713-12-31">1713</date>
                   </death>
@@ -5953,6 +6324,7 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                </person>
                <person xml:id="emt_person_id__708">
                   <persName>Dietrichstein, Maria Dorothea von, geb. Salm</persName>
+                  <roleName>Fürstin</roleName>
                   <birth>
                      <date notBefore="1667-01-01" notAfter="1667-12-31">1667</date>
                   </birth>
@@ -5966,6 +6338,7 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                </person>
                <person xml:id="emt_person_id__710">
                   <persName>Savoyen-Carignan, Eugen von</persName>
+                  <roleName>Prinz</roleName>
                   <birth>
                      <date notBefore="1663-01-01" notAfter="1663-12-31">1663</date>
                   </birth>
@@ -5982,6 +6355,7 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                </person>
                <person xml:id="emt_person_id__711">
                   <persName>Veterani, Friedrich von</persName>
+                  <roleName>Graf</roleName>
                   <death>
                      <date notBefore="1695-01-01" notAfter="1695-12-31">1695</date>
                   </death>
@@ -5995,6 +6369,7 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                </person>
                <person xml:id="emt_person_id__712">
                   <persName>Kurland, Friedrich II. Kasimir Kettler von</persName>
+                  <roleName>Herzog</roleName>
                   <birth>
                      <date notBefore="1650-01-01" notAfter="1650-12-31">1650</date>
                   </birth>
@@ -6011,6 +6386,7 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                </person>
                <person xml:id="emt_person_id__713">
                   <persName>Kurland, Luise Charlotte von, geb. Brandenburg</persName>
+                  <roleName>Herzogin</roleName>
                   <birth>
                      <date notBefore="1617-01-01" notAfter="1617-12-31">1617</date>
                   </birth>
@@ -6032,9 +6408,11 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                </person>
                <person xml:id="emt_person_id__716">
                   <persName>Maria Columba von Santa Teresa</persName>
+                  <roleName>Priorin</roleName>
                </person>
                <person xml:id="emt_person_id__717">
                   <persName>Rietberg und Ostfriesland, Franz Adolph Wilhelm von</persName>
+                  <roleName>Graf</roleName>
                   <birth>
                      <date notBefore="1651-01-01" notAfter="1651-12-31">1651</date>
                   </birth>
@@ -6047,6 +6425,7 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                </person>
                <person xml:id="emt_person_id__718">
                   <persName>Ferdinand III.</persName>
+                  <roleName>Kaiser</roleName>
                   <birth>
                      <date notBefore="1608-01-01" notAfter="1608-12-31">1608</date>
                   </birth>
@@ -6063,9 +6442,11 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                </person>
                <person xml:id="emt_person_id__719">
                   <persName>Hohenzollern, Graf von, Domherr in Köln 1687</persName>
+                  <roleName>Graf</roleName>
                </person>
                <person xml:id="emt_person_id__720">
                   <persName>Villars, Claude Louis Hector de</persName>
+                  <roleName>Marquis</roleName>
                   <birth>
                      <date notBefore="1653-01-01" notAfter="1653-12-31">1653</date>
                   </birth>
@@ -6102,6 +6483,7 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                </person>
                <person xml:id="emt_person_id__724">
                   <persName>Aspremont-Lynden und Reckheim, Franz Gobert</persName>
+                  <roleName>Graf</roleName>
                   <birth>
                      <date notBefore="1649-01-01" notAfter="1649-12-31">1649</date>
                   </birth>
@@ -6112,6 +6494,7 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                </person>
                <person xml:id="emt_person_id__725">
                   <persName>Baden-Baden, Maria Magdalena von, geb. Oettingen-Baldern</persName>
+                  <roleName>Markgräfin</roleName>
                   <birth>
                      <date notBefore="1619-01-01" notAfter="1619-12-31">1619</date>
                   </birth>
@@ -6127,6 +6510,7 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                </person>
                <person xml:id="emt_person_id__727">
                   <persName>Sternberg, Adolf Wratislaw von</persName>
+                  <roleName>Graf</roleName>
                   <birth>
                      <date notBefore="1627-01-01" notAfter="1627-12-31">1627</date>
                   </birth>
@@ -6138,6 +6522,7 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                </person>
                <person xml:id="emt_person_id__728">
                   <persName>Kaunitz, Maria Eleonore von, geb. Sternberg</persName>
+                  <roleName>Gräfin</roleName>
                   <birth>
                      <date notBefore="1657-01-01" notAfter="1657-12-31">1657</date>
                   </birth>
@@ -6167,6 +6552,7 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                </person>
                <person xml:id="emt_person_id__733">
                   <persName>Karg von Bebenburg, Johann Friedrich</persName>
+                  <roleName>Doktor</roleName>
                   <birth>
                      <date notBefore="1648-01-01" notAfter="1648-12-31">1648</date>
                   </birth>
@@ -6184,6 +6570,7 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                </person>
                <person xml:id="emt_person_id__734">
                   <persName>Leydl, Johann Baptist</persName>
+                  <roleName>Doktor</roleName>
                   <death>
                      <date notBefore="1691-01-01" notAfter="1691-12-31">1691</date>
                   </death>
@@ -6196,6 +6583,7 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                </person>
                <person xml:id="emt_person_id__736">
                   <persName>Hessen-Darmstadt, Georg von</persName>
+                  <roleName>Landgraf</roleName>
                   <birth>
                      <date notBefore="1669-01-01" notAfter="1669-12-31">1669</date>
                   </birth>
@@ -6213,6 +6601,7 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                </person>
                <person xml:id="emt_person_id__737">
                   <persName>Archinto, Filippo</persName>
+                  <roleName>Conte</roleName>
                </person>
                <person xml:id="emt_person_id__738">
                   <persName>Soler, Herr 1688</persName>
@@ -6222,6 +6611,7 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                </person>
                <person xml:id="emt_person_id__741">
                   <persName>Süleyman II.</persName>
+                  <roleName>Sultan</roleName>
                   <birth>
                      <date notBefore="1642-01-01" notAfter="1642-12-31">1642</date>
                   </birth>
@@ -6253,6 +6643,7 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                </person>
                <person xml:id="emt_person_id__745">
                   <persName>Starhemberg, Helena Dorothea von, geb. Starhemberg</persName>
+                  <roleName>Gräfin</roleName>
                   <birth>
                      <date notBefore="1634-01-01" notAfter="1634-12-31">1634</date>
                   </birth>
@@ -6279,6 +6670,7 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                </person>
                <person xml:id="emt_person_id__750">
                   <persName>Schomberg (Schönberg), Friedrich von</persName>
+                  <roleName>Graf</roleName>
                   <birth>
                      <date notBefore="1640-01-01" notAfter="1640-12-31">1640</date>
                   </birth>
@@ -6294,6 +6686,7 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                </person>
                <person xml:id="emt_person_id__751">
                   <persName>Schomberg (Schönberg), Friedrich Hermann von</persName>
+                  <roleName>Graf</roleName>
                   <birth>
                      <date notBefore="1615-01-01" notAfter="1615-12-31">1615</date>
                   </birth>
@@ -6349,6 +6742,7 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                </person>
                <person xml:id="emt_person_id__759">
                   <persName>Dohna-Schlobitten, Alexander von</persName>
+                  <roleName>Burggraf</roleName>
                   <birth>
                      <date notBefore="1661-01-01" notAfter="1661-12-31">1661</date>
                   </birth>
@@ -6365,6 +6759,7 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                </person>
                <person xml:id="emt_person_id__760">
                   <persName>Segneri SJ, Paolo</persName>
+                  <roleName>Pater</roleName>
                   <birth>
                      <date notBefore="1673-01-01" notAfter="1673-12-31">1673</date>
                   </birth>
@@ -6393,6 +6788,7 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                </person>
                <person xml:id="emt_person_id__762">
                   <persName>Hedwig Eleonora von Schleswig-Holstein-Gottorf, vereh. Königin von Schweden</persName>
+                  <roleName>Königin</roleName>
                   <birth>
                      <date notBefore="1636-01-01" notAfter="1636-12-31">1636</date>
                   </birth>
@@ -6409,6 +6805,7 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                </person>
                <person xml:id="emt_person_id__763">
                   <persName>La Tour d'Auvergne, Emmanuel Théodose de (genannt Kardinal von Bouillon)</persName>
+                  <roleName>Herzog</roleName>
                   <birth>
                      <date notBefore="1643-01-01" notAfter="1643-12-31">1643</date>
                   </birth>
@@ -6425,6 +6822,7 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                </person>
                <person xml:id="emt_person_id__764">
                   <persName>Liechtenstein, Anton Florian von</persName>
+                  <roleName>Fürst</roleName>
                   <birth>
                      <date notBefore="1656-01-01" notAfter="1656-12-31">1656</date>
                   </birth>
@@ -6445,6 +6843,7 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                </person>
                <person xml:id="emt_person_id__766">
                   <persName>Sapieha, Benedikt Paul</persName>
+                  <roleName>Fürst</roleName>
                   <birth>
                      <date notBefore="1655-01-01" notAfter="1655-12-31">1655</date>
                   </birth>
@@ -6455,6 +6854,7 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                </person>
                <person xml:id="emt_person_id__767">
                   <persName>Radziwill, Georg Joseph</persName>
+                  <roleName>Fürst</roleName>
                   <birth>
                      <date notBefore="1668-01-01" notAfter="1668-12-31">1668</date>
                   </birth>
@@ -6466,6 +6866,7 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                </person>
                <person xml:id="emt_person_id__768">
                   <persName>Radziwill, Karl Stanislaw</persName>
+                  <roleName>Fürst</roleName>
                   <birth>
                      <date notBefore="1669-01-01" notAfter="1669-12-31">1669</date>
                   </birth>
@@ -6482,6 +6883,7 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                </person>
                <person xml:id="emt_person_id__769">
                   <persName>Lubomirski, Hieronim Augustyn</persName>
+                  <roleName>Fürst</roleName>
                   <death>
                      <date notBefore="1706-01-01" notAfter="1706-12-31">1706</date>
                   </death>
@@ -6497,6 +6899,7 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                </person>
                <person xml:id="emt_person_id__771">
                   <persName>Sapieha, Kasimir Paul</persName>
+                  <roleName>Fürst</roleName>
                   <death>
                      <date notBefore="1720-01-01" notAfter="1720-12-31">1720</date>
                   </death>
@@ -6518,6 +6921,7 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                </person>
                <person xml:id="emt_person_id__775">
                   <persName>Medici, Ferdinando de'</persName>
+                  <roleName>Großherzog</roleName>
                   <birth>
                      <date notBefore="1663-01-01" notAfter="1663-12-31">1663</date>
                   </birth>
@@ -6533,6 +6937,7 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                </person>
                <person xml:id="emt_person_id__776">
                   <persName>Johann Franz von Portugal</persName>
+                  <roleName>Prinz</roleName>
                   <birth>
                      <date notBefore="1688-01-01" notAfter="1688-12-31">1688</date>
                   </birth>
@@ -6543,6 +6948,7 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                </person>
                <person xml:id="emt_person_id__777">
                   <persName>Stredonius, Martin SJ</persName>
+                  <roleName>Pater</roleName>
                   <birth>
                      <date notBefore="1587-01-01" notAfter="1587-12-31">1587</date>
                   </birth>
@@ -6558,6 +6964,7 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                </person>
                <person xml:id="emt_person_id__778">
                   <persName>Württemberg, Eberhard Ludwig von</persName>
+                  <roleName>Herzog</roleName>
                   <birth>
                      <date notBefore="1676-01-01" notAfter="1676-12-31">1676</date>
                   </birth>
@@ -6590,6 +6997,7 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                </person>
                <person xml:id="emt_person_id__780">
                   <persName>Lubomirski, Stanisław Herakliusz</persName>
+                  <roleName>Fürst</roleName>
                   <birth>
                      <date notBefore="1642-01-01" notAfter="1642-12-31">1642</date>
                   </birth>
@@ -6620,6 +7028,7 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                </person>
                <person xml:id="emt_person_id__783">
                   <persName>Pfalz, Wilhelmine Ernestine von der, geb. Dänemark</persName>
+                  <roleName>Kurfürstin</roleName>
                   <birth>
                      <date notBefore="1650-01-01" notAfter="1650-12-31">1650</date>
                   </birth>
@@ -6666,6 +7075,7 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                </person>
                <person xml:id="emt_person_id__787">
                   <persName>Perletti, Fabio</persName>
+                  <roleName>Graf</roleName>
                </person>
                <person xml:id="emt_person_id__788">
                   <persName>Chassignet (Scassignet), Herr, kommt Anfang 1689 aus Polen zurück</persName>
@@ -6694,6 +7104,7 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                </person>
                <person xml:id="emt_person_id__791">
                   <persName>Coligny, Gaspard Alexandre de</persName>
+                  <roleName>Comte</roleName>
                   <birth>
                      <date notBefore="1665-01-01" notAfter="1665-12-31">1665</date>
                   </birth>
@@ -6704,6 +7115,7 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                </person>
                <person xml:id="emt_person_id__792">
                   <persName>Louvois, Michel Courtenvau le Tellier de</persName>
+                  <roleName>Marquis</roleName>
                   <birth>
                      <date notBefore="1663-01-01" notAfter="1663-12-31">1663</date>
                   </birth>
@@ -6715,6 +7127,7 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                </person>
                <person xml:id="emt_person_id__793">
                   <persName>Parma, Margherita Maria Farnese von, vereh. Este</persName>
+                  <roleName>Prinzessin</roleName>
                   <birth>
                      <date notBefore="1664-01-01" notAfter="1664-12-31">1664</date>
                   </birth>
@@ -6726,6 +7139,8 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                </person>
                <person xml:id="emt_person_id__794">
                   <persName>Sachsen, Friedrich August I. von</persName>
+                  <roleName>Kurfürst</roleName>
+                  <roleName>König</roleName>
                   <birth>
                      <date notBefore="1670-01-01" notAfter="1670-12-31">1670</date>
                   </birth>
@@ -6745,6 +7160,7 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                </person>
                <person xml:id="emt_person_id__796">
                   <persName>Herberstein, Fräulein von 1694</persName>
+                  <roleName>Gräfin</roleName>
                   <birth>
                      <date notBefore="1675-01-01" notAfter="1675-12-31">1675</date>
                   </birth>
@@ -6771,6 +7187,7 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                </person>
                <person xml:id="emt_person_id__798">
                   <persName>Schönborn-Buchheim, Melchior Friedrich von</persName>
+                  <roleName>Graf</roleName>
                   <birth>
                      <date notBefore="1644-01-01" notAfter="1644-12-31">1644</date>
                   </birth>
@@ -6787,6 +7204,7 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                </person>
                <person xml:id="emt_person_id__799">
                   <persName>Schönborn, Haus</persName>
+                  <roleName>Herzogin</roleName>
                </person>
                <person xml:id="emt_person_id__800">
                   <persName>Medici, Haus</persName>
@@ -6795,6 +7213,7 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                </person>
                <person xml:id="emt_person_id__801">
                   <persName>Hohenlohe-Schillingsfürst, Philipp Ernst von</persName>
+                  <roleName>Graf</roleName>
                   <birth>
                      <date notBefore="1663-01-01" notAfter="1663-12-31">1663</date>
                   </birth>
@@ -6807,6 +7226,7 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                </person>
                <person xml:id="emt_person_id__802">
                   <persName>Königsegg-Rothenfels, Albert Eusebius von</persName>
+                  <roleName>Graf</roleName>
                   <death>
                      <date notBefore="1736-01-01" notAfter="1736-12-31">1736</date>
                   </death>
@@ -6817,6 +7237,7 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                </person>
                <person xml:id="emt_person_id__803">
                   <persName>Daun, Wirich Philipp Lorenz</persName>
+                  <roleName>Graf</roleName>
                   <birth>
                      <date notBefore="1669-01-01" notAfter="1669-12-31">1669</date>
                   </birth>
@@ -6836,6 +7257,7 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                </person>
                <person xml:id="emt_person_id__805">
                   <persName>Este, Rinaldo III. von</persName>
+                  <roleName>Herzog</roleName>
                   <birth>
                      <date notBefore="1655-01-01" notAfter="1655-12-31">1655</date>
                   </birth>
@@ -6855,6 +7277,7 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                </person>
                <person xml:id="emt_person_id__807">
                   <persName>Hessen-Darmstadt, Philipp von</persName>
+                  <roleName>Landgraf</roleName>
                   <birth>
                      <date notBefore="1661-01-01" notAfter="1661-12-31">1661</date>
                   </birth>
@@ -6893,6 +7316,7 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                </person>
                <person xml:id="emt_person_id__811">
                   <persName>Farnese, Ranuccio II.</persName>
+                  <roleName>Herzog</roleName>
                   <birth>
                      <date notBefore="1630-01-01" notAfter="1630-12-31">1630</date>
                   </birth>
@@ -6909,6 +7333,7 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                </person>
                <person xml:id="emt_person_id__812">
                   <persName>Horn, Friedrich Wilhelm Leopold von</persName>
+                  <roleName>Graf</roleName>
                </person>
                <person xml:id="emt_person_id__813">
                   <persName>Melchiori, Joseph</persName>
@@ -6922,6 +7347,7 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                </person>
                <person xml:id="emt_person_id__815">
                   <persName>Hessen-Darmstadt, Marie Therese von, geb. Prinzessin von Croy</persName>
+                  <roleName>Landgräfin</roleName>
                   <birth>
                      <date notBefore="1673-01-01" notAfter="1673-12-31">1673</date>
                   </birth>
@@ -6932,6 +7358,7 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                </person>
                <person xml:id="emt_person_id__816">
                   <persName>Hessen-Rotenburg, Wilhelm I. von</persName>
+                  <roleName>Landgraf</roleName>
                   <birth>
                      <date notBefore="1648-01-01" notAfter="1648-12-31">1648</date>
                   </birth>
@@ -6948,6 +7375,7 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                </person>
                <person xml:id="emt_person_id__817">
                   <persName>Hessen-Rheinfels, Ernst von</persName>
+                  <roleName>Landgraf</roleName>
                   <birth>
                      <date notBefore="1623-01-01" notAfter="1623-12-31">1623</date>
                   </birth>
@@ -6974,6 +7402,7 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                </person>
                <person xml:id="emt_person_id__819">
                   <persName>Farnese, Margherita Maria Farnese,vereh. Herzogin von Modena</persName>
+                  <roleName>Herzogin</roleName>
                   <birth>
                      <date notBefore="1664-01-01" notAfter="1664-12-31">1664</date>
                   </birth>
@@ -6984,6 +7413,7 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                </person>
                <person xml:id="emt_person_id__820">
                   <persName>Farnese, Theresa von</persName>
+                  <roleName>Prinzessin</roleName>
                   <birth>
                      <date notBefore="1665-01-01" notAfter="1665-12-31">1665</date>
                   </birth>
@@ -6994,6 +7424,7 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                </person>
                <person xml:id="emt_person_id__821">
                   <persName>Farnese, Isabella von</persName>
+                  <roleName>Prinzessin</roleName>
                   <birth>
                      <date notBefore="1666-01-01" notAfter="1666-12-31">1666</date>
                   </birth>
@@ -7020,6 +7451,7 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                </person>
                <person xml:id="emt_person_id__825">
                   <persName>Pfalz-Neuburg, Leopoldine Eleonore Elisabeth von</persName>
+                  <roleName>Prinzessin</roleName>
                   <birth>
                      <date notBefore="1691-01-01" notAfter="1691-12-31">1691</date>
                   </birth>
@@ -7029,6 +7461,7 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                </person>
                <person xml:id="emt_person_id__826">
                   <persName>Pfalz-Neuburg, Maria Anna Karoline von</persName>
+                  <roleName>Prinzessin</roleName>
                   <birth>
                      <date notBefore="1693-01-01" notAfter="1693-12-31">1693</date>
                   </birth>
@@ -7038,6 +7471,7 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                </person>
                <person xml:id="emt_person_id__827">
                   <persName>Harcourt, Henri de Beuvron et de Thary-Harcourt</persName>
+                  <roleName>Marquis</roleName>
                   <birth>
                      <date notBefore="1654-01-01" notAfter="1654-12-31">1654</date>
                   </birth>
@@ -7054,6 +7488,7 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                </person>
                <person xml:id="emt_person_id__828">
                   <persName>Croÿ Roeulx, Philippe Henri de / Philipp Heinrich von</persName>
+                  <roleName>Herzog</roleName>
                   <birth>
                      <date notBefore="1652-01-01" notAfter="1652-12-31">1652</date>
                   </birth>
@@ -7068,6 +7503,7 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                </person>
                <person xml:id="emt_person_id__830">
                   <persName>Elter, Johann Friedrich von</persName>
+                  <roleName>Graf</roleName>
                   <birth>
                      <date notBefore="1645-01-01" notAfter="1645-12-31">1645</date>
                   </birth>
@@ -7078,6 +7514,7 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                </person>
                <person xml:id="emt_person_id__831">
                   <persName>Croÿ Roeulx, Charles Eugène de / Karl Eugen von</persName>
+                  <roleName>Herzog</roleName>
                   <birth>
                      <date notBefore="1651-01-01" notAfter="1651-12-31">1651</date>
                   </birth>
@@ -7094,6 +7531,7 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                </person>
                <person xml:id="emt_person_id__832">
                   <persName>Braunschweig-Lüneburg (Calenberg), Benedikta Henriette Philippine von, geb. Pfalz-Simmern</persName>
+                  <roleName>Herzogin</roleName>
                   <birth>
                      <date notBefore="1652-01-01" notAfter="1652-12-31">1652</date>
                   </birth>
@@ -7110,6 +7548,7 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                </person>
                <person xml:id="emt_person_id__833">
                   <persName>Braunschweig-Lüneburg (Calenberg), Charlotte Felicitas von, vereh. Modena</persName>
+                  <roleName>Herzogin</roleName>
                   <birth>
                      <date notBefore="1671-01-01" notAfter="1671-12-31">1671</date>
                   </birth>
@@ -7126,6 +7565,7 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                </person>
                <person xml:id="emt_person_id__834">
                   <persName>Braunschweig-Lüneburg (Calenberg), Henriette Marie von</persName>
+                  <roleName>Herzogin</roleName>
                   <birth>
                      <date notBefore="1672-01-01" notAfter="1672-12-31">1672</date>
                   </birth>
@@ -7168,6 +7608,7 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                </person>
                <person xml:id="emt_person_id__839">
                   <persName>Sachsen-Lauenburg, Anna Magdalena von, geb. Popel von Lobkowitz, verw. Kolowrat</persName>
+                  <roleName>Herzogin</roleName>
                   <birth>
                      <date notBefore="1609-01-01" notAfter="1609-12-31">1609</date>
                   </birth>
@@ -7181,6 +7622,7 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                </person>
                <person xml:id="emt_person_id__841">
                   <persName>Lavardin, Henri Charles de Beaumanoir de</persName>
+                  <roleName>Marquis</roleName>
                   <birth>
                      <date notBefore="1644-01-01" notAfter="1644-12-31">1644</date>
                   </birth>
@@ -7192,6 +7634,7 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                </person>
                <person xml:id="emt_person_id__842">
                   <persName>Bayern, Leopold Ferdinand von</persName>
+                  <roleName>Prinz</roleName>
                   <birth>
                      <date notBefore="1689-01-01" notAfter="1689-12-31">1689</date>
                   </birth>
@@ -7202,6 +7645,7 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                </person>
                <person xml:id="emt_person_id__843">
                   <persName>Braunschweig-Lüneburg (Calenberg), Johann Friedrich von</persName>
+                  <roleName>Herzog</roleName>
                   <birth>
                      <date notBefore="1625-01-01" notAfter="1625-12-31">1625</date>
                   </birth>
@@ -7231,6 +7675,7 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                </person>
                <person xml:id="emt_person_id__847">
                   <persName>Draskovich, Johann</persName>
+                  <roleName>Graf</roleName>
                   <death>
                      <date notBefore="1692-01-01" notAfter="1692-12-31">1692</date>
                   </death>
@@ -7247,6 +7692,7 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                </person>
                <person xml:id="emt_person_id__850">
                   <persName>Martinitz, Georg Adam von</persName>
+                  <roleName>Graf</roleName>
                   <birth>
                      <date notBefore="1645-01-01" notAfter="1645-12-31">1645</date>
                   </birth>
@@ -7258,6 +7704,7 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                </person>
                <person xml:id="emt_person_id__851">
                   <persName>Berlepsch, Maria Gertrude von, geb. Gudenberg</persName>
+                  <roleName>Gräfin</roleName>
                   <birth>
                      <date notBefore="1654-01-01" notAfter="1654-12-31">1654</date>
                   </birth>
@@ -7274,6 +7721,7 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                </person>
                <person xml:id="emt_person_id__852">
                   <persName>Kolowrat, Franz Wilhelm Liebsteinsky von</persName>
+                  <roleName>Graf</roleName>
                   <birth>
                      <date notBefore="1653-01-01" notAfter="1653-12-31">1653</date>
                   </birth>
@@ -7286,6 +7734,7 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                </person>
                <person xml:id="emt_person_id__853">
                   <persName>Cobenzl, Johann Caspar von</persName>
+                  <roleName>Graf</roleName>
                   <birth>
                      <date notBefore="1664-01-01" notAfter="1664-12-31">1664</date>
                   </birth>
@@ -7300,6 +7749,7 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                </person>
                <person xml:id="emt_person_id__855">
                   <persName>Hohenzollern-Hechingen, Friedrich Wilhelm von</persName>
+                  <roleName>Fürst</roleName>
                   <birth>
                      <date notBefore="1663-01-01" notAfter="1663-12-31">1663</date>
                   </birth>
@@ -7356,6 +7806,7 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                </person>
                <person xml:id="emt_person_id__861">
                   <persName>Ronquillo Briceño, Pedro de</persName>
+                  <roleName>Conde</roleName>
                   <birth>
                      <date notBefore="1630-01-01" notAfter="1630-12-31">1630</date>
                   </birth>
@@ -7366,6 +7817,7 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                </person>
                <person xml:id="emt_person_id__862">
                   <persName>Constantin Brâncoveanu, Fürst der Walachei</persName>
+                  <roleName>Fürst</roleName>
                   <birth>
                      <date notBefore="1654-01-01" notAfter="1654-12-31">1654</date>
                   </birth>
@@ -7382,6 +7834,7 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                </person>
                <person xml:id="emt_person_id__863">
                   <persName>Berka von Duba, Franz Anton</persName>
+                  <roleName>Graf</roleName>
                   <birth>
                      <date notBefore="1649-01-01" notAfter="1649-12-31">1649</date>
                   </birth>
@@ -7393,6 +7846,7 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                </person>
                <person xml:id="emt_person_id__864">
                   <persName>Berkeley, Charles Dursley of</persName>
+                  <roleName>Lord</roleName>
                   <birth>
                      <date notBefore="1649-01-01" notAfter="1649-12-31">1649</date>
                   </birth>
@@ -7403,6 +7857,7 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                </person>
                <person xml:id="emt_person_id__865">
                   <persName>Hofkirchen, Georg Lorenz von</persName>
+                  <roleName>Graf</roleName>
                   <birth>
                      <date notBefore="1649-01-01" notAfter="1649-12-31">1649</date>
                   </birth>
@@ -7435,6 +7890,7 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                </person>
                <person xml:id="emt_person_id__870">
                   <persName>Mansfeld, Franz Maximilian von</persName>
+                  <roleName>Graf</roleName>
                   <birth>
                      <date notBefore="1639-01-01" notAfter="1639-12-31">1639</date>
                   </birth>
@@ -7457,6 +7913,7 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                </person>
                <person xml:id="emt_person_id__873">
                   <persName>Balde, Johann Jacob SJ</persName>
+                  <roleName>Pater</roleName>
                   <birth>
                      <date notBefore="1604-01-01" notAfter="1604-12-31">1604</date>
                   </birth>
@@ -7495,9 +7952,11 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                </person>
                <person xml:id="emt_person_id__876">
                   <persName>Wolkenstein, Graf, 1690 in bayerischen Diensten</persName>
+                  <roleName>Graf</roleName>
                </person>
                <person xml:id="emt_person_id__877">
                   <persName>Lobkowitz, Maria Anna Wilhelmine von, geb. Baden-Baden</persName>
+                  <roleName>Fürstin</roleName>
                   <birth>
                      <date notBefore="1655-01-01" notAfter="1655-12-31">1655</date>
                   </birth>
@@ -7509,6 +7968,7 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                </person>
                <person xml:id="emt_person_id__878">
                   <persName>Wrbna von Freudenthal, Ferdinand Oktavian</persName>
+                  <roleName>Graf</roleName>
                   <birth>
                      <date notBefore="1650-01-01" notAfter="1650-12-31">1650</date>
                   </birth>
@@ -7519,6 +7979,8 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                </person>
                <person xml:id="emt_person_id__879">
                   <persName>Brandenburg-Bayreuth, Christiane Eberhardine von, vereh. Sachsen</persName>
+                  <roleName>Prinzessin</roleName>
+                  <roleName>Kurfürstin</roleName>
                   <birth>
                      <date notBefore="1671-01-01" notAfter="1671-12-31">1671</date>
                   </birth>
@@ -7536,6 +7998,7 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                </person>
                <person xml:id="emt_person_id__880">
                   <persName>Brandenburg-Bayreuth, Eleonore Magdalena von, vereh. Hohenzollern-Hechingen</persName>
+                  <roleName>Prinzessin</roleName>
                   <birth>
                      <date notBefore="1673-01-01" notAfter="1673-12-31">1673</date>
                   </birth>
@@ -7547,6 +8010,7 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                </person>
                <person xml:id="emt_person_id__881">
                   <persName>Waldstein, Karl Ernst von</persName>
+                  <roleName>Graf</roleName>
                   <birth>
                      <date notBefore="1661-01-01" notAfter="1661-12-31">1661</date>
                   </birth>
@@ -7563,6 +8027,7 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                </person>
                <person xml:id="emt_person_id__882">
                   <persName>Guardian der Kapuziner oder Franziskaner in Wien 1690</persName>
+                  <roleName>Pater</roleName>
                </person>
                <person xml:id="emt_person_id__883">
                   <persName>Martinitz, Maria Bonaventura von, geb. Althann</persName>
@@ -7576,6 +8041,7 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                </person>
                <person xml:id="emt_person_id__884">
                   <persName>Dietrichstein, Georg Siegfried von</persName>
+                  <roleName>Graf</roleName>
                   <birth>
                      <date notBefore="1645-01-01" notAfter="1645-12-31">1645</date>
                   </birth>
