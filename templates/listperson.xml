@@ -5,7 +5,7 @@
             <title type="main">Personenregister</title>
             <title type="sub">
 Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiserin Eleonora Magdalena von Pfalz-Neuburg (1655-1720)
-</title>
+            </title>
             <respStmt>
                <resp>Aufbereitung der Daten</resp>
                <name>Keller, Katrin</name>
@@ -19,12 +19,12 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
             <funder xmlns="http://www.tei-c.org/ns/1.0">
                <name>FWF Der Wissenschaftsfond</name>
                <address>
-                     <street>Sensengasse 1</street>
-                     <postCode>1090 Wien</postCode>
-                     <placeName>
-                        <country>Österreich</country>
-                        <settlement>Wien</settlement>
-                     </placeName>
+                  <street>Sensengasse 1</street>
+                  <postCode>1090 Wien</postCode>
+                  <placeName>
+                     <country>Österreich</country>
+                     <settlement>Wien</settlement>
+                  </placeName>
                </address>
             </funder>
          </titleStmt>
@@ -64,6 +64,9 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
             {% for x in objects %}
                <person xml:id="{{ x.emt_id }}">
                   <persName>{{ x.name }}</persName>
+                  {% for y in x.titel %}
+                  <roleName>{{ y.value }}</roleName>
+                  {% endfor %}
                   {% if x.year_of_birth is string %}
                   <birth>
                      <date notBefore="{% if x.year_of_birth|length == 3 %}0{% endif %}{{ x.year_of_birth }}-01-01" notAfter="{% if x.year_of_birth|length == 3 %}0{% endif %}{{ x.year_of_birth }}-12-31">{{ x.year_of_birth }}</date>
