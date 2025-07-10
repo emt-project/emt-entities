@@ -63,9 +63,11 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
             <listPerson xml:id="listperson">
             {% for x in objects %}
                <person xml:id="{{ x.emt_id }}">
-                  <persName>{{ x.name }}</persName>
+                  <persName type="name">{{ x.name }}</persName>
                   {% for y in x.titel %}
-                  <roleName>{{ y.value }}</roleName>
+                  <persName type="title">
+                     <roleName>{{ y.value }}</roleName>
+                  </persName>
                   {% endfor %}
                   {% if x.year_of_birth is string %}
                   <birth>
