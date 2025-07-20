@@ -2121,6 +2121,30 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                <place xml:id="emt_place_id__335">
                   <placeName>Hohenau, Fluss oder Ort</placeName>
                </place>
+               <place xml:id="emt_place_id__336">
+                  <placeName>Grimlinghausen</placeName>
+                  <location type="coords">
+                     <geo>51.17744 6.743760</geo>
+                  </location>
+                  <idno type="GEONAMES">https://sws.geonames.org/2917328/</idno>
+               </place>
+               <place xml:id="emt_place_id__337">
+                  <placeName>Paderborn, Bistum</placeName>
+               </place>
+               <place xml:id="emt_place_id__338">
+                  <placeName>Dordrecht</placeName>
+                  <location type="coords">
+                     <geo>51.81000 4.673610</geo>
+                  </location>
+                  <idno type="GEONAMES">https://sws.geonames.org/2756669/</idno>
+               </place>
+               <place xml:id="emt_place_id__339">
+                  <placeName>Hall in Tirol</placeName>
+                  <location type="coords">
+                     <geo>47.28333 11.516670</geo>
+                  </location>
+                  <idno type="GEONAMES">https://sws.geonames.org/2764958/</idno>
+               </place>
             </listPlace>
          </div>
       </body>

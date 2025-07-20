@@ -264,5 +264,12 @@
     "name": "Trinitarierorden",
     "gnd": "https://d-nb.info/gnd/1015510-7",
     "emt_id": "emt_institution_id__38"
+  },
+  "39": {
+    "id": 39,
+    "order": "39.00000000000000000000",
+    "name": "Fürstentag in Schlesien",
+    "gnd": "",
+    "emt_id": "emt_institution_id__39"
   }
 }

@@ -692,6 +692,7 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                <person xml:id="emt_person_id__40">
                   <persName type="name">Polheim, Maria Elisabeth von, geb. Windischgrätz</persName>
                   <idno type="WIKIDATA">http://www.wikidata.org/entity/Q1420310</idno>
+                  <idno type="URL">https://genealogy.euweb.cz/windisch/windisch1.html</idno>
                </person>
                <person xml:id="emt_person_id__41">
                   <persName type="name">Heister, Maria Magdalena von, geb. Hermbsinn von Perndorff (1692)</persName>
@@ -3235,7 +3236,12 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                   </figure>
                </person>
                <person xml:id="emt_person_id__266">
-                  <persName type="name">Bekh, NN von</persName>
+                  <persName type="name">Beckh, Melchior Leopold von</persName>
+                  <death>
+                     <date notBefore="1693-01-01" notAfter="1693-12-31">1693</date>
+                  </death>
+                  <idno type="WIKIDATA">http://www.wikidata.org/entity/Q94577215</idno>
+                  <idno type="URL">https://de.wikipedia.org/wiki/Melchior_Leopold_von_Beckh</idno>
                </person>
                <person xml:id="emt_person_id__267">
                   <persName type="name">Drezelin, NN</persName>
@@ -5170,7 +5176,7 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                   <idno type="NDB">https://d-nb.info/gnd/122876075</idno>
                </person>
                <person xml:id="emt_person_id__484">
-                  <persName type="name">Werschowizin, Fräulein 1691</persName>
+                  <persName type="name">Werschowizin, Fräulein von, 1690 und 1691</persName>
                   <persName type="title">
                      <roleName>Gräfin</roleName>
                   </persName>
@@ -5669,7 +5675,10 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                   </figure>
                </person>
                <person xml:id="emt_person_id__535">
-                  <persName type="name">Fugger, Klara Dorothea, geb. von Welsberg</persName>
+                  <persName type="name">Fugger, Klara Dorothea, geb. Welsperg</persName>
+                  <persName type="title">
+                     <roleName>Gräfin</roleName>
+                  </persName>
                   <birth>
                      <date notBefore="1647-01-01" notAfter="1647-12-31">1647</date>
                   </birth>
@@ -6375,7 +6384,7 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                   </figure>
                </person>
                <person xml:id="emt_person_id__622">
-                  <persName type="name">Imsen / Imbsen, Johann Wilhelm</persName>
+                  <persName type="name">Imbsen (Imsen), Johann Wilhelm von</persName>
                   <idno type="URL">https://de.wikipedia.org/wiki/Imbsen_(Adelsgeschlecht)#Pers%C3%B6nlichkeiten</idno>
                </person>
                <person xml:id="emt_person_id__623">
@@ -6672,7 +6681,7 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                   <idno type="NDB">https://www.deutsche-biographie.de/pnd1016756046.html#index</idno>
                </person>
                <person xml:id="emt_person_id__658">
-                  <persName type="name">Harrach, Franziska von, geb. Eggenberg</persName>
+                  <persName type="name">Harrach, Maria Franziska von, geb. Eggenberg</persName>
                   <persName type="title">
                      <roleName>Gräfin</roleName>
                   </persName>
@@ -6782,7 +6791,7 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                   <persName type="name">Hofmeisterin der Kurfürstin Elisabeth Amalia 1694</persName>
                </person>
                <person xml:id="emt_person_id__671">
-                  <persName type="name">Welsberg, NN</persName>
+                  <persName type="name">Welsperg, NN von</persName>
                </person>
                <person xml:id="emt_person_id__672">
                   <persName type="name">Beichtvater von Kaiserin Eleonora Gonzaga-Nevers 1686</persName>
@@ -7438,7 +7447,7 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                   <persName type="name">Yvelin de Roquemont, Sieur 1688</persName>
                </person>
                <person xml:id="emt_person_id__748">
-                  <persName type="name">Waßenhofen, Pater, 1688 in Wien</persName>
+                  <persName type="name">Waßenhofen (Wisenhoffen), Pater, 1688 in Wien</persName>
                </person>
                <person xml:id="emt_person_id__749">
                   <persName type="name">Frydag (Freitag) von Gödens, Haro Burchard</persName>
@@ -8992,6 +9001,98 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                      <date notBefore="1686-01-01" notAfter="1686-12-31">1686</date>
                   </death>
                   <idno type="URL">https://kaiserhof.geschichte.lmu.de/31261</idno>
+               </person>
+               <person xml:id="emt_person_id__886">
+                  <persName type="name">Pfarrer von Grimlinghausen 1688</persName>
+               </person>
+               <person xml:id="emt_person_id__887">
+                  <persName type="name">Sebastiano, überbringt 1689 Schreiben von JW</persName>
+               </person>
+               <person xml:id="emt_person_id__888">
+                  <persName type="name">Flasching, Dorothea Josepha von</persName>
+               </person>
+               <person xml:id="emt_person_id__889">
+                  <persName type="name">Württemberg, Magdalena Sibylla von, geb. Hessen-Darmstadt</persName>
+                  <persName type="title">
+                     <roleName>Herzogin</roleName>
+                  </persName>
+                  <birth>
+                     <date notBefore="1652-01-01" notAfter="1652-12-31">1652</date>
+                  </birth>
+                  <death>
+                     <date notBefore="1712-01-01" notAfter="1712-12-31">1712</date>
+                  </death>
+                  <idno type="GND">https://d-nb.info/gnd/122063317</idno>
+                  <idno type="NDB">https://www.deutsche-biographie.de/sfz55589.html#index</idno>
+                  <idno type="WIKIDATA">http://www.wikidata.org/entity/Q62217</idno>
+                  <figure>
+                     <graphic url="emt_person_id__889.jpg"/>
+                     <caption>109Magdalena Sibylla.jpg</caption>
+                  </figure>
+               </person>
+               <person xml:id="emt_person_id__890">
+                  <persName type="name">Prinzessin Anna, 1689 in Augsburg</persName>
+               </person>
+               <person xml:id="emt_person_id__891">
+                  <persName type="name">Frankenberg, Obrist</persName>
+                  <death>
+                     <date notBefore="1689-01-01" notAfter="1689-12-31">1689</date>
+                  </death>
+               </person>
+               <person xml:id="emt_person_id__892">
+                  <persName type="name">Steinchens, Herr, 1689 in Augsburg</persName>
+               </person>
+               <person xml:id="emt_person_id__893">
+                  <persName type="name">Lothringen, Joseph Innozenz von</persName>
+                  <persName type="title">
+                     <roleName>Herzog</roleName>
+                  </persName>
+                  <birth>
+                     <date notBefore="1685-01-01" notAfter="1685-12-31">1685</date>
+                  </birth>
+                  <death>
+                     <date notBefore="1705-01-01" notAfter="1705-12-31">1705</date>
+                  </death>
+                  <idno type="URL">https://de.wikipedia.org/wiki/Karl_V._(Lothringen)</idno>
+               </person>
+               <person xml:id="emt_person_id__895">
+                  <persName type="name">Gersdorff, Herr von 1690</persName>
+               </person>
+               <person xml:id="emt_person_id__896">
+                  <persName type="name">Gravenegg, Frau von 1690</persName>
+               </person>
+               <person xml:id="emt_person_id__897">
+                  <persName type="name">Puchheim, Maria Theresia von, geb. Losenstein</persName>
+                  <persName type="title">
+                     <roleName>Gräfin</roleName>
+                  </persName>
+                  <birth>
+                     <date notBefore="1628-01-01" notAfter="1628-12-31">1628</date>
+                  </birth>
+                  <death>
+                     <date notBefore="1703-01-01" notAfter="1703-12-31">1703</date>
+                  </death>
+                  <idno type="GND">https://d-nb.info/gnd/1229838503</idno>
+                  <idno type="NDB">https://www.deutsche-biographie.de/pnd1229838503.html#index</idno>
+               </person>
+               <person xml:id="emt_person_id__898">
+                  <persName type="name">Pfalz-Sulzbach, Amalia Maria Theresia von OCarm</persName>
+                  <persName type="title">
+                     <roleName>Prinzessin</roleName>
+                  </persName>
+                  <birth>
+                     <date notBefore="1651-01-01" notAfter="1651-12-31">1651</date>
+                  </birth>
+                  <death>
+                     <date notBefore="1721-01-01" notAfter="1721-12-31">1721</date>
+                  </death>
+                  <idno type="URL">https://de.wikipedia.org/wiki/Amalia_Maria_Therese_von_Pfalz-Sulzbach</idno>
+               </person>
+               <person xml:id="emt_person_id__899">
+                  <persName type="name">Heimberg, Frau</persName>
+               </person>
+               <person xml:id="emt_person_id__900">
+                  <persName type="name">Castilla, Frau</persName>
                </person>
             </listPerson>
          </div>
