@@ -6459,7 +6459,7 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                   <persName type="name">Giulia 1687</persName>
                </person>
                <person xml:id="emt_person_id__634">
-                  <persName type="name">Amme Eleonora Magdalenas</persName>
+                  <persName type="name">Keisgen, NN., Amme Eleonora Magdalenas</persName>
                </person>
                <person xml:id="emt_person_id__635">
                   <persName type="name">Galen, Herr von 1688</persName>
@@ -9093,6 +9093,12 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                </person>
                <person xml:id="emt_person_id__900">
                   <persName type="name">Castilla, Frau</persName>
+               </person>
+               <person xml:id="emt_person_id__901">
+                  <persName type="name">Keisgen, Katharina Eva, vereh. Groß</persName>
+               </person>
+               <person xml:id="emt_person_id__902">
+                  <persName type="name">Groß, Johann</persName>
                </person>
             </listPerson>
          </div>
