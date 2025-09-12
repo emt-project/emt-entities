@@ -17740,37 +17740,6 @@
       }
     ]
   },
-  "666": {
-    "id": 666,
-    "order": "661.00000000000000000000",
-    "name": "Vehlen, Alexander Otto von",
-    "gnd": "https://d-nb.info/gnd/102930257X",
-    "other_url": "https://de.wikipedia.org/wiki/Alexander_Otto_von_Velen",
-    "emt_id": "emt_person_id__666",
-    "internal_comment": "",
-    "color": "",
-    "lebensdaten": "",
-    "ndb": "https://www.deutsche-biographie.de/pnd102930257X.html",
-    "year_of_birth": "1657",
-    "year_of_death": "1727",
-    "wikidata_url": "http://www.wikidata.org/entity/Q94887808",
-    "wikidata_enriched": true,
-    "img_name": "",
-    "img_fetched": true,
-    "img_source": "",
-    "birth_date_written": "",
-    "death_date_written": "",
-    "geschlecht": "",
-    "funktionsbezeichnungen": "General",
-    "unidentifiziert": false,
-    "titel": [
-      {
-        "id": 19689,
-        "value": "Graf",
-        "color": "purple"
-      }
-    ]
-  },
   "667": {
     "id": 667,
     "order": "662.00000000000000000000",

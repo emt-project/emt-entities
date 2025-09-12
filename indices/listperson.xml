@@ -6738,22 +6738,6 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                      <roleName>Gräfin</roleName>
                   </persName>
                </person>
-               <person xml:id="emt_person_id__666">
-                  <persName type="name">Vehlen, Alexander Otto von</persName>
-                  <persName type="title">
-                     <roleName>Graf</roleName>
-                  </persName>
-                  <birth>
-                     <date notBefore="1657-01-01" notAfter="1657-12-31">1657</date>
-                  </birth>
-                  <death>
-                     <date notBefore="1727-01-01" notAfter="1727-12-31">1727</date>
-                  </death>
-                  <idno type="GND">https://d-nb.info/gnd/102930257X</idno>
-                  <idno type="NDB">https://www.deutsche-biographie.de/pnd102930257X.html</idno>
-                  <idno type="WIKIDATA">http://www.wikidata.org/entity/Q94887808</idno>
-                  <idno type="URL">https://de.wikipedia.org/wiki/Alexander_Otto_von_Velen</idno>
-               </person>
                <person xml:id="emt_person_id__667">
                   <persName type="name">Innozenz XII. (Pignatelli)</persName>
                   <persName type="title">
