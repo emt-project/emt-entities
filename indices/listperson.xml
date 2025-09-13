@@ -9084,6 +9084,12 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                <person xml:id="emt_person_id__902">
                   <persName type="name">Groß, Johann</persName>
                </person>
+               <person xml:id="emt_person_id__934">
+                  <persName type="name">Siegmund 1695</persName>
+                  <persName type="title">
+                     <roleName>Graf</roleName>
+                  </persName>
+               </person>
             </listPerson>
          </div>
       </body>

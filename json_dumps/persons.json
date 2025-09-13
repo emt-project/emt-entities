@@ -24164,5 +24164,36 @@
     "funktionsbezeichnungen": "",
     "unidentifiziert": false,
     "titel": []
+  },
+  "934": {
+    "id": 934,
+    "order": "897.00000000000000000000",
+    "name": "Siegmund 1695",
+    "gnd": "",
+    "other_url": "",
+    "emt_id": "emt_person_id__934",
+    "internal_comment": "erhält irrtümlich einen Brief EMTs an JW",
+    "color": "",
+    "lebensdaten": "",
+    "ndb": "",
+    "year_of_birth": null,
+    "year_of_death": null,
+    "wikidata_url": "",
+    "wikidata_enriched": false,
+    "img_name": "",
+    "img_fetched": false,
+    "img_source": "",
+    "birth_date_written": "",
+    "death_date_written": "",
+    "geschlecht": "",
+    "funktionsbezeichnungen": "",
+    "unidentifiziert": true,
+    "titel": [
+      {
+        "id": 19689,
+        "value": "Graf",
+        "color": "purple"
+      }
+    ]
   }
 }
