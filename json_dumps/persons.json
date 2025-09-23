@@ -377,7 +377,7 @@
   "15": {
     "id": 15,
     "order": "15.00000000000000000000",
-    "name": "Brandenburg-Preußen, Friedrich I. von",
+    "name": "Brandenburg/Preußen, Friedrich III./I. von/in",
     "gnd": "https://d-nb.info/gnd/118535730",
     "other_url": "",
     "emt_id": "emt_person_id__15",
@@ -402,6 +402,11 @@
         "id": 19695,
         "value": "Kurfürst",
         "color": "light-pink"
+      },
+      {
+        "id": 19697,
+        "value": "König",
+        "color": "dark-red"
       }
     ]
   },
@@ -24195,5 +24200,117 @@
         "color": "purple"
       }
     ]
+  },
+  "967": {
+    "id": 967,
+    "order": "898.00000000000000000000",
+    "name": "Brescian, Silvio",
+    "gnd": "",
+    "other_url": "https://viecpro.oeaw.ac.at/persons/247728",
+    "emt_id": "emt_person_id__967",
+    "internal_comment": "",
+    "color": "",
+    "lebensdaten": "",
+    "ndb": "",
+    "year_of_birth": null,
+    "year_of_death": null,
+    "wikidata_url": "",
+    "wikidata_enriched": false,
+    "img_name": "",
+    "img_fetched": false,
+    "img_source": "",
+    "birth_date_written": "",
+    "death_date_written": "",
+    "geschlecht": "",
+    "funktionsbezeichnungen": "Guardadamas",
+    "unidentifiziert": false,
+    "titel": []
+  },
+  "968": {
+    "id": 968,
+    "order": "899.00000000000000000000",
+    "name": "Kollonitsch, Leopold Karl von",
+    "gnd": "https://d-nb.info/gnd/118564927",
+    "other_url": "",
+    "emt_id": "emt_person_id__968",
+    "internal_comment": "",
+    "color": "",
+    "lebensdaten": "",
+    "ndb": "https://www.deutsche-biographie.de/pnd118564927.html#indexcontent",
+    "year_of_birth": "1631",
+    "year_of_death": "1707",
+    "wikidata_url": "http://www.wikidata.org/entity/Q695352",
+    "wikidata_enriched": true,
+    "img_name": "Kollonich Lipót.jpg",
+    "img_fetched": true,
+    "img_source": "commonsMedia",
+    "birth_date_written": "",
+    "death_date_written": "",
+    "geschlecht": "",
+    "funktionsbezeichnungen": "Kardinal",
+    "unidentifiziert": false,
+    "titel": [
+      {
+        "id": 19689,
+        "value": "Graf",
+        "color": "purple"
+      }
+    ]
+  },
+  "969": {
+    "id": 969,
+    "order": "901.00000000000000000000",
+    "name": "Hessen-Darmstadt, Elisabeth Dorothea von, geb. Sachsen-Gotha",
+    "gnd": "https://d-nb.info/gnd/101508298",
+    "other_url": "",
+    "emt_id": "emt_person_id__969",
+    "internal_comment": "",
+    "color": "",
+    "lebensdaten": "",
+    "ndb": "https://d-nb.info/gnd/101508298",
+    "year_of_birth": "1640",
+    "year_of_death": "1709",
+    "wikidata_url": "http://www.wikidata.org/entity/Q270169",
+    "wikidata_enriched": true,
+    "img_name": "ElisaDoroSaGoHeDa.JPG",
+    "img_fetched": true,
+    "img_source": "commonsMedia",
+    "birth_date_written": "",
+    "death_date_written": "",
+    "geschlecht": "",
+    "funktionsbezeichnungen": "",
+    "unidentifiziert": false,
+    "titel": [
+      {
+        "id": 19712,
+        "value": "Landgräfin",
+        "color": "light-red"
+      }
+    ]
+  },
+  "970": {
+    "id": 970,
+    "order": "902.00000000000000000000",
+    "name": "",
+    "gnd": "",
+    "other_url": "",
+    "emt_id": "emt_person_id__970",
+    "internal_comment": "",
+    "color": "",
+    "lebensdaten": "",
+    "ndb": "",
+    "year_of_birth": null,
+    "year_of_death": null,
+    "wikidata_url": "",
+    "wikidata_enriched": false,
+    "img_name": "",
+    "img_fetched": false,
+    "img_source": "",
+    "birth_date_written": "",
+    "death_date_written": "",
+    "geschlecht": "",
+    "funktionsbezeichnungen": "",
+    "unidentifiziert": false,
+    "titel": []
   }
 }

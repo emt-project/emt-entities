@@ -2141,6 +2141,12 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                         Frieden von Passarowitz
                      </eventName>                  </desc>
                </event>
+               <event xml:id="emt_event_id__103" notBefore="1645-06-01" notAfter="1648-10-24">
+                  <desc>
+                     <eventName>
+                        Frieden von Münster und Osnabrück
+                     </eventName>                  </desc>
+               </event>
             </listEvent>
          </div>
       </body>

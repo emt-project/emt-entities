@@ -1222,6 +1222,22 @@
         "headline": "Frieden von Passarowitz",
         "text": "<span style=\"color:cyan\">Politik und Militär</span>"
       }
+    },
+    {
+      "start_date": {
+        "year": "1645",
+        "month": "6",
+        "day": "1"
+      },
+      "text": {
+        "headline": "Frieden von Münster und Osnabrück",
+        "text": ""
+      },
+      "end_date": {
+        "year": "1648",
+        "month": "10",
+        "day": "24"
+      }
     }
   ]
 }

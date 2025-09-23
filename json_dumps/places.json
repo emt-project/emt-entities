@@ -4933,5 +4933,35 @@
     "alternative_name": "",
     "wikidata_url": "",
     "unidentifiziert": false
+  },
+  "340": {
+    "id": 340,
+    "order": "335.00000000000000000000",
+    "name": "Lothringen, Herzogtum",
+    "geonames": "https://www.geonames.org/2997551/lorraine.html",
+    "emt_id": "emt_place_id__340",
+    "place_type": null,
+    "lat": "48.76667",
+    "long": "6.133330",
+    "comments intern": "",
+    "gnd": "",
+    "alternative_name": "",
+    "wikidata_url": "",
+    "unidentifiziert": false
+  },
+  "341": {
+    "id": 341,
+    "order": "336.00000000000000000000",
+    "name": "Kopenhagen",
+    "geonames": "https://www.geonames.org/2618425/copenhagen.html",
+    "emt_id": "emt_place_id__341",
+    "place_type": null,
+    "lat": "55.67594",
+    "long": "12.565530",
+    "comments intern": "",
+    "gnd": "",
+    "alternative_name": "",
+    "wikidata_url": "",
+    "unidentifiziert": false
   }
 }

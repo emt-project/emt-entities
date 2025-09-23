@@ -7172,5 +7172,21 @@
             "value": "Politik und Militär",
             "color": "darker-cyan"
         }
+    },
+    "103": {
+        "id": 103,
+        "order": "103.00000000000000000000",
+        "name": "Frieden von Münster und Osnabrück",
+        "emt_id": "emt_event_id__103",
+        "not_before": "1645-06-01",
+        "not_after": "1648-10-24",
+        "took_place_at": [],
+        "related_persons": [],
+        "description": "",
+        "img_url": "",
+        "img_right": "",
+        "img_caption": "",
+        "date_written": "",
+        "category": null
     }
 }

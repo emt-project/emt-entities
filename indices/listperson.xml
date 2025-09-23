@@ -274,9 +274,12 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                   </figure>
                </person>
                <person xml:id="emt_person_id__15">
-                  <persName type="name">Brandenburg-Preußen, Friedrich I. von</persName>
+                  <persName type="name">Brandenburg/Preußen, Friedrich III./I. von/in</persName>
                   <persName type="title">
                      <roleName>Kurfürst</roleName>
+                  </persName>
+                  <persName type="title">
+                     <roleName>König</roleName>
                   </persName>
                   <birth>
                      <date notBefore="1657-01-01" notAfter="1657-12-31">1657</date>
@@ -9089,6 +9092,51 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                   <persName type="title">
                      <roleName>Graf</roleName>
                   </persName>
+               </person>
+               <person xml:id="emt_person_id__967">
+                  <persName type="name">Brescian, Silvio</persName>
+                  <idno type="URL">https://viecpro.oeaw.ac.at/persons/247728</idno>
+               </person>
+               <person xml:id="emt_person_id__968">
+                  <persName type="name">Kollonitsch, Leopold Karl von</persName>
+                  <persName type="title">
+                     <roleName>Graf</roleName>
+                  </persName>
+                  <birth>
+                     <date notBefore="1631-01-01" notAfter="1631-12-31">1631</date>
+                  </birth>
+                  <death>
+                     <date notBefore="1707-01-01" notAfter="1707-12-31">1707</date>
+                  </death>
+                  <idno type="GND">https://d-nb.info/gnd/118564927</idno>
+                  <idno type="NDB">https://www.deutsche-biographie.de/pnd118564927.html#indexcontent</idno>
+                  <idno type="WIKIDATA">http://www.wikidata.org/entity/Q695352</idno>
+                  <figure>
+                     <graphic url="emt_person_id__968.jpg"/>
+                     <caption>Kollonich Lipót.jpg</caption>
+                  </figure>
+               </person>
+               <person xml:id="emt_person_id__969">
+                  <persName type="name">Hessen-Darmstadt, Elisabeth Dorothea von, geb. Sachsen-Gotha</persName>
+                  <persName type="title">
+                     <roleName>Landgräfin</roleName>
+                  </persName>
+                  <birth>
+                     <date notBefore="1640-01-01" notAfter="1640-12-31">1640</date>
+                  </birth>
+                  <death>
+                     <date notBefore="1709-01-01" notAfter="1709-12-31">1709</date>
+                  </death>
+                  <idno type="GND">https://d-nb.info/gnd/101508298</idno>
+                  <idno type="NDB">https://d-nb.info/gnd/101508298</idno>
+                  <idno type="WIKIDATA">http://www.wikidata.org/entity/Q270169</idno>
+                  <figure>
+                     <graphic url="emt_person_id__969.jpg"/>
+                     <caption>ElisaDoroSaGoHeDa.JPG</caption>
+                  </figure>
+               </person>
+               <person xml:id="emt_person_id__970">
+                  <persName type="name"/>
                </person>
             </listPerson>
          </div>

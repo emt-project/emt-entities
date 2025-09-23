@@ -2145,6 +2145,20 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                   </location>
                   <idno type="GEONAMES">https://sws.geonames.org/2764958/</idno>
                </place>
+               <place xml:id="emt_place_id__340">
+                  <placeName>Lothringen, Herzogtum</placeName>
+                  <location type="coords">
+                     <geo>48.76667 6.133330</geo>
+                  </location>
+                  <idno type="GEONAMES">https://sws.geonames.org/2997551/</idno>
+               </place>
+               <place xml:id="emt_place_id__341">
+                  <placeName>Kopenhagen</placeName>
+                  <location type="coords">
+                     <geo>55.67594 12.565530</geo>
+                  </location>
+                  <idno type="GEONAMES">https://sws.geonames.org/2618425/</idno>
+               </place>
             </listPlace>
          </div>
       </body>
