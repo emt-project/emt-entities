@@ -24312,5 +24312,30 @@
     "funktionsbezeichnungen": "",
     "unidentifiziert": false,
     "titel": []
+  },
+  "971": {
+    "id": 971,
+    "order": "903.00000000000000000000",
+    "name": "Stigler, Dr. (reist 1695/96 mit Pater Wiser nach Dänemark)",
+    "gnd": "",
+    "other_url": "",
+    "emt_id": "emt_person_id__971",
+    "internal_comment": "",
+    "color": "",
+    "lebensdaten": "",
+    "ndb": "",
+    "year_of_birth": null,
+    "year_of_death": null,
+    "wikidata_url": "",
+    "wikidata_enriched": false,
+    "img_name": "",
+    "img_fetched": false,
+    "img_source": "",
+    "birth_date_written": "",
+    "death_date_written": "",
+    "geschlecht": "",
+    "funktionsbezeichnungen": "",
+    "unidentifiziert": true,
+    "titel": []
   }
 }
