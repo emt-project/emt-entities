@@ -271,5 +271,12 @@
     "name": "Fürstentag in Schlesien",
     "gnd": "",
     "emt_id": "emt_institution_id__39"
+  },
+  "40": {
+    "id": 40,
+    "order": "40.00000000000000000000",
+    "name": "",
+    "gnd": "",
+    "emt_id": "emt_institution_id__40"
   }
 }

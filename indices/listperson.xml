@@ -6884,7 +6884,7 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                   <persName type="name">Maler, der bald (Januar 1687) von Wien nach Venedig reisen wird</persName>
                </person>
                <person xml:id="emt_person_id__683">
-                  <persName type="name">Madlen (?), Frau 1687</persName>
+                  <persName type="name">Schefferin, Madlen (1687, 1695, 1709 wohl Kammerdienerin der Kaiserin Eleonore Magdalena)</persName>
                </person>
                <person xml:id="emt_person_id__684">
                   <persName type="name">Nikerlin, Frau, 1687 im Hofstaat EMT</persName>
@@ -9136,10 +9136,119 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                   </figure>
                </person>
                <person xml:id="emt_person_id__970">
-                  <persName type="name"/>
+                  <persName type="name">D'Arezzo, Bernardino</persName>
+                  <birth>
+                     <date notBefore="1691-01-01" notAfter="1691-12-31">1691</date>
+                  </birth>
+                  <death>
+                     <date notBefore="1698-01-01" notAfter="1698-12-31">1698</date>
+                  </death>
+                  <idno type="GND">https://d-nb.info/gnd/11887070X</idno>
+                  <idno type="NDB">https://www.deutsche-biographie.de/pnd11887070X.html#index</idno>
                </person>
                <person xml:id="emt_person_id__971">
                   <persName type="name">Stigler, Dr. (reist 1695/96 mit Pater Wiser nach Dänemark)</persName>
+               </person>
+               <person xml:id="emt_person_id__972">
+                  <persName type="name">Hohenlohe, Augusta Dorothea von</persName>
+                  <persName type="title">
+                     <roleName>Gräfin</roleName>
+                  </persName>
+                  <birth>
+                     <date notBefore="1678-01-01" notAfter="1678-12-31">1678</date>
+                  </birth>
+                  <death>
+                     <date notBefore="1740-01-01" notAfter="1740-12-31">1740</date>
+                  </death>
+                  <idno type="GND">https://d-nb.info/gnd/11775062X</idno>
+                  <idno type="NDB">https://www.deutsche-biographie.de/pnd11775062X.html</idno>
+                  <idno type="WIKIDATA">http://www.wikidata.org/entity/Q60838334</idno>
+               </person>
+               <person xml:id="emt_person_id__973">
+                  <persName type="name">Hohenlohe, Heinrich Friedrich von</persName>
+                  <persName type="title">
+                     <roleName>Graf</roleName>
+                  </persName>
+                  <birth>
+                     <date notBefore="1625-01-01" notAfter="1625-12-31">1625</date>
+                  </birth>
+                  <death>
+                     <date notBefore="1699-01-01" notAfter="1699-12-31">1699</date>
+                  </death>
+                  <idno type="GND">https://d-nb.info/gnd/115865497</idno>
+                  <idno type="NDB">https://www.deutsche-biographie.de/pnd115865497.html#index</idno>
+                  <idno type="WIKIDATA">http://www.wikidata.org/entity/Q69927</idno>
+                  <figure>
+                     <graphic url="emt_person_id__973.jpg"/>
+                     <caption>Graf Heinrich Friedrich zu Hohenlohe-Langenburg.jpg</caption>
+                  </figure>
+               </person>
+               <person xml:id="emt_person_id__974">
+                  <persName type="name">Hohenlohe, Dorothea von, geb. Gräfin von Castell-Remlingen</persName>
+                  <persName type="title">
+                     <roleName>Gräfin</roleName>
+                  </persName>
+                  <birth>
+                     <date notBefore="1640-01-01" notAfter="1640-12-31">1640</date>
+                  </birth>
+                  <death>
+                     <date notBefore="1706-01-01" notAfter="1706-12-31">1706</date>
+                  </death>
+                  <idno type="GND">https://d-nb.info/gnd/137046219</idno>
+                  <idno type="NDB">https://www.deutsche-biographie.de/pnd137046219.html#index</idno>
+                  <idno type="WIKIDATA">http://www.wikidata.org/entity/Q11929422</idno>
+                  <idno type="URL">https://fr.wikipedia.org/wiki/Julienne-Doroth%C3%A9e_de_Castell-Remlingen</idno>
+               </person>
+               <person xml:id="emt_person_id__975">
+                  <persName type="name">Hohenlohe, Albrecht Wolfgang von</persName>
+                  <persName type="title">
+                     <roleName>Graf</roleName>
+                  </persName>
+                  <birth>
+                     <date notBefore="1659-01-01" notAfter="1659-12-31">1659</date>
+                  </birth>
+                  <death>
+                     <date notBefore="1715-01-01" notAfter="1715-12-31">1715</date>
+                  </death>
+                  <idno type="GND">https://d-nb.info/gnd/103125140</idno>
+                  <idno type="NDB">https://www.deutsche-biographie.de/pnd103125140.html</idno>
+                  <idno type="WIKIDATA">http://www.wikidata.org/entity/Q86680</idno>
+               </person>
+               <person xml:id="emt_person_id__976">
+                  <persName type="name">Thürheim, "Jojerl" (1695 Stiefsohn, 1696 Bruderschaft)</persName>
+                  <persName type="title">
+                     <roleName>Gräfin</roleName>
+                  </persName>
+                  <persName type="title">
+                     <roleName>Graf</roleName>
+                  </persName>
+               </person>
+               <person xml:id="emt_person_id__977">
+                  <persName type="name">Thürheim (1695, Stiefsohn der "Jojerl" Thürheim, reist zu Pfalzgraf Karl von Pfalz-Neuburg)</persName>
+               </person>
+               <person xml:id="emt_person_id__978">
+                  <persName type="name">Bomgart (1695 erschossen)</persName>
+                  <death>
+                     <date notBefore="1695-01-01" notAfter="1695-12-31">1695</date>
+                  </death>
+               </person>
+               <person xml:id="emt_person_id__979">
+                  <persName type="name">Scheffer (1695, am Kaiserhof, wohl mit der Madlen Scheffer verwandt)</persName>
+               </person>
+               <person xml:id="emt_person_id__980">
+                  <persName type="name">Urbich, Johann Christoph von</persName>
+                  <birth>
+                     <date notBefore="1653-01-01" notAfter="1653-12-31">1653</date>
+                  </birth>
+                  <death>
+                     <date notBefore="1715-01-01" notAfter="1715-12-31">1715</date>
+                  </death>
+                  <idno type="GND">https://d-nb.info/gnd/124608914</idno>
+                  <idno type="NDB">https://www.deutsche-biographie.de/sfzU0885-8.html</idno>
+                  <idno type="WIKIDATA">http://www.wikidata.org/entity/Q4476865</idno>
+               </person>
+               <person xml:id="emt_person_id__981">
+                  <persName type="name"/>
                </person>
             </listPerson>
          </div>
