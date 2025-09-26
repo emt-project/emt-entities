@@ -9248,7 +9248,57 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                   <idno type="WIKIDATA">http://www.wikidata.org/entity/Q4476865</idno>
                </person>
                <person xml:id="emt_person_id__981">
-                  <persName type="name"/>
+                  <persName type="name">Hessen-Darmstadt, Dorothea Charlotte von, geb. Markgräfin von Brandenburg-Ansbach</persName>
+                  <persName type="title">
+                     <roleName>Landgräfin</roleName>
+                  </persName>
+                  <birth>
+                     <date notBefore="1661-01-01" notAfter="1661-12-31">1661</date>
+                  </birth>
+                  <death>
+                     <date notBefore="1705-01-01" notAfter="1705-12-31">1705</date>
+                  </death>
+                  <idno type="GND">https://d-nb.info/gnd/130470988</idno>
+                  <idno type="NDB">https://www.deutsche-biographie.de/pnd130470988.html#index</idno>
+                  <idno type="WIKIDATA">http://www.wikidata.org/entity/Q270175</idno>
+                  <figure>
+                     <graphic url="emt_person_id__981.jpg"/>
+                     <caption>Portrait of Dorothea Charlotte of Brandenburg-Ansbach, oval.png</caption>
+                  </figure>
+               </person>
+               <person xml:id="emt_person_id__982">
+                  <persName type="name">Stepney, George</persName>
+                  <birth>
+                     <date notBefore="1663-01-01" notAfter="1663-12-31">1663</date>
+                  </birth>
+                  <death>
+                     <date notBefore="1707-01-01" notAfter="1707-12-31">1707</date>
+                  </death>
+                  <idno type="GND">https://d-nb.info/gnd/130470988</idno>
+                  <idno type="NDB">https://www.deutsche-biographie.de/pnd122651537.html</idno>
+                  <idno type="WIKIDATA">http://www.wikidata.org/entity/Q270175</idno>
+                  <figure>
+                     <graphic url="emt_person_id__982.jpg"/>
+                     <caption>Portrait of Dorothea Charlotte of Brandenburg-Ansbach, oval.png</caption>
+                  </figure>
+               </person>
+               <person xml:id="emt_person_id__983">
+                  <persName type="name">Boineburg, Philipp Wilhelm von</persName>
+                  <persName type="title">
+                     <roleName>Graf</roleName>
+                  </persName>
+                  <birth>
+                     <date notBefore="1656-01-01" notAfter="1656-12-31">1656</date>
+                  </birth>
+                  <death>
+                     <date notBefore="1717-01-01" notAfter="1717-12-31">1717</date>
+                  </death>
+                  <idno type="GND">https://d-nb.info/gnd/129476676</idno>
+                  <idno type="NDB">https://www.deutsche-biographie.de/sfz5154.html#ndbcontent</idno>
+                  <idno type="WIKIDATA">http://www.wikidata.org/entity/Q2087308</idno>
+               </person>
+               <person xml:id="emt_person_id__984">
+                  <persName type="name">Geist (1696 Umkreis, 1705 Obersthofmeister von Pfalzgraf Karl Philipp)</persName>
                </person>
             </listPerson>
          </div>
