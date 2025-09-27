@@ -2162,6 +2162,13 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                <place xml:id="emt_place_id__342">
                   <placeName>Gran, Erzbistum</placeName>
                </place>
+               <place xml:id="emt_place_id__375">
+                  <placeName>Freudenthal (tschech. Bruntál)</placeName>
+                  <location type="coords">
+                     <geo>49.98844 17.464700</geo>
+                  </location>
+                  <idno type="GEONAMES">https://sws.geonames.org/3078545/</idno>
+               </place>
             </listPlace>
          </div>
       </body>

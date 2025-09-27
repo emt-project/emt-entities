@@ -6317,7 +6317,7 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                   <idno type="WIKIDATA">http://www.wikidata.org/entity/Q55901942</idno>
                </person>
                <person xml:id="emt_person_id__616">
-                  <persName type="name">Vocht / Vogt, NN  (im Umkreis von Pfalzgraf Karl Philipp, 1693)</persName>
+                  <persName type="name">Vocht / Vogt  (im Umkreis von Pfalzgraf Karl Philipp, ab 1693)</persName>
                </person>
                <person xml:id="emt_person_id__617">
                   <persName type="name">Losenstein, Franz Anton von</persName>
@@ -9299,6 +9299,9 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                </person>
                <person xml:id="emt_person_id__984">
                   <persName type="name">Geist (1696 Umkreis, 1705 Obersthofmeister von Pfalzgraf Karl Philipp)</persName>
+               </person>
+               <person xml:id="emt_person_id__1016">
+                  <persName type="name">Hois (1695, schickt eine Relation nach Wien)</persName>
                </person>
             </listPerson>
          </div>

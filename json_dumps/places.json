@@ -4978,5 +4978,20 @@
     "alternative_name": "",
     "wikidata_url": "",
     "unidentifiziert": false
+  },
+  "375": {
+    "id": 375,
+    "order": "338.00000000000000000000",
+    "name": "Freudenthal (tschech. Bruntál)",
+    "geonames": "https://www.geonames.org/3078545/bruntal.html",
+    "emt_id": "emt_place_id__375",
+    "place_type": null,
+    "lat": "49.98844",
+    "long": "17.464700",
+    "comments intern": "",
+    "gnd": "",
+    "alternative_name": "",
+    "wikidata_url": "",
+    "unidentifiziert": false
   }
 }
