@@ -1,0 +1,14 @@
+{
+  "1": {
+    "id": 1,
+    "order": "1.00000000000000000000",
+    "emt_id": "emt_atttype_id__1",
+    "type": "Ausfertigung"
+  },
+  "2": {
+    "id": 2,
+    "order": "2.00000000000000000000",
+    "emt_id": "emt_atttype_id__2",
+    "type": ""
+  }
+}
