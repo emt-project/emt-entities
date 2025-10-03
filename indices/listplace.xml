@@ -2169,6 +2169,19 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                   </location>
                   <idno type="GEONAMES">https://sws.geonames.org/3078545/</idno>
                </place>
+               <place xml:id="emt_place_id__376">
+                  <placeName>Kerpen</placeName>
+                  <location type="coords">
+                     <geo>50.87913 6.693930</geo>
+                  </location>
+                  <idno type="GEONAMES">https://sws.geonames.org/6557537/</idno>
+               </place>
+               <place xml:id="emt_place_id__377">
+                  <placeName/>
+               </place>
+               <place xml:id="emt_place_id__378">
+                  <placeName/>
+               </place>
             </listPlace>
          </div>
       </body>
