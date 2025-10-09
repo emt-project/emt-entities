@@ -9233,7 +9233,7 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                   </death>
                </person>
                <person xml:id="emt_person_id__979">
-                  <persName type="name">Scheffer (1695, am Kaiserhof, wohl mit der Madlen Scheffer verwandt)</persName>
+                  <persName type="name">Scheffer (1695, am Kaiserhof, wohl mit der Madlen Scheffer verheiratet oder verwandt)</persName>
                </person>
                <person xml:id="emt_person_id__980">
                   <persName type="name">Urbich, Johann Christoph von</persName>
@@ -9274,9 +9274,9 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                   <death>
                      <date notBefore="1707-01-01" notAfter="1707-12-31">1707</date>
                   </death>
-                  <idno type="GND">https://d-nb.info/gnd/130470988</idno>
+                  <idno type="GND">https://d-nb.info/gnd/122651537</idno>
                   <idno type="NDB">https://www.deutsche-biographie.de/pnd122651537.html</idno>
-                  <idno type="WIKIDATA">http://www.wikidata.org/entity/Q270175</idno>
+                  <idno type="WIKIDATA">http://www.wikidata.org/entity/Q518182</idno>
                   <figure>
                      <graphic url="emt_person_id__982.jpg"/>
                      <caption>Portrait of Dorothea Charlotte of Brandenburg-Ansbach, oval.png</caption>
@@ -9302,6 +9302,18 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                </person>
                <person xml:id="emt_person_id__1016">
                   <persName type="name">Hois (1695, schickt eine Relation nach Wien)</persName>
+               </person>
+               <person xml:id="emt_person_id__1017">
+                  <persName type="name">Irrmann (1695, Memorial wegen seiner Kinder)</persName>
+               </person>
+               <person xml:id="emt_person_id__1019">
+                  <persName type="name">Holthausen (1695, Zusammenhang mit den Kindern des Irrmann)</persName>
+               </person>
+               <person xml:id="emt_person_id__1020">
+                  <persName type="name">Wedel (1695, Zusammenhang mit Urbich)</persName>
+               </person>
+               <person xml:id="emt_person_id__1021">
+                  <persName type="name">Stubenvoll (1695, "zellischer" Resident - wohl Resident der Reichsstadt Zell am Hammersbach)</persName>
                </person>
             </listPerson>
          </div>
