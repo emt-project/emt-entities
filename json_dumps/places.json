@@ -5012,14 +5012,14 @@
   "377": {
     "id": 377,
     "order": "340.00000000000000000000",
-    "name": "",
+    "name": "Raab / Győr, Bistum",
     "geonames": "",
     "emt_id": "emt_place_id__377",
     "place_type": null,
     "lat": null,
     "long": null,
     "comments intern": "",
-    "gnd": "",
+    "gnd": "https://d-nb.info/gnd/1171002904",
     "alternative_name": "",
     "wikidata_url": "",
     "unidentifiziert": false

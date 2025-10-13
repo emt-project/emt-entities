@@ -9318,6 +9318,112 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                <person xml:id="emt_person_id__1022">
                   <persName type="name">Meistetter (1696 vom Kaiser nach Mainz geschickt worden)</persName>
                </person>
+               <person xml:id="emt_person_id__1055">
+                  <persName type="name">Rebenklau (1696, Zusammenhang mit Pater Wiser und Jeßen)</persName>
+               </person>
+               <person xml:id="emt_person_id__1056">
+                  <persName type="name">Jeßen (1696, Zusammenhang mit Pater Wiser und Rebenklau)</persName>
+               </person>
+               <person xml:id="emt_person_id__1057">
+                  <persName type="name">Dr. Francke (1696, Zusammenhang mit dem dänischen Heiratsprojekt)</persName>
+               </person>
+               <person xml:id="emt_person_id__1058">
+                  <persName type="name">Moratelli, Sebastiano</persName>
+                  <birth>
+                     <date notBefore="1640-01-01" notAfter="1640-12-31">1640</date>
+                  </birth>
+                  <death>
+                     <date notBefore="1706-01-01" notAfter="1706-12-31">1706</date>
+                  </death>
+                  <idno type="GND">https://d-nb.info/gnd/121122875</idno>
+                  <idno type="NDB">https://www.deutsche-biographie.de/pnd121122875.html</idno>
+                  <idno type="WIKIDATA">http://www.wikidata.org/entity/Q2263302</idno>
+                  <figure>
+                     <graphic url="emt_person_id__1058.jpg"/>
+                     <caption>Jan Frans van Douven - Bildnis des Komponisten Sebastiano Moratelli (1640-1706) - 4777 - Bavarian State Painting Collections.jpg</caption>
+                  </figure>
+               </person>
+               <person xml:id="emt_person_id__1059">
+                  <persName type="name">Müllner (1696, wegen Reichsvizekanzleramt)</persName>
+               </person>
+               <person xml:id="emt_person_id__1060">
+                  <persName type="name">Wildener, Hugo</persName>
+                  <birth>
+                     <date notBefore="1670-01-01" notAfter="1670-12-31">1670</date>
+                  </birth>
+                  <death>
+                     <date notBefore="1724-01-01" notAfter="1724-12-31">1724</date>
+                  </death>
+                  <idno type="GND">https://d-nb.info/gnd/118632825</idno>
+                  <idno type="NDB">https://www.deutsche-biographie.de/sfzW5906-5.html</idno>
+                  <idno type="WIKIDATA">http://www.wikidata.org/entity/Q1694647</idno>
+               </person>
+               <person xml:id="emt_person_id__1061">
+                  <persName type="name">Schidnizki (1696, aus Polen)</persName>
+               </person>
+               <person xml:id="emt_person_id__1062">
+                  <persName type="name">Hessen-Wanfried, Charlotte Amalie von, vereh. Fürstin von Rákóczi</persName>
+                  <persName type="title">
+                     <roleName>Landgräfin</roleName>
+                  </persName>
+                  <persName type="title">
+                     <roleName>Fürstin</roleName>
+                  </persName>
+                  <birth>
+                     <date notBefore="1679-01-01" notAfter="1679-12-31">1679</date>
+                  </birth>
+                  <death>
+                     <date notBefore="1722-01-01" notAfter="1722-12-31">1722</date>
+                  </death>
+               </person>
+               <person xml:id="emt_person_id__1063">
+                  <persName type="name">Hessen-Wanfried, Sophie Leopoldine</persName>
+                  <persName type="title">
+                     <roleName>Landgräfin</roleName>
+                  </persName>
+                  <persName type="title">
+                     <roleName>Gräfin</roleName>
+                  </persName>
+                  <birth>
+                     <date notBefore="1681-01-01" notAfter="1681-12-31">1681</date>
+                  </birth>
+                  <death>
+                     <date notBefore="1724-01-01" notAfter="1724-12-31">1724</date>
+                  </death>
+               </person>
+               <person xml:id="emt_person_id__1064">
+                  <persName type="name">Hessen-Wanfried, Maria Anna Johanna Ludovica</persName>
+                  <persName type="title">
+                     <roleName>Landgräfin</roleName>
+                  </persName>
+                  <birth>
+                     <date notBefore="1685-01-01" notAfter="1685-12-31">1685</date>
+                  </birth>
+                  <death>
+                     <date notBefore="1764-01-01" notAfter="1764-12-31">1764</date>
+                  </death>
+               </person>
+               <person xml:id="emt_person_id__1065">
+                  <persName type="name">Hessen-Wanfried, Christina Francisca Polyxena</persName>
+                  <persName type="title">
+                     <roleName>Landgräfin</roleName>
+                  </persName>
+                  <persName type="title">
+                     <roleName>Fürstin</roleName>
+                  </persName>
+                  <birth>
+                     <date notBefore="1688-01-01" notAfter="1688-12-31">1688</date>
+                  </birth>
+                  <death>
+                     <date notBefore="1728-01-01" notAfter="1728-12-31">1728</date>
+                  </death>
+               </person>
+               <person xml:id="emt_person_id__1066">
+                  <persName type="name">Hessen-Wanfried, Juliane Elisabeth Anna Luise</persName>
+                  <birth>
+                     <date notBefore="1690-01-01" notAfter="1690-12-31">1690</date>
+                  </birth>
+               </person>
             </listPerson>
          </div>
       </body>
