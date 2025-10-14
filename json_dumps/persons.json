@@ -25038,16 +25038,16 @@
   "1062": {
     "id": 1062,
     "order": "930.00000000000000000000",
-    "name": "Hessen-Wanfried, Charlotte Amalie von, vereh. Fürstin von Rákóczi",
+    "name": "Hessen-Rotenburg, Anna Johannetta",
     "gnd": "",
     "other_url": "",
     "emt_id": "emt_person_id__1062",
-    "internal_comment": "https://de.wikipedia.org/wiki/Charlotte_Amalie_von_Hessen-Wanfried",
+    "internal_comment": "https://de.wikipedia.org/wiki/Johannetta_von_Hessen-Rotenburg",
     "color": "",
     "lebensdaten": "",
     "ndb": "",
-    "year_of_birth": "1679",
-    "year_of_death": "1722",
+    "year_of_birth": "1680",
+    "year_of_death": "1766",
     "wikidata_url": "",
     "wikidata_enriched": false,
     "img_name": "",
@@ -25063,11 +25063,6 @@
         "id": 19712,
         "value": "Landgräfin",
         "color": "light-red"
-      },
-      {
-        "id": 19711,
-        "value": "Fürstin",
-        "color": "light-cyan"
       }
     ]
   },
@@ -25141,16 +25136,16 @@
   "1065": {
     "id": 1065,
     "order": "933.00000000000000000000",
-    "name": "Hessen-Wanfried, Christina Francisca Polyxena",
+    "name": "Hessen-Rotenburg, Ernestina",
     "gnd": "",
     "other_url": "",
     "emt_id": "emt_person_id__1065",
-    "internal_comment": "https://de.wikipedia.org/wiki/Christina_Francisca_von_Hessen-Wanfried",
+    "internal_comment": "https://de.wikipedia.org/wiki/Ernestina_von_Hessen-Rotenburg",
     "color": "",
     "lebensdaten": "",
     "ndb": "",
-    "year_of_birth": "1688",
-    "year_of_death": "1728",
+    "year_of_birth": "1681",
+    "year_of_death": "1732",
     "wikidata_url": "",
     "wikidata_enriched": false,
     "img_name": "",
@@ -25168,8 +25163,13 @@
         "color": "light-red"
       },
       {
-        "id": 19711,
-        "value": "Fürstin",
+        "id": 19692,
+        "value": "Gräfin",
+        "color": "gray"
+      },
+      {
+        "id": 22084,
+        "value": "Marquesa",
         "color": "light-cyan"
       }
     ]
@@ -25177,15 +25177,40 @@
   "1066": {
     "id": 1066,
     "order": "934.00000000000000000000",
-    "name": "Hessen-Wanfried, Juliane Elisabeth Anna Luise",
+    "name": "Ruffini, Doktor (wird 1696 nach Spanien geschickt)",
     "gnd": "",
     "other_url": "",
     "emt_id": "emt_person_id__1066",
+    "internal_comment": "nicht bei Kühn-Steinhausen, „Der Briefwechsel der Kurfürstin Anna Maria Luisa von der Pfalz“. oder Lau. Auch nicht DB, DBI.",
+    "color": "",
+    "lebensdaten": "",
+    "ndb": "",
+    "year_of_birth": null,
+    "year_of_death": null,
+    "wikidata_url": "",
+    "wikidata_enriched": false,
+    "img_name": "",
+    "img_fetched": false,
+    "img_source": "",
+    "birth_date_written": "",
+    "death_date_written": "",
+    "geschlecht": "",
+    "funktionsbezeichnungen": "Arzt, Chirurg",
+    "unidentifiziert": true,
+    "titel": []
+  },
+  "1067": {
+    "id": 1067,
+    "order": "935.00000000000000000000",
+    "name": "Gesser (1696, wohl die Frau von Johann Wilhelm Gesser)",
+    "gnd": "",
+    "other_url": "",
+    "emt_id": "emt_person_id__1067",
     "internal_comment": "",
     "color": "",
     "lebensdaten": "",
     "ndb": "",
-    "year_of_birth": "1690",
+    "year_of_birth": null,
     "year_of_death": null,
     "wikidata_url": "",
     "wikidata_enriched": false,
@@ -25196,7 +25221,7 @@
     "death_date_written": "",
     "geschlecht": "",
     "funktionsbezeichnungen": "",
-    "unidentifiziert": false,
+    "unidentifiziert": true,
     "titel": []
   }
 }

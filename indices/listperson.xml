@@ -9362,18 +9362,15 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                   <persName type="name">Schidnizki (1696, aus Polen)</persName>
                </person>
                <person xml:id="emt_person_id__1062">
-                  <persName type="name">Hessen-Wanfried, Charlotte Amalie von, vereh. Fürstin von Rákóczi</persName>
+                  <persName type="name">Hessen-Rotenburg, Anna Johannetta</persName>
                   <persName type="title">
                      <roleName>Landgräfin</roleName>
                   </persName>
-                  <persName type="title">
-                     <roleName>Fürstin</roleName>
-                  </persName>
                   <birth>
-                     <date notBefore="1679-01-01" notAfter="1679-12-31">1679</date>
+                     <date notBefore="1680-01-01" notAfter="1680-12-31">1680</date>
                   </birth>
                   <death>
-                     <date notBefore="1722-01-01" notAfter="1722-12-31">1722</date>
+                     <date notBefore="1766-01-01" notAfter="1766-12-31">1766</date>
                   </death>
                </person>
                <person xml:id="emt_person_id__1063">
@@ -9404,25 +9401,28 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                   </death>
                </person>
                <person xml:id="emt_person_id__1065">
-                  <persName type="name">Hessen-Wanfried, Christina Francisca Polyxena</persName>
+                  <persName type="name">Hessen-Rotenburg, Ernestina</persName>
                   <persName type="title">
                      <roleName>Landgräfin</roleName>
                   </persName>
                   <persName type="title">
-                     <roleName>Fürstin</roleName>
+                     <roleName>Gräfin</roleName>
+                  </persName>
+                  <persName type="title">
+                     <roleName>Marquesa</roleName>
                   </persName>
                   <birth>
-                     <date notBefore="1688-01-01" notAfter="1688-12-31">1688</date>
+                     <date notBefore="1681-01-01" notAfter="1681-12-31">1681</date>
                   </birth>
                   <death>
-                     <date notBefore="1728-01-01" notAfter="1728-12-31">1728</date>
+                     <date notBefore="1732-01-01" notAfter="1732-12-31">1732</date>
                   </death>
                </person>
                <person xml:id="emt_person_id__1066">
-                  <persName type="name">Hessen-Wanfried, Juliane Elisabeth Anna Luise</persName>
-                  <birth>
-                     <date notBefore="1690-01-01" notAfter="1690-12-31">1690</date>
-                  </birth>
+                  <persName type="name">Ruffini, Doktor (wird 1696 nach Spanien geschickt)</persName>
+               </person>
+               <person xml:id="emt_person_id__1067">
+                  <persName type="name">Gesser (1696, wohl die Frau von Johann Wilhelm Gesser)</persName>
                </person>
             </listPerson>
          </div>
