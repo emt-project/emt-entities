@@ -884,21 +884,6 @@
     "wikidata_url": "",
     "unidentifiziert": false
   },
-  "62": {
-    "id": 62,
-    "order": "62.00000000000000000000",
-    "name": "Wesel",
-    "geonames": "https://www.geonames.org/2810678/wesel.html",
-    "emt_id": "emt_place_id__62",
-    "place_type": null,
-    "lat": "51.66690",
-    "long": "6.620370",
-    "comments intern": null,
-    "gnd": "",
-    "alternative_name": null,
-    "wikidata_url": "",
-    "unidentifiziert": false
-  },
   "63": {
     "id": 63,
     "order": "63.00000000000000000000",

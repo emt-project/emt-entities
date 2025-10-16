@@ -475,13 +475,6 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                   </location>
                   <idno type="GEONAMES">https://sws.geonames.org/2811359/</idno>
                </place>
-               <place xml:id="emt_place_id__62">
-                  <placeName>Wesel</placeName>
-                  <location type="coords">
-                     <geo>51.66690 6.620370</geo>
-                  </location>
-                  <idno type="GEONAMES">https://sws.geonames.org/2810678/</idno>
-               </place>
                <place xml:id="emt_place_id__63">
                   <placeName>Wien</placeName>
                   <location type="coords">
