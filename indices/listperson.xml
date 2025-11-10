@@ -9427,6 +9427,18 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                <person xml:id="emt_person_id__1068">
                   <persName type="name">Kuiros (1696, berichtet aus Den Haag)</persName>
                </person>
+               <person xml:id="emt_person_id__1069">
+                  <persName type="name">Althann, NN von, 1696 für Propstei empfohlen</persName>
+                  <persName type="title">
+                     <roleName>Graf</roleName>
+                  </persName>
+               </person>
+               <person xml:id="emt_person_id__1070">
+                  <persName type="name">Liechtenstein, NN von, 1696 für oberösterreichische Geheimratsstelle empfohlen</persName>
+               </person>
+               <person xml:id="emt_person_id__1071">
+                  <persName type="name">Conuonge, NN (1696 in französischem Auftrag nach Innsbruck geschickt)</persName>
+               </person>
             </listPerson>
          </div>
       </body>
