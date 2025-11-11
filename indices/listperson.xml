@@ -9425,7 +9425,7 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                   <persName type="name">Gesser (1696, wohl die Frau von Johann Wilhelm Gesser)</persName>
                </person>
                <person xml:id="emt_person_id__1068">
-                  <persName type="name">Kuiros (1696, berichtet aus Den Haag)</persName>
+                  <persName type="name">Kuiros / Qivros (1696, berichtet aus Den Haag)</persName>
                </person>
                <person xml:id="emt_person_id__1069">
                   <persName type="name">Althann, NN von, 1696 für Propstei empfohlen</persName>
@@ -9438,6 +9438,144 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                </person>
                <person xml:id="emt_person_id__1071">
                   <persName type="name">Conuonge, NN (1696 in französischem Auftrag nach Innsbruck geschickt)</persName>
+               </person>
+               <person xml:id="emt_person_id__1072">
+                  <persName type="name">Frankh, NN (1696 im Dienst Dänemarks in Wien)</persName>
+               </person>
+               <person xml:id="emt_person_id__1073">
+                  <persName type="name">Vila Verde de Angeja, António de Noronha de</persName>
+                  <persName type="title">
+                     <roleName>Conde</roleName>
+                  </persName>
+                  <persName type="title">
+                     <roleName>Marques</roleName>
+                  </persName>
+                  <birth>
+                     <date notBefore="1680-01-01" notAfter="1680-12-31">1680</date>
+                  </birth>
+                  <death>
+                     <date notBefore="1735-01-01" notAfter="1735-12-31">1735</date>
+                  </death>
+                  <idno type="WIKIDATA">https://pt.wikipedia.org/wiki/Ant%C3%B3nio_de_Noronha_de_Albuquerque</idno>
+                  <idno type="URL">https://kaiserin.hypotheses.org/2278#_ftnref1</idno>
+               </person>
+               <person xml:id="emt_person_id__1074">
+                  <persName type="name">Ligne de Arronches, Charles-Joseph de</persName>
+                  <persName type="title">
+                     <roleName>Marques</roleName>
+                  </persName>
+                  <birth>
+                     <date notBefore="1661-01-01" notAfter="1661-12-31">1661</date>
+                  </birth>
+                  <death>
+                     <date notBefore="1713-01-01" notAfter="1713-12-31">1713</date>
+                  </death>
+                  <idno type="URL">https://kaiserin.hypotheses.org/2278#_ftnref1</idno>
+               </person>
+               <person xml:id="emt_person_id__1075">
+                  <persName type="name">Schoonjans, Antonius</persName>
+                  <death>
+                     <date notBefore="1726-01-01" notAfter="1726-12-31">1726</date>
+                  </death>
+                  <idno type="GND">https://d-nb.info/gnd/138194742</idno>
+                  <idno type="NDB">https://www.deutsche-biographie.de/pnd138194742.html#indexcontent</idno>
+                  <idno type="WIKIDATA">http://www.wikidata.org/entity/Q572587</idno>
+                  <figure>
+                     <graphic url="emt_person_id__1075.jpg"/>
+                     <caption>AnthoniSchoonjans.jpg</caption>
+                  </figure>
+               </person>
+               <person xml:id="emt_person_id__1076">
+                  <persName type="name">Steinchen/Steingen, Sohn (1696, hat sich etwas zu Schulden kommen lassen)</persName>
+               </person>
+               <person xml:id="emt_person_id__1077">
+                  <persName type="name">Hessen-Rheinfels, Haus</persName>
+               </person>
+               <person xml:id="emt_person_id__1078">
+                  <persName type="name">Rákóczi, Franz II.</persName>
+                  <persName type="title">
+                     <roleName>Fürst</roleName>
+                  </persName>
+                  <birth>
+                     <date notBefore="1676-01-01" notAfter="1676-12-31">1676</date>
+                  </birth>
+                  <death>
+                     <date notBefore="1735-01-01" notAfter="1735-12-31">1735</date>
+                  </death>
+                  <idno type="GND">https://d-nb.info/gnd/118812513</idno>
+                  <idno type="WIKIDATA">http://www.wikidata.org/entity/Q181333</idno>
+                  <figure>
+                     <graphic url="emt_person_id__1078.jpg"/>
+                     <caption>II. Rákóczi Ferenc Mányoki.jpg</caption>
+                  </figure>
+               </person>
+               <person xml:id="emt_person_id__1079">
+                  <persName type="name">Ballerini, Francesco</persName>
+                  <birth>
+                     <date notBefore="1658-01-01" notAfter="1658-12-31">1658</date>
+                  </birth>
+                  <death>
+                     <date notBefore="1734-01-01" notAfter="1734-12-31">1734</date>
+                  </death>
+                  <idno type="GND">https://d-nb.info/gnd/1019860480</idno>
+                  <idno type="NDB">https://www.deutsche-biographie.de/pnd1019860480.html</idno>
+                  <idno type="URL">https://www.musiklexikon.ac.at/ml/musik_B/Ballerini_Francesco.xml?frames=no</idno>
+               </person>
+               <person xml:id="emt_person_id__1080">
+                  <persName type="name">Sickingen, Johann Ferdinand von</persName>
+                  <birth>
+                     <date notBefore="1664-01-01" notAfter="1664-12-31">1664</date>
+                  </birth>
+                  <death>
+                     <date notBefore="1719-01-01" notAfter="1719-12-31">1719</date>
+                  </death>
+                  <idno type="GND">https://d-nb.info/gnd/1147221057</idno>
+                  <idno type="WIKIDATA">http://www.wikidata.org/entity/Q23060966</idno>
+                  <figure>
+                     <graphic url="emt_person_id__1080.jpg"/>
+                     <caption>Sickingen Johann Ferdinand.jpg</caption>
+                  </figure>
+               </person>
+               <person xml:id="emt_person_id__1081">
+                  <persName type="name">Hessen-Wanfried, Charlotte Amalie, verh. Fürstin von Rákóczi</persName>
+                  <persName type="title">
+                     <roleName>Landgräfin</roleName>
+                  </persName>
+                  <persName type="title">
+                     <roleName>Fürstin</roleName>
+                  </persName>
+                  <birth>
+                     <date notBefore="1679-01-01" notAfter="1679-12-31">1679</date>
+                  </birth>
+                  <death>
+                     <date notBefore="1722-01-01" notAfter="1722-12-31">1722</date>
+                  </death>
+                  <idno type="WIKIDATA">http://www.wikidata.org/entity/Q53100</idno>
+                  <figure>
+                     <graphic url="emt_person_id__1081.jpg"/>
+                     <caption>Sarolta Amália hessen–wanfriedi hercegnő.jpg</caption>
+                  </figure>
+               </person>
+               <person xml:id="emt_person_id__1082">
+                  <persName type="name">Hessen-Wanfried, Alexandrine Juliane, geb. Gräfin von Leiningen-Dagsberg, verw. Landgräfin von Hessen-Darmstadt-Itten</persName>
+                  <persName type="title">
+                     <roleName>Landgräfin</roleName>
+                  </persName>
+                  <birth>
+                     <date notBefore="1651-01-01" notAfter="1651-12-31">1651</date>
+                  </birth>
+                  <death>
+                     <date notBefore="1711-01-01" notAfter="1711-12-31">1711</date>
+                  </death>
+               </person>
+               <person xml:id="emt_person_id__1083">
+                  <persName type="name">Hessen-Wanfried, Sophie Magdalene, geb. Gräfin von Salm-Reifferscheidt</persName>
+                  <persName type="title">
+                     <roleName>Landgräfin</roleName>
+                  </persName>
+                  <death>
+                     <date notBefore="1675-01-01" notAfter="1675-12-31">1675</date>
+                  </death>
                </person>
             </listPerson>
          </div>

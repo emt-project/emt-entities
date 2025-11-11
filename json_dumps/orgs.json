@@ -278,5 +278,12 @@
     "name": "Kaiserliches Proviantamt",
     "gnd": "",
     "emt_id": "emt_institution_id__40"
+  },
+  "73": {
+    "id": 73,
+    "order": "41.00000000000000000000",
+    "name": "Kaiserliche Hofkammer",
+    "gnd": "",
+    "emt_id": "emt_institution_id__73"
   }
 }
