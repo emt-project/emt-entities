@@ -25518,7 +25518,7 @@
     "birth_date_written": "",
     "death_date_written": "",
     "geschlecht": "",
-    "funktionsbezeichnungen": "Fürst von Siebenbürgen, Rebell",
+    "funktionsbezeichnungen": "Fürst von Siebenbürgen",
     "unidentifiziert": false,
     "titel": [
       {
@@ -25581,7 +25581,7 @@
   "1081": {
     "id": 1081,
     "order": "949.00000000000000000000",
-    "name": "Hessen-Wanfried, Charlotte Amalie, verh. Fürstin von Rákóczi",
+    "name": "Hessen-Wanfried, Charlotte Amalie, verh. Rákóczi",
     "gnd": "",
     "other_url": "",
     "emt_id": "emt_person_id__1081",
@@ -25602,11 +25602,6 @@
     "funktionsbezeichnungen": "",
     "unidentifiziert": false,
     "titel": [
-      {
-        "id": 19712,
-        "value": "Landgräfin",
-        "color": "light-red"
-      },
       {
         "id": 19711,
         "value": "Fürstin",
@@ -25675,5 +25670,30 @@
         "color": "light-red"
       }
     ]
+  },
+  "1084": {
+    "id": 1084,
+    "order": "952.00000000000000000000",
+    "name": "",
+    "gnd": "",
+    "other_url": "",
+    "emt_id": "emt_person_id__1084",
+    "internal_comment": "",
+    "color": "",
+    "lebensdaten": "",
+    "ndb": "",
+    "year_of_birth": null,
+    "year_of_death": null,
+    "wikidata_url": "",
+    "wikidata_enriched": false,
+    "img_name": "",
+    "img_fetched": false,
+    "img_source": "",
+    "birth_date_written": "",
+    "death_date_written": "",
+    "geschlecht": "",
+    "funktionsbezeichnungen": "",
+    "unidentifiziert": false,
+    "titel": []
   }
 }

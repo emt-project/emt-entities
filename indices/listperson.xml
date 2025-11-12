@@ -9537,10 +9537,7 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                   </figure>
                </person>
                <person xml:id="emt_person_id__1081">
-                  <persName type="name">Hessen-Wanfried, Charlotte Amalie, verh. Fürstin von Rákóczi</persName>
-                  <persName type="title">
-                     <roleName>Landgräfin</roleName>
-                  </persName>
+                  <persName type="name">Hessen-Wanfried, Charlotte Amalie, verh. Rákóczi</persName>
                   <persName type="title">
                      <roleName>Fürstin</roleName>
                   </persName>
@@ -9576,6 +9573,9 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                   <death>
                      <date notBefore="1675-01-01" notAfter="1675-12-31">1675</date>
                   </death>
+               </person>
+               <person xml:id="emt_person_id__1084">
+                  <persName type="name"/>
                </person>
             </listPerson>
          </div>
