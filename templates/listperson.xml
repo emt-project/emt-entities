@@ -69,6 +69,11 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                      <roleName>{{ y.value }}</roleName>
                   </persName>
                   {% endfor %}
+                  {% if x.funktionsbezeichnungen%}
+                  <persName type="function">
+                     <roleName>{{ x.funktionsbezeichnungen }}</roleName>
+                  </persName>
+                  {% endif %}
                   {% if x.year_of_birth is string %}
                   <birth>
                      <date notBefore="{% if x.year_of_birth|length == 3 %}0{% endif %}{{ x.year_of_birth }}-01-01" notAfter="{% if x.year_of_birth|length == 3 %}0{% endif %}{{ x.year_of_birth }}-12-31">{{ x.year_of_birth }}</date>
