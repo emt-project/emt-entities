@@ -9443,10 +9443,7 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                   <persName type="name">Frankh, NN (1696 im Dienst Dänemarks in Wien)</persName>
                </person>
                <person xml:id="emt_person_id__1073">
-                  <persName type="name">Vila Verde de Angeja, António de Noronha de</persName>
-                  <persName type="title">
-                     <roleName>Conde</roleName>
-                  </persName>
+                  <persName type="name">Vila Verde de Angeja, António de Noronha</persName>
                   <persName type="title">
                      <roleName>Marques</roleName>
                   </persName>
@@ -9575,7 +9572,93 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                   </death>
                </person>
                <person xml:id="emt_person_id__1084">
-                  <persName type="name"/>
+                  <persName type="name">Palm, Johann David von</persName>
+                  <birth>
+                     <date notBefore="1657-01-01" notAfter="1657-12-31">1657</date>
+                  </birth>
+                  <death>
+                     <date notBefore="1721-01-01" notAfter="1721-12-31">1721</date>
+                  </death>
+                  <idno type="GND">https://d-nb.info/gnd/138693722</idno>
+                  <idno type="NDB">https://www.deutsche-biographie.de/pnd138693722.html#indexcontent</idno>
+                  <idno type="WIKIDATA">http://www.wikidata.org/entity/Q1681513</idno>
+               </person>
+               <person xml:id="emt_person_id__1085">
+                  <persName type="name">Arnd (1696, Zusammenhang mit König Jakob II. Stuart)</persName>
+               </person>
+               <person xml:id="emt_person_id__1086">
+                  <persName type="name">Schallenberg, Christoph Dietmar von</persName>
+                  <death>
+                     <date notBefore="1708-01-01" notAfter="1708-12-31">1708</date>
+                  </death>
+               </person>
+               <person xml:id="emt_person_id__1087">
+                  <persName type="name">Schallenberg, Christoph Georg von</persName>
+                  <birth>
+                     <date notBefore="1652-01-01" notAfter="1652-12-31">1652</date>
+                  </birth>
+                  <death>
+                     <date notBefore="1720-01-01" notAfter="1720-12-31">1720</date>
+                  </death>
+                  <idno type="GND">https://d-nb.info/gnd/1229988475</idno>
+                  <idno type="NDB">www.deutsche-biographie.de/1229988475.html#indexcontent</idno>
+               </person>
+               <person xml:id="emt_person_id__1088">
+                  <persName type="name">Bolland, Franz Wilhelm  à Monimet von</persName>
+                  <birth>
+                     <date notBefore="1650-01-01" notAfter="1650-12-31">1650</date>
+                  </birth>
+                  <death>
+                     <date notBefore="1696-01-01" notAfter="1696-12-31">1696</date>
+                  </death>
+               </person>
+               <person xml:id="emt_person_id__1089">
+                  <persName type="name">portugiesischer Gesandter (wohl nicht Ligne 1696</persName>
+               </person>
+               <person xml:id="emt_person_id__1090">
+                  <persName type="name">Bayern, Joseph Ferdinand Leopold von</persName>
+                  <persName type="title">
+                     <roleName>Herzog</roleName>
+                  </persName>
+                  <birth>
+                     <date notBefore="1692-01-01" notAfter="1692-12-31">1692</date>
+                  </birth>
+                  <death>
+                     <date notBefore="1699-01-01" notAfter="1699-12-31">1699</date>
+                  </death>
+                  <idno type="GND">https://d-nb.info/gnd/11877641X</idno>
+                  <idno type="NDB">https://www.deutsche-biographie.de/pnd11877641X.html#indexcontent</idno>
+                  <idno type="WIKIDATA">http://www.wikidata.org/entity/Q57909</idno>
+                  <figure>
+                     <graphic url="emt_person_id__1090.jpg"/>
+                     <caption>Retrato del príncipe electoral José Fernando de Baviera, obra de Joseph Vivien (1698). Königliches Schloss Berchtesgaden.png</caption>
+                  </figure>
+               </person>
+               <person xml:id="emt_person_id__1091">
+                  <persName type="name">Geismar, Johann Friedrich von</persName>
+                  <death>
+                     <date notBefore="1697-01-01" notAfter="1697-12-31">1697</date>
+                  </death>
+                  <idno type="URL">https://angewandtekunst.museum-kassel.de/22088/</idno>
+               </person>
+               <person xml:id="emt_person_id__1092">
+                  <persName type="name">Charlotte Amalie von Dänemark, geb. von Hessen-Kassel</persName>
+                  <persName type="title">
+                     <roleName>Königin</roleName>
+                  </persName>
+                  <birth>
+                     <date notBefore="1650-01-01" notAfter="1650-12-31">1650</date>
+                  </birth>
+                  <death>
+                     <date notBefore="1714-01-01" notAfter="1714-12-31">1714</date>
+                  </death>
+                  <idno type="GND">https://d-nb.info/gnd/121096246</idno>
+                  <idno type="NDB">https://www.deutsche-biographie.de/pnd121096246.html#index</idno>
+                  <idno type="WIKIDATA">http://www.wikidata.org/entity/Q231820</idno>
+                  <figure>
+                     <graphic url="emt_person_id__1092.jpg"/>
+                     <caption>Charlotte Amalie of Hesse-Kassel 1690.jpg</caption>
+                  </figure>
                </person>
             </listPerson>
          </div>

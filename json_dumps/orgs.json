@@ -285,5 +285,19 @@
     "name": "Kaiserliche Hofkammer",
     "gnd": "",
     "emt_id": "emt_institution_id__73"
+  },
+  "74": {
+    "id": 74,
+    "order": "42.00000000000000000000",
+    "name": "Westerwäldischer Kreis",
+    "gnd": "",
+    "emt_id": "emt_institution_id__74"
+  },
+  "75": {
+    "id": 75,
+    "order": "43.00000000000000000000",
+    "name": "Wetterauischer Kreis",
+    "gnd": "",
+    "emt_id": "emt_institution_id__75"
   }
 }

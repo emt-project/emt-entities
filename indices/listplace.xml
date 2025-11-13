@@ -1176,7 +1176,7 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                   <idno type="GND">https://d-nb.info/gnd/4075720-1</idno>
                </place>
                <place xml:id="emt_place_id__175">
-                  <placeName>Neapel</placeName>
+                  <placeName>Neapel, Stadt</placeName>
                   <location type="coords">
                      <geo>40.85216 14.268110</geo>
                   </location>
@@ -2174,7 +2174,15 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                   <idno type="GND">https://d-nb.info/gnd/1171002904</idno>
                </place>
                <place xml:id="emt_place_id__378">
-                  <placeName/>
+                  <placeName>Günzburg</placeName>
+                  <idno type="GND">https://d-nb.info/gnd/4022458-2</idno>
+               </place>
+               <place xml:id="emt_place_id__410">
+                  <placeName>Montecassino, Abtei</placeName>
+                  <idno type="GND">https://d-nb.info/gnd/1002981-3</idno>
+               </place>
+               <place xml:id="emt_place_id__411">
+                  <placeName>Neapel, Königreich</placeName>
                </place>
             </listPlace>
          </div>
