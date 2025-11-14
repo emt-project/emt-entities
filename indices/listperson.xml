@@ -2375,6 +2375,9 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                   <persName type="title">
                      <roleName>Graf</roleName>
                   </persName>
+                  <persName type="function">
+                     <roleName>Diplomat, u.a. kaiserlicher Gesandter in Spanien</roleName>
+                  </persName>
                   <birth>
                      <date notBefore="1637-01-01" notAfter="1637-12-31">1637</date>
                   </birth>
@@ -10168,33 +10171,36 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                   <persName type="name">Stigler, Dr. (reist 1695/96 mit Pater Wiser nach Dänemark)</persName>
                </person>
                <person xml:id="emt_person_id__972">
-                  <persName type="name">Hohenlohe, Augusta Dorothea von</persName>
+                  <persName type="name">Hohenlohe, Anna Augusta von</persName>
                   <persName type="title">
                      <roleName>Gräfin</roleName>
                   </persName>
                   <birth>
-                     <date notBefore="1678-01-01" notAfter="1678-12-31">1678</date>
+                     <date notBefore="1675-01-01" notAfter="1675-12-31">1675</date>
                   </birth>
                   <death>
-                     <date notBefore="1740-01-01" notAfter="1740-12-31">1740</date>
+                     <date notBefore="1711-01-01" notAfter="1711-12-31">1711</date>
                   </death>
-                  <idno type="GND">https://d-nb.info/gnd/11775062X</idno>
-                  <idno type="NDB">https://www.deutsche-biographie.de/pnd11775062X.html</idno>
+                  <idno type="GND">https://d-nb.info/gnd/1207243477</idno>
+                  <idno type="NDB">www.deutsche-biographie.de/1207243477.html#indexcontent</idno>
                   <idno type="WIKIDATA">http://www.wikidata.org/entity/Q60838334</idno>
                </person>
                <person xml:id="emt_person_id__973">
-                  <persName type="name">Hohenlohe, Heinrich Friedrich von</persName>
+                  <persName type="name">Hohenlohe, Ludwig Gustav von</persName>
                   <persName type="title">
                      <roleName>Graf</roleName>
                   </persName>
+                  <persName type="function">
+                     <roleName>Diplomat, kaiserlicher Geheimrat</roleName>
+                  </persName>
                   <birth>
-                     <date notBefore="1625-01-01" notAfter="1625-12-31">1625</date>
+                     <date notBefore="1634-01-01" notAfter="1634-12-31">1634</date>
                   </birth>
                   <death>
-                     <date notBefore="1699-01-01" notAfter="1699-12-31">1699</date>
+                     <date notBefore="1697-01-01" notAfter="1697-12-31">1697</date>
                   </death>
-                  <idno type="GND">https://d-nb.info/gnd/115865497</idno>
-                  <idno type="NDB">https://www.deutsche-biographie.de/pnd115865497.html#index</idno>
+                  <idno type="GND">https://d-nb.info/gnd/119523159</idno>
+                  <idno type="NDB">https://www.deutsche-biographie.de/pnd119523159.html#indexcontent</idno>
                   <idno type="WIKIDATA">http://www.wikidata.org/entity/Q69927</idno>
                   <figure>
                      <graphic url="emt_person_id__973.jpg"/>
@@ -10202,35 +10208,18 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                   </figure>
                </person>
                <person xml:id="emt_person_id__974">
-                  <persName type="name">Hohenlohe, Dorothea von, geb. Gräfin von Castell-Remlingen</persName>
+                  <persName type="name">Hohenlohe, Anna Barbara von, geb. von Schönborn</persName>
                   <persName type="title">
                      <roleName>Gräfin</roleName>
                   </persName>
                   <birth>
-                     <date notBefore="1640-01-01" notAfter="1640-12-31">1640</date>
+                     <date notBefore="1648-01-01" notAfter="1648-12-31">1648</date>
                   </birth>
                   <death>
-                     <date notBefore="1706-01-01" notAfter="1706-12-31">1706</date>
+                     <date notBefore="1721-01-01" notAfter="1721-12-31">1721</date>
                   </death>
-                  <idno type="GND">https://d-nb.info/gnd/137046219</idno>
-                  <idno type="NDB">https://www.deutsche-biographie.de/pnd137046219.html#index</idno>
                   <idno type="WIKIDATA">http://www.wikidata.org/entity/Q11929422</idno>
-                  <idno type="URL">https://fr.wikipedia.org/wiki/Julienne-Doroth%C3%A9e_de_Castell-Remlingen</idno>
-               </person>
-               <person xml:id="emt_person_id__975">
-                  <persName type="name">Hohenlohe, Albrecht Wolfgang von</persName>
-                  <persName type="title">
-                     <roleName>Graf</roleName>
-                  </persName>
-                  <birth>
-                     <date notBefore="1659-01-01" notAfter="1659-12-31">1659</date>
-                  </birth>
-                  <death>
-                     <date notBefore="1715-01-01" notAfter="1715-12-31">1715</date>
-                  </death>
-                  <idno type="GND">https://d-nb.info/gnd/103125140</idno>
-                  <idno type="NDB">https://www.deutsche-biographie.de/pnd103125140.html</idno>
-                  <idno type="WIKIDATA">http://www.wikidata.org/entity/Q86680</idno>
+                  <idno type="URL">https://kaiserhof.geschichte.lmu.de/16037</idno>
                </person>
                <person xml:id="emt_person_id__976">
                   <persName type="name">Thürheim, "Jojerl" (1695 Stiefsohn, 1696 Bruderschaft)</persName>
@@ -10446,12 +10435,6 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                   <persName type="name">Hessen-Rotenburg, Ernestina</persName>
                   <persName type="title">
                      <roleName>Landgräfin</roleName>
-                  </persName>
-                  <persName type="title">
-                     <roleName>Gräfin</roleName>
-                  </persName>
-                  <persName type="title">
-                     <roleName>Marquesa</roleName>
                   </persName>
                   <birth>
                      <date notBefore="1681-01-01" notAfter="1681-12-31">1681</date>
@@ -10734,6 +10717,49 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                      <graphic url="emt_person_id__1092.jpg"/>
                      <caption>Charlotte Amalie of Hesse-Kassel 1690.jpg</caption>
                   </figure>
+               </person>
+               <person xml:id="emt_person_id__1093">
+                  <persName type="name">Emerix, Jakob de Mathiis</persName>
+                  <birth>
+                     <date notBefore="1626-01-01" notAfter="1626-12-31">1626</date>
+                  </birth>
+                  <death>
+                     <date notBefore="1696-01-01" notAfter="1696-12-31">1696</date>
+                  </death>
+               </person>
+               <person xml:id="emt_person_id__1094">
+                  <persName type="name">Gehlen, Christian</persName>
+                  <persName type="title">
+                     <roleName>Doktor</roleName>
+                  </persName>
+                  <persName type="function">
+                     <roleName>Arzt</roleName>
+                  </persName>
+               </person>
+               <person xml:id="emt_person_id__1095">
+                  <persName type="name">Sinzendorf, Philipp Ludwig Wenzel von</persName>
+                  <persName type="title">
+                     <roleName>Graf</roleName>
+                  </persName>
+                  <persName type="function">
+                     <roleName>Diplomat, Staatsmann</roleName>
+                  </persName>
+                  <birth>
+                     <date notBefore="1671-01-01" notAfter="1671-12-31">1671</date>
+                  </birth>
+                  <death>
+                     <date notBefore="1742-01-01" notAfter="1742-12-31">1742</date>
+                  </death>
+                  <idno type="GND">https://d-nb.info/gnd/117416487</idno>
+                  <idno type="NDB">https://www.deutsche-biographie.de/sfz80377.html#adbcontent</idno>
+                  <idno type="WIKIDATA">http://www.wikidata.org/entity/Q84715</idno>
+                  <figure>
+                     <graphic url="emt_person_id__1095.jpg"/>
+                     <caption>Philipp Ludwig Wenzel von Sinzendorf par Hyacinthe Rigaud (1729).jpg</caption>
+                  </figure>
+               </person>
+               <person xml:id="emt_person_id__1096">
+                  <persName type="name">Nassau-Hadamar, Haus</persName>
                </person>
             </listPerson>
          </div>
