@@ -3027,7 +3027,7 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                   <idno type="URL">https://de.wikipedia.org/wiki/Jakob_von_Hamilton#Familie</idno>
                </person>
                <person xml:id="emt_person_id__224">
-                  <persName type="name">Bedingfield, Magdalen OCarm</persName>
+                  <persName type="name">Bedingfield, Magdalena OCarm</persName>
                   <persName type="function">
                      <roleName>Oberin</roleName>
                   </persName>
@@ -10760,6 +10760,74 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                </person>
                <person xml:id="emt_person_id__1096">
                   <persName type="name">Nassau-Hadamar, Haus</persName>
+               </person>
+               <person xml:id="emt_person_id__1097">
+                  <persName type="name">Santacroce, Andrea</persName>
+                  <persName type="title">
+                     <roleName>Kardinal</roleName>
+                  </persName>
+                  <persName type="function">
+                     <roleName>Nuntius in Wien (1696-1700)</roleName>
+                  </persName>
+                  <birth>
+                     <date notBefore="1655-01-01" notAfter="1655-12-31">1655</date>
+                  </birth>
+                  <death>
+                     <date notBefore="1712-01-01" notAfter="1712-12-31">1712</date>
+                  </death>
+                  <idno type="GND">https://d-nb.info/gnd/1069690511</idno>
+                  <idno type="WIKIDATA">http://www.wikidata.org/entity/Q716891</idno>
+                  <idno type="URL">https://www.treccani.it/enciclopedia/andrea-santacroce_res-cb5acb98-2b85-11e8-9479-00271042e8d9_(Dizionario-Biografico)/?search=SANTACROCE%2C%20Andrea%2F</idno>
+                  <figure>
+                     <graphic url="emt_person_id__1097.jpg"/>
+                     <caption>Andrea Santa Croce by Anonymous.jpg</caption>
+                  </figure>
+               </person>
+               <person xml:id="emt_person_id__1098">
+                  <persName type="name">Weichs, Ferdinand von</persName>
+                  <birth>
+                     <date notBefore="1624-01-01" notAfter="1624-12-31">1624</date>
+                  </birth>
+                  <death>
+                     <date notBefore="1679-01-01" notAfter="1679-12-31">1679</date>
+                  </death>
+               </person>
+               <person xml:id="emt_person_id__1099">
+                  <persName type="name">Abensperg und Traun, Otto Ehrenreich von</persName>
+                  <persName type="function">
+                     <roleName>Landmarschall in Niederösterreich</roleName>
+                  </persName>
+                  <birth>
+                     <date notBefore="1644-01-01" notAfter="1644-12-31">1644</date>
+                  </birth>
+                  <death>
+                     <date notBefore="1715-01-01" notAfter="1715-12-31">1715</date>
+                  </death>
+                  <idno type="GND">https://d-nb.info/gnd/130852678</idno>
+                  <idno type="WIKIDATA">http://www.wikidata.org/entity/Q94527070</idno>
+                  <idno type="URL">https://de.wikisource.org/wiki/BLK%C3%96%3ATraun%2C_Otto_Ehrenreich_%281644%E2%80%931715%29</idno>
+                  <figure>
+                     <graphic url="emt_person_id__1099.jpg"/>
+                     <caption>Otto Ehrenreich von Abensperg und Traun.jpg</caption>
+                  </figure>
+               </person>
+               <person xml:id="emt_person_id__1100">
+                  <persName type="name">Eschenbrender, Andreas</persName>
+                  <persName type="function">
+                     <roleName>Domherr, Offizial in Köln</roleName>
+                  </persName>
+                  <birth>
+                     <date notBefore="1649-01-01" notAfter="1649-12-31">1649</date>
+                  </birth>
+                  <death>
+                     <date notBefore="1717-01-01" notAfter="1717-12-31">1717</date>
+                  </death>
+                  <idno type="GND">https://d-nb.info/gnd/1050962508</idno>
+                  <idno type="NDB">https://www.deutsche-biographie.de/pnd1050962508.html#index</idno>
+                  <idno type="WIKIDATA">http://www.wikidata.org/entity/Q497064</idno>
+               </person>
+               <person xml:id="emt_person_id__1101">
+                  <persName type="name">Stubenberg, NN wird 1697 empfohlen</persName>
                </person>
             </listPerson>
          </div>
