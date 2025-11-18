@@ -117,6 +117,7 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                   <idno type="GND">https://d-nb.info/gnd/138385211</idno>
                   <idno type="NDB">https://www.deutsche-biographie.de/sfz63383.html#indexcontent</idno>
                   <idno type="WIKIDATA">http://www.wikidata.org/entity/Q55856674</idno>
+                  <idno type="URL">https://viecpro.oeaw.ac.at/persons/165702</idno>
                </person>
                <person xml:id="emt_person_id__6">
                   <persName type="name">d'Olivier, NN</persName>
@@ -10828,6 +10829,120 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                </person>
                <person xml:id="emt_person_id__1101">
                   <persName type="name">Stubenberg, NN wird 1697 empfohlen</persName>
+               </person>
+               <person xml:id="emt_person_id__1102">
+                  <persName type="name">Breuner, Seifried Christoph</persName>
+                  <persName type="function">
+                     <roleName>Hofkammerpräsident</roleName>
+                  </persName>
+                  <death>
+                     <date notBefore="1698-01-01" notAfter="1698-12-31">1698</date>
+                  </death>
+                  <idno type="GND">https://d-nb.info/gnd/118515233</idno>
+                  <idno type="WIKIDATA">http://www.wikidata.org/entity/Q2275831</idno>
+                  <idno type="URL">https://viecpro.acdh.oeaw.ac.at/persons/297249</idno>
+                  <figure>
+                     <graphic url="emt_person_id__1102.jpg"/>
+                     <caption>Seifried Freiherr von Breuner.jpg</caption>
+                  </figure>
+               </person>
+               <person xml:id="emt_person_id__1103">
+                  <persName type="name">Limburg und Styrum, Moritz Hermann von</persName>
+                  <persName type="title">
+                     <roleName>Graf</roleName>
+                  </persName>
+                  <persName type="function">
+                     <roleName>regierender Reichsgraf</roleName>
+                  </persName>
+                  <birth>
+                     <date notBefore="1664-01-01" notAfter="1664-12-31">1664</date>
+                  </birth>
+                  <death>
+                     <date notBefore="1703-01-01" notAfter="1703-12-31">1703</date>
+                  </death>
+                  <idno type="GND">https://d-nb.info/gnd/118573020</idno>
+                  <idno type="NDB">https://www.deutsche-biographie.de/sfz130694.html#ndbcontent</idno>
+                  <idno type="WIKIDATA">http://www.wikidata.org/entity/Q553251</idno>
+               </person>
+               <person xml:id="emt_person_id__1104">
+                  <persName type="name">Defin, Baron (wird 1697 nach Polen geschickt)</persName>
+               </person>
+               <person xml:id="emt_person_id__1105">
+                  <persName type="name">Gise (soll 1697 in Polen mit dem Defin kooperieren)</persName>
+               </person>
+               <person xml:id="emt_person_id__1106">
+                  <persName type="name">Nassau-Weilburg, Johann Ernst</persName>
+                  <persName type="title">
+                     <roleName>Fürst</roleName>
+                  </persName>
+                  <persName type="function">
+                     <roleName>Offizier</roleName>
+                  </persName>
+                  <birth>
+                     <date notBefore="1664-01-01" notAfter="1664-12-31">1664</date>
+                  </birth>
+                  <death>
+                     <date notBefore="1719-01-01" notAfter="1719-12-31">1719</date>
+                  </death>
+                  <idno type="GND">https://d-nb.info/gnd/136263402</idno>
+                  <idno type="NDB">https://www.deutsche-biographie.de/sfz37525.html#adbcontent</idno>
+                  <idno type="WIKIDATA">http://www.wikidata.org/entity/Q473471</idno>
+                  <figure>
+                     <graphic url="emt_person_id__1106.jpg"/>
+                     <caption>Johann Ernst von Nassau Weilburg.png</caption>
+                  </figure>
+               </person>
+               <person xml:id="emt_person_id__1107">
+                  <persName type="name">Bentheim, Moritz Wilhelm von</persName>
+                  <persName type="function">
+                     <roleName>Obristkämmer Johann Wilhelms von Pfalz-Neuburg</roleName>
+                  </persName>
+                  <death>
+                     <date notBefore="1701-01-01" notAfter="1701-12-31">1701</date>
+                  </death>
+               </person>
+               <person xml:id="emt_person_id__1108">
+                  <persName type="name">Heüsner, NN (Kurier 1697)</persName>
+               </person>
+               <person xml:id="emt_person_id__1109">
+                  <persName type="name">Orleans, Philippe de</persName>
+                  <persName type="title">
+                     <roleName>Herzog</roleName>
+                  </persName>
+                  <birth>
+                     <date notBefore="1674-01-01" notAfter="1674-12-31">1674</date>
+                  </birth>
+                  <death>
+                     <date notBefore="1723-01-01" notAfter="1723-12-31">1723</date>
+                  </death>
+                  <idno type="GND">https://d-nb.info/gnd/118820214</idno>
+                  <idno type="NDB">https://www.deutsche-biographie.de/pnd118820214.html#indexcontent</idno>
+                  <idno type="WIKIDATA">http://www.wikidata.org/entity/Q155596</idno>
+                  <figure>
+                     <graphic url="emt_person_id__1109.jpg"/>
+                     <caption>The Duke of Orléans future Regent of France by Jean Baptiste Santerre (Museo del Prado).jpg</caption>
+                  </figure>
+               </person>
+               <person xml:id="emt_person_id__1110">
+                  <persName type="name">Bourbon, Françoise Marie de, verh. Orleans</persName>
+                  <persName type="title">
+                     <roleName>Herzogin</roleName>
+                  </persName>
+                  <birth>
+                     <date notBefore="1677-01-01" notAfter="1677-12-31">1677</date>
+                  </birth>
+                  <death>
+                     <date notBefore="1749-01-01" notAfter="1749-12-31">1749</date>
+                  </death>
+                  <idno type="GND">https://d-nb.info/gnd/101292341X</idno>
+                  <idno type="WIKIDATA">http://www.wikidata.org/entity/Q237666</idno>
+                  <figure>
+                     <graphic url="emt_person_id__1110.jpg"/>
+                     <caption>Francoise Marie de Bourbon par Caminade Alexandre-François.jpg</caption>
+                  </figure>
+               </person>
+               <person xml:id="emt_person_id__1111">
+                  <persName type="name"/>
                </person>
             </listPerson>
          </div>

@@ -5068,5 +5068,20 @@
     "alternative_name": "",
     "wikidata_url": "",
     "unidentifiziert": false
+  },
+  "413": {
+    "id": 413,
+    "order": "345.00000000000000000000",
+    "name": "Delft",
+    "geonames": "https://www.geonames.org/6557537/kerpen.html",
+    "emt_id": "emt_place_id__413",
+    "place_type": null,
+    "lat": "50.87913",
+    "long": "6.693930",
+    "comments intern": "",
+    "gnd": "",
+    "alternative_name": "",
+    "wikidata_url": "",
+    "unidentifiziert": false
   }
 }

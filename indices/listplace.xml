@@ -2187,6 +2187,13 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                <place xml:id="emt_place_id__412">
                   <placeName>Brüssel</placeName>
                </place>
+               <place xml:id="emt_place_id__413">
+                  <placeName>Delft</placeName>
+                  <location type="coords">
+                     <geo>50.87913 6.693930</geo>
+                  </location>
+                  <idno type="GEONAMES">https://sws.geonames.org/6557537/</idno>
+               </place>
             </listPlace>
          </div>
       </body>
