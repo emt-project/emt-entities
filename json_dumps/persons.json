@@ -24832,41 +24832,47 @@
   "1055": {
     "id": 1055,
     "order": "923.00000000000000000000",
-    "name": "Rebenklau (1696, Zusammenhang mit Pater Wiser und Jeßen)",
-    "gnd": "",
+    "name": "Reventlow, Conrad von",
+    "gnd": "https://d-nb.info/gnd/139110585",
     "other_url": "",
     "emt_id": "emt_person_id__1055",
     "internal_comment": "",
     "color": "",
     "lebensdaten": "",
-    "ndb": "",
-    "year_of_birth": null,
-    "year_of_death": null,
-    "wikidata_url": "",
-    "wikidata_enriched": false,
-    "img_name": "",
-    "img_fetched": false,
-    "img_source": "",
+    "ndb": "https://www.deutsche-biographie.de/pnd139110585.html#indexcontent",
+    "year_of_birth": "1644",
+    "year_of_death": "1708",
+    "wikidata_url": "http://www.wikidata.org/entity/Q1127094",
+    "wikidata_enriched": true,
+    "img_name": "Conrad Reventlow, grand chancellor.jpg",
+    "img_fetched": true,
+    "img_source": "commonsMedia",
     "birth_date_written": "",
     "death_date_written": "",
     "geschlecht": "",
-    "funktionsbezeichnungen": "",
-    "unidentifiziert": true,
-    "titel": []
+    "funktionsbezeichnungen": "dänischer geheimer Staatsminister,",
+    "unidentifiziert": false,
+    "titel": [
+      {
+        "id": 19689,
+        "value": "Graf",
+        "color": "purple"
+      }
+    ]
   },
   "1056": {
     "id": 1056,
     "order": "924.00000000000000000000",
-    "name": "Jeßen (1696, Zusammenhang mit Pater Wiser und Rebenklau)",
-    "gnd": "",
+    "name": "Reventlow, Christian Detlef von",
+    "gnd": "ttps://d-nb.info/gnd/11645718X",
     "other_url": "",
     "emt_id": "emt_person_id__1056",
-    "internal_comment": "",
+    "internal_comment": "vgl. Brentano, Generale 81: Reventlow, Christian Detlev Graf v. (21.6.1671 - 1.10.1738), 31.1.1700 GFWM, 24.4.1704 FML, 12.4.1706 FZM; 1701 dän. GM, 1707 GdI - demnach hat er die 1697 von EMT angekündigte General Wachtmeister stell dann 1700 auch ohne Konversion der dänischen Prinzessin gekriegt",
     "color": "",
     "lebensdaten": "",
-    "ndb": "",
-    "year_of_birth": null,
-    "year_of_death": null,
+    "ndb": "https://www.deutsche-biographie.de/pnd11645718X.html#indexcontent",
+    "year_of_birth": "1671",
+    "year_of_death": "1738",
     "wikidata_url": "",
     "wikidata_enriched": false,
     "img_name": "",
@@ -24875,9 +24881,15 @@
     "birth_date_written": "",
     "death_date_written": "",
     "geschlecht": "",
-    "funktionsbezeichnungen": "",
-    "unidentifiziert": true,
-    "titel": []
+    "funktionsbezeichnungen": "dänischer und kaiserlicher Offizier",
+    "unidentifiziert": false,
+    "titel": [
+      {
+        "id": 19689,
+        "value": "Graf",
+        "color": "purple"
+      }
+    ]
   },
   "1057": {
     "id": 1057,
@@ -26357,11 +26369,42 @@
   "1111": {
     "id": 1111,
     "order": "979.00000000000000000000",
-    "name": "",
+    "name": "Manderscheid, Karl Ferdinand",
+    "gnd": "https://d-nb.info/gnd/140446834",
+    "other_url": "https://kaiserhof.geschichte.lmu.de/16355",
+    "emt_id": "emt_person_id__1111",
+    "internal_comment": "geschätztes Geburtsdatum nach Kaiser und Höfe. Zu der Zeit gab es offenbar parallel einen kath. und einen luth. Präs.",
+    "color": "",
+    "lebensdaten": "",
+    "ndb": "https://www.deutsche-biographie.de/140446834.html#indexcontent",
+    "year_of_birth": null,
+    "year_of_death": "1697",
+    "wikidata_url": "http://www.wikidata.org/entity/Q95310718",
+    "wikidata_enriched": true,
+    "img_name": "",
+    "img_fetched": true,
+    "img_source": "",
+    "birth_date_written": "um 1640",
+    "death_date_written": "",
+    "geschlecht": "",
+    "funktionsbezeichnungen": "katholischer Präsident des Reichskammergerichts",
+    "unidentifiziert": false,
+    "titel": [
+      {
+        "id": 19689,
+        "value": "Graf",
+        "color": "purple"
+      }
+    ]
+  },
+  "1112": {
+    "id": 1112,
+    "order": "980.00000000000000000000",
+    "name": "Gesandter Modenas in Kurpfalz (1697",
     "gnd": "",
     "other_url": "",
-    "emt_id": "emt_person_id__1111",
-    "internal_comment": "",
+    "emt_id": "emt_person_id__1112",
+    "internal_comment": "Bittner nichts",
     "color": "",
     "lebensdaten": "",
     "ndb": "",
@@ -26376,7 +26419,162 @@
     "death_date_written": "",
     "geschlecht": "",
     "funktionsbezeichnungen": "",
-    "unidentifiziert": false,
+    "unidentifiziert": true,
     "titel": []
+  },
+  "1113": {
+    "id": 1113,
+    "order": "981.00000000000000000000",
+    "name": "Masius, Hector Gottfried",
+    "gnd": "https://d-nb.info/gnd/100206611",
+    "other_url": "",
+    "emt_id": "emt_person_id__1113",
+    "internal_comment": "identifiziert über Krieger, Brautwerbung",
+    "color": "",
+    "lebensdaten": "",
+    "ndb": "https://www.deutsche-biographie.de/pnd100206611.html#indexcontent",
+    "year_of_birth": "1653",
+    "year_of_death": "1709",
+    "wikidata_url": "http://www.wikidata.org/entity/Q1441548",
+    "wikidata_enriched": true,
+    "img_name": "HectorGottfriedMasius.jpg",
+    "img_fetched": true,
+    "img_source": "commonsMedia",
+    "birth_date_written": "",
+    "death_date_written": "",
+    "geschlecht": "",
+    "funktionsbezeichnungen": "dänischer Hofprediger",
+    "unidentifiziert": false,
+    "titel": [
+      {
+        "id": 19696,
+        "value": "Doktor",
+        "color": "light-yellow"
+      }
+    ]
+  },
+  "1114": {
+    "id": 1114,
+    "order": "982.00000000000000000000",
+    "name": "Jessen, Matthias",
+    "gnd": "https://d-nb.info/gnd/124561365",
+    "other_url": "",
+    "emt_id": "emt_person_id__1114",
+    "internal_comment": "identifiziert über Krieger, Brautwerbung und Bittner, Repertorium. Es könnte aber auch sein Bruder sein https://portal.dnb.de/opacPresentation?cqlMode=true&reset=true&referrerPosition=0&referrerResultId=idn%3D124561365%26any&query=idn%3D122940873  weshalb ich ihn mit cert low getaggt habe",
+    "color": "",
+    "lebensdaten": "",
+    "ndb": "https://www.deutsche-biographie.de/pnd124561365.html#index",
+    "year_of_birth": "1641",
+    "year_of_death": "1712",
+    "wikidata_url": "http://www.wikidata.org/entity/Q20746889",
+    "wikidata_enriched": true,
+    "img_name": "",
+    "img_fetched": true,
+    "img_source": "",
+    "birth_date_written": "",
+    "death_date_written": "",
+    "geschlecht": "",
+    "funktionsbezeichnungen": "dänischer Staatsmann",
+    "unidentifiziert": false,
+    "titel": [
+      {
+        "id": 19696,
+        "value": "Doktor",
+        "color": "light-yellow"
+      }
+    ]
+  },
+  "1115": {
+    "id": 1115,
+    "order": "983.00000000000000000000",
+    "name": "Hessen-Darmstadt, Heinrich von",
+    "gnd": "https://d-nb.info/gnd/1089498950",
+    "other_url": "",
+    "emt_id": "emt_person_id__1115",
+    "internal_comment": "",
+    "color": "",
+    "lebensdaten": "",
+    "ndb": "https://www.deutsche-biographie.de/pnd1089498950.html#index",
+    "year_of_birth": "1674",
+    "year_of_death": "1741",
+    "wikidata_url": "http://www.wikidata.org/entity/Q1599554",
+    "wikidata_enriched": true,
+    "img_name": "",
+    "img_fetched": true,
+    "img_source": "",
+    "birth_date_written": "",
+    "death_date_written": "",
+    "geschlecht": "",
+    "funktionsbezeichnungen": "kaiserlicher General",
+    "unidentifiziert": false,
+    "titel": [
+      {
+        "id": 19700,
+        "value": "Landgraf",
+        "color": "dark-cyan"
+      }
+    ]
+  },
+  "1116": {
+    "id": 1116,
+    "order": "984.00000000000000000000",
+    "name": "Pierucci, Pietro",
+    "gnd": "",
+    "other_url": "",
+    "emt_id": "emt_person_id__1116",
+    "internal_comment": "Repertorium 403, 409: Agent der Pfalz Mai 1685 bis April 1697, Bezug zu München. Suchezky, Abguss-Sammlungen 24: erwähnt ihm mit Vornamen",
+    "color": "",
+    "lebensdaten": "",
+    "ndb": "",
+    "year_of_birth": null,
+    "year_of_death": "1697",
+    "wikidata_url": "",
+    "wikidata_enriched": false,
+    "img_name": "",
+    "img_fetched": false,
+    "img_source": "",
+    "birth_date_written": "",
+    "death_date_written": "",
+    "geschlecht": "",
+    "funktionsbezeichnungen": "pfälzischer Resident in Rom",
+    "unidentifiziert": true,
+    "titel": [
+      {
+        "id": 19745,
+        "value": "Abbate",
+        "color": "dark-cyan"
+      }
+    ]
+  },
+  "1117": {
+    "id": 1117,
+    "order": "985.00000000000000000000",
+    "name": "Fede, Antonio Maria / Macio",
+    "gnd": "",
+    "other_url": "",
+    "emt_id": "emt_person_id__1117",
+    "internal_comment": "",
+    "color": "",
+    "lebensdaten": "",
+    "ndb": "",
+    "year_of_birth": "1649",
+    "year_of_death": "1718",
+    "wikidata_url": "",
+    "wikidata_enriched": false,
+    "img_name": "",
+    "img_fetched": false,
+    "img_source": "",
+    "birth_date_written": "",
+    "death_date_written": "",
+    "geschlecht": "",
+    "funktionsbezeichnungen": "pfälzischer Agent / Resident in Rom",
+    "unidentifiziert": false,
+    "titel": [
+      {
+        "id": 19745,
+        "value": "Abbate",
+        "color": "dark-cyan"
+      }
+    ]
   }
 }

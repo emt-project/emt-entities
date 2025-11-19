@@ -10342,10 +10342,43 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                   <persName type="name">Meistetter (1696 vom Kaiser nach Mainz geschickt worden)</persName>
                </person>
                <person xml:id="emt_person_id__1055">
-                  <persName type="name">Rebenklau (1696, Zusammenhang mit Pater Wiser und Jeßen)</persName>
+                  <persName type="name">Reventlow, Conrad von</persName>
+                  <persName type="title">
+                     <roleName>Graf</roleName>
+                  </persName>
+                  <persName type="function">
+                     <roleName>dänischer geheimer Staatsminister,</roleName>
+                  </persName>
+                  <birth>
+                     <date notBefore="1644-01-01" notAfter="1644-12-31">1644</date>
+                  </birth>
+                  <death>
+                     <date notBefore="1708-01-01" notAfter="1708-12-31">1708</date>
+                  </death>
+                  <idno type="GND">https://d-nb.info/gnd/139110585</idno>
+                  <idno type="NDB">https://www.deutsche-biographie.de/pnd139110585.html#indexcontent</idno>
+                  <idno type="WIKIDATA">http://www.wikidata.org/entity/Q1127094</idno>
+                  <figure>
+                     <graphic url="emt_person_id__1055.jpg"/>
+                     <caption>Conrad Reventlow, grand chancellor.jpg</caption>
+                  </figure>
                </person>
                <person xml:id="emt_person_id__1056">
-                  <persName type="name">Jeßen (1696, Zusammenhang mit Pater Wiser und Rebenklau)</persName>
+                  <persName type="name">Reventlow, Christian Detlef von</persName>
+                  <persName type="title">
+                     <roleName>Graf</roleName>
+                  </persName>
+                  <persName type="function">
+                     <roleName>dänischer und kaiserlicher Offizier</roleName>
+                  </persName>
+                  <birth>
+                     <date notBefore="1671-01-01" notAfter="1671-12-31">1671</date>
+                  </birth>
+                  <death>
+                     <date notBefore="1738-01-01" notAfter="1738-12-31">1738</date>
+                  </death>
+                  <idno type="GND">ttps://d-nb.info/gnd/11645718X</idno>
+                  <idno type="NDB">https://www.deutsche-biographie.de/pnd11645718X.html#indexcontent</idno>
                </person>
                <person xml:id="emt_person_id__1057">
                   <persName type="name">Dr. Francke (1696, Zusammenhang mit dem dänischen Heiratsprojekt)</persName>
@@ -10942,7 +10975,108 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                   </figure>
                </person>
                <person xml:id="emt_person_id__1111">
-                  <persName type="name"/>
+                  <persName type="name">Manderscheid, Karl Ferdinand</persName>
+                  <persName type="title">
+                     <roleName>Graf</roleName>
+                  </persName>
+                  <persName type="function">
+                     <roleName>katholischer Präsident des Reichskammergerichts</roleName>
+                  </persName>
+                  <death>
+                     <date notBefore="1697-01-01" notAfter="1697-12-31">1697</date>
+                  </death>
+                  <idno type="GND">https://d-nb.info/gnd/140446834</idno>
+                  <idno type="NDB">https://www.deutsche-biographie.de/140446834.html#indexcontent</idno>
+                  <idno type="WIKIDATA">http://www.wikidata.org/entity/Q95310718</idno>
+                  <idno type="URL">https://kaiserhof.geschichte.lmu.de/16355</idno>
+               </person>
+               <person xml:id="emt_person_id__1112">
+                  <persName type="name">Gesandter Modenas in Kurpfalz (1697</persName>
+               </person>
+               <person xml:id="emt_person_id__1113">
+                  <persName type="name">Masius, Hector Gottfried</persName>
+                  <persName type="title">
+                     <roleName>Doktor</roleName>
+                  </persName>
+                  <persName type="function">
+                     <roleName>dänischer Hofprediger</roleName>
+                  </persName>
+                  <birth>
+                     <date notBefore="1653-01-01" notAfter="1653-12-31">1653</date>
+                  </birth>
+                  <death>
+                     <date notBefore="1709-01-01" notAfter="1709-12-31">1709</date>
+                  </death>
+                  <idno type="GND">https://d-nb.info/gnd/100206611</idno>
+                  <idno type="NDB">https://www.deutsche-biographie.de/pnd100206611.html#indexcontent</idno>
+                  <idno type="WIKIDATA">http://www.wikidata.org/entity/Q1441548</idno>
+                  <figure>
+                     <graphic url="emt_person_id__1113.jpg"/>
+                     <caption>HectorGottfriedMasius.jpg</caption>
+                  </figure>
+               </person>
+               <person xml:id="emt_person_id__1114">
+                  <persName type="name">Jessen, Matthias</persName>
+                  <persName type="title">
+                     <roleName>Doktor</roleName>
+                  </persName>
+                  <persName type="function">
+                     <roleName>dänischer Staatsmann</roleName>
+                  </persName>
+                  <birth>
+                     <date notBefore="1641-01-01" notAfter="1641-12-31">1641</date>
+                  </birth>
+                  <death>
+                     <date notBefore="1712-01-01" notAfter="1712-12-31">1712</date>
+                  </death>
+                  <idno type="GND">https://d-nb.info/gnd/124561365</idno>
+                  <idno type="NDB">https://www.deutsche-biographie.de/pnd124561365.html#index</idno>
+                  <idno type="WIKIDATA">http://www.wikidata.org/entity/Q20746889</idno>
+               </person>
+               <person xml:id="emt_person_id__1115">
+                  <persName type="name">Hessen-Darmstadt, Heinrich von</persName>
+                  <persName type="title">
+                     <roleName>Landgraf</roleName>
+                  </persName>
+                  <persName type="function">
+                     <roleName>kaiserlicher General</roleName>
+                  </persName>
+                  <birth>
+                     <date notBefore="1674-01-01" notAfter="1674-12-31">1674</date>
+                  </birth>
+                  <death>
+                     <date notBefore="1741-01-01" notAfter="1741-12-31">1741</date>
+                  </death>
+                  <idno type="GND">https://d-nb.info/gnd/1089498950</idno>
+                  <idno type="NDB">https://www.deutsche-biographie.de/pnd1089498950.html#index</idno>
+                  <idno type="WIKIDATA">http://www.wikidata.org/entity/Q1599554</idno>
+               </person>
+               <person xml:id="emt_person_id__1116">
+                  <persName type="name">Pierucci, Pietro</persName>
+                  <persName type="title">
+                     <roleName>Abbate</roleName>
+                  </persName>
+                  <persName type="function">
+                     <roleName>pfälzischer Resident in Rom</roleName>
+                  </persName>
+                  <death>
+                     <date notBefore="1697-01-01" notAfter="1697-12-31">1697</date>
+                  </death>
+               </person>
+               <person xml:id="emt_person_id__1117">
+                  <persName type="name">Fede, Antonio Maria / Macio</persName>
+                  <persName type="title">
+                     <roleName>Abbate</roleName>
+                  </persName>
+                  <persName type="function">
+                     <roleName>pfälzischer Agent / Resident in Rom</roleName>
+                  </persName>
+                  <birth>
+                     <date notBefore="1649-01-01" notAfter="1649-12-31">1649</date>
+                  </birth>
+                  <death>
+                     <date notBefore="1718-01-01" notAfter="1718-12-31">1718</date>
+                  </death>
                </person>
             </listPerson>
          </div>
