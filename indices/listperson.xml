@@ -11078,6 +11078,67 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                      <date notBefore="1718-01-01" notAfter="1718-12-31">1718</date>
                   </death>
                </person>
+               <person xml:id="emt_person_id__1118">
+                  <persName type="name">Brandenburg-Ansbach, Wilhelmine Karoline</persName>
+                  <persName type="title">
+                     <roleName>Markgräfin</roleName>
+                  </persName>
+                  <persName type="title">
+                     <roleName>Königin</roleName>
+                  </persName>
+                  <birth>
+                     <date notBefore="1683-01-01" notAfter="1683-12-31">1683</date>
+                  </birth>
+                  <death>
+                     <date notBefore="1737-01-01" notAfter="1737-12-31">1737</date>
+                  </death>
+               </person>
+               <person xml:id="emt_person_id__1119">
+                  <persName type="name">Sachsen-Meiningen, Ernestine Antonia von</persName>
+                  <persName type="title">
+                     <roleName>Herzogin</roleName>
+                  </persName>
+                  <birth>
+                     <date notBefore="1681-01-01" notAfter="1681-12-31">1681</date>
+                  </birth>
+                  <death>
+                     <date notBefore="1766-01-01" notAfter="1766-12-31">1766</date>
+                  </death>
+                  <idno type="GND">https://d-nb.info/gnd/102181780</idno>
+                  <idno type="WIKIDATA">http://www.wikidata.org/entity/Q99931</idno>
+                  <figure>
+                     <graphic url="emt_person_id__1119.jpg"/>
+                     <caption>Elisabeth Ernestine Antonie.jpg</caption>
+                  </figure>
+               </person>
+               <person xml:id="emt_person_id__1120">
+                  <persName type="name">Gonzaga di Guastalla, Maria Isabella</persName>
+                  <birth>
+                     <date notBefore="1680-01-01" notAfter="1680-12-31">1680</date>
+                  </birth>
+                  <death>
+                     <date notBefore="1726-01-01" notAfter="1726-12-31">1726</date>
+                  </death>
+                  <idno type="URL">https://it.wikipedia.org/wiki/Maria_Isabella_Gonzaga</idno>
+               </person>
+               <person xml:id="emt_person_id__1121">
+                  <persName type="name">Schleswig-Holstein-Gottorf, Marie Elisabeth</persName>
+                  <persName type="title">
+                     <roleName>Herzogin</roleName>
+                  </persName>
+                  <birth>
+                     <date notBefore="1678-01-01" notAfter="1678-12-31">1678</date>
+                  </birth>
+                  <death>
+                     <date notBefore="1755-01-01" notAfter="1755-12-31">1755</date>
+                  </death>
+                  <idno type="GND">https://d-nb.info/gnd/14131852X</idno>
+                  <idno type="WIKIDATA">http://www.wikidata.org/entity/Q70984</idno>
+                  <figure>
+                     <graphic url="emt_person_id__1121.jpg"/>
+                     <caption>QuedlinburgMariaElisabeth.jpg</caption>
+                  </figure>
+               </person>
             </listPerson>
          </div>
       </body>
