@@ -2194,6 +2194,13 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                   </location>
                   <idno type="GEONAMES">https://sws.geonames.org/6557537/</idno>
                </place>
+               <place xml:id="emt_place_id__446">
+                  <placeName>Amsterdam</placeName>
+                  <location type="coords">
+                     <geo>52.37403 4.889690</geo>
+                  </location>
+                  <idno type="GEONAMES">https://sws.geonames.org/2759794/</idno>
+               </place>
             </listPlace>
          </div>
       </body>

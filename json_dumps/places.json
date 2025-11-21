@@ -5083,5 +5083,20 @@
     "alternative_name": "",
     "wikidata_url": "",
     "unidentifiziert": false
+  },
+  "446": {
+    "id": 446,
+    "order": "346.00000000000000000000",
+    "name": "Amsterdam",
+    "geonames": "https://www.geonames.org/2759794/amsterdam.html",
+    "emt_id": "emt_place_id__446",
+    "place_type": null,
+    "lat": "52.37403",
+    "long": "4.889690",
+    "comments intern": "",
+    "gnd": "",
+    "alternative_name": "",
+    "wikidata_url": "",
+    "unidentifiziert": false
   }
 }

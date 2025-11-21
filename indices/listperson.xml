@@ -8079,7 +8079,7 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                   <idno type="URL">https://kaiserhof.geschichte.lmu.de/13280</idno>
                </person>
                <person xml:id="emt_person_id__729">
-                  <persName type="name">Vehlen, Frau von</persName>
+                  <persName type="name">Vehlen / Velen, Frau von</persName>
                </person>
                <person xml:id="emt_person_id__730">
                   <persName type="name">Lezay de Lusignan, Claude Hugues de</persName>
@@ -10101,7 +10101,7 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                   <persName type="name">Groß, Johann</persName>
                </person>
                <person xml:id="emt_person_id__934">
-                  <persName type="name">Siegmund 1695</persName>
+                  <persName type="name">Siegmund / Sigismund 1695</persName>
                   <persName type="title">
                      <roleName>Graf</roleName>
                   </persName>
@@ -11137,6 +11137,78 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                   <figure>
                      <graphic url="emt_person_id__1121.jpg"/>
                      <caption>QuedlinburgMariaElisabeth.jpg</caption>
+                  </figure>
+               </person>
+               <person xml:id="emt_person_id__1122">
+                  <persName type="name">Clermont / Clairmont, NN wird 1697 empfohlen</persName>
+               </person>
+               <person xml:id="emt_person_id__1123">
+                  <persName type="name">Tellier, NN wird 1697/98 mit dem Maler Douven nach Italien geschickt</persName>
+               </person>
+               <person xml:id="emt_person_id__1157">
+                  <persName type="name">Virmond, Hugo Damian von</persName>
+                  <persName type="title">
+                     <roleName>Graf</roleName>
+                  </persName>
+                  <persName type="function">
+                     <roleName>kaiserlicher Offizier</roleName>
+                  </persName>
+                  <birth>
+                     <date notBefore="1666-01-01" notAfter="1666-12-31">1666</date>
+                  </birth>
+                  <death>
+                     <date notBefore="1722-01-01" notAfter="1722-12-31">1722</date>
+                  </death>
+                  <idno type="GND">https://d-nb.info/gnd/102205337</idno>
+                  <idno type="NDB">https://www.deutsche-biographie.de/pnd102205337.html#indexcontent</idno>
+                  <idno type="WIKIDATA">http://www.wikidata.org/entity/Q1158447</idno>
+                  <figure>
+                     <graphic url="emt_person_id__1157.jpg"/>
+                     <caption>Hugo Damian von Virmond.png</caption>
+                  </figure>
+               </person>
+               <person xml:id="emt_person_id__1158">
+                  <persName type="name">Wolfenbüttel, Anton Ulrich von</persName>
+                  <persName type="title">
+                     <roleName>Herzog</roleName>
+                  </persName>
+                  <birth>
+                     <date notBefore="1633-01-01" notAfter="1633-12-31">1633</date>
+                  </birth>
+                  <death>
+                     <date notBefore="1714-01-01" notAfter="1714-12-31">1714</date>
+                  </death>
+                  <idno type="GND">https://d-nb.info/gnd/118503472</idno>
+                  <idno type="NDB">https://www.deutsche-biographie.de/pnd118503472.html#indexcontent</idno>
+                  <idno type="WIKIDATA">http://www.wikidata.org/entity/Q61213</idno>
+                  <figure>
+                     <graphic url="emt_person_id__1158.jpg"/>
+                     <caption>Christoph Bernhard Francke - Herzog Anton Ulrich von Braunschweig (1633-1714).jpg</caption>
+                  </figure>
+               </person>
+               <person xml:id="emt_person_id__1156">
+                  <persName type="name"/>
+               </person>
+               <person xml:id="emt_person_id__1159">
+                  <persName type="name">Hessen-Darmstadt, Friedrich von</persName>
+                  <persName type="title">
+                     <roleName>Landgraf</roleName>
+                  </persName>
+                  <persName type="function">
+                     <roleName>kaiserlicher General</roleName>
+                  </persName>
+                  <birth>
+                     <date notBefore="1669-01-01" notAfter="1669-12-31">1669</date>
+                  </birth>
+                  <death>
+                     <date notBefore="1705-01-01" notAfter="1705-12-31">1705</date>
+                  </death>
+                  <idno type="GND">https://d-nb.info/gnd/128670606</idno>
+                  <idno type="NDB">https://www.deutsche-biographie.de/pnd128670606.html#indexcontent</idno>
+                  <idno type="WIKIDATA">http://www.wikidata.org/entity/Q689289</idno>
+                  <figure>
+                     <graphic url="emt_person_id__1159.jpg"/>
+                     <caption>After Thomas Murray - George of Hesse-Darmstadt - Government Art Collection.jpg</caption>
                   </figure>
                </person>
             </listPerson>
