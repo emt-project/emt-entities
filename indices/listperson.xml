@@ -11187,7 +11187,21 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                   </figure>
                </person>
                <person xml:id="emt_person_id__1156">
-                  <persName type="name"/>
+                  <persName type="name">Dietrichstein, Franz von</persName>
+                  <persName type="title">
+                     <roleName>Graf</roleName>
+                  </persName>
+                  <persName type="function">
+                     <roleName>kaiserlicher Offizier</roleName>
+                  </persName>
+                  <birth>
+                     <date notBefore="1667-01-01" notAfter="1667-12-31">1667</date>
+                  </birth>
+                  <death>
+                     <date notBefore="1702-01-01" notAfter="1702-12-31">1702</date>
+                  </death>
+                  <idno type="GND">https://d-nb.info/gnd/121735963X</idno>
+                  <idno type="NDB">https://www.deutsche-biographie.de/pnd121735963X.html#index</idno>
                </person>
                <person xml:id="emt_person_id__1159">
                   <persName type="name">Hessen-Darmstadt, Friedrich von</persName>
@@ -11210,6 +11224,82 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                      <graphic url="emt_person_id__1159.jpg"/>
                      <caption>After Thomas Murray - George of Hesse-Darmstadt - Government Art Collection.jpg</caption>
                   </figure>
+               </person>
+               <person xml:id="emt_person_id__1160">
+                  <persName type="name">Nassau, NN von, soll 1697 "die Hohenlohe" heiraten</persName>
+                  <persName type="title">
+                     <roleName>Fürst</roleName>
+                  </persName>
+               </person>
+               <person xml:id="emt_person_id__1161">
+                  <persName type="name">Gräz, NN, berichtet 1697 der Kaiserin über das Befinden Kurfüst Johann Wilhelms</persName>
+                  <persName type="title">
+                     <roleName>Pater</roleName>
+                  </persName>
+               </person>
+               <person xml:id="emt_person_id__1162">
+                  <persName type="name">Althann, NN, 1697 in Wien</persName>
+               </person>
+               <person xml:id="emt_person_id__1163">
+                  <persName type="name">Ehemann der Althann, NN 1697</persName>
+               </person>
+               <person xml:id="emt_person_id__1164">
+                  <persName type="name">Wachtendonck, Edmund Dietrich von</persName>
+                  <persName type="function">
+                     <roleName>Domherr in Osnabrück</roleName>
+                  </persName>
+                  <death>
+                     <date notBefore="1735-01-01" notAfter="1735-12-31">1735</date>
+                  </death>
+                  <idno type="URL">https://www.google.at/books/edition/J%C3%A4hrliches_genealogisches_Hand_Buch/PqRAAAAAcAAJ?hl=de&amp;gbpv=1&amp;dq=Wachtendonck+Edmund+Dietrich&amp;pg=PA186&amp;printsec=frontcover</idno>
+               </person>
+               <person xml:id="emt_person_id__1165">
+                  <persName type="name">Wachtendonck, Karl Franz von</persName>
+                  <persName type="function">
+                     <roleName>Domherr in Osnabrück</roleName>
+                  </persName>
+                  <death>
+                     <date notBefore="1731-01-01" notAfter="1731-12-31">1731</date>
+                  </death>
+                  <idno type="URL">https://personendatenbank.germania-sacra.de/persons/index?name=karl+franz+von+wachtendonck</idno>
+               </person>
+               <person xml:id="emt_person_id__1166">
+                  <persName type="name">Lothringen, Franz Anton von</persName>
+                  <persName type="title">
+                     <roleName>Herzog</roleName>
+                  </persName>
+                  <birth>
+                     <date notBefore="1689-01-01" notAfter="1689-12-31">1689</date>
+                  </birth>
+                  <death>
+                     <date notBefore="1715-01-01" notAfter="1715-12-31">1715</date>
+                  </death>
+                  <idno type="GND">https://d-nb.info/gnd/137674465</idno>
+                  <idno type="NDB">https://www.deutsche-biographie.de/pnd137674465.html#indexcontent</idno>
+                  <idno type="WIKIDATA">http://www.wikidata.org/entity/Q1447395</idno>
+               </person>
+               <person xml:id="emt_person_id__1167">
+                  <persName type="name">Garelli, Johann Baptist</persName>
+                  <persName type="title">
+                     <roleName>Doktor</roleName>
+                  </persName>
+                  <persName type="function">
+                     <roleName>Arzt</roleName>
+                  </persName>
+                  <birth>
+                     <date notBefore="1649-01-01" notAfter="1649-12-31">1649</date>
+                  </birth>
+                  <death>
+                     <date notBefore="1732-01-01" notAfter="1732-12-31">1732</date>
+                  </death>
+                  <idno type="GND">https://d-nb.info/gnd/1055728007</idno>
+                  <idno type="WIKIDATA">http://www.wikidata.org/entity/Q67200161</idno>
+               </person>
+               <person xml:id="emt_person_id__1168">
+                  <persName type="name">Botschet, NN, Memorial 1697</persName>
+                  <persName type="function">
+                     <roleName>Offizier</roleName>
+                  </persName>
                </person>
             </listPerson>
          </div>

@@ -299,5 +299,19 @@
     "name": "Wetterauischer Kreis",
     "gnd": "",
     "emt_id": "emt_institution_id__75"
+  },
+  "107": {
+    "id": 107,
+    "order": "44.00000000000000000000",
+    "name": "Kurrheinischer Kreis",
+    "gnd": "",
+    "emt_id": "emt_institution_id__107"
+  },
+  "108": {
+    "id": 108,
+    "order": "45.00000000000000000000",
+    "name": "Zisterzienserinnenkloster in Burtscheid (heute Aachen)",
+    "gnd": "",
+    "emt_id": "emt_institution_id__108"
   }
 }
