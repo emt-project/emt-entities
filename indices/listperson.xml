@@ -1123,7 +1123,7 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                <person xml:id="emt_person_id__71">
                   <persName type="name">Nesselrode-Ehreshoven, Wilhelm Franz von</persName>
                   <persName type="function">
-                     <roleName>Domherr in Münster, Paderborn und Lüttich</roleName>
+                     <roleName>Domherr in Münster, Paderborn und Lüttich, Domküster in Münster, Diplomat, Bischof in Fünfkirchen</roleName>
                   </persName>
                   <birth>
                      <date notBefore="1638-01-01" notAfter="1638-12-31">1638</date>
@@ -11143,7 +11143,7 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                   <persName type="name">Clermont / Clairmont, NN wird 1697 empfohlen</persName>
                </person>
                <person xml:id="emt_person_id__1123">
-                  <persName type="name">Tellier, NN wird 1697/98 mit dem Maler Douven nach Italien geschickt</persName>
+                  <persName type="name">Tellier(s), NN wird 1697/98 mit dem Maler Douven nach Italien geschickt</persName>
                </person>
                <person xml:id="emt_person_id__1157">
                   <persName type="name">Virmond, Hugo Damian von</persName>
@@ -11300,6 +11300,53 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                   <persName type="function">
                      <roleName>Offizier</roleName>
                   </persName>
+               </person>
+               <person xml:id="emt_person_id__1169">
+                  <persName type="name">Bergomi, Giovanni Francesco</persName>
+                  <death>
+                     <date notBefore="1718-01-01" notAfter="1718-12-31">1718</date>
+                  </death>
+                  <idno type="URL">https://www.treccani.it/enciclopedia/giovan-francesco-bergomi_(Dizionario-Biografico)/</idno>
+               </person>
+               <person xml:id="emt_person_id__1170">
+                  <persName type="name">Pfalz-Birkenfeld, Haus</persName>
+               </person>
+               <person xml:id="emt_person_id__1171">
+                  <persName type="name">Pfalz-Sulzbach, Haus</persName>
+               </person>
+               <person xml:id="emt_person_id__1172">
+                  <persName type="name">Pfalz-Zweibrücken-Birkenfeld, Christian II.</persName>
+                  <persName type="title">
+                     <roleName>Pfalzgraf</roleName>
+                  </persName>
+                  <birth>
+                     <date notBefore="1637-01-01" notAfter="1637-12-31">1637</date>
+                  </birth>
+                  <death>
+                     <date notBefore="1717-01-01" notAfter="1717-12-31">1717</date>
+                  </death>
+                  <idno type="GND">https://d-nb.info/gnd/120188651</idno>
+                  <idno type="NDB">https://www.deutsche-biographie.de/pnd120188651.html#index</idno>
+                  <idno type="WIKIDATA">http://www.wikidata.org/entity/Q65139</idno>
+                  <figure>
+                     <graphic url="emt_person_id__1172.jpg"/>
+                     <caption>Christian II. (Pfalz-Zweibrücken-Birkenfeld).jpeg</caption>
+                  </figure>
+               </person>
+               <person xml:id="emt_person_id__1173">
+                  <persName type="name">Waßenhoffen, NN (Pater, 1698 in Wien)</persName>
+               </person>
+               <person xml:id="emt_person_id__1174">
+                  <persName type="name">Forstmeister von Gelnhausen, Philipp Benedikt  von</persName>
+                  <persName type="function">
+                     <roleName>Deutschordensritter, Landkomtur der Ballei Franken 1702–1716</roleName>
+                  </persName>
+                  <birth>
+                     <date notBefore="1649-01-01" notAfter="1649-12-31">1649</date>
+                  </birth>
+                  <death>
+                     <date notBefore="1716-01-01" notAfter="1716-12-31">1716</date>
+                  </death>
                </person>
             </listPerson>
          </div>

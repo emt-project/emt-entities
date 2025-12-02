@@ -5098,5 +5098,20 @@
     "alternative_name": "",
     "wikidata_url": "",
     "unidentifiziert": false
+  },
+  "447": {
+    "id": 447,
+    "order": "347.00000000000000000000",
+    "name": "Hessen-Homburg, Landgrafschaft",
+    "geonames": "",
+    "emt_id": "emt_place_id__447",
+    "place_type": null,
+    "lat": null,
+    "long": null,
+    "comments intern": "",
+    "gnd": "",
+    "alternative_name": "",
+    "wikidata_url": "https://www.wikidata.org/wiki/Q694269",
+    "unidentifiziert": false
   }
 }
