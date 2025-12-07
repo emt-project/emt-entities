@@ -11348,6 +11348,27 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                      <date notBefore="1716-01-01" notAfter="1716-12-31">1716</date>
                   </death>
                </person>
+               <person xml:id="emt_person_id__1207">
+                  <persName type="name">Arenberg, Maria Henrietta von, geb. Carretto di Grana</persName>
+                  <persName type="title">
+                     <roleName>Herzogin</roleName>
+                  </persName>
+                  <persName type="function">
+                     <roleName>Herzogin von Arenberg, Croy und Aarschot</roleName>
+                  </persName>
+                  <birth>
+                     <date notBefore="1671-01-01" notAfter="1671-12-31">1671</date>
+                  </birth>
+                  <death>
+                     <date notBefore="1744-01-01" notAfter="1744-12-31">1744</date>
+                  </death>
+                  <idno type="WIKIDATA">http://www.wikidata.org/entity/Q76263171</idno>
+                  <idno type="URL">https://habsmon.hypotheses.org/367</idno>
+                  <figure>
+                     <graphic url="emt_person_id__1207.jpg"/>
+                     <caption>Portret van Maria Enrichetta Del Carretto (1671-1744).jpg</caption>
+                  </figure>
+               </person>
             </listPerson>
          </div>
       </body>

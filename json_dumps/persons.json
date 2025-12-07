@@ -27278,5 +27278,36 @@
     "funktionsbezeichnungen": "Deutschordensritter, Landkomtur der Ballei Franken 1702–1716",
     "unidentifiziert": false,
     "titel": []
+  },
+  "1207": {
+    "id": 1207,
+    "order": "1012.00000000000000000000",
+    "name": "Arenberg, Maria Henrietta von, geb. Carretto di Grana",
+    "gnd": "",
+    "other_url": "https://habsmon.hypotheses.org/367",
+    "emt_id": "emt_person_id__1207",
+    "internal_comment": "",
+    "color": "",
+    "lebensdaten": "",
+    "ndb": "",
+    "year_of_birth": "1671",
+    "year_of_death": "1744",
+    "wikidata_url": "https://www.wikidata.org/wiki/Q76263171",
+    "wikidata_enriched": false,
+    "img_name": "Portret van Maria Enrichetta Del Carretto (1671-1744).jpg",
+    "img_fetched": true,
+    "img_source": "commonsMedia",
+    "birth_date_written": "",
+    "death_date_written": "",
+    "geschlecht": "",
+    "funktionsbezeichnungen": "Herzogin von Arenberg, Croy und Aarschot",
+    "unidentifiziert": false,
+    "titel": [
+      {
+        "id": 19691,
+        "value": "Herzogin",
+        "color": "light-brown"
+      }
+    ]
   }
 }
