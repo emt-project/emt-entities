@@ -891,6 +891,9 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                   <persName type="title">
                      <roleName>Pater</roleName>
                   </persName>
+                  <persName type="function">
+                     <roleName>Beichtvater von Johann Wihelm von Pfalz-Neuburg ab 1697</roleName>
+                  </persName>
                   <death>
                      <date notBefore="1722-01-01" notAfter="1722-12-31">1722</date>
                   </death>
@@ -6292,7 +6295,7 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                      <roleName>Pater</roleName>
                   </persName>
                   <persName type="function">
-                     <roleName>Beichtvater der Kurfürstin von der Pfalz</roleName>
+                     <roleName>Beichtvater Philipp Wilhelms und Elisabeth Amalias von Pfalz-Neuburg</roleName>
                   </persName>
                   <birth>
                      <date notBefore="1629-01-01" notAfter="1629-12-31">1629</date>
@@ -6770,7 +6773,7 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                <person xml:id="emt_person_id__601">
                   <persName type="name">Eck von Hungersbach, Christian</persName>
                   <persName type="function">
-                     <roleName>Reichshofrat, Diplomat</roleName>
+                     <roleName>Reichshofrat, Diplomat, kaiserlicher und pfalz-neuburgischer Kämmerer</roleName>
                   </persName>
                   <birth>
                      <date notBefore="1645-01-01" notAfter="1645-12-31">1645</date>
@@ -8243,7 +8246,7 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                   <persName type="name">Yvelin de Roquemont, Sieur 1688</persName>
                </person>
                <person xml:id="emt_person_id__748">
-                  <persName type="name">Waßenhofen (Wisenhoffen), Pater, 1688 in Wien</persName>
+                  <persName type="name">Wassenhoven (Wisenhoffen), Pater, 1688 in Wien</persName>
                </person>
                <person xml:id="emt_person_id__749">
                   <persName type="name">Frydag (Freitag) von Gödens, Haro Burchard</persName>
@@ -9300,6 +9303,9 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                </person>
                <person xml:id="emt_person_id__829">
                   <persName type="name">Hedera, Pater 1695 (wohl vormals Beichtvater von Herzog Karl V. von Lothringen)</persName>
+                  <persName type="title">
+                     <roleName>Pater</roleName>
+                  </persName>
                   <persName type="function">
                      <roleName>Jesuit</roleName>
                   </persName>
@@ -9771,6 +9777,9 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                </person>
                <person xml:id="emt_person_id__866">
                   <persName type="name">Pater Rektor der Jesuiten in Neuburg 1690</persName>
+                  <persName type="title">
+                     <roleName>Pater</roleName>
+                  </persName>
                </person>
                <person xml:id="emt_person_id__867">
                   <persName type="name">Sapieha, Michael Franz</persName>
@@ -9938,6 +9947,9 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                   <persName type="name">Waldstein, Karl Ernst von</persName>
                   <persName type="title">
                      <roleName>Graf</roleName>
+                  </persName>
+                  <persName type="function">
+                     <roleName>kaiserlicher Diplomat</roleName>
                   </persName>
                   <birth>
                      <date notBefore="1661-01-01" notAfter="1661-12-31">1661</date>
@@ -10699,7 +10711,7 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                   </death>
                </person>
                <person xml:id="emt_person_id__1089">
-                  <persName type="name">portugiesischer Gesandter (wohl nicht Ligne 1696</persName>
+                  <persName type="name">portugiesischer Gesandter (wohl nicht Ligne, 1696)</persName>
                </person>
                <person xml:id="emt_person_id__1090">
                   <persName type="name">Bayern, Joseph Ferdinand Leopold von</persName>
@@ -11334,7 +11346,10 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                   </figure>
                </person>
                <person xml:id="emt_person_id__1173">
-                  <persName type="name">Waßenhoffen, NN (Pater, 1698 in Wien)</persName>
+                  <persName type="name">Pater Lukas (reist 1698 nach Düsseldorf)</persName>
+                  <persName type="title">
+                     <roleName>Pater</roleName>
+                  </persName>
                </person>
                <person xml:id="emt_person_id__1174">
                   <persName type="name">Forstmeister von Gelnhausen, Philipp Benedikt  von</persName>
@@ -11368,6 +11383,55 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                      <graphic url="emt_person_id__1207.jpg"/>
                      <caption>Portret van Maria Enrichetta Del Carretto (1671-1744).jpg</caption>
                   </figure>
+               </person>
+               <person xml:id="emt_person_id__1208">
+                  <persName type="name">Gymnich zu Vlatten, Konstantin Werner</persName>
+                  <persName type="function">
+                     <roleName>Domherr in Hildesheim und Lüttich</roleName>
+                  </persName>
+                  <death>
+                     <date notBefore="1713-01-01" notAfter="1713-12-31">1713</date>
+                  </death>
+               </person>
+               <person xml:id="emt_person_id__1209">
+                  <persName type="name">Wolf von Metternich, Franz Arnold von</persName>
+                  <persName type="function">
+                     <roleName>Domprobst von Osnabrück</roleName>
+                  </persName>
+                  <birth>
+                     <date notBefore="1658-01-01" notAfter="1658-12-31">1658</date>
+                  </birth>
+                  <death>
+                     <date notBefore="1718-01-01" notAfter="1718-12-31">1718</date>
+                  </death>
+                  <idno type="GND">https://d-nb.info/gnd/116752572</idno>
+                  <idno type="NDB">https://www.deutsche-biographie.de/sfz047_00043_1.html</idno>
+                  <idno type="WIKIDATA">http://www.wikidata.org/entity/Q108305</idno>
+                  <figure>
+                     <graphic url="emt_person_id__1209.jpg"/>
+                     <caption>FBPB 23 Franz Arnold von Wolff-Metternich zur Gracht (1704–1718).jpg</caption>
+                  </figure>
+               </person>
+               <person xml:id="emt_person_id__1210">
+                  <persName type="name">Sousa Pacheco, Francisco de</persName>
+                  <persName type="function">
+                     <roleName>portugiesischer Botschafter in Wien April/Mai 1698</roleName>
+                  </persName>
+               </person>
+               <person xml:id="emt_person_id__1211">
+                  <persName type="name">Pecori (1698 empfohlen)</persName>
+               </person>
+               <person xml:id="emt_person_id__1212">
+                  <persName type="name">NN (Beichtvater Elisabeth Amalias von Pfalz-Neuburg 1698)</persName>
+               </person>
+               <person xml:id="emt_person_id__1213">
+                  <persName type="name">Pater Hilair (1698)</persName>
+                  <persName type="title">
+                     <roleName>Pater</roleName>
+                  </persName>
+               </person>
+               <person xml:id="emt_person_id__1214">
+                  <persName type="name"/>
                </person>
             </listPerson>
          </div>

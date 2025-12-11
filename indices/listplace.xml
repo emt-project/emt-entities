@@ -2204,6 +2204,14 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                <place xml:id="emt_place_id__447">
                   <placeName>Hessen-Homburg, Landgrafschaft</placeName>
                </place>
+               <place xml:id="emt_place_id__480">
+                  <placeName>Lauterecken, Amt</placeName>
+                  <location type="coords">
+                     <geo>49.64993 7.592650</geo>
+                  </location>
+                  <idno type="GEONAMES">https://sws.geonames.org/2879895/</idno>
+                  <idno type="GND">https://d-nb.info/gnd/4384544-7</idno>
+               </place>
             </listPlace>
          </div>
       </body>

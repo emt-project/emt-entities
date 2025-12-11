@@ -5113,5 +5113,20 @@
     "alternative_name": "",
     "wikidata_url": "https://www.wikidata.org/wiki/Q694269",
     "unidentifiziert": false
+  },
+  "480": {
+    "id": 480,
+    "order": "348.00000000000000000000",
+    "name": "Lauterecken, Amt",
+    "geonames": "https://www.geonames.org/2879895/lauterecken.html",
+    "emt_id": "emt_place_id__480",
+    "place_type": null,
+    "lat": "49.64993",
+    "long": "7.592650",
+    "comments intern": "",
+    "gnd": "https://d-nb.info/gnd/4384544-7",
+    "alternative_name": "",
+    "wikidata_url": "",
+    "unidentifiziert": false
   }
 }

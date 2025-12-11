@@ -1459,7 +1459,7 @@
     "gnd": "",
     "other_url": "",
     "emt_id": "emt_person_id__52",
-    "internal_comment": "Duhr, Jesuiten, Band 3, S. 872. vgl. Krieger, „Eine kaiserliche Brautwerbung in Kopenhagen 1697“. S. 166: JW schickte im Dez. 1696 einen Jesuiten „aus seiner Umgebung“ namens Karl von Pottier zur Bekehrung der Prinzessin nach Dänemark; der Artikel wertet dessen Berichte aus. Feldkamp, „Der Nachlass des Komponisten, Diplomaten und Bischofs Agostino Steffani (1654-1728) im Archiv der Propaganda Fide“, 308.: Pottier, Karl, SJ,kurpfälzischer Hofbeichtvater von Johann Wilhelm von der Pfalz, Missionar in Hannover; gest. 1722 in Trier. War offenbar Korrespondent von Steffani.",
+    "internal_comment": "Duhr, Jesuiten, Band 3, S. 872. vgl. Krieger, „Eine kaiserliche Brautwerbung in Kopenhagen 1697“. S. 166: JW schickte im Dez. 1696 einen Jesuiten „aus seiner Umgebung“ namens Karl von Pottier zur Bekehrung der Prinzessin nach Dänemark; der Artikel wertet dessen Berichte aus. Feldkamp, „Der Nachlass des Komponisten, Diplomaten und Bischofs Agostino Steffani (1654-1728) im Archiv der Propaganda Fide“, 308.: Pottier, Karl, SJ,kurpfälzischer Hofbeichtvater von Johann Wilhelm von der Pfalz, Missionar in Hannover; gest. 1722 in Trier. War offenbar Korrespondent von Steffani.   Duhr: Pottier war Luxemburger, blieb 10 Jahre Beichtvater JWs",
     "color": null,
     "lebensdaten": null,
     "ndb": "",
@@ -1473,7 +1473,7 @@
     "birth_date_written": null,
     "death_date_written": null,
     "geschlecht": null,
-    "funktionsbezeichnungen": "",
+    "funktionsbezeichnungen": "Beichtvater von Johann Wihelm von Pfalz-Neuburg ab 1697",
     "unidentifiziert": false,
     "titel": [
       {
@@ -13267,7 +13267,7 @@
     "gnd": "https://d-nb.info/gnd/118529935",
     "other_url": "",
     "emt_id": "emt_person_id__491",
-    "internal_comment": "",
+    "internal_comment": "Lieselotte von der Pfalz",
     "color": "",
     "lebensdaten": "",
     "ndb": "https://www.deutsche-biographie.de/sfz39180.html#index",
@@ -14654,7 +14654,7 @@
     "birth_date_written": "",
     "death_date_written": "",
     "geschlecht": "",
-    "funktionsbezeichnungen": "Beichtvater der Kurfürstin von der Pfalz",
+    "funktionsbezeichnungen": "Beichtvater Philipp Wilhelms und Elisabeth Amalias von Pfalz-Neuburg",
     "unidentifiziert": false,
     "titel": [
       {
@@ -15499,7 +15499,7 @@
     "gnd": "https://d-nb.info/gnd/136846564",
     "other_url": "",
     "emt_id": "emt_person_id__583",
-    "internal_comment": "lt. Leitgeb 54 auch kurz Heiratskandidatin für Joseph I., deshalb in JW 29.05.1697 bei Prinzessin Darmstadt getaggt",
+    "internal_comment": "lt. Leitgeb 54 auch kurz Heiratskandidatin für Joseph I., deshalb in JW 29.05.1697 bei Prinzessin Darmstadt getaggt und in EMT 1698.05.31 für die Prinzessin, die Maria Anna pusht, was lt. Leitgeb nämlich passiert.",
     "color": "",
     "lebensdaten": "",
     "ndb": "https://www.deutsche-biographie.de/pnd136846564.html#indexcontent",
@@ -15998,7 +15998,7 @@
     "birth_date_written": "",
     "death_date_written": "",
     "geschlecht": "",
-    "funktionsbezeichnungen": "Reichshofrat, Diplomat",
+    "funktionsbezeichnungen": "Reichshofrat, Diplomat, kaiserlicher und pfalz-neuburgischer Kämmerer",
     "unidentifiziert": false,
     "titel": []
   },
@@ -19901,11 +19901,11 @@
   "748": {
     "id": 748,
     "order": "743.00000000000000000000",
-    "name": "Waßenhofen (Wisenhoffen), Pater, 1688 in Wien",
+    "name": "Wassenhoven (Wisenhoffen), Pater, 1688 in Wien",
     "gnd": "",
     "other_url": "",
     "emt_id": "emt_person_id__748",
-    "internal_comment": "gibt sein Urteil ab in HInblick auf die nach dem Tod des Kurfürsten in Köln anstehende Wahl eines Nachfolgers, Juni 1688 ist W. in Wien; wird im März 1689 in Wien erwartet\nschreibt im April 1689 ein Gutachten in Wien wegen portugiesischer Sache ab",
+    "internal_comment": "gibt sein Urteil ab in Hinblick auf die nach dem Tod des Kurfürsten in Köln anstehende Wahl eines Nachfolgers, Juni 1688 ist W. in Wien; wird im März 1689 in Wien erwartet\nschreibt im April 1689 ein Gutachten in Wien wegen portugiesischer Sache ab.  EMT lässt ihn 1698 kommen anscheinend wg. Lebenswandel der Brüder Franz Ludwig und Karl samt Forstmeister in Schlesiennichts Passendes bei Lau oder VieCPro gefunden. In Duhr Bd. 3, S. 64 wird ein Jesuitenrektor Ignaz Wassenhoven erwähnt, aber unklar, wo Rektor. Googlesuche: scheints 1638-1714, publiziert hat er auch, aber nichts Gescheites zu finden",
     "color": "",
     "lebensdaten": "",
     "ndb": "",
@@ -22184,7 +22184,13 @@
     "geschlecht": "",
     "funktionsbezeichnungen": "Jesuit",
     "unidentifiziert": false,
-    "titel": []
+    "titel": [
+      {
+        "id": 19694,
+        "value": "Pater",
+        "color": "yellow"
+      }
+    ]
   },
   "830": {
     "id": 830,
@@ -23204,7 +23210,13 @@
     "geschlecht": "",
     "funktionsbezeichnungen": "",
     "unidentifiziert": true,
-    "titel": []
+    "titel": [
+      {
+        "id": 19694,
+        "value": "Pater",
+        "color": "yellow"
+      }
+    ]
   },
   "867": {
     "id": 867,
@@ -23610,7 +23622,7 @@
     "gnd": "https://d-nb.info/gnd/136864414",
     "other_url": "",
     "emt_id": "emt_person_id__881",
-    "internal_comment": "",
+    "internal_comment": "er bekam dann wirklich den Posten als außerordentlicher Gesandter, den JW 22.03.1698 erwähnt und lieber für Sinzendorf will. Später Obersthofmeister Wilh.Am. u.a.",
     "color": "",
     "lebensdaten": "",
     "ndb": "https://www.deutsche-biographie.de/sfz60601.html#index",
@@ -23624,7 +23636,7 @@
     "birth_date_written": "",
     "death_date_written": "",
     "geschlecht": "",
-    "funktionsbezeichnungen": "",
+    "funktionsbezeichnungen": "kaiserlicher Diplomat",
     "unidentifiziert": false,
     "titel": [
       {
@@ -25765,7 +25777,7 @@
   "1089": {
     "id": 1089,
     "order": "957.00000000000000000000",
-    "name": "portugiesischer Gesandter (wohl nicht Ligne 1696",
+    "name": "portugiesischer Gesandter (wohl nicht Ligne, 1696)",
     "gnd": "",
     "other_url": "",
     "emt_id": "emt_person_id__1089",
@@ -26912,7 +26924,7 @@
     "gnd": "",
     "other_url": "",
     "emt_id": "emt_person_id__1161",
-    "internal_comment": "nichts Passendes bei Lau oder VieCPro gefunden",
+    "internal_comment": "",
     "color": "",
     "lebensdaten": "",
     "ndb": "",
@@ -26927,7 +26939,7 @@
     "death_date_written": "",
     "geschlecht": "",
     "funktionsbezeichnungen": "",
-    "unidentifiziert": true,
+    "unidentifiziert": false,
     "titel": [
       {
         "id": 19694,
@@ -27232,18 +27244,18 @@
   "1173": {
     "id": 1173,
     "order": "1010.00000000000000000000",
-    "name": "Waßenhoffen, NN (Pater, 1698 in Wien)",
+    "name": "Pater Lukas (reist 1698 nach Düsseldorf)",
     "gnd": "",
     "other_url": "",
     "emt_id": "emt_person_id__1173",
-    "internal_comment": "EMT lässt ihn 1698 kommen anscheinend wg. Lebenswandel der Brüder Franz Ludwig und Karl samt Forstmeister in Schlesien",
+    "internal_comment": "",
     "color": "",
     "lebensdaten": "",
     "ndb": "",
     "year_of_birth": null,
     "year_of_death": null,
     "wikidata_url": "",
-    "wikidata_enriched": false,
+    "wikidata_enriched": true,
     "img_name": "",
     "img_fetched": false,
     "img_source": "",
@@ -27251,8 +27263,14 @@
     "death_date_written": "",
     "geschlecht": "",
     "funktionsbezeichnungen": "",
-    "unidentifiziert": true,
-    "titel": []
+    "unidentifiziert": false,
+    "titel": [
+      {
+        "id": 19694,
+        "value": "Pater",
+        "color": "yellow"
+      }
+    ]
   },
   "1174": {
     "id": 1174,
@@ -27309,5 +27327,186 @@
         "color": "light-brown"
       }
     ]
+  },
+  "1208": {
+    "id": 1208,
+    "order": "1013.00000000000000000000",
+    "name": "Gymnich zu Vlatten, Konstantin Werner",
+    "gnd": "",
+    "other_url": "",
+    "emt_id": "emt_person_id__1208",
+    "internal_comment": "Wolf, Die Reichskirchenpolitik des Hauses Lothringen (1680 - 1715), 69–70.: JW schickte den Lütticher Domherren Konstantin Werner Gymnich zu Vlatten nach Osnabrück, um Hzg. Karl von Lothringen zu unterstützen. Hersche, Die deutschen Domkapitel im 17. und 18. Jahrhundert. Bd. 1, S. 121. https://rep.adw-goe.de/bitstream/handle/11858/2418/PS1_Hildesheim.pdf?sequence=6",
+    "color": "",
+    "lebensdaten": "",
+    "ndb": "",
+    "year_of_birth": null,
+    "year_of_death": "1713",
+    "wikidata_url": "",
+    "wikidata_enriched": false,
+    "img_name": "",
+    "img_fetched": false,
+    "img_source": "",
+    "birth_date_written": "",
+    "death_date_written": "",
+    "geschlecht": "",
+    "funktionsbezeichnungen": "Domherr in Hildesheim und Lüttich",
+    "unidentifiziert": false,
+    "titel": []
+  },
+  "1209": {
+    "id": 1209,
+    "order": "1014.00000000000000000000",
+    "name": "Wolf von Metternich, Franz Arnold von",
+    "gnd": "https://d-nb.info/gnd/116752572",
+    "other_url": "",
+    "emt_id": "emt_person_id__1209",
+    "internal_comment": "später Bischof von Münster und Paderborn. https://personendatenbank.germania-sacra.de/index/gnd/116752572  Hersche, Domkapitel 293",
+    "color": "",
+    "lebensdaten": "",
+    "ndb": "https://www.deutsche-biographie.de/sfz047_00043_1.html",
+    "year_of_birth": "1658",
+    "year_of_death": "1718",
+    "wikidata_url": "http://www.wikidata.org/entity/Q108305",
+    "wikidata_enriched": true,
+    "img_name": "FBPB 23 Franz Arnold von Wolff-Metternich zur Gracht (1704–1718).jpg",
+    "img_fetched": true,
+    "img_source": "commonsMedia",
+    "birth_date_written": "",
+    "death_date_written": "",
+    "geschlecht": "",
+    "funktionsbezeichnungen": "Domprobst von Osnabrück",
+    "unidentifiziert": false,
+    "titel": []
+  },
+  "1210": {
+    "id": 1210,
+    "order": "1015.00000000000000000000",
+    "name": "Sousa Pacheco, Francisco de",
+    "gnd": "",
+    "other_url": "",
+    "emt_id": "emt_person_id__1210",
+    "internal_comment": "lt. Wikipedia-Liste https://de.wikipedia.org/wiki/Liste_der_portugiesischen_Botschafter_in_%C3%96sterreich   Lt. Bittner, Repertorium 430 war er bis Feb. 1698 in Den Haag, über einen Besuch in Wien steht dort nichts - aber klingt plausibel, dass er nach Abreise von Den Haag kurz mal nach Wien ist. Carvalho, o Manuel Oliveira de. „Portuguese Diplomatic Correspondence and Information Channels During the War of the Spanish Succession“. Legatio: The Journal for Renaissance and Early Modern Diplomatic Studies, Nr. 2 (2018): 5–28 (Zotero) hat leider auch keine Lebensdaten. Er war dann in den 1700ern wieder in Den Haag, Korrespondenzen erhalten",
+    "color": "",
+    "lebensdaten": "",
+    "ndb": "",
+    "year_of_birth": null,
+    "year_of_death": null,
+    "wikidata_url": "",
+    "wikidata_enriched": false,
+    "img_name": "",
+    "img_fetched": false,
+    "img_source": "",
+    "birth_date_written": "",
+    "death_date_written": "",
+    "geschlecht": "",
+    "funktionsbezeichnungen": "portugiesischer Botschafter in Wien April/Mai 1698",
+    "unidentifiziert": true,
+    "titel": []
+  },
+  "1211": {
+    "id": 1211,
+    "order": "1016.00000000000000000000",
+    "name": "Pecori (1698 empfohlen)",
+    "gnd": "",
+    "other_url": "",
+    "emt_id": "emt_person_id__1211",
+    "internal_comment": "",
+    "color": "",
+    "lebensdaten": "",
+    "ndb": "",
+    "year_of_birth": null,
+    "year_of_death": null,
+    "wikidata_url": "",
+    "wikidata_enriched": false,
+    "img_name": "",
+    "img_fetched": false,
+    "img_source": "",
+    "birth_date_written": "",
+    "death_date_written": "",
+    "geschlecht": "",
+    "funktionsbezeichnungen": "",
+    "unidentifiziert": true,
+    "titel": []
+  },
+  "1212": {
+    "id": 1212,
+    "order": "1017.00000000000000000000",
+    "name": "NN (Beichtvater Elisabeth Amalias von Pfalz-Neuburg 1698)",
+    "gnd": "",
+    "other_url": "",
+    "emt_id": "emt_person_id__1212",
+    "internal_comment": "Bodler ist 1698 gestorben, Staudacher folgte scheints laut Duhr Bd. 4, S. 395 (zit. n. Wikipedia) erst 1701 nach",
+    "color": "",
+    "lebensdaten": "",
+    "ndb": "",
+    "year_of_birth": null,
+    "year_of_death": null,
+    "wikidata_url": "",
+    "wikidata_enriched": false,
+    "img_name": "",
+    "img_fetched": false,
+    "img_source": "",
+    "birth_date_written": "",
+    "death_date_written": "",
+    "geschlecht": "",
+    "funktionsbezeichnungen": "",
+    "unidentifiziert": true,
+    "titel": []
+  },
+  "1213": {
+    "id": 1213,
+    "order": "1018.00000000000000000000",
+    "name": "Pater Hilair (1698)",
+    "gnd": "",
+    "other_url": "",
+    "emt_id": "emt_person_id__1213",
+    "internal_comment": "",
+    "color": "",
+    "lebensdaten": "",
+    "ndb": "",
+    "year_of_birth": null,
+    "year_of_death": null,
+    "wikidata_url": "",
+    "wikidata_enriched": false,
+    "img_name": "",
+    "img_fetched": false,
+    "img_source": "",
+    "birth_date_written": "",
+    "death_date_written": "",
+    "geschlecht": "",
+    "funktionsbezeichnungen": "",
+    "unidentifiziert": true,
+    "titel": [
+      {
+        "id": 19694,
+        "value": "Pater",
+        "color": "yellow"
+      }
+    ]
+  },
+  "1214": {
+    "id": 1214,
+    "order": "1019.00000000000000000000",
+    "name": "",
+    "gnd": "",
+    "other_url": "",
+    "emt_id": "emt_person_id__1214",
+    "internal_comment": "",
+    "color": "",
+    "lebensdaten": "",
+    "ndb": "",
+    "year_of_birth": null,
+    "year_of_death": null,
+    "wikidata_url": "",
+    "wikidata_enriched": false,
+    "img_name": "",
+    "img_fetched": false,
+    "img_source": "",
+    "birth_date_written": "",
+    "death_date_written": "",
+    "geschlecht": "",
+    "funktionsbezeichnungen": "",
+    "unidentifiziert": false,
+    "titel": []
   }
 }
