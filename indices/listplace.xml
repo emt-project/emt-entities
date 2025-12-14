@@ -2212,6 +2212,24 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                   <idno type="GEONAMES">https://sws.geonames.org/2879895/</idno>
                   <idno type="GND">https://d-nb.info/gnd/4384544-7</idno>
                </place>
+               <place xml:id="emt_place_id__481">
+                  <placeName>Sachsen-Lauenburg, Herzogtum</placeName>
+                  <idno type="GND">https://d-nb.info/gnd/5146587-5</idno>
+               </place>
+               <place xml:id="emt_place_id__482">
+                  <placeName>St. Goar, Stadt</placeName>
+                  <location type="coords">
+                     <geo>50.14878 7.707200</geo>
+                  </location>
+                  <idno type="GEONAMES">https://sws.geonames.org/2841611/</idno>
+               </place>
+               <place xml:id="emt_place_id__483">
+                  <placeName>Katzenellenbogen, Niedergrafschaft</placeName>
+               </place>
+               <place xml:id="emt_place_id__484">
+                  <placeName>Ansbach, Fürstentum</placeName>
+                  <idno type="GND">https://d-nb.info/gnd/4371198-4</idno>
+               </place>
             </listPlace>
          </div>
       </body>

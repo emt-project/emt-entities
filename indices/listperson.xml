@@ -909,6 +909,7 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                   <death>
                      <date notBefore="1725-01-01" notAfter="1725-12-31">1725</date>
                   </death>
+                  <idno type="URL">https://books.google.de/books?id=bqNAAAAAcAAJ&amp;pg=PA680&amp;dq=Franz+Melchior+von+Wiser&amp;hl=de&amp;ei=NzpyTv-uBYGDOuyNma0J&amp;sa=X&amp;oi=book_result&amp;ct=result&amp;resnum=5&amp;ved=0CD4Q6AEwBA#v=onepage&amp;q=Wiser&amp;f=false</idno>
                </person>
                <person xml:id="emt_person_id__54">
                   <persName type="name">Österreich, Maria Antonia von, vereh. Bayern</persName>
@@ -6607,7 +6608,7 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                <person xml:id="emt_person_id__586">
                   <persName type="name">Wiser, Gottfried von</persName>
                   <persName type="function">
-                     <roleName>Hofrat und Hofkanzler der Kurpfalz, niederösterreichischer Regierungsrat</roleName>
+                     <roleName>Hof- und Landschaftskanzler von Neuburg, kurpfälzischer Hofrat</roleName>
                   </persName>
                   <death>
                      <date notBefore="1693-01-01" notAfter="1693-12-31">1693</date>
@@ -11104,6 +11105,13 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                   <death>
                      <date notBefore="1737-01-01" notAfter="1737-12-31">1737</date>
                   </death>
+                  <idno type="GND">https://d-nb.info/gnd/11887036X</idno>
+                  <idno type="NDB">https://www.deutsche-biographie.de/pnd11887036X.html#indexcontent</idno>
+                  <idno type="WIKIDATA">http://www.wikidata.org/entity/Q76961</idno>
+                  <figure>
+                     <graphic url="emt_person_id__1118.jpg"/>
+                     <caption>Amigoni - Caroline of Brandenburg-Ansbach - NPG 4332.jpg</caption>
+                  </figure>
                </person>
                <person xml:id="emt_person_id__1119">
                   <persName type="name">Sachsen-Meiningen, Ernestine Antonia von</persName>
@@ -11422,7 +11430,16 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                   <persName type="name">Pecori (1698 empfohlen)</persName>
                </person>
                <person xml:id="emt_person_id__1212">
-                  <persName type="name">NN (Beichtvater Elisabeth Amalias von Pfalz-Neuburg 1698)</persName>
+                  <persName type="name">NN SJ (1698)</persName>
+                  <persName type="title">
+                     <roleName>Pater</roleName>
+                  </persName>
+                  <persName type="function">
+                     <roleName>Beichtvater Elisabeth Amalias von Pfalz-Neuburg 1698-1701</roleName>
+                  </persName>
+                  <death>
+                     <date notBefore="1701-01-01" notAfter="1701-12-31">1701</date>
+                  </death>
                </person>
                <person xml:id="emt_person_id__1213">
                   <persName type="name">Pater Hilair (1698)</persName>
@@ -11431,7 +11448,149 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                   </persName>
                </person>
                <person xml:id="emt_person_id__1214">
-                  <persName type="name"/>
+                  <persName type="name">Pater Jakob (1698)</persName>
+               </person>
+               <person xml:id="emt_person_id__1215">
+                  <persName type="name">Wiser, Ferdinand Andreas von</persName>
+                  <persName type="title">
+                     <roleName>Graf</roleName>
+                  </persName>
+                  <persName type="function">
+                     <roleName>Diplomat</roleName>
+                  </persName>
+                  <birth>
+                     <date notBefore="1677-01-01" notAfter="1677-12-31">1677</date>
+                  </birth>
+                  <death>
+                     <date notBefore="1751-01-01" notAfter="1751-12-31">1751</date>
+                  </death>
+                  <idno type="GND">https://d-nb.info/gnd/1029977100</idno>
+                  <idno type="WIKIDATA">http://www.wikidata.org/entity/Q1405076</idno>
+                  <idno type="URL">https://books.google.de/books?id=bqNAAAAAcAAJ&amp;pg=PA680&amp;dq=Franz+Melchior+von+Wiser&amp;hl=de&amp;ei=NzpyTv-uBYGDOuyNma0J&amp;sa=X&amp;oi=book_result&amp;ct=result&amp;resnum=5&amp;ved=0CD4Q6AEwBA#v=onepage&amp;q=Wiser&amp;f=false</idno>
+                  <figure>
+                     <graphic url="emt_person_id__1215.jpg"/>
+                     <caption>Ferdinand Andreas von Wiser.jpg</caption>
+                  </figure>
+               </person>
+               <person xml:id="emt_person_id__1216">
+                  <persName type="name">Saurmann 1698 empfohlen</persName>
+               </person>
+               <person xml:id="emt_person_id__1217">
+                  <persName type="name">"französischer Engel" 1698</persName>
+               </person>
+               <person xml:id="emt_person_id__1218">
+                  <persName type="name">Brandenburg-Ansbach, Dorothea Friederike</persName>
+                  <persName type="title">
+                     <roleName>Markgräfin</roleName>
+                  </persName>
+                  <birth>
+                     <date notBefore="1676-01-01" notAfter="1676-12-31">1676</date>
+                  </birth>
+                  <death>
+                     <date notBefore="1731-01-01" notAfter="1731-12-31">1731</date>
+                  </death>
+                  <idno type="GND">https://d-nb.info/gnd/136845045</idno>
+                  <idno type="NDB">https://d-nb.info/gnd/136845045</idno>
+                  <idno type="WIKIDATA">http://www.wikidata.org/entity/Q74691</idno>
+                  <figure>
+                     <graphic url="emt_person_id__1218.jpg"/>
+                     <caption>Dorothea Frederike b.jpg</caption>
+                  </figure>
+               </person>
+               <person xml:id="emt_person_id__1219">
+                  <persName type="name">Brandenburg-Ansbach, Georg Friedrich</persName>
+                  <persName type="title">
+                     <roleName>Markgraf</roleName>
+                  </persName>
+                  <birth>
+                     <date notBefore="1678-01-01" notAfter="1678-12-31">1678</date>
+                  </birth>
+                  <death>
+                     <date notBefore="1703-01-01" notAfter="1703-12-31">1703</date>
+                  </death>
+                  <idno type="GND">https://d-nb.info/gnd/118958429</idno>
+                  <idno type="NDB">https://www.deutsche-biographie.de/pnd118958429.html#indexcontent</idno>
+                  <idno type="WIKIDATA">http://www.wikidata.org/entity/Q567159</idno>
+                  <figure>
+                     <graphic url="emt_person_id__1219.jpg"/>
+                     <caption>Johann Carl Zirl (Zierl) - Markgraf Georg Friedrich von Brandenburg Ansbach - 7166 - Bavarian State Painting Collections.jpg</caption>
+                  </figure>
+               </person>
+               <person xml:id="emt_person_id__1220">
+                  <persName type="name">Brandenburg-Ansbach, Wilhelm Friedrich</persName>
+                  <persName type="title">
+                     <roleName>Markgraf</roleName>
+                  </persName>
+                  <birth>
+                     <date notBefore="1686-01-01" notAfter="1686-12-31">1686</date>
+                  </birth>
+                  <death>
+                     <date notBefore="1723-01-01" notAfter="1723-12-31">1723</date>
+                  </death>
+                  <idno type="GND">https://d-nb.info/gnd/102030065</idno>
+                  <idno type="NDB">https://www.deutsche-biographie.de/pnd102030065.html#indexcontent</idno>
+                  <idno type="WIKIDATA">http://www.wikidata.org/entity/Q568415</idno>
+                  <figure>
+                     <graphic url="emt_person_id__1220.jpg"/>
+                     <caption>WilliamFrederickBrandenburgAnsbach.jpg</caption>
+                  </figure>
+               </person>
+               <person xml:id="emt_person_id__1221">
+                  <persName type="name">Violett, schickt 1698 einen Kurier</persName>
+               </person>
+               <person xml:id="emt_person_id__1222">
+                  <persName type="name">Wiser, Heinrich Franz Xaver</persName>
+                  <persName type="function">
+                     <roleName>Diplomat, Geheimsekretär der spanischen Königin Maria Anna, geb. von Pfalz-Neuburg</roleName>
+                  </persName>
+                  <idno type="URL">https://es.wikipedia.org/wiki/Enrique_Wiser</idno>
+               </person>
+               <person xml:id="emt_person_id__1223">
+                  <persName type="name">Wiser, Gottfried Ignaz</persName>
+                  <death>
+                     <date notBefore="1704-01-01" notAfter="1704-12-31">1704</date>
+                  </death>
+                  <idno type="URL">https://books.google.de/books?id=bqNAAAAAcAAJ&amp;pg=PA680&amp;dq=Franz+Melchior+von+Wiser&amp;hl=de&amp;ei=NzpyTv-uBYGDOuyNma0J&amp;sa=X&amp;oi=book_result&amp;ct=result&amp;resnum=5&amp;ved=0CD4Q6AEwBA#v=onepage&amp;q=Wiser&amp;f=false</idno>
+               </person>
+               <person xml:id="emt_person_id__1224">
+                  <persName type="name">Fugger, Marquard Eustach von</persName>
+                  <persName type="title">
+                     <roleName>Graf</roleName>
+                  </persName>
+                  <persName type="function">
+                     <roleName>kaiserlicher Geheimrat und Kämmerer</roleName>
+                  </persName>
+                  <birth>
+                     <date notBefore="1661-01-01" notAfter="1661-12-31">1661</date>
+                  </birth>
+                  <death>
+                     <date notBefore="1732-01-01" notAfter="1732-12-31">1732</date>
+                  </death>
+                  <idno type="GND">https://d-nb.info/gnd/1359841903</idno>
+                  <idno type="WIKIDATA">http://www.wikidata.org/entity/Q110261953</idno>
+                  <idno type="URL">https://oberdeutsche-personendatenbank.digitale-sammlungen.de/Datenbank/Fugger,_Marquard_Eustach_Graf_von</idno>
+               </person>
+               <person xml:id="emt_person_id__1225">
+                  <persName type="name">Paolucci, Fabrizio</persName>
+                  <persName type="title">
+                     <roleName>Kardinal</roleName>
+                  </persName>
+                  <persName type="function">
+                     <roleName>Nuntius in Wien</roleName>
+                  </persName>
+                  <birth>
+                     <date notBefore="1651-01-01" notAfter="1651-12-31">1651</date>
+                  </birth>
+                  <death>
+                     <date notBefore="1726-01-01" notAfter="1726-12-31">1726</date>
+                  </death>
+                  <idno type="GND">https://d-nb.info/gnd/120193264</idno>
+                  <idno type="NDB">https://www.deutsche-biographie.de/pnd120193264.html#indexcontent</idno>
+                  <idno type="WIKIDATA">http://www.wikidata.org/entity/Q219612</idno>
+                  <figure>
+                     <graphic url="emt_person_id__1225.jpg"/>
+                     <caption>Fabrizio Paolucci.jpg</caption>
+                  </figure>
                </person>
             </listPerson>
          </div>
