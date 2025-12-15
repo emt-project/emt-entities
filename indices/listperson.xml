@@ -11592,6 +11592,27 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                      <caption>Fabrizio Paolucci.jpg</caption>
                   </figure>
                </person>
+               <person xml:id="emt_person_id__1226">
+                  <persName type="name">Nonnen von Münstereifel OCarm (1698)</persName>
+               </person>
+               <person xml:id="emt_person_id__1227">
+                  <persName type="name">Margo, ehemalige Kammerdienerin, Karmelitin in Münstereifel (1698</persName>
+               </person>
+               <person xml:id="emt_person_id__1228">
+                  <persName type="name">Nesselrode-Ehreshoven, Philipp Wilhelm von</persName>
+                  <persName type="function">
+                     <roleName>Marschall des Herzogtums Berg</roleName>
+                  </persName>
+                  <birth>
+                     <date notBefore="1647-01-01" notAfter="1647-12-31">1647</date>
+                  </birth>
+                  <death>
+                     <date notBefore="1704-01-01" notAfter="1704-12-31">1704</date>
+                  </death>
+                  <idno type="GND">https://d-nb.info/gnd/1296299813</idno>
+                  <idno type="NDB">https://www.deutsche-biographie.de/1296299813.html#indexcontent</idno>
+                  <idno type="WIKIDATA">http://www.wikidata.org/entity/Q136641547</idno>
+               </person>
             </listPerson>
          </div>
       </body>

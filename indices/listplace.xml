@@ -476,7 +476,7 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                   <idno type="GEONAMES">https://sws.geonames.org/2811359/</idno>
                </place>
                <place xml:id="emt_place_id__63">
-                  <placeName>Wien</placeName>
+                  <placeName>Wien, Stadt</placeName>
                   <location type="coords">
                      <geo>48.20849 16.372080</geo>
                   </location>
@@ -2229,6 +2229,17 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                <place xml:id="emt_place_id__484">
                   <placeName>Ansbach, Fürstentum</placeName>
                   <idno type="GND">https://d-nb.info/gnd/4371198-4</idno>
+               </place>
+               <place xml:id="emt_place_id__485">
+                  <placeName>(Bad) Münstereifel: Karmelitinnenkloster</placeName>
+                  <location type="coords">
+                     <geo>50.55667 6.764240</geo>
+                  </location>
+                  <idno type="GEONAMES">https://sws.geonames.org/2953398/</idno>
+                  <idno type="GND">https://d-nb.info/gnd/4040616-7</idno>
+               </place>
+               <place xml:id="emt_place_id__486">
+                  <placeName>Wien, Kaiserhof</placeName>
                </place>
             </listPlace>
          </div>
