@@ -2241,6 +2241,32 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                <place xml:id="emt_place_id__486">
                   <placeName>Wien, Kaiserhof</placeName>
                </place>
+               <place xml:id="emt_place_id__487">
+                  <placeName>Münster, Karmeliterkloster</placeName>
+               </place>
+               <place xml:id="emt_place_id__488">
+                  <placeName>Teplice (deutsch Teplitz)</placeName>
+                  <location type="coords">
+                     <geo>50.64040 13.824510</geo>
+                  </location>
+                  <idno type="GEONAMES">https://sws.geonames.org/3064288/</idno>
+                  <idno type="GND">https://d-nb.info/gnd/4059481-6</idno>
+               </place>
+               <place xml:id="emt_place_id__489">
+                  <placeName>Höchstädt an der Donau</placeName>
+                  <location type="coords">
+                     <geo>48.61124 10.568160</geo>
+                  </location>
+                  <idno type="GEONAMES">https://sws.geonames.org/2903012/</idno>
+                  <idno type="GND">https://d-nb.info/gnd/4025322-3</idno>
+               </place>
+               <place xml:id="emt_place_id__490">
+                  <placeName/>
+               </place>
+               <place xml:id="emt_place_id__491">
+                  <placeName>Eger / Erlau, Bistum</placeName>
+                  <idno type="GND">https://d-nb.info/gnd/1094096-0</idno>
+               </place>
             </listPlace>
          </div>
       </body>

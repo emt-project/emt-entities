@@ -892,7 +892,7 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                      <roleName>Pater</roleName>
                   </persName>
                   <persName type="function">
-                     <roleName>Beichtvater von Johann Wihelm von Pfalz-Neuburg ab 1697</roleName>
+                     <roleName>Beichtvater von Johann Wihelm von Pfalz-Neuburg 1697-1702</roleName>
                   </persName>
                   <death>
                      <date notBefore="1722-01-01" notAfter="1722-12-31">1722</date>
@@ -11161,6 +11161,9 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                </person>
                <person xml:id="emt_person_id__1122">
                   <persName type="name">Clermont / Clairmont, NN wird 1697 empfohlen</persName>
+                  <persName type="title">
+                     <roleName>Graf</roleName>
+                  </persName>
                </person>
                <person xml:id="emt_person_id__1123">
                   <persName type="name">Tellier(s), NN wird 1697/98 mit dem Maler Douven nach Italien geschickt</persName>
@@ -11612,6 +11615,205 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                   <idno type="GND">https://d-nb.info/gnd/1296299813</idno>
                   <idno type="NDB">https://www.deutsche-biographie.de/1296299813.html#indexcontent</idno>
                   <idno type="WIKIDATA">http://www.wikidata.org/entity/Q136641547</idno>
+               </person>
+               <person xml:id="emt_person_id__1229">
+                  <persName type="name">Medici, Francesco Maria de</persName>
+                  <persName type="title">
+                     <roleName>Kardinal</roleName>
+                  </persName>
+                  <birth>
+                     <date notBefore="1660-01-01" notAfter="1660-12-31">1660</date>
+                  </birth>
+                  <death>
+                     <date notBefore="1711-01-01" notAfter="1711-12-31">1711</date>
+                  </death>
+                  <idno type="GND">https://d-nb.info/gnd/129630403</idno>
+                  <idno type="NDB">https://www.deutsche-biographie.de/pnd129630403.html#index</idno>
+                  <idno type="WIKIDATA">http://www.wikidata.org/entity/Q1347454</idno>
+                  <figure>
+                     <graphic url="emt_person_id__1229.jpg"/>
+                     <caption>Francesco Maria de' Medici.jpg</caption>
+                  </figure>
+               </person>
+               <person xml:id="emt_person_id__1230">
+                  <persName type="name">Sobieski, Alexander Benedikt</persName>
+                  <persName type="title">
+                     <roleName>Prinz</roleName>
+                  </persName>
+                  <birth>
+                     <date notBefore="1677-01-01" notAfter="1677-12-31">1677</date>
+                  </birth>
+                  <death>
+                     <date notBefore="1714-01-01" notAfter="1714-12-31">1714</date>
+                  </death>
+                  <idno type="GND">https://d-nb.info/gnd/1015082521</idno>
+                  <idno type="NDB">https://www.deutsche-biographie.de/pnd1015082521.html#indexcontent</idno>
+                  <idno type="WIKIDATA">http://www.wikidata.org/entity/Q1373167</idno>
+                  <figure>
+                     <graphic url="emt_person_id__1230.jpg"/>
+                     <caption>Aleksander Benedykt Sobieski.jpg</caption>
+                  </figure>
+               </person>
+               <person xml:id="emt_person_id__1231">
+                  <persName type="name">Sobieski, Konstanty Władysław</persName>
+                  <persName type="title">
+                     <roleName>Prinz</roleName>
+                  </persName>
+                  <birth>
+                     <date notBefore="1680-01-01" notAfter="1680-12-31">1680</date>
+                  </birth>
+                  <death>
+                     <date notBefore="1726-01-01" notAfter="1726-12-31">1726</date>
+                  </death>
+                  <idno type="GND">https://d-nb.info/gnd/1017469695</idno>
+                  <idno type="NDB">https://www.deutsche-biographie.de/pnd1017469695.html#indexcontent</idno>
+                  <idno type="WIKIDATA">http://www.wikidata.org/entity/Q4381376</idno>
+                  <figure>
+                     <graphic url="emt_person_id__1231.jpg"/>
+                     <caption>Rigaud Konstanty Sobieski.jpg</caption>
+                  </figure>
+               </person>
+               <person xml:id="emt_person_id__1232">
+                  <persName type="name">Kaunitz, Franz Karl von</persName>
+                  <persName type="title">
+                     <roleName>Graf</roleName>
+                  </persName>
+                  <persName type="function">
+                     <roleName>Domherr, Bischof, Auditor Rotae</roleName>
+                  </persName>
+                  <birth>
+                     <date notBefore="1676-01-01" notAfter="1676-12-31">1676</date>
+                  </birth>
+                  <death>
+                     <date notBefore="1717-01-01" notAfter="1717-12-31">1717</date>
+                  </death>
+                  <idno type="GND">https://d-nb.info/gnd/137844921</idno>
+                  <idno type="NDB">https://www.deutsche-biographie.de/pnd137844921.html#indexcontent</idno>
+                  <idno type="WIKIDATA">http://www.wikidata.org/entity/Q55853265</idno>
+                  <figure>
+                     <graphic url="emt_person_id__1232.jpg"/>
+                     <caption>Franc Karl Kaunitz Rietberg.jpg</caption>
+                  </figure>
+               </person>
+               <person xml:id="emt_person_id__1233">
+                  <persName type="name">Matthias</persName>
+                  <persName type="title">
+                     <roleName>Kaiser</roleName>
+                  </persName>
+                  <birth>
+                     <date notBefore="1557-01-01" notAfter="1557-12-31">1557</date>
+                  </birth>
+                  <death>
+                     <date notBefore="1619-01-01" notAfter="1619-12-31">1619</date>
+                  </death>
+                  <idno type="GND">https://d-nb.info/gnd/119400839</idno>
+                  <idno type="NDB">https://www.deutsche-biographie.de/pnd119400839.html#</idno>
+                  <idno type="WIKIDATA">http://www.wikidata.org/entity/Q152157</idno>
+                  <figure>
+                     <graphic url="emt_person_id__1233.jpg"/>
+                     <caption>Matthias - Holy Roman Emperor (Hans von Aachen, 1625).jpg</caption>
+                  </figure>
+               </person>
+               <person xml:id="emt_person_id__1234">
+                  <persName type="name">Ferdinand II.</persName>
+                  <persName type="title">
+                     <roleName>Kaiser</roleName>
+                  </persName>
+                  <birth>
+                     <date notBefore="1578-01-01" notAfter="1578-12-31">1578</date>
+                  </birth>
+                  <death>
+                     <date notBefore="1637-01-01" notAfter="1637-12-31">1637</date>
+                  </death>
+                  <idno type="GND">https://d-nb.info/gnd/118532510</idno>
+                  <idno type="NDB">https://www.deutsche-biographie.de/pnd118532510.html#indexcontent</idno>
+                  <idno type="WIKIDATA">http://www.wikidata.org/entity/Q150599</idno>
+                  <figure>
+                     <graphic url="emt_person_id__1234.jpg"/>
+                     <caption>Kaiser Ferdinand II. 1614.jpg</caption>
+                  </figure>
+               </person>
+               <person xml:id="emt_person_id__1235">
+                  <persName type="name">Österreich, Maria Magdalena von</persName>
+                  <persName type="title">
+                     <roleName>Erzherzogin</roleName>
+                  </persName>
+                  <persName type="title">
+                     <roleName>Großherzogin</roleName>
+                  </persName>
+                  <birth>
+                     <date notBefore="1587-01-01" notAfter="1587-12-31">1587</date>
+                  </birth>
+                  <death>
+                     <date notBefore="1631-01-01" notAfter="1631-12-31">1631</date>
+                  </death>
+                  <idno type="GND">https://d-nb.info/gnd/136431070</idno>
+                  <idno type="NDB">https://www.deutsche-biographie.de/pnd136431070.html#indexcontent</idno>
+                  <idno type="WIKIDATA">http://www.wikidata.org/entity/Q93757</idno>
+                  <figure>
+                     <graphic url="emt_person_id__1235.jpg"/>
+                     <caption>Allori, Cristofano - Portrait of Maria Magdalena of Austria (Prado).jpg</caption>
+                  </figure>
+               </person>
+               <person xml:id="emt_person_id__1236">
+                  <persName type="name">Medici, Ferdinando II. de</persName>
+                  <persName type="title">
+                     <roleName>Großherzog</roleName>
+                  </persName>
+                  <birth>
+                     <date notBefore="1610-01-01" notAfter="1610-12-31">1610</date>
+                  </birth>
+                  <death>
+                     <date notBefore="1670-01-01" notAfter="1670-12-31">1670</date>
+                  </death>
+                  <idno type="GND">https://d-nb.info/gnd/119504707</idno>
+                  <idno type="NDB">https://www.deutsche-biographie.de/pnd119504707.html#indexcontent</idno>
+                  <idno type="WIKIDATA">http://www.wikidata.org/entity/Q314558</idno>
+                  <figure>
+                     <graphic url="emt_person_id__1236.jpg"/>
+                     <caption>Justus Sustermans, Ferdinando II de' Medici, 1653-54 -FG.jpg</caption>
+                  </figure>
+               </person>
+               <person xml:id="emt_person_id__1237">
+                  <persName type="name">Braunschweig-Lüneburg (Hannover, Georg Ludwig von</persName>
+                  <persName type="title">
+                     <roleName>Kurfürst</roleName>
+                  </persName>
+                  <persName type="title">
+                     <roleName>König</roleName>
+                  </persName>
+                  <birth>
+                     <date notBefore="1660-01-01" notAfter="1660-12-31">1660</date>
+                  </birth>
+                  <death>
+                     <date notBefore="1727-01-01" notAfter="1727-12-31">1727</date>
+                  </death>
+                  <idno type="GND">https://d-nb.info/gnd/118538535</idno>
+                  <idno type="NDB">https://www.deutsche-biographie.de/pnd118538535.html#indexcontent</idno>
+                  <idno type="WIKIDATA">http://www.wikidata.org/entity/Q130805</idno>
+                  <figure>
+                     <graphic url="emt_person_id__1237.jpg"/>
+                     <caption>King George I by Sir Godfrey Kneller, Bt (3).jpg</caption>
+                  </figure>
+               </person>
+               <person xml:id="emt_person_id__1238">
+                  <persName type="name">Braunschweig-Lüneburg, Sophie von, geb. von der Pfalz</persName>
+                  <persName type="title">
+                     <roleName>Kurfürstin</roleName>
+                  </persName>
+                  <birth>
+                     <date notBefore="1630-01-01" notAfter="1630-12-31">1630</date>
+                  </birth>
+                  <death>
+                     <date notBefore="1714-01-01" notAfter="1714-12-31">1714</date>
+                  </death>
+                  <idno type="GND">https://d-nb.info/gnd/118751522</idno>
+                  <idno type="NDB">https://www.deutsche-biographie.de/pnd118751522.html#indexcontent</idno>
+                  <idno type="WIKIDATA">http://www.wikidata.org/entity/Q57224</idno>
+                  <figure>
+                     <graphic url="emt_person_id__1238.jpg"/>
+                     <caption>Sophie von der Pfalz von Peter Lely.jpg</caption>
+                  </figure>
                </person>
             </listPerson>
          </div>

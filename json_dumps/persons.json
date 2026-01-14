@@ -1459,7 +1459,7 @@
     "gnd": "",
     "other_url": "",
     "emt_id": "emt_person_id__52",
-    "internal_comment": "Duhr, Jesuiten, Band 3, S. 872. vgl. Krieger, „Eine kaiserliche Brautwerbung in Kopenhagen 1697“. S. 166: JW schickte im Dez. 1696 einen Jesuiten „aus seiner Umgebung“ namens Karl von Pottier zur Bekehrung der Prinzessin nach Dänemark; der Artikel wertet dessen Berichte aus. Feldkamp, „Der Nachlass des Komponisten, Diplomaten und Bischofs Agostino Steffani (1654-1728) im Archiv der Propaganda Fide“, 308.: Pottier, Karl, SJ,kurpfälzischer Hofbeichtvater von Johann Wilhelm von der Pfalz, Missionar in Hannover; gest. 1722 in Trier. War offenbar Korrespondent von Steffani.   Duhr: Pottier war Luxemburger, blieb 10 Jahre Beichtvater JWs",
+    "internal_comment": "Duhr, Jesuiten, Band 3, S. 872. vgl. Krieger, „Eine kaiserliche Brautwerbung in Kopenhagen 1697“. S. 166: JW schickte im Dez. 1696 einen Jesuiten „aus seiner Umgebung“ namens Karl von Pottier zur Bekehrung der Prinzessin nach Dänemark; der Artikel wertet dessen Berichte aus. Feldkamp, „Der Nachlass des Komponisten, Diplomaten und Bischofs Agostino Steffani (1654-1728) im Archiv der Propaganda Fide“, 308.: Pottier, Karl, SJ,kurpfälzischer Hofbeichtvater von Johann Wilhelm von der Pfalz, Missionar in Hannover; gest. 1722 in Trier. War offenbar Korrespondent von Steffani.   Duhr: Pottier war Luxemburger, blieb 10 Jahre Beichtvater JWs   Nach Lau, Regierungskollegien 266 war Pottier aber nur 1697-1702 Beichtvater JWs und ab 1702 war es Ferdinand Orban",
     "color": null,
     "lebensdaten": null,
     "ndb": "",
@@ -1473,7 +1473,7 @@
     "birth_date_written": null,
     "death_date_written": null,
     "geschlecht": null,
-    "funktionsbezeichnungen": "Beichtvater von Johann Wihelm von Pfalz-Neuburg ab 1697",
+    "funktionsbezeichnungen": "Beichtvater von Johann Wihelm von Pfalz-Neuburg 1697-1702",
     "unidentifiziert": false,
     "titel": [
       {
@@ -12065,7 +12065,7 @@
     "gnd": "",
     "other_url": "",
     "emt_id": "emt_person_id__441",
-    "internal_comment": "1689 kurz nach dem Tod der Erzherzogin wird erneut eine Gräfin CAvriani erwähnt, für die EMT ein Memorial an JW weiterleitet - ich gehe davon aus, dass es sich um die gleiche Person handelt\nzur Familie siehe http://www.genmarenostrum.com/pagine-lettere/letterac/Cavriani/cavriani2.htm",
+    "internal_comment": "1689 kurz nach dem Tod der Erzherzogin wird erneut eine Gräfin CAvriani erwähnt, für die EMT ein Memorial an JW weiterleitet - ich gehe davon aus, dass es sich um die gleiche Person handelt\nzur Familie siehe http://www.genmarenostrum.com/pagine-lettere/letterac/Cavriani/cavriani2.htm siehe auch Regesten-doc Gabriani",
     "color": "",
     "lebensdaten": "",
     "ndb": "",
@@ -26735,7 +26735,13 @@
     "geschlecht": "",
     "funktionsbezeichnungen": "",
     "unidentifiziert": true,
-    "titel": []
+    "titel": [
+      {
+        "id": 19689,
+        "value": "Graf",
+        "color": "purple"
+      }
+    ]
   },
   "1123": {
     "id": 1123,
@@ -27900,5 +27906,325 @@
     "funktionsbezeichnungen": "Marschall des Herzogtums Berg",
     "unidentifiziert": false,
     "titel": []
+  },
+  "1229": {
+    "id": 1229,
+    "order": "1034.00000000000000000000",
+    "name": "Medici, Francesco Maria de",
+    "gnd": "https://d-nb.info/gnd/129630403",
+    "other_url": "",
+    "emt_id": "emt_person_id__1229",
+    "internal_comment": "",
+    "color": "",
+    "lebensdaten": "",
+    "ndb": "https://www.deutsche-biographie.de/pnd129630403.html#index",
+    "year_of_birth": "1660",
+    "year_of_death": "1711",
+    "wikidata_url": "http://www.wikidata.org/entity/Q1347454",
+    "wikidata_enriched": true,
+    "img_name": "Francesco Maria de' Medici.jpg",
+    "img_fetched": true,
+    "img_source": "commonsMedia",
+    "birth_date_written": "",
+    "death_date_written": "",
+    "geschlecht": "",
+    "funktionsbezeichnungen": "",
+    "unidentifiziert": false,
+    "titel": [
+      {
+        "id": 19710,
+        "value": "Kardinal",
+        "color": "darker-purple"
+      }
+    ]
+  },
+  "1230": {
+    "id": 1230,
+    "order": "1035.00000000000000000000",
+    "name": "Sobieski, Alexander Benedikt",
+    "gnd": "https://d-nb.info/gnd/1015082521",
+    "other_url": "",
+    "emt_id": "emt_person_id__1230",
+    "internal_comment": "",
+    "color": "",
+    "lebensdaten": "",
+    "ndb": "https://www.deutsche-biographie.de/pnd1015082521.html#indexcontent",
+    "year_of_birth": "1677",
+    "year_of_death": "1714",
+    "wikidata_url": "http://www.wikidata.org/entity/Q1373167",
+    "wikidata_enriched": true,
+    "img_name": "Aleksander Benedykt Sobieski.jpg",
+    "img_fetched": true,
+    "img_source": "commonsMedia",
+    "birth_date_written": "",
+    "death_date_written": "",
+    "geschlecht": "",
+    "funktionsbezeichnungen": "",
+    "unidentifiziert": false,
+    "titel": [
+      {
+        "id": 19706,
+        "value": "Prinz",
+        "color": "light-gray"
+      }
+    ]
+  },
+  "1231": {
+    "id": 1231,
+    "order": "1036.00000000000000000000",
+    "name": "Sobieski, Konstanty Władysław",
+    "gnd": "https://d-nb.info/gnd/1017469695",
+    "other_url": "",
+    "emt_id": "emt_person_id__1231",
+    "internal_comment": "",
+    "color": "",
+    "lebensdaten": "",
+    "ndb": "https://www.deutsche-biographie.de/pnd1017469695.html#indexcontent",
+    "year_of_birth": "1680",
+    "year_of_death": "1726",
+    "wikidata_url": "http://www.wikidata.org/entity/Q4381376",
+    "wikidata_enriched": true,
+    "img_name": "Rigaud Konstanty Sobieski.jpg",
+    "img_fetched": true,
+    "img_source": "commonsMedia",
+    "birth_date_written": "",
+    "death_date_written": "",
+    "geschlecht": "",
+    "funktionsbezeichnungen": "",
+    "unidentifiziert": false,
+    "titel": [
+      {
+        "id": 19706,
+        "value": "Prinz",
+        "color": "light-gray"
+      }
+    ]
+  },
+  "1232": {
+    "id": 1232,
+    "order": "1037.00000000000000000000",
+    "name": "Kaunitz, Franz Karl von",
+    "gnd": "https://d-nb.info/gnd/137844921",
+    "other_url": "",
+    "emt_id": "emt_person_id__1232",
+    "internal_comment": "",
+    "color": "",
+    "lebensdaten": "",
+    "ndb": "https://www.deutsche-biographie.de/pnd137844921.html#indexcontent",
+    "year_of_birth": "1676",
+    "year_of_death": "1717",
+    "wikidata_url": "http://www.wikidata.org/entity/Q55853265",
+    "wikidata_enriched": true,
+    "img_name": "Franc Karl Kaunitz Rietberg.jpg",
+    "img_fetched": true,
+    "img_source": "commonsMedia",
+    "birth_date_written": "",
+    "death_date_written": "",
+    "geschlecht": "",
+    "funktionsbezeichnungen": "Domherr, Bischof, Auditor Rotae",
+    "unidentifiziert": false,
+    "titel": [
+      {
+        "id": 19689,
+        "value": "Graf",
+        "color": "purple"
+      }
+    ]
+  },
+  "1233": {
+    "id": 1233,
+    "order": "1038.00000000000000000000",
+    "name": "Matthias",
+    "gnd": "https://d-nb.info/gnd/119400839",
+    "other_url": "",
+    "emt_id": "emt_person_id__1233",
+    "internal_comment": "",
+    "color": "",
+    "lebensdaten": "",
+    "ndb": "https://www.deutsche-biographie.de/pnd119400839.html#",
+    "year_of_birth": "1557",
+    "year_of_death": "1619",
+    "wikidata_url": "http://www.wikidata.org/entity/Q152157",
+    "wikidata_enriched": true,
+    "img_name": "Matthias - Holy Roman Emperor (Hans von Aachen, 1625).jpg",
+    "img_fetched": true,
+    "img_source": "commonsMedia",
+    "birth_date_written": "",
+    "death_date_written": "",
+    "geschlecht": "",
+    "funktionsbezeichnungen": "",
+    "unidentifiziert": false,
+    "titel": [
+      {
+        "id": 19708,
+        "value": "Kaiser",
+        "color": "darker-red"
+      }
+    ]
+  },
+  "1234": {
+    "id": 1234,
+    "order": "1039.00000000000000000000",
+    "name": "Ferdinand II.",
+    "gnd": "https://d-nb.info/gnd/118532510",
+    "other_url": "",
+    "emt_id": "emt_person_id__1234",
+    "internal_comment": "",
+    "color": "",
+    "lebensdaten": "",
+    "ndb": "https://www.deutsche-biographie.de/pnd118532510.html#indexcontent",
+    "year_of_birth": "1578",
+    "year_of_death": "1637",
+    "wikidata_url": "http://www.wikidata.org/entity/Q150599",
+    "wikidata_enriched": true,
+    "img_name": "Kaiser Ferdinand II. 1614.jpg",
+    "img_fetched": true,
+    "img_source": "commonsMedia",
+    "birth_date_written": "",
+    "death_date_written": "",
+    "geschlecht": "",
+    "funktionsbezeichnungen": "",
+    "unidentifiziert": false,
+    "titel": [
+      {
+        "id": 19708,
+        "value": "Kaiser",
+        "color": "darker-red"
+      }
+    ]
+  },
+  "1235": {
+    "id": 1235,
+    "order": "1040.00000000000000000000",
+    "name": "Österreich, Maria Magdalena von",
+    "gnd": "https://d-nb.info/gnd/136431070",
+    "other_url": "",
+    "emt_id": "emt_person_id__1235",
+    "internal_comment": "",
+    "color": "",
+    "lebensdaten": "",
+    "ndb": "https://www.deutsche-biographie.de/pnd136431070.html#indexcontent",
+    "year_of_birth": "1587",
+    "year_of_death": "1631",
+    "wikidata_url": "http://www.wikidata.org/entity/Q93757",
+    "wikidata_enriched": true,
+    "img_name": "Allori, Cristofano - Portrait of Maria Magdalena of Austria (Prado).jpg",
+    "img_fetched": true,
+    "img_source": "commonsMedia",
+    "birth_date_written": "",
+    "death_date_written": "",
+    "geschlecht": "",
+    "funktionsbezeichnungen": "",
+    "unidentifiziert": false,
+    "titel": [
+      {
+        "id": 19699,
+        "value": "Erzherzogin",
+        "color": "darker-cyan"
+      },
+      {
+        "id": 19718,
+        "value": "Großherzogin",
+        "color": "light-green"
+      }
+    ]
+  },
+  "1236": {
+    "id": 1236,
+    "order": "1041.00000000000000000000",
+    "name": "Medici, Ferdinando II. de",
+    "gnd": "https://d-nb.info/gnd/119504707",
+    "other_url": "",
+    "emt_id": "emt_person_id__1236",
+    "internal_comment": "",
+    "color": "",
+    "lebensdaten": "",
+    "ndb": "https://www.deutsche-biographie.de/pnd119504707.html#indexcontent",
+    "year_of_birth": "1610",
+    "year_of_death": "1670",
+    "wikidata_url": "http://www.wikidata.org/entity/Q314558",
+    "wikidata_enriched": true,
+    "img_name": "Justus Sustermans, Ferdinando II de' Medici, 1653-54 -FG.jpg",
+    "img_fetched": true,
+    "img_source": "commonsMedia",
+    "birth_date_written": "",
+    "death_date_written": "",
+    "geschlecht": "",
+    "funktionsbezeichnungen": "",
+    "unidentifiziert": false,
+    "titel": [
+      {
+        "id": 19750,
+        "value": "Großherzog",
+        "color": "darker-blue"
+      }
+    ]
+  },
+  "1237": {
+    "id": 1237,
+    "order": "1042.00000000000000000000",
+    "name": "Braunschweig-Lüneburg (Hannover, Georg Ludwig von",
+    "gnd": "https://d-nb.info/gnd/118538535",
+    "other_url": "",
+    "emt_id": "emt_person_id__1237",
+    "internal_comment": "",
+    "color": "",
+    "lebensdaten": "",
+    "ndb": "https://www.deutsche-biographie.de/pnd118538535.html#indexcontent",
+    "year_of_birth": "1660",
+    "year_of_death": "1727",
+    "wikidata_url": "http://www.wikidata.org/entity/Q130805",
+    "wikidata_enriched": true,
+    "img_name": "King George I by Sir Godfrey Kneller, Bt (3).jpg",
+    "img_fetched": true,
+    "img_source": "commonsMedia",
+    "birth_date_written": "",
+    "death_date_written": "",
+    "geschlecht": "",
+    "funktionsbezeichnungen": "",
+    "unidentifiziert": false,
+    "titel": [
+      {
+        "id": 19695,
+        "value": "Kurfürst",
+        "color": "light-pink"
+      },
+      {
+        "id": 19697,
+        "value": "König",
+        "color": "dark-red"
+      }
+    ]
+  },
+  "1238": {
+    "id": 1238,
+    "order": "1043.00000000000000000000",
+    "name": "Braunschweig-Lüneburg, Sophie von, geb. von der Pfalz",
+    "gnd": "https://d-nb.info/gnd/118751522",
+    "other_url": "",
+    "emt_id": "emt_person_id__1238",
+    "internal_comment": "",
+    "color": "",
+    "lebensdaten": "",
+    "ndb": "https://www.deutsche-biographie.de/pnd118751522.html#indexcontent",
+    "year_of_birth": "1630",
+    "year_of_death": "1714",
+    "wikidata_url": "http://www.wikidata.org/entity/Q57224",
+    "wikidata_enriched": true,
+    "img_name": "Sophie von der Pfalz von Peter Lely.jpg",
+    "img_fetched": true,
+    "img_source": "commonsMedia",
+    "birth_date_written": "",
+    "death_date_written": "",
+    "geschlecht": "",
+    "funktionsbezeichnungen": "",
+    "unidentifiziert": false,
+    "titel": [
+      {
+        "id": 19701,
+        "value": "Kurfürstin",
+        "color": "brown"
+      }
+    ]
   }
 }
