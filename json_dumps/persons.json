@@ -9210,7 +9210,7 @@
     "gnd": "http://d-nb.info/11954802X",
     "other_url": "https://rheinische-geschichte.lvr.de/Persoenlichkeiten/nikolaus-wilhelm-beckers-/DE-2086/lido/57c577c51e5ff9.57935579",
     "emt_id": "emt_person_id__335",
-    "internal_comment": "",
+    "internal_comment": "laut ÄZA 8/28 spricht er Spanisch und hat 1670 das volle Vertrauen des spanischen Botschafters und des spanischen Hofstaates",
     "color": "",
     "lebensdaten": "",
     "ndb": "https://www.deutsche-biographie.de/sfz2587.html#indexcontent",
@@ -15139,7 +15139,7 @@
     "gnd": "",
     "other_url": "",
     "emt_id": "emt_person_id__570",
-    "internal_comment": "VieCPro; vermutlich entweder Ana Katharina Rios oder es könnte auch Johanna Katharina Rios de Bevemont sein, die Kammerdienerin bei EMT war (ebenfalls laut VieCPro)",
+    "internal_comment": "VieCPro; vermutlich entweder Ana Katharina Rios oder es könnte auch Johanna Katharina Rios de Bevemont sein, die Kammerdienerin bei EMT war (ebenfalls laut VieCPro)\nlaut Familienakten 34 hat EMT 1677 mindestens 8 Kammerfrauen - ohne weiteren Anhaltspunkt kaum zu klären!",
     "color": "",
     "lebensdaten": "",
     "ndb": "",
@@ -28226,5 +28226,30 @@
         "color": "brown"
       }
     ]
+  },
+  "1239": {
+    "id": 1239,
+    "order": "1044.00000000000000000000",
+    "name": "Corpiz (1699, Spanien)",
+    "gnd": "",
+    "other_url": "",
+    "emt_id": "emt_person_id__1239",
+    "internal_comment": "Seit seinem Tod zeigt sich die spanische Königin etwas besser",
+    "color": "",
+    "lebensdaten": "",
+    "ndb": "",
+    "year_of_birth": null,
+    "year_of_death": "1699",
+    "wikidata_url": "",
+    "wikidata_enriched": false,
+    "img_name": "",
+    "img_fetched": false,
+    "img_source": "",
+    "birth_date_written": "",
+    "death_date_written": "",
+    "geschlecht": "",
+    "funktionsbezeichnungen": "",
+    "unidentifiziert": true,
+    "titel": []
   }
 }

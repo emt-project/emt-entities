@@ -11815,6 +11815,12 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                      <caption>Sophie von der Pfalz von Peter Lely.jpg</caption>
                   </figure>
                </person>
+               <person xml:id="emt_person_id__1239">
+                  <persName type="name">Corpiz (1699, Spanien)</persName>
+                  <death>
+                     <date notBefore="1699-01-01" notAfter="1699-12-31">1699</date>
+                  </death>
+               </person>
             </listPerson>
          </div>
       </body>
