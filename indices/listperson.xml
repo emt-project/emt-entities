@@ -2655,7 +2655,7 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                      <roleName>Graf</roleName>
                   </persName>
                   <persName type="function">
-                     <roleName>Hofmeister Pfalz</roleName>
+                     <roleName>Großhofmeister der Pfalz, kaiserlicher Kämmerer</roleName>
                   </persName>
                   <birth>
                      <date notBefore="1648-01-01" notAfter="1648-12-31">1648</date>
@@ -11820,6 +11820,166 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                   <death>
                      <date notBefore="1699-01-01" notAfter="1699-12-31">1699</date>
                   </death>
+               </person>
+               <person xml:id="emt_person_id__1240">
+                  <persName type="name">Schulzin (1699, Kloster in Köln)</persName>
+                  <persName type="title">
+                     <roleName>Gräfin</roleName>
+                  </persName>
+               </person>
+               <person xml:id="emt_person_id__1241">
+                  <persName type="name">Gefangener (1699, Zusammenhang mit Kaiser und Papst)</persName>
+               </person>
+               <person xml:id="emt_person_id__1242">
+                  <persName type="name">Kammerdienerin Mariandl (1699)</persName>
+                  <persName type="function">
+                     <roleName>Kammerdienerin</roleName>
+                  </persName>
+               </person>
+               <person xml:id="emt_person_id__1243">
+                  <persName type="name">Hamilton, Maria Eleonora, verh. Kokorzovec (Kokorschowetz)</persName>
+                  <persName type="title">
+                     <roleName>Gräfin</roleName>
+                  </persName>
+                  <persName type="function">
+                     <roleName>Hoffräulein</roleName>
+                  </persName>
+               </person>
+               <person xml:id="emt_person_id__1244">
+                  <persName type="name">Vogt (Witwe 1699)</persName>
+               </person>
+               <person xml:id="emt_person_id__1245">
+                  <persName type="name">Österreich, Maria Josepha von</persName>
+                  <persName type="title">
+                     <roleName>Erzherzogin</roleName>
+                  </persName>
+                  <birth>
+                     <date notBefore="1699-01-01" notAfter="1699-12-31">1699</date>
+                  </birth>
+                  <death>
+                     <date notBefore="1757-01-01" notAfter="1757-12-31">1757</date>
+                  </death>
+                  <idno type="GND">https://d-nb.info/gnd/11917426X</idno>
+                  <idno type="NDB">https://www.deutsche-biographie.de/pnd11917426X.html#indexcontent</idno>
+                  <idno type="WIKIDATA">http://www.wikidata.org/entity/Q84276</idno>
+                  <figure>
+                     <graphic url="emt_person_id__1245.jpg"/>
+                     <caption>Maria Josepha von Sachsen-Litauen-Polen-Österreich.jpg</caption>
+                  </figure>
+               </person>
+               <person xml:id="emt_person_id__1246">
+                  <persName type="name">Begleiter des Pater Pottier in Wien 1699</persName>
+               </person>
+               <person xml:id="emt_person_id__1247">
+                  <persName type="name">Rietberg und Ostfriesland, Maria Ernestine Franziska</persName>
+                  <persName type="title">
+                     <roleName>Gräfin</roleName>
+                  </persName>
+                  <birth>
+                     <date notBefore="1687-01-01" notAfter="1687-12-31">1687</date>
+                  </birth>
+                  <death>
+                     <date notBefore="1758-01-01" notAfter="1758-12-31">1758</date>
+                  </death>
+                  <idno type="GND">https://d-nb.info/gnd/118640143</idno>
+                  <idno type="WIKIDATA">http://www.wikidata.org/entity/Q11219761</idno>
+                  <figure>
+                     <graphic url="emt_person_id__1247.jpg"/>
+                     <caption>Maria Ernestine Francisca von Rietberg.jpg</caption>
+                  </figure>
+               </person>
+               <person xml:id="emt_person_id__1248">
+                  <persName type="name">Kaunitz, Maximilian Ulrich von</persName>
+                  <persName type="title">
+                     <roleName>Graf</roleName>
+                  </persName>
+                  <birth>
+                     <date notBefore="1679-01-01" notAfter="1679-12-31">1679</date>
+                  </birth>
+                  <death>
+                     <date notBefore="1746-01-01" notAfter="1746-12-31">1746</date>
+                  </death>
+                  <idno type="GND">https://d-nb.info/gnd/137727429</idno>
+                  <idno type="NDB">https://www.deutsche-biographie.de/pnd137727429.html#indexcontent</idno>
+                  <idno type="WIKIDATA">http://www.wikidata.org/entity/Q1914101</idno>
+                  <figure>
+                     <graphic url="emt_person_id__1248.jpg"/>
+                     <caption>Maxmilian Oldrich Kounic.jpg</caption>
+                  </figure>
+               </person>
+               <person xml:id="emt_person_id__1249">
+                  <persName type="name">Medici, Matthias von</persName>
+                  <persName type="title">
+                     <roleName>Prinz</roleName>
+                  </persName>
+                  <birth>
+                     <date notBefore="1613-01-01" notAfter="1613-12-31">1613</date>
+                  </birth>
+                  <death>
+                     <date notBefore="1667-01-01" notAfter="1667-12-31">1667</date>
+                  </death>
+                  <idno type="GND">https://d-nb.info/gnd/123882508</idno>
+                  <idno type="WIKIDATA">http://www.wikidata.org/entity/Q1117364</idno>
+                  <figure>
+                     <graphic url="emt_person_id__1249.jpg"/>
+                     <caption>Justus Sustermans (studio of) - Portrait of Mattias de' Medici.jpg</caption>
+                  </figure>
+               </person>
+               <person xml:id="emt_person_id__1250">
+                  <persName type="name">Medici, Anna von</persName>
+                  <persName type="title">
+                     <roleName>Erzherzogin</roleName>
+                  </persName>
+                  <birth>
+                     <date notBefore="1616-01-01" notAfter="1616-12-31">1616</date>
+                  </birth>
+                  <death>
+                     <date notBefore="1676-01-01" notAfter="1676-12-31">1676</date>
+                  </death>
+                  <idno type="GND">https://d-nb.info/gnd/101072880</idno>
+                  <idno type="WIKIDATA">http://www.wikidata.org/entity/Q45391</idno>
+                  <figure>
+                     <graphic url="emt_person_id__1250.jpg"/>
+                     <caption>Justus Sustermans - Anna de' Medici, wife of archduke Ferdinand Charles of Austria.jpg</caption>
+                  </figure>
+               </person>
+               <person xml:id="emt_person_id__1251">
+                  <persName type="name">Medici, Giancarlo von</persName>
+                  <birth>
+                     <date notBefore="1611-01-01" notAfter="1611-12-31">1611</date>
+                  </birth>
+                  <death>
+                     <date notBefore="1663-01-01" notAfter="1663-12-31">1663</date>
+                  </death>
+               </person>
+               <person xml:id="emt_person_id__1252">
+                  <persName type="name">Schwester der Vogtin (1699)</persName>
+               </person>
+               <person xml:id="emt_person_id__1253">
+                  <persName type="name">De Hoppe (Niederländer, verhandelt 1699 mit Villars)</persName>
+               </person>
+               <person xml:id="emt_person_id__1254">
+                  <persName type="name">Anna Liesel (hat Erzherzogin Anna Josepha lang gedient, 1696 und 1699 empfohlen)</persName>
+               </person>
+               <person xml:id="emt_person_id__1255">
+                  <persName type="name">Winkelhausen, Frau von (1699)</persName>
+                  <idno type="GND">https://d-nb.info/gnd/142362360</idno>
+                  <idno type="WIKIDATA">http://www.wikidata.org/entity/Q1315132</idno>
+               </person>
+               <person xml:id="emt_person_id__1256">
+                  <persName type="name">Paar, Joseph Ignaz von</persName>
+                  <persName type="title">
+                     <roleName>Graf</roleName>
+                  </persName>
+                  <idno type="GND">https://d-nb.info/gnd/1038487870</idno>
+                  <idno type="NDB">https://www.deutsche-biographie.de/pnd1038487870.html</idno>
+                  <idno type="WIKIDATA">http://www.wikidata.org/entity/Q133593017</idno>
+               </person>
+               <person xml:id="emt_person_id__1257">
+                  <persName type="name">Löwenstein (soll 1699 im Zusammenhang mit Trier nicht leer ausgehen)</persName>
+                  <persName type="title">
+                     <roleName>Graf</roleName>
+                  </persName>
                </person>
             </listPerson>
          </div>
