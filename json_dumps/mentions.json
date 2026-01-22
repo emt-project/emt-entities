@@ -2966,6 +2966,11 @@
         "id": 124,
         "value": "emt_mention_id__124",
         "order": "124.00000000000000000000"
+      },
+      {
+        "id": 560,
+        "value": "emt_mention_id__560",
+        "order": "560.00000000000000000000"
       }
     ]
   },
@@ -4233,43 +4238,7 @@
         "order": "9.00000000000000000000"
       }
     ],
-    "possible_match": [
-      {
-        "id": 176,
-        "value": "emt_mention_id__176",
-        "order": "176.00000000000000000000"
-      }
-    ]
-  },
-  "176": {
-    "id": 176,
-    "order": "176.00000000000000000000",
-    "emt_id": "emt_mention_id__176",
-    "when": "1689-02-11",
-    "text_written": "11ten",
-    "not_before": null,
-    "not_after": null,
-    "sender": [
-      {
-        "id": 50,
-        "value": "Pfalz-Neuburg, Philipp Wilhelm von",
-        "order": "50.00000000000000000000"
-      }
-    ],
-    "recipient": [
-      {
-        "id": 9,
-        "value": "Eleonora Magdalena Theresia, geb. Pfalz-Neuburg",
-        "order": "9.00000000000000000000"
-      }
-    ],
-    "possible_match": [
-      {
-        "id": 175,
-        "value": "emt_mention_id__175",
-        "order": "175.00000000000000000000"
-      }
-    ]
+    "possible_match": []
   },
   "177": {
     "id": 177,
@@ -4710,43 +4679,7 @@
         "order": "9.00000000000000000000"
       }
     ],
-    "possible_match": [
-      {
-        "id": 194,
-        "value": "emt_mention_id__194",
-        "order": "194.00000000000000000000"
-      }
-    ]
-  },
-  "194": {
-    "id": 194,
-    "order": "194.00000000000000000000",
-    "emt_id": "emt_mention_id__194",
-    "when": "1689-05-06",
-    "text_written": "6ten",
-    "not_before": null,
-    "not_after": null,
-    "sender": [
-      {
-        "id": 50,
-        "value": "Pfalz-Neuburg, Philipp Wilhelm von",
-        "order": "50.00000000000000000000"
-      }
-    ],
-    "recipient": [
-      {
-        "id": 9,
-        "value": "Eleonora Magdalena Theresia, geb. Pfalz-Neuburg",
-        "order": "9.00000000000000000000"
-      }
-    ],
-    "possible_match": [
-      {
-        "id": 193,
-        "value": "emt_mention_id__193",
-        "order": "193.00000000000000000000"
-      }
-    ]
+    "possible_match": []
   },
   "195": {
     "id": 195,
@@ -5094,43 +5027,7 @@
         "order": "9.00000000000000000000"
       }
     ],
-    "possible_match": [
-      {
-        "id": 209,
-        "value": "emt_mention_id__209",
-        "order": "209.00000000000000000000"
-      }
-    ]
-  },
-  "209": {
-    "id": 209,
-    "order": "209.00000000000000000000",
-    "emt_id": "emt_mention_id__209",
-    "when": "1689-06-28",
-    "text_written": "28ten",
-    "not_before": null,
-    "not_after": null,
-    "sender": [
-      {
-        "id": 50,
-        "value": "Pfalz-Neuburg, Philipp Wilhelm von",
-        "order": "50.00000000000000000000"
-      }
-    ],
-    "recipient": [
-      {
-        "id": 9,
-        "value": "Eleonora Magdalena Theresia, geb. Pfalz-Neuburg",
-        "order": "9.00000000000000000000"
-      }
-    ],
-    "possible_match": [
-      {
-        "id": 208,
-        "value": "emt_mention_id__208",
-        "order": "208.00000000000000000000"
-      }
-    ]
+    "possible_match": []
   },
   "210": {
     "id": 210,
@@ -13257,6 +13154,137 @@
         "id": 18,
         "value": "Pfalz-Neuburg, Johann Wilhelm von",
         "order": "18.00000000000000000000"
+      }
+    ],
+    "recipient": [
+      {
+        "id": 9,
+        "value": "Eleonora Magdalena Theresia, geb. Pfalz-Neuburg",
+        "order": "9.00000000000000000000"
+      }
+    ],
+    "possible_match": []
+  },
+  "560": {
+    "id": 560,
+    "order": "560.00000000000000000000",
+    "emt_id": "emt_mention_id__560",
+    "when": "1687-12-19",
+    "text_written": "zwey vom 19ten",
+    "not_before": null,
+    "not_after": null,
+    "sender": [
+      {
+        "id": 50,
+        "value": "Pfalz-Neuburg, Philipp Wilhelm von",
+        "order": "50.00000000000000000000"
+      }
+    ],
+    "recipient": [
+      {
+        "id": 9,
+        "value": "Eleonora Magdalena Theresia, geb. Pfalz-Neuburg",
+        "order": "9.00000000000000000000"
+      }
+    ],
+    "possible_match": [
+      {
+        "id": 123,
+        "value": "emt_mention_id__123",
+        "order": "123.00000000000000000000"
+      },
+      {
+        "id": 124,
+        "value": "emt_mention_id__124",
+        "order": "124.00000000000000000000"
+      }
+    ]
+  },
+  "561": {
+    "id": 561,
+    "order": "561.00000000000000000000",
+    "emt_id": "emt_mention_id__561",
+    "when": "1683-12-31",
+    "text_written": "lezten des iahrs",
+    "not_before": null,
+    "not_after": null,
+    "sender": [
+      {
+        "id": 50,
+        "value": "Pfalz-Neuburg, Philipp Wilhelm von",
+        "order": "50.00000000000000000000"
+      }
+    ],
+    "recipient": [
+      {
+        "id": 9,
+        "value": "Eleonora Magdalena Theresia, geb. Pfalz-Neuburg",
+        "order": "9.00000000000000000000"
+      }
+    ],
+    "possible_match": []
+  },
+  "562": {
+    "id": 562,
+    "order": "562.00000000000000000000",
+    "emt_id": "emt_mention_id__562",
+    "when": "1684-01-04",
+    "text_written": "4ten dises",
+    "not_before": null,
+    "not_after": null,
+    "sender": [
+      {
+        "id": 50,
+        "value": "Pfalz-Neuburg, Philipp Wilhelm von",
+        "order": "50.00000000000000000000"
+      }
+    ],
+    "recipient": [
+      {
+        "id": 9,
+        "value": "Eleonora Magdalena Theresia, geb. Pfalz-Neuburg",
+        "order": "9.00000000000000000000"
+      }
+    ],
+    "possible_match": []
+  },
+  "563": {
+    "id": 563,
+    "order": "563.00000000000000000000",
+    "emt_id": "emt_mention_id__563",
+    "when": "1687-12-19",
+    "text_written": "23ten",
+    "not_before": null,
+    "not_after": null,
+    "sender": [
+      {
+        "id": 50,
+        "value": "Pfalz-Neuburg, Philipp Wilhelm von",
+        "order": "50.00000000000000000000"
+      }
+    ],
+    "recipient": [
+      {
+        "id": 9,
+        "value": "Eleonora Magdalena Theresia, geb. Pfalz-Neuburg",
+        "order": "9.00000000000000000000"
+      }
+    ],
+    "possible_match": []
+  },
+  "564": {
+    "id": 564,
+    "order": "564.00000000000000000000",
+    "emt_id": "emt_mention_id__564",
+    "when": "1687-12-26",
+    "text_written": "26ten dis",
+    "not_before": null,
+    "not_after": null,
+    "sender": [
+      {
+        "id": 50,
+        "value": "Pfalz-Neuburg, Philipp Wilhelm von",
+        "order": "50.00000000000000000000"
       }
     ],
     "recipient": [

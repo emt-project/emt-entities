@@ -869,6 +869,9 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                </person>
                <person xml:id="emt_person_id__51">
                   <persName type="name">Clemens XI. (Albani)</persName>
+                  <persName type="title">
+                     <roleName>Papst</roleName>
+                  </persName>
                   <persName type="function">
                      <roleName>Papst</roleName>
                   </persName>
@@ -11980,6 +11983,60 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                   <persName type="title">
                      <roleName>Graf</roleName>
                   </persName>
+               </person>
+               <person xml:id="emt_person_id__1258">
+                  <persName type="name">Ktt/Rett (empfohlen 1700)</persName>
+               </person>
+               <person xml:id="emt_person_id__1259">
+                  <persName type="name">Schwester Anna Magdalena von St. Joseph OCarm</persName>
+                  <persName type="function">
+                     <roleName>designierte Priorin des geplanten Karmelitinnenklosters in Höchstädt</roleName>
+                  </persName>
+               </person>
+               <person xml:id="emt_person_id__1260">
+                  <persName type="name">Rouelle, Odilia Francisca de, Schwester Maria Karolina OSU, dann Schwester Alexandrina OCarm</persName>
+                  <death>
+                     <date notBefore="1714-01-01" notAfter="1714-12-31">1714</date>
+                  </death>
+               </person>
+               <person xml:id="emt_person_id__1261">
+                  <persName type="name">Schwester Eleonora OCarm</persName>
+               </person>
+               <person xml:id="emt_person_id__1262">
+                  <persName type="name">"mensch" (kommt 1700 mit den Höchstädter Nonnen nach Wien)</persName>
+               </person>
+               <person xml:id="emt_person_id__1263">
+                  <persName type="name">Österreich, Leopold Joseph von</persName>
+                  <persName type="title">
+                     <roleName>Erzherzog</roleName>
+                  </persName>
+                  <birth>
+                     <date notBefore="1700-01-01" notAfter="1700-12-31">1700</date>
+                  </birth>
+                  <death>
+                     <date notBefore="1701-01-01" notAfter="1701-12-31">1701</date>
+                  </death>
+               </person>
+               <person xml:id="emt_person_id__1264">
+                  <persName type="name">Mutter Maria Magdalena de Sancta Theresia OCarm</persName>
+                  <persName type="function">
+                     <roleName>Priorin der Neuburger Karmelitinnen</roleName>
+                  </persName>
+               </person>
+               <person xml:id="emt_person_id__1265">
+                  <persName type="name">Prior der Wiener Karmeliten OCarm (1700)</persName>
+               </person>
+               <person xml:id="emt_person_id__1266">
+                  <persName type="name">Pater Lukas 1700</persName>
+               </person>
+               <person xml:id="emt_person_id__1267">
+                  <persName type="name">Wiener Karmelitinnen</persName>
+               </person>
+               <person xml:id="emt_person_id__1268">
+                  <persName type="name">"die bewuste" (soll 1700 weg aus Düsseldorf)</persName>
+               </person>
+               <person xml:id="emt_person_id__1269">
+                  <persName type="name">Nonnen des Karmelitinnenklosters in Aachen</persName>
                </person>
             </listPerson>
          </div>

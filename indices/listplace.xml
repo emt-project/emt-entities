@@ -2267,6 +2267,37 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                   <placeName>Eger / Erlau, Bistum</placeName>
                   <idno type="GND">https://d-nb.info/gnd/1094096-0</idno>
                </place>
+               <place xml:id="emt_place_id__492">
+                  <placeName>Anwerpen</placeName>
+                  <location type="coords">
+                     <geo>51.22047 4.400260</geo>
+                  </location>
+                  <idno type="GEONAMES">https://sws.geonames.org/2803138/</idno>
+               </place>
+               <place xml:id="emt_place_id__493">
+                  <placeName>Löwen (niederl. Leuven, frz. Louvain)</placeName>
+                  <location type="coords">
+                     <geo>50.87959 4.700930</geo>
+                  </location>
+                  <idno type="GEONAMES">https://sws.geonames.org/2792482/</idno>
+               </place>
+               <place xml:id="emt_place_id__494">
+                  <placeName>geplantes Karmelitinnenkloster in Höchstädt</placeName>
+               </place>
+               <place xml:id="emt_place_id__495">
+                  <placeName>Mantua, Herzogtum</placeName>
+                  <idno type="GND">https://d-nb.info/gnd/4669636-2</idno>
+               </place>
+               <place xml:id="emt_place_id__496">
+                  <placeName>Kremnica (deutsch Kremnitz, ungarisch Körmöcbánya)</placeName>
+                  <location type="coords">
+                     <geo>48.70519 18.918340</geo>
+                  </location>
+                  <idno type="GEONAMES">https://sws.geonames.org/3059282/</idno>
+               </place>
+               <place xml:id="emt_place_id__497">
+                  <placeName>Köln, Karmelitinnenkloster</placeName>
+               </place>
             </listPlace>
          </div>
       </body>
