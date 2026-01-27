@@ -825,44 +825,14 @@
         "order": "9.00000000000000000000"
       }
     ],
-    "possible_match": [
-      {
-        "id": 40,
-        "value": "emt_mention_id__40",
-        "order": "40.00000000000000000000"
-      }
-    ]
+    "possible_match": []
   },
   "36": {
     "id": 36,
     "order": "36.00000000000000000000",
     "emt_id": "emt_mention_id__36",
-    "when": "1697-03-24",
+    "when": "1697-02-24",
     "text_written": "24ten",
-    "not_before": null,
-    "not_after": null,
-    "sender": [
-      {
-        "id": 18,
-        "value": "Pfalz-Neuburg, Johann Wilhelm von",
-        "order": "18.00000000000000000000"
-      }
-    ],
-    "recipient": [
-      {
-        "id": 9,
-        "value": "Eleonora Magdalena Theresia, geb. Pfalz-Neuburg",
-        "order": "9.00000000000000000000"
-      }
-    ],
-    "possible_match": []
-  },
-  "37": {
-    "id": 37,
-    "order": "37.00000000000000000000",
-    "emt_id": "emt_mention_id__37",
-    "when": "1697-04-03",
-    "text_written": "3ten",
     "not_before": null,
     "not_after": null,
     "sender": [
@@ -885,32 +855,8 @@
     "id": 38,
     "order": "38.00000000000000000000",
     "emt_id": "emt_mention_id__38",
-    "when": "1697-04-06",
+    "when": "1697-03-06",
     "text_written": "6ten",
-    "not_before": null,
-    "not_after": null,
-    "sender": [
-      {
-        "id": 18,
-        "value": "Pfalz-Neuburg, Johann Wilhelm von",
-        "order": "18.00000000000000000000"
-      }
-    ],
-    "recipient": [
-      {
-        "id": 9,
-        "value": "Eleonora Magdalena Theresia, geb. Pfalz-Neuburg",
-        "order": "9.00000000000000000000"
-      }
-    ],
-    "possible_match": []
-  },
-  "39": {
-    "id": 39,
-    "order": "39.00000000000000000000",
-    "emt_id": "emt_mention_id__39",
-    "when": "1697-04-07",
-    "text_written": "7ten",
     "not_before": null,
     "not_after": null,
     "sender": [
@@ -933,7 +879,7 @@
     "id": 40,
     "order": "40.00000000000000000000",
     "emt_id": "emt_mention_id__40",
-    "when": "1697-04-10",
+    "when": "1697-03-10",
     "text_written": "10ten dis",
     "not_before": null,
     "not_after": null,
@@ -951,13 +897,7 @@
         "order": "9.00000000000000000000"
       }
     ],
-    "possible_match": [
-      {
-        "id": 35,
-        "value": "emt_mention_id__35",
-        "order": "35.00000000000000000000"
-      }
-    ]
+    "possible_match": []
   },
   "41": {
     "id": 41,
@@ -4340,8 +4280,8 @@
     "id": 181,
     "order": "181.00000000000000000000",
     "emt_id": "emt_mention_id__181",
-    "when": "1689-03-08",
-    "text_written": "8ten dis",
+    "when": "1689-03-05",
+    "text_written": "5ten dis",
     "not_before": null,
     "not_after": null,
     "sender": [
@@ -4358,18 +4298,7 @@
         "order": "9.00000000000000000000"
       }
     ],
-    "possible_match": [
-      {
-        "id": 182,
-        "value": "emt_mention_id__182",
-        "order": "182.00000000000000000000"
-      },
-      {
-        "id": 185,
-        "value": "emt_mention_id__185",
-        "order": "185.00000000000000000000"
-      }
-    ]
+    "possible_match": []
   },
   "182": {
     "id": 182,
@@ -4394,11 +4323,6 @@
       }
     ],
     "possible_match": [
-      {
-        "id": 181,
-        "value": "emt_mention_id__181",
-        "order": "181.00000000000000000000"
-      },
       {
         "id": 185,
         "value": "emt_mention_id__185",
@@ -4477,11 +4401,6 @@
       }
     ],
     "possible_match": [
-      {
-        "id": 181,
-        "value": "emt_mention_id__181",
-        "order": "181.00000000000000000000"
-      },
       {
         "id": 182,
         "value": "emt_mention_id__182",
@@ -4727,13 +4646,7 @@
         "order": "9.00000000000000000000"
       }
     ],
-    "possible_match": [
-      {
-        "id": 198,
-        "value": "emt_mention_id__198",
-        "order": "198.00000000000000000000"
-      }
-    ]
+    "possible_match": []
   },
   "197": {
     "id": 197,
@@ -4741,60 +4654,6 @@
     "emt_id": "emt_mention_id__197",
     "when": "1689-05-24",
     "text_written": "24ten dis",
-    "not_before": null,
-    "not_after": null,
-    "sender": [
-      {
-        "id": 50,
-        "value": "Pfalz-Neuburg, Philipp Wilhelm von",
-        "order": "50.00000000000000000000"
-      }
-    ],
-    "recipient": [
-      {
-        "id": 9,
-        "value": "Eleonora Magdalena Theresia, geb. Pfalz-Neuburg",
-        "order": "9.00000000000000000000"
-      }
-    ],
-    "possible_match": []
-  },
-  "198": {
-    "id": 198,
-    "order": "198.00000000000000000000",
-    "emt_id": "emt_mention_id__198",
-    "when": "1689-05-19",
-    "text_written": "19ten",
-    "not_before": null,
-    "not_after": null,
-    "sender": [
-      {
-        "id": 50,
-        "value": "Pfalz-Neuburg, Philipp Wilhelm von",
-        "order": "50.00000000000000000000"
-      }
-    ],
-    "recipient": [
-      {
-        "id": 9,
-        "value": "Eleonora Magdalena Theresia, geb. Pfalz-Neuburg",
-        "order": "9.00000000000000000000"
-      }
-    ],
-    "possible_match": [
-      {
-        "id": 196,
-        "value": "emt_mention_id__196",
-        "order": "196.00000000000000000000"
-      }
-    ]
-  },
-  "199": {
-    "id": 199,
-    "order": "199.00000000000000000000",
-    "emt_id": "emt_mention_id__199",
-    "when": "1689-05-29",
-    "text_written": "29ten passato",
     "not_before": null,
     "not_after": null,
     "sender": [
@@ -9419,7 +9278,7 @@
     "id": 397,
     "order": "397.00000000000000000000",
     "emt_id": "emt_mention_id__397",
-    "when": "1681-10-17",
+    "when": "1681-11-17",
     "text_written": "17ten",
     "not_before": null,
     "not_after": null,
@@ -9449,7 +9308,7 @@
     "id": 398,
     "order": "398.00000000000000000000",
     "emt_id": "emt_mention_id__398",
-    "when": "1681-10-19",
+    "when": "1681-11-19",
     "text_written": "19ten passato",
     "not_before": null,
     "not_after": null,
@@ -10211,43 +10070,7 @@
         "order": "9.00000000000000000000"
       }
     ],
-    "possible_match": [
-      {
-        "id": 434,
-        "value": "emt_mention_id__434",
-        "order": "434.00000000000000000000"
-      }
-    ]
-  },
-  "434": {
-    "id": 434,
-    "order": "434.00000000000000000000",
-    "emt_id": "emt_mention_id__434",
-    "when": "1683-03-13",
-    "text_written": "13ten dis",
-    "not_before": null,
-    "not_after": null,
-    "sender": [
-      {
-        "id": 50,
-        "value": "Pfalz-Neuburg, Philipp Wilhelm von",
-        "order": "50.00000000000000000000"
-      }
-    ],
-    "recipient": [
-      {
-        "id": 9,
-        "value": "Eleonora Magdalena Theresia, geb. Pfalz-Neuburg",
-        "order": "9.00000000000000000000"
-      }
-    ],
-    "possible_match": [
-      {
-        "id": 433,
-        "value": "emt_mention_id__433",
-        "order": "433.00000000000000000000"
-      }
-    ]
+    "possible_match": []
   },
   "436": {
     "id": 436,
