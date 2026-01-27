@@ -10249,6 +10249,9 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                </person>
                <person xml:id="emt_person_id__977">
                   <persName type="name">Thürheim (1695, Stiefsohn der "Jojerl" Thürheim, reist zu Pfalzgraf Karl von Pfalz-Neuburg)</persName>
+                  <persName type="function">
+                     <roleName>Obristleutnant</roleName>
+                  </persName>
                </person>
                <person xml:id="emt_person_id__978">
                   <persName type="name">Bomgart (1695 erschossen)</persName>
@@ -11455,6 +11458,9 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                </person>
                <person xml:id="emt_person_id__1214">
                   <persName type="name">Pater Jakob (1698)</persName>
+                  <persName type="title">
+                     <roleName>Pater</roleName>
+                  </persName>
                </person>
                <person xml:id="emt_person_id__1215">
                   <persName type="name">Wiser, Ferdinand Andreas von</persName>
@@ -12027,7 +12033,10 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                   <persName type="name">Prior der Wiener Karmeliten OCarm (1700)</persName>
                </person>
                <person xml:id="emt_person_id__1266">
-                  <persName type="name">Pater Lukas 1700</persName>
+                  <persName type="name">Pater Wolf 1701</persName>
+                  <persName type="title">
+                     <roleName>Pater</roleName>
+                  </persName>
                </person>
                <person xml:id="emt_person_id__1267">
                   <persName type="name">Wiener Karmelitinnen</persName>
@@ -12037,6 +12046,93 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                </person>
                <person xml:id="emt_person_id__1269">
                   <persName type="name">Nonnen des Karmelitinnenklosters in Aachen</persName>
+               </person>
+               <person xml:id="emt_person_id__1302">
+                  <persName type="name">Rißenheim (1701 in Wien)</persName>
+               </person>
+               <person xml:id="emt_person_id__1303">
+                  <persName type="name">Lunati 1701</persName>
+               </person>
+               <person xml:id="emt_person_id__1304">
+                  <persName type="name">Liechtenstein, Elisabeth von</persName>
+                  <persName type="title">
+                     <roleName>Fürstin</roleName>
+                  </persName>
+                  <birth>
+                     <date notBefore="1683-01-01" notAfter="1683-12-31">1683</date>
+                  </birth>
+                  <death>
+                     <date notBefore="1744-01-01" notAfter="1744-12-31">1744</date>
+                  </death>
+               </person>
+               <person xml:id="emt_person_id__1305">
+                  <persName type="name">Obersthofmeister der Königin Maria Anna von Spanien 1701</persName>
+               </person>
+               <person xml:id="emt_person_id__1306">
+                  <persName type="name">Obersthofmeisterin der Königin Maria Anna von Spanien 1701</persName>
+               </person>
+               <person xml:id="emt_person_id__1307">
+                  <persName type="name">Spada, Orazio Filippo 1659 – Roma, 28 giugno 1724)</persName>
+                  <persName type="function">
+                     <roleName>Nuntius in Köln (1698-1702)</roleName>
+                  </persName>
+                  <birth>
+                     <date notBefore="1659-01-01" notAfter="1659-12-31">1659</date>
+                  </birth>
+                  <death>
+                     <date notBefore="1724-01-01" notAfter="1724-12-31">1724</date>
+                  </death>
+                  <idno type="GND">https://d-nb.info/gnd/136667430</idno>
+                  <idno type="WIKIDATA">http://www.wikidata.org/entity/Q3355149</idno>
+                  <figure>
+                     <graphic url="emt_person_id__1307.jpg"/>
+                     <caption>Orazio Filippo Spada.jpg</caption>
+                  </figure>
+               </person>
+               <person xml:id="emt_person_id__1308">
+                  <persName type="name">Wratislaw von Mitrowitz, Johann Wenzel von</persName>
+                  <persName type="title">
+                     <roleName>Graf</roleName>
+                  </persName>
+                  <persName type="function">
+                     <roleName>Diplomat, Oberstkanzler in Böhmen</roleName>
+                  </persName>
+                  <birth>
+                     <date notBefore="1669-01-01" notAfter="1669-12-31">1669</date>
+                  </birth>
+                  <death>
+                     <date notBefore="1712-01-01" notAfter="1712-12-31">1712</date>
+                  </death>
+               </person>
+               <person xml:id="emt_person_id__1309">
+                  <persName type="name">Schlik zu Bassano und Weißkirchen, Leopold Anton Joseph von (auch Schlick oder Šlik)</persName>
+                  <persName type="title">
+                     <roleName>Graf</roleName>
+                  </persName>
+                  <persName type="function">
+                     <roleName>Diplomat, kaiserlicher Feldmarschall, Oberster Kanzler von Böhmen (1713-1723)</roleName>
+                  </persName>
+                  <birth>
+                     <date notBefore="1663-01-01" notAfter="1663-12-31">1663</date>
+                  </birth>
+                  <death>
+                     <date notBefore="1723-01-01" notAfter="1723-12-31">1723</date>
+                  </death>
+                  <idno type="GND">https://d-nb.info/gnd/101453089X</idno>
+                  <idno type="WIKIDATA">http://www.wikidata.org/entity/Q1819826</idno>
+                  <figure>
+                     <graphic url="emt_person_id__1309.jpg"/>
+                     <caption>Leopoldus Comes a Schlick.jpg</caption>
+                  </figure>
+               </person>
+               <person xml:id="emt_person_id__1310">
+                  <persName type="name">"ein Bewusster" (1701 aus Wien weggebracht)</persName>
+               </person>
+               <person xml:id="emt_person_id__1311">
+                  <persName type="name">Löwenburg, Johann Jakob von</persName>
+               </person>
+               <person xml:id="emt_person_id__1312">
+                  <persName type="name">Thököly, Katalin</persName>
                </person>
             </listPerson>
          </div>

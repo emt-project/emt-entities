@@ -2298,6 +2298,13 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                <place xml:id="emt_place_id__497">
                   <placeName>Köln, Karmelitinnenkloster</placeName>
                </place>
+               <place xml:id="emt_place_id__530">
+                  <placeName>Sternberg, Herrschaft (tschech. Šternberk)</placeName>
+                  <location type="coords">
+                     <geo>49.73044 17.298890</geo>
+                  </location>
+                  <idno type="GEONAMES">https://sws.geonames.org/3065166/</idno>
+               </place>
             </listPlace>
          </div>
       </body>
