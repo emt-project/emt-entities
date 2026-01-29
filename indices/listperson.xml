@@ -11605,7 +11605,7 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                   </figure>
                </person>
                <person xml:id="emt_person_id__1226">
-                  <persName type="name">Nonnen von Münstereifel OCarm (1698)</persName>
+                  <persName type="name">Würdige Mutter der Karmelitinnen in Aachen 1701</persName>
                </person>
                <person xml:id="emt_person_id__1227">
                   <persName type="name">Margo, ehemalige Kammerdienerin, Karmelitin in Münstereifel (1698</persName>
@@ -11991,7 +11991,7 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                   </persName>
                </person>
                <person xml:id="emt_person_id__1258">
-                  <persName type="name">Ktt/Rett (empfohlen 1700)</persName>
+                  <persName type="name">Kett/Rett (empfohlen 1700)</persName>
                </person>
                <person xml:id="emt_person_id__1259">
                   <persName type="name">Schwester Anna Magdalena von St. Joseph OCarm</persName>
@@ -12045,7 +12045,18 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                   <persName type="name">"die bewuste" (soll 1700 weg aus Düsseldorf)</persName>
                </person>
                <person xml:id="emt_person_id__1269">
-                  <persName type="name">Nonnen des Karmelitinnenklosters in Aachen</persName>
+                  <persName type="name">Plettenberg, Friedrich Mauritz von</persName>
+                  <persName type="function">
+                     <roleName>Domherr in Hildesheim und Münster</roleName>
+                  </persName>
+                  <birth>
+                     <date notBefore="1648-01-01" notAfter="1648-12-31">1648</date>
+                  </birth>
+                  <death>
+                     <date notBefore="1714-01-01" notAfter="1714-12-31">1714</date>
+                  </death>
+                  <idno type="GND">https://d-nb.info/gnd/1216270767</idno>
+                  <idno type="WIKIDATA">http://www.wikidata.org/entity/Q63108038</idno>
                </person>
                <person xml:id="emt_person_id__1302">
                   <persName type="name">Rißenheim (1701 in Wien)</persName>
@@ -12133,6 +12144,99 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                </person>
                <person xml:id="emt_person_id__1312">
                   <persName type="name">Thököly, Katalin</persName>
+               </person>
+               <person xml:id="emt_person_id__1313">
+                  <persName type="name">französischer Gesandter 1701</persName>
+               </person>
+               <person xml:id="emt_person_id__1314">
+                  <persName type="name">Ariberti, Johann Baptist von</persName>
+                  <persName type="function">
+                     <roleName>kaiserlicher Kämmerer</roleName>
+                  </persName>
+                  <birth>
+                     <date notBefore="1612-01-01" notAfter="1612-12-31">1612</date>
+                  </birth>
+                  <death>
+                     <date notBefore="1707-01-01" notAfter="1707-12-31">1707</date>
+                  </death>
+                  <idno type="GND">https://d-nb.info/gnd/1171067399</idno>
+                  <idno type="WIKIDATA">http://www.wikidata.org/entity/Q133688931</idno>
+               </person>
+               <person xml:id="emt_person_id__1315">
+                  <persName type="name">Mecklenburg-Güstrow, Auguste von</persName>
+                  <persName type="title">
+                     <roleName>Herzogin</roleName>
+                  </persName>
+                  <birth>
+                     <date notBefore="1674-01-01" notAfter="1674-12-31">1674</date>
+                  </birth>
+                  <death>
+                     <date notBefore="1756-01-01" notAfter="1756-12-31">1756</date>
+                  </death>
+                  <idno type="GND">https://d-nb.info/gnd/120783401</idno>
+                  <idno type="WIKIDATA">http://www.wikidata.org/entity/Q104055</idno>
+                  <figure>
+                     <graphic url="emt_person_id__1315.jpg"/>
+                     <caption>Augusta von Mecklenburg-Güstrow 1752.JPG</caption>
+                  </figure>
+               </person>
+               <person xml:id="emt_person_id__1316">
+                  <persName type="name">Mecklenburg-Güstrow, Magdalene von</persName>
+                  <persName type="title">
+                     <roleName>Herzogin</roleName>
+                  </persName>
+                  <birth>
+                     <date notBefore="1662-01-01" notAfter="1662-12-31">1662</date>
+                  </birth>
+                  <death>
+                     <date notBefore="1702-01-01" notAfter="1702-12-31">1702</date>
+                  </death>
+               </person>
+               <person xml:id="emt_person_id__1317">
+                  <persName type="name">Greiffenclau zu Vollraths, Johann Phillip von</persName>
+                  <persName type="function">
+                     <roleName>Bischof von Würzburg</roleName>
+                  </persName>
+                  <birth>
+                     <date notBefore="1652-01-01" notAfter="1652-12-31">1652</date>
+                  </birth>
+                  <death>
+                     <date notBefore="1719-01-01" notAfter="1719-12-31">1719</date>
+                  </death>
+                  <idno type="GND">https://d-nb.info/gnd/118911740</idno>
+                  <idno type="WIKIDATA">http://www.wikidata.org/entity/Q87583</idno>
+                  <figure>
+                     <graphic url="emt_person_id__1317.jpg"/>
+                     <caption>Johann Philipp von Greiffenclau Vollraths.jpg</caption>
+                  </figure>
+               </person>
+               <person xml:id="emt_person_id__1318">
+                  <persName type="name">Offizial des Hochstifts Augsburg 1701</persName>
+               </person>
+               <person xml:id="emt_person_id__1319">
+                  <persName type="name">Oberin der Wiener Karmelitinnen 1701</persName>
+               </person>
+               <person xml:id="emt_person_id__1320">
+                  <persName type="name">Davia, Gianantonio</persName>
+                  <persName type="function">
+                     <roleName>Nuntius in Wien (1700-1706)</roleName>
+                  </persName>
+                  <birth>
+                     <date notBefore="1660-01-01" notAfter="1660-12-31">1660</date>
+                  </birth>
+                  <death>
+                     <date notBefore="1740-01-01" notAfter="1740-12-31">1740</date>
+                  </death>
+                  <idno type="GND">https://d-nb.info/gnd/143985523</idno>
+                  <idno type="WIKIDATA">http://www.wikidata.org/entity/Q3105168</idno>
+                  <figure>
+                     <graphic url="emt_person_id__1320.jpg"/>
+                     <caption>Portret van kardinaal Gianantonio Davia, RP-P-1909-5294.jpg</caption>
+                  </figure>
+               </person>
+               <person xml:id="emt_person_id__1321">
+                  <persName type="name">Staudacher, Nikolaus SJ</persName>
+                  <idno type="NDB">https://d-nb.info/gnd/130624314</idno>
                </person>
             </listPerson>
          </div>

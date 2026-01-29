@@ -2261,7 +2261,8 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                   <idno type="GND">https://d-nb.info/gnd/4025322-3</idno>
                </place>
                <place xml:id="emt_place_id__490">
-                  <placeName/>
+                  <placeName>Ehrenbreitstein, Festung</placeName>
+                  <idno type="GND">https://d-nb.info/gnd/1219972703</idno>
                </place>
                <place xml:id="emt_place_id__491">
                   <placeName>Eger / Erlau, Bistum</placeName>
@@ -2304,6 +2305,15 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                      <geo>49.73044 17.298890</geo>
                   </location>
                   <idno type="GEONAMES">https://sws.geonames.org/3065166/</idno>
+               </place>
+               <place xml:id="emt_place_id__531">
+                  <placeName>Aachen, Karmelitinnenkloster</placeName>
+               </place>
+               <place xml:id="emt_place_id__532">
+                  <placeName>Düsseldorf, Karmelitinnenkloster</placeName>
+               </place>
+               <place xml:id="emt_place_id__533">
+                  <placeName>Antwerpen, Karmelitinnenkloster</placeName>
                </place>
             </listPlace>
          </div>

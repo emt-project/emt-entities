@@ -320,5 +320,26 @@
     "name": "Interimsregierung in Spanien",
     "gnd": "",
     "emt_id": "emt_institution_id__141"
+  },
+  "142": {
+    "id": 142,
+    "order": "47.00000000000000000000",
+    "name": "Englisches Parlament",
+    "gnd": "",
+    "emt_id": "emt_institution_id__142"
+  },
+  "143": {
+    "id": 143,
+    "order": "48.00000000000000000000",
+    "name": "Generalstaaten der Vereinigten Niederlande",
+    "gnd": "",
+    "emt_id": "emt_institution_id__143"
+  },
+  "144": {
+    "id": 144,
+    "order": "49.00000000000000000000",
+    "name": "Schwäbischer Kreis",
+    "gnd": "",
+    "emt_id": "emt_institution_id__144"
   }
 }
