@@ -11985,10 +11985,19 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                   <idno type="WIKIDATA">http://www.wikidata.org/entity/Q133593017</idno>
                </person>
                <person xml:id="emt_person_id__1257">
-                  <persName type="name">Löwenstein (soll 1699 im Zusammenhang mit Trier nicht leer ausgehen)</persName>
+                  <persName type="name">Löwenstein, Maximilian Karl von</persName>
                   <persName type="title">
                      <roleName>Graf</roleName>
                   </persName>
+                  <persName type="function">
+                     <roleName>Reichshofrat, kaiserlicher Diplomat und Kämmerer</roleName>
+                  </persName>
+                  <birth>
+                     <date notBefore="1656-01-01" notAfter="1656-12-31">1656</date>
+                  </birth>
+                  <death>
+                     <date notBefore="1718-01-01" notAfter="1718-12-31">1718</date>
+                  </death>
                </person>
                <person xml:id="emt_person_id__1258">
                   <persName type="name">Kett/Rett (empfohlen 1700)</persName>
@@ -12237,6 +12246,12 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                <person xml:id="emt_person_id__1321">
                   <persName type="name">Staudacher, Nikolaus SJ</persName>
                   <idno type="NDB">https://d-nb.info/gnd/130624314</idno>
+               </person>
+               <person xml:id="emt_person_id__1354">
+                  <persName type="name">NN (1701 Dekan in Düsseldorf?)</persName>
+               </person>
+               <person xml:id="emt_person_id__1355">
+                  <persName type="name">Pater Remm 1701</persName>
                </person>
             </listPerson>
          </div>
