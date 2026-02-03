@@ -12252,6 +12252,39 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                </person>
                <person xml:id="emt_person_id__1355">
                   <persName type="name">Pater Remm 1701</persName>
+                  <persName type="title">
+                     <roleName>Pater</roleName>
+                  </persName>
+               </person>
+               <person xml:id="emt_person_id__1356">
+                  <persName type="name">Endigkt (kommt 1701 nach Wien)</persName>
+               </person>
+               <person xml:id="emt_person_id__1357">
+                  <persName type="name">Pater Sauoi 1701</persName>
+                  <persName type="title">
+                     <roleName>Pater</roleName>
+                  </persName>
+               </person>
+               <person xml:id="emt_person_id__1358">
+                  <persName type="name">Leiningen-Rixingen, Philipp Ludwig von</persName>
+                  <persName type="title">
+                     <roleName>Graf</roleName>
+                  </persName>
+                  <persName type="function">
+                     <roleName>kaiserlicher Offizier, General</roleName>
+                  </persName>
+                  <birth>
+                     <date notBefore="1652-01-01" notAfter="1652-12-31">1652</date>
+                  </birth>
+                  <death>
+                     <date notBefore="1705-01-01" notAfter="1705-12-31">1705</date>
+                  </death>
+                  <idno type="GND">https://d-nb.info/gnd/1047000903</idno>
+                  <idno type="WIKIDATA">http://www.wikidata.org/entity/Q2086997</idno>
+                  <figure>
+                     <graphic url="emt_person_id__1358.jpg"/>
+                     <caption>Graf Philipp Ludwig von Leiningen-Westerburg-Rixingen.jpg</caption>
+                  </figure>
                </person>
             </listPerson>
          </div>

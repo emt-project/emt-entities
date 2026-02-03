@@ -29658,6 +29658,99 @@
     "geschlecht": "",
     "funktionsbezeichnungen": "",
     "unidentifiziert": true,
+    "titel": [
+      {
+        "id": 19694,
+        "value": "Pater",
+        "color": "yellow"
+      }
+    ]
+  },
+  "1356": {
+    "id": 1356,
+    "order": "1097.00000000000000000000",
+    "name": "Endigkt (kommt 1701 nach Wien)",
+    "gnd": "",
+    "other_url": "",
+    "emt_id": "emt_person_id__1356",
+    "internal_comment": "Zusammenhang mit Heiratsplan (vermutlich für Bruder Karl)",
+    "color": "",
+    "lebensdaten": "",
+    "ndb": "",
+    "year_of_birth": null,
+    "year_of_death": null,
+    "wikidata_url": "",
+    "wikidata_enriched": false,
+    "img_name": "",
+    "img_fetched": false,
+    "img_source": "",
+    "birth_date_written": "",
+    "death_date_written": "",
+    "geschlecht": "",
+    "funktionsbezeichnungen": "",
+    "unidentifiziert": true,
     "titel": []
+  },
+  "1357": {
+    "id": 1357,
+    "order": "1098.00000000000000000000",
+    "name": "Pater Sauoi 1701",
+    "gnd": "",
+    "other_url": "",
+    "emt_id": "emt_person_id__1357",
+    "internal_comment": "",
+    "color": "",
+    "lebensdaten": "",
+    "ndb": "",
+    "year_of_birth": null,
+    "year_of_death": null,
+    "wikidata_url": "",
+    "wikidata_enriched": false,
+    "img_name": "",
+    "img_fetched": false,
+    "img_source": "",
+    "birth_date_written": "",
+    "death_date_written": "",
+    "geschlecht": "",
+    "funktionsbezeichnungen": "",
+    "unidentifiziert": true,
+    "titel": [
+      {
+        "id": 19694,
+        "value": "Pater",
+        "color": "yellow"
+      }
+    ]
+  },
+  "1358": {
+    "id": 1358,
+    "order": "1099.00000000000000000000",
+    "name": "Leiningen-Rixingen, Philipp Ludwig von",
+    "gnd": "https://d-nb.info/gnd/1047000903",
+    "other_url": "",
+    "emt_id": "emt_person_id__1358",
+    "internal_comment": "",
+    "color": "",
+    "lebensdaten": "",
+    "ndb": "",
+    "year_of_birth": "1652",
+    "year_of_death": "1705",
+    "wikidata_url": "http://www.wikidata.org/entity/Q2086997",
+    "wikidata_enriched": true,
+    "img_name": "Graf Philipp Ludwig von Leiningen-Westerburg-Rixingen.jpg",
+    "img_fetched": true,
+    "img_source": "commonsMedia",
+    "birth_date_written": "",
+    "death_date_written": "",
+    "geschlecht": "",
+    "funktionsbezeichnungen": "kaiserlicher Offizier, General",
+    "unidentifiziert": false,
+    "titel": [
+      {
+        "id": 19689,
+        "value": "Graf",
+        "color": "purple"
+      }
+    ]
   }
 }
