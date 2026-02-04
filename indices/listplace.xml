@@ -542,7 +542,7 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                   <idno type="GEONAMES">https://sws.geonames.org/2802361/</idno>
                </place>
                <place xml:id="emt_place_id__75">
-                  <placeName>Sizilien</placeName>
+                  <placeName>Sizilien, Königreich</placeName>
                   <location type="coords">
                      <geo>37.62304 13.934570</geo>
                   </location>
@@ -2314,6 +2314,12 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                </place>
                <place xml:id="emt_place_id__533">
                   <placeName>Antwerpen, Karmelitinnenkloster</placeName>
+               </place>
+               <place xml:id="emt_place_id__566">
+                  <placeName>Heidelberg, Karmeliterkloster</placeName>
+               </place>
+               <place xml:id="emt_place_id__567">
+                  <placeName>Schneiderau bei Laxenburg</placeName>
                </place>
             </listPlace>
          </div>

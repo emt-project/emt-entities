@@ -3736,6 +3736,9 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                   <persName type="title">
                      <roleName>Graf</roleName>
                   </persName>
+                  <persName type="function">
+                     <roleName>Oberstküchenmeister, ab 1701 Vizepräsident der Hofkammer</roleName>
+                  </persName>
                   <birth>
                      <date notBefore="1648-01-01" notAfter="1648-12-31">1648</date>
                   </birth>
@@ -4861,7 +4864,7 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                      <roleName>Graf</roleName>
                   </persName>
                   <persName type="function">
-                     <roleName>General</roleName>
+                     <roleName>General, Hofkriegsratspräsident</roleName>
                   </persName>
                   <birth>
                      <date notBefore="1638-01-01" notAfter="1638-12-31">1638</date>
@@ -5930,7 +5933,7 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                      <roleName>Graf</roleName>
                   </persName>
                   <persName type="function">
-                     <roleName>General</roleName>
+                     <roleName>General, Trabantenhauptmann</roleName>
                   </persName>
                   <birth>
                      <date notBefore="1657-01-01" notAfter="1657-12-31">1657</date>
@@ -6163,6 +6166,9 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                   <persName type="title">
                      <roleName>Fürst</roleName>
                   </persName>
+                  <persName type="function">
+                     <roleName>Oberststallmeister</roleName>
+                  </persName>
                   <birth>
                      <date notBefore="1660-01-01" notAfter="1660-12-31">1660</date>
                   </birth>
@@ -6312,7 +6318,7 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                   <idno type="WIKIDATA">http://www.wikidata.org/entity/Q55904203</idno>
                </person>
                <person xml:id="emt_person_id__547">
-                  <persName type="name">Jägermeister, möglicherweise ein Hompesch 1691</persName>
+                  <persName type="name">Jägermeister, möglicherweise Wilhelm Degenhard von Hompesch, 1691</persName>
                   <idno type="URL">https://de.wikipedia.org/wiki/Hompesch_(Adelsgeschlecht)#Zweig_Hompesch-Bollheim</idno>
                </person>
                <person xml:id="emt_person_id__551">
@@ -6952,7 +6958,7 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                   <idno type="WIKIDATA">http://www.wikidata.org/entity/Q55901942</idno>
                </person>
                <person xml:id="emt_person_id__616">
-                  <persName type="name">Vocht / Vogt  (im Umkreis von Pfalzgraf Karl Philipp, ab 1693)</persName>
+                  <persName type="name">Vocht / Vogt / Voget (im Umkreis von Pfalzgraf Karl Philipp, ab 1693)</persName>
                </person>
                <person xml:id="emt_person_id__617">
                   <persName type="name">Losenstein, Franz Anton von</persName>
@@ -11855,7 +11861,10 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                   </persName>
                </person>
                <person xml:id="emt_person_id__1244">
-                  <persName type="name">Vogt (Witwe 1699)</persName>
+                  <persName type="name">Vogt /Vogtin/ Voget (Witwe 1699)</persName>
+                  <death>
+                     <date notBefore="1701-01-01" notAfter="1701-12-31">1701</date>
+                  </death>
                </person>
                <person xml:id="emt_person_id__1245">
                   <persName type="name">Österreich, Maria Josepha von</persName>
@@ -11971,9 +11980,10 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                   <persName type="name">Anna Liesel (hat Erzherzogin Anna Josepha lang gedient, 1696 und 1699 empfohlen)</persName>
                </person>
                <person xml:id="emt_person_id__1255">
-                  <persName type="name">Winkelhausen, Frau von (1699)</persName>
+                  <persName type="name">Winkelhausen, Anna Maria von, geb. von Hompesch</persName>
                   <idno type="GND">https://d-nb.info/gnd/142362360</idno>
                   <idno type="WIKIDATA">http://www.wikidata.org/entity/Q1315132</idno>
+                  <idno type="URL">https://de.wikipedia.org/wiki/Winkelhausen_(Adelsgeschlecht)</idno>
                </person>
                <person xml:id="emt_person_id__1256">
                   <persName type="name">Paar, Joseph Ignaz von</persName>
@@ -12092,7 +12102,7 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                   <persName type="name">Obersthofmeisterin der Königin Maria Anna von Spanien 1701</persName>
                </person>
                <person xml:id="emt_person_id__1307">
-                  <persName type="name">Spada, Orazio Filippo 1659 – Roma, 28 giugno 1724)</persName>
+                  <persName type="name">Spada, Orazio Filippo</persName>
                   <persName type="function">
                      <roleName>Nuntius in Köln (1698-1702)</roleName>
                   </persName>
@@ -12284,6 +12294,48 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                   <figure>
                      <graphic url="emt_person_id__1358.jpg"/>
                      <caption>Graf Philipp Ludwig von Leiningen-Westerburg-Rixingen.jpg</caption>
+                  </figure>
+               </person>
+               <person xml:id="emt_person_id__1391">
+                  <persName type="name">Salburg, Gotthard von</persName>
+                  <persName type="title">
+                     <roleName>Graf</roleName>
+                  </persName>
+                  <persName type="function">
+                     <roleName>Hofkammerpräsident 1700-1703</roleName>
+                  </persName>
+                  <birth>
+                     <date notBefore="1639-01-01" notAfter="1639-12-31">1639</date>
+                  </birth>
+                  <death>
+                     <date notBefore="1707-01-01" notAfter="1707-12-31">1707</date>
+                  </death>
+                  <idno type="GND">https://d-nb.info/gnd/1218227052</idno>
+                  <idno type="URL">https://viecpro.acdh.oeaw.ac.at/persons/287411</idno>
+               </person>
+               <person xml:id="emt_person_id__1392">
+                  <persName type="name">Montoimer (1701 Oberin der Karmelitinnen in Wien)</persName>
+               </person>
+               <person xml:id="emt_person_id__1393">
+                  <persName type="name">Lamberg, Leopold Joseph von</persName>
+                  <persName type="title">
+                     <roleName>Graf</roleName>
+                  </persName>
+                  <persName type="function">
+                     <roleName>kaiserlicher Botschafter in Rom 1700-1705</roleName>
+                  </persName>
+                  <birth>
+                     <date notBefore="1654-01-01" notAfter="1654-12-31">1654</date>
+                  </birth>
+                  <death>
+                     <date notBefore="1706-01-01" notAfter="1706-12-31">1706</date>
+                  </death>
+                  <idno type="GND">https://d-nb.info/gnd/104189614</idno>
+                  <idno type="NDB">https://www.deutsche-biographie.de/pnd104189614.html#indexcontent</idno>
+                  <idno type="WIKIDATA">http://www.wikidata.org/entity/Q1763675</idno>
+                  <figure>
+                     <graphic url="emt_person_id__1393.jpg"/>
+                     <caption>Leopold Joseph Lamberg.jpg</caption>
                   </figure>
                </person>
             </listPerson>
