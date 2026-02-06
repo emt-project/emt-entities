@@ -5473,5 +5473,35 @@
     "alternative_name": "",
     "wikidata_url": "",
     "unidentifiziert": false
+  },
+  "568": {
+    "id": 568,
+    "order": "372.00000000000000000000",
+    "name": "Rheinberg",
+    "geonames": "https://www.geonames.org/2847662/rheinberg.html",
+    "emt_id": "emt_place_id__568",
+    "place_type": null,
+    "lat": "51.54649",
+    "long": "6.595250",
+    "comments intern": "",
+    "gnd": "",
+    "alternative_name": "",
+    "wikidata_url": "",
+    "unidentifiziert": false
+  },
+  "569": {
+    "id": 569,
+    "order": "373.00000000000000000000",
+    "name": "Mailand, Herzogtum",
+    "geonames": "",
+    "emt_id": "emt_place_id__569",
+    "place_type": null,
+    "lat": null,
+    "long": null,
+    "comments intern": "",
+    "gnd": "",
+    "alternative_name": "",
+    "wikidata_url": "",
+    "unidentifiziert": false
   }
 }

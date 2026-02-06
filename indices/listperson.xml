@@ -3243,6 +3243,9 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                </person>
                <person xml:id="emt_person_id__242">
                   <persName type="name">Markgräfin, die im April 1680 in Prag Audienz bei EMT hat</persName>
+                  <persName type="title">
+                     <roleName>Markgräfin</roleName>
+                  </persName>
                </person>
                <person xml:id="emt_person_id__243">
                   <persName type="name">Kammerdienerin bei Erzherzog Joseph 1680</persName>
@@ -6760,7 +6763,7 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                      <roleName>Graf</roleName>
                   </persName>
                   <persName type="function">
-                     <roleName>General, Feldmarschallleutnant</roleName>
+                     <roleName>General, Feldmarschallleutnant, Diplomat, Oberstkämmerer</roleName>
                   </persName>
                   <birth>
                      <date notBefore="1628-01-01" notAfter="1628-12-31">1628</date>
@@ -11445,7 +11448,7 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                   <persName type="name">Pecori (1698 empfohlen)</persName>
                </person>
                <person xml:id="emt_person_id__1212">
-                  <persName type="name">NN SJ (1698)</persName>
+                  <persName type="name">Valtiner, Georg SJ</persName>
                   <persName type="title">
                      <roleName>Pater</roleName>
                   </persName>
@@ -12337,6 +12340,126 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                      <graphic url="emt_person_id__1393.jpg"/>
                      <caption>Leopold Joseph Lamberg.jpg</caption>
                   </figure>
+               </person>
+               <person xml:id="emt_person_id__1394">
+                  <persName type="name">Kanzler (Schlesien? Deutscher Orden?) "zu Bamberg" 1701</persName>
+               </person>
+               <person xml:id="emt_person_id__1395">
+                  <persName type="name">Mülholzer, Friedrich SJ</persName>
+                  <persName type="title">
+                     <roleName>Pater</roleName>
+                  </persName>
+               </person>
+               <person xml:id="emt_person_id__1396">
+                  <persName type="name">Fürstenberg, Maria Theresia von</persName>
+                  <persName type="title">
+                     <roleName>Gräfin</roleName>
+                  </persName>
+                  <persName type="function">
+                     <roleName>früheres Kammerfräulein EMTs.</roleName>
+                  </persName>
+                  <idno type="URL">https://viecpro.acdh.oeaw.ac.at/persons/252540</idno>
+               </person>
+               <person xml:id="emt_person_id__1397">
+                  <persName type="name">Puchot, Pierre marquis des Alleurs, comte de Clinchamp</persName>
+                  <persName type="title">
+                     <roleName>Marquis</roleName>
+                  </persName>
+                  <persName type="function">
+                     <roleName>französischer Gesandter in Köln</roleName>
+                  </persName>
+                  <birth>
+                     <date notBefore="1643-01-01" notAfter="1643-12-31">1643</date>
+                  </birth>
+                  <death>
+                     <date notBefore="1725-01-01" notAfter="1725-12-31">1725</date>
+                  </death>
+                  <idno type="WIKIDATA">http://www.wikidata.org/entity/Q11816656</idno>
+               </person>
+               <person xml:id="emt_person_id__1398">
+                  <persName type="name">Moles, Francesco Duca di Parete</persName>
+                  <persName type="title">
+                     <roleName>duca</roleName>
+                  </persName>
+                  <persName type="function">
+                     <roleName>Diplomat</roleName>
+                  </persName>
+                  <death>
+                     <date notBefore="1713-01-01" notAfter="1713-12-31">1713</date>
+                  </death>
+                  <idno type="URL">https://www.treccani.it/enciclopedia/francesco-moles_(Dizionario-Biografico)/</idno>
+               </person>
+               <person xml:id="emt_person_id__1399">
+                  <persName type="name">Österreich, Mara Amalia von</persName>
+                  <persName type="title">
+                     <roleName>Erzherzogin</roleName>
+                  </persName>
+                  <birth>
+                     <date notBefore="1701-01-01" notAfter="1701-12-31">1701</date>
+                  </birth>
+                  <death>
+                     <date notBefore="1756-01-01" notAfter="1756-12-31">1756</date>
+                  </death>
+                  <idno type="GND">https://d-nb.info/gnd/11949213X</idno>
+                  <idno type="NDB">https://www.deutsche-biographie.de/sfz58286.html#</idno>
+                  <idno type="WIKIDATA">http://www.wikidata.org/entity/Q231441</idno>
+                  <figure>
+                     <graphic url="emt_person_id__1399.jpg"/>
+                     <caption>Maria Amalia of Austriakaiserin.jpg</caption>
+                  </figure>
+               </person>
+               <person xml:id="emt_person_id__1400">
+                  <persName type="name">Lorraine-Vaudémont, Charles Thomas de</persName>
+                  <persName type="title">
+                     <roleName>Prinz</roleName>
+                  </persName>
+                  <persName type="function">
+                     <roleName>kaiserlicher Feldmarschall</roleName>
+                  </persName>
+                  <birth>
+                     <date notBefore="1670-01-01" notAfter="1670-12-31">1670</date>
+                  </birth>
+                  <death>
+                     <date notBefore="1704-01-01" notAfter="1704-12-31">1704</date>
+                  </death>
+                  <idno type="GND">https://d-nb.info/gnd/122945808</idno>
+                  <idno type="NDB">https://www.deutsche-biographie.de/pnd122945808.html#indexcontent</idno>
+                  <idno type="WIKIDATA">http://www.wikidata.org/entity/Q473543</idno>
+                  <figure>
+                     <graphic url="emt_person_id__1400.jpg"/>
+                     <caption>Princeps a Vaudemont.jpg</caption>
+                  </figure>
+               </person>
+               <person xml:id="emt_person_id__1401">
+                  <persName type="name">Monroi 1701 im Spanischen Erbfolgekrieg gefangen genommen</persName>
+               </person>
+               <person xml:id="emt_person_id__1402">
+                  <persName type="name">Kommissar des Hofkriegsrats 1701</persName>
+               </person>
+               <person xml:id="emt_person_id__1403">
+                  <persName type="name">Baden, Maria Franziska von, geb. von Fürstenberg-Heiligenberg, verwitwete Pfalzgräfin von Neuburg</persName>
+                  <persName type="title">
+                     <roleName>Markgräfin</roleName>
+                  </persName>
+                  <persName type="title">
+                     <roleName>Pfalzgräfin</roleName>
+                  </persName>
+                  <birth>
+                     <date notBefore="1633-01-01" notAfter="1633-12-31">1633</date>
+                  </birth>
+                  <death>
+                     <date notBefore="1702-01-01" notAfter="1702-12-31">1702</date>
+                  </death>
+                  <idno type="GND">https://d-nb.info/gnd/10418387X</idno>
+                  <idno type="NDB">https://www.deutsche-biographie.de/sfz145342.html#index</idno>
+                  <idno type="WIKIDATA">http://www.wikidata.org/entity/Q1895876</idno>
+                  <figure>
+                     <graphic url="emt_person_id__1403.jpg"/>
+                     <caption>Merian - Markgräfin Maria Franziska von Baden-Baden - Staatliche Kunsthalle Karlsruhe.jpg</caption>
+                  </figure>
+               </person>
+               <person xml:id="emt_person_id__1404">
+                  <persName type="name">Pater Provinzial, Schreiben 1701</persName>
                </person>
             </listPerson>
          </div>

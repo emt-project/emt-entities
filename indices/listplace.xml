@@ -2321,6 +2321,16 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                <place xml:id="emt_place_id__567">
                   <placeName>Schneiderau bei Laxenburg</placeName>
                </place>
+               <place xml:id="emt_place_id__568">
+                  <placeName>Rheinberg</placeName>
+                  <location type="coords">
+                     <geo>51.54649 6.595250</geo>
+                  </location>
+                  <idno type="GEONAMES">https://sws.geonames.org/2847662/</idno>
+               </place>
+               <place xml:id="emt_place_id__569">
+                  <placeName>Mailand, Herzogtum</placeName>
+               </place>
             </listPlace>
          </div>
       </body>
