@@ -2597,6 +2597,11 @@
         "id": 19693,
         "value": "Fürst",
         "color": "green"
+      },
+      {
+        "id": 19710,
+        "value": "Kardinal",
+        "color": "darker-purple"
       }
     ]
   },
@@ -13068,7 +13073,7 @@
     "gnd": "http://d-nb.info/100242596",
     "other_url": "",
     "emt_id": "emt_person_id__481",
-    "internal_comment": "1684 als Abgesandter in Berlin (Bittner/Groß 128)",
+    "internal_comment": "1684 als Abgesandter in Berlin (Bittner/Groß 128). habe ihn in EMT 24.12.1701 als den Kardinal getaggt, der schon aus Regensburg weg ist, weil dort eh nichts passiert - denn er war 1700 auf kaiserlichen Vorschlag Kardinal geworden",
     "color": "",
     "lebensdaten": "",
     "ndb": "https://www.deutsche-biographie.de/sfz45858.html",
@@ -13089,6 +13094,11 @@
         "id": 19689,
         "value": "Graf",
         "color": "purple"
+      },
+      {
+        "id": 19710,
+        "value": "Kardinal",
+        "color": "darker-purple"
       }
     ]
   },
@@ -30167,5 +30177,123 @@
     "funktionsbezeichnungen": "",
     "unidentifiziert": true,
     "titel": []
+  },
+  "1405": {
+    "id": 1405,
+    "order": "1114.00000000000000000000",
+    "name": "Van Mehse, Leandro / Leander 1701, zur Einrichtung der Münze in Wien",
+    "gnd": "",
+    "other_url": "",
+    "emt_id": "emt_person_id__1405",
+    "internal_comment": "",
+    "color": "",
+    "lebensdaten": "",
+    "ndb": "",
+    "year_of_birth": null,
+    "year_of_death": null,
+    "wikidata_url": "",
+    "wikidata_enriched": false,
+    "img_name": "",
+    "img_fetched": false,
+    "img_source": "",
+    "birth_date_written": "",
+    "death_date_written": "",
+    "geschlecht": "",
+    "funktionsbezeichnungen": "",
+    "unidentifiziert": true,
+    "titel": []
+  },
+  "1406": {
+    "id": 1406,
+    "order": "1115.00000000000000000000",
+    "name": "Schwarzenberg, Adam Franz Karl",
+    "gnd": "https://d-nb.info/gnd/119154056",
+    "other_url": "",
+    "emt_id": "emt_person_id__1406",
+    "internal_comment": "",
+    "color": "",
+    "lebensdaten": "",
+    "ndb": "https://www.deutsche-biographie.de/pnd119154056.html#indexcontent",
+    "year_of_birth": "1680",
+    "year_of_death": "1732",
+    "wikidata_url": "http://www.wikidata.org/entity/Q320833",
+    "wikidata_enriched": true,
+    "img_name": "Schwarzenberg, Adam Franz.jpg",
+    "img_fetched": true,
+    "img_source": "commonsMedia",
+    "birth_date_written": "",
+    "death_date_written": "",
+    "geschlecht": "",
+    "funktionsbezeichnungen": "",
+    "unidentifiziert": false,
+    "titel": [
+      {
+        "id": 19693,
+        "value": "Fürst",
+        "color": "green"
+      }
+    ]
+  },
+  "1407": {
+    "id": 1407,
+    "order": "1116.00000000000000000000",
+    "name": "Lobkowitz, Eleonore von, verh. Schwarzenberg",
+    "gnd": "https://d-nb.info/gnd/1026150620",
+    "other_url": "",
+    "emt_id": "emt_person_id__1407",
+    "internal_comment": "",
+    "color": "",
+    "lebensdaten": "",
+    "ndb": "https://www.deutsche-biographie.de/pnd1026150620.html#index",
+    "year_of_birth": "1682",
+    "year_of_death": "1741",
+    "wikidata_url": "http://www.wikidata.org/entity/Q443498",
+    "wikidata_enriched": true,
+    "img_name": "Eleonora Amálie.jpg",
+    "img_fetched": true,
+    "img_source": "commonsMedia",
+    "birth_date_written": "",
+    "death_date_written": "",
+    "geschlecht": "",
+    "funktionsbezeichnungen": "",
+    "unidentifiziert": false,
+    "titel": [
+      {
+        "id": 19711,
+        "value": "Fürstin",
+        "color": "light-cyan"
+      }
+    ]
+  },
+  "1408": {
+    "id": 1408,
+    "order": "1117.00000000000000000000",
+    "name": "Starhemberg, Gundakar Thomas von",
+    "gnd": "",
+    "other_url": "",
+    "emt_id": "emt_person_id__1408",
+    "internal_comment": "hab ihn mit cert low in EMT 24.12.1701 getaggt, weil Ernst Rüdiger im Sommer 1701 gestorben und Gundakar Thomas Karriere da offenbar gerade richtig Fahrt aufnimmt (war seit 1698 Vize-Kammerpräsident, 1703 stürzt er mansfeld und salburg und macht Prinz Eugenzum Hofkriegsratspräsidenten)",
+    "color": "",
+    "lebensdaten": "",
+    "ndb": "",
+    "year_of_birth": "1663",
+    "year_of_death": "1745",
+    "wikidata_url": "",
+    "wikidata_enriched": false,
+    "img_name": "",
+    "img_fetched": false,
+    "img_source": "",
+    "birth_date_written": "",
+    "death_date_written": "",
+    "geschlecht": "",
+    "funktionsbezeichnungen": "",
+    "unidentifiziert": false,
+    "titel": [
+      {
+        "id": 19689,
+        "value": "Graf",
+        "color": "purple"
+      }
+    ]
   }
 }

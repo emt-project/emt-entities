@@ -1468,6 +1468,9 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                   <persName type="title">
                      <roleName>Fürst</roleName>
                   </persName>
+                  <persName type="title">
+                     <roleName>Kardinal</roleName>
+                  </persName>
                   <persName type="function">
                      <roleName>Bischof von Straßburg, Kardinal</roleName>
                   </persName>
@@ -5661,6 +5664,9 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                   <persName type="name">Lamberg, Johann Philipp von</persName>
                   <persName type="title">
                      <roleName>Graf</roleName>
+                  </persName>
+                  <persName type="title">
+                     <roleName>Kardinal</roleName>
                   </persName>
                   <persName type="function">
                      <roleName>Diplomat, Bischof von Passau 1689-1712, Kardinal</roleName>
@@ -12460,6 +12466,59 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                </person>
                <person xml:id="emt_person_id__1404">
                   <persName type="name">Pater Provinzial, Schreiben 1701</persName>
+               </person>
+               <person xml:id="emt_person_id__1405">
+                  <persName type="name">Van Mehse, Leandro / Leander 1701, zur Einrichtung der Münze in Wien</persName>
+               </person>
+               <person xml:id="emt_person_id__1406">
+                  <persName type="name">Schwarzenberg, Adam Franz Karl</persName>
+                  <persName type="title">
+                     <roleName>Fürst</roleName>
+                  </persName>
+                  <birth>
+                     <date notBefore="1680-01-01" notAfter="1680-12-31">1680</date>
+                  </birth>
+                  <death>
+                     <date notBefore="1732-01-01" notAfter="1732-12-31">1732</date>
+                  </death>
+                  <idno type="GND">https://d-nb.info/gnd/119154056</idno>
+                  <idno type="NDB">https://www.deutsche-biographie.de/pnd119154056.html#indexcontent</idno>
+                  <idno type="WIKIDATA">http://www.wikidata.org/entity/Q320833</idno>
+                  <figure>
+                     <graphic url="emt_person_id__1406.jpg"/>
+                     <caption>Schwarzenberg, Adam Franz.jpg</caption>
+                  </figure>
+               </person>
+               <person xml:id="emt_person_id__1407">
+                  <persName type="name">Lobkowitz, Eleonore von, verh. Schwarzenberg</persName>
+                  <persName type="title">
+                     <roleName>Fürstin</roleName>
+                  </persName>
+                  <birth>
+                     <date notBefore="1682-01-01" notAfter="1682-12-31">1682</date>
+                  </birth>
+                  <death>
+                     <date notBefore="1741-01-01" notAfter="1741-12-31">1741</date>
+                  </death>
+                  <idno type="GND">https://d-nb.info/gnd/1026150620</idno>
+                  <idno type="NDB">https://www.deutsche-biographie.de/pnd1026150620.html#index</idno>
+                  <idno type="WIKIDATA">http://www.wikidata.org/entity/Q443498</idno>
+                  <figure>
+                     <graphic url="emt_person_id__1407.jpg"/>
+                     <caption>Eleonora Amálie.jpg</caption>
+                  </figure>
+               </person>
+               <person xml:id="emt_person_id__1408">
+                  <persName type="name">Starhemberg, Gundakar Thomas von</persName>
+                  <persName type="title">
+                     <roleName>Graf</roleName>
+                  </persName>
+                  <birth>
+                     <date notBefore="1663-01-01" notAfter="1663-12-31">1663</date>
+                  </birth>
+                  <death>
+                     <date notBefore="1745-01-01" notAfter="1745-12-31">1745</date>
+                  </death>
                </person>
             </listPerson>
          </div>
