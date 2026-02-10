@@ -2579,7 +2579,7 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                      <roleName>Fürst</roleName>
                   </persName>
                   <persName type="function">
-                     <roleName>kaiserlicher Botschafter in Spanien, Gesandter, Hofkriegsratspräsident</roleName>
+                     <roleName>kaiserlicher Botschafter in Spanien, Gesandter, Hofkriegsratspräsident (1701-1703)</roleName>
                   </persName>
                   <birth>
                      <date notBefore="1640-01-01" notAfter="1640-12-31">1640</date>
@@ -12519,6 +12519,21 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                   <death>
                      <date notBefore="1745-01-01" notAfter="1745-12-31">1745</date>
                   </death>
+               </person>
+               <person xml:id="emt_person_id__1409">
+                  <persName type="name">Beywang, wird 1701 empfohlen</persName>
+               </person>
+               <person xml:id="emt_person_id__1410">
+                  <persName type="name">Wilich (Wylich?) wird 1701 empfohlen</persName>
+               </person>
+               <person xml:id="emt_person_id__1411">
+                  <persName type="name">NN (Tochter des Antonio Ansalone, wird 1701 empfohlen)</persName>
+               </person>
+               <person xml:id="emt_person_id__1412">
+                  <persName type="name">Ansalone, Bartolomeo Antonio</persName>
+                  <persName type="function">
+                     <roleName>Sänger, pfälzischer Kammermusiker und Kammerdiener</roleName>
+                  </persName>
                </person>
             </listPerson>
          </div>
