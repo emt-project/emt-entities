@@ -2331,6 +2331,14 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                <place xml:id="emt_place_id__569">
                   <placeName>Mailand, Herzogtum</placeName>
                </place>
+               <place xml:id="emt_place_id__602">
+                  <placeName>Cremona</placeName>
+                  <location type="coords">
+                     <geo>45.13325 10.021290</geo>
+                  </location>
+                  <idno type="GEONAMES">https://sws.geonames.org/3177838/</idno>
+                  <idno type="GND">https://d-nb.info/gnd/4010700-0</idno>
+               </place>
             </listPlace>
          </div>
       </body>

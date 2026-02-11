@@ -5441,6 +5441,9 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                   <birth>
                      <date notBefore="1639-01-01" notAfter="1639-12-31">1639</date>
                   </birth>
+                  <death>
+                     <date notBefore="1704-01-01" notAfter="1704-12-31">1704</date>
+                  </death>
                   <idno type="GND">https://d-nb.info/gnd/138584494</idno>
                   <idno type="NDB">https://www.deutsche-biographie.de/sfz82105.html#</idno>
                   <idno type="WIKIDATA">http://www.wikidata.org/entity/Q1441744</idno>
@@ -7928,7 +7931,7 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                   </figure>
                </person>
                <person xml:id="emt_person_id__714">
-                  <persName type="name">Perseus, gibt 1687 Mitteilung über Gesundung des Deutschmeisters</persName>
+                  <persName type="name">Perseus, gibt 1687 Mitteilung über Gesundung des Deutschmeisters, 1702 krank</persName>
                </person>
                <person xml:id="emt_person_id__715">
                   <persName type="name">Rustem Pascha</persName>
@@ -12534,6 +12537,71 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                   <persName type="function">
                      <roleName>Sänger, pfälzischer Kammermusiker und Kammerdiener</roleName>
                   </persName>
+               </person>
+               <person xml:id="emt_person_id__1445">
+                  <persName type="name">Starhemberg, Maria Esther Theresia</persName>
+                  <persName type="title">
+                     <roleName>Gräfin</roleName>
+                  </persName>
+                  <persName type="function">
+                     <roleName>Hoffräulein 1698-1702</roleName>
+                  </persName>
+                  <birth>
+                     <date notBefore="1678-01-01" notAfter="1678-12-31">1678</date>
+                  </birth>
+                  <death>
+                     <date notBefore="1735-01-01" notAfter="1735-12-31">1735</date>
+                  </death>
+               </person>
+               <person xml:id="emt_person_id__1446">
+                  <persName type="name">Pontifeser, Gabriel OFMCap</persName>
+                  <persName type="title">
+                     <roleName>Pater</roleName>
+                  </persName>
+                  <persName type="function">
+                     <roleName>Beichtvater der Königin Maria Anna von Spanien 1692-1702</roleName>
+                  </persName>
+                  <birth>
+                     <date notBefore="1653-01-01" notAfter="1653-12-31">1653</date>
+                  </birth>
+                  <death>
+                     <date notBefore="1707-01-01" notAfter="1707-12-31">1707</date>
+                  </death>
+                  <idno type="WIKIDATA">http://www.wikidata.org/entity/Q108799828</idno>
+                  <figure>
+                     <graphic url="emt_person_id__1446.jpg"/>
+                     <caption>Gabriel de Chiusa.jpg</caption>
+                  </figure>
+               </person>
+               <person xml:id="emt_person_id__1447">
+                  <persName type="name">Fourtin (verbreitet 1702 Gerüchte)</persName>
+               </person>
+               <person xml:id="emt_person_id__1448">
+                  <persName type="name">François de Neufville, duc de Villeroy</persName>
+                  <persName type="title">
+                     <roleName>Duc</roleName>
+                  </persName>
+                  <persName type="function">
+                     <roleName>französischer General</roleName>
+                  </persName>
+                  <birth>
+                     <date notBefore="1644-01-01" notAfter="1644-12-31">1644</date>
+                  </birth>
+                  <death>
+                     <date notBefore="1730-01-01" notAfter="1730-12-31">1730</date>
+                  </death>
+                  <idno type="GND">https://d-nb.info/gnd/117427624</idno>
+                  <idno type="WIKIDATA">http://www.wikidata.org/entity/Q453571</idno>
+                  <figure>
+                     <graphic url="emt_person_id__1448.jpg"/>
+                     <caption>Caminade - François de Neufville de Villeroy (1644-1730) - MV 1043.jpg</caption>
+                  </figure>
+               </person>
+               <person xml:id="emt_person_id__1449">
+                  <persName type="name">Sölner (übergibt 1702 ein Memorial)</persName>
+               </person>
+               <person xml:id="emt_person_id__1450">
+                  <persName type="name"/>
                </person>
             </listPerson>
          </div>

@@ -5503,5 +5503,20 @@
     "alternative_name": "",
     "wikidata_url": "",
     "unidentifiziert": false
+  },
+  "602": {
+    "id": 602,
+    "order": "374.00000000000000000000",
+    "name": "Cremona",
+    "geonames": "https://www.geonames.org/3177838/cremona.html",
+    "emt_id": "emt_place_id__602",
+    "place_type": null,
+    "lat": "45.13325",
+    "long": "10.021290",
+    "comments intern": "",
+    "gnd": "https://d-nb.info/gnd/4010700-0",
+    "alternative_name": "",
+    "wikidata_url": "",
+    "unidentifiziert": false
   }
 }

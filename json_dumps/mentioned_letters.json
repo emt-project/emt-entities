@@ -321,29 +321,6 @@
       }
     ]
   },
-  "16": {
-    "id": 16,
-    "order": "16.00000000000000000000",
-    "emt_id": "emt_letter_id__16",
-    "when": "1696-06-01",
-    "text_written": "1ten dis",
-    "not_before": null,
-    "not_after": null,
-    "sender": [
-      {
-        "id": 10,
-        "value": "Pfalz-Neuburg, Elisabeth Amalie von, geb. Hessen-Darmstadt",
-        "order": "10.00000000000000000000"
-      }
-    ],
-    "recipient": [
-      {
-        "id": 9,
-        "value": "Eleonora Magdalena Theresia, geb. Pfalz-Neuburg",
-        "order": "9.00000000000000000000"
-      }
-    ]
-  },
   "17": {
     "id": 17,
     "order": "17.00000000000000000000",
@@ -13278,20 +13255,8 @@
     "text_written": "",
     "not_before": null,
     "not_after": null,
-    "sender": [
-      {
-        "id": 18,
-        "value": "Pfalz-Neuburg, Johann Wilhelm von",
-        "order": "18.00000000000000000000"
-      }
-    ],
-    "recipient": [
-      {
-        "id": 9,
-        "value": "Eleonora Magdalena Theresia, geb. Pfalz-Neuburg",
-        "order": "9.00000000000000000000"
-      }
-    ]
+    "sender": [],
+    "recipient": []
   },
   "698": {
     "id": 698,
@@ -13301,20 +13266,8 @@
     "text_written": "",
     "not_before": null,
     "not_after": null,
-    "sender": [
-      {
-        "id": 18,
-        "value": "Pfalz-Neuburg, Johann Wilhelm von",
-        "order": "18.00000000000000000000"
-      }
-    ],
-    "recipient": [
-      {
-        "id": 9,
-        "value": "Eleonora Magdalena Theresia, geb. Pfalz-Neuburg",
-        "order": "9.00000000000000000000"
-      }
-    ]
+    "sender": [],
+    "recipient": []
   },
   "699": {
     "id": 699,
@@ -13324,13 +13277,7 @@
     "text_written": "",
     "not_before": null,
     "not_after": null,
-    "sender": [
-      {
-        "id": 18,
-        "value": "Pfalz-Neuburg, Johann Wilhelm von",
-        "order": "18.00000000000000000000"
-      }
-    ],
+    "sender": [],
     "recipient": []
   }
 }
