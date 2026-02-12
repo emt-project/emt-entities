@@ -2339,6 +2339,28 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                   <idno type="GEONAMES">https://sws.geonames.org/3177838/</idno>
                   <idno type="GND">https://d-nb.info/gnd/4010700-0</idno>
                </place>
+               <place xml:id="emt_place_id__603">
+                  <placeName>Brabant, Herzogtum</placeName>
+                  <idno type="GND">https://d-nb.info/gnd/4089892-1</idno>
+               </place>
+               <place xml:id="emt_place_id__604">
+                  <placeName>Flandern</placeName>
+               </place>
+               <place xml:id="emt_place_id__605">
+                  <placeName>Broich, Schloss (heute Stadtteil von Mühlheim an der Ruhr)</placeName>
+                  <idno type="GND">https://d-nb.info/gnd/4228386-3</idno>
+               </place>
+               <place xml:id="emt_place_id__606">
+                  <placeName>Westfalen, Herzogtum (Kurköln)</placeName>
+                  <idno type="GND">https://d-nb.info/gnd/16293773-8</idno>
+               </place>
+               <place xml:id="emt_place_id__607">
+                  <placeName>Vest Recklinghausen</placeName>
+               </place>
+               <place xml:id="emt_place_id__608">
+                  <placeName>Burgau, Markgrafschaft</placeName>
+                  <idno type="GND">https://d-nb.info/gnd/4088662-1</idno>
+               </place>
             </listPlace>
          </div>
       </body>

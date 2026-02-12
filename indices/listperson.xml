@@ -11802,7 +11802,7 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                   </figure>
                </person>
                <person xml:id="emt_person_id__1237">
-                  <persName type="name">Braunschweig-Lüneburg (Hannover, Georg Ludwig von</persName>
+                  <persName type="name">Braunschweig-Lüneburg (Hannover), Georg Ludwig von</persName>
                   <persName type="title">
                      <roleName>Kurfürst</roleName>
                   </persName>
@@ -12552,6 +12552,7 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                   <death>
                      <date notBefore="1735-01-01" notAfter="1735-12-31">1735</date>
                   </death>
+                  <idno type="URL">https://viecpro.acdh.oeaw.ac.at/persons/319636</idno>
                </person>
                <person xml:id="emt_person_id__1446">
                   <persName type="name">Pontifeser, Gabriel OFMCap</persName>
@@ -12601,7 +12602,88 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                   <persName type="name">Sölner (übergibt 1702 ein Memorial)</persName>
                </person>
                <person xml:id="emt_person_id__1450">
-                  <persName type="name"/>
+                  <persName type="name">Dietrichstein (1702, Ehefrau von Graf Franz von Dietrichstein)</persName>
+                  <persName type="title">
+                     <roleName>Gräfin</roleName>
+                  </persName>
+               </person>
+               <person xml:id="emt_person_id__1451">
+                  <persName type="name">Salisch, Ernst Wilhelm von</persName>
+                  <birth>
+                     <date notBefore="1649-01-01" notAfter="1649-12-31">1649</date>
+                  </birth>
+                  <death>
+                     <date notBefore="1711-01-01" notAfter="1711-12-31">1711</date>
+                  </death>
+                  <idno type="WIKIDATA">http://www.wikidata.org/entity/Q1360621</idno>
+               </person>
+               <person xml:id="emt_person_id__1452">
+                  <persName type="name">Lescheraine, Claude-François de</persName>
+                  <persName type="function">
+                     <roleName>Malteserritter, Diplomat</roleName>
+                  </persName>
+                  <birth>
+                     <date notBefore="1669-01-01" notAfter="1669-12-31">1669</date>
+                  </birth>
+                  <death>
+                     <date notBefore="1748-01-01" notAfter="1748-12-31">1748</date>
+                  </death>
+                  <idno type="GND">https://d-nb.info/gnd/1017150915</idno>
+                  <idno type="WIKIDATA">http://www.wikidata.org/entity/Q96337464</idno>
+               </person>
+               <person xml:id="emt_person_id__1453">
+                  <persName type="name">Fürstenberg-Meßkirch, Karl Egon Eugen von</persName>
+                  <persName type="title">
+                     <roleName>Graf</roleName>
+                  </persName>
+                  <persName type="function">
+                     <roleName>kaiserlicher Offizier</roleName>
+                  </persName>
+                  <birth>
+                     <date notBefore="1665-01-01" notAfter="1665-12-31">1665</date>
+                  </birth>
+                  <death>
+                     <date notBefore="1702-01-01" notAfter="1702-12-31">1702</date>
+                  </death>
+                  <idno type="GND">https://d-nb.info/gnd/138876177</idno>
+                  <idno type="NDB">https://www.deutsche-biographie.de/pnd138876177.html#indexcontent</idno>
+                  <idno type="WIKIDATA">http://www.wikidata.org/entity/Q1169155</idno>
+                  <figure>
+                     <graphic url="emt_person_id__1453.jpg"/>
+                     <caption>Karl Egon von Fürstenberg-Meßkirch (17th century painting).png</caption>
+                  </figure>
+               </person>
+               <person xml:id="emt_person_id__1454">
+                  <persName type="name">Oettingen-Oettingen, Albrecht Ernst II. von</persName>
+                  <persName type="title">
+                     <roleName>Fürst</roleName>
+                  </persName>
+                  <persName type="function">
+                     <roleName>kaiserlicher Offizier</roleName>
+                  </persName>
+                  <birth>
+                     <date notBefore="1669-01-01" notAfter="1669-12-31">1669</date>
+                  </birth>
+                  <death>
+                     <date notBefore="1731-01-01" notAfter="1731-12-31">1731</date>
+                  </death>
+                  <idno type="GND">https://d-nb.info/gnd/104196750</idno>
+                  <idno type="NDB">https://www.deutsche-biographie.de/pnd104196750.html#indexcontent</idno>
+                  <idno type="WIKIDATA">http://www.wikidata.org/entity/Q9594230</idno>
+                  <figure>
+                     <graphic url="emt_person_id__1454.jpg"/>
+                     <caption>Albrecht Ernst II. von Oettingen-Oettingen.jpg</caption>
+                  </figure>
+               </person>
+               <person xml:id="emt_person_id__1455">
+                  <persName type="name">Fürstenberg-Meßkirch, Maria Franziska von, geb. von Schwarzenberg</persName>
+                  <birth>
+                     <date notBefore="1677-01-01" notAfter="1677-12-31">1677</date>
+                  </birth>
+                  <death>
+                     <date notBefore="1731-01-01" notAfter="1731-12-31">1731</date>
+                  </death>
+                  <idno type="WIKIDATA">http://www.wikidata.org/entity/Q131429323</idno>
                </person>
             </listPerson>
          </div>
