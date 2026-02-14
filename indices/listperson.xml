@@ -10708,11 +10708,14 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                   <death>
                      <date notBefore="1708-01-01" notAfter="1708-12-31">1708</date>
                   </death>
+                  <idno type="GND">https://d-nb.info/gnd/1032938307</idno>
+                  <idno type="WIKIDATA">http://www.wikidata.org/entity/Q55238122</idno>
+                  <idno type="URL">https://kaiserhof.geschichte.lmu.de/11070</idno>
                </person>
                <person xml:id="emt_person_id__1087">
                   <persName type="name">Schallenberg, Christoph Georg von</persName>
                   <persName type="function">
-                     <roleName>geheimer Rat</roleName>
+                     <roleName>geheimer Rat, Kämmerer, Diplomat</roleName>
                   </persName>
                   <birth>
                      <date notBefore="1652-01-01" notAfter="1652-12-31">1652</date>
@@ -12599,7 +12602,7 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                   </figure>
                </person>
                <person xml:id="emt_person_id__1449">
-                  <persName type="name">Sölner (übergibt 1702 ein Memorial)</persName>
+                  <persName type="name">Sölner/Solner (übergibt 1702 ein Memorial)</persName>
                </person>
                <person xml:id="emt_person_id__1450">
                   <persName type="name">Dietrichstein (1702, Ehefrau von Graf Franz von Dietrichstein)</persName>
@@ -12684,6 +12687,57 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                      <date notBefore="1731-01-01" notAfter="1731-12-31">1731</date>
                   </death>
                   <idno type="WIKIDATA">http://www.wikidata.org/entity/Q131429323</idno>
+               </person>
+               <person xml:id="emt_person_id__1488">
+                  <persName type="name">englischer General 1702</persName>
+               </person>
+               <person xml:id="emt_person_id__1489">
+                  <persName type="name">Hansen (1702 als Stückobrister nach Landau geschickt)</persName>
+               </person>
+               <person xml:id="emt_person_id__1490">
+                  <persName type="name">Greif (1702, Zusammenhang mit Hofkriegsrat)</persName>
+               </person>
+               <person xml:id="emt_person_id__1491">
+                  <persName type="name">Liechtenstein, Antonia von, verh. Gräfin von Lamberg</persName>
+                  <persName type="title">
+                     <roleName>Fürstin</roleName>
+                  </persName>
+                  <birth>
+                     <date notBefore="1683-01-01" notAfter="1683-12-31">1683</date>
+                  </birth>
+                  <death>
+                     <date notBefore="1715-01-01" notAfter="1715-12-31">1715</date>
+                  </death>
+               </person>
+               <person xml:id="emt_person_id__1492">
+                  <persName type="name">Lamberg, Johann Adam von</persName>
+                  <persName type="title">
+                     <roleName>Graf</roleName>
+                  </persName>
+                  <birth>
+                     <date notBefore="1677-01-01" notAfter="1677-12-31">1677</date>
+                  </birth>
+                  <death>
+                     <date notBefore="1708-01-01" notAfter="1708-12-31">1708</date>
+                  </death>
+                  <idno type="WIKIDATA">http://www.wikidata.org/entity/Q52230032</idno>
+               </person>
+               <person xml:id="emt_person_id__1493">
+                  <persName type="name">Liechtenstein, Eleonore Barbara von, geb. Gräfin von Thun und Hohenstein</persName>
+                  <persName type="title">
+                     <roleName>Fürstin</roleName>
+                  </persName>
+                  <birth>
+                     <date notBefore="1661-01-01" notAfter="1661-12-31">1661</date>
+                  </birth>
+                  <death>
+                     <date notBefore="1723-01-01" notAfter="1723-12-31">1723</date>
+                  </death>
+                  <idno type="WIKIDATA">http://www.wikidata.org/entity/Q1328044</idno>
+                  <figure>
+                     <graphic url="emt_person_id__1493.jpg"/>
+                     <caption>Eleonora Barbara Liechtenstein, roz. Thun-Hohenstein.jpg</caption>
+                  </figure>
                </person>
             </listPerson>
          </div>

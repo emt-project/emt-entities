@@ -5608,5 +5608,50 @@
     "alternative_name": "",
     "wikidata_url": "",
     "unidentifiziert": false
+  },
+  "641": {
+    "id": 641,
+    "order": "381.00000000000000000000",
+    "name": "Landau",
+    "geonames": "https://www.geonames.org/2881646/landau-in-der-pfalz.html",
+    "emt_id": "emt_place_id__641",
+    "place_type": null,
+    "lat": "49.19844",
+    "long": "8.116920",
+    "comments intern": "",
+    "gnd": "",
+    "alternative_name": "",
+    "wikidata_url": "",
+    "unidentifiziert": false
+  },
+  "642": {
+    "id": 642,
+    "order": "382.00000000000000000000",
+    "name": "Limburg, Grafschaft",
+    "geonames": "",
+    "emt_id": "emt_place_id__642",
+    "place_type": null,
+    "lat": null,
+    "long": null,
+    "comments intern": "",
+    "gnd": "https://d-nb.info/gnd/4035753-3",
+    "alternative_name": "",
+    "wikidata_url": "",
+    "unidentifiziert": false
+  },
+  "643": {
+    "id": 643,
+    "order": "383.00000000000000000000",
+    "name": "Venlo",
+    "geonames": "https://www.geonames.org/2745641/venlo.html",
+    "emt_id": "emt_place_id__643",
+    "place_type": null,
+    "lat": "51.37000",
+    "long": "6.168060",
+    "comments intern": "",
+    "gnd": "",
+    "alternative_name": "",
+    "wikidata_url": "",
+    "unidentifiziert": false
   }
 }

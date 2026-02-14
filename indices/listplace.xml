@@ -2361,6 +2361,24 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                   <placeName>Burgau, Markgrafschaft</placeName>
                   <idno type="GND">https://d-nb.info/gnd/4088662-1</idno>
                </place>
+               <place xml:id="emt_place_id__641">
+                  <placeName>Landau</placeName>
+                  <location type="coords">
+                     <geo>49.19844 8.116920</geo>
+                  </location>
+                  <idno type="GEONAMES">https://sws.geonames.org/2881646/</idno>
+               </place>
+               <place xml:id="emt_place_id__642">
+                  <placeName>Limburg, Grafschaft</placeName>
+                  <idno type="GND">https://d-nb.info/gnd/4035753-3</idno>
+               </place>
+               <place xml:id="emt_place_id__643">
+                  <placeName>Venlo</placeName>
+                  <location type="coords">
+                     <geo>51.37000 6.168060</geo>
+                  </location>
+                  <idno type="GEONAMES">https://sws.geonames.org/2745641/</idno>
+               </place>
             </listPlace>
          </div>
       </body>
