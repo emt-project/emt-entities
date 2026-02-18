@@ -2379,6 +2379,20 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                   </location>
                   <idno type="GEONAMES">https://sws.geonames.org/2745641/</idno>
                </place>
+               <place xml:id="emt_place_id__644">
+                  <placeName>Kehl</placeName>
+                  <location type="coords">
+                     <geo>48.57297 7.815230</geo>
+                  </location>
+                  <idno type="GEONAMES">https://sws.geonames.org/2891951/</idno>
+               </place>
+               <place xml:id="emt_place_id__645">
+                  <placeName>Vils (Tirol)</placeName>
+                  <location type="coords">
+                     <geo>47.55000 10.633330</geo>
+                  </location>
+                  <idno type="GEONAMES">https://sws.geonames.org/2762358/</idno>
+               </place>
             </listPlace>
          </div>
       </body>

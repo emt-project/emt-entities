@@ -1133,7 +1133,7 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                      <roleName>Domherr in Münster, Paderborn und Lüttich, Domküster in Münster, Diplomat, Bischof in Fünfkirchen</roleName>
                   </persName>
                   <birth>
-                     <date notBefore="1638-01-01" notAfter="1638-12-31">1638</date>
+                     <date notBefore="1652-01-01" notAfter="1652-12-31">1652</date>
                   </birth>
                   <death>
                      <date notBefore="1732-01-01" notAfter="1732-12-31">1732</date>
@@ -2579,7 +2579,7 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                      <roleName>Fürst</roleName>
                   </persName>
                   <persName type="function">
-                     <roleName>kaiserlicher Botschafter in Spanien, Gesandter, Hofkriegsratspräsident (1701-1703)</roleName>
+                     <roleName>kaiserlicher Botschafter in Spanien, Gesandter, Hofkriegsratspräsident 1701-1703</roleName>
                   </persName>
                   <birth>
                      <date notBefore="1640-01-01" notAfter="1640-12-31">1640</date>
@@ -11282,7 +11282,7 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                   </persName>
                </person>
                <person xml:id="emt_person_id__1161">
-                  <persName type="name">Gräz, NN, berichtet 1697 der Kaiserin über das Befinden Kurfüst Johann Wilhelms</persName>
+                  <persName type="name">Gräz / Graz, NN, berichtet 1697 der Kaiserin über das Befinden Kurfüst Johann Wilhelms</persName>
                   <persName type="title">
                      <roleName>Pater</roleName>
                   </persName>
@@ -12738,6 +12738,30 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                      <graphic url="emt_person_id__1493.jpg"/>
                      <caption>Eleonora Barbara Liechtenstein, roz. Thun-Hohenstein.jpg</caption>
                   </figure>
+               </person>
+               <person xml:id="emt_person_id__1494">
+                  <persName type="name">Beichtvater der Neuburger Karmelitinnen 1702</persName>
+               </person>
+               <person xml:id="emt_person_id__1495">
+                  <persName type="name">Orban, Ferdinand SJ</persName>
+                  <persName type="title">
+                     <roleName>Pater</roleName>
+                  </persName>
+                  <persName type="function">
+                     <roleName>Beichtvater von Johann Wihelm von Pfalz-Neuburg ab 1702</roleName>
+                  </persName>
+                  <birth>
+                     <date notBefore="1655-01-01" notAfter="1655-12-31">1655</date>
+                  </birth>
+                  <death>
+                     <date notBefore="1732-01-01" notAfter="1732-12-31">1732</date>
+                  </death>
+                  <idno type="GND">https://d-nb.info/gnd/122385888</idno>
+                  <idno type="NDB">https://www.deutsche-biographie.de/pnd122385888.html#indexcontent</idno>
+                  <idno type="WIKIDATA">http://www.wikidata.org/entity/Q1405669</idno>
+               </person>
+               <person xml:id="emt_person_id__1496">
+                  <persName type="name"/>
                </person>
             </listPerson>
          </div>

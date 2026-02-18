@@ -5653,5 +5653,35 @@
     "alternative_name": "",
     "wikidata_url": "",
     "unidentifiziert": false
+  },
+  "644": {
+    "id": 644,
+    "order": "384.00000000000000000000",
+    "name": "Kehl",
+    "geonames": "https://www.geonames.org/2891951/kehl.html",
+    "emt_id": "emt_place_id__644",
+    "place_type": null,
+    "lat": "48.57297",
+    "long": "7.815230",
+    "comments intern": "",
+    "gnd": "",
+    "alternative_name": "",
+    "wikidata_url": "",
+    "unidentifiziert": false
+  },
+  "645": {
+    "id": 645,
+    "order": "385.00000000000000000000",
+    "name": "Vils (Tirol)",
+    "geonames": "https://www.geonames.org/2762358/vils.html",
+    "emt_id": "emt_place_id__645",
+    "place_type": null,
+    "lat": "47.55000",
+    "long": "10.633330",
+    "comments intern": "",
+    "gnd": "",
+    "alternative_name": "",
+    "wikidata_url": "",
+    "unidentifiziert": false
   }
 }

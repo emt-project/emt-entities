@@ -341,5 +341,12 @@
     "name": "Schwäbischer Kreis",
     "gnd": "",
     "emt_id": "emt_institution_id__144"
+  },
+  "177": {
+    "id": 177,
+    "order": "50.00000000000000000000",
+    "name": "Generalkriegskommissariat",
+    "gnd": "",
+    "emt_id": "emt_institution_id__177"
   }
 }
