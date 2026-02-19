@@ -5691,10 +5691,15 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                   <persName type="function">
                      <roleName>Vizelandkanzler Pfalz</roleName>
                   </persName>
+                  <birth>
+                     <date notBefore="1644-01-01" notAfter="1644-12-31">1644</date>
+                  </birth>
                   <death>
                      <date notBefore="1699-01-01" notAfter="1699-12-31">1699</date>
                   </death>
+                  <idno type="GND">https://d-nb.info/gnd/122876075</idno>
                   <idno type="NDB">https://d-nb.info/gnd/122876075</idno>
+                  <idno type="WIKIDATA">http://www.wikidata.org/entity/Q82706502</idno>
                </person>
                <person xml:id="emt_person_id__484">
                   <persName type="name">Werschowizin, Fräulein von, 1690 und 1691</persName>
@@ -11572,14 +11577,14 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                   <persName type="name">Violett, schickt 1698 einen Kurier</persName>
                </person>
                <person xml:id="emt_person_id__1222">
-                  <persName type="name">Wiser, Heinrich Franz Xaver</persName>
+                  <persName type="name">Wiser, Heinrich Franz Xaver von</persName>
                   <persName type="function">
                      <roleName>Diplomat, Geheimsekretär der spanischen Königin Maria Anna, geb. von Pfalz-Neuburg</roleName>
                   </persName>
                   <idno type="URL">https://es.wikipedia.org/wiki/Enrique_Wiser</idno>
                </person>
                <person xml:id="emt_person_id__1223">
-                  <persName type="name">Wiser, Gottfried Ignaz</persName>
+                  <persName type="name">Wiser, Gottfried Ignaz von</persName>
                   <death>
                      <date notBefore="1704-01-01" notAfter="1704-12-31">1704</date>
                   </death>
@@ -12761,7 +12766,147 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                   <idno type="WIKIDATA">http://www.wikidata.org/entity/Q1405669</idno>
                </person>
                <person xml:id="emt_person_id__1496">
-                  <persName type="name"/>
+                  <persName type="name">Brandenburg-Bayreuth, Christian Ernst</persName>
+                  <persName type="title">
+                     <roleName>Markgraf</roleName>
+                  </persName>
+                  <birth>
+                     <date notBefore="1644-01-01" notAfter="1644-12-31">1644</date>
+                  </birth>
+                  <death>
+                     <date notBefore="1712-01-01" notAfter="1712-12-31">1712</date>
+                  </death>
+                  <idno type="GND">https://d-nb.info/gnd/100123910</idno>
+                  <idno type="NDB">https://www.deutsche-biographie.de/pnd100123910.html#indexcontent</idno>
+                  <idno type="WIKIDATA">http://www.wikidata.org/entity/Q538128</idno>
+                  <figure>
+                     <graphic url="emt_person_id__1496.jpg"/>
+                     <caption>Christian Ernst Brandenburg-Bayreuth um 1685 001.JPG</caption>
+                  </figure>
+               </person>
+               <person xml:id="emt_person_id__1497">
+                  <persName type="name">Villamayor, Juan Antonio de, Barón de Purroy Albizu y Villamayor</persName>
+                  <persName type="title">
+                     <roleName>Marques</roleName>
+                  </persName>
+                  <persName type="function">
+                     <roleName>spanischer Botschafter in Savoyen 1698-1702</roleName>
+                  </persName>
+                  <birth>
+                     <date notBefore="1662-01-01" notAfter="1662-12-31">1662</date>
+                  </birth>
+                  <death>
+                     <date notBefore="1721-01-01" notAfter="1721-12-31">1721</date>
+                  </death>
+                  <idno type="WIKIDATA">http://www.wikidata.org/entity/Q66120324</idno>
+               </person>
+               <person xml:id="emt_person_id__1498">
+                  <persName type="name">Reichenbach (schreibt 1703 für den Kaiser Nachteiliges)</persName>
+                  <persName type="function">
+                     <roleName>Kanzler und Geheimrat in Brandenburg-Bayreuth</roleName>
+                  </persName>
+               </person>
+               <person xml:id="emt_person_id__1499">
+                  <persName type="name">Phélypeaux, Raymond Balthazar de</persName>
+                  <persName type="function">
+                     <roleName>französischer Botschafter in Savoyen 1700-1703</roleName>
+                  </persName>
+                  <birth>
+                     <date notBefore="1653-01-01" notAfter="1653-12-31">1653</date>
+                  </birth>
+                  <death>
+                     <date notBefore="1713-01-01" notAfter="1713-12-31">1713</date>
+                  </death>
+                  <idno type="GND">https://d-nb.info/gnd/1055518223</idno>
+                  <idno type="WIKIDATA">http://www.wikidata.org/entity/Q3420649</idno>
+               </person>
+               <person xml:id="emt_person_id__1500">
+                  <persName type="name">Platores (1703 in Wien)</persName>
+               </person>
+               <person xml:id="emt_person_id__1501">
+                  <persName type="name">Nesselrode, Franz Karl von</persName>
+                  <persName type="title">
+                     <roleName>Graf</roleName>
+                  </persName>
+                  <persName type="function">
+                     <roleName>jülisch-bergischer Kammerpräsident, kaiserlicher geheimer Rat</roleName>
+                  </persName>
+                  <birth>
+                     <date notBefore="1673-01-01" notAfter="1673-12-31">1673</date>
+                  </birth>
+                  <death>
+                     <date notBefore="1750-01-01" notAfter="1750-12-31">1750</date>
+                  </death>
+                  <idno type="GND">https://d-nb.info/gnd/138043086</idno>
+                  <idno type="NDB">https://www.deutsche-biographie.de/sfz71123.html</idno>
+                  <idno type="WIKIDATA">http://www.wikidata.org/entity/Q55857665</idno>
+               </person>
+               <person xml:id="emt_person_id__1502">
+                  <persName type="name">Kollonitsch, Georg Wilhelm von</persName>
+                  <persName type="title">
+                     <roleName>Graf</roleName>
+                  </persName>
+                  <persName type="function">
+                     <roleName>kaiserlicher Kämmerer</roleName>
+                  </persName>
+                  <birth>
+                     <date notBefore="1637-01-01" notAfter="1637-12-31">1637</date>
+                  </birth>
+                  <death>
+                     <date notBefore="1707-01-01" notAfter="1707-12-31">1707</date>
+                  </death>
+                  <idno type="GND">https://d-nb.info/gnd/1216691622</idno>
+                  <idno type="URL">https://kaiserhof.geschichte.lmu.de/19337</idno>
+               </person>
+               <person xml:id="emt_person_id__1503">
+                  <persName type="name">Wiser, Franz Josef von</persName>
+                  <persName type="title">
+                     <roleName>Graf</roleName>
+                  </persName>
+                  <persName type="function">
+                     <roleName>kurpfälzischer Hofvizekanzler 1703-1710, Burggraf von Heidelberg</roleName>
+                  </persName>
+                  <birth>
+                     <date notBefore="1679-01-01" notAfter="1679-12-31">1679</date>
+                  </birth>
+                  <death>
+                     <date notBefore="1755-01-01" notAfter="1755-12-31">1755</date>
+                  </death>
+                  <idno type="GND">https://d-nb.info/gnd/1020455373</idno>
+                  <idno type="WIKIDATA">http://www.wikidata.org/entity/Q17493228</idno>
+                  <figure>
+                     <graphic url="emt_person_id__1503.jpg"/>
+                     <caption>Wiser Franz Joseph2.jpg</caption>
+                  </figure>
+               </person>
+               <person xml:id="emt_person_id__1504">
+                  <persName type="name">Sobieski, Maria Magdalena</persName>
+                  <persName type="title">
+                     <roleName>Prinzessin</roleName>
+                  </persName>
+                  <birth>
+                     <date notBefore="1704-01-01" notAfter="1704-12-31">1704</date>
+                  </birth>
+                  <death>
+                     <date notBefore="1704-01-01" notAfter="1704-12-31">1704</date>
+                  </death>
+               </person>
+               <person xml:id="emt_person_id__1505">
+                  <persName type="name">Indes (1704, Zusammenhang mit Hundheim)</persName>
+               </person>
+               <person xml:id="emt_person_id__1506">
+                  <persName type="name">Hundheim / Hontheim, Lothar Friedrich von</persName>
+                  <persName type="function">
+                     <roleName>Diplomat, General-Kriegskommissar, Etatsminister der Kurpfalz</roleName>
+                  </persName>
+                  <birth>
+                     <date notBefore="1668-01-01" notAfter="1668-12-31">1668</date>
+                  </birth>
+                  <death>
+                     <date notBefore="1723-01-01" notAfter="1723-12-31">1723</date>
+                  </death>
+                  <idno type="GND">https://d-nb.info/gnd/1012275272</idno>
+                  <idno type="WIKIDATA">http://www.wikidata.org/entity/Q15438995</idno>
                </person>
             </listPerson>
          </div>
