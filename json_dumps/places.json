@@ -5683,5 +5683,20 @@
     "alternative_name": "",
     "wikidata_url": "",
     "unidentifiziert": false
+  },
+  "646": {
+    "id": 646,
+    "order": "386.00000000000000000000",
+    "name": "Weißenfels",
+    "geonames": "",
+    "emt_id": "emt_place_id__646",
+    "place_type": null,
+    "lat": null,
+    "long": null,
+    "comments intern": "Residenzstadt des Hzm. Sachsen-Weißenfels - ev. besser dieses taggen? https://de.wikipedia.org/wiki/Sachsen-Wei%C3%9Fenfels",
+    "gnd": "https://d-nb.info/gnd/4065247-6",
+    "alternative_name": "",
+    "wikidata_url": "",
+    "unidentifiziert": false
   }
 }

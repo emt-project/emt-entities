@@ -12908,6 +12908,40 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                   <idno type="GND">https://d-nb.info/gnd/1012275272</idno>
                   <idno type="WIKIDATA">http://www.wikidata.org/entity/Q15438995</idno>
                </person>
+               <person xml:id="emt_person_id__1507">
+                  <persName type="name">Tallard, Camille d'Hostun de</persName>
+                  <persName type="title">
+                     <roleName>Duc</roleName>
+                  </persName>
+                  <persName type="function">
+                     <roleName>französischer Feldmarschall</roleName>
+                  </persName>
+                  <birth>
+                     <date notBefore="1652-01-01" notAfter="1652-12-31">1652</date>
+                  </birth>
+                  <death>
+                     <date notBefore="1728-01-01" notAfter="1728-12-31">1728</date>
+                  </death>
+                  <idno type="GND">https://d-nb.info/gnd/115598162</idno>
+                  <idno type="NDB">https://www.deutsche-biographie.de/115598162.html?language=en</idno>
+                  <idno type="WIKIDATA">http://www.wikidata.org/entity/Q112932</idno>
+                  <figure>
+                     <graphic url="emt_person_id__1507.jpg"/>
+                     <caption>Camille d'Hostun duc de Tallard.png</caption>
+                  </figure>
+               </person>
+               <person xml:id="emt_person_id__1508">
+                  <persName type="name">Torre, Giovanni Girolamo de la B.CRSP</persName>
+                  <persName type="title">
+                     <roleName>Pater</roleName>
+                  </persName>
+                  <birth>
+                     <date notBefore="1679-01-01" notAfter="1679-12-31">1679</date>
+                  </birth>
+                  <death>
+                     <date notBefore="1757-01-01" notAfter="1757-12-31">1757</date>
+                  </death>
+               </person>
             </listPerson>
          </div>
       </body>

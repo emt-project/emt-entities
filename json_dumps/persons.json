@@ -31241,5 +31241,67 @@
     "funktionsbezeichnungen": "Diplomat, General-Kriegskommissar, Etatsminister der Kurpfalz",
     "unidentifiziert": false,
     "titel": []
+  },
+  "1507": {
+    "id": 1507,
+    "order": "1152.00000000000000000000",
+    "name": "Tallard, Camille d'Hostun de",
+    "gnd": "https://d-nb.info/gnd/115598162",
+    "other_url": "",
+    "emt_id": "emt_person_id__1507",
+    "internal_comment": "",
+    "color": "",
+    "lebensdaten": "",
+    "ndb": "https://www.deutsche-biographie.de/115598162.html?language=en",
+    "year_of_birth": "1652",
+    "year_of_death": "1728",
+    "wikidata_url": "http://www.wikidata.org/entity/Q112932",
+    "wikidata_enriched": true,
+    "img_name": "Camille d'Hostun duc de Tallard.png",
+    "img_fetched": true,
+    "img_source": "commonsMedia",
+    "birth_date_written": "",
+    "death_date_written": "",
+    "geschlecht": "",
+    "funktionsbezeichnungen": "französischer Feldmarschall",
+    "unidentifiziert": false,
+    "titel": [
+      {
+        "id": 22535,
+        "value": "Duc",
+        "color": "green"
+      }
+    ]
+  },
+  "1508": {
+    "id": 1508,
+    "order": "1153.00000000000000000000",
+    "name": "Torre, Giovanni Girolamo de la B.CRSP",
+    "gnd": "",
+    "other_url": "",
+    "emt_id": "emt_person_id__1508",
+    "internal_comment": "Mailänder Adelsgeschlecht https://de.wikipedia.org/wiki/Torriani_(Patriziergeschlecht)  , am besten passt er  https://www.catholic-hierarchy.org/bishop/bdetorgg.html (Barnabit, wurde später Bischof) aber Identifizierung nicht sicher. Ein populärer Prediger Padre Torre unterstützte die Macchia-Verschwörung lt. Schnettger, Der Spanische Erbfolgekrieg. S. 54. Darüber hinaus nicht vollständig identifiziert (VieCPro und Kaiser und Höfe nichts, Lau nichts, google-Buchsuche auch nichts.",
+    "color": "",
+    "lebensdaten": "",
+    "ndb": "",
+    "year_of_birth": "1679",
+    "year_of_death": "1757",
+    "wikidata_url": "",
+    "wikidata_enriched": false,
+    "img_name": "",
+    "img_fetched": false,
+    "img_source": "",
+    "birth_date_written": "",
+    "death_date_written": "",
+    "geschlecht": "",
+    "funktionsbezeichnungen": "",
+    "unidentifiziert": false,
+    "titel": [
+      {
+        "id": 19694,
+        "value": "Pater",
+        "color": "yellow"
+      }
+    ]
   }
 }
