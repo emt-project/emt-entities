@@ -12524,6 +12524,9 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                   <persName type="title">
                      <roleName>Graf</roleName>
                   </persName>
+                  <persName type="function">
+                     <roleName>Hofkammerpräsident 1703-1715</roleName>
+                  </persName>
                   <birth>
                      <date notBefore="1663-01-01" notAfter="1663-12-31">1663</date>
                   </birth>
@@ -12941,6 +12944,136 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                   <death>
                      <date notBefore="1757-01-01" notAfter="1757-12-31">1757</date>
                   </death>
+               </person>
+               <person xml:id="emt_person_id__1509">
+                  <persName type="name">Thurn-Valsassina, Karl Maximilian von</persName>
+                  <persName type="title">
+                     <roleName>Graf</roleName>
+                  </persName>
+                  <persName type="function">
+                     <roleName>Obersthofmeister von Kaiserin Eleonora Magdalena 1704-1716, kaiserlicher Geheimrat</roleName>
+                  </persName>
+                  <birth>
+                     <date notBefore="1643-01-01" notAfter="1643-12-31">1643</date>
+                  </birth>
+                  <death>
+                     <date notBefore="1716-01-01" notAfter="1716-12-31">1716</date>
+                  </death>
+                  <idno type="GND">https://d-nb.info/gnd/1164337777</idno>
+                  <idno type="NDB">www.deutsche-biographie.de/1164337777.html#indexcontent</idno>
+                  <idno type="WIKIDATA">http://www.wikidata.org/entity/Q28492005</idno>
+                  <idno type="URL">https://viecpro.acdh.oeaw.ac.at/persons/71574</idno>
+                  <figure>
+                     <graphic url="emt_person_id__1509.jpg"/>
+                     <caption>Thurn CoA.jpg</caption>
+                  </figure>
+               </person>
+               <person xml:id="emt_person_id__1510">
+                  <persName type="name">Aufseß, Christoph Wilhelm von</persName>
+                  <persName type="title">
+                     <roleName>Graf</roleName>
+                  </persName>
+                  <persName type="function">
+                     <roleName>Generalfeldmarschall-Lieutenant des fränkischen Reichskreises</roleName>
+                  </persName>
+                  <birth>
+                     <date notBefore="1650-01-01" notAfter="1650-12-31">1650</date>
+                  </birth>
+                  <death>
+                     <date notBefore="1704-01-01" notAfter="1704-12-31">1704</date>
+                  </death>
+                  <idno type="GND">https://d-nb.info/gnd/140455582</idno>
+                  <idno type="NDB">https://www.deutsche-biographie.de/pnd140455582.html?language=de</idno>
+                  <idno type="WIKIDATA">http://www.wikidata.org/entity/Q94926909</idno>
+               </person>
+               <person xml:id="emt_person_id__1511">
+                  <persName type="name">Herbeville, Ludwig von</persName>
+                  <persName type="title">
+                     <roleName>Graf</roleName>
+                  </persName>
+                  <persName type="function">
+                     <roleName>kaiserlicher General</roleName>
+                  </persName>
+                  <birth>
+                     <date notBefore="1635-01-01" notAfter="1635-12-31">1635</date>
+                  </birth>
+                  <death>
+                     <date notBefore="1709-01-01" notAfter="1709-12-31">1709</date>
+                  </death>
+                  <idno type="WIKIDATA">http://www.wikidata.org/entity/Q15832946</idno>
+                  <figure>
+                     <graphic url="emt_person_id__1511.jpg"/>
+                     <caption>Ludwig von Herbeville.jpg</caption>
+                  </figure>
+               </person>
+               <person xml:id="emt_person_id__1512">
+                  <persName type="name">Voit, von (1704 zur Prinzessin von Brandenburg-Ansbach geschickt)</persName>
+                  <persName type="function">
+                     <roleName>geheimer Rat</roleName>
+                  </persName>
+               </person>
+               <person xml:id="emt_person_id__1513">
+                  <persName type="name">Salm (1704 für Trabantenhauptmannstelle empfohlen)</persName>
+                  <persName type="title">
+                     <roleName>Graf</roleName>
+                  </persName>
+               </person>
+               <person xml:id="emt_person_id__1514">
+                  <persName type="name">Oppenheimer, Samuel (eigentlich Samuel ben Simeon Oppenheim, auch Samuel Heidelberg)</persName>
+                  <persName type="function">
+                     <roleName>Hoffaktor in Wien</roleName>
+                  </persName>
+                  <birth>
+                     <date notBefore="1630-01-01" notAfter="1630-12-31">1630</date>
+                  </birth>
+                  <death>
+                     <date notBefore="1703-01-01" notAfter="1703-12-31">1703</date>
+                  </death>
+                  <idno type="GND">https://d-nb.info/gnd/119272229</idno>
+                  <idno type="NDB">https://www.deutsche-biographie.de/sfz73679.html#</idno>
+                  <idno type="WIKIDATA">http://www.wikidata.org/entity/Q318776</idno>
+                  <figure>
+                     <graphic url="emt_person_id__1514.jpg"/>
+                     <caption>Samuel Oppenheimer.jpg</caption>
+                  </figure>
+               </person>
+               <person xml:id="emt_person_id__1515">
+                  <persName type="name"/>
+               </person>
+               <person xml:id="emt_person_id__1516">
+                  <persName type="name">Caetano, Manuel Domenico alias "Conte di Ruggiero"</persName>
+                  <death>
+                     <date notBefore="1709-01-01" notAfter="1709-12-31">1709</date>
+                  </death>
+                  <idno type="GND">https://d-nb.info/gnd/120652420</idno>
+                  <idno type="WIKIDATA">http://www.wikidata.org/entity/Q1237190</idno>
+               </person>
+               <person xml:id="emt_person_id__1517">
+                  <persName type="name">Fugger, Maria Katharina / Aloysia von, vereh. Lazansky von Bukowa</persName>
+                  <persName type="title">
+                     <roleName>Gräfin</roleName>
+                  </persName>
+                  <persName type="function">
+                     <roleName>kurpfälzisches Hoffräulein</roleName>
+                  </persName>
+                  <birth>
+                     <date notBefore="1675-01-01" notAfter="1675-12-31">1675</date>
+                  </birth>
+                  <death>
+                     <date notBefore="1748-01-01" notAfter="1748-12-31">1748</date>
+                  </death>
+               </person>
+               <person xml:id="emt_person_id__1518">
+                  <persName type="name">Lazansky, Adam Veit von</persName>
+                  <persName type="title">
+                     <roleName>Graf</roleName>
+                  </persName>
+                  <death>
+                     <date notBefore="1737-01-01" notAfter="1737-12-31">1737</date>
+                  </death>
+               </person>
+               <person xml:id="emt_person_id__1519">
+                  <persName type="name">Winkelhausen, Sohn der Frau von 1704</persName>
                </person>
             </listPerson>
          </div>

@@ -5698,5 +5698,50 @@
     "alternative_name": "",
     "wikidata_url": "",
     "unidentifiziert": false
+  },
+  "647": {
+    "id": 647,
+    "order": "387.00000000000000000000",
+    "name": "Moskau",
+    "geonames": "https://www.geonames.org/524901/moscow.html",
+    "emt_id": "emt_place_id__647",
+    "place_type": null,
+    "lat": "55.75204",
+    "long": "37.617810",
+    "comments intern": "",
+    "gnd": "",
+    "alternative_name": "",
+    "wikidata_url": "",
+    "unidentifiziert": false
+  },
+  "648": {
+    "id": 648,
+    "order": "388.00000000000000000000",
+    "name": "Oberpfalz",
+    "geonames": "",
+    "emt_id": "emt_place_id__648",
+    "place_type": null,
+    "lat": null,
+    "long": null,
+    "comments intern": "Definition ist nicht einfach, vgl. Eintrag Nordgau  und https://de.wikipedia.org/wiki/Oberpfalz_(HRR). Im Zusammenhang mit JWs Bemühungen ab 1704, die Oberpfalz aus der bayerischen Konkursmasse zu bekommen, habe ich 648 getaggt",
+    "gnd": "",
+    "alternative_name": "",
+    "wikidata_url": "",
+    "unidentifiziert": false
+  },
+  "649": {
+    "id": 649,
+    "order": "389.00000000000000000000",
+    "name": "Ortenburg, Reichsgrafschaft (in Niederbayern)",
+    "geonames": "",
+    "emt_id": "emt_place_id__649",
+    "place_type": null,
+    "lat": null,
+    "long": null,
+    "comments intern": "",
+    "gnd": "https://d-nb.info/gnd/4102136-8",
+    "alternative_name": "",
+    "wikidata_url": "",
+    "unidentifiziert": false
   }
 }

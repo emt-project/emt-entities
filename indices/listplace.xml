@@ -2397,6 +2397,20 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                   <placeName>Weißenfels</placeName>
                   <idno type="GND">https://d-nb.info/gnd/4065247-6</idno>
                </place>
+               <place xml:id="emt_place_id__647">
+                  <placeName>Moskau</placeName>
+                  <location type="coords">
+                     <geo>55.75204 37.617810</geo>
+                  </location>
+                  <idno type="GEONAMES">https://sws.geonames.org/524901/</idno>
+               </place>
+               <place xml:id="emt_place_id__648">
+                  <placeName>Oberpfalz</placeName>
+               </place>
+               <place xml:id="emt_place_id__649">
+                  <placeName>Ortenburg, Reichsgrafschaft (in Niederbayern)</placeName>
+                  <idno type="GND">https://d-nb.info/gnd/4102136-8</idno>
+               </place>
             </listPlace>
          </div>
       </body>
