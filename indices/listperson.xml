@@ -11437,9 +11437,9 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                   </death>
                </person>
                <person xml:id="emt_person_id__1209">
-                  <persName type="name">Wolf von Metternich, Franz Arnold von</persName>
+                  <persName type="name">Wolf von Metternich, Franz Arnold</persName>
                   <persName type="function">
-                     <roleName>Domprobst von Osnabrück</roleName>
+                     <roleName>Domprobst von Osnabrück, Bischof von Paderborn</roleName>
                   </persName>
                   <birth>
                      <date notBefore="1658-01-01" notAfter="1658-12-31">1658</date>
@@ -13074,6 +13074,87 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                </person>
                <person xml:id="emt_person_id__1519">
                   <persName type="name">Winkelhausen, Sohn der Frau von 1704</persName>
+               </person>
+               <person xml:id="emt_person_id__1520">
+                  <persName type="name">Madamma (soll 1704 in Wien einen Brief übermitteln)</persName>
+               </person>
+               <person xml:id="emt_person_id__1521">
+                  <persName type="name">Piazza, Giulio</persName>
+                  <persName type="title">
+                     <roleName>Kardinal</roleName>
+                  </persName>
+                  <persName type="function">
+                     <roleName>Nuntius in Köln (1703-1706), Nuntius in Wien (1709-1713)</roleName>
+                  </persName>
+                  <birth>
+                     <date notBefore="1663-01-01" notAfter="1663-12-31">1663</date>
+                  </birth>
+                  <death>
+                     <date notBefore="1726-01-01" notAfter="1726-12-31">1726</date>
+                  </death>
+                  <idno type="GND">https://d-nb.info/gnd/1013248848</idno>
+                  <idno type="WIKIDATA">http://www.wikidata.org/entity/Q947450</idno>
+                  <idno type="URL">https://www.treccani.it/enciclopedia/giulio-piazza_(Dizionario-Biografico)/</idno>
+                  <figure>
+                     <graphic url="emt_person_id__1521.jpg"/>
+                     <caption>Giulio Piazza.jpg</caption>
+                  </figure>
+               </person>
+               <person xml:id="emt_person_id__1522">
+                  <persName type="name">Rechteren, Adolf Henrik van, Heer van Almelo en Vriesenveen</persName>
+                  <persName type="title">
+                     <roleName>Graf</roleName>
+                  </persName>
+                  <persName type="function">
+                     <roleName>Diplomat</roleName>
+                  </persName>
+                  <birth>
+                     <date notBefore="1656-01-01" notAfter="1656-12-31">1656</date>
+                  </birth>
+                  <death>
+                     <date notBefore="1731-01-01" notAfter="1731-12-31">1731</date>
+                  </death>
+                  <idno type="GND">https://d-nb.info/gnd/102428441</idno>
+                  <idno type="WIKIDATA">http://www.wikidata.org/entity/Q110082805</idno>
+               </person>
+               <person xml:id="emt_person_id__1523">
+                  <persName type="name">NN (Spanier, wird 1704 empfohlen)</persName>
+               </person>
+               <person xml:id="emt_person_id__1524">
+                  <persName type="name">Diemantstein, Adam von</persName>
+                  <persName type="title">
+                     <roleName>Graf</roleName>
+                  </persName>
+                  <persName type="function">
+                     <roleName>Obristkämmerer</roleName>
+                  </persName>
+                  <death>
+                     <date notBefore="1730-01-01" notAfter="1730-12-31">1730</date>
+                  </death>
+                  <idno type="GND">https://d-nb.info/gnd/140936629</idno>
+                  <idno type="NDB">https://www.deutsche-biographie.de/pnd140936629.html#index</idno>
+               </person>
+               <person xml:id="emt_person_id__1525">
+                  <persName type="name">Metsch, Johann Adolph von</persName>
+                  <persName type="title">
+                     <roleName>Graf</roleName>
+                  </persName>
+                  <persName type="function">
+                     <roleName>Reichshofrat</roleName>
+                  </persName>
+                  <birth>
+                     <date notBefore="1672-01-01" notAfter="1672-12-31">1672</date>
+                  </birth>
+                  <death>
+                     <date notBefore="1740-01-01" notAfter="1740-12-31">1740</date>
+                  </death>
+                  <idno type="NDB">https://www.deutsche-biographie.de/pnd121357643.html#indexcontent</idno>
+               </person>
+               <person xml:id="emt_person_id__1526">
+                  <persName type="name">Kokorzovec / Kokorschewetz</persName>
+                  <persName type="title">
+                     <roleName>Graf</roleName>
+                  </persName>
                </person>
             </listPerson>
          </div>

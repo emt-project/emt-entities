@@ -5743,5 +5743,20 @@
     "alternative_name": "",
     "wikidata_url": "",
     "unidentifiziert": false
+  },
+  "650": {
+    "id": 650,
+    "order": "390.00000000000000000000",
+    "name": "Starnberg",
+    "geonames": "https://www.geonames.org/6558229/starnberg.html",
+    "emt_id": "emt_place_id__650",
+    "place_type": null,
+    "lat": "48.01032",
+    "long": "11.332550",
+    "comments intern": "",
+    "gnd": "",
+    "alternative_name": "",
+    "wikidata_url": "",
+    "unidentifiziert": false
   }
 }

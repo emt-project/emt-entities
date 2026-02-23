@@ -2411,6 +2411,13 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                   <placeName>Ortenburg, Reichsgrafschaft (in Niederbayern)</placeName>
                   <idno type="GND">https://d-nb.info/gnd/4102136-8</idno>
                </place>
+               <place xml:id="emt_place_id__650">
+                  <placeName>Starnberg</placeName>
+                  <location type="coords">
+                     <geo>48.01032 11.332550</geo>
+                  </location>
+                  <idno type="GEONAMES">https://sws.geonames.org/6558229/</idno>
+               </place>
             </listPlace>
          </div>
       </body>
