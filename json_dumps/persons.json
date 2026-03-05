@@ -16418,7 +16418,7 @@
   "616": {
     "id": 616,
     "order": "611.00000000000000000000",
-    "name": "Vocht / Vogt / Voget (im Umkreis von Pfalzgraf Karl Philipp, ab 1693)",
+    "name": "Vocht / Vogt / Voget (Voit?) (im Umkreis von Pfalzgraf Karl Philipp, ab 1693)",
     "gnd": "",
     "other_url": "",
     "emt_id": "emt_person_id__616",
@@ -16649,7 +16649,7 @@
   "625": {
     "id": 625,
     "order": "620.00000000000000000000",
-    "name": "Hofmeister von Oels / Eltz (der Kurfürstin Elisabeth Amalia (1693)",
+    "name": "Hofmeister von Oels / Eltz (der Kurfürstin Elisabeth Amalia, 1693)",
     "gnd": "",
     "other_url": "",
     "emt_id": "emt_person_id__625",
@@ -28395,7 +28395,7 @@
   "1244": {
     "id": 1244,
     "order": "1049.00000000000000000000",
-    "name": "Vogt /Vogtin/ Voget (Witwe 1699)",
+    "name": "Vogt /Vogtin/ Voget (Voit?) (Witwe 1699)",
     "gnd": "",
     "other_url": "",
     "emt_id": "emt_person_id__1244",
@@ -28625,7 +28625,7 @@
   "1252": {
     "id": 1252,
     "order": "1057.00000000000000000000",
-    "name": "Schwester der Vogtin (1699)",
+    "name": "Schwester der Vogtin (Voit?) (1699)",
     "gnd": "",
     "other_url": "",
     "emt_id": "emt_person_id__1252",
@@ -31819,5 +31819,55 @@
         "color": "purple"
       }
     ]
+  },
+  "1527": {
+    "id": 1527,
+    "order": "1172.00000000000000000000",
+    "name": "\"hiesiger Resident\" (Zusammenhang mit Brautsuche für Joseph I. 1694)",
+    "gnd": "",
+    "other_url": "",
+    "emt_id": "emt_person_id__1527",
+    "internal_comment": "Repertorium 487 hat für diese Zeit nur Oxenstierna als schwedischen Diplomaten in Wien und 44/6-285 erwähnt einen Inviato und zusätzlich diesen Residenten hier. Oder ist es umgekehrt? Dann müsste Oxenstierna aber 1694 schon verwitwet sein, denn er hat Kinder aus den 1670ern https://sv.wikipedia.org/wiki/Gabriel_Oxenstierna_(1642%E2%80%931707)#cite_ref-56296c22fda8ff0509f71ed7cc067bcbe11856ac_1-1 und könnte also höchsten unter dem Vorwand einer zweiten Heirat nach Schweden reisen",
+    "color": "",
+    "lebensdaten": "",
+    "ndb": "",
+    "year_of_birth": null,
+    "year_of_death": null,
+    "wikidata_url": "",
+    "wikidata_enriched": false,
+    "img_name": "",
+    "img_fetched": false,
+    "img_source": "",
+    "birth_date_written": "",
+    "death_date_written": "",
+    "geschlecht": "",
+    "funktionsbezeichnungen": "",
+    "unidentifiziert": true,
+    "titel": []
+  },
+  "1528": {
+    "id": 1528,
+    "order": "1173.00000000000000000000",
+    "name": "\"gewisse Person\" (Zusammenhang mit Brautsuche für Joseph I. 1694)",
+    "gnd": "",
+    "other_url": "",
+    "emt_id": "emt_person_id__1528",
+    "internal_comment": "",
+    "color": "",
+    "lebensdaten": "",
+    "ndb": "",
+    "year_of_birth": null,
+    "year_of_death": null,
+    "wikidata_url": "",
+    "wikidata_enriched": false,
+    "img_name": "",
+    "img_fetched": false,
+    "img_source": "",
+    "birth_date_written": "",
+    "death_date_written": "",
+    "geschlecht": "",
+    "funktionsbezeichnungen": "",
+    "unidentifiziert": true,
+    "titel": []
   }
 }

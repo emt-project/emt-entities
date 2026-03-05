@@ -6975,7 +6975,7 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                   <idno type="WIKIDATA">http://www.wikidata.org/entity/Q55901942</idno>
                </person>
                <person xml:id="emt_person_id__616">
-                  <persName type="name">Vocht / Vogt / Voget (im Umkreis von Pfalzgraf Karl Philipp, ab 1693)</persName>
+                  <persName type="name">Vocht / Vogt / Voget (Voit?) (im Umkreis von Pfalzgraf Karl Philipp, ab 1693)</persName>
                </person>
                <person xml:id="emt_person_id__617">
                   <persName type="name">Losenstein, Franz Anton von</persName>
@@ -7070,7 +7070,7 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                   <persName type="name">Ehefrau des Dr. Schweizer (1693 bereits verstorben)</persName>
                </person>
                <person xml:id="emt_person_id__625">
-                  <persName type="name">Hofmeister von Oels / Eltz (der Kurfürstin Elisabeth Amalia (1693)</persName>
+                  <persName type="name">Hofmeister von Oels / Eltz (der Kurfürstin Elisabeth Amalia, 1693)</persName>
                   <persName type="function">
                      <roleName>Hofmeister</roleName>
                   </persName>
@@ -11881,7 +11881,7 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                   </persName>
                </person>
                <person xml:id="emt_person_id__1244">
-                  <persName type="name">Vogt /Vogtin/ Voget (Witwe 1699)</persName>
+                  <persName type="name">Vogt /Vogtin/ Voget (Voit?) (Witwe 1699)</persName>
                   <death>
                      <date notBefore="1701-01-01" notAfter="1701-12-31">1701</date>
                   </death>
@@ -11991,7 +11991,7 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                   </death>
                </person>
                <person xml:id="emt_person_id__1252">
-                  <persName type="name">Schwester der Vogtin (1699)</persName>
+                  <persName type="name">Schwester der Vogtin (Voit?) (1699)</persName>
                </person>
                <person xml:id="emt_person_id__1253">
                   <persName type="name">De Hoppe (Niederländer, verhandelt 1699 mit Villars)</persName>
@@ -13155,6 +13155,12 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                   <persName type="title">
                      <roleName>Graf</roleName>
                   </persName>
+               </person>
+               <person xml:id="emt_person_id__1527">
+                  <persName type="name">"hiesiger Resident" (Zusammenhang mit Brautsuche für Joseph I. 1694)</persName>
+               </person>
+               <person xml:id="emt_person_id__1528">
+                  <persName type="name">"gewisse Person" (Zusammenhang mit Brautsuche für Joseph I. 1694)</persName>
                </person>
             </listPerson>
          </div>
