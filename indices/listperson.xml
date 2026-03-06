@@ -10266,12 +10266,9 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                   <persName type="title">
                      <roleName>Gräfin</roleName>
                   </persName>
-                  <persName type="title">
-                     <roleName>Graf</roleName>
-                  </persName>
                </person>
                <person xml:id="emt_person_id__977">
-                  <persName type="name">Thürheim (1695, Stiefsohn der "Jojerl" Thürheim, reist zu Pfalzgraf Karl von Pfalz-Neuburg)</persName>
+                  <persName type="name">Stiefsohn der "Jojerl" Thürheim, reist 1695 zu Pfalzgraf Karl von Pfalz-Neuburg)</persName>
                   <persName type="function">
                      <roleName>Obristleutnant</roleName>
                   </persName>
@@ -13161,6 +13158,54 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                </person>
                <person xml:id="emt_person_id__1528">
                   <persName type="name">"gewisse Person" (Zusammenhang mit Brautsuche für Joseph I. 1694)</persName>
+               </person>
+               <person xml:id="emt_person_id__1529">
+                  <persName type="name">Thürheim, Christoph Wilhelm</persName>
+                  <persName type="title">
+                     <roleName>Graf</roleName>
+                  </persName>
+                  <birth>
+                     <date notBefore="1661-01-01" notAfter="1661-12-31">1661</date>
+                  </birth>
+                  <death>
+                     <date notBefore="1738-01-01" notAfter="1738-12-31">1738</date>
+                  </death>
+                  <idno type="GND">https://d-nb.info/gnd/1196355231</idno>
+                  <idno type="WIKIDATA">http://www.wikidata.org/entity/Q95122216</idno>
+               </person>
+               <person xml:id="emt_person_id__1530">
+                  <persName type="name">Krieching (1695 kurz zuvor Oberstwachmeister geworden)</persName>
+               </person>
+               <person xml:id="emt_person_id__1531">
+                  <persName type="name">Thun und Hohenstein, Johann Ernst von</persName>
+                  <persName type="function">
+                     <roleName>Fürsterzbischof von Salzburg 1687-1709</roleName>
+                  </persName>
+                  <birth>
+                     <date notBefore="1643-01-01" notAfter="1643-12-31">1643</date>
+                  </birth>
+                  <death>
+                     <date notBefore="1709-01-01" notAfter="1709-12-31">1709</date>
+                  </death>
+                  <idno type="GND">https://d-nb.info/gnd/118002805</idno>
+                  <idno type="NDB">https://www.deutsche-biographie.de/pnd118002805.html#indexcontent</idno>
+               </person>
+               <person xml:id="emt_person_id__1532">
+                  <persName type="name">Friesen, Julius Heinrich von</persName>
+                  <persName type="title">
+                     <roleName>Graf</roleName>
+                  </persName>
+                  <persName type="function">
+                     <roleName>kaiserlicher General</roleName>
+                  </persName>
+                  <birth>
+                     <date notBefore="1657-01-01" notAfter="1657-12-31">1657</date>
+                  </birth>
+                  <death>
+                     <date notBefore="1706-01-01" notAfter="1706-12-31">1706</date>
+                  </death>
+                  <idno type="GND">https://d-nb.info/gnd/136028543</idno>
+                  <idno type="NDB">https://www.deutsche-biographie.de/pnd136028543.html#indexcontent</idno>
                </person>
             </listPerson>
          </div>

@@ -2418,6 +2418,22 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                   </location>
                   <idno type="GEONAMES">https://sws.geonames.org/6558229/</idno>
                </place>
+               <place xml:id="emt_place_id__651">
+                  <placeName>Namur</placeName>
+                  <location type="coords">
+                     <geo>50.46690 4.867460</geo>
+                  </location>
+                  <idno type="GEONAMES">https://sws.geonames.org/2790471/</idno>
+               </place>
+               <place xml:id="emt_place_id__652">
+                  <placeName>Länder des Hauses Habsburg</placeName>
+               </place>
+               <place xml:id="emt_place_id__653">
+                  <placeName>Cham, Grafschaft</placeName>
+               </place>
+               <place xml:id="emt_place_id__654">
+                  <placeName>Wiesensteig, Herrschaft/Grafschaft</placeName>
+               </place>
             </listPlace>
          </div>
       </body>
