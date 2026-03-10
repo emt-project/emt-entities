@@ -13148,7 +13148,7 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                   <idno type="NDB">https://www.deutsche-biographie.de/pnd121357643.html#indexcontent</idno>
                </person>
                <person xml:id="emt_person_id__1526">
-                  <persName type="name">Kokorzovec / Kokorschewetz</persName>
+                  <persName type="name">Kokorzovec / Kokorschewetz / Cocorschowiz (1704 empfohlen)</persName>
                   <persName type="title">
                      <roleName>Graf</roleName>
                   </persName>
@@ -13206,6 +13206,91 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                   </death>
                   <idno type="GND">https://d-nb.info/gnd/136028543</idno>
                   <idno type="NDB">https://www.deutsche-biographie.de/pnd136028543.html#indexcontent</idno>
+               </person>
+               <person xml:id="emt_person_id__1533">
+                  <persName type="name">Bevier (wird 1705 empfohlen und zeitweise pfalz-neuburgischer Resident in Lüttich)</persName>
+               </person>
+               <person xml:id="emt_person_id__1534">
+                  <persName type="name">Esren (berichtet 1705 von der Prinzessin von Ansbach)</persName>
+               </person>
+               <person xml:id="emt_person_id__1535">
+                  <persName type="name">Kommissar (wird 1705 bald in Wien sein)</persName>
+               </person>
+               <person xml:id="emt_person_id__1536">
+                  <persName type="name">Stadion (kommt 1705 eventuell als Reichsvizekanzler in Frage)</persName>
+               </person>
+               <person xml:id="emt_person_id__1537">
+                  <persName type="name">Leyen, Heinrich Ferdinand von der</persName>
+                  <persName type="function">
+                     <roleName>Domherr in Eichstätt, Dompropst in Mainz</roleName>
+                  </persName>
+                  <birth>
+                     <date notBefore="1639-01-01" notAfter="1639-12-31">1639</date>
+                  </birth>
+                  <death>
+                     <date notBefore="1714-01-01" notAfter="1714-12-31">1714</date>
+                  </death>
+                  <idno type="GND">https://d-nb.info/gnd/pnd137847068.html#indexcontent</idno>
+                  <idno type="NDB">https://d-nb.info/gnd/137847068</idno>
+               </person>
+               <person xml:id="emt_person_id__1538">
+                  <persName type="name">Jaston (1705 Zusammenhang mit Bischofswahl in Eichstätt)</persName>
+               </person>
+               <person xml:id="emt_person_id__1539">
+                  <persName type="name">Farnese, Elisabetta von</persName>
+                  <persName type="title">
+                     <roleName>Herzogin</roleName>
+                  </persName>
+                  <persName type="title">
+                     <roleName>Königin</roleName>
+                  </persName>
+                  <birth>
+                     <date notBefore="1692-01-01" notAfter="1692-12-31">1692</date>
+                  </birth>
+                  <death>
+                     <date notBefore="1766-01-01" notAfter="1766-12-31">1766</date>
+                  </death>
+                  <idno type="GND">https://d-nb.info/gnd/119151804</idno>
+                  <idno type="WIKIDATA">http://www.wikidata.org/entity/Q229867</idno>
+                  <figure>
+                     <graphic url="emt_person_id__1539.jpg"/>
+                     <caption>Isabel de Farnesio.jpg</caption>
+                  </figure>
+               </person>
+               <person xml:id="emt_person_id__1540">
+                  <persName type="name">Heübel (soll 1705 in Streit zwischen Johann Wilhelm und Franz Ludwig von Pfalz-Neuburg zugezogen werden))</persName>
+               </person>
+               <person xml:id="emt_person_id__1541">
+                  <persName type="name">Kolf (übergibt 1705 etwas der Kaiserin)</persName>
+               </person>
+               <person xml:id="emt_person_id__1542">
+                  <persName type="name">Caetani, Gaetano Francesco di Sermoneta, Principe di Caserta</persName>
+                  <persName type="title">
+                     <roleName>Fürst</roleName>
+                  </persName>
+                  <birth>
+                     <date notBefore="1656-01-01" notAfter="1656-12-31">1656</date>
+                  </birth>
+                  <death>
+                     <date notBefore="1716-01-01" notAfter="1716-12-31">1716</date>
+                  </death>
+                  <idno type="URL">www.treccani.it/enciclopedia/gaetano-francesco-caetani_%28Dizionario-Biografico%29/.</idno>
+               </person>
+               <person xml:id="emt_person_id__1543">
+                  <persName type="name">Caetani, Anna Costanza di</persName>
+                  <idno type="URL">http://www.genmarenostrum.com/pagine-lettere/letterac/Caetani/caetani.htm</idno>
+               </person>
+               <person xml:id="emt_person_id__1544">
+                  <persName type="name"/>
+               </person>
+               <person xml:id="emt_person_id__1545">
+                  <persName type="name">Martelli, Marco, a. o. Ges. prs. c. 1699 XI 21 - u. r. 1708 III 18; Florenz.</persName>
+                  <persName type="function">
+                     <roleName>florentinischer Gesandter in Wien 1699-1708</roleName>
+                  </persName>
+               </person>
+               <person xml:id="emt_person_id__1546">
+                  <persName type="name"/>
                </person>
             </listPerson>
          </div>
