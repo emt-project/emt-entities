@@ -14672,5 +14672,28 @@
         "order": "9.00000000000000000000"
       }
     ]
+  },
+  "796": {
+    "id": 796,
+    "order": "662.00000000000000000000",
+    "emt_id": "emt_letter_id__796",
+    "when": "1705-02-17",
+    "text_written": "",
+    "not_before": null,
+    "not_after": null,
+    "sender": [
+      {
+        "id": 18,
+        "value": "Pfalz-Neuburg, Johann Wilhelm von",
+        "order": "18.00000000000000000000"
+      }
+    ],
+    "recipient": [
+      {
+        "id": 9,
+        "value": "Eleonora Magdalena Theresia, geb. Pfalz-Neuburg",
+        "order": "9.00000000000000000000"
+      }
+    ]
   }
 }

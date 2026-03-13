@@ -5818,5 +5818,35 @@
     "alternative_name": "",
     "wikidata_url": "",
     "unidentifiziert": false
+  },
+  "655": {
+    "id": 655,
+    "order": "395.00000000000000000000",
+    "name": "Prag, Erzbistum",
+    "geonames": "",
+    "emt_id": "emt_place_id__655",
+    "place_type": null,
+    "lat": null,
+    "long": null,
+    "comments intern": "",
+    "gnd": "",
+    "alternative_name": "",
+    "wikidata_url": "",
+    "unidentifiziert": false
+  },
+  "656": {
+    "id": 656,
+    "order": "396.00000000000000000000",
+    "name": "Worms, Erzstift",
+    "geonames": "",
+    "emt_id": "emt_place_id__656",
+    "place_type": null,
+    "lat": null,
+    "long": null,
+    "comments intern": "",
+    "gnd": "",
+    "alternative_name": "",
+    "wikidata_url": "",
+    "unidentifiziert": false
   }
 }

@@ -13211,13 +13211,23 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                   <persName type="name">Bevier (wird 1705 empfohlen und zeitweise pfalz-neuburgischer Resident in Lüttich)</persName>
                </person>
                <person xml:id="emt_person_id__1534">
-                  <persName type="name">Esren (berichtet 1705 von der Prinzessin von Ansbach)</persName>
+                  <persName type="name">Efferen, Johann Wilhelm von</persName>
+                  <persName type="function">
+                     <roleName>kurpfälzischer Offizier</roleName>
+                  </persName>
+                  <death>
+                     <date notBefore="1724-01-01" notAfter="1724-12-31">1724</date>
+                  </death>
+                  <idno type="WIKIDATA">http://www.wikidata.org/entity/Q20171641</idno>
                </person>
                <person xml:id="emt_person_id__1535">
                   <persName type="name">Kommissar (wird 1705 bald in Wien sein)</persName>
                </person>
                <person xml:id="emt_person_id__1536">
-                  <persName type="name">Stadion (kommt 1705 eventuell als Reichsvizekanzler in Frage)</persName>
+                  <persName type="name">Stadion (kommt 1705 als Reichsvizekanzler in Frage)</persName>
+                  <persName type="title">
+                     <roleName>Graf</roleName>
+                  </persName>
                </person>
                <person xml:id="emt_person_id__1537">
                   <persName type="name">Leyen, Heinrich Ferdinand von der</persName>
@@ -13258,7 +13268,7 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                   </figure>
                </person>
                <person xml:id="emt_person_id__1540">
-                  <persName type="name">Heübel (soll 1705 in Streit zwischen Johann Wilhelm und Franz Ludwig von Pfalz-Neuburg zugezogen werden))</persName>
+                  <persName type="name">Heübel (soll 1705 in Streit zwischen Johann Wilhelm und Franz Ludwig von Pfalz-Neuburg zugezogen werden)</persName>
                </person>
                <person xml:id="emt_person_id__1541">
                   <persName type="name">Kolf (übergibt 1705 etwas der Kaiserin)</persName>
@@ -13278,19 +13288,95 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                </person>
                <person xml:id="emt_person_id__1543">
                   <persName type="name">Caetani, Anna Costanza di</persName>
+                  <persName type="title">
+                     <roleName>Prinzessin</roleName>
+                  </persName>
                   <idno type="URL">http://www.genmarenostrum.com/pagine-lettere/letterac/Caetani/caetani.htm</idno>
                </person>
                <person xml:id="emt_person_id__1544">
-                  <persName type="name"/>
+                  <persName type="name">Favini, Giuseppe Maria Antonio O.F.M.Conv.</persName>
+                  <persName type="function">
+                     <roleName>Titularbischof von Syrmien</roleName>
+                  </persName>
+                  <birth>
+                     <date notBefore="1656-01-01" notAfter="1656-12-31">1656</date>
+                  </birth>
+                  <death>
+                     <date notBefore="1716-01-01" notAfter="1716-12-31">1716</date>
+                  </death>
+                  <idno type="URL">https://www.catholic-hierarchy.org/bishop/bfavini.html</idno>
                </person>
                <person xml:id="emt_person_id__1545">
-                  <persName type="name">Martelli, Marco, a. o. Ges. prs. c. 1699 XI 21 - u. r. 1708 III 18; Florenz.</persName>
+                  <persName type="name">Martelli, Marco</persName>
                   <persName type="function">
                      <roleName>florentinischer Gesandter in Wien 1699-1708</roleName>
                   </persName>
                </person>
                <person xml:id="emt_person_id__1546">
-                  <persName type="name"/>
+                  <persName type="name">Diest, Friedrich Wilhelm von</persName>
+                  <persName type="function">
+                     <roleName>brandenburg-preußischer Gesandter in der Pfalz</roleName>
+                  </persName>
+                  <birth>
+                     <date notBefore="1647-01-01" notAfter="1647-12-31">1647</date>
+                  </birth>
+                  <death>
+                     <date notBefore="1726-01-01" notAfter="1726-12-31">1726</date>
+                  </death>
+                  <idno type="GND">https://d-nb.info/gnd/sfz11206.html#ndbcontent</idno>
+                  <idno type="NDB">https://d-nb.info/gnd/123613760</idno>
+               </person>
+               <person xml:id="emt_person_id__1547">
+                  <persName type="name">Strattmann, Heinrich Johann Franz von</persName>
+                  <persName type="title">
+                     <roleName>Graf</roleName>
+                  </persName>
+                  <persName type="function">
+                     <roleName>Reichshofrat, Diplomat</roleName>
+                  </persName>
+                  <birth>
+                     <date notBefore="1668-01-01" notAfter="1668-12-31">1668</date>
+                  </birth>
+                  <death>
+                     <date notBefore="1707-01-01" notAfter="1707-12-31">1707</date>
+                  </death>
+                  <idno type="GND">https://d-nb.info/gnd/pnd1145046983.html#index</idno>
+                  <idno type="NDB">https://d-nb.info/gnd/1145046983</idno>
+                  <idno type="URL">https://de.wikisource.org/wiki/BLK%C3%96:Strattmann,_die_Grafen_und_Strattmann-Batthyany,_die_F%C3%BCrsten</idno>
+               </person>
+               <person xml:id="emt_person_id__1548">
+                  <persName type="name">Brunner, Johann Konrad (auch Brunn von Hammerstein)</persName>
+                  <persName type="title">
+                     <roleName>Doktor</roleName>
+                  </persName>
+                  <persName type="function">
+                     <roleName>Leibarzt Kurfürst Johann Wilhelms von Pfalz-Neuburg</roleName>
+                  </persName>
+                  <birth>
+                     <date notBefore="1653-01-01" notAfter="1653-12-31">1653</date>
+                  </birth>
+                  <death>
+                     <date notBefore="1727-01-01" notAfter="1727-12-31">1727</date>
+                  </death>
+                  <idno type="GND">https://d-nb.info/gnd/pnd12175376X.html#indexcontent</idno>
+                  <idno type="NDB">https://d-nb.info/gnd/12175376X</idno>
+               </person>
+               <person xml:id="emt_person_id__1549">
+                  <persName type="name">Arenberg, Leopold Philipp Karl Joseph von</persName>
+                  <persName type="title">
+                     <roleName>Herzog</roleName>
+                  </persName>
+                  <birth>
+                     <date notBefore="1690-01-01" notAfter="1690-12-31">1690</date>
+                  </birth>
+                  <death>
+                     <date notBefore="1754-01-01" notAfter="1754-12-31">1754</date>
+                  </death>
+                  <idno type="GND">https://d-nb.info/gnd/pnd124020682.html#indexcontent</idno>
+                  <idno type="NDB">https://d-nb.info/gnd/124020682</idno>
+               </person>
+               <person xml:id="emt_person_id__1550">
+                  <persName type="name">Hohenzollern, Haus</persName>
                </person>
             </listPerson>
          </div>

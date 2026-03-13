@@ -2434,6 +2434,12 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                <place xml:id="emt_place_id__654">
                   <placeName>Wiesensteig, Herrschaft/Grafschaft</placeName>
                </place>
+               <place xml:id="emt_place_id__655">
+                  <placeName>Prag, Erzbistum</placeName>
+               </place>
+               <place xml:id="emt_place_id__656">
+                  <placeName>Worms, Erzstift</placeName>
+               </place>
             </listPlace>
          </div>
       </body>
