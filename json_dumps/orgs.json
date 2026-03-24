@@ -348,5 +348,12 @@
     "name": "Generalkriegskommissariat",
     "gnd": "",
     "emt_id": "emt_institution_id__177"
+  },
+  "178": {
+    "id": 178,
+    "order": "51.00000000000000000000",
+    "name": "Landstände, österreichische",
+    "gnd": "",
+    "emt_id": "emt_institution_id__178"
   }
 }

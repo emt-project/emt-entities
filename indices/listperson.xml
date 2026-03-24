@@ -13378,6 +13378,77 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                <person xml:id="emt_person_id__1550">
                   <persName type="name">Hohenzollern, Haus</persName>
                </person>
+               <person xml:id="emt_person_id__1551">
+                  <persName type="name">Almirante (1705, Zusammenhang mit Spanien, Karl III./VI.)</persName>
+               </person>
+               <person xml:id="emt_person_id__1552">
+                  <persName type="name">Seraw (1705, Zusammenhang mit Tirol unf Pfalzgraf Karl)</persName>
+               </person>
+               <person xml:id="emt_person_id__1553">
+                  <persName type="name">Norbis (1705, wegen Stadtbanco)</persName>
+                  <persName type="title">
+                     <roleName>Abbate</roleName>
+                  </persName>
+               </person>
+               <person xml:id="emt_person_id__1554">
+                  <persName type="name">Breuner, Johann Joseph von</persName>
+                  <persName type="title">
+                     <roleName>Graf</roleName>
+                  </persName>
+                  <persName type="function">
+                     <roleName>Erzbischof von Prag</roleName>
+                  </persName>
+                  <birth>
+                     <date notBefore="1641-01-01" notAfter="1641-12-31">1641</date>
+                  </birth>
+                  <death>
+                     <date notBefore="1710-01-01" notAfter="1710-12-31">1710</date>
+                  </death>
+                  <idno type="GND">https://d-nb.info/gnd/1055620478</idno>
+                  <idno type="NDB">https://www.deutsche-biographie.de/pnd1055620478.html#index</idno>
+                  <idno type="WIKIDATA">http://www.wikidata.org/entity/Q304587</idno>
+                  <figure>
+                     <graphic url="emt_person_id__1554.jpg"/>
+                     <caption>Jan Josef hrabě Breuner.jpg</caption>
+                  </figure>
+               </person>
+               <person xml:id="emt_person_id__1555">
+                  <persName type="name">Steffani, Agostino</persName>
+                  <persName type="title">
+                     <roleName>Abbate</roleName>
+                  </persName>
+                  <persName type="function">
+                     <roleName>Diplomat, Titularbischof von Spiga</roleName>
+                  </persName>
+                  <birth>
+                     <date notBefore="1654-01-01" notAfter="1654-12-31">1654</date>
+                  </birth>
+                  <death>
+                     <date notBefore="1728-01-01" notAfter="1728-12-31">1728</date>
+                  </death>
+                  <idno type="GND">https://d-nb.info/gnd/118798561</idno>
+                  <idno type="NDB">https://www.deutsche-biographie.de/pnd118798561.html#indexcontent</idno>
+                  <idno type="WIKIDATA">http://www.wikidata.org/entity/Q395725</idno>
+                  <figure>
+                     <graphic url="emt_person_id__1555.jpg"/>
+                     <caption>Agostino Steffani.jpg</caption>
+                  </figure>
+               </person>
+               <person xml:id="emt_person_id__1556">
+                  <persName type="name">Faber (1705, Kanzleidirektor in Worms)</persName>
+               </person>
+               <person xml:id="emt_person_id__1557">
+                  <persName type="name">Juwelier Olivier (1705, wegen Prinzessin Wilhelmine Karoline von Brandenburg-Ansbach)</persName>
+               </person>
+               <person xml:id="emt_person_id__1558">
+                  <persName type="name">Beauvernoir (1705, wegen Prinzessin Wilhelmine Karoline von Brandenburg-Ansbach)</persName>
+               </person>
+               <person xml:id="emt_person_id__1559">
+                  <persName type="name">Frau des Beauvernoir (1705, wegen Prinzessin Wilhelmine Karoline von Brandenburg-Ansbach)</persName>
+               </person>
+               <person xml:id="emt_person_id__1560">
+                  <persName type="name">Desvieux (französischer Offizier, 1705 Gefangenenaustausch)</persName>
+               </person>
             </listPerson>
          </div>
       </body>

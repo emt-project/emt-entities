@@ -5848,5 +5848,50 @@
     "alternative_name": "",
     "wikidata_url": "",
     "unidentifiziert": false
+  },
+  "657": {
+    "id": 657,
+    "order": "397.00000000000000000000",
+    "name": "Dresden",
+    "geonames": "https://www.geonames.org/2935022/dresden.html",
+    "emt_id": "emt_place_id__657",
+    "place_type": null,
+    "lat": "51.05089",
+    "long": "13.738320",
+    "comments intern": "",
+    "gnd": "",
+    "alternative_name": "",
+    "wikidata_url": "",
+    "unidentifiziert": false
+  },
+  "658": {
+    "id": 658,
+    "order": "398.00000000000000000000",
+    "name": "Bad Ems",
+    "geonames": "https://www.geonames.org/2953507/bad-ems.html",
+    "emt_id": "emt_place_id__658",
+    "place_type": null,
+    "lat": "50.33544",
+    "long": "7.713690",
+    "comments intern": "",
+    "gnd": "",
+    "alternative_name": "",
+    "wikidata_url": "",
+    "unidentifiziert": false
+  },
+  "659": {
+    "id": 659,
+    "order": "399.00000000000000000000",
+    "name": "Schlangenbad",
+    "geonames": "https://www.geonames.org/2838918/schlangenbad.html",
+    "emt_id": "emt_place_id__659",
+    "place_type": null,
+    "lat": "50.09322",
+    "long": "8.103120",
+    "comments intern": "",
+    "gnd": "",
+    "alternative_name": "",
+    "wikidata_url": "",
+    "unidentifiziert": false
   }
 }

@@ -2440,6 +2440,27 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                <place xml:id="emt_place_id__656">
                   <placeName>Worms, Erzstift</placeName>
                </place>
+               <place xml:id="emt_place_id__657">
+                  <placeName>Dresden</placeName>
+                  <location type="coords">
+                     <geo>51.05089 13.738320</geo>
+                  </location>
+                  <idno type="GEONAMES">https://sws.geonames.org/2935022/</idno>
+               </place>
+               <place xml:id="emt_place_id__658">
+                  <placeName>Bad Ems</placeName>
+                  <location type="coords">
+                     <geo>50.33544 7.713690</geo>
+                  </location>
+                  <idno type="GEONAMES">https://sws.geonames.org/2953507/</idno>
+               </place>
+               <place xml:id="emt_place_id__659">
+                  <placeName>Schlangenbad</placeName>
+                  <location type="coords">
+                     <geo>50.09322 8.103120</geo>
+                  </location>
+                  <idno type="GEONAMES">https://sws.geonames.org/2838918/</idno>
+               </place>
             </listPlace>
          </div>
       </body>
