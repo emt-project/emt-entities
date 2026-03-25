@@ -16,14 +16,24 @@ for x in br_client.yield_rows(place_table_id, filters=filters):
 for x in tqdm(items):
     update_object = {}
     update_url = f"{br_client.br_base_url}database/rows/table/{place_table_id}/{x['id']}/?user_field_names=true"
-    gn_object = gn_as_object(x["geonames"])
-    update_object["lat"] = gn_object["latitude"]
-    update_object["long"] = gn_object["longitude"]
-    r = requests.patch(
-        update_url,
-        headers={
-            "Authorization": f"Token {br_client.br_token}",
-            "Content-Type": "application/json",
-        },
-        json=update_object,
-    )
+    try:
+        gn_object = gn_as_object(x["geonames"])
+        update_object["lat"] = gn_object.get("latitude")
+        update_object["long"] = gn_object.get("longitude")
+        
+        if not update_object["lat"] or not update_object["long"]:
+            print(f"Missing coordinates for {x['id']} ({x.get('geonames')}), skipping.")
+            continue
+        
+        r = requests.patch(
+            update_url,
+            headers={
+                "Authorization": f"Token {br_client.br_token}",
+                "Content-Type": "application/json",
+            },
+            json=update_object,
+        )
+        r.raise_for_status()
+    except Exception as e:
+        print(f"Failed to process {x['id']} ({x.get('geonames')}): {e}")
+        continue
