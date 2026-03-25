@@ -2461,6 +2461,13 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                   </location>
                   <idno type="GEONAMES">https://sws.geonames.org/2838918/</idno>
                </place>
+               <place xml:id="emt_place_id__660">
+                  <placeName>Europa</placeName>
+                  <location type="coords">
+                     <geo>48.69096 9.140620</geo>
+                  </location>
+                  <idno type="GEONAMES">https://sws.geonames.org/6255148/</idno>
+               </place>
             </listPlace>
          </div>
       </body>

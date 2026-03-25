@@ -120,7 +120,7 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                   <idno type="URL">https://viecpro.oeaw.ac.at/persons/165702</idno>
                </person>
                <person xml:id="emt_person_id__6">
-                  <persName type="name">d'Olivier, NN</persName>
+                  <persName type="name">Juwelier Olivier (1705, wegen Prinzessin Wilhelmine Karoline von Brandenburg-Ansbach)</persName>
                </person>
                <person xml:id="emt_person_id__7">
                   <persName type="name">Kaunitz, Dominik Andreas von</persName>
@@ -11189,7 +11189,7 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                   </figure>
                </person>
                <person xml:id="emt_person_id__1122">
-                  <persName type="name">Clermont / Clairmont, NN wird 1697 empfohlen</persName>
+                  <persName type="name">Clermont / Clairmont, NN wird 1697 empfohlen, auch 1705</persName>
                   <persName type="title">
                      <roleName>Graf</roleName>
                   </persName>
@@ -11436,7 +11436,7 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                <person xml:id="emt_person_id__1209">
                   <persName type="name">Wolf von Metternich, Franz Arnold</persName>
                   <persName type="function">
-                     <roleName>Domprobst von Osnabrück, Bischof von Paderborn</roleName>
+                     <roleName>Domprobst von Osnabrück, Bischof von Paderborn 1704-1718, Bischof von Münster 1706-1718</roleName>
                   </persName>
                   <birth>
                      <date notBefore="1658-01-01" notAfter="1658-12-31">1658</date>
@@ -13438,16 +13438,102 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                   <persName type="name">Faber (1705, Kanzleidirektor in Worms)</persName>
                </person>
                <person xml:id="emt_person_id__1557">
-                  <persName type="name">Juwelier Olivier (1705, wegen Prinzessin Wilhelmine Karoline von Brandenburg-Ansbach)</persName>
+                  <persName type="name">Tönnemann, Vitus Georg SJ</persName>
+                  <birth>
+                     <date notBefore="1659-01-01" notAfter="1659-12-31">1659</date>
+                  </birth>
+                  <death>
+                     <date notBefore="1740-01-01" notAfter="1740-12-31">1740</date>
+                  </death>
+                  <idno type="GND">https://d-nb.info/gnd/12361998X</idno>
+                  <idno type="WIKIDATA">http://www.wikidata.org/entity/Q2528931</idno>
+                  <idno type="URL">https://leibniz-connection.adw-goe.de/src/webroot/persons/view/33156</idno>
+                  <figure>
+                     <graphic url="emt_person_id__1557.jpg"/>
+                     <caption>Vitus Georg Tönnemann 1659-1740 Museum für Stadtgeschichte Paderborn - Besitz Altertumsverein.jpg</caption>
+                  </figure>
                </person>
                <person xml:id="emt_person_id__1558">
-                  <persName type="name">Beauvernoir (1705, wegen Prinzessin Wilhelmine Karoline von Brandenburg-Ansbach)</persName>
+                  <persName type="name">Beauvernoir / Bouuerman (1705, wegen Prinzessin Wilhelmine Karoline von Brandenburg-Ansbach)</persName>
                </person>
                <person xml:id="emt_person_id__1559">
                   <persName type="name">Frau des Beauvernoir (1705, wegen Prinzessin Wilhelmine Karoline von Brandenburg-Ansbach)</persName>
                </person>
                <person xml:id="emt_person_id__1560">
                   <persName type="name">Desvieux (französischer Offizier, 1705 Gefangenenaustausch)</persName>
+               </person>
+               <person xml:id="emt_person_id__1561">
+                  <persName type="name">Plöckner; Wolfgang SJ</persName>
+                  <persName type="function">
+                     <roleName>Beichtvater von Elisabeth Christine von Braunschweig-Wolfenbüttel</roleName>
+                  </persName>
+                  <birth>
+                     <date notBefore="1659-01-01" notAfter="1659-12-31">1659</date>
+                  </birth>
+                  <death>
+                     <date notBefore="1713-01-01" notAfter="1713-12-31">1713</date>
+                  </death>
+                  <idno type="GND">https://d-nb.info/gnd/128762632</idno>
+                  <idno type="NDB">https://www.deutsche-biographie.de/gnd128762632.html</idno>
+                  <idno type="WIKIDATA">http://www.wikidata.org/entity/Q55903880</idno>
+                  <idno type="URL">https://leibniz-connection.adw-goe.de/src/webroot/persons/view/42456</idno>
+               </person>
+               <person xml:id="emt_person_id__1562">
+                  <persName type="name">Savoyen-Carignan, Maria Vittoria von</persName>
+                  <persName type="title">
+                     <roleName>Prinzessin</roleName>
+                  </persName>
+                  <birth>
+                     <date notBefore="1688-01-01" notAfter="1688-12-31">1688</date>
+                  </birth>
+                  <death>
+                     <date notBefore="1763-01-01" notAfter="1763-12-31">1763</date>
+                  </death>
+               </person>
+               <person xml:id="emt_person_id__1563">
+                  <persName type="name">Savoyen-Carignan, Maria Isabella von</persName>
+                  <persName type="title">
+                     <roleName>Prinzessin</roleName>
+                  </persName>
+                  <birth>
+                     <date notBefore="1687-01-01" notAfter="1687-12-31">1687</date>
+                  </birth>
+                  <death>
+                     <date notBefore="1767-01-01" notAfter="1767-12-31">1767</date>
+                  </death>
+               </person>
+               <person xml:id="emt_person_id__1564">
+                  <persName type="name">Gonzaga, Eleonora Luisa von</persName>
+                  <persName type="title">
+                     <roleName>Herzogin</roleName>
+                  </persName>
+                  <birth>
+                     <date notBefore="1686-01-01" notAfter="1686-12-31">1686</date>
+                  </birth>
+                  <death>
+                     <date notBefore="1742-01-01" notAfter="1742-12-31">1742</date>
+                  </death>
+               </person>
+               <person xml:id="emt_person_id__1565">
+                  <persName type="name">Sickingen, Damian Johann Philipp von</persName>
+                  <persName type="function">
+                     <roleName>kaiserlicher Offizier</roleName>
+                  </persName>
+                  <birth>
+                     <date notBefore="1665-01-01" notAfter="1665-12-31">1665</date>
+                  </birth>
+                  <death>
+                     <date notBefore="1730-01-01" notAfter="1730-12-31">1730</date>
+                  </death>
+                  <idno type="WIKIDATA">http://www.wikidata.org/entity/Q105591533</idno>
+                  <idno type="URL">https://viaf.org/de/viaf/73149233398976510977</idno>
+                  <figure>
+                     <graphic url="emt_person_id__1565.jpg"/>
+                     <caption>Johann Damian Philipp Freiherr von Sickingen.png</caption>
+                  </figure>
+               </person>
+               <person xml:id="emt_person_id__1566">
+                  <persName type="name"/>
                </person>
             </listPerson>
          </div>

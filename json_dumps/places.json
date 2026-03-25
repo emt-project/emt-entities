@@ -5893,5 +5893,20 @@
     "alternative_name": "",
     "wikidata_url": "",
     "unidentifiziert": false
+  },
+  "660": {
+    "id": 660,
+    "order": "400.00000000000000000000",
+    "name": "Europa",
+    "geonames": "https://www.geonames.org/6255148/europe.html",
+    "emt_id": "emt_place_id__660",
+    "place_type": null,
+    "lat": "48.69096",
+    "long": "9.140620",
+    "comments intern": "",
+    "gnd": "",
+    "alternative_name": "",
+    "wikidata_url": "",
+    "unidentifiziert": false
   }
 }

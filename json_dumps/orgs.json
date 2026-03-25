@@ -355,5 +355,19 @@
     "name": "Landstände, österreichische",
     "gnd": "",
     "emt_id": "emt_institution_id__178"
+  },
+  "179": {
+    "id": 179,
+    "order": "52.00000000000000000000",
+    "name": "Domkapitel zu Salzburg",
+    "gnd": "",
+    "emt_id": "emt_institution_id__179"
+  },
+  "180": {
+    "id": 180,
+    "order": "53.00000000000000000000",
+    "name": "Domkapitel zu Lüttich",
+    "gnd": "",
+    "emt_id": "emt_institution_id__180"
   }
 }
