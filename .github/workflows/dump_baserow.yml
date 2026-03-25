@@ -15,24 +15,34 @@ jobs:
       BASEROW_PW: ${{secrets.BASEROW_PW}}
     steps:
       - name: Perfom Checkout
-        uses: actions/checkout@v4
-      - name: Install Python Packages
-        run: |
-          python -m pip config set global.break-system-packages true
-          pip install -r requirements.txt
+        uses: actions/checkout@v6
+
+      - name: "Set up Python"
+        uses: actions/setup-python@v6
+        with:
+          python-version-file: ".pyproject.toml"
+
+      - name: Install uv
+        uses: astral-sh/setup-uv@v7
+
+      - name: Install the project
+        run: uv sync --locked
+
       - name: enrich the data
         run: |
-          python enrich_places.py
-          python enrich_persons.py
-          python fetch_images.py
+          uv run enrich_places.py
+          uv run enrich_persons.py
+          uv run fetch_images.py
+
       - name: dump the data
         run: |
-          python dump_data.py
-          python join_tables.py
-          python make_xml.py
-          python make_timeline.py
-          python make_storymap.py
+          uv run dump_data.py
+          uv run join_tables.py
+          uv run make_xml.py
+          uv run make_timeline.py
+          uv run make_storymap.py
+
       - name: Commit data
-        uses: stefanzweifel/git-auto-commit-action@v5
+        uses: stefanzweifel/git-auto-commit-action@v7
         with:
           commit_message: Data update from Baserow

@@ -1,0 +1,14 @@
+[project]
+name = "emt-entities"
+version = "0.1.0"
+description = "Baserow entities for the EMT project"
+readme = "README.md"
+requires-python = ">=3.12"
+dependencies = [
+    "acdh-arche-assets>=3.27.0",
+    "acdh-baserow-pyutils>=0.11.0",
+    "acdh-geonames-utils>=0.5.0",
+    "acdh-id-reconciler>=0.7.1",
+    "acdh-tei-pyutils>=2.3.0",
+    "jinja2>=3.1.6",
+]
