@@ -369,5 +369,19 @@
     "name": "Domkapitel zu Lüttich",
     "gnd": "",
     "emt_id": "emt_institution_id__180"
+  },
+  "181": {
+    "id": 181,
+    "order": "54.00000000000000000000",
+    "name": "",
+    "gnd": "",
+    "emt_id": "emt_institution_id__181"
+  },
+  "182": {
+    "id": 182,
+    "order": "55.00000000000000000000",
+    "name": "Magistrat von Köln",
+    "gnd": "",
+    "emt_id": "emt_institution_id__182"
   }
 }

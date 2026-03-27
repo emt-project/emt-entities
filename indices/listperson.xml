@@ -8237,7 +8237,7 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                <person xml:id="emt_person_id__742">
                   <persName type="name">Peyegra, Manuel</persName>
                   <persName type="function">
-                     <roleName>Erzbishcof von Avila; spanischer Botschafter in Portugal 1684 - 1690</roleName>
+                     <roleName>Erzbischof von Avila; spanischer Botschafter in Portugal 1684 - 1690</roleName>
                   </persName>
                </person>
                <person xml:id="emt_person_id__743">
@@ -8870,7 +8870,7 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                      <roleName>König</roleName>
                   </persName>
                   <persName type="function">
-                     <roleName>König von Polen</roleName>
+                     <roleName>König von Polen, Kurfürst von Sachsen</roleName>
                   </persName>
                   <birth>
                      <date notBefore="1670-01-01" notAfter="1670-12-31">1670</date>
@@ -13533,7 +13533,59 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                   </figure>
                </person>
                <person xml:id="emt_person_id__1566">
-                  <persName type="name"/>
+                  <persName type="name">Eschenbrender, Andreas</persName>
+                  <persName type="function">
+                     <roleName>Domherr und Offizial in Köln</roleName>
+                  </persName>
+                  <birth>
+                     <date notBefore="1649-01-01" notAfter="1649-12-31">1649</date>
+                  </birth>
+                  <death>
+                     <date notBefore="1717-01-01" notAfter="1717-12-31">1717</date>
+                  </death>
+                  <idno type="GND">https://d-nb.info/gnd/1050962508</idno>
+                  <idno type="WIKIDATA">http://www.wikidata.org/entity/Q497064</idno>
+               </person>
+               <person xml:id="emt_person_id__1567">
+                  <persName type="name">Gutenberg, eine gewisse von (1705 empfohlen)</persName>
+               </person>
+               <person xml:id="emt_person_id__1568">
+                  <persName type="name">Braunschweig-Wolfenbüttel, Haus</persName>
+               </person>
+               <person xml:id="emt_person_id__1569">
+                  <persName type="name">Hannover, Haus</persName>
+               </person>
+               <person xml:id="emt_person_id__1570">
+                  <persName type="name">Franzin, Anna Catharina, geb. Ferk</persName>
+                  <persName type="function">
+                     <roleName>Dienerin der Fräuleinhofmeisterin</roleName>
+                  </persName>
+                  <idno type="URL">https://viecpro.acdh.oeaw.ac.at/persons/149103</idno>
+               </person>
+               <person xml:id="emt_person_id__1571">
+                  <persName type="name">Pfalz-Neuburg, Elisabeth Auguste Sophie</persName>
+                  <persName type="title">
+                     <roleName>Pfalzgräfin</roleName>
+                  </persName>
+                  <birth>
+                     <date notBefore="1693-01-01" notAfter="1693-12-31">1693</date>
+                  </birth>
+                  <death>
+                     <date notBefore="1728-01-01" notAfter="1728-12-31">1728</date>
+                  </death>
+               </person>
+               <person xml:id="emt_person_id__1572">
+                  <persName type="name">Hessen-Darmstadt, Dorothea Sophie von</persName>
+                  <persName type="title">
+                     <roleName>Landgräfin</roleName>
+                  </persName>
+                  <birth>
+                     <date notBefore="1689-01-01" notAfter="1689-12-31">1689</date>
+                  </birth>
+                  <death>
+                     <date notBefore="1723-01-01" notAfter="1723-12-31">1723</date>
+                  </death>
+                  <idno type="WIKIDATA">http://www.wikidata.org/entity/Q3714353</idno>
                </person>
             </listPerson>
          </div>
