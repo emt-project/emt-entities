@@ -13587,6 +13587,33 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                   </death>
                   <idno type="WIKIDATA">http://www.wikidata.org/entity/Q3714353</idno>
                </person>
+               <person xml:id="emt_person_id__1605">
+                  <persName type="name">Hessen-Kassel, Marie Luise von</persName>
+                  <persName type="title">
+                     <roleName>Landgräfin</roleName>
+                  </persName>
+                  <persName type="title">
+                     <roleName>Fürstin</roleName>
+                  </persName>
+                  <birth>
+                     <date notBefore="1688-01-01" notAfter="1688-12-31">1688</date>
+                  </birth>
+                  <death>
+                     <date notBefore="1765-01-01" notAfter="1765-12-31">1765</date>
+                  </death>
+                  <idno type="GND">https://d-nb.info/gnd/1024253732</idno>
+                  <idno type="WIKIDATA">http://www.wikidata.org/entity/Q62593</idno>
+                  <figure>
+                     <graphic url="emt_person_id__1605.jpg"/>
+                     <caption>Lancelet Volders - Portrait of Maria Louise, princess of Hessen-Kassel.JPG</caption>
+                  </figure>
+               </person>
+               <person xml:id="emt_person_id__1606">
+                  <persName type="name">Mecklenburg, N.N. von</persName>
+                  <persName type="title">
+                     <roleName>Prinzessin</roleName>
+                  </persName>
+               </person>
             </listPerson>
          </div>
       </body>

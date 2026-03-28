@@ -33048,7 +33048,7 @@
     "gnd": "",
     "other_url": "",
     "emt_id": "emt_person_id__1572",
-    "internal_comment": "Heiratskandidatin für Karl VI. lt. Leibnizedition",
+    "internal_comment": "Heiratskandidatin für Karl VI. lt. Leibnizedition GWL I,25 (2017) 37",
     "color": "",
     "lebensdaten": "",
     "ndb": "",
@@ -33069,6 +33069,73 @@
         "id": 19712,
         "value": "Landgräfin",
         "color": "light-red"
+      }
+    ]
+  },
+  "1605": {
+    "id": 1605,
+    "order": "1218.00000000000000000000",
+    "name": "Hessen-Kassel, Marie Luise von",
+    "gnd": "https://d-nb.info/gnd/1024253732",
+    "other_url": "",
+    "emt_id": "emt_person_id__1605",
+    "internal_comment": "Hessen-Kassel wird 1705 von EMT als Haus mit möglicher Prinzessin für Karl VI. genannt (aber nicht von Orban, Leibnizedition) aber einzige zu der Zeit unverheiratete Tochter des Landgrafen Karl, daher wohl klarer Fall",
+    "color": "",
+    "lebensdaten": "",
+    "ndb": "",
+    "year_of_birth": "1688",
+    "year_of_death": "1765",
+    "wikidata_url": "http://www.wikidata.org/entity/Q62593",
+    "wikidata_enriched": true,
+    "img_name": "Lancelet Volders - Portrait of Maria Louise, princess of Hessen-Kassel.JPG",
+    "img_fetched": true,
+    "img_source": "commonsMedia",
+    "birth_date_written": "",
+    "death_date_written": "",
+    "geschlecht": "",
+    "funktionsbezeichnungen": "",
+    "unidentifiziert": false,
+    "titel": [
+      {
+        "id": 19712,
+        "value": "Landgräfin",
+        "color": "light-red"
+      },
+      {
+        "id": 19711,
+        "value": "Fürstin",
+        "color": "light-cyan"
+      }
+    ]
+  },
+  "1606": {
+    "id": 1606,
+    "order": "1219.00000000000000000000",
+    "name": "Mecklenburg, N.N. von",
+    "gnd": "",
+    "other_url": "",
+    "emt_id": "emt_person_id__1606",
+    "internal_comment": "",
+    "color": "",
+    "lebensdaten": "",
+    "ndb": "",
+    "year_of_birth": null,
+    "year_of_death": null,
+    "wikidata_url": "",
+    "wikidata_enriched": false,
+    "img_name": "",
+    "img_fetched": false,
+    "img_source": "",
+    "birth_date_written": "",
+    "death_date_written": "",
+    "geschlecht": "",
+    "funktionsbezeichnungen": "",
+    "unidentifiziert": true,
+    "titel": [
+      {
+        "id": 19713,
+        "value": "Prinzessin",
+        "color": "orange"
       }
     ]
   }
