@@ -628,6 +628,9 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                   <persName type="title">
                      <roleName>Herzog</roleName>
                   </persName>
+                  <persName type="function">
+                     <roleName>kaiserlicher General, Statthalter in Tirol und den Vorlanden</roleName>
+                  </persName>
                   <birth>
                      <date notBefore="1643-01-01" notAfter="1643-12-31">1643</date>
                   </birth>
@@ -5071,6 +5074,9 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                   <persName type="name">Dietrichstein, Sigmund Helfried von</persName>
                   <persName type="title">
                      <roleName>Graf</roleName>
+                  </persName>
+                  <persName type="function">
+                     <roleName>Kämmerer, Obersthofmeister der Herzogin Eleonora von Lothringen</roleName>
                   </persName>
                   <birth>
                      <date notBefore="1635-01-01" notAfter="1635-12-31">1635</date>
@@ -10139,12 +10145,6 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                <person xml:id="emt_person_id__902">
                   <persName type="name">Groß, Johann</persName>
                </person>
-               <person xml:id="emt_person_id__934">
-                  <persName type="name">Siegmund / Sigismund 1695</persName>
-                  <persName type="title">
-                     <roleName>Graf</roleName>
-                  </persName>
-               </person>
                <person xml:id="emt_person_id__967">
                   <persName type="name">Brescian, Silvio</persName>
                   <persName type="function">
@@ -13613,6 +13613,74 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                   <persName type="title">
                      <roleName>Prinzessin</roleName>
                   </persName>
+               </person>
+               <person xml:id="emt_person_id__1607">
+                  <persName type="name">Sachsen-Weißenfels, Johanna Wilhelmine</persName>
+                  <persName type="title">
+                     <roleName>Prinzessin</roleName>
+                  </persName>
+                  <birth>
+                     <date notBefore="1680-01-01" notAfter="1680-12-31">1680</date>
+                  </birth>
+                  <death>
+                     <date notBefore="1730-01-01" notAfter="1730-12-31">1730</date>
+                  </death>
+                  <idno type="GND">https://d-nb.info/gnd/104177047</idno>
+                  <idno type="WIKIDATA">http://www.wikidata.org/entity/Q55673723</idno>
+               </person>
+               <person xml:id="emt_person_id__1608">
+                  <persName type="name">Wels / Welz / Weltz, Gotthard Helfried</persName>
+                  <persName type="title">
+                     <roleName>Graf</roleName>
+                  </persName>
+                  <persName type="function">
+                     <roleName>Reichshofrat, Diplomat</roleName>
+                  </persName>
+                  <birth>
+                     <date notBefore="1654-01-01" notAfter="1654-12-31">1654</date>
+                  </birth>
+                  <death>
+                     <date notBefore="1723-01-01" notAfter="1723-12-31">1723</date>
+                  </death>
+                  <idno type="GND">https://d-nb.info/gnd/1026438454</idno>
+                  <idno type="NDB">https://www.deutsche-biographie.de/pnd1026438454.html#index</idno>
+                  <idno type="WIKIDATA">http://www.wikidata.org/entity/Q133069545</idno>
+                  <idno type="URL">https://viecpro.acdh.oeaw.ac.at/persons/324022</idno>
+               </person>
+               <person xml:id="emt_person_id__1609">
+                  <persName type="name">Westerloh (1705 Expedition seinetwegen)</persName>
+               </person>
+               <person xml:id="emt_person_id__1610">
+                  <persName type="name">Ferara, Alphonso</persName>
+                  <persName type="title">
+                     <roleName>Graf</roleName>
+                  </persName>
+                  <persName type="function">
+                     <roleName>kaiserlicher Kämmerer</roleName>
+                  </persName>
+                  <idno type="URL">https://viecpro.acdh.oeaw.ac.at/persons/157663</idno>
+               </person>
+               <person xml:id="emt_person_id__1611">
+                  <persName type="name">Harrach, Franz Anton von</persName>
+                  <persName type="title">
+                     <roleName>Graf</roleName>
+                  </persName>
+                  <persName type="function">
+                     <roleName>Fürstbischof von Wien 1702-1705, Fürsterzbischof von Salzburg 1709-1727</roleName>
+                  </persName>
+                  <birth>
+                     <date notBefore="1665-01-01" notAfter="1665-12-31">1665</date>
+                  </birth>
+                  <death>
+                     <date notBefore="1727-01-01" notAfter="1727-12-31">1727</date>
+                  </death>
+                  <idno type="GND">https://d-nb.info/gnd/10406286X</idno>
+                  <idno type="NDB">https://www.deutsche-biographie.de/pnd10406286X.html#indexcontent</idno>
+                  <idno type="WIKIDATA">http://www.wikidata.org/entity/Q603236</idno>
+                  <figure>
+                     <graphic url="emt_person_id__1611.jpg"/>
+                     <caption>Franz Anton von Harrach.jpg</caption>
+                  </figure>
                </person>
             </listPerson>
          </div>

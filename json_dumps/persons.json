@@ -953,7 +953,7 @@
     "birth_date_written": null,
     "death_date_written": null,
     "geschlecht": null,
-    "funktionsbezeichnungen": null,
+    "funktionsbezeichnungen": "kaiserlicher General, Statthalter in Tirol und den Vorlanden",
     "unidentifiziert": false,
     "titel": [
       {
@@ -11248,7 +11248,7 @@
     "gnd": "https://d-nb.info/gnd/115531106X",
     "other_url": "",
     "emt_id": "emt_person_id__410",
-    "internal_comment": "",
+    "internal_comment": "ist offenbar auch der \"Graf Sigmund\" - hab da jetzt das cert low rausgenommen, weil in EMT04.08.1705 Graf Sigmundt als Obersthofmeister der \"Königin\" (von Polen, =Frau des Hzgs von Lothringen, Schwester Leopolds I.) bezeichnet wird, und das ist der Dietrichstein, vgl. books.google.de/books?id=tD0TAAAAYAAJ&pg=PA227&hl=de#v=onepage&q&f=true",
     "color": "",
     "lebensdaten": "",
     "ndb": "",
@@ -11262,7 +11262,7 @@
     "birth_date_written": "",
     "death_date_written": "",
     "geschlecht": "",
-    "funktionsbezeichnungen": null,
+    "funktionsbezeichnungen": "Kämmerer, Obersthofmeister der Herzogin Eleonora von Lothringen",
     "unidentifiziert": false,
     "titel": [
       {
@@ -24204,37 +24204,6 @@
     "unidentifiziert": false,
     "titel": []
   },
-  "934": {
-    "id": 934,
-    "order": "897.00000000000000000000",
-    "name": "Siegmund / Sigismund 1695",
-    "gnd": "",
-    "other_url": "",
-    "emt_id": "emt_person_id__934",
-    "internal_comment": "erhält irrtümlich einen Brief EMTs an JW",
-    "color": "",
-    "lebensdaten": "",
-    "ndb": "",
-    "year_of_birth": null,
-    "year_of_death": null,
-    "wikidata_url": "",
-    "wikidata_enriched": false,
-    "img_name": "",
-    "img_fetched": false,
-    "img_source": "",
-    "birth_date_written": "",
-    "death_date_written": "",
-    "geschlecht": "",
-    "funktionsbezeichnungen": "",
-    "unidentifiziert": true,
-    "titel": [
-      {
-        "id": 19689,
-        "value": "Graf",
-        "color": "purple"
-      }
-    ]
-  },
   "967": {
     "id": 967,
     "order": "898.00000000000000000000",
@@ -33136,6 +33105,155 @@
         "id": 19713,
         "value": "Prinzessin",
         "color": "orange"
+      }
+    ]
+  },
+  "1607": {
+    "id": 1607,
+    "order": "1220.00000000000000000000",
+    "name": "Sachsen-Weißenfels, Johanna Wilhelmine",
+    "gnd": "https://d-nb.info/gnd/104177047",
+    "other_url": "",
+    "emt_id": "emt_person_id__1607",
+    "internal_comment": "Heiratskandidatin für Karl VI. lt. Leibnizedition GWL I,25 (2017) 37 (sie hat Schwestern, die aber schon verheiratet waren)    https://de.wikipedia.org/wiki/Johann_Adolf_I._(Sachsen-Wei%C3%9Fenfels)#Ehen_und_Nachkommen",
+    "color": "",
+    "lebensdaten": "",
+    "ndb": "",
+    "year_of_birth": "1680",
+    "year_of_death": "1730",
+    "wikidata_url": "http://www.wikidata.org/entity/Q55673723",
+    "wikidata_enriched": true,
+    "img_name": "",
+    "img_fetched": true,
+    "img_source": "",
+    "birth_date_written": "",
+    "death_date_written": "",
+    "geschlecht": "",
+    "funktionsbezeichnungen": "",
+    "unidentifiziert": false,
+    "titel": [
+      {
+        "id": 19713,
+        "value": "Prinzessin",
+        "color": "orange"
+      }
+    ]
+  },
+  "1608": {
+    "id": 1608,
+    "order": "1221.00000000000000000000",
+    "name": "Wels / Welz / Weltz, Gotthard Helfried",
+    "gnd": "https://d-nb.info/gnd/1026438454",
+    "other_url": "https://viecpro.acdh.oeaw.ac.at/persons/324022",
+    "emt_id": "emt_person_id__1608",
+    "internal_comment": "soll 1705 zusammen mit Clairmont die südl. Nl. verwalten. Zedler https://www.zedler-lexikon.de/index.html?c=blaettern&seitenzahl=944&bandnummer=54&view=100&l=de  hat den Kämmerer Franz Raymund von Weltz, den kais. Offizier Adam Friedrich (kämpft im Span. Erbfolgekrieg), und Gotthard Helfried Rhr, seit 1699 Graf, Kämmerer, bischöfl. osnabrück. Oberhofmarschall, Diplomat u.a. 1705 an kurpfälz. Hof geschickt und an die nl. Armee: der ist es       VieCPro hat mehrere, aber kein anderer passt Gschließer: Rhr stimmt    Bittner: diplomat. Reisen passt      https://de.wikisource.org/wiki/BLK%C3%96:Weltz,_Gotthard_Helfried   bestätigt alles und 1718 Obersthofmeister Erzherzogin Maria Elisabeth Regentin der Nl.",
+    "color": "",
+    "lebensdaten": "",
+    "ndb": "https://www.deutsche-biographie.de/pnd1026438454.html#index",
+    "year_of_birth": "1654",
+    "year_of_death": "1723",
+    "wikidata_url": "http://www.wikidata.org/entity/Q133069545",
+    "wikidata_enriched": true,
+    "img_name": "",
+    "img_fetched": true,
+    "img_source": "",
+    "birth_date_written": "",
+    "death_date_written": "",
+    "geschlecht": "",
+    "funktionsbezeichnungen": "Reichshofrat, Diplomat",
+    "unidentifiziert": false,
+    "titel": [
+      {
+        "id": 19689,
+        "value": "Graf",
+        "color": "purple"
+      }
+    ]
+  },
+  "1609": {
+    "id": 1609,
+    "order": "1222.00000000000000000000",
+    "name": "Westerloh (1705 Expedition seinetwegen)",
+    "gnd": "",
+    "other_url": "",
+    "emt_id": "emt_person_id__1609",
+    "internal_comment": "",
+    "color": "",
+    "lebensdaten": "",
+    "ndb": "",
+    "year_of_birth": null,
+    "year_of_death": null,
+    "wikidata_url": "",
+    "wikidata_enriched": false,
+    "img_name": "",
+    "img_fetched": false,
+    "img_source": "",
+    "birth_date_written": "",
+    "death_date_written": "",
+    "geschlecht": "",
+    "funktionsbezeichnungen": "",
+    "unidentifiziert": true,
+    "titel": []
+  },
+  "1610": {
+    "id": 1610,
+    "order": "1223.00000000000000000000",
+    "name": "Ferara, Alphonso",
+    "gnd": "",
+    "other_url": "https://viecpro.acdh.oeaw.ac.at/persons/157663",
+    "emt_id": "emt_person_id__1610",
+    "internal_comment": "mit cert low getaggt in EMT 1705 bei: anfangs sei dem Herzog von Lothringen der Ferara mitgegeben worden nach Tirol. weil: er ist der einzige, der in VieCPro vorkommt.",
+    "color": "",
+    "lebensdaten": "",
+    "ndb": "",
+    "year_of_birth": null,
+    "year_of_death": null,
+    "wikidata_url": "",
+    "wikidata_enriched": false,
+    "img_name": "",
+    "img_fetched": false,
+    "img_source": "",
+    "birth_date_written": "",
+    "death_date_written": "",
+    "geschlecht": "",
+    "funktionsbezeichnungen": "kaiserlicher Kämmerer",
+    "unidentifiziert": true,
+    "titel": [
+      {
+        "id": 19689,
+        "value": "Graf",
+        "color": "purple"
+      }
+    ]
+  },
+  "1611": {
+    "id": 1611,
+    "order": "1224.00000000000000000000",
+    "name": "Harrach, Franz Anton von",
+    "gnd": "https://d-nb.info/gnd/10406286X",
+    "other_url": "",
+    "emt_id": "emt_person_id__1611",
+    "internal_comment": "",
+    "color": "",
+    "lebensdaten": "",
+    "ndb": "https://www.deutsche-biographie.de/pnd10406286X.html#indexcontent",
+    "year_of_birth": "1665",
+    "year_of_death": "1727",
+    "wikidata_url": "http://www.wikidata.org/entity/Q603236",
+    "wikidata_enriched": true,
+    "img_name": "Franz Anton von Harrach.jpg",
+    "img_fetched": true,
+    "img_source": "commonsMedia",
+    "birth_date_written": "",
+    "death_date_written": "",
+    "geschlecht": "",
+    "funktionsbezeichnungen": "Fürstbischof von Wien 1702-1705, Fürsterzbischof von Salzburg 1709-1727",
+    "unidentifiziert": false,
+    "titel": [
+      {
+        "id": 19689,
+        "value": "Graf",
+        "color": "purple"
       }
     ]
   }
