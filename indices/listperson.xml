@@ -13682,6 +13682,28 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                      <caption>Franz Anton von Harrach.jpg</caption>
                   </figure>
                </person>
+               <person xml:id="emt_person_id__1612">
+                  <persName type="name">Ulrika Eleonore von Schweden, vereh. Hessen-Kassel</persName>
+                  <persName type="title">
+                     <roleName>Prinzessin</roleName>
+                  </persName>
+                  <persName type="title">
+                     <roleName>Königin</roleName>
+                  </persName>
+                  <birth>
+                     <date notBefore="1688-01-01" notAfter="1688-12-31">1688</date>
+                  </birth>
+                  <death>
+                     <date notBefore="1741-01-01" notAfter="1741-12-31">1741</date>
+                  </death>
+                  <idno type="GND">https://d-nb.info/gnd/123038162</idno>
+                  <idno type="NDB">https://www.deutsche-biographie.de/sfzU0559.html#index</idno>
+                  <idno type="WIKIDATA">http://www.wikidata.org/entity/Q52933</idno>
+                  <figure>
+                     <graphic url="emt_person_id__1612.jpg"/>
+                     <caption>Ulrika Eleonora, Queen of Sweden Georg Desmarées.jpg</caption>
+                  </figure>
+               </person>
             </listPerson>
          </div>
       </body>
