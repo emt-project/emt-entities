@@ -2471,6 +2471,21 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                <place xml:id="emt_place_id__693">
                   <placeName>Hennegau, Grafschaft</placeName>
                </place>
+               <place xml:id="emt_place_id__694">
+                  <placeName>Cassano</placeName>
+                  <location type="coords">
+                     <geo>45.52637 9.515280</geo>
+                  </location>
+                  <idno type="GEONAMES">https://sws.geonames.org/3179795/</idno>
+               </place>
+               <place xml:id="emt_place_id__695">
+                  <placeName>Katalonien</placeName>
+                  <idno type="GEONAMES">https://sws.geonames.org/3125609/</idno>
+               </place>
+               <place xml:id="emt_place_id__696">
+                  <placeName>Würzburg, Bistum</placeName>
+                  <idno type="GEONAMES">https://www.geonames.org/maps/google_49.7833_9.9333.html</idno>
+               </place>
             </listPlace>
          </div>
       </body>

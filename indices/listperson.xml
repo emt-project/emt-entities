@@ -567,6 +567,12 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                   <persName type="title">
                      <roleName>Fürst</roleName>
                   </persName>
+                  <persName type="title">
+                     <roleName>Rheingraf</roleName>
+                  </persName>
+                  <persName type="title">
+                     <roleName>Wildgraf</roleName>
+                  </persName>
                   <persName type="function">
                      <roleName>Ayo Erzherzog Josephs</roleName>
                   </persName>
@@ -10089,13 +10095,22 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                   <persName type="title">
                      <roleName>Herzog</roleName>
                   </persName>
+                  <persName type="function">
+                     <roleName>kaiserlicher General</roleName>
+                  </persName>
                   <birth>
                      <date notBefore="1685-01-01" notAfter="1685-12-31">1685</date>
                   </birth>
                   <death>
                      <date notBefore="1705-01-01" notAfter="1705-12-31">1705</date>
                   </death>
+                  <idno type="GND">https://d-nb.info/gnd/137707371</idno>
+                  <idno type="WIKIDATA">http://www.wikidata.org/entity/Q3185849</idno>
                   <idno type="URL">https://de.wikipedia.org/wiki/Karl_V._(Lothringen)</idno>
+                  <figure>
+                     <graphic url="emt_person_id__893.jpg"/>
+                     <caption>Arolsen Klebeband 01 311.jpg</caption>
+                  </figure>
                </person>
                <person xml:id="emt_person_id__895">
                   <persName type="name">Gersdorff, Herr von 1690</persName>
@@ -13703,6 +13718,94 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                      <graphic url="emt_person_id__1612.jpg"/>
                      <caption>Ulrika Eleonora, Queen of Sweden Georg Desmarées.jpg</caption>
                   </figure>
+               </person>
+               <person xml:id="emt_person_id__1613">
+                  <persName type="name">Palffy, Leopold</persName>
+                  <persName type="function">
+                     <roleName>Oberst</roleName>
+                  </persName>
+                  <birth>
+                     <date notBefore="1681-01-01" notAfter="1681-12-31">1681</date>
+                  </birth>
+                  <death>
+                     <date notBefore="1720-01-01" notAfter="1720-12-31">1720</date>
+                  </death>
+               </person>
+               <person xml:id="emt_person_id__1614">
+                  <persName type="name">Vendôme, Louis Joseph de Borubon, de</persName>
+                  <persName type="title">
+                     <roleName>Duc</roleName>
+                  </persName>
+                  <persName type="function">
+                     <roleName>französischer General</roleName>
+                  </persName>
+                  <birth>
+                     <date notBefore="1654-01-01" notAfter="1654-12-31">1654</date>
+                  </birth>
+                  <death>
+                     <date notBefore="1712-01-01" notAfter="1712-12-31">1712</date>
+                  </death>
+                  <idno type="GND">https://d-nb.info/gnd/1026455197</idno>
+                  <idno type="WIKIDATA">http://www.wikidata.org/entity/Q315513</idno>
+                  <figure>
+                     <graphic url="emt_person_id__1614.jpg"/>
+                     <caption>Attributed to Pedro Nunez de Villavicencio - Louis-Joseph, Duc de Vendome.jpg</caption>
+                  </figure>
+               </person>
+               <person xml:id="emt_person_id__1615">
+                  <persName type="name">Vendôme, Philippe de Bourbon, de</persName>
+                  <persName type="title">
+                     <roleName>Duc</roleName>
+                  </persName>
+                  <persName type="function">
+                     <roleName>Großprior des Malteserordens in Frankreich, französischer Offizier</roleName>
+                  </persName>
+                  <birth>
+                     <date notBefore="1655-01-01" notAfter="1655-12-31">1655</date>
+                  </birth>
+                  <death>
+                     <date notBefore="1727-01-01" notAfter="1727-12-31">1727</date>
+                  </death>
+                  <idno type="GND">https://d-nb.info/gnd/140078630</idno>
+                  <idno type="WIKIDATA">http://www.wikidata.org/entity/Q695494</idno>
+                  <figure>
+                     <graphic url="emt_person_id__1615.jpg"/>
+                     <caption>Philippe, Chevalier de Vendôme (future Duke of Vendôme) by Ferdinand Jacob Voet.png</caption>
+                  </figure>
+               </person>
+               <person xml:id="emt_person_id__1616">
+                  <persName type="name">Braunschweig-Lüneburg (Hannover), Sophie Dorothea</persName>
+                  <persName type="title">
+                     <roleName>Prinzessin</roleName>
+                  </persName>
+                  <persName type="title">
+                     <roleName>Königin</roleName>
+                  </persName>
+                  <birth>
+                     <date notBefore="1687-01-01" notAfter="1687-12-31">1687</date>
+                  </birth>
+                  <death>
+                     <date notBefore="1757-01-01" notAfter="1757-12-31">1757</date>
+                  </death>
+                  <idno type="GND">https://d-nb.info/gnd/118798022</idno>
+                  <idno type="NDB">https://www.deutsche-biographie.de/pnd118798022.html#indexcontent</idno>
+                  <idno type="WIKIDATA">http://www.wikidata.org/entity/Q161131</idno>
+                  <figure>
+                     <graphic url="emt_person_id__1616.jpg"/>
+                     <caption>Queen Sophie Dorothea of Prussia.jpg</caption>
+                  </figure>
+               </person>
+               <person xml:id="emt_person_id__1617">
+                  <persName type="name">Sachsen-Weißenfels, Anna Maria</persName>
+                  <persName type="title">
+                     <roleName>Prinzessin</roleName>
+                  </persName>
+                  <birth>
+                     <date notBefore="1683-01-01" notAfter="1683-12-31">1683</date>
+                  </birth>
+                  <death>
+                     <date notBefore="1731-01-01" notAfter="1731-12-31">1731</date>
+                  </death>
                </person>
             </listPerson>
          </div>

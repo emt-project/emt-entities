@@ -5923,5 +5923,50 @@
     "alternative_name": "",
     "wikidata_url": "",
     "unidentifiziert": false
+  },
+  "694": {
+    "id": 694,
+    "order": "402.00000000000000000000",
+    "name": "Cassano",
+    "geonames": "https://www.geonames.org/3179795/cassano-d-adda.html",
+    "emt_id": "emt_place_id__694",
+    "place_type": null,
+    "lat": "45.52637",
+    "long": "9.515280",
+    "comments intern": "Schlacht 16.08.1705",
+    "gnd": "",
+    "alternative_name": "",
+    "wikidata_url": "",
+    "unidentifiziert": false
+  },
+  "695": {
+    "id": 695,
+    "order": "403.00000000000000000000",
+    "name": "Katalonien",
+    "geonames": "https://www.geonames.org/3125609/catalunya.html",
+    "emt_id": "emt_place_id__695",
+    "place_type": null,
+    "lat": null,
+    "long": null,
+    "comments intern": "",
+    "gnd": "",
+    "alternative_name": "",
+    "wikidata_url": "",
+    "unidentifiziert": false
+  },
+  "696": {
+    "id": 696,
+    "order": "404.00000000000000000000",
+    "name": "Würzburg, Bistum",
+    "geonames": "https://www.geonames.org/maps/google_49.7833_9.9333.html",
+    "emt_id": "emt_place_id__696",
+    "place_type": null,
+    "lat": null,
+    "long": null,
+    "comments intern": "",
+    "gnd": "",
+    "alternative_name": "",
+    "wikidata_url": "",
+    "unidentifiziert": false
   }
 }

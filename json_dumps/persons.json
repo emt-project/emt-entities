@@ -857,6 +857,16 @@
         "id": 19693,
         "value": "Fürst",
         "color": "green"
+      },
+      {
+        "id": 22783,
+        "value": "Rheingraf",
+        "color": "dark-gray"
+      },
+      {
+        "id": 22784,
+        "value": "Wildgraf",
+        "color": "dark-purple"
       }
     ]
   },
@@ -23965,24 +23975,24 @@
     "id": 893,
     "order": "887.00000000000000000000",
     "name": "Lothringen, Joseph Innozenz von",
-    "gnd": "",
+    "gnd": "https://d-nb.info/gnd/137707371",
     "other_url": "https://de.wikipedia.org/wiki/Karl_V._(Lothringen)",
     "emt_id": "emt_person_id__893",
-    "internal_comment": "hier müsste man noch die Europäischen Stammtafeln anschauen",
+    "internal_comment": "hier müsste man noch die Europäischen Stammtafeln anschauen. Er hat frz. wikipedia-Eintrag https://fr.wikipedia.org/wiki/Joseph_de_Lorraine   aus dem geht auch hervor, dass er erst einige Tage später an den Verwundungen von der Schlacht bei Cassano gestorben ist (denn EMT schreibt \"Prinz Joseph\" sei verwundet aber außer Gefahr), kommt auch bei Schmidt-Brentano inkl. Rang und Todesdatum vor",
     "color": "",
     "lebensdaten": "",
     "ndb": "",
     "year_of_birth": "1685",
     "year_of_death": "1705",
-    "wikidata_url": "",
-    "wikidata_enriched": false,
-    "img_name": "",
-    "img_fetched": false,
-    "img_source": "",
+    "wikidata_url": "http://www.wikidata.org/entity/Q3185849",
+    "wikidata_enriched": true,
+    "img_name": "Arolsen Klebeband 01 311.jpg",
+    "img_fetched": true,
+    "img_source": "commonsMedia",
     "birth_date_written": "",
     "death_date_written": "",
     "geschlecht": "",
-    "funktionsbezeichnungen": "",
+    "funktionsbezeichnungen": "kaiserlicher General",
     "unidentifiziert": false,
     "titel": [
       {
@@ -31275,7 +31285,7 @@
     "gnd": "https://d-nb.info/gnd/1164337777",
     "other_url": "https://viecpro.acdh.oeaw.ac.at/persons/71574",
     "emt_id": "emt_person_id__1509",
-    "internal_comment": "",
+    "internal_comment": "getaggt 1705 wo EMT  \"mein Graf\" zum falschen conte di Ruggiero schickt wg. alchemischem Projekt, denn: er war ihr Obersthofmeister und Graf",
     "color": "",
     "lebensdaten": "",
     "ndb": "www.deutsche-biographie.de/1164337777.html#indexcontent",
@@ -33115,7 +33125,7 @@
     "gnd": "https://d-nb.info/gnd/104177047",
     "other_url": "",
     "emt_id": "emt_person_id__1607",
-    "internal_comment": "Heiratskandidatin für Karl VI. lt. Leibnizedition GWL I,25 (2017) 37 (sie hat Schwestern, die aber schon verheiratet waren)    https://de.wikipedia.org/wiki/Johann_Adolf_I._(Sachsen-Wei%C3%9Fenfels)#Ehen_und_Nachkommen",
+    "internal_comment": "Heiratskandidatin für Karl VI. lt. Leibnizedition GWL I,25 (2017) 37 ,     https://de.wikipedia.org/wiki/Johann_Adolf_I._(Sachsen-Wei%C3%9Fenfels)#Ehen_und_Nachkommen",
     "color": "",
     "lebensdaten": "",
     "ndb": "",
@@ -33290,6 +33300,160 @@
         "id": 19698,
         "value": "Königin",
         "color": "pink"
+      }
+    ]
+  },
+  "1613": {
+    "id": 1613,
+    "order": "1226.00000000000000000000",
+    "name": "Palffy, Leopold",
+    "gnd": "",
+    "other_url": "",
+    "emt_id": "emt_person_id__1613",
+    "internal_comment": "nicht bei Schmidt-Brentano (war bloß Oberst). brachte wie von EMT gesagt Nachricht von der Schlacht bei Cassano nach Wien lt. https://www.google.at/books/edition/Feldz%C3%BCge_des_Prinzen_Eugen_von_Savoyen/-G9zp--moYYC?hl=de&gbpv=1  (Registerband von Feldzüge des Prinzen Eugen 1892)    in Wikipedia nur bei seinem Vater de.wikipedia.org/wiki/Nikolaus_Pálffy_von_Erdőd_(Palatin) , nicht GND und DB",
+    "color": "",
+    "lebensdaten": "",
+    "ndb": "",
+    "year_of_birth": "1681",
+    "year_of_death": "1720",
+    "wikidata_url": "",
+    "wikidata_enriched": false,
+    "img_name": "",
+    "img_fetched": false,
+    "img_source": "",
+    "birth_date_written": "",
+    "death_date_written": "",
+    "geschlecht": "",
+    "funktionsbezeichnungen": "Oberst",
+    "unidentifiziert": false,
+    "titel": []
+  },
+  "1614": {
+    "id": 1614,
+    "order": "1227.00000000000000000000",
+    "name": "Vendôme, Louis Joseph de Borubon, de",
+    "gnd": "https://d-nb.info/gnd/1026455197",
+    "other_url": "",
+    "emt_id": "emt_person_id__1614",
+    "internal_comment": "",
+    "color": "",
+    "lebensdaten": "",
+    "ndb": "",
+    "year_of_birth": "1654",
+    "year_of_death": "1712",
+    "wikidata_url": "http://www.wikidata.org/entity/Q315513",
+    "wikidata_enriched": true,
+    "img_name": "Attributed to Pedro Nunez de Villavicencio - Louis-Joseph, Duc de Vendome.jpg",
+    "img_fetched": true,
+    "img_source": "commonsMedia",
+    "birth_date_written": "",
+    "death_date_written": "",
+    "geschlecht": "",
+    "funktionsbezeichnungen": "französischer General",
+    "unidentifiziert": false,
+    "titel": [
+      {
+        "id": 22535,
+        "value": "Duc",
+        "color": "green"
+      }
+    ]
+  },
+  "1615": {
+    "id": 1615,
+    "order": "1228.00000000000000000000",
+    "name": "Vendôme, Philippe de Bourbon, de",
+    "gnd": "https://d-nb.info/gnd/140078630",
+    "other_url": "",
+    "emt_id": "emt_person_id__1615",
+    "internal_comment": "",
+    "color": "",
+    "lebensdaten": "",
+    "ndb": "",
+    "year_of_birth": "1655",
+    "year_of_death": "1727",
+    "wikidata_url": "http://www.wikidata.org/entity/Q695494",
+    "wikidata_enriched": true,
+    "img_name": "Philippe, Chevalier de Vendôme (future Duke of Vendôme) by Ferdinand Jacob Voet.png",
+    "img_fetched": true,
+    "img_source": "commonsMedia",
+    "birth_date_written": "",
+    "death_date_written": "",
+    "geschlecht": "",
+    "funktionsbezeichnungen": "Großprior des Malteserordens in Frankreich, französischer Offizier",
+    "unidentifiziert": false,
+    "titel": [
+      {
+        "id": 22535,
+        "value": "Duc",
+        "color": "green"
+      }
+    ]
+  },
+  "1616": {
+    "id": 1616,
+    "order": "1229.00000000000000000000",
+    "name": "Braunschweig-Lüneburg (Hannover), Sophie Dorothea",
+    "gnd": "https://d-nb.info/gnd/118798022",
+    "other_url": "",
+    "emt_id": "emt_person_id__1616",
+    "internal_comment": "",
+    "color": "",
+    "lebensdaten": "",
+    "ndb": "https://www.deutsche-biographie.de/pnd118798022.html#indexcontent",
+    "year_of_birth": "1687",
+    "year_of_death": "1757",
+    "wikidata_url": "http://www.wikidata.org/entity/Q161131",
+    "wikidata_enriched": true,
+    "img_name": "Queen Sophie Dorothea of Prussia.jpg",
+    "img_fetched": true,
+    "img_source": "commonsMedia",
+    "birth_date_written": "",
+    "death_date_written": "",
+    "geschlecht": "",
+    "funktionsbezeichnungen": "",
+    "unidentifiziert": false,
+    "titel": [
+      {
+        "id": 19713,
+        "value": "Prinzessin",
+        "color": "orange"
+      },
+      {
+        "id": 19698,
+        "value": "Königin",
+        "color": "pink"
+      }
+    ]
+  },
+  "1617": {
+    "id": 1617,
+    "order": "1230.00000000000000000000",
+    "name": "Sachsen-Weißenfels, Anna Maria",
+    "gnd": "",
+    "other_url": "",
+    "emt_id": "emt_person_id__1617",
+    "internal_comment": "",
+    "color": "",
+    "lebensdaten": "",
+    "ndb": "",
+    "year_of_birth": "1683",
+    "year_of_death": "1731",
+    "wikidata_url": "",
+    "wikidata_enriched": false,
+    "img_name": "",
+    "img_fetched": false,
+    "img_source": "",
+    "birth_date_written": "",
+    "death_date_written": "",
+    "geschlecht": "",
+    "funktionsbezeichnungen": "",
+    "unidentifiziert": false,
+    "titel": [
+      {
+        "id": 19713,
+        "value": "Prinzessin",
+        "color": "orange"
       }
     ]
   }
