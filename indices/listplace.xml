@@ -2486,6 +2486,9 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                   <placeName>Würzburg, Bistum</placeName>
                   <idno type="GEONAMES">https://www.geonames.org/maps/google_49.7833_9.9333.html</idno>
                </place>
+               <place xml:id="emt_place_id__697">
+                  <placeName>Wien, Theatinerkloster</placeName>
+               </place>
             </listPlace>
          </div>
       </body>

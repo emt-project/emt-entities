@@ -8137,7 +8137,7 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                   <idno type="URL">https://austria-forum.org/af/AustriaWiki/Liste_der_franz%C3%B6sischen_Botschafter_in_%C3%96sterreich</idno>
                </person>
                <person xml:id="emt_person_id__731">
-                  <persName type="name">Wels, Frau von, 1687</persName>
+                  <persName type="name">Wels/Welz, Frau von, 1687</persName>
                   <persName type="function">
                      <roleName>Obersthofmeisterin der Kurfürstin von Bayern</roleName>
                   </persName>
@@ -13624,10 +13624,22 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                   </figure>
                </person>
                <person xml:id="emt_person_id__1606">
-                  <persName type="name">Mecklenburg, N.N. von</persName>
+                  <persName type="name">Mecklenburg-Schwerin, Sophie Luise zu</persName>
                   <persName type="title">
                      <roleName>Prinzessin</roleName>
                   </persName>
+                  <birth>
+                     <date notBefore="1685-01-01" notAfter="1685-12-31">1685</date>
+                  </birth>
+                  <death>
+                     <date notBefore="1735-01-01" notAfter="1735-12-31">1735</date>
+                  </death>
+                  <idno type="GND">https://d-nb.info/gnd/141996285</idno>
+                  <idno type="WIKIDATA">http://www.wikidata.org/entity/Q64996</idno>
+                  <figure>
+                     <graphic url="emt_person_id__1606.jpg"/>
+                     <caption>Sophie Luise von Mecklenburg-Schwerin, Königin von Preußen.jpg</caption>
+                  </figure>
                </person>
                <person xml:id="emt_person_id__1607">
                   <persName type="name">Sachsen-Weißenfels, Johanna Wilhelmine</persName>
@@ -13644,7 +13656,7 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                   <idno type="WIKIDATA">http://www.wikidata.org/entity/Q55673723</idno>
                </person>
                <person xml:id="emt_person_id__1608">
-                  <persName type="name">Wels / Welz / Weltz, Gotthard Helfried</persName>
+                  <persName type="name">Welz, Gotthard Helfried</persName>
                   <persName type="title">
                      <roleName>Graf</roleName>
                   </persName>
@@ -13806,6 +13818,193 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                   <death>
                      <date notBefore="1731-01-01" notAfter="1731-12-31">1731</date>
                   </death>
+               </person>
+               <person xml:id="emt_person_id__1618">
+                  <persName type="name">Sachsen-Zeitz, Dorothea Wilhelmine von</persName>
+                  <persName type="title">
+                     <roleName>Prinzessin</roleName>
+                  </persName>
+                  <persName type="title">
+                     <roleName>Landgräfin</roleName>
+                  </persName>
+                  <birth>
+                     <date notBefore="1691-01-01" notAfter="1691-12-31">1691</date>
+                  </birth>
+                  <death>
+                     <date notBefore="1743-01-01" notAfter="1743-12-31">1743</date>
+                  </death>
+                  <idno type="GND">https://d-nb.info/gnd/137005776</idno>
+                  <idno type="WIKIDATA">http://www.wikidata.org/entity/Q459142</idno>
+                  <figure>
+                     <graphic url="emt_person_id__1618.jpg"/>
+                     <caption>Dorothea Vilhelmina, 1691-1743, prinsessa av Sachsen-Zeitz lantgrevinna av Hessen-Kassel - Nationalmuseum - 15511.tif</caption>
+                  </figure>
+               </person>
+               <person xml:id="emt_person_id__1619">
+                  <persName type="name">Sachsen-Zeitz, Maria Amalia von, geb. Brandenburg</persName>
+                  <persName type="title">
+                     <roleName>Herzogin</roleName>
+                  </persName>
+                  <persName type="title">
+                     <roleName>Markgräfin</roleName>
+                  </persName>
+                  <birth>
+                     <date notBefore="1670-01-01" notAfter="1670-12-31">1670</date>
+                  </birth>
+                  <death>
+                     <date notBefore="1739-01-01" notAfter="1739-12-31">1739</date>
+                  </death>
+                  <idno type="GND">https://d-nb.info/gnd/122477863</idno>
+                  <idno type="WIKIDATA">http://www.wikidata.org/entity/Q445177</idno>
+                  <figure>
+                     <graphic url="emt_person_id__1619.jpg"/>
+                     <caption>Duchess Maria Amalia of Saxony-Zeitz c 1700.jpg</caption>
+                  </figure>
+               </person>
+               <person xml:id="emt_person_id__1620">
+                  <persName type="name">Sohn des Clermont / Clairmont, NN</persName>
+               </person>
+               <person xml:id="emt_person_id__1621">
+                  <persName type="name">Vogl, Antonio</persName>
+                  <persName type="title">
+                     <roleName>Pater</roleName>
+                  </persName>
+                  <persName type="function">
+                     <roleName>Hofkaplan 1698-1705</roleName>
+                  </persName>
+                  <birth>
+                     <date notBefore="1666-01-01" notAfter="1666-12-31">1666</date>
+                  </birth>
+                  <death>
+                     <date notBefore="1751-01-01" notAfter="1751-12-31">1751</date>
+                  </death>
+                  <idno type="URL">https://viecpro.acdh.oeaw.ac.at/persons/323027</idno>
+               </person>
+               <person xml:id="emt_person_id__1622">
+                  <persName type="name">Bottiglia, Johann Augustin</persName>
+                  <persName type="function">
+                     <roleName>Kammerdiener der Kaiserin Eleonora Magdalena</roleName>
+                  </persName>
+                  <idno type="URL">https://viecpro.acdh.oeaw.ac.at/persons/247354</idno>
+               </person>
+               <person xml:id="emt_person_id__1623">
+                  <persName type="name">Braunschweig-Wolfenbüttel, Ludwig Rudolf</persName>
+                  <persName type="title">
+                     <roleName>Herzog</roleName>
+                  </persName>
+                  <birth>
+                     <date notBefore="1671-01-01" notAfter="1671-12-31">1671</date>
+                  </birth>
+                  <death>
+                     <date notBefore="1735-01-01" notAfter="1735-12-31">1735</date>
+                  </death>
+                  <idno type="GND">https://d-nb.info/gnd/124700470</idno>
+                  <idno type="NDB">https://www.deutsche-biographie.de/pnd124700470.html#indexcontent</idno>
+                  <idno type="WIKIDATA">http://www.wikidata.org/entity/Q61512</idno>
+                  <figure>
+                     <graphic url="emt_person_id__1623.jpg"/>
+                     <caption>Louis Rudolph duke of Brunswick-Wolfenbüttel.jpg</caption>
+                  </figure>
+               </person>
+               <person xml:id="emt_person_id__1624">
+                  <persName type="name">Braunschweig-Wolfenbüttel, Elisabeth Eleonore von, vereh. Sachsen-Meiningen</persName>
+                  <persName type="title">
+                     <roleName>Herzogin</roleName>
+                  </persName>
+                  <birth>
+                     <date notBefore="1658-01-01" notAfter="1658-12-31">1658</date>
+                  </birth>
+                  <death>
+                     <date notBefore="1729-01-01" notAfter="1729-12-31">1729</date>
+                  </death>
+                  <idno type="GND">https://d-nb.info/gnd/104182067</idno>
+                  <idno type="NDB">https://www.deutsche-biographie.de/pnd104182067.html#indexcontent</idno>
+                  <idno type="WIKIDATA">http://www.wikidata.org/entity/Q450887</idno>
+                  <figure>
+                     <graphic url="emt_person_id__1624.jpg"/>
+                     <caption>Elisabeth Eleonore of Brunswick-Wolfenbüttel.jpg</caption>
+                  </figure>
+               </person>
+               <person xml:id="emt_person_id__1625">
+                  <persName type="name">Braunschweig-Wolfenbüttel, Anna Sophie von, vereh. Baden-Durlach</persName>
+                  <persName type="title">
+                     <roleName>Markgräfin</roleName>
+                  </persName>
+                  <birth>
+                     <date notBefore="1659-01-01" notAfter="1659-12-31">1659</date>
+                  </birth>
+                  <death>
+                     <date notBefore="1742-01-01" notAfter="1742-12-31">1742</date>
+                  </death>
+                  <idno type="GND">https://d-nb.info/gnd/104326417</idno>
+                  <idno type="WIKIDATA">http://www.wikidata.org/entity/Q137451828</idno>
+               </person>
+               <person xml:id="emt_person_id__1626">
+                  <persName type="name">Braunschweig-Wolfenbüttel, Auguste Dorothea von, vereh. Schwarzburg-Soderhausen</persName>
+                  <persName type="title">
+                     <roleName>Gräfin</roleName>
+                  </persName>
+                  <birth>
+                     <date notBefore="1666-01-01" notAfter="1666-12-31">1666</date>
+                  </birth>
+                  <death>
+                     <date notBefore="1751-01-01" notAfter="1751-12-31">1751</date>
+                  </death>
+                  <idno type="GND">https://d-nb.info/gnd/119065983</idno>
+                  <idno type="NDB">https://www.deutsche-biographie.de/pnd119065983.html#indexcontent</idno>
+                  <idno type="WIKIDATA">http://www.wikidata.org/entity/Q766388</idno>
+                  <figure>
+                     <graphic url="emt_person_id__1626.jpg"/>
+                     <caption>Auguste Dorothea von Schwarzburg-Arnstadt.png</caption>
+                  </figure>
+               </person>
+               <person xml:id="emt_person_id__1627">
+                  <persName type="name">Braunschweig-Wolfenbüttel, Henriette Christine von</persName>
+                  <persName type="title">
+                     <roleName>Prinzessin</roleName>
+                  </persName>
+                  <persName type="function">
+                     <roleName>Äbtissin von Gandersheim</roleName>
+                  </persName>
+                  <birth>
+                     <date notBefore="1669-01-01" notAfter="1669-12-31">1669</date>
+                  </birth>
+                  <death>
+                     <date notBefore="1753-01-01" notAfter="1753-12-31">1753</date>
+                  </death>
+                  <idno type="GND">https://d-nb.info/gnd/1034906267</idno>
+                  <idno type="WIKIDATA">http://www.wikidata.org/entity/Q1606153</idno>
+                  <figure>
+                     <graphic url="emt_person_id__1627.jpg"/>
+                     <caption>Henriette Christine of Brunswick-Wolfenbüttel - Stift Gandersheim.jpg</caption>
+                  </figure>
+               </person>
+               <person xml:id="emt_person_id__1628">
+                  <persName type="name">Baden-Durlach, Karl Gustav von</persName>
+                  <persName type="title">
+                     <roleName>Markgraf</roleName>
+                  </persName>
+                  <persName type="function">
+                     <roleName>kaiserlicher General</roleName>
+                  </persName>
+                  <birth>
+                     <date notBefore="1648-01-01" notAfter="1648-12-31">1648</date>
+                  </birth>
+                  <death>
+                     <date notBefore="1703-01-01" notAfter="1703-12-31">1703</date>
+                  </death>
+                  <idno type="GND">https://d-nb.info/gnd/101868774</idno>
+                  <idno type="WIKIDATA">http://www.wikidata.org/entity/Q78224</idno>
+                  <figure>
+                     <graphic url="emt_person_id__1628.jpg"/>
+                     <caption>Charles Gustav of Baden-Durlach.jpg</caption>
+                  </figure>
+               </person>
+               <person xml:id="emt_person_id__1629">
+                  <persName type="name">N.N. (1705)</persName>
+                  <persName type="function">
+                     <roleName>General des Theatinerordens</roleName>
+                  </persName>
                </person>
             </listPerson>
          </div>
