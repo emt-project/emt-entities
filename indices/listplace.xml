@@ -2489,6 +2489,41 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                <place xml:id="emt_place_id__697">
                   <placeName>Wien, Theatinerkloster</placeName>
                </place>
+               <place xml:id="emt_place_id__698">
+                  <placeName>Preußen, Königreich</placeName>
+               </place>
+               <place xml:id="emt_place_id__699">
+                  <placeName>València</placeName>
+                  <location type="coords">
+                     <geo>10.16153 -68.000440</geo>
+                  </location>
+                  <idno type="GEONAMES">https://sws.geonames.org/3625549/</idno>
+               </place>
+               <place xml:id="emt_place_id__700">
+                  <placeName>Saragossa</placeName>
+                  <location type="coords">
+                     <geo>41.65606 -0.877340</geo>
+                  </location>
+                  <idno type="GEONAMES">https://sws.geonames.org/3104324/</idno>
+               </place>
+               <place xml:id="emt_place_id__701">
+                  <placeName>Barcelona</placeName>
+                  <location type="coords">
+                     <geo>41.38879 2.158990</geo>
+                  </location>
+                  <idno type="GEONAMES">https://sws.geonames.org/3128760/</idno>
+               </place>
+               <place xml:id="emt_place_id__702">
+                  <placeName>Zeitz</placeName>
+                  <location type="coords">
+                     <geo>51.04962 12.136900</geo>
+                  </location>
+                  <idno type="GEONAMES">https://sws.geonames.org/2804922/</idno>
+               </place>
+               <place xml:id="emt_place_id__703">
+                  <placeName>Pfalz-Sulzbach, Herzogtum</placeName>
+                  <idno type="GEONAMES">https://d-nb.info/gnd/4045463-0</idno>
+               </place>
             </listPlace>
          </div>
       </body>

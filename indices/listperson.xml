@@ -2209,7 +2209,7 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                      <roleName>Herzog</roleName>
                   </persName>
                   <persName type="function">
-                     <roleName>General</roleName>
+                     <roleName>kaiserlicher General</roleName>
                   </persName>
                   <birth>
                      <date notBefore="1630-01-01" notAfter="1630-12-31">1630</date>
@@ -9134,8 +9134,17 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                      <roleName>Graf</roleName>
                   </persName>
                   <persName type="function">
-                     <roleName>außerordentlicher schwedischer Gesandter am Kaiserhof</roleName>
+                     <roleName>außerordentlicher schwedischer Gesandter am Kaiserhof, auch Regierungspräsident und Präsident des Geheimrats von Mecklenburg-Schwerin</roleName>
                   </persName>
+                  <birth>
+                     <date notBefore="1651-01-01" notAfter="1651-12-31">1651</date>
+                  </birth>
+                  <death>
+                     <date notBefore="1709-01-01" notAfter="1709-12-31">1709</date>
+                  </death>
+                  <idno type="GND">https://d-nb.info/gnd/137633815</idno>
+                  <idno type="NDB">https://www.deutsche-biographie.de/pnd137633815.html?language=en</idno>
+                  <idno type="WIKIDATA">http://www.wikidata.org/entity/Q1463306</idno>
                </person>
                <person xml:id="emt_person_id__813">
                   <persName type="name">Melchiori, Joseph</persName>
@@ -13571,7 +13580,7 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                   <persName type="name">Hannover, Haus</persName>
                </person>
                <person xml:id="emt_person_id__1570">
-                  <persName type="name">Franzin, Anna Catharina, geb. Ferk</persName>
+                  <persName type="name">Franzin / Ferenz, Anna Catharina, geb. Ferk</persName>
                   <persName type="function">
                      <roleName>Dienerin der Fräuleinhofmeisterin</roleName>
                   </persName>
@@ -14005,6 +14014,84 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                   <persName type="function">
                      <roleName>General des Theatinerordens</roleName>
                   </persName>
+               </person>
+               <person xml:id="emt_person_id__1630">
+                  <persName type="name">Pfalz-Sulzbach, Christian August von</persName>
+                  <persName type="title">
+                     <roleName>Herzog</roleName>
+                  </persName>
+                  <birth>
+                     <date notBefore="1622-01-01" notAfter="1622-12-31">1622</date>
+                  </birth>
+                  <death>
+                     <date notBefore="1708-01-01" notAfter="1708-12-31">1708</date>
+                  </death>
+                  <idno type="GND">https://d-nb.info/gnd/119264536</idno>
+                  <idno type="NDB">https://www.deutsche-biographie.de/pnd119264536.html#indexcontent</idno>
+                  <idno type="WIKIDATA">http://www.wikidata.org/entity/Q63539</idno>
+                  <figure>
+                     <graphic url="emt_person_id__1630.jpg"/>
+                     <caption>ChristianAugustPfalzSulz.jpg</caption>
+                  </figure>
+               </person>
+               <person xml:id="emt_person_id__1631">
+                  <persName type="name">Stuart, Louisa Maria Theresa von</persName>
+                  <persName type="title">
+                     <roleName>Prinzessin</roleName>
+                  </persName>
+                  <birth>
+                     <date notBefore="1692-01-01" notAfter="1692-12-31">1692</date>
+                  </birth>
+                  <death>
+                     <date notBefore="1712-01-01" notAfter="1712-12-31">1712</date>
+                  </death>
+                  <idno type="GND">https://d-nb.info/gnd/1026821258</idno>
+                  <idno type="WIKIDATA">http://www.wikidata.org/entity/Q271999</idno>
+                  <figure>
+                     <graphic url="emt_person_id__1631.jpg"/>
+                     <caption>Princess Louisa Maria Teresa Stuart by Alexis Simon Belle 1704.jpg</caption>
+                  </figure>
+               </person>
+               <person xml:id="emt_person_id__1632">
+                  <persName type="name">Zem (1706 beim Bischof von Osnabrück, hinderlich für dessen Wahl in Münster)</persName>
+               </person>
+               <person xml:id="emt_person_id__1633">
+                  <persName type="name">Götzen, Maria Elisabeth von</persName>
+                  <persName type="title">
+                     <roleName>Gräfin</roleName>
+                  </persName>
+                  <persName type="function">
+                     <roleName>Kammerfräulein</roleName>
+                  </persName>
+                  <death>
+                     <date notBefore="1709-01-01" notAfter="1709-12-31">1709</date>
+                  </death>
+                  <idno type="URL">https://viecpro.acdh.oeaw.ac.at/persons/253841</idno>
+               </person>
+               <person xml:id="emt_person_id__1634">
+                  <persName type="name">Hohenfeld (1706, Sohn des Grafen Otto Ferdinan von Hohenfeld</persName>
+               </person>
+               <person xml:id="emt_person_id__1635">
+                  <persName type="name">Beseri, N.N. (wird 1706 empfohlen)</persName>
+               </person>
+               <person xml:id="emt_person_id__1636">
+                  <persName type="name">N.N., Arzt des Herzogs Anton Ulrich von Wolfenbüttel (1706)</persName>
+               </person>
+               <person xml:id="emt_person_id__1637">
+                  <persName type="name">Strattmann, Maria Margarethe Magdalena von, geb. Traun-Abensperg, verwitwete Buquoy</persName>
+                  <persName type="title">
+                     <roleName>Gräfin</roleName>
+                  </persName>
+                  <birth>
+                     <date notBefore="1649-01-01" notAfter="1649-12-31">1649</date>
+                  </birth>
+                  <death>
+                     <date notBefore="1706-01-01" notAfter="1706-12-31">1706</date>
+                  </death>
+                  <idno type="URL">https://de.wikipedia.org/wiki/Theodor_Heinrich_von_Stratmann</idno>
+               </person>
+               <person xml:id="emt_person_id__1638">
+                  <persName type="name">Amerighi (wird 1706 empfohlen)</persName>
                </person>
             </listPerson>
          </div>
