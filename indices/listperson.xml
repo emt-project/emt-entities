@@ -14069,7 +14069,7 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                   <idno type="URL">https://viecpro.acdh.oeaw.ac.at/persons/253841</idno>
                </person>
                <person xml:id="emt_person_id__1634">
-                  <persName type="name">Hohenfeld (1706, Sohn des Grafen Otto Ferdinan von Hohenfeld</persName>
+                  <persName type="name">Hohenfeld (1706, Sohn des Grafen Otto Ferdinand von Hohenfeld)</persName>
                </person>
                <person xml:id="emt_person_id__1635">
                   <persName type="name">Beseri, N.N. (wird 1706 empfohlen)</persName>
@@ -14092,6 +14092,15 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                </person>
                <person xml:id="emt_person_id__1638">
                   <persName type="name">Amerighi (wird 1706 empfohlen)</persName>
+               </person>
+               <person xml:id="emt_person_id__1671">
+                  <persName type="name">Berg, Graf (1706 empfohlen)</persName>
+               </person>
+               <person xml:id="emt_person_id__1672">
+                  <persName type="name">Pater Rektor (der Karmeliten? 1706)</persName>
+               </person>
+               <person xml:id="emt_person_id__1673">
+                  <persName type="name">Würdige Mutter der Karmelitinnen in Wien 1706</persName>
                </person>
             </listPerson>
          </div>
