@@ -2524,6 +2524,10 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                   <placeName>Pfalz-Sulzbach, Herzogtum</placeName>
                   <idno type="GEONAMES">https://d-nb.info/gnd/4045463-0</idno>
                </place>
+               <place xml:id="emt_place_id__736">
+                  <placeName>Mecklenburg-Schwerin, Herzogtum</placeName>
+                  <idno type="GND">https://d-nb.info/gnd/4281380-3</idno>
+               </place>
             </listPlace>
          </div>
       </body>
