@@ -34175,5 +34175,36 @@
         "color": "purple"
       }
     ]
+  },
+  "1675": {
+    "id": 1675,
+    "order": "1256.00000000000000000000",
+    "name": "Trauttmannsdorff, Franz Ehrenreich von",
+    "gnd": "https://d-nb.info/gnd/102856516",
+    "other_url": "https://de.wikisource.org/wiki/BLK%C3%96%3ATrauttmannsdorff%2C_Franz_Ehrenreich",
+    "emt_id": "emt_person_id__1675",
+    "internal_comment": "er war tatsächlich vorher in der Schweiz, Identifizierung demnach sicher",
+    "color": "",
+    "lebensdaten": "",
+    "ndb": "",
+    "year_of_birth": "1662",
+    "year_of_death": "1719",
+    "wikidata_url": "http://www.wikidata.org/entity/Q11698819",
+    "wikidata_enriched": true,
+    "img_name": "Trauttmansdorff-St-Wappen.png",
+    "img_fetched": true,
+    "img_source": "commonsMedia",
+    "birth_date_written": "",
+    "death_date_written": "",
+    "geschlecht": "",
+    "funktionsbezeichnungen": "",
+    "unidentifiziert": false,
+    "titel": [
+      {
+        "id": 19689,
+        "value": "Graf",
+        "color": "purple"
+      }
+    ]
   }
 }
