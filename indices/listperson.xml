@@ -14135,6 +14135,237 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                      <caption>Trauttmansdorff-St-Wappen.png</caption>
                   </figure>
                </person>
+               <person xml:id="emt_person_id__1676">
+                  <persName type="name">Pfalz-Simmern, Friedrich V. von</persName>
+                  <persName type="title">
+                     <roleName>Kurfürst</roleName>
+                  </persName>
+                  <persName type="title">
+                     <roleName>König</roleName>
+                  </persName>
+                  <birth>
+                     <date notBefore="1596-01-01" notAfter="1596-12-31">1596</date>
+                  </birth>
+                  <death>
+                     <date notBefore="1632-01-01" notAfter="1632-12-31">1632</date>
+                  </death>
+                  <idno type="GND">https://d-nb.info/gnd/118693522</idno>
+                  <idno type="NDB">https://www.deutsche-biographie.de/pnd118693522.html#indexcontent</idno>
+                  <idno type="WIKIDATA">http://www.wikidata.org/entity/Q57195</idno>
+                  <figure>
+                     <graphic url="emt_person_id__1676.jpg"/>
+                     <caption>Kurfürst Friedrich V. von der Pfalz als König von Böhmen.jpg</caption>
+                  </figure>
+               </person>
+               <person xml:id="emt_person_id__1677">
+                  <persName type="name">Sanvitale, Antonio Francesco</persName>
+                  <persName type="title">
+                     <roleName>Kardinal</roleName>
+                  </persName>
+                  <persName type="function">
+                     <roleName>Nuntius in Florenz 1706-1709</roleName>
+                  </persName>
+                  <birth>
+                     <date notBefore="1660-01-01" notAfter="1660-12-31">1660</date>
+                  </birth>
+                  <death>
+                     <date notBefore="1714-01-01" notAfter="1714-12-31">1714</date>
+                  </death>
+                  <idno type="WIKIDATA">http://www.wikidata.org/entity/Q1154430</idno>
+                  <idno type="URL">https://www.catholic-hierarchy.org/bishop/bsanvaf.html</idno>
+                  <figure>
+                     <graphic url="emt_person_id__1677.jpg"/>
+                     <caption>Antonio Francesco Sanvitale.jpg</caption>
+                  </figure>
+               </person>
+               <person xml:id="emt_person_id__1678">
+                  <persName type="name">Rindsmaul, Maria Katharina von, geb. Nydegg/Neidegg</persName>
+                  <persName type="title">
+                     <roleName>Gräfin</roleName>
+                  </persName>
+                  <persName type="function">
+                     <roleName>Fräuleinhofmeisterin der Kaiserin Amalia Wilhelmina</roleName>
+                  </persName>
+                  <birth>
+                     <date notBefore="1657-01-01" notAfter="1657-12-31">1657</date>
+                  </birth>
+                  <death>
+                     <date notBefore="1727-01-01" notAfter="1727-12-31">1727</date>
+                  </death>
+                  <idno type="GND">https://d-nb.info/gnd/1299851754</idno>
+               </person>
+               <person xml:id="emt_person_id__1679">
+                  <persName type="name">Rindsmaul, Siegmund Albrecht von</persName>
+                  <persName type="title">
+                     <roleName>Graf</roleName>
+                  </persName>
+                  <birth>
+                     <date notBefore="1687-01-01" notAfter="1687-12-31">1687</date>
+                  </birth>
+                  <death>
+                     <date notBefore="1756-01-01" notAfter="1756-12-31">1756</date>
+                  </death>
+                  <idno type="GND">https://d-nb.info/gnd/1372301569</idno>
+                  <idno type="URL">https://viecpro.acdh.oeaw.ac.at/persons/205340</idno>
+               </person>
+               <person xml:id="emt_person_id__1680">
+                  <persName type="name">Piling, N.N. (schreibt 1706 aus Lissabon)</persName>
+               </person>
+               <person xml:id="emt_person_id__1681">
+                  <persName type="name">Zeno (1706 im Umfeld von Herzog Karl Joseph von Lothringen)</persName>
+               </person>
+               <person xml:id="emt_person_id__1682">
+                  <persName type="name">Taston (überbringt 1706 Nachricht aus Sulzbach)</persName>
+               </person>
+               <person xml:id="emt_person_id__1683">
+                  <persName type="name">Pfalz-Sulzbach, Marie Eleonore von, geb. Hessen-Rotenburg</persName>
+                  <persName type="title">
+                     <roleName>Pfalzgräfin</roleName>
+                  </persName>
+                  <persName type="function">
+                     <roleName>Karmelitin in Köln</roleName>
+                  </persName>
+                  <birth>
+                     <date notBefore="1675-01-01" notAfter="1675-12-31">1675</date>
+                  </birth>
+                  <death>
+                     <date notBefore="1720-01-01" notAfter="1720-12-31">1720</date>
+                  </death>
+                  <idno type="GND">https://d-nb.info/gnd/120188775</idno>
+                  <idno type="WIKIDATA">http://www.wikidata.org/entity/Q3136270</idno>
+                  <figure>
+                     <graphic url="emt_person_id__1683.jpg"/>
+                     <caption>Marie Eleonore Amalie von Hessen-Rheinfels-Rotenburg.jpg</caption>
+                  </figure>
+               </person>
+               <person xml:id="emt_person_id__1684">
+                  <persName type="name">Pfalz-Sulzbach, Maria Anna</persName>
+                  <persName type="title">
+                     <roleName>Pfalzgräfin</roleName>
+                  </persName>
+                  <birth>
+                     <date notBefore="1693-01-01" notAfter="1693-12-31">1693</date>
+                  </birth>
+                  <death>
+                     <date notBefore="1762-01-01" notAfter="1762-12-31">1762</date>
+                  </death>
+                  <idno type="GND">https://d-nb.info/gnd/17326140X</idno>
+                  <idno type="WIKIDATA">http://www.wikidata.org/entity/Q22693458</idno>
+               </person>
+               <person xml:id="emt_person_id__1685">
+                  <persName type="name">Pfalz-Sulzbach, Joseph Karl</persName>
+                  <persName type="title">
+                     <roleName>Pfalzgraf</roleName>
+                  </persName>
+                  <birth>
+                     <date notBefore="1694-01-01" notAfter="1694-12-31">1694</date>
+                  </birth>
+                  <death>
+                     <date notBefore="1729-01-01" notAfter="1729-12-31">1729</date>
+                  </death>
+                  <idno type="GND">https://d-nb.info/gnd/173321151</idno>
+                  <idno type="WIKIDATA">http://www.wikidata.org/entity/Q63649</idno>
+                  <figure>
+                     <graphic url="emt_person_id__1685.jpg"/>
+                     <caption>Joseph Karl Emanuel von Pfalz-Sulzbach - Peter Jacob Horemans.jpg</caption>
+                  </figure>
+               </person>
+               <person xml:id="emt_person_id__1686">
+                  <persName type="name">Pfalz-Sulzbach, Franziska Christine</persName>
+                  <persName type="title">
+                     <roleName>Pfalzgräfin</roleName>
+                  </persName>
+                  <persName type="function">
+                     <roleName>Fürstäbtissin von Essen und Thorn</roleName>
+                  </persName>
+                  <birth>
+                     <date notBefore="1696-01-01" notAfter="1696-12-31">1696</date>
+                  </birth>
+                  <death>
+                     <date notBefore="1776-01-01" notAfter="1776-12-31">1776</date>
+                  </death>
+                  <idno type="GND">https://d-nb.info/gnd/142252336</idno>
+                  <idno type="WIKIDATA">http://www.wikidata.org/entity/Q92439</idno>
+                  <figure>
+                     <graphic url="emt_person_id__1686.jpg"/>
+                     <caption>Francisca Christina of the Palatinate-Sulzbach princess-abbess of Essen and Thorn.JPG</caption>
+                  </figure>
+               </person>
+               <person xml:id="emt_person_id__1687">
+                  <persName type="name">Pfalz-Sulzbach, Ernestine Theodora, verh. Hessen-Wanfried</persName>
+                  <persName type="title">
+                     <roleName>Pfalzgräfin</roleName>
+                  </persName>
+                  <birth>
+                     <date notBefore="1697-01-01" notAfter="1697-12-31">1697</date>
+                  </birth>
+                  <death>
+                     <date notBefore="1775-01-01" notAfter="1775-12-31">1775</date>
+                  </death>
+                  <idno type="GND">https://d-nb.info/gnd/137260962</idno>
+                  <idno type="WIKIDATA">http://www.wikidata.org/entity/Q111309</idno>
+                  <figure>
+                     <graphic url="emt_person_id__1687.jpg"/>
+                     <caption>Ernestine Theodora von Pfalz-Sulzbach.jpg</caption>
+                  </figure>
+               </person>
+               <person xml:id="emt_person_id__1688">
+                  <persName type="name">Pfalz-Sulzbach, Johann Christian</persName>
+                  <persName type="title">
+                     <roleName>Pfalzgraf</roleName>
+                  </persName>
+                  <birth>
+                     <date notBefore="1700-01-01" notAfter="1700-12-31">1700</date>
+                  </birth>
+                  <death>
+                     <date notBefore="1733-01-01" notAfter="1733-12-31">1733</date>
+                  </death>
+                  <idno type="GND">https://d-nb.info/gnd/132711761</idno>
+                  <idno type="WIKIDATA">http://www.wikidata.org/entity/Q65947</idno>
+                  <figure>
+                     <graphic url="emt_person_id__1688.jpg"/>
+                     <caption>Bildnis Johann Christian von Sulzbach (1700-1733).jpg</caption>
+                  </figure>
+               </person>
+               <person xml:id="emt_person_id__1689">
+                  <persName type="name">Pfalz-Sulzbach, Anna Christine, verh. Savoyen</persName>
+                  <persName type="title">
+                     <roleName>Pfalzgräfin</roleName>
+                  </persName>
+                  <birth>
+                     <date notBefore="1704-01-01" notAfter="1704-12-31">1704</date>
+                  </birth>
+                  <death>
+                     <date notBefore="1723-01-01" notAfter="1723-12-31">1723</date>
+                  </death>
+                  <idno type="GND">https://d-nb.info/gnd/1013426991</idno>
+                  <idno type="WIKIDATA">http://www.wikidata.org/entity/Q62104</idno>
+                  <figure>
+                     <graphic url="emt_person_id__1689.jpg"/>
+                     <caption>Ritratto di Anna Cristina di Sulzbach - Google Art Project (crop).jpg</caption>
+                  </figure>
+               </person>
+               <person xml:id="emt_person_id__1690">
+                  <persName type="name">Stadlin (beeinflusst 1706 Herzog Christian August von Sulzbach)</persName>
+               </person>
+               <person xml:id="emt_person_id__1691">
+                  <persName type="name">Pfalz-Sulzbach, Theodor Eustach</persName>
+                  <persName type="title">
+                     <roleName>Pfalzgraf</roleName>
+                  </persName>
+                  <birth>
+                     <date notBefore="1659-01-01" notAfter="1659-12-31">1659</date>
+                  </birth>
+                  <death>
+                     <date notBefore="1732-01-01" notAfter="1732-12-31">1732</date>
+                  </death>
+                  <idno type="GND">https://d-nb.info/gnd/120188759</idno>
+                  <idno type="WIKIDATA">http://www.wikidata.org/entity/Q63534</idno>
+                  <figure>
+                     <graphic url="emt_person_id__1691.jpg"/>
+                     <caption>Theodor, Pfalzgraf von Sulzbach Hz von Bayern.jpg</caption>
+                  </figure>
+               </person>
             </listPerson>
          </div>
       </body>
