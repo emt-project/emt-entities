@@ -14366,6 +14366,99 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                      <caption>Theodor, Pfalzgraf von Sulzbach Hz von Bayern.jpg</caption>
                   </figure>
                </person>
+               <person xml:id="emt_person_id__1692">
+                  <persName type="name">Kollonitsch, Adam von</persName>
+                  <persName type="title">
+                     <roleName>Graf</roleName>
+                  </persName>
+                  <persName type="function">
+                     <roleName>kaiserlicher Offizier</roleName>
+                  </persName>
+                  <birth>
+                     <date notBefore="1651-01-01" notAfter="1651-12-31">1651</date>
+                  </birth>
+                  <death>
+                     <date notBefore="1726-01-01" notAfter="1726-12-31">1726</date>
+                  </death>
+                  <idno type="GND">https://d-nb.info/gnd/136408419</idno>
+                  <idno type="NDB">https://www.deutsche-biographie.de/sfz44244.html?language=de</idno>
+                  <idno type="WIKIDATA">http://www.wikidata.org/entity/Q55853821</idno>
+               </person>
+               <person xml:id="emt_person_id__1693">
+                  <persName type="name">Bourbon, Louis-Alexandre de, comte de Toulouse</persName>
+                  <persName type="title">
+                     <roleName>Prince du sang</roleName>
+                  </persName>
+                  <persName type="function">
+                     <roleName>französischer Admiral</roleName>
+                  </persName>
+                  <birth>
+                     <date notBefore="1678-01-01" notAfter="1678-12-31">1678</date>
+                  </birth>
+                  <death>
+                     <date notBefore="1737-01-01" notAfter="1737-12-31">1737</date>
+                  </death>
+                  <idno type="GND">https://d-nb.info/gnd/119465639</idno>
+                  <idno type="WIKIDATA">http://www.wikidata.org/entity/Q448174</idno>
+                  <figure>
+                     <graphic url="emt_person_id__1693.jpg"/>
+                     <caption>Louis Alexandre de Bourbon Atelier Rigaud Versailles MV2115.jpg</caption>
+                  </figure>
+               </person>
+               <person xml:id="emt_person_id__1694">
+                  <persName type="name">Stein zu Nord- und Ostheim, Carl von</persName>
+                  <persName type="function">
+                     <roleName>Deutschordensritter</roleName>
+                  </persName>
+                  <birth>
+                     <date notBefore="1673-01-01" notAfter="1673-12-31">1673</date>
+                  </birth>
+                  <death>
+                     <date notBefore="1733-01-01" notAfter="1733-12-31">1733</date>
+                  </death>
+                  <idno type="GND">https://d-nb.info/gnd/1035611198</idno>
+                  <idno type="WIKIDATA">http://www.wikidata.org/entity/Q2665883</idno>
+               </person>
+               <person xml:id="emt_person_id__1695">
+                  <persName type="name">Churchill, John, Duke of Marlborough, Fürst von Mindelheim</persName>
+                  <persName type="title">
+                     <roleName>Fürst</roleName>
+                  </persName>
+                  <persName type="function">
+                     <roleName>englischer General</roleName>
+                  </persName>
+                  <birth>
+                     <date notBefore="1650-01-01" notAfter="1650-12-31">1650</date>
+                  </birth>
+                  <death>
+                     <date notBefore="1722-01-01" notAfter="1722-12-31">1722</date>
+                  </death>
+                  <idno type="GND">https://d-nb.info/gnd/118640941</idno>
+                  <idno type="NDB">https://www.deutsche-biographie.de/sfz099_00246_1.html#index</idno>
+                  <idno type="WIKIDATA">http://www.wikidata.org/entity/Q153803</idno>
+                  <figure>
+                     <graphic url="emt_person_id__1695.jpg"/>
+                     <caption>John Churchill, 1st Duke of Marlborough, Captain-General of the English forces and Master-General of the Ordnance, 1702 (c), attributed to Michael Dahl 91996.jpg</caption>
+                  </figure>
+               </person>
+               <person xml:id="emt_person_id__1696">
+                  <persName type="name">Marquis de Trichâteau</persName>
+                  <persName type="function">
+                     <roleName>lothringischer Gesandter in Münster 1706-1707</roleName>
+                  </persName>
+               </person>
+               <person xml:id="emt_person_id__1697">
+                  <persName type="name">Bartholdi, Friedrich Heinrich von</persName>
+                  <persName type="function">
+                     <roleName>preußischer Gesandter am Kaiserhof 1704-1713</roleName>
+                  </persName>
+                  <birth>
+                     <date notBefore="1677-01-01" notAfter="1677-12-31">1677</date>
+                  </birth>
+                  <death>
+                     <date notBefore="1730-01-01" notAfter="1730-12-31">1730</date>
+                  </death>
+               </person>
             </listPerson>
          </div>
       </body>

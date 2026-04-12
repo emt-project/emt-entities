@@ -383,5 +383,12 @@
     "name": "Magistrat von Köln",
     "gnd": "",
     "emt_id": "emt_institution_id__182"
+  },
+  "183": {
+    "id": 183,
+    "order": "56.00000000000000000000",
+    "name": "Domkapitel zu Münster",
+    "gnd": "",
+    "emt_id": "emt_institution_id__183"
   }
 }

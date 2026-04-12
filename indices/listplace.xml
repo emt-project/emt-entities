@@ -2528,6 +2528,30 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                   <placeName>Mecklenburg-Schwerin, Herzogtum</placeName>
                   <idno type="GND">https://d-nb.info/gnd/4281380-3</idno>
                </place>
+               <place xml:id="emt_place_id__737">
+                  <placeName>Donauwörth</placeName>
+                  <location type="coords">
+                     <geo>48.71843 10.776990</geo>
+                  </location>
+                  <idno type="GEONAMES">https://sws.geonames.org/6558423/</idno>
+               </place>
+               <place xml:id="emt_place_id__738">
+                  <placeName>Munderkingen</placeName>
+                  <location type="coords">
+                     <geo>48.23585 9.643890</geo>
+                  </location>
+                  <idno type="GEONAMES">https://sws.geonames.org/6558174/</idno>
+               </place>
+               <place xml:id="emt_place_id__739">
+                  <placeName>Siena</placeName>
+                  <location type="coords">
+                     <geo>43.32004 11.332830</geo>
+                  </location>
+                  <idno type="GEONAMES">https://sws.geonames.org/6541466/</idno>
+               </place>
+               <place xml:id="emt_place_id__740">
+                  <placeName>Düsseldorf, Ursulinenkloster</placeName>
+               </place>
             </listPlace>
          </div>
       </body>
