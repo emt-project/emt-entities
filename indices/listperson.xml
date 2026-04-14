@@ -14459,6 +14459,9 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                      <date notBefore="1730-01-01" notAfter="1730-12-31">1730</date>
                   </death>
                </person>
+               <person xml:id="emt_person_id__1698">
+                  <persName type="name">Provinzial der Karmeliten (Österreichische Provinz)</persName>
+               </person>
             </listPerson>
          </div>
       </body>

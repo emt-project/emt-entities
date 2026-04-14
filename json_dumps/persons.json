@@ -34851,5 +34851,30 @@
     "funktionsbezeichnungen": "preußischer Gesandter am Kaiserhof 1704-1713",
     "unidentifiziert": false,
     "titel": []
+  },
+  "1698": {
+    "id": 1698,
+    "order": "1279.00000000000000000000",
+    "name": "Provinzial der Karmeliten (Österreichische Provinz)",
+    "gnd": "",
+    "other_url": "",
+    "emt_id": "emt_person_id__1698",
+    "internal_comment": "es gab ab 1701 eine eigene ö. Provinz, siehe https://www.erzdioezese-wien.at/pages/inst/14425931&ts=1776080366050",
+    "color": "",
+    "lebensdaten": "",
+    "ndb": "",
+    "year_of_birth": null,
+    "year_of_death": null,
+    "wikidata_url": "",
+    "wikidata_enriched": false,
+    "img_name": "",
+    "img_fetched": false,
+    "img_source": "",
+    "birth_date_written": "",
+    "death_date_written": "",
+    "geschlecht": "",
+    "funktionsbezeichnungen": "",
+    "unidentifiziert": true,
+    "titel": []
   }
 }
