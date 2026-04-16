@@ -11853,7 +11853,7 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                   </figure>
                </person>
                <person xml:id="emt_person_id__1238">
-                  <persName type="name">Braunschweig-Lüneburg, Sophie von, geb. von der Pfalz</persName>
+                  <persName type="name">Braunschweig-Lüneburg (Hannover), Sophie von, geb. von der Pfalz</persName>
                   <persName type="title">
                      <roleName>Kurfürstin</roleName>
                   </persName>
@@ -14498,8 +14498,42 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                <person xml:id="emt_person_id__1702">
                   <persName type="name">Zinzerling, Franz Adolf von</persName>
                   <persName type="function">
-                     <roleName>Sekretär König Karls III. in Spanien</roleName>
+                     <roleName>Sekretär König Karls III. in Spanien, Diplomat</roleName>
                   </persName>
+               </person>
+               <person xml:id="emt_person_id__1703">
+                  <persName type="name">Savoyen, Haus</persName>
+               </person>
+               <person xml:id="emt_person_id__1704">
+                  <persName type="name">Imhoff, Rudolf Christian von</persName>
+                  <persName type="function">
+                     <roleName>Diplomat</roleName>
+                  </persName>
+                  <birth>
+                     <date notBefore="1660-01-01" notAfter="1660-12-31">1660</date>
+                  </birth>
+                  <death>
+                     <date notBefore="1717-01-01" notAfter="1717-12-31">1717</date>
+                  </death>
+                  <idno type="GND">https://d-nb.info/gnd/131463896</idno>
+                  <idno type="NDB">https://www.deutsche-biographie.de/sfz38900.html#</idno>
+                  <idno type="WIKIDATA">http://www.wikidata.org/entity/Q55136893</idno>
+               </person>
+               <person xml:id="emt_person_id__1705">
+                  <persName type="name">De Nomis, Benedict Andreas Caspar, della Banditella-Pelusi</persName>
+                  <persName type="title">
+                     <roleName>Marchese</roleName>
+                  </persName>
+                  <persName type="function">
+                     <roleName>Diener</roleName>
+                  </persName>
+                  <idno type="URL">https://leibniz-connection.adw-goe.de/src/webroot/persons/view/977</idno>
+               </person>
+               <person xml:id="emt_person_id__1706">
+                  <persName type="name">kaiserlicher (General)kriegskommissar 1707</persName>
+               </person>
+               <person xml:id="emt_person_id__1707">
+                  <persName type="name">Piper, N.N. (berichtet 1707 über den König von Schweden)</persName>
                </person>
             </listPerson>
          </div>
