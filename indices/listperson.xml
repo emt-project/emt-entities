@@ -8219,7 +8219,7 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                      <roleName>Conte</roleName>
                   </persName>
                   <persName type="function">
-                     <roleName>Gesandter Spanien in Wien 1677 - 1678</roleName>
+                     <roleName>Gesandter Spaniens in Wien 1677 - 1678</roleName>
                   </persName>
                </person>
                <person xml:id="emt_person_id__738">
@@ -14533,7 +14533,84 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                   <persName type="name">kaiserlicher (General)kriegskommissar 1707</persName>
                </person>
                <person xml:id="emt_person_id__1707">
-                  <persName type="name">Piper, N.N. (berichtet 1707 über den König von Schweden)</persName>
+                  <persName type="name">Piper, Carl</persName>
+                  <persName type="function">
+                     <roleName>Diplomat</roleName>
+                  </persName>
+                  <birth>
+                     <date notBefore="1647-01-01" notAfter="1647-12-31">1647</date>
+                  </birth>
+                  <death>
+                     <date notBefore="1716-01-01" notAfter="1716-12-31">1716</date>
+                  </death>
+                  <idno type="GND">https://d-nb.info/gnd/121061337</idno>
+                  <idno type="NDB">https://www.deutsche-biographie.de/121061337.html?language=en</idno>
+                  <idno type="WIKIDATA">http://www.wikidata.org/entity/Q557843</idno>
+                  <figure>
+                     <graphic url="emt_person_id__1707.jpg"/>
+                     <caption>Carl Piper.jpg</caption>
+                  </figure>
+               </person>
+               <person xml:id="emt_person_id__1708">
+                  <persName type="name">Schwester des Donnen (1707 empfohlen)</persName>
+               </person>
+               <person xml:id="emt_person_id__1709">
+                  <persName type="name">Zinzendorf, Franz Ludwig von</persName>
+                  <persName type="title">
+                     <roleName>Graf</roleName>
+                  </persName>
+                  <persName type="function">
+                     <roleName>kaiserlicher General, Diplomat</roleName>
+                  </persName>
+                  <birth>
+                     <date notBefore="1661-01-01" notAfter="1661-12-31">1661</date>
+                  </birth>
+                  <death>
+                     <date notBefore="1742-01-01" notAfter="1742-12-31">1742</date>
+                  </death>
+                  <idno type="GND">https://d-nb.info/gnd/138521077</idno>
+                  <idno type="NDB">https://www.deutsche-biographie.de/pnd138521077.html#indexcontent</idno>
+                  <idno type="WIKIDATA">http://www.wikidata.org/entity/Q88974</idno>
+               </person>
+               <person xml:id="emt_person_id__1710">
+                  <persName type="name">Strahlenheim, Henning von</persName>
+                  <persName type="function">
+                     <roleName>Diplomat</roleName>
+                  </persName>
+                  <birth>
+                     <date notBefore="1665-01-01" notAfter="1665-12-31">1665</date>
+                  </birth>
+                  <death>
+                     <date notBefore="1731-01-01" notAfter="1731-12-31">1731</date>
+                  </death>
+                  <idno type="GND">https://d-nb.info/gnd/12277390X</idno>
+                  <idno type="NDB">https://www.deutsche-biographie.de/gnd12277390X.html</idno>
+                  <idno type="WIKIDATA">http://www.wikidata.org/entity/Q701377</idno>
+                  <figure>
+                     <graphic url="emt_person_id__1710.jpg"/>
+                     <caption>StralenheimHB5081.JPG</caption>
+                  </figure>
+               </person>
+               <person xml:id="emt_person_id__1711">
+                  <persName type="name">Tessé, René de Froulay de</persName>
+                  <persName type="title">
+                     <roleName>Comte</roleName>
+                  </persName>
+                  <persName type="function">
+                     <roleName>französischer General, Diplomat</roleName>
+                  </persName>
+                  <birth>
+                     <date notBefore="1650-01-01" notAfter="1650-12-31">1650</date>
+                  </birth>
+                  <death>
+                     <date notBefore="1725-01-01" notAfter="1725-12-31">1725</date>
+                  </death>
+                  <idno type="GND">https://d-nb.info/gnd/1055261230</idno>
+                  <idno type="WIKIDATA">http://www.wikidata.org/entity/Q719590</idno>
+                  <figure>
+                     <graphic url="emt_person_id__1711.jpg"/>
+                     <caption>Le maréchal de Tessé.JPG</caption>
+                  </figure>
                </person>
             </listPerson>
          </div>
