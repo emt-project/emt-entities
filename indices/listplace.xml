@@ -2369,7 +2369,7 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                   <idno type="GEONAMES">https://sws.geonames.org/2881646/</idno>
                </place>
                <place xml:id="emt_place_id__642">
-                  <placeName>Limburg, Grafschaft</placeName>
+                  <placeName>Limburg, Herzogtum</placeName>
                   <idno type="GND">https://d-nb.info/gnd/4035753-3</idno>
                </place>
                <place xml:id="emt_place_id__643">
@@ -2438,7 +2438,7 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                   <placeName>Prag, Erzbistum</placeName>
                </place>
                <place xml:id="emt_place_id__656">
-                  <placeName>Worms, Erzstift</placeName>
+                  <placeName>Worms, Bistum</placeName>
                </place>
                <place xml:id="emt_place_id__657">
                   <placeName>Dresden</placeName>
@@ -2554,6 +2554,15 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                </place>
                <place xml:id="emt_place_id__741">
                   <placeName>Pfalz-Zweibrücken, Herzogtum</placeName>
+               </place>
+               <place xml:id="emt_place_id__742">
+                  <placeName>Großbritannien</placeName>
+               </place>
+               <place xml:id="emt_place_id__743">
+                  <placeName>Stablo, Kloster</placeName>
+               </place>
+               <place xml:id="emt_place_id__744">
+                  <placeName>Ellwangen, Abtei</placeName>
                </place>
             </listPlace>
          </div>
