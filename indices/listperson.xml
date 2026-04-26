@@ -14831,6 +14831,43 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                      <caption>Johann Franz Stauffenberg.jpg</caption>
                   </figure>
                </person>
+               <person xml:id="emt_person_id__1728">
+                  <persName type="name">Königsegg-Rothenfels, Josef Lothar von</persName>
+                  <persName type="title">
+                     <roleName>Graf</roleName>
+                  </persName>
+                  <persName type="function">
+                     <roleName>kaiserlicher Militär, Feldmarschallleutnant</roleName>
+                  </persName>
+                  <birth>
+                     <date notBefore="1673-01-01" notAfter="1673-12-31">1673</date>
+                  </birth>
+                  <death>
+                     <date notBefore="1751-01-01" notAfter="1751-12-31">1751</date>
+                  </death>
+                  <idno type="GND">https://d-nb.info/gnd/137058179</idno>
+                  <idno type="NDB">https://www.deutsche-biographie.de/sfz57373.html#indexcontent</idno>
+                  <idno type="WIKIDATA">http://www.wikidata.org/entity/Q685689</idno>
+                  <figure>
+                     <graphic url="emt_person_id__1728.jpg"/>
+                     <caption>Joseph Lothar von Königsegg-Rothenfels.png</caption>
+                  </figure>
+               </person>
+               <person xml:id="emt_person_id__1729">
+                  <persName type="name">Schaesberg, Johann Friedrich Wilhelm von</persName>
+                  <persName type="title">
+                     <roleName>Graf</roleName>
+                  </persName>
+                  <persName type="function">
+                     <roleName>pfälzischer Geheimer Rat, Statthalter in Jülich-Berg</roleName>
+                  </persName>
+                  <death>
+                     <date notBefore="1723-01-01" notAfter="1723-12-31">1723</date>
+                  </death>
+                  <idno type="GND">https://d-nb.info/gnd/136067271</idno>
+                  <idno type="NDB">https://www.deutsche-biographie.de/sfz22604.html</idno>
+                  <idno type="WIKIDATA">http://www.wikidata.org/entity/Q60843361</idno>
+               </person>
             </listPerson>
          </div>
       </body>

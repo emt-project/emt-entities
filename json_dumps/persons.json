@@ -35685,5 +35685,67 @@
     "funktionsbezeichnungen": "Bischof von Konstanz, Koadjutor des Bitstums Augsburg",
     "unidentifiziert": false,
     "titel": []
+  },
+  "1728": {
+    "id": 1728,
+    "order": "1309.00000000000000000000",
+    "name": "Königsegg-Rothenfels, Josef Lothar von",
+    "gnd": "https://d-nb.info/gnd/137058179",
+    "other_url": "",
+    "emt_id": "emt_person_id__1728",
+    "internal_comment": "Bittner/Groß 140",
+    "color": "",
+    "lebensdaten": "",
+    "ndb": "https://www.deutsche-biographie.de/sfz57373.html#indexcontent",
+    "year_of_birth": "1673",
+    "year_of_death": "1751",
+    "wikidata_url": "http://www.wikidata.org/entity/Q685689",
+    "wikidata_enriched": true,
+    "img_name": "Joseph Lothar von Königsegg-Rothenfels.png",
+    "img_fetched": true,
+    "img_source": "commonsMedia",
+    "birth_date_written": "",
+    "death_date_written": "",
+    "geschlecht": "",
+    "funktionsbezeichnungen": "kaiserlicher Militär, Feldmarschallleutnant",
+    "unidentifiziert": false,
+    "titel": [
+      {
+        "id": 19689,
+        "value": "Graf",
+        "color": "purple"
+      }
+    ]
+  },
+  "1729": {
+    "id": 1729,
+    "order": "1310.00000000000000000000",
+    "name": "Schaesberg, Johann Friedrich Wilhelm von",
+    "gnd": "https://d-nb.info/gnd/136067271",
+    "other_url": "",
+    "emt_id": "emt_person_id__1729",
+    "internal_comment": "",
+    "color": "",
+    "lebensdaten": "",
+    "ndb": "https://www.deutsche-biographie.de/sfz22604.html",
+    "year_of_birth": null,
+    "year_of_death": "1723",
+    "wikidata_url": "http://www.wikidata.org/entity/Q60843361",
+    "wikidata_enriched": true,
+    "img_name": "",
+    "img_fetched": true,
+    "img_source": "",
+    "birth_date_written": "1663 oder 1664",
+    "death_date_written": "",
+    "geschlecht": "",
+    "funktionsbezeichnungen": "pfälzischer Geheimer Rat, Statthalter in Jülich-Berg",
+    "unidentifiziert": false,
+    "titel": [
+      {
+        "id": 19689,
+        "value": "Graf",
+        "color": "purple"
+      }
+    ]
   }
 }
