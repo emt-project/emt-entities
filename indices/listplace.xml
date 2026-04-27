@@ -2564,6 +2564,26 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                <place xml:id="emt_place_id__744">
                   <placeName>Ellwangen, Abtei</placeName>
                </place>
+               <place xml:id="emt_place_id__745">
+                  <placeName>Bergstein (heute Ortsteil von Hürtgenwald)</placeName>
+                  <location type="coords">
+                     <geo>50.69365 6.431190</geo>
+                  </location>
+                  <idno type="GEONAMES">https://sws.geonames.org/2950264/</idno>
+               </place>
+               <place xml:id="emt_place_id__746">
+                  <placeName>In der Weiden</placeName>
+               </place>
+               <place xml:id="emt_place_id__747">
+                  <placeName>Provence</placeName>
+               </place>
+               <place xml:id="emt_place_id__748">
+                  <placeName>Toulon</placeName>
+                  <location type="coords">
+                     <geo>43.12442 5.928360</geo>
+                  </location>
+                  <idno type="GEONAMES">https://sws.geonames.org/2972328/</idno>
+               </place>
             </listPlace>
          </div>
       </body>

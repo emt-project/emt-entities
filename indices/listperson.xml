@@ -14868,6 +14868,52 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                   <idno type="NDB">https://www.deutsche-biographie.de/sfz22604.html</idno>
                   <idno type="WIKIDATA">http://www.wikidata.org/entity/Q60843361</idno>
                </person>
+               <person xml:id="emt_person_id__1730">
+                  <persName type="name">Kriechbaum, Georg Friedrich von</persName>
+                  <persName type="function">
+                     <roleName>kaiserlicher Feldmarschall</roleName>
+                  </persName>
+                  <birth>
+                     <date notBefore="1665-01-01" notAfter="1665-12-31">1665</date>
+                  </birth>
+                  <death>
+                     <date notBefore="1710-01-01" notAfter="1710-12-31">1710</date>
+                  </death>
+                  <idno type="GND">https://d-nb.info/gnd/136534171</idno>
+                  <idno type="NDB">https://www.deutsche-biographie.de/pnd136534171.html#indexcontent</idno>
+                  <idno type="WIKIDATA">http://www.wikidata.org/entity/Q22482475</idno>
+               </person>
+               <person xml:id="emt_person_id__1731">
+                  <persName type="name">Turinetti, Ercole Giuseppe di Prié</persName>
+                  <persName type="title">
+                     <roleName>Marchese</roleName>
+                  </persName>
+                  <persName type="function">
+                     <roleName>Diplomat</roleName>
+                  </persName>
+                  <birth>
+                     <date notBefore="1658-01-01" notAfter="1658-12-31">1658</date>
+                  </birth>
+                  <death>
+                     <date notBefore="1726-01-01" notAfter="1726-12-31">1726</date>
+                  </death>
+                  <idno type="GND">https://d-nb.info/gnd/1024116751</idno>
+                  <idno type="NDB">https://www.deutsche-biographie.de/pnd1024116751.html</idno>
+                  <idno type="WIKIDATA">http://www.wikidata.org/entity/Q677757</idno>
+                  <figure>
+                     <graphic url="emt_person_id__1731.jpg"/>
+                     <caption>Ercole Turinetti Marchese di Prie.png</caption>
+                  </figure>
+               </person>
+               <person xml:id="emt_person_id__1732">
+                  <persName type="name">Degen, NN (Sekretär, bringt 1707 eine Nachricht aus Spanien)</persName>
+               </person>
+               <person xml:id="emt_person_id__1733">
+                  <persName type="name">Rummel, Familie</persName>
+               </person>
+               <person xml:id="emt_person_id__1734">
+                  <persName type="name">Witt, Familie</persName>
+               </person>
             </listPerson>
          </div>
       </body>
