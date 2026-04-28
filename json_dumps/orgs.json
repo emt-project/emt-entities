@@ -390,5 +390,12 @@
     "name": "Domkapitel zu Münster",
     "gnd": "",
     "emt_id": "emt_institution_id__183"
+  },
+  "185": {
+    "id": 185,
+    "order": "57.00000000000000000000",
+    "name": "Böhmische Hofkanzlei",
+    "gnd": "",
+    "emt_id": "emt_institution_id__185"
   }
 }

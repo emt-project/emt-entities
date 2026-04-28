@@ -6283,6 +6283,7 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                   <death>
                      <date notBefore="1711-01-01" notAfter="1711-12-31">1711</date>
                   </death>
+                  <idno type="WIKIDATA">http://www.wikidata.org/entity/Q110366527</idno>
                </person>
                <person xml:id="emt_person_id__536">
                   <persName type="name">Windischgrätz, Fräulein von (1691)</persName>
@@ -6404,9 +6405,6 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                </person>
                <person xml:id="emt_person_id__560">
                   <persName type="name">Nikerl, 1683</persName>
-               </person>
-               <person xml:id="emt_person_id__561">
-                  <persName type="name">Jojerle 1682</persName>
                </person>
                <person xml:id="emt_person_id__562">
                   <persName type="name">Fastenprediger bei Kaiserinwitwe Eleonora 1682</persName>
@@ -7517,10 +7515,22 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                   <persName type="name">Hofmeisterin der Kurfürstin Elisabeth Amalia 1694</persName>
                </person>
                <person xml:id="emt_person_id__671">
-                  <persName type="name">Welsperg, NN von</persName>
-                  <persName type="function">
-                     <roleName>Oberst, Generaladjutant</roleName>
+                  <persName type="name">Welsperg, Guidobald von</persName>
+                  <persName type="title">
+                     <roleName>Graf</roleName>
                   </persName>
+                  <persName type="function">
+                     <roleName>Kämmerer, kaiserlicher geheimer Rat</roleName>
+                  </persName>
+                  <birth>
+                     <date notBefore="1655-01-01" notAfter="1655-12-31">1655</date>
+                  </birth>
+                  <death>
+                     <date notBefore="1731-01-01" notAfter="1731-12-31">1731</date>
+                  </death>
+                  <idno type="GND">https://d-nb.info/gnd/121892492</idno>
+                  <idno type="WIKIDATA">http://www.wikidata.org/entity/Q115479812</idno>
+                  <idno type="URL">https://viecpro.acdh.oeaw.ac.at/persons/184640</idno>
                </person>
                <person xml:id="emt_person_id__672">
                   <persName type="name">Beichtvater von Kaiserin Eleonora Gonzaga-Nevers 1686</persName>
@@ -7553,6 +7563,9 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                   <persName type="name">Philipp V. von Spanien</persName>
                   <persName type="title">
                      <roleName>Herzog</roleName>
+                  </persName>
+                  <persName type="title">
+                     <roleName>König</roleName>
                   </persName>
                   <persName type="function">
                      <roleName>Herzog von Anjou; König von Spanien</roleName>
@@ -10286,16 +10299,27 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                   <idno type="URL">https://kaiserhof.geschichte.lmu.de/16037</idno>
                </person>
                <person xml:id="emt_person_id__976">
-                  <persName type="name">Thürheim, "Jojerl" (1695 Stiefsohn, 1696 Bruderschaft)</persName>
+                  <persName type="name">Thürheim, Johanna Eleonore ("Jojerl"), geb. Swihow von Svichovsky und Risenberg, Skala und Raby</persName>
                   <persName type="title">
                      <roleName>Gräfin</roleName>
                   </persName>
+                  <death>
+                     <date notBefore="1718-01-01" notAfter="1718-12-31">1718</date>
+                  </death>
                </person>
                <person xml:id="emt_person_id__977">
-                  <persName type="name">Stiefsohn der "Jojerl" Thürheim, reist 1695 zu Pfalzgraf Karl von Pfalz-Neuburg)</persName>
+                  <persName type="name">Thürheim, Franz Sebastian von</persName>
                   <persName type="function">
-                     <roleName>Obristleutnant</roleName>
+                     <roleName>Offizier</roleName>
                   </persName>
+                  <birth>
+                     <date notBefore="1665-01-01" notAfter="1665-12-31">1665</date>
+                  </birth>
+                  <death>
+                     <date notBefore="1726-01-01" notAfter="1726-12-31">1726</date>
+                  </death>
+                  <idno type="GND">https://d-nb.info/gnd/1229695796</idno>
+                  <idno type="WIKIDATA">http://www.wikidata.org/entity/Q94530830</idno>
                </person>
                <person xml:id="emt_person_id__978">
                   <persName type="name">Bomgart (1695 erschossen)</persName>
@@ -11360,7 +11384,7 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                      <roleName>Doktor</roleName>
                   </persName>
                   <persName type="function">
-                     <roleName>Arzt</roleName>
+                     <roleName>kaiserlicher Leibarzt</roleName>
                   </persName>
                   <birth>
                      <date notBefore="1649-01-01" notAfter="1649-12-31">1649</date>
@@ -14010,7 +14034,7 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                   </figure>
                </person>
                <person xml:id="emt_person_id__1629">
-                  <persName type="name">N.N. (1705)</persName>
+                  <persName type="name">NN (1705)</persName>
                   <persName type="function">
                      <roleName>General des Theatinerordens</roleName>
                   </persName>
@@ -14072,10 +14096,10 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                   <persName type="name">Hohenfeld (1706, Sohn des Grafen Otto Ferdinand von Hohenfeld)</persName>
                </person>
                <person xml:id="emt_person_id__1635">
-                  <persName type="name">Beseri, N.N. (wird 1706 empfohlen)</persName>
+                  <persName type="name">Beseri, NN (wird 1706 empfohlen)</persName>
                </person>
                <person xml:id="emt_person_id__1636">
-                  <persName type="name">N.N., Arzt des Herzogs Anton Ulrich von Wolfenbüttel (1706)</persName>
+                  <persName type="name">NN, Arzt des Herzogs Anton Ulrich von Wolfenbüttel (1706)</persName>
                </person>
                <person xml:id="emt_person_id__1637">
                   <persName type="name">Strattmann, Maria Margarethe Magdalena von, geb. Traun-Abensperg, verwitwete Buquoy</persName>
@@ -14209,7 +14233,7 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                   <idno type="URL">https://viecpro.acdh.oeaw.ac.at/persons/205340</idno>
                </person>
                <person xml:id="emt_person_id__1680">
-                  <persName type="name">Piling, N.N. (schreibt 1706 aus Lissabon)</persName>
+                  <persName type="name">Piling, NN (schreibt 1706 aus Lissabon)</persName>
                </person>
                <person xml:id="emt_person_id__1681">
                   <persName type="name">Zeno (1706 im Umfeld von Herzog Karl Joseph von Lothringen)</persName>
@@ -14913,6 +14937,150 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                </person>
                <person xml:id="emt_person_id__1734">
                   <persName type="name">Witt, Familie</persName>
+               </person>
+               <person xml:id="emt_person_id__1735">
+                  <persName type="name">Welsperg, NN (pfälzischer Offizier, 1707 empfohlen)</persName>
+               </person>
+               <person xml:id="emt_person_id__1736">
+                  <persName type="name">Ludwig I. von Spanien</persName>
+                  <persName type="title">
+                     <roleName>König</roleName>
+                  </persName>
+                  <persName type="function">
+                     <roleName>König von Spanien</roleName>
+                  </persName>
+                  <birth>
+                     <date notBefore="1707-01-01" notAfter="1707-12-31">1707</date>
+                  </birth>
+                  <death>
+                     <date notBefore="1724-01-01" notAfter="1724-12-31">1724</date>
+                  </death>
+                  <idno type="GND">https://d-nb.info/gnd/121222233</idno>
+                  <idno type="WIKIDATA">http://www.wikidata.org/entity/Q212457</idno>
+                  <figure>
+                     <graphic url="emt_person_id__1736.jpg"/>
+                     <caption>Luis I, príncipe de Asturias2.jpg</caption>
+                  </figure>
+               </person>
+               <person xml:id="emt_person_id__1737">
+                  <persName type="name">Trautson, Leopold Donat von</persName>
+                  <persName type="title">
+                     <roleName>Graf</roleName>
+                  </persName>
+                  <persName type="title">
+                     <roleName>Fürst</roleName>
+                  </persName>
+                  <persName type="function">
+                     <roleName>Obersthofmeister</roleName>
+                  </persName>
+                  <birth>
+                     <date notBefore="1659-01-01" notAfter="1659-12-31">1659</date>
+                  </birth>
+                  <death>
+                     <date notBefore="1724-01-01" notAfter="1724-12-31">1724</date>
+                  </death>
+                  <idno type="GND">https://d-nb.info/gnd/138386161</idno>
+                  <idno type="NDB">https://www.deutsche-biographie.de/sfzT2847-5.html#indexcontent</idno>
+                  <idno type="WIKIDATA">http://www.wikidata.org/entity/Q19690728</idno>
+                  <figure>
+                     <graphic url="emt_person_id__1737.jpg"/>
+                     <caption>Johann Leopold Donat Trautson.jpg</caption>
+                  </figure>
+               </person>
+               <person xml:id="emt_person_id__1738">
+                  <persName type="name">Garelli, Pio Nicolo</persName>
+                  <persName type="title">
+                     <roleName>Doktor</roleName>
+                  </persName>
+                  <persName type="function">
+                     <roleName>kaiserlicher Leibarzt, Hofbibliothekar</roleName>
+                  </persName>
+                  <birth>
+                     <date notBefore="1675-01-01" notAfter="1675-12-31">1675</date>
+                  </birth>
+                  <death>
+                     <date notBefore="1739-01-01" notAfter="1739-12-31">1739</date>
+                  </death>
+                  <idno type="GND">https://d-nb.info/gnd/116439475</idno>
+                  <idno type="NDB">https://www.deutsche-biographie.de/sfz051_00516_1.html#indexcontent</idno>
+                  <idno type="WIKIDATA">http://www.wikidata.org/entity/Q29444993</idno>
+               </person>
+               <person xml:id="emt_person_id__1739">
+                  <persName type="name">Antinori, NN (florentinischer Gesandter in Wien ab 1707)</persName>
+               </person>
+               <person xml:id="emt_person_id__1740">
+                  <persName type="name">Thürheim, Franz Leopold von</persName>
+                  <persName type="title">
+                     <roleName>Graf</roleName>
+                  </persName>
+                  <persName type="function">
+                     <roleName>kaiserlicher Kämmerer, Mundschenk und geheimer Rat</roleName>
+                  </persName>
+                  <birth>
+                     <date notBefore="1624-01-01" notAfter="1624-12-31">1624</date>
+                  </birth>
+                  <death>
+                     <date notBefore="1700-01-01" notAfter="1700-12-31">1700</date>
+                  </death>
+                  <idno type="GND">https://d-nb.info/gnd/119504092X</idno>
+                  <idno type="WIKIDATA">http://www.wikidata.org/entity/Q95124486</idno>
+                  <idno type="URL">https://de.wikisource.org/wiki/BLK%C3%96:Th%C3%BCrheim,_Franz_Leopold</idno>
+               </person>
+               <person xml:id="emt_person_id__1741">
+                  <persName type="name">Starhemberg, Guido von</persName>
+                  <persName type="title">
+                     <roleName>Graf</roleName>
+                  </persName>
+                  <persName type="function">
+                     <roleName>kaiserlicher General</roleName>
+                  </persName>
+                  <birth>
+                     <date notBefore="1657-01-01" notAfter="1657-12-31">1657</date>
+                  </birth>
+                  <death>
+                     <date notBefore="1737-01-01" notAfter="1737-12-31">1737</date>
+                  </death>
+                  <idno type="GND">https://d-nb.info/gnd/118798480</idno>
+                  <idno type="NDB">https://www.deutsche-biographie.de/pnd118798480.html#indexcontent</idno>
+                  <idno type="WIKIDATA">http://www.wikidata.org/entity/Q695284</idno>
+                  <figure>
+                     <graphic url="emt_person_id__1741.jpg"/>
+                     <caption>Guido von Starhemberg.jpg</caption>
+                  </figure>
+               </person>
+               <person xml:id="emt_person_id__1742">
+                  <persName type="name">Heimenberg (Diener, 1708 empfohlen)</persName>
+               </person>
+               <person xml:id="emt_person_id__1743">
+                  <persName type="name">Letitzki (1708 empfohlen)</persName>
+               </person>
+               <person xml:id="emt_person_id__1744">
+                  <persName type="name">Steingens, Daniel (1708)</persName>
+                  <persName type="function">
+                     <roleName>Diplomat</roleName>
+                  </persName>
+                  <idno type="GND">https://d-nb.info/gnd/137737092</idno>
+               </person>
+               <person xml:id="emt_person_id__1745">
+                  <persName type="name">Anne von England und Schottland, ab 1707 Großbritannien</persName>
+                  <persName type="title">
+                     <roleName>Königin</roleName>
+                  </persName>
+                  <persName type="function">
+                     <roleName>Königin</roleName>
+                  </persName>
+                  <birth>
+                     <date notBefore="1665-01-01" notAfter="1665-12-31">1665</date>
+                  </birth>
+                  <death>
+                     <date notBefore="1714-01-01" notAfter="1714-12-31">1714</date>
+                  </death>
+                  <idno type="GND">https://d-nb.info/gnd/118649450</idno>
+                  <idno type="WIKIDATA">http://www.wikidata.org/entity/Q119702</idno>
+                  <figure>
+                     <graphic url="emt_person_id__1745.jpg"/>
+                     <caption>Dahl, Michael - Queen Anne - NPG 6187.jpg</caption>
+                  </figure>
                </person>
             </listPerson>
          </div>

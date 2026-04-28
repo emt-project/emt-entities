@@ -6268,5 +6268,35 @@
     "alternative_name": "",
     "wikidata_url": "",
     "unidentifiziert": false
+  },
+  "749": {
+    "id": 749,
+    "order": "425.00000000000000000000",
+    "name": "Lleida / Lérida",
+    "geonames": "https://www.geonames.org/3118514/lleida.html",
+    "emt_id": "emt_place_id__749",
+    "place_type": null,
+    "lat": null,
+    "long": null,
+    "comments intern": "",
+    "gnd": "",
+    "alternative_name": "",
+    "wikidata_url": "",
+    "unidentifiziert": false
+  },
+  "750": {
+    "id": 750,
+    "order": "426.00000000000000000000",
+    "name": "Rotterdam",
+    "geonames": "https://www.geonames.org/2747891/rotterdam.html",
+    "emt_id": "emt_place_id__750",
+    "place_type": null,
+    "lat": null,
+    "long": null,
+    "comments intern": "",
+    "gnd": "",
+    "alternative_name": "",
+    "wikidata_url": "",
+    "unidentifiziert": false
   }
 }
