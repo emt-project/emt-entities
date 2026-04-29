@@ -120,7 +120,7 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                   <idno type="URL">https://viecpro.oeaw.ac.at/persons/165702</idno>
                </person>
                <person xml:id="emt_person_id__6">
-                  <persName type="name">Juwelier Olivier (1705, wegen Prinzessin Wilhelmine Karoline von Brandenburg-Ansbach)</persName>
+                  <persName type="name">Juwelier Olivier (1705, hat Information zu Prinzessin Wilhelmine Karoline von Brandenburg-Ansbach)</persName>
                </person>
                <person xml:id="emt_person_id__7">
                   <persName type="name">Kaunitz, Dominik Andreas von</persName>
@@ -13171,7 +13171,7 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                      <roleName>Graf</roleName>
                   </persName>
                   <persName type="function">
-                     <roleName>Obristkämmerer</roleName>
+                     <roleName>Obristkämmerer Johann Wilhelms von Pfalz-Neuburg</roleName>
                   </persName>
                   <death>
                      <date notBefore="1730-01-01" notAfter="1730-12-31">1730</date>
@@ -14839,7 +14839,7 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                <person xml:id="emt_person_id__1727">
                   <persName type="name">Schenk von Stauffenberg, Johann Franz</persName>
                   <persName type="function">
-                     <roleName>Bischof von Konstanz, Koadjutor des Bitstums Augsburg</roleName>
+                     <roleName>Bischof von Konstanz, Koadjutor des Bistums Augsburg</roleName>
                   </persName>
                   <birth>
                      <date notBefore="1658-01-01" notAfter="1658-12-31">1658</date>
@@ -15081,6 +15081,40 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                      <graphic url="emt_person_id__1745.jpg"/>
                      <caption>Dahl, Michael - Queen Anne - NPG 6187.jpg</caption>
                   </figure>
+               </person>
+               <person xml:id="emt_person_id__1746">
+                  <persName type="name">Silva, Manuel Teles de, Marquês de Alegrete</persName>
+                  <persName type="title">
+                     <roleName>Marques</roleName>
+                  </persName>
+                  <persName type="function">
+                     <roleName>portugiesischer Botschafter in Wien</roleName>
+                  </persName>
+                  <birth>
+                     <date notBefore="1641-01-01" notAfter="1641-12-31">1641</date>
+                  </birth>
+                  <death>
+                     <date notBefore="1709-01-01" notAfter="1709-12-31">1709</date>
+                  </death>
+                  <idno type="GND">https://d-nb.info/gnd/10185708X</idno>
+                  <idno type="WIKIDATA">http://www.wikidata.org/entity/Q10324514</idno>
+                  <figure>
+                     <graphic url="emt_person_id__1746.jpg"/>
+                     <caption>Arms Teles Silva.jpg</caption>
+                  </figure>
+               </person>
+               <person xml:id="emt_person_id__1747">
+                  <persName type="name">Vezzi, Fabrizio (1708)</persName>
+                  <persName type="function">
+                     <roleName>Läufer am Kaiserhof (1704)</roleName>
+                  </persName>
+                  <idno type="URL">https://viecpro.acdh.oeaw.ac.at/persons/183755</idno>
+               </person>
+               <person xml:id="emt_person_id__1748">
+                  <persName type="name">Ehefrau des Fabrizio Vezzi (1708)</persName>
+               </person>
+               <person xml:id="emt_person_id__1749">
+                  <persName type="name">unehelich bei Fabrizio Vezzi lebende Frau (1708)</persName>
                </person>
             </listPerson>
          </div>

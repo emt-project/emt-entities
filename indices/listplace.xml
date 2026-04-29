@@ -2186,6 +2186,10 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                </place>
                <place xml:id="emt_place_id__412">
                   <placeName>Brüssel</placeName>
+                  <location type="coords">
+                     <geo>50.85045 4.348780</geo>
+                  </location>
+                  <idno type="GEONAMES">https://sws.geonames.org/2800866/</idno>
                </place>
                <place xml:id="emt_place_id__413">
                   <placeName>Delft</placeName>
@@ -2269,7 +2273,7 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                   <idno type="GND">https://d-nb.info/gnd/1094096-0</idno>
                </place>
                <place xml:id="emt_place_id__492">
-                  <placeName>Anwerpen</placeName>
+                  <placeName>Antwerpen</placeName>
                   <location type="coords">
                      <geo>51.22047 4.400260</geo>
                   </location>
@@ -2560,9 +2564,17 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                </place>
                <place xml:id="emt_place_id__743">
                   <placeName>Stablo, Kloster</placeName>
+                  <location type="coords">
+                     <geo>50.39500 5.931240</geo>
+                  </location>
+                  <idno type="GEONAMES">https://sws.geonames.org/2786185/</idno>
                </place>
                <place xml:id="emt_place_id__744">
                   <placeName>Ellwangen, Abtei</placeName>
+                  <location type="coords">
+                     <geo>48.96164 10.131730</geo>
+                  </location>
+                  <idno type="GEONAMES">https://sws.geonames.org/2930889/</idno>
                </place>
                <place xml:id="emt_place_id__745">
                   <placeName>Bergstein (heute Ortsteil von Hürtgenwald)</placeName>
@@ -2576,6 +2588,10 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                </place>
                <place xml:id="emt_place_id__747">
                   <placeName>Provence</placeName>
+                  <location type="coords">
+                     <geo>44.00000 6.000000</geo>
+                  </location>
+                  <idno type="GEONAMES">https://sws.geonames.org/2985246/</idno>
                </place>
                <place xml:id="emt_place_id__748">
                   <placeName>Toulon</placeName>
@@ -2586,11 +2602,33 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                </place>
                <place xml:id="emt_place_id__749">
                   <placeName>Lleida / Lérida</placeName>
+                  <location type="coords">
+                     <geo>41.61674 0.622180</geo>
+                  </location>
                   <idno type="GEONAMES">https://sws.geonames.org/3118514/</idno>
                </place>
                <place xml:id="emt_place_id__750">
                   <placeName>Rotterdam</placeName>
+                  <location type="coords">
+                     <geo>51.92250 4.479170</geo>
+                  </location>
                   <idno type="GEONAMES">https://sws.geonames.org/2747891/</idno>
+               </place>
+               <place xml:id="emt_place_id__751">
+                  <placeName>Leuchtenberg, Landgrafschaft</placeName>
+                  <idno type="GND">https://d-nb.info/gnd/4269593-4</idno>
+               </place>
+               <place xml:id="emt_place_id__752">
+                  <placeName>Leuchtenberg, Amt (Landgrafschaft Leuchtenberg)</placeName>
+               </place>
+               <place xml:id="emt_place_id__753">
+                  <placeName>Pfreimd, Amt (Landgrafschaft Leuchtenberg)</placeName>
+               </place>
+               <place xml:id="emt_place_id__754">
+                  <placeName>Wernberg, Amt (Landgrafschaft Leuchtenberg)</placeName>
+               </place>
+               <place xml:id="emt_place_id__755">
+                  <placeName>Mißbrunn, Amt (Landgrafschaft Leuchtenberg)</placeName>
                </place>
             </listPlace>
          </div>
