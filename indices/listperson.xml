@@ -2835,7 +2835,7 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                   <idno type="URL">https://persondata.toolforge.org/p/Elisabeth_Luisa_von_Portugal</idno>
                </person>
                <person xml:id="emt_person_id__206">
-                  <persName type="name">Savoyen, Vittorio Amadeo II. von</persName>
+                  <persName type="name">Savoyen, Vittorio Amedeo II. von</persName>
                   <persName type="title">
                      <roleName>Herzog</roleName>
                   </persName>
@@ -8627,7 +8627,7 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                <person xml:id="emt_person_id__775">
                   <persName type="name">Medici, Ferdinando de'</persName>
                   <persName type="title">
-                     <roleName>Großherzog</roleName>
+                     <roleName>Prinz</roleName>
                   </persName>
                   <birth>
                      <date notBefore="1663-01-01" notAfter="1663-12-31">1663</date>
@@ -9313,7 +9313,7 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                   </death>
                </person>
                <person xml:id="emt_person_id__826">
-                  <persName type="name">Pfalz-Neuburg, Maria Anna Karoline von</persName>
+                  <persName type="name">Pfalz-Neuburg, Maria Anna Karoline von, vereh. Bayern</persName>
                   <persName type="title">
                      <roleName>Prinzessin</roleName>
                   </persName>
@@ -11368,6 +11368,9 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                   <persName type="title">
                      <roleName>Herzog</roleName>
                   </persName>
+                  <persName type="function">
+                     <roleName>Abt von Stablo und Malmédy</roleName>
+                  </persName>
                   <birth>
                      <date notBefore="1689-01-01" notAfter="1689-12-31">1689</date>
                   </birth>
@@ -12060,7 +12063,7 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                   <idno type="WIKIDATA">http://www.wikidata.org/entity/Q133593017</idno>
                </person>
                <person xml:id="emt_person_id__1257">
-                  <persName type="name">Löwenstein, Maximilian Karl von</persName>
+                  <persName type="name">Löwenstein-Wertheim-Rochefort, Maximilian Karl zu</persName>
                   <persName type="title">
                      <roleName>Graf</roleName>
                   </persName>
@@ -15115,6 +15118,200 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                </person>
                <person xml:id="emt_person_id__1749">
                   <persName type="name">unehelich bei Fabrizio Vezzi lebende Frau (1708)</persName>
+               </person>
+               <person xml:id="emt_person_id__1750">
+                  <persName type="name">Redig / Reding / Rätting, NN (in Neuburg, soll 1708 einen Titel erhalten)</persName>
+               </person>
+               <person xml:id="emt_person_id__1751">
+                  <persName type="name">Redig / Reding / Rätting, NN (Tochter, soll 1708 nach Portugal)</persName>
+               </person>
+               <person xml:id="emt_person_id__1752">
+                  <persName type="name">Ágreda, María de Jesus de (María Coronel y Arana) OConc</persName>
+                  <persName type="function">
+                     <roleName>Äbtissin des Klosters in Ágreda</roleName>
+                  </persName>
+                  <birth>
+                     <date notBefore="1602-01-01" notAfter="1602-12-31">1602</date>
+                  </birth>
+                  <death>
+                     <date notBefore="1665-01-01" notAfter="1665-12-31">1665</date>
+                  </death>
+                  <idno type="GND">https://d-nb.info/gnd/119019515</idno>
+                  <idno type="WIKIDATA">http://www.wikidata.org/entity/Q275907</idno>
+                  <figure>
+                     <graphic url="emt_person_id__1752.jpg"/>
+                     <caption>María de Jesús de Ágreda (cropped).png</caption>
+                  </figure>
+               </person>
+               <person xml:id="emt_person_id__1753">
+                  <persName type="name">Fuchs von Bimbach, Christoph Ernst</persName>
+                  <persName type="title">
+                     <roleName>Graf</roleName>
+                  </persName>
+                  <persName type="function">
+                     <roleName>Reichshofrat, Diplomat</roleName>
+                  </persName>
+                  <birth>
+                     <date notBefore="1664-01-01" notAfter="1664-12-31">1664</date>
+                  </birth>
+                  <death>
+                     <date notBefore="1719-01-01" notAfter="1719-12-31">1719</date>
+                  </death>
+                  <idno type="GND">https://d-nb.info/gnd/128409762</idno>
+                  <idno type="NDB">https://www.deutsche-biographie.de/sfz35660.html#indexcontent</idno>
+                  <idno type="WIKIDATA">http://www.wikidata.org/entity/Q94849513</idno>
+               </person>
+               <person xml:id="emt_person_id__1754">
+                  <persName type="name">Thurn und Taxis, Violante Maria Theresia von, vereh. Pfalz-Neuburg</persName>
+                  <persName type="title">
+                     <roleName>Gräfin</roleName>
+                  </persName>
+                  <persName type="function">
+                     <roleName>3. Gemahlin Karl Philipps von Pfalz-Neuburg</roleName>
+                  </persName>
+                  <birth>
+                     <date notBefore="1683-01-01" notAfter="1683-12-31">1683</date>
+                  </birth>
+                  <death>
+                     <date notBefore="1734-01-01" notAfter="1734-12-31">1734</date>
+                  </death>
+                  <idno type="GND">https://d-nb.info/gnd/14140440X</idno>
+                  <idno type="NDB">https://www.deutsche-biographie.de/sfz107203.html#indexcontent</idno>
+                  <idno type="WIKIDATA">http://www.wikidata.org/entity/Q55847116</idno>
+               </person>
+               <person xml:id="emt_person_id__1755">
+                  <persName type="name">Beichtvater Pfalzgraf Karl Philipps 1715</persName>
+               </person>
+               <person xml:id="emt_person_id__1756">
+                  <persName type="name">Sachsen, Friedrich August II. von</persName>
+                  <persName type="title">
+                     <roleName>Kurfürst</roleName>
+                  </persName>
+                  <persName type="title">
+                     <roleName>König</roleName>
+                  </persName>
+                  <persName type="function">
+                     <roleName>Kurfürst von Sachsen, König von Polen</roleName>
+                  </persName>
+                  <birth>
+                     <date notBefore="1696-01-01" notAfter="1696-12-31">1696</date>
+                  </birth>
+                  <death>
+                     <date notBefore="1763-01-01" notAfter="1763-12-31">1763</date>
+                  </death>
+                  <idno type="GND">https://d-nb.info/gnd/118505092</idno>
+                  <idno type="NDB">https://www.deutsche-biographie.de/sfz56988.html#indexcontent</idno>
+                  <idno type="WIKIDATA">http://www.wikidata.org/entity/Q53438</idno>
+                  <figure>
+                     <graphic url="emt_person_id__1756.jpg"/>
+                     <caption>King Augustus III of Poland.jpg</caption>
+                  </figure>
+               </person>
+               <person xml:id="emt_person_id__1757">
+                  <persName type="name">Kommissare 1714, betrifft wohl die Oberpfalz bzw. Limburg</persName>
+               </person>
+               <person xml:id="emt_person_id__1758">
+                  <persName type="name">Acquaviva d’Aragona, Francesco</persName>
+                  <persName type="title">
+                     <roleName>Kardinal</roleName>
+                  </persName>
+                  <persName type="function">
+                     <roleName>Erzbischof von Larissa</roleName>
+                  </persName>
+                  <birth>
+                     <date notBefore="1665-01-01" notAfter="1665-12-31">1665</date>
+                  </birth>
+                  <death>
+                     <date notBefore="1725-01-01" notAfter="1725-12-31">1725</date>
+                  </death>
+                  <idno type="GND">https://d-nb.info/gnd/143636332</idno>
+                  <idno type="WIKIDATA">http://www.wikidata.org/entity/Q1337721</idno>
+                  <figure>
+                     <graphic url="emt_person_id__1758.jpg"/>
+                     <caption>Francesco Acquaviva (cropped).jpg</caption>
+                  </figure>
+               </person>
+               <person xml:id="emt_person_id__1759">
+                  <persName type="name">Löwenstein-Wertheim-Rochefort, Dominik Marquard von</persName>
+                  <persName type="title">
+                     <roleName>Graf</roleName>
+                  </persName>
+                  <birth>
+                     <date notBefore="1690-01-01" notAfter="1690-12-31">1690</date>
+                  </birth>
+                  <death>
+                     <date notBefore="1735-01-01" notAfter="1735-12-31">1735</date>
+                  </death>
+                  <idno type="GND">https://d-nb.info/gnd/117186740</idno>
+                  <idno type="NDB">https://www.deutsche-biographie.de/sfz53963.html#indexcontent</idno>
+                  <idno type="WIKIDATA">http://www.wikidata.org/entity/Q1237842</idno>
+               </person>
+               <person xml:id="emt_person_id__1760">
+                  <persName type="name">Liechtenstein, Herr von</persName>
+               </person>
+               <person xml:id="emt_person_id__1761">
+                  <persName type="name">Savoyen, Vittorio Amedeo von</persName>
+                  <persName type="title">
+                     <roleName>Prinz</roleName>
+                  </persName>
+                  <persName type="function">
+                     <roleName>Fürst von Piemont</roleName>
+                  </persName>
+                  <birth>
+                     <date notBefore="1699-01-01" notAfter="1699-12-31">1699</date>
+                  </birth>
+                  <death>
+                     <date notBefore="1715-01-01" notAfter="1715-12-31">1715</date>
+                  </death>
+                  <idno type="URL">https://de.wikipedia.org/wiki/Viktor_Amadeus_II.#Ehe_und_Nachkommen</idno>
+               </person>
+               <person xml:id="emt_person_id__1762">
+                  <persName type="name">Leibniz, Gottfried Wilhelm</persName>
+                  <birth>
+                     <date notBefore="1646-01-01" notAfter="1646-12-31">1646</date>
+                  </birth>
+                  <death>
+                     <date notBefore="1716-01-01" notAfter="1716-12-31">1716</date>
+                  </death>
+                  <idno type="GND">https://d-nb.info/gnd/118571249</idno>
+                  <idno type="WIKIDATA">http://www.wikidata.org/entity/Q9047</idno>
+                  <figure>
+                     <graphic url="emt_person_id__1762.jpg"/>
+                     <caption>Christoph Bernhard Francke - Bildnis des Philosophen Leibniz (ca. 1695).jpg</caption>
+                  </figure>
+               </person>
+               <person xml:id="emt_person_id__1763">
+                  <persName type="name">Sachsen-Weißenfels, Anna Christine von</persName>
+                  <persName type="title">
+                     <roleName>Prinzessin</roleName>
+                  </persName>
+                  <birth>
+                     <date notBefore="1690-01-01" notAfter="1690-12-31">1690</date>
+                  </birth>
+                  <death>
+                     <date notBefore="1763-01-01" notAfter="1763-12-31">1763</date>
+                  </death>
+                  <idno type="GND">https://d-nb.info/gnd/142751944</idno>
+                  <idno type="NDB">https://www.deutsche-biographie.de/pnd142751944.html#indexcontent</idno>
+                  <idno type="WIKIDATA">http://www.wikidata.org/entity/Q24661997</idno>
+               </person>
+               <person xml:id="emt_person_id__1764">
+                  <persName type="name">Dangeau, Philipp de Courcillon de</persName>
+                  <persName type="title">
+                     <roleName>Marquis</roleName>
+                  </persName>
+                  <birth>
+                     <date notBefore="1638-01-01" notAfter="1638-12-31">1638</date>
+                  </birth>
+                  <death>
+                     <date notBefore="1720-01-01" notAfter="1720-12-31">1720</date>
+                  </death>
+                  <idno type="GND">https://d-nb.info/gnd/120165600</idno>
+                  <idno type="WIKIDATA">http://www.wikidata.org/entity/Q1881019</idno>
+                  <figure>
+                     <graphic url="emt_person_id__1764.jpg"/>
+                     <caption>Portrait Of Philippe De Courcillon.jpg</caption>
+                  </figure>
                </person>
             </listPerson>
          </div>

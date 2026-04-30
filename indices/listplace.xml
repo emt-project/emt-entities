@@ -2630,6 +2630,32 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                <place xml:id="emt_place_id__755">
                   <placeName>Mißbrunn, Amt (Landgrafschaft Leuchtenberg)</placeName>
                </place>
+               <place xml:id="emt_place_id__756">
+                  <placeName/>
+               </place>
+               <place xml:id="emt_place_id__757">
+                  <placeName>Ferrara</placeName>
+                  <location type="coords">
+                     <geo>44.83804 11.620570</geo>
+                  </location>
+                  <idno type="GEONAMES">https://sws.geonames.org/3177090/</idno>
+               </place>
+               <place xml:id="emt_place_id__758">
+                  <placeName>Comacchio</placeName>
+                  <location type="coords">
+                     <geo>44.69478 12.181940</geo>
+                  </location>
+                  <idno type="GEONAMES">https://sws.geonames.org/3178245/</idno>
+               </place>
+               <place xml:id="emt_place_id__759">
+                  <placeName>Baden (Schweiz)</placeName>
+               </place>
+               <place xml:id="emt_place_id__760">
+                  <placeName>Augsburg, Bistum</placeName>
+               </place>
+               <place xml:id="emt_place_id__761">
+                  <placeName>Basel, Bistum</placeName>
+               </place>
             </listPlace>
          </div>
       </body>
