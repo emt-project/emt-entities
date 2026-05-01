@@ -1703,7 +1703,7 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                   </figure>
                </person>
                <person xml:id="emt_person_id__109">
-                  <persName type="name">Amalie Wilhelmine von Braunschweig-Lüneburg (Calenberg), vereh. Österreich</persName>
+                  <persName type="name">Amalia Wilhelmine von Braunschweig-Lüneburg (Calenberg), vereh. Österreich</persName>
                   <persName type="title">
                      <roleName>Herzogin</roleName>
                   </persName>
@@ -11443,7 +11443,7 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                   </persName>
                </person>
                <person xml:id="emt_person_id__1174">
-                  <persName type="name">Forstmeister von Gelnhausen, Philipp Benedikt  von</persName>
+                  <persName type="name">Forstmeister von Gelnhausen, Philipp Benedikt</persName>
                   <persName type="function">
                      <roleName>Deutschordensritter, Landkomtur der Ballei Franken 1702–1716</roleName>
                   </persName>
@@ -13259,7 +13259,11 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                   <idno type="NDB">https://www.deutsche-biographie.de/pnd136028543.html#indexcontent</idno>
                </person>
                <person xml:id="emt_person_id__1533">
-                  <persName type="name">Bevier (wird 1705 empfohlen und zeitweise pfalz-neuburgischer Resident in Lüttich)</persName>
+                  <persName type="name">Bevier von Freiried, Johann Baptist von</persName>
+                  <persName type="function">
+                     <roleName>Kammerdiener, Resident</roleName>
+                  </persName>
+                  <idno type="URL">https://viecpro.acdh.oeaw.ac.at/persons/296489</idno>
                </person>
                <person xml:id="emt_person_id__1534">
                   <persName type="name">Efferen, Johann Wilhelm von</persName>
@@ -15208,7 +15212,7 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                   </figure>
                </person>
                <person xml:id="emt_person_id__1757">
-                  <persName type="name">Kommissare 1714, betrifft wohl die Oberpfalz bzw. Limburg</persName>
+                  <persName type="name">Kommissare 1714, betrifft wohl die Oberpfalz und Kurwürde</persName>
                </person>
                <person xml:id="emt_person_id__1758">
                   <persName type="name">Acquaviva d’Aragona, Francesco</persName>
@@ -15312,6 +15316,175 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                      <graphic url="emt_person_id__1764.jpg"/>
                      <caption>Portrait Of Philippe De Courcillon.jpg</caption>
                   </figure>
+               </person>
+               <person xml:id="emt_person_id__1765">
+                  <persName type="name">Johann V. von Portugal</persName>
+                  <persName type="title">
+                     <roleName>König</roleName>
+                  </persName>
+                  <persName type="function">
+                     <roleName>König von Portugal</roleName>
+                  </persName>
+                  <birth>
+                     <date notBefore="1689-01-01" notAfter="1689-12-31">1689</date>
+                  </birth>
+                  <death>
+                     <date notBefore="1750-01-01" notAfter="1750-12-31">1750</date>
+                  </death>
+                  <idno type="GND">https://d-nb.info/gnd/119362341</idno>
+                  <idno type="NDB">https://www.deutsche-biographie.de/pnd119362341.html#indexcontent</idno>
+                  <idno type="WIKIDATA">http://www.wikidata.org/entity/Q299650</idno>
+                  <figure>
+                     <graphic url="emt_person_id__1765.jpg"/>
+                     <caption>John V of Portugal Pompeo Batoni.jpg</caption>
+                  </figure>
+               </person>
+               <person xml:id="emt_person_id__1766">
+                  <persName type="name">Heister, Sigbert</persName>
+                  <persName type="function">
+                     <roleName>kaiserlicher General</roleName>
+                  </persName>
+                  <birth>
+                     <date notBefore="1646-01-01" notAfter="1646-12-31">1646</date>
+                  </birth>
+                  <death>
+                     <date notBefore="1718-01-01" notAfter="1718-12-31">1718</date>
+                  </death>
+                  <idno type="GND">https://d-nb.info/gnd/101102240</idno>
+                  <idno type="NDB">https://d-nb.info/gnd/101102240</idno>
+                  <idno type="WIKIDATA">http://www.wikidata.org/entity/Q113226</idno>
+                  <figure>
+                     <graphic url="emt_person_id__1766.jpg"/>
+                     <caption>Heister Sigbert.jpg</caption>
+                  </figure>
+               </person>
+               <person xml:id="emt_person_id__1767">
+                  <persName type="name">Astalli, Fulvio</persName>
+                  <persName type="title">
+                     <roleName>Kardinal</roleName>
+                  </persName>
+                  <birth>
+                     <date notBefore="1655-01-01" notAfter="1655-12-31">1655</date>
+                  </birth>
+                  <death>
+                     <date notBefore="1721-01-01" notAfter="1721-12-31">1721</date>
+                  </death>
+                  <idno type="GND">https://d-nb.info/gnd/1024721329</idno>
+                  <idno type="WIKIDATA">http://www.wikidata.org/entity/Q550586</idno>
+                  <figure>
+                     <graphic url="emt_person_id__1767.jpg"/>
+                     <caption>Fulvio Astalli.jpg</caption>
+                  </figure>
+               </person>
+               <person xml:id="emt_person_id__1768">
+                  <persName type="name">Karl V.</persName>
+                  <persName type="title">
+                     <roleName>Kaiser</roleName>
+                  </persName>
+                  <birth>
+                     <date notBefore="1500-01-01" notAfter="1500-12-31">1500</date>
+                  </birth>
+                  <death>
+                     <date notBefore="1558-01-01" notAfter="1558-12-31">1558</date>
+                  </death>
+                  <idno type="GND">https://d-nb.info/gnd/118560093</idno>
+                  <idno type="WIKIDATA">http://www.wikidata.org/entity/Q32500</idno>
+                  <figure>
+                     <graphic url="emt_person_id__1768.jpg"/>
+                     <caption>Portrait of Charles V, Holy Roman Emperor, seated (1500–1558), formerly attributed to Titian (Alte Pinakothek, Munich).jpg</caption>
+                  </figure>
+               </person>
+               <person xml:id="emt_person_id__1769">
+                  <persName type="name"/>
+               </person>
+               <person xml:id="emt_person_id__1770">
+                  <persName type="name">Otschkai (Kuruzzenoffizier, läuft 1708 zur kaiserlichen Seite über)</persName>
+               </person>
+               <person xml:id="emt_person_id__1771">
+                  <persName type="name">Maria Luisa von Spanien, geb. Savoyen</persName>
+                  <persName type="title">
+                     <roleName>Königin</roleName>
+                  </persName>
+                  <persName type="function">
+                     <roleName>Königin von Spanien</roleName>
+                  </persName>
+                  <birth>
+                     <date notBefore="1688-01-01" notAfter="1688-12-31">1688</date>
+                  </birth>
+                  <death>
+                     <date notBefore="1714-01-01" notAfter="1714-12-31">1714</date>
+                  </death>
+                  <idno type="GND">https://d-nb.info/gnd/122666526</idno>
+                  <idno type="WIKIDATA">http://www.wikidata.org/entity/Q229861</idno>
+                  <figure>
+                     <graphic url="emt_person_id__1771.jpg"/>
+                     <caption>Queen Maria Luisa of Spain, Princess of Savoy.jpg</caption>
+                  </figure>
+               </person>
+               <person xml:id="emt_person_id__1772">
+                  <persName type="name">Wettin, Haus (Kursachsen)</persName>
+               </person>
+               <person xml:id="emt_person_id__1773">
+                  <persName type="name">Vertreter Kurpfalz bei Koadjutorwahlen 1714 in Augsburg</persName>
+               </person>
+               <person xml:id="emt_person_id__1774">
+                  <persName type="name">Santini, Marc'Antonio ("Internuntio" 1708)</persName>
+               </person>
+               <person xml:id="emt_person_id__1775">
+                  <persName type="name">Altoviti, Marchese (kommt 1708 von Düsseldorf nach Wien)</persName>
+               </person>
+               <person xml:id="emt_person_id__1776">
+                  <persName type="name">Guicciardi, Giovanni Orazio</persName>
+                  <persName type="title">
+                     <roleName>Conte</roleName>
+                  </persName>
+                  <persName type="function">
+                     <roleName>Gesandter Modena in Wien 1711 bis 1722</roleName>
+                  </persName>
+                  <birth>
+                     <date notBefore="1665-01-01" notAfter="1665-12-31">1665</date>
+                  </birth>
+                  <death>
+                     <date notBefore="1742-01-01" notAfter="1742-12-31">1742</date>
+                  </death>
+                  <idno type="URL">https://www.treccani.it/enciclopedia/giovanni-orazio-guicciardi_(Dizionario-Biografico)/</idno>
+               </person>
+               <person xml:id="emt_person_id__1777">
+                  <persName type="name">Kuenburg, Franz Ferdinand von</persName>
+                  <persName type="function">
+                     <roleName>Bischof von Laibach, Erzbischof von Prag</roleName>
+                  </persName>
+                  <birth>
+                     <date notBefore="1651-01-01" notAfter="1651-12-31">1651</date>
+                  </birth>
+                  <death>
+                     <date notBefore="1731-01-01" notAfter="1731-12-31">1731</date>
+                  </death>
+                  <idno type="GND">https://d-nb.info/gnd/13707994X</idno>
+                  <idno type="NDB">https://www.deutsche-biographie.de/pnd13707994X.html#indexcontent</idno>
+                  <idno type="WIKIDATA">http://www.wikidata.org/entity/Q87028</idno>
+                  <figure>
+                     <graphic url="emt_person_id__1777.jpg"/>
+                     <caption>Franc Ferdinand Kuenburg.jpg</caption>
+                  </figure>
+               </person>
+               <person xml:id="emt_person_id__1778">
+                  <persName type="name">Wachtendonck, der 1714 einen Brief von EMT an JW überbringt</persName>
+               </person>
+               <person xml:id="emt_person_id__1811">
+                  <persName type="name">Panciatichi, Marchese (kommt 1708 von Düsseldorf nach Wien)</persName>
+               </person>
+               <person xml:id="emt_person_id__1812">
+                  <persName type="name">Rogati, NN (wird 1708 nach Spanien empfohlen)</persName>
+               </person>
+               <person xml:id="emt_person_id__1813">
+                  <persName type="name">Callenberg, Johann Joseph (Priester, die Nonnen von Münstereifel bitten für ihn 1708)</persName>
+               </person>
+               <person xml:id="emt_person_id__1814">
+                  <persName type="name"/>
+               </person>
+               <person xml:id="emt_person_id__1815">
+                  <persName type="name">Müllerin, NN, geb. Denzlin (1708 empfohlen)</persName>
                </person>
             </listPerson>
          </div>

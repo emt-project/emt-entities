@@ -2656,6 +2656,44 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                <place xml:id="emt_place_id__761">
                   <placeName>Basel, Bistum</placeName>
                </place>
+               <place xml:id="emt_place_id__762">
+                  <placeName>Oudenaarde</placeName>
+                  <location type="coords">
+                     <geo>50.85168 3.608910</geo>
+                  </location>
+                  <idno type="GEONAMES">https://sws.geonames.org/2789529/</idno>
+               </place>
+               <place xml:id="emt_place_id__763">
+                  <placeName>Neutra / Nitra /Niytra</placeName>
+                  <location type="coords">
+                     <geo>48.30763 18.084530</geo>
+                  </location>
+                  <idno type="GEONAMES">https://sws.geonames.org/3058531/</idno>
+               </place>
+               <place xml:id="emt_place_id__764">
+                  <placeName>London</placeName>
+               </place>
+               <place xml:id="emt_place_id__765">
+                  <placeName>Lille</placeName>
+                  <location type="coords">
+                     <geo>50.63391 3.055120</geo>
+                  </location>
+                  <idno type="GEONAMES">https://sws.geonames.org/2998324/</idno>
+               </place>
+               <place xml:id="emt_place_id__766">
+                  <placeName>Sardinien</placeName>
+                  <location type="coords">
+                     <geo>40.00000 9.000000</geo>
+                  </location>
+                  <idno type="GEONAMES">https://sws.geonames.org/2523227/</idno>
+               </place>
+               <place xml:id="emt_place_id__800">
+                  <placeName>Fenestrelle, Festung</placeName>
+                  <location type="coords">
+                     <geo>45.03594 7.049410</geo>
+                  </location>
+                  <idno type="GEONAMES">https://sws.geonames.org/3177112/</idno>
+               </place>
             </listPlace>
          </div>
       </body>
