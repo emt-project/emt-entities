@@ -2694,6 +2694,24 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                   </location>
                   <idno type="GEONAMES">https://sws.geonames.org/3177112/</idno>
                </place>
+               <place xml:id="emt_place_id__801">
+                  <placeName>Piombino</placeName>
+                  <idno type="GEONAMES">https://sws.geonames.org/3170674/</idno>
+               </place>
+               <place xml:id="emt_place_id__802">
+                  <placeName>Alicante</placeName>
+                  <idno type="GEONAMES">https://sws.geonames.org/2521978/</idno>
+               </place>
+               <place xml:id="emt_place_id__803">
+                  <placeName>Dénia</placeName>
+                  <idno type="GEONAMES">https://sws.geonames.org/2518878/</idno>
+               </place>
+               <place xml:id="emt_place_id__804">
+                  <placeName>Piemont, Fürstentum</placeName>
+               </place>
+               <place xml:id="emt_place_id__805">
+                  <placeName>Kempten, Reichsstift</placeName>
+               </place>
             </listPlace>
          </div>
       </body>

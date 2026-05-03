@@ -15481,10 +15481,76 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                   <persName type="name">Callenberg, Johann Joseph (Priester, die Nonnen von Münstereifel bitten für ihn 1708)</persName>
                </person>
                <person xml:id="emt_person_id__1814">
-                  <persName type="name"/>
+                  <persName type="name">Bodman, Rupert von</persName>
+                  <persName type="function">
+                     <roleName>Fürstabt von Kempten, Reichshofrat</roleName>
+                  </persName>
+                  <birth>
+                     <date notBefore="1646-01-01" notAfter="1646-12-31">1646</date>
+                  </birth>
+                  <death>
+                     <date notBefore="1728-01-01" notAfter="1728-12-31">1728</date>
+                  </death>
+                  <idno type="GND">https://d-nb.info/gnd/118852329</idno>
+                  <idno type="NDB">https://www.deutsche-biographie.de/pnd118852329.html#indexcontent</idno>
+                  <idno type="WIKIDATA">http://www.wikidata.org/entity/Q1597968</idno>
+                  <figure>
+                     <graphic url="emt_person_id__1814.jpg"/>
+                     <caption>Kempten Zumsteinhaus Kempten-Museum Rupert von Bodman 170.jpg</caption>
+                  </figure>
                </person>
                <person xml:id="emt_person_id__1815">
                   <persName type="name">Müllerin, NN, geb. Denzlin (1708 empfohlen)</persName>
+               </person>
+               <person xml:id="emt_person_id__1816">
+                  <persName type="name">Melzi, Antonio Maria von</persName>
+                  <persName type="title">
+                     <roleName>Marchese</roleName>
+                  </persName>
+                  <persName type="function">
+                     <roleName>kurpfälzischer Gesandter in Mailand 1707-1713</roleName>
+                  </persName>
+               </person>
+               <person xml:id="emt_person_id__1817">
+                  <persName type="name">Sobieski, Maria Kasimira Luise, geb. de la Grange d'Arquien</persName>
+                  <persName type="title">
+                     <roleName>Königin</roleName>
+                  </persName>
+                  <birth>
+                     <date notBefore="1641-01-01" notAfter="1641-12-31">1641</date>
+                  </birth>
+                  <death>
+                     <date notBefore="1716-01-01" notAfter="1716-12-31">1716</date>
+                  </death>
+                  <idno type="GND">https://d-nb.info/gnd/118818449</idno>
+                  <idno type="NDB">https://www.deutsche-biographie.de/pnd118818449.html#indexcontent</idno>
+                  <idno type="WIKIDATA">http://www.wikidata.org/entity/Q240113</idno>
+                  <figure>
+                     <graphic url="emt_person_id__1817.jpg"/>
+                     <caption>Jan Tricius - Portrait of Maria Casimire (ca. 1676) - Google Art Project.jpg</caption>
+                  </figure>
+               </person>
+               <person xml:id="emt_person_id__1818">
+                  <persName type="name">Maciotti (1708 in Innsbruck)</persName>
+               </person>
+               <person xml:id="emt_person_id__1819">
+                  <persName type="name">Lonfrano, NN Marchese (1709 aus Spanien nach Wien gekommen)</persName>
+               </person>
+               <person xml:id="emt_person_id__1820">
+                  <persName type="name">Hartmann von Klarstein, Franz Maximilian von</persName>
+                  <persName type="title">
+                     <roleName>Graf</roleName>
+                  </persName>
+                  <persName type="function">
+                     <roleName>Appellations-Vizepräsident in Böhmen, kaiserlicher Geheimrat</roleName>
+                  </persName>
+                  <death>
+                     <date notBefore="1725-01-01" notAfter="1725-12-31">1725</date>
+                  </death>
+                  <idno type="URL">https://de.wikisource.org/wiki/BLK%C3%96:Hartmann-Klarstein,_das_Grafengeschlecht</idno>
+               </person>
+               <person xml:id="emt_person_id__1821">
+                  <persName type="name">Hoßlunder / Hoßfurter, NN SJ (1709 in Wien)</persName>
                </person>
             </listPerson>
          </div>

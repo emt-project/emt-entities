@@ -397,5 +397,12 @@
     "name": "Böhmische Hofkanzlei",
     "gnd": "",
     "emt_id": "emt_institution_id__185"
+  },
+  "218": {
+    "id": 218,
+    "order": "58.00000000000000000000",
+    "name": "Römische Inquisition (Sacra Congregatio Romanae et universalis Inquisitionis)",
+    "gnd": "",
+    "emt_id": "emt_institution_id__218"
   }
 }
