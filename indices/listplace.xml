@@ -2696,14 +2696,23 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                </place>
                <place xml:id="emt_place_id__801">
                   <placeName>Piombino</placeName>
+                  <location type="coords">
+                     <geo>42.92554 10.525850</geo>
+                  </location>
                   <idno type="GEONAMES">https://sws.geonames.org/3170674/</idno>
                </place>
                <place xml:id="emt_place_id__802">
                   <placeName>Alicante</placeName>
+                  <location type="coords">
+                     <geo>38.34517 -0.481490</geo>
+                  </location>
                   <idno type="GEONAMES">https://sws.geonames.org/2521978/</idno>
                </place>
                <place xml:id="emt_place_id__803">
                   <placeName>Dénia</placeName>
+                  <location type="coords">
+                     <geo>38.84078 0.105740</geo>
+                  </location>
                   <idno type="GEONAMES">https://sws.geonames.org/2518878/</idno>
                </place>
                <place xml:id="emt_place_id__804">
