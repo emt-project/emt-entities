@@ -618,7 +618,7 @@
     "id": 23,
     "order": "23.00000000000000000000",
     "name": "Hamilton, Johann Jakob von (John James)",
-    "gnd": "",
+    "gnd": "https://d-nb.info/gnd/1372133690",
     "other_url": "https://de.wikipedia.org/wiki/Jakob_von_Hamilton#Familie",
     "emt_id": "emt_person_id__23",
     "internal_comment": "Lau 264: bis 1690 Obriststallmeister PWs, ab 1690 Obristkämmerer JWs. Lau 284: gleichzeitig Obersthofmeister Anna Maria Luisas",
@@ -635,7 +635,7 @@
     "birth_date_written": null,
     "death_date_written": null,
     "geschlecht": null,
-    "funktionsbezeichnungen": null,
+    "funktionsbezeichnungen": "Oberstkämmerer",
     "unidentifiziert": false,
     "titel": [
       {

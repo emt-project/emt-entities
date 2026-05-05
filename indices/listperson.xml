@@ -423,12 +423,16 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                   <persName type="title">
                      <roleName>Graf</roleName>
                   </persName>
+                  <persName type="function">
+                     <roleName>Oberstkämmerer</roleName>
+                  </persName>
                   <birth>
                      <date notBefore="1642-01-01" notAfter="1642-12-31">1642</date>
                   </birth>
                   <death>
                      <date notBefore="1717-01-01" notAfter="1717-12-31">1717</date>
                   </death>
+                  <idno type="GND">https://d-nb.info/gnd/1372133690</idno>
                   <idno type="WIKIDATA">http://www.wikidata.org/entity/Q16006181</idno>
                   <idno type="URL">https://de.wikipedia.org/wiki/Jakob_von_Hamilton#Familie</idno>
                </person>

@@ -2123,6 +2123,7 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                </place>
                <place xml:id="emt_place_id__337">
                   <placeName>Paderborn, Bistum</placeName>
+                  <idno type="GND">https://d-nb.info/gnd/4044294-9</idno>
                </place>
                <place xml:id="emt_place_id__338">
                   <placeName>Dordrecht</placeName>
@@ -2154,6 +2155,7 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                </place>
                <place xml:id="emt_place_id__342">
                   <placeName>Gran, Erzbistum</placeName>
+                  <idno type="GND">https://d-nb.info/gnd/4399241-9</idno>
                </place>
                <place xml:id="emt_place_id__375">
                   <placeName>Freudenthal (tschech. Bruntál)</placeName>
@@ -2183,6 +2185,7 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                </place>
                <place xml:id="emt_place_id__411">
                   <placeName>Neapel, Königreich</placeName>
+                  <idno type="GND">https://d-nb.info/gnd/4041478-4</idno>
                </place>
                <place xml:id="emt_place_id__412">
                   <placeName>Brüssel</placeName>
@@ -2207,6 +2210,7 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                </place>
                <place xml:id="emt_place_id__447">
                   <placeName>Hessen-Homburg, Landgrafschaft</placeName>
+                  <idno type="GND">https://d-nb.info/gnd/4095174-1</idno>
                </place>
                <place xml:id="emt_place_id__480">
                   <placeName>Lauterecken, Amt</placeName>
@@ -2334,6 +2338,7 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                </place>
                <place xml:id="emt_place_id__569">
                   <placeName>Mailand, Herzogtum</placeName>
+                  <idno type="GND">https://d-nb.info/gnd/4037101-3</idno>
                </place>
                <place xml:id="emt_place_id__602">
                   <placeName>Cremona</placeName>
@@ -2349,6 +2354,7 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                </place>
                <place xml:id="emt_place_id__604">
                   <placeName>Flandern</placeName>
+                  <idno type="GND">https://d-nb.info/gnd/4071249-7</idno>
                </place>
                <place xml:id="emt_place_id__605">
                   <placeName>Broich, Schloss (heute Stadtteil von Mühlheim an der Ruhr)</placeName>
@@ -2434,15 +2440,18 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                </place>
                <place xml:id="emt_place_id__653">
                   <placeName>Cham, Grafschaft</placeName>
+                  <idno type="GND">https://d-nb.info/gnd/4804145-2</idno>
                </place>
                <place xml:id="emt_place_id__654">
-                  <placeName>Wiesensteig, Herrschaft/Grafschaft</placeName>
+                  <placeName>Wiesensteig, Herrschaft</placeName>
+                  <idno type="GND">https://d-nb.info/gnd/4355440-4</idno>
                </place>
                <place xml:id="emt_place_id__655">
                   <placeName>Prag, Erzbistum</placeName>
                </place>
                <place xml:id="emt_place_id__656">
                   <placeName>Worms, Bistum</placeName>
+                  <idno type="GND">https://d-nb.info/gnd/4119173-0</idno>
                </place>
                <place xml:id="emt_place_id__657">
                   <placeName>Dresden</placeName>
@@ -2474,6 +2483,7 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                </place>
                <place xml:id="emt_place_id__693">
                   <placeName>Hennegau, Grafschaft</placeName>
+                  <idno type="GND">https://d-nb.info/gnd/4223677-0</idno>
                </place>
                <place xml:id="emt_place_id__694">
                   <placeName>Cassano</placeName>
@@ -2485,16 +2495,19 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                <place xml:id="emt_place_id__695">
                   <placeName>Katalonien</placeName>
                   <idno type="GEONAMES">https://sws.geonames.org/3125609/</idno>
+                  <idno type="GND">https://d-nb.info/gnd/4029916-8</idno>
                </place>
                <place xml:id="emt_place_id__696">
                   <placeName>Würzburg, Bistum</placeName>
                   <idno type="GEONAMES">https://www.geonames.org/maps/google_49.7833_9.9333.html</idno>
+                  <idno type="GND">https://d-nb.info/gnd/4128539-6</idno>
                </place>
                <place xml:id="emt_place_id__697">
                   <placeName>Wien, Theatinerkloster</placeName>
                </place>
                <place xml:id="emt_place_id__698">
                   <placeName>Preußen, Königreich</placeName>
+                  <idno type="GND">https://d-nb.info/gnd/4047194-9</idno>
                </place>
                <place xml:id="emt_place_id__699">
                   <placeName>València</placeName>
@@ -2526,7 +2539,7 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                </place>
                <place xml:id="emt_place_id__703">
                   <placeName>Pfalz-Sulzbach, Herzogtum</placeName>
-                  <idno type="GEONAMES">https://d-nb.info/gnd/4045463-0</idno>
+                  <idno type="GND">https://d-nb.info/gnd/4045463-0</idno>
                </place>
                <place xml:id="emt_place_id__736">
                   <placeName>Mecklenburg-Schwerin, Herzogtum</placeName>
@@ -2558,9 +2571,11 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                </place>
                <place xml:id="emt_place_id__741">
                   <placeName>Pfalz-Zweibrücken, Herzogtum</placeName>
+                  <idno type="GND">https://d-nb.info/gnd/4045464-2</idno>
                </place>
                <place xml:id="emt_place_id__742">
                   <placeName>Großbritannien</placeName>
+                  <idno type="GND">https://d-nb.info/gnd/7503197-8</idno>
                </place>
                <place xml:id="emt_place_id__743">
                   <placeName>Stablo, Kloster</placeName>
@@ -2592,6 +2607,7 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                      <geo>44.00000 6.000000</geo>
                   </location>
                   <idno type="GEONAMES">https://sws.geonames.org/2985246/</idno>
+                  <idno type="GND">https://d-nb.info/gnd/4047564-5</idno>
                </place>
                <place xml:id="emt_place_id__748">
                   <placeName>Toulon</placeName>

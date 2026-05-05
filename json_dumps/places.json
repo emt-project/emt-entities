@@ -4884,7 +4884,7 @@
     "lat": null,
     "long": null,
     "comments intern": "",
-    "gnd": "",
+    "gnd": "https://d-nb.info/gnd/4044294-9",
     "alternative_name": "",
     "wikidata_url": "",
     "unidentifiziert": false
@@ -4959,7 +4959,7 @@
     "lat": null,
     "long": null,
     "comments intern": "",
-    "gnd": "",
+    "gnd": "https://d-nb.info/gnd/4399241-9",
     "alternative_name": "",
     "wikidata_url": "",
     "unidentifiziert": false
@@ -5049,7 +5049,7 @@
     "lat": null,
     "long": null,
     "comments intern": "",
-    "gnd": "",
+    "gnd": "https://d-nb.info/gnd/4041478-4",
     "alternative_name": "",
     "wikidata_url": "",
     "unidentifiziert": false
@@ -5109,7 +5109,7 @@
     "lat": null,
     "long": null,
     "comments intern": "",
-    "gnd": "",
+    "gnd": "https://d-nb.info/gnd/4095174-1",
     "alternative_name": "",
     "wikidata_url": "https://www.wikidata.org/wiki/Q694269",
     "unidentifiziert": false
@@ -5499,7 +5499,7 @@
     "lat": null,
     "long": null,
     "comments intern": "",
-    "gnd": "",
+    "gnd": "https://d-nb.info/gnd/4037101-3",
     "alternative_name": "",
     "wikidata_url": "",
     "unidentifiziert": false
@@ -5544,7 +5544,7 @@
     "lat": null,
     "long": null,
     "comments intern": "JW 22.03.1702 spricht von mögl. frz. Angriff auf Brabant und Flandern. Es bleibt unklar was genau gemeint ist zwischen Landschaft Flandern, ehemaliger(?) Grafschaft Flandern, Holländisch Flandern und den diversen Grenzveränderungen um 1700. Eventuell auch gar nicht taggen (wie Oberrhein)?",
-    "gnd": "",
+    "gnd": "https://d-nb.info/gnd/4071249-7",
     "alternative_name": "",
     "wikidata_url": "",
     "unidentifiziert": false
@@ -5798,8 +5798,8 @@
     "place_type": null,
     "lat": null,
     "long": null,
-    "comments intern": "GND spinnt grad, aber es gibt eine https://explore.gnd.network/gnd/4804145-2?term=Grafschaft%20Cham&rows=25&pos=1",
-    "gnd": "",
+    "comments intern": null,
+    "gnd": "https://d-nb.info/gnd/4804145-2",
     "alternative_name": "",
     "wikidata_url": "",
     "unidentifiziert": false
@@ -5807,14 +5807,14 @@
   "654": {
     "id": 654,
     "order": "394.00000000000000000000",
-    "name": "Wiesensteig, Herrschaft/Grafschaft",
+    "name": "Wiesensteig, Herrschaft",
     "geonames": "",
     "emt_id": "emt_place_id__654",
     "place_type": null,
     "lat": null,
     "long": null,
     "comments intern": "",
-    "gnd": "",
+    "gnd": "https://d-nb.info/gnd/4355440-4",
     "alternative_name": "",
     "wikidata_url": "",
     "unidentifiziert": false
@@ -5828,7 +5828,7 @@
     "place_type": null,
     "lat": null,
     "long": null,
-    "comments intern": "",
+    "comments intern": "nicht in GND ?!",
     "gnd": "",
     "alternative_name": "",
     "wikidata_url": "",
@@ -5844,7 +5844,7 @@
     "lat": null,
     "long": null,
     "comments intern": "",
-    "gnd": "",
+    "gnd": "https://d-nb.info/gnd/4119173-0",
     "alternative_name": "",
     "wikidata_url": "",
     "unidentifiziert": false
@@ -5919,7 +5919,7 @@
     "lat": null,
     "long": null,
     "comments intern": "",
-    "gnd": "",
+    "gnd": "https://d-nb.info/gnd/4223677-0",
     "alternative_name": "",
     "wikidata_url": "",
     "unidentifiziert": false
@@ -5949,7 +5949,7 @@
     "lat": null,
     "long": null,
     "comments intern": "",
-    "gnd": "",
+    "gnd": "https://d-nb.info/gnd/4029916-8",
     "alternative_name": "",
     "wikidata_url": "",
     "unidentifiziert": false
@@ -5964,7 +5964,7 @@
     "lat": null,
     "long": null,
     "comments intern": "",
-    "gnd": "",
+    "gnd": "https://d-nb.info/gnd/4128539-6",
     "alternative_name": "",
     "wikidata_url": "",
     "unidentifiziert": false
@@ -5994,7 +5994,7 @@
     "lat": null,
     "long": null,
     "comments intern": "",
-    "gnd": "",
+    "gnd": "https://d-nb.info/gnd/4047194-9",
     "alternative_name": "",
     "wikidata_url": "",
     "unidentifiziert": false
@@ -6063,13 +6063,13 @@
     "id": 703,
     "order": "411.00000000000000000000",
     "name": "Pfalz-Sulzbach, Herzogtum",
-    "geonames": "https://d-nb.info/gnd/4045463-0",
+    "geonames": "",
     "emt_id": "emt_place_id__703",
     "place_type": null,
     "lat": null,
     "long": null,
     "comments intern": "",
-    "gnd": "",
+    "gnd": "https://d-nb.info/gnd/4045463-0",
     "alternative_name": "",
     "wikidata_url": "",
     "unidentifiziert": false
@@ -6159,7 +6159,7 @@
     "lat": null,
     "long": null,
     "comments intern": "",
-    "gnd": "",
+    "gnd": "https://d-nb.info/gnd/4045464-2",
     "alternative_name": "",
     "wikidata_url": "",
     "unidentifiziert": false
@@ -6174,7 +6174,7 @@
     "lat": null,
     "long": null,
     "comments intern": "",
-    "gnd": "",
+    "gnd": "https://d-nb.info/gnd/7503197-8",
     "alternative_name": "",
     "wikidata_url": "",
     "unidentifiziert": false
@@ -6249,7 +6249,7 @@
     "lat": "44.00000",
     "long": "6.000000",
     "comments intern": "",
-    "gnd": "",
+    "gnd": "https://d-nb.info/gnd/4047564-5",
     "alternative_name": "",
     "wikidata_url": "",
     "unidentifiziert": false
