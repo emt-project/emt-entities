@@ -15527,7 +15527,6 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                      <date notBefore="1716-01-01" notAfter="1716-12-31">1716</date>
                   </death>
                   <idno type="GND">https://d-nb.info/gnd/118818449</idno>
-                  <idno type="NDB">https://www.deutsche-biographie.de/pnd118818449.html#indexcontent</idno>
                   <idno type="WIKIDATA">http://www.wikidata.org/entity/Q240113</idno>
                   <figure>
                      <graphic url="emt_person_id__1817.jpg"/>
@@ -15555,6 +15554,39 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                </person>
                <person xml:id="emt_person_id__1821">
                   <persName type="name">Hoßlunder / Hoßfurter, NN SJ (1709 in Wien)</persName>
+               </person>
+               <person xml:id="emt_person_id__1822">
+                  <persName type="name">Casali, Giuseppe</persName>
+                  <persName type="title">
+                     <roleName>Marchese</roleName>
+                  </persName>
+                  <persName type="function">
+                     <roleName>außerordentlicher Botschafter Parma in Wien 1714 bis 1715</roleName>
+                  </persName>
+               </person>
+               <person xml:id="emt_person_id__1823">
+                  <persName type="name">Burgers/Borckers, Maler 1714</persName>
+               </person>
+               <person xml:id="emt_person_id__1824">
+                  <persName type="name">Stanhope, James</persName>
+                  <persName type="title">
+                     <roleName>Lord</roleName>
+                  </persName>
+                  <persName type="function">
+                     <roleName>englischer Botschafter in Wien 1714</roleName>
+                  </persName>
+                  <birth>
+                     <date notBefore="1673-01-01" notAfter="1673-12-31">1673</date>
+                  </birth>
+                  <death>
+                     <date notBefore="1721-01-01" notAfter="1721-12-31">1721</date>
+                  </death>
+                  <idno type="GND">https://d-nb.info/gnd/117211281</idno>
+                  <idno type="WIKIDATA">http://www.wikidata.org/entity/Q332603</idno>
+                  <figure>
+                     <graphic url="emt_person_id__1824.jpg"/>
+                     <caption>James Stanhope, 1st Earl Stanhope by Sir Godfrey Kneller, Bt.jpg</caption>
+                  </figure>
                </person>
             </listPerson>
          </div>
