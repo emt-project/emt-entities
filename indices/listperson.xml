@@ -5896,6 +5896,7 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                      <date notBefore="1716-01-01" notAfter="1716-12-31">1716</date>
                   </death>
                   <idno type="GND">https://d-nb.info/gnd/118818449</idno>
+                  <idno type="NDB">https://www.deutsche-biographie.de/pnd118818449.html#indexcontent</idno>
                   <idno type="WIKIDATA">http://www.wikidata.org/entity/Q240113</idno>
                   <figure>
                      <graphic url="emt_person_id__498.jpg"/>
@@ -15515,24 +15516,6 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                      <roleName>kurpfälzischer Gesandter in Mailand 1707-1713</roleName>
                   </persName>
                </person>
-               <person xml:id="emt_person_id__1817">
-                  <persName type="name">Sobieski, Maria Kasimira Luise, geb. de la Grange d'Arquien</persName>
-                  <persName type="title">
-                     <roleName>Königin</roleName>
-                  </persName>
-                  <birth>
-                     <date notBefore="1641-01-01" notAfter="1641-12-31">1641</date>
-                  </birth>
-                  <death>
-                     <date notBefore="1716-01-01" notAfter="1716-12-31">1716</date>
-                  </death>
-                  <idno type="GND">https://d-nb.info/gnd/118818449</idno>
-                  <idno type="WIKIDATA">http://www.wikidata.org/entity/Q240113</idno>
-                  <figure>
-                     <graphic url="emt_person_id__1817.jpg"/>
-                     <caption>Jan Tricius - Portrait of Maria Casimire (ca. 1676) - Google Art Project.jpg</caption>
-                  </figure>
-               </person>
                <person xml:id="emt_person_id__1818">
                   <persName type="name">Maciotti (1708 in Innsbruck)</persName>
                </person>
@@ -15586,6 +15569,119 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                   <figure>
                      <graphic url="emt_person_id__1824.jpg"/>
                      <caption>James Stanhope, 1st Earl Stanhope by Sir Godfrey Kneller, Bt.jpg</caption>
+                  </figure>
+               </person>
+               <person xml:id="emt_person_id__1825">
+                  <persName type="name">Weveld, Wilhelm Adam von</persName>
+                  <persName type="title">
+                     <roleName>Freiherr</roleName>
+                  </persName>
+                  <birth>
+                     <date notBefore="1674-01-01" notAfter="1674-12-31">1674</date>
+                  </birth>
+                  <death>
+                     <date notBefore="1734-01-01" notAfter="1734-12-31">1734</date>
+                  </death>
+                  <idno type="URL">https://erdteilallegorien.univie.ac.at/personen/wilhelm-adam-von-weveld#</idno>
+               </person>
+               <person xml:id="emt_person_id__1826">
+                  <persName type="name">Kirchner, Michael Achatius</persName>
+                  <birth>
+                     <date notBefore="1663-01-01" notAfter="1663-12-31">1663</date>
+                  </birth>
+                  <death>
+                     <date notBefore="1734-01-01" notAfter="1734-12-31">1734</date>
+                  </death>
+                  <idno type="GND">https://d-nb.info/gnd/143985256</idno>
+                  <idno type="NDB">https://www.deutsche-biographie.de/pnd143985256.html#indexcontent</idno>
+                  <idno type="WIKIDATA">http://www.wikidata.org/entity/Q95324976</idno>
+                  <idno type="URL">https://www.e-archiv.li/personDetail.aspx?persID=30857&amp;backurl=auto</idno>
+               </person>
+               <person xml:id="emt_person_id__1827">
+                  <persName type="name">Baden-Baden, Augusta Maria Johanna von</persName>
+                  <persName type="title">
+                     <roleName>Prinzessin</roleName>
+                  </persName>
+                  <birth>
+                     <date notBefore="1704-01-01" notAfter="1704-12-31">1704</date>
+                  </birth>
+                  <death>
+                     <date notBefore="1726-01-01" notAfter="1726-12-31">1726</date>
+                  </death>
+                  <idno type="GND">https://d-nb.info/gnd/1017916969</idno>
+                  <idno type="WIKIDATA">http://www.wikidata.org/entity/Q292123</idno>
+                  <figure>
+                     <graphic url="emt_person_id__1827.jpg"/>
+                     <caption>Portrait d'Augusta Marie Jeanne de Baden-Baden, duchesse d'Orléans, détail (jlpw16 0333).jpg</caption>
+                  </figure>
+               </person>
+               <person xml:id="emt_person_id__1828">
+                  <persName type="name">Nitsch, Frau (1713)</persName>
+               </person>
+               <person xml:id="emt_person_id__1829">
+                  <persName type="name">Liechtenstein, Christina Theresia von, geb. Löwenstein-Wertheim-Rochefort, verw. Sachsen-Weißenfels</persName>
+                  <persName type="title">
+                     <roleName>Fürstin</roleName>
+                  </persName>
+                  <birth>
+                     <date notBefore="1665-01-01" notAfter="1665-12-31">1665</date>
+                  </birth>
+                  <death>
+                     <date notBefore="1730-01-01" notAfter="1730-12-31">1730</date>
+                  </death>
+                  <idno type="WIKIDATA">http://www.wikidata.org/entity/Q55912236</idno>
+                  <figure>
+                     <graphic url="emt_person_id__1829.jpg"/>
+                     <caption>Fürstin Christina Theresia von Liechtenstein (1665–1730), geb. Löwenstein-Wertheim-Rochefort.jpg</caption>
+                  </figure>
+               </person>
+               <person xml:id="emt_person_id__1830">
+                  <persName type="name">Courcillon, Sophie de Dangeau de, geb. Löwenstein-Wertheim-Rochefort</persName>
+                  <birth>
+                     <date notBefore="1664-01-01" notAfter="1664-12-31">1664</date>
+                  </birth>
+                  <death>
+                     <date notBefore="1736-01-01" notAfter="1736-12-31">1736</date>
+                  </death>
+                  <idno type="GND">https://d-nb.info/gnd/12109426X</idno>
+                  <idno type="WIKIDATA">http://www.wikidata.org/entity/Q95319025</idno>
+                  <idno type="URL">https://kaiserhof.geschichte.lmu.de/14228</idno>
+                  <figure>
+                     <graphic url="emt_person_id__1830.jpg"/>
+                     <caption>Mme Dangeau, fransk markisinna - Nationalmuseum - 176968.png</caption>
+                  </figure>
+               </person>
+               <person xml:id="emt_person_id__1831">
+                  <persName type="name">Antinori, Cavaliere</persName>
+                  <persName type="function">
+                     <roleName>1708 bis 1712 Resident (?) für Florenz in Wien</roleName>
+                  </persName>
+               </person>
+               <person xml:id="emt_person_id__1832">
+                  <persName type="name">Gadela, Marzio</persName>
+               </person>
+               <person xml:id="emt_person_id__1833">
+                  <persName type="name">Holzhari, Chirurg</persName>
+               </person>
+               <person xml:id="emt_person_id__1834">
+                  <persName type="name">Lamberg, Haus</persName>
+               </person>
+               <person xml:id="emt_person_id__1835">
+                  <persName type="name">Torcy, Jean-Baptiste Colbert de</persName>
+                  <persName type="function">
+                     <roleName>französischer Bevollmächtiger bei den Utrechter Friedensverhandlungen</roleName>
+                  </persName>
+                  <birth>
+                     <date notBefore="1665-01-01" notAfter="1665-12-31">1665</date>
+                  </birth>
+                  <death>
+                     <date notBefore="1746-01-01" notAfter="1746-12-31">1746</date>
+                  </death>
+                  <idno type="GND">https://d-nb.info/gnd/116636564</idno>
+                  <idno type="WIKIDATA">http://www.wikidata.org/entity/Q1684629</idno>
+                  <figure>
+                     <graphic url="emt_person_id__1835.jpg"/>
+                     <caption>Troy - Jean-Baptiste Colbert (1655-1746), marquis de Torcy.jpg</caption>
                   </figure>
                </person>
             </listPerson>

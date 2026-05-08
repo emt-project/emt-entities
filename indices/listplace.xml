@@ -2737,6 +2737,27 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                <place xml:id="emt_place_id__805">
                   <placeName>Kempten, Reichsstift</placeName>
                </place>
+               <place xml:id="emt_place_id__806">
+                  <placeName>Utrecht</placeName>
+                  <location type="coords">
+                     <geo>52.09083 5.122220</geo>
+                  </location>
+                  <idno type="GEONAMES">https://sws.geonames.org/2745912/</idno>
+               </place>
+               <place xml:id="emt_place_id__807">
+                  <placeName>Hartenstein, Amt</placeName>
+                  <location type="coords">
+                     <geo>50.66830 12.671400</geo>
+                  </location>
+                  <idno type="GEONAMES">https://sws.geonames.org/6551122/</idno>
+               </place>
+               <place xml:id="emt_place_id__808">
+                  <placeName>Rothenberg, Feste</placeName>
+                  <location type="coords">
+                     <geo>49.55438 11.359770</geo>
+                  </location>
+                  <idno type="GEONAMES">https://sws.geonames.org/12123326/</idno>
+               </place>
             </listPlace>
          </div>
       </body>

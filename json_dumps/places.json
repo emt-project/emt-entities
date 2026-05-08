@@ -6628,5 +6628,50 @@
     "alternative_name": "",
     "wikidata_url": "",
     "unidentifiziert": false
+  },
+  "806": {
+    "id": 806,
+    "order": "449.00000000000000000000",
+    "name": "Utrecht",
+    "geonames": "https://www.geonames.org/2745912/utrecht.html",
+    "emt_id": "emt_place_id__806",
+    "place_type": null,
+    "lat": "52.09083",
+    "long": "5.122220",
+    "comments intern": "",
+    "gnd": "",
+    "alternative_name": "",
+    "wikidata_url": "",
+    "unidentifiziert": false
+  },
+  "807": {
+    "id": 807,
+    "order": "450.00000000000000000000",
+    "name": "Hartenstein, Amt",
+    "geonames": "https://www.geonames.org/6551122/hartenstein.html",
+    "emt_id": "emt_place_id__807",
+    "place_type": null,
+    "lat": "50.66830",
+    "long": "12.671400",
+    "comments intern": "",
+    "gnd": "",
+    "alternative_name": "",
+    "wikidata_url": "",
+    "unidentifiziert": false
+  },
+  "808": {
+    "id": 808,
+    "order": "451.00000000000000000000",
+    "name": "Rothenberg, Feste",
+    "geonames": "https://www.geonames.org/12123326/rothenberg-fortress.html",
+    "emt_id": "emt_place_id__808",
+    "place_type": null,
+    "lat": "49.55438",
+    "long": "11.359770",
+    "comments intern": "",
+    "gnd": "",
+    "alternative_name": "",
+    "wikidata_url": "",
+    "unidentifiziert": false
   }
 }
