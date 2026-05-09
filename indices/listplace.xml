@@ -2758,6 +2758,37 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                   </location>
                   <idno type="GEONAMES">https://sws.geonames.org/12123326/</idno>
                </place>
+               <place xml:id="emt_place_id__809">
+                  <placeName>Nürnberg</placeName>
+                  <location type="coords">
+                     <geo>49.45421 11.077520</geo>
+                  </location>
+                  <idno type="GEONAMES">https://sws.geonames.org/2861650/</idno>
+               </place>
+               <place xml:id="emt_place_id__810">
+                  <placeName>Werden, Abtei</placeName>
+                  <location type="coords">
+                     <geo>51.38809 7.004210</geo>
+                  </location>
+                  <idno type="GEONAMES">https://sws.geonames.org/12207113/</idno>
+               </place>
+               <place xml:id="emt_place_id__811">
+                  <placeName>Salvaterra de Magos</placeName>
+                  <location type="coords">
+                     <geo>39.02788 -8.793500</geo>
+                  </location>
+                  <idno type="GEONAMES">https://sws.geonames.org/2263596/</idno>
+               </place>
+               <place xml:id="emt_place_id__812">
+                  <placeName>Doganella</placeName>
+               </place>
+               <place xml:id="emt_place_id__813">
+                  <placeName>Erkelenz</placeName>
+                  <location type="coords">
+                     <geo>51.07947 6.315310</geo>
+                  </location>
+                  <idno type="GEONAMES">https://sws.geonames.org/2929622/</idno>
+               </place>
             </listPlace>
          </div>
       </body>

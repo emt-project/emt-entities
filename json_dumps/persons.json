@@ -37736,5 +37736,30 @@
     "funktionsbezeichnungen": "französischer Bevollmächtiger bei den Utrechter Friedensverhandlungen",
     "unidentifiziert": false,
     "titel": []
+  },
+  "1836": {
+    "id": 1836,
+    "order": "1385.00000000000000000000",
+    "name": "Ralshausen /Rolshausen, Herr (1713)",
+    "gnd": "",
+    "other_url": "",
+    "emt_id": "emt_person_id__1836",
+    "internal_comment": "wird von EMT an JW empfohlen, wahrscheinlich diese Familie:\nhttps://de.wikipedia.org/wiki/Rolshausen_(Adelsgeschlecht)\nevtl.Christoph Adolf von Rolshausen",
+    "color": "",
+    "lebensdaten": "",
+    "ndb": "",
+    "year_of_birth": null,
+    "year_of_death": null,
+    "wikidata_url": "",
+    "wikidata_enriched": false,
+    "img_name": "",
+    "img_fetched": false,
+    "img_source": "",
+    "birth_date_written": "",
+    "death_date_written": "",
+    "geschlecht": "",
+    "funktionsbezeichnungen": "",
+    "unidentifiziert": true,
+    "titel": []
   }
 }
