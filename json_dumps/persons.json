@@ -37761,5 +37761,30 @@
     "funktionsbezeichnungen": "",
     "unidentifiziert": true,
     "titel": []
+  },
+  "1837": {
+    "id": 1837,
+    "order": "1386.00000000000000000000",
+    "name": "Hofmarschall des Bischofs von Konstanz 1713",
+    "gnd": "",
+    "other_url": "",
+    "emt_id": "emt_person_id__1837",
+    "internal_comment": "",
+    "color": "",
+    "lebensdaten": "",
+    "ndb": "",
+    "year_of_birth": null,
+    "year_of_death": null,
+    "wikidata_url": "",
+    "wikidata_enriched": false,
+    "img_name": "",
+    "img_fetched": false,
+    "img_source": "",
+    "birth_date_written": "",
+    "death_date_written": "",
+    "geschlecht": "",
+    "funktionsbezeichnungen": "",
+    "unidentifiziert": true,
+    "titel": []
   }
 }

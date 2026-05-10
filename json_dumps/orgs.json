@@ -4,405 +4,471 @@
     "order": "1.00000000000000000000",
     "name": "Fränkischer Kreis",
     "gnd": "https://d-nb.info/gnd/4093094-4",
-    "emt_id": "emt_institution_id__1"
+    "emt_id": "emt_institution_id__1",
+    "intern": null
   },
   "2": {
     "id": 2,
     "order": "2.00000000000000000000",
     "name": "Domkapitel zu Köln",
     "gnd": "https://d-nb.info/gnd/4374567-2",
-    "emt_id": "emt_institution_id__2"
+    "emt_id": "emt_institution_id__2",
+    "intern": null
   },
   "3": {
     "id": 3,
     "order": "3.00000000000000000000",
     "name": "Kapuzinerorden (OFM Cap)",
     "gnd": "",
-    "emt_id": "emt_institution_id__3"
+    "emt_id": "emt_institution_id__3",
+    "intern": null
   },
   "4": {
     "id": 4,
     "order": "4.00000000000000000000",
     "name": "Ursulinen",
     "gnd": "",
-    "emt_id": "emt_institution_id__4"
+    "emt_id": "emt_institution_id__4",
+    "intern": null
   },
   "5": {
     "id": 5,
     "order": "5.00000000000000000000",
     "name": "Jesuiten",
     "gnd": "",
-    "emt_id": "emt_institution_id__5"
+    "emt_id": "emt_institution_id__5",
+    "intern": null
   },
   "6": {
     "id": 6,
     "order": "6.00000000000000000000",
     "name": "Geheime Kanzlei (Kaiser)",
     "gnd": "",
-    "emt_id": "emt_institution_id__6"
+    "emt_id": "emt_institution_id__6",
+    "intern": null
   },
   "7": {
     "id": 7,
     "order": "7.00000000000000000000",
     "name": "Reichskanzlei",
     "gnd": "",
-    "emt_id": "emt_institution_id__7"
+    "emt_id": "emt_institution_id__7",
+    "intern": null
   },
   "8": {
     "id": 8,
     "order": "8.00000000000000000000",
     "name": "Reichstag",
     "gnd": "",
-    "emt_id": "emt_institution_id__8"
+    "emt_id": "emt_institution_id__8",
+    "intern": null
   },
   "9": {
     "id": 9,
     "order": "9.00000000000000000000",
     "name": "Großpriorat der Johanniter in Kastilien und Leon",
     "gnd": "",
-    "emt_id": "emt_institution_id__9"
+    "emt_id": "emt_institution_id__9",
+    "intern": null
   },
   "10": {
     "id": 10,
     "order": "10.00000000000000000000",
     "name": "Reichshofrat",
     "gnd": "",
-    "emt_id": "emt_institution_id__10"
+    "emt_id": "emt_institution_id__10",
+    "intern": null
   },
   "11": {
     "id": 11,
     "order": "11.00000000000000000000",
     "name": "Johanniterorden",
     "gnd": "",
-    "emt_id": "emt_institution_id__11"
+    "emt_id": "emt_institution_id__11",
+    "intern": null
   },
   "12": {
     "id": 12,
     "order": "12.00000000000000000000",
     "name": "Landstände des Herzogtums Jülich",
     "gnd": "",
-    "emt_id": "emt_institution_id__12"
+    "emt_id": "emt_institution_id__12",
+    "intern": null
   },
   "13": {
     "id": 13,
     "order": "13.00000000000000000000",
     "name": "Karmelitinnen OCD",
     "gnd": "",
-    "emt_id": "emt_institution_id__13"
+    "emt_id": "emt_institution_id__13",
+    "intern": null
   },
   "14": {
     "id": 14,
     "order": "14.00000000000000000000",
     "name": "Karmeliter OCD",
     "gnd": "",
-    "emt_id": "emt_institution_id__14"
+    "emt_id": "emt_institution_id__14",
+    "intern": null
   },
   "15": {
     "id": 15,
     "order": "15.00000000000000000000",
     "name": "Landtag Ungarn",
     "gnd": "",
-    "emt_id": "emt_institution_id__15"
+    "emt_id": "emt_institution_id__15",
+    "intern": null
   },
   "16": {
     "id": 16,
     "order": "16.00000000000000000000",
     "name": "Oberamt Schlesien",
     "gnd": "",
-    "emt_id": "emt_institution_id__16"
+    "emt_id": "emt_institution_id__16",
+    "intern": null
   },
   "17": {
     "id": 17,
     "order": "17.00000000000000000000",
     "name": "Barmherzige Brüder",
     "gnd": "",
-    "emt_id": "emt_institution_id__17"
+    "emt_id": "emt_institution_id__17",
+    "intern": null
   },
   "18": {
     "id": 18,
     "order": "18.00000000000000000000",
     "name": "Domkapitel zu Breslau",
     "gnd": "",
-    "emt_id": "emt_institution_id__18"
+    "emt_id": "emt_institution_id__18",
+    "intern": null
   },
   "19": {
     "id": 19,
     "order": "19.00000000000000000000",
     "name": "Domkapitel zu Trient",
     "gnd": "",
-    "emt_id": "emt_institution_id__19"
+    "emt_id": "emt_institution_id__19",
+    "intern": null
   },
   "20": {
     "id": 20,
     "order": "20.00000000000000000000",
     "name": "Heiliger Stuhl",
     "gnd": "",
-    "emt_id": "emt_institution_id__20"
+    "emt_id": "emt_institution_id__20",
+    "intern": null
   },
   "21": {
     "id": 21,
     "order": "21.00000000000000000000",
     "name": "Klarissenkloster in Wien",
     "gnd": "",
-    "emt_id": "emt_institution_id__21"
+    "emt_id": "emt_institution_id__21",
+    "intern": null
   },
   "22": {
     "id": 22,
     "order": "22.00000000000000000000",
     "name": "Landtag Herzogtum Jülich",
     "gnd": "",
-    "emt_id": "emt_institution_id__22"
+    "emt_id": "emt_institution_id__22",
+    "intern": null
   },
   "23": {
     "id": 23,
     "order": "23.00000000000000000000",
     "name": "Königliches Lehensgericht in Prag",
     "gnd": "",
-    "emt_id": "emt_institution_id__23"
+    "emt_id": "emt_institution_id__23",
+    "intern": null
   },
   "24": {
     "id": 24,
     "order": "24.00000000000000000000",
     "name": "Franziskanerorden",
     "gnd": "",
-    "emt_id": "emt_institution_id__24"
+    "emt_id": "emt_institution_id__24",
+    "intern": null
   },
   "25": {
     "id": 25,
     "order": "25.00000000000000000000",
     "name": "Kurfürstenkollegium",
     "gnd": "",
-    "emt_id": "emt_institution_id__25"
+    "emt_id": "emt_institution_id__25",
+    "intern": null
   },
   "26": {
     "id": 26,
     "order": "26.00000000000000000000",
     "name": "Landtafel Böhmen",
     "gnd": "",
-    "emt_id": "emt_institution_id__26"
+    "emt_id": "emt_institution_id__26",
+    "intern": null
   },
   "27": {
     "id": 27,
     "order": "27.00000000000000000000",
     "name": "Landstände Ostfriesland",
     "gnd": "",
-    "emt_id": "emt_institution_id__27"
+    "emt_id": "emt_institution_id__27",
+    "intern": null
   },
   "28": {
     "id": 28,
     "order": "28.00000000000000000000",
     "name": "Landtag Herzogtum Neuburg",
     "gnd": "",
-    "emt_id": "emt_institution_id__28"
+    "emt_id": "emt_institution_id__28",
+    "intern": null
   },
   "29": {
     "id": 29,
     "order": "29.00000000000000000000",
     "name": "Ursulinen in Wien",
     "gnd": "",
-    "emt_id": "emt_institution_id__29"
+    "emt_id": "emt_institution_id__29",
+    "intern": null
   },
   "30": {
     "id": 30,
     "order": "30.00000000000000000000",
     "name": "Orden \"Sklavinnen der Tugend\"",
     "gnd": "",
-    "emt_id": "emt_institution_id__30"
+    "emt_id": "emt_institution_id__30",
+    "intern": null
   },
   "31": {
     "id": 31,
     "order": "31.00000000000000000000",
     "name": "Sternkreuzorden",
     "gnd": "",
-    "emt_id": "emt_institution_id__31"
+    "emt_id": "emt_institution_id__31",
+    "intern": null
   },
   "32": {
     "id": 32,
     "order": "32.00000000000000000000",
     "name": "Domkapitel zu Augsburg",
     "gnd": "",
-    "emt_id": "emt_institution_id__32"
+    "emt_id": "emt_institution_id__32",
+    "intern": null
   },
   "33": {
     "id": 33,
     "order": "33.00000000000000000000",
     "name": "Reichstag (Sejm) in Polen",
     "gnd": "",
-    "emt_id": "emt_institution_id__33"
+    "emt_id": "emt_institution_id__33",
+    "intern": null
   },
   "34": {
     "id": 34,
     "order": "34.00000000000000000000",
     "name": "Deutscher Orden",
     "gnd": "",
-    "emt_id": "emt_institution_id__34"
+    "emt_id": "emt_institution_id__34",
+    "intern": null
   },
   "35": {
     "id": 35,
     "order": "35.00000000000000000000",
     "name": "Eichstätt (Domkapitel)",
     "gnd": "",
-    "emt_id": "emt_institution_id__35"
+    "emt_id": "emt_institution_id__35",
+    "intern": null
   },
   "36": {
     "id": 36,
     "order": "36.00000000000000000000",
     "name": "Kaiserlicher Hofkriegsrat",
     "gnd": "",
-    "emt_id": "emt_institution_id__36"
+    "emt_id": "emt_institution_id__36",
+    "intern": null
   },
   "37": {
     "id": 37,
     "order": "37.00000000000000000000",
     "name": "Oberrheinischer Kreis",
     "gnd": "",
-    "emt_id": "emt_institution_id__37"
+    "emt_id": "emt_institution_id__37",
+    "intern": null
   },
   "38": {
     "id": 38,
     "order": "38.00000000000000000000",
     "name": "Trinitarierorden",
     "gnd": "https://d-nb.info/gnd/1015510-7",
-    "emt_id": "emt_institution_id__38"
+    "emt_id": "emt_institution_id__38",
+    "intern": null
   },
   "39": {
     "id": 39,
     "order": "39.00000000000000000000",
     "name": "Fürstentag in Schlesien",
     "gnd": "",
-    "emt_id": "emt_institution_id__39"
+    "emt_id": "emt_institution_id__39",
+    "intern": null
   },
   "40": {
     "id": 40,
     "order": "40.00000000000000000000",
     "name": "Kaiserliches Proviantamt",
     "gnd": "",
-    "emt_id": "emt_institution_id__40"
+    "emt_id": "emt_institution_id__40",
+    "intern": null
   },
   "73": {
     "id": 73,
     "order": "41.00000000000000000000",
     "name": "Kaiserliche Hofkammer",
     "gnd": "",
-    "emt_id": "emt_institution_id__73"
+    "emt_id": "emt_institution_id__73",
+    "intern": null
   },
   "74": {
     "id": 74,
     "order": "42.00000000000000000000",
     "name": "Westerwäldischer Kreis",
     "gnd": "",
-    "emt_id": "emt_institution_id__74"
+    "emt_id": "emt_institution_id__74",
+    "intern": null
   },
   "75": {
     "id": 75,
     "order": "43.00000000000000000000",
     "name": "Wetterauischer Kreis",
     "gnd": "",
-    "emt_id": "emt_institution_id__75"
+    "emt_id": "emt_institution_id__75",
+    "intern": null
   },
   "107": {
     "id": 107,
     "order": "44.00000000000000000000",
     "name": "Kurrheinischer Kreis",
     "gnd": "",
-    "emt_id": "emt_institution_id__107"
+    "emt_id": "emt_institution_id__107",
+    "intern": null
   },
   "108": {
     "id": 108,
     "order": "45.00000000000000000000",
     "name": "Zisterzienserinnenkloster in Burtscheid (heute Aachen)",
     "gnd": "",
-    "emt_id": "emt_institution_id__108"
+    "emt_id": "emt_institution_id__108",
+    "intern": null
   },
   "141": {
     "id": 141,
     "order": "46.00000000000000000000",
     "name": "Interimsregierung in Spanien",
     "gnd": "",
-    "emt_id": "emt_institution_id__141"
+    "emt_id": "emt_institution_id__141",
+    "intern": null
   },
   "142": {
     "id": 142,
     "order": "47.00000000000000000000",
     "name": "Englisches Parlament",
     "gnd": "",
-    "emt_id": "emt_institution_id__142"
+    "emt_id": "emt_institution_id__142",
+    "intern": null
   },
   "143": {
     "id": 143,
     "order": "48.00000000000000000000",
     "name": "Generalstaaten der Vereinigten Niederlande",
     "gnd": "",
-    "emt_id": "emt_institution_id__143"
+    "emt_id": "emt_institution_id__143",
+    "intern": null
   },
   "144": {
     "id": 144,
     "order": "49.00000000000000000000",
     "name": "Schwäbischer Kreis",
     "gnd": "",
-    "emt_id": "emt_institution_id__144"
+    "emt_id": "emt_institution_id__144",
+    "intern": null
   },
   "177": {
     "id": 177,
     "order": "50.00000000000000000000",
     "name": "Generalkriegskommissariat",
     "gnd": "",
-    "emt_id": "emt_institution_id__177"
+    "emt_id": "emt_institution_id__177",
+    "intern": null
   },
   "178": {
     "id": 178,
     "order": "51.00000000000000000000",
     "name": "Landstände, österreichische",
     "gnd": "",
-    "emt_id": "emt_institution_id__178"
+    "emt_id": "emt_institution_id__178",
+    "intern": null
   },
   "179": {
     "id": 179,
     "order": "52.00000000000000000000",
     "name": "Domkapitel zu Salzburg",
     "gnd": "",
-    "emt_id": "emt_institution_id__179"
+    "emt_id": "emt_institution_id__179",
+    "intern": null
   },
   "180": {
     "id": 180,
     "order": "53.00000000000000000000",
     "name": "Domkapitel zu Lüttich",
     "gnd": "",
-    "emt_id": "emt_institution_id__180"
+    "emt_id": "emt_institution_id__180",
+    "intern": null
   },
   "181": {
     "id": 181,
     "order": "54.00000000000000000000",
     "name": "",
     "gnd": "",
-    "emt_id": "emt_institution_id__181"
+    "emt_id": "emt_institution_id__181",
+    "intern": null
   },
   "182": {
     "id": 182,
     "order": "55.00000000000000000000",
     "name": "Magistrat von Köln",
     "gnd": "",
-    "emt_id": "emt_institution_id__182"
+    "emt_id": "emt_institution_id__182",
+    "intern": null
   },
   "183": {
     "id": 183,
     "order": "56.00000000000000000000",
     "name": "Domkapitel zu Münster",
     "gnd": "",
-    "emt_id": "emt_institution_id__183"
+    "emt_id": "emt_institution_id__183",
+    "intern": null
   },
   "185": {
     "id": 185,
     "order": "57.00000000000000000000",
     "name": "Böhmische Hofkanzlei",
     "gnd": "",
-    "emt_id": "emt_institution_id__185"
+    "emt_id": "emt_institution_id__185",
+    "intern": null
   },
   "218": {
     "id": 218,
     "order": "58.00000000000000000000",
     "name": "Römische Inquisition (Sacra Congregatio Romanae et universalis Inquisitionis)",
     "gnd": "",
-    "emt_id": "emt_institution_id__218"
+    "emt_id": "emt_institution_id__218",
+    "intern": null
+  },
+  "219": {
+    "id": 219,
+    "order": "59.00000000000000000000",
+    "name": "Banco di Giro Köln",
+    "gnd": "",
+    "emt_id": "emt_institution_id__219",
+    "intern": "https://kaiserin.hypotheses.org/2625"
   }
 }
