@@ -15690,6 +15690,53 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                <person xml:id="emt_person_id__1837">
                   <persName type="name">Hofmarschall des Bischofs von Konstanz 1713</persName>
                </person>
+               <person xml:id="emt_person_id__1870">
+                  <persName type="name">Kuefstein, Johann Ferdinand von</persName>
+                  <persName type="title">
+                     <roleName>Graf</roleName>
+                  </persName>
+                  <birth>
+                     <date notBefore="1686-01-01" notAfter="1686-12-31">1686</date>
+                  </birth>
+                  <idno type="GND">https://d-nb.info/gnd/136547664</idno>
+                  <idno type="NDB">https://www.deutsche-biographie.de/sfz46585.html#indexcontent</idno>
+                  <idno type="WIKIDATA">http://www.wikidata.org/entity/Q18021207</idno>
+                  <figure>
+                     <graphic url="emt_person_id__1870.jpg"/>
+                     <caption>Wappen der Grafen von Kuefstein 1654.png</caption>
+                  </figure>
+               </person>
+               <person xml:id="emt_person_id__1871">
+                  <persName type="name">Hettermann, Johann Heinrich von</persName>
+                  <persName type="function">
+                     <roleName>kurpfälzischer Gesandter in Den Haag 1703-1711</roleName>
+                  </persName>
+                  <idno type="URL">https://www.deutsche-digitale-bibliothek.de/item/XU5VO436NVCMF5LZGBPDTSKFLI6DBLP4</idno>
+               </person>
+               <person xml:id="emt_person_id__1872">
+                  <persName type="name"/>
+               </person>
+               <person xml:id="emt_person_id__1873">
+                  <persName type="name">Gonzaga di Guastalla, Vinzenzo</persName>
+                  <persName type="title">
+                     <roleName>Herzog</roleName>
+                  </persName>
+                  <persName type="function">
+                     <roleName>Herzog von Guastalla</roleName>
+                  </persName>
+                  <birth>
+                     <date notBefore="1634-01-01" notAfter="1634-12-31">1634</date>
+                  </birth>
+                  <death>
+                     <date notBefore="1714-01-01" notAfter="1714-12-31">1714</date>
+                  </death>
+                  <idno type="GND">https://d-nb.info/gnd/1329635663</idno>
+                  <idno type="WIKIDATA">http://www.wikidata.org/entity/Q972776</idno>
+                  <figure>
+                     <graphic url="emt_person_id__1873.jpg"/>
+                     <caption>Porträt des Herzog Vincenzo Gonzaga von Guastalla.png</caption>
+                  </figure>
+               </person>
             </listPerson>
          </div>
       </body>
