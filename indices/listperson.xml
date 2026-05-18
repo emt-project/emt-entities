@@ -15812,10 +15812,13 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                   </death>
                </person>
                <person xml:id="emt_person_id__1885">
-                  <persName type="name"/>
+                  <persName type="name">Neukirchen (wird 1709 empfohlen)</persName>
                </person>
                <person xml:id="emt_person_id__1886">
-                  <persName type="name"/>
+                  <persName type="name">Wendt von Hardenberg/Hartenburg</persName>
+                  <persName type="function">
+                     <roleName>Drost in Cronenburg</roleName>
+                  </persName>
                </person>
                <person xml:id="emt_person_id__1887">
                   <persName type="name">Schönborn,</persName>
