@@ -6763,5 +6763,20 @@
     "alternative_name": "",
     "wikidata_url": "",
     "unidentifiziert": false
+  },
+  "847": {
+    "id": 847,
+    "order": "458.00000000000000000000",
+    "name": "Luhe-Wildenau",
+    "geonames": "https://www.geonames.org/2875246/luhe-wildenau.html",
+    "emt_id": "emt_place_id__847",
+    "place_type": null,
+    "lat": "49.58367",
+    "long": "12.149210",
+    "comments intern": "",
+    "gnd": "",
+    "alternative_name": "",
+    "wikidata_url": "",
+    "unidentifiziert": false
   }
 }

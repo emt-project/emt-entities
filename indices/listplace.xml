@@ -2792,6 +2792,13 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                <place xml:id="emt_place_id__846">
                   <placeName>"Westindien", spanische Kolonien</placeName>
                </place>
+               <place xml:id="emt_place_id__847">
+                  <placeName>Luhe-Wildenau</placeName>
+                  <location type="coords">
+                     <geo>49.58367 12.149210</geo>
+                  </location>
+                  <idno type="GEONAMES">https://sws.geonames.org/2875246/</idno>
+               </place>
             </listPlace>
          </div>
       </body>

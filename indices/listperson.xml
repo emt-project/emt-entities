@@ -11627,7 +11627,7 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                   </figure>
                </person>
                <person xml:id="emt_person_id__1221">
-                  <persName type="name">Violett, schickt 1698 einen Kurier</persName>
+                  <persName type="name">Violett, schickt 1698 einen Kurier, 1709 Erbschaft</persName>
                </person>
                <person xml:id="emt_person_id__1222">
                   <persName type="name">Wiser, Heinrich Franz Xaver von</persName>
@@ -14895,7 +14895,7 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                      <roleName>Graf</roleName>
                   </persName>
                   <persName type="function">
-                     <roleName>pfälzischer Geheimer Rat, Statthalter in Jülich-Berg</roleName>
+                     <roleName>pfälzischer Hofkammerpräsident und Geheimer Rat, Statthalter in Jülich-Berg,</roleName>
                   </persName>
                   <death>
                      <date notBefore="1723-01-01" notAfter="1723-12-31">1723</date>
@@ -15714,7 +15714,18 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                   <idno type="URL">https://www.deutsche-digitale-bibliothek.de/item/XU5VO436NVCMF5LZGBPDTSKFLI6DBLP4</idno>
                </person>
                <person xml:id="emt_person_id__1872">
-                  <persName type="name"/>
+                  <persName type="name">Jörger von Tollet, Johann Franz Anton von</persName>
+                  <persName type="title">
+                     <roleName>Graf</roleName>
+                  </persName>
+                  <persName type="function">
+                     <roleName>kaiserlicher Offizier</roleName>
+                  </persName>
+                  <death>
+                     <date notBefore="1738-01-01" notAfter="1738-12-31">1738</date>
+                  </death>
+                  <idno type="GND">https://d-nb.info/gnd/136169155</idno>
+                  <idno type="WIKIDATA">http://www.wikidata.org/entity/Q42306612</idno>
                </person>
                <person xml:id="emt_person_id__1873">
                   <persName type="name">Gonzaga di Guastalla, Vinzenzo</persName>
@@ -15736,6 +15747,77 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                      <graphic url="emt_person_id__1873.jpg"/>
                      <caption>Porträt des Herzog Vincenzo Gonzaga von Guastalla.png</caption>
                   </figure>
+               </person>
+               <person xml:id="emt_person_id__1876">
+                  <persName type="name">"Muhmen" der Kaiserin, die 1709 aus Kleve nach Wien reisen</persName>
+               </person>
+               <person xml:id="emt_person_id__1877">
+                  <persName type="name">Steirstorf (reist 1709 nach Wien)</persName>
+               </person>
+               <person xml:id="emt_person_id__1878">
+                  <persName type="name">Ireno (1709 nicht mehr bei Karl Joseph von Lothringen)</persName>
+               </person>
+               <person xml:id="emt_person_id__1879">
+                  <persName type="name">Vota, Carlo Maurizio SJ</persName>
+                  <persName type="title">
+                     <roleName>Pater</roleName>
+                  </persName>
+                  <persName type="function">
+                     <roleName>Beichtvater</roleName>
+                  </persName>
+                  <birth>
+                     <date notBefore="1629-01-01" notAfter="1629-12-31">1629</date>
+                  </birth>
+                  <death>
+                     <date notBefore="1715-01-01" notAfter="1715-12-31">1715</date>
+                  </death>
+                  <idno type="GND">https://d-nb.info/gnd/13279523X</idno>
+               </person>
+               <person xml:id="emt_person_id__1880">
+                  <persName type="name">Blumendal (Blumenthal?) (Trompeter, 1709 empfohlen)</persName>
+               </person>
+               <person xml:id="emt_person_id__1881">
+                  <persName type="name">Dänemark, Anna Sophie von, verh. Kurfürstin von Sachsen</persName>
+                  <persName type="title">
+                     <roleName>Kurfürstin</roleName>
+                  </persName>
+                  <birth>
+                     <date notBefore="1647-01-01" notAfter="1647-12-31">1647</date>
+                  </birth>
+                  <death>
+                     <date notBefore="1717-01-01" notAfter="1717-12-31">1717</date>
+                  </death>
+                  <idno type="GND">https://d-nb.info/gnd/120064847</idno>
+               </person>
+               <person xml:id="emt_person_id__1882">
+                  <persName type="name">Eisenfels, von (stellt 1709 Anspruch auf Erbschaft des Violett)</persName>
+               </person>
+               <person xml:id="emt_person_id__1883">
+                  <persName type="name">Cossambrato, Vittorio Tarino di</persName>
+                  <persName type="title">
+                     <roleName>Conte</roleName>
+                  </persName>
+                  <persName type="function">
+                     <roleName>savoyischer Gesandter in Wien 1703-1709</roleName>
+                  </persName>
+               </person>
+               <person xml:id="emt_person_id__1884">
+                  <persName type="name">Freyberg, Christoph Benedikt</persName>
+                  <persName type="function">
+                     <roleName>Agent des Augsburger Domkapitels in Wien um 1709, Domherr in Augsburg</roleName>
+                  </persName>
+                  <death>
+                     <date notBefore="1717-01-01" notAfter="1717-12-31">1717</date>
+                  </death>
+               </person>
+               <person xml:id="emt_person_id__1885">
+                  <persName type="name"/>
+               </person>
+               <person xml:id="emt_person_id__1886">
+                  <persName type="name"/>
+               </person>
+               <person xml:id="emt_person_id__1887">
+                  <persName type="name">Schönborn,</persName>
                </person>
             </listPerson>
          </div>
