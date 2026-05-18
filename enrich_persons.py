@@ -24,8 +24,9 @@ for x in tqdm(items):
         wikidata_url = gnd_to_wikidata(x["gnd"])["wikidata"]
         update_object["wikidata_url"] = wikidata_url
         update_object["wikidata_enriched"] = True
-    except IndexError:
-        update_object["wikidata_enriched"] = True
+    except Exception as e:
+        print(f"failed to update {gnd_id} due to {e}")
+        continue
     r = requests.patch(
         update_url,
         headers={
