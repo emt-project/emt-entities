@@ -6778,5 +6778,20 @@
     "alternative_name": "",
     "wikidata_url": "",
     "unidentifiziert": false
+  },
+  "848": {
+    "id": 848,
+    "order": "459.00000000000000000000",
+    "name": "Mons",
+    "geonames": "https://www.geonames.org/2790869/mons.html",
+    "emt_id": "emt_place_id__848",
+    "place_type": null,
+    "lat": "50.45413",
+    "long": "3.952290",
+    "comments intern": "",
+    "gnd": "",
+    "alternative_name": "",
+    "wikidata_url": "",
+    "unidentifiziert": false
   }
 }

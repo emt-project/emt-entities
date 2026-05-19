@@ -7659,7 +7659,10 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                   <persName type="name">Maler, der bald (Januar 1687) von Wien nach Venedig reisen wird</persName>
                </person>
                <person xml:id="emt_person_id__683">
-                  <persName type="name">Schefferin, Madlen (1687, 1695, 1709 wohl Kammerdienerin der Kaiserin Eleonore Magdalena)</persName>
+                  <persName type="name">Schefferin/Schäfferin, Madlen/Magdalena (1687, 1695, 1709, wohl Kammerdienerin von Kaiserin Eleonore Magdalena) )</persName>
+                  <persName type="function">
+                     <roleName>Kammerdienerin</roleName>
+                  </persName>
                </person>
                <person xml:id="emt_person_id__684">
                   <persName type="name">Nikerlin, Frau, 1687 im Hofstaat EMT</persName>
@@ -15789,6 +15792,11 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                      <date notBefore="1717-01-01" notAfter="1717-12-31">1717</date>
                   </death>
                   <idno type="GND">https://d-nb.info/gnd/120064847</idno>
+                  <idno type="WIKIDATA">http://www.wikidata.org/entity/Q235828</idno>
+                  <figure>
+                     <graphic url="emt_person_id__1881.jpg"/>
+                     <caption>Danish School - Anna Sophie of Denmark - Royal Collection.jpg</caption>
+                  </figure>
                </person>
                <person xml:id="emt_person_id__1882">
                   <persName type="name">Eisenfels, von (stellt 1709 Anspruch auf Erbschaft des Violett)</persName>
@@ -15822,6 +15830,79 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                </person>
                <person xml:id="emt_person_id__1887">
                   <persName type="name">Schönborn,</persName>
+               </person>
+               <person xml:id="emt_person_id__1888">
+                  <persName type="name">Löwenstein-Wertheim-Rochefort, Maximilian Karl zu</persName>
+                  <birth>
+                     <date notBefore="1681-01-01" notAfter="1681-12-31">1681</date>
+                  </birth>
+                  <death>
+                     <date notBefore="1710-01-01" notAfter="1710-12-31">1710</date>
+                  </death>
+               </person>
+               <person xml:id="emt_person_id__1889">
+                  <persName type="name">Torresini, Francesco</persName>
+                  <persName type="function">
+                     <roleName>Gesandter des Herzogtums Guastalla 1707-1717</roleName>
+                  </persName>
+               </person>
+               <person xml:id="emt_person_id__1890">
+                  <persName type="name">NN, Arzt von Alexander Sigismund von Pfalz-Neuburg (1709)</persName>
+                  <persName type="function">
+                     <roleName>Arzt</roleName>
+                  </persName>
+               </person>
+               <person xml:id="emt_person_id__1891">
+                  <persName type="name">Albani, Annibale</persName>
+                  <persName type="function">
+                     <roleName>außerordentlicher Nuntius in Wien 1709-1711</roleName>
+                  </persName>
+                  <birth>
+                     <date notBefore="1682-01-01" notAfter="1682-12-31">1682</date>
+                  </birth>
+                  <death>
+                     <date notBefore="1751-01-01" notAfter="1751-12-31">1751</date>
+                  </death>
+                  <idno type="GND">https://d-nb.info/gnd/116275235</idno>
+               </person>
+               <person xml:id="emt_person_id__1892">
+                  <persName type="name">Imperiali, Giuseppe Renato</persName>
+                  <persName type="title">
+                     <roleName>Kardinal</roleName>
+                  </persName>
+                  <birth>
+                     <date notBefore="1651-01-01" notAfter="1651-12-31">1651</date>
+                  </birth>
+                  <death>
+                     <date notBefore="1737-01-01" notAfter="1737-12-31">1737</date>
+                  </death>
+                  <idno type="URL">https://www.treccani.it/enciclopedia/giuseppe-renato-imperiali_%28Dizionario-Biografico%29/</idno>
+               </person>
+               <person xml:id="emt_person_id__1893">
+                  <persName type="name">Francisco von Portugal</persName>
+                  <persName type="title">
+                     <roleName>Infante</roleName>
+                  </persName>
+                  <birth>
+                     <date notBefore="1691-01-01" notAfter="1691-12-31">1691</date>
+                  </birth>
+                  <death>
+                     <date notBefore="1742-01-01" notAfter="1742-12-31">1742</date>
+                  </death>
+                  <idno type="WIKIDATA">http://www.wikidata.org/entity/Q2094018</idno>
+                  <figure>
+                     <graphic url="emt_person_id__1893.jpg"/>
+                     <caption>Infante Francisco, Duque de Beja.JPG</caption>
+                  </figure>
+               </person>
+               <person xml:id="emt_person_id__1894">
+                  <persName type="name">NN, 1709 für die verwitwete spanische Königin Maria Anna von Pfalz-Neuburg in Wien?</persName>
+               </person>
+               <person xml:id="emt_person_id__1895">
+                  <persName type="name">Gonzaga-Nevers, Haus</persName>
+               </person>
+               <person xml:id="emt_person_id__1896">
+                  <persName type="name">Mascambruno (1710 empfohlen)</persName>
                </person>
             </listPerson>
          </div>

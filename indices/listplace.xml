@@ -2799,6 +2799,13 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                   </location>
                   <idno type="GEONAMES">https://sws.geonames.org/2875246/</idno>
                </place>
+               <place xml:id="emt_place_id__848">
+                  <placeName>Mons</placeName>
+                  <location type="coords">
+                     <geo>50.45413 3.952290</geo>
+                  </location>
+                  <idno type="GEONAMES">https://sws.geonames.org/2790869/</idno>
+               </place>
             </listPlace>
          </div>
       </body>
