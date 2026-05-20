@@ -15864,6 +15864,11 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                      <date notBefore="1751-01-01" notAfter="1751-12-31">1751</date>
                   </death>
                   <idno type="GND">https://d-nb.info/gnd/116275235</idno>
+                  <idno type="WIKIDATA">http://www.wikidata.org/entity/Q566836</idno>
+                  <figure>
+                     <graphic url="emt_person_id__1891.jpg"/>
+                     <caption>Annibale Albani.jpg</caption>
+                  </figure>
                </person>
                <person xml:id="emt_person_id__1892">
                   <persName type="name">Imperiali, Giuseppe Renato</persName>
