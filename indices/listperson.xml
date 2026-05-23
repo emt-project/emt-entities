@@ -656,7 +656,7 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                   </figure>
                </person>
                <person xml:id="emt_person_id__34">
-                  <persName type="name">Litizcki von Schönau, Leopold</persName>
+                  <persName type="name">Litizcki/Letitzki von Schönau, Leopold</persName>
                </person>
                <person xml:id="emt_person_id__35">
                   <persName type="name">Leopold I.</persName>
@@ -13619,7 +13619,7 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                   <persName type="name">Hannover, Haus</persName>
                </person>
                <person xml:id="emt_person_id__1570">
-                  <persName type="name">Franzin / Ferenz, Anna Catharina, geb. Ferk</persName>
+                  <persName type="name">Franzin / Ferenz / Frens, Anna Catharina, geb. Ferk / Verk</persName>
                   <persName type="function">
                      <roleName>Dienerin der Fräuleinhofmeisterin</roleName>
                   </persName>
@@ -15066,9 +15066,6 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                <person xml:id="emt_person_id__1742">
                   <persName type="name">Heimenberg (Diener, 1708 empfohlen)</persName>
                </person>
-               <person xml:id="emt_person_id__1743">
-                  <persName type="name">Letitzki (1708 empfohlen)</persName>
-               </person>
                <person xml:id="emt_person_id__1744">
                   <persName type="name">Steingens, Daniel (1708)</persName>
                   <persName type="function">
@@ -15908,6 +15905,18 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                </person>
                <person xml:id="emt_person_id__1896">
                   <persName type="name">Mascambruno (1710 empfohlen)</persName>
+               </person>
+               <person xml:id="emt_person_id__1929">
+                  <persName type="name">Dengellen (alter Diener, 1710 empfohlen)</persName>
+               </person>
+               <person xml:id="emt_person_id__1930">
+                  <persName type="name">NN (Maler, 1710 empfohlen)</persName>
+               </person>
+               <person xml:id="emt_person_id__1931">
+                  <persName type="name">NN (kaiserlicher Kommissar, 1710 in Oberpfalz verhaftet)</persName>
+               </person>
+               <person xml:id="emt_person_id__1932">
+                  <persName type="name">NN ("Bühl brüderchen, 1710)</persName>
                </person>
             </listPerson>
          </div>

@@ -2806,6 +2806,19 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                   </location>
                   <idno type="GEONAMES">https://sws.geonames.org/2790869/</idno>
                </place>
+               <place xml:id="emt_place_id__881">
+                  <placeName/>
+               </place>
+               <place xml:id="emt_place_id__882">
+                  <placeName>Port Mahón</placeName>
+                  <location type="coords">
+                     <geo>39.88811 4.263300</geo>
+                  </location>
+                  <idno type="GEONAMES">https://sws.geonames.org/6533953/</idno>
+               </place>
+               <place xml:id="emt_place_id__883">
+                  <placeName/>
+               </place>
             </listPlace>
          </div>
       </body>

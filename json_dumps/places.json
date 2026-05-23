@@ -6793,5 +6793,50 @@
     "alternative_name": "",
     "wikidata_url": "",
     "unidentifiziert": false
+  },
+  "881": {
+    "id": 881,
+    "order": "460.00000000000000000000",
+    "name": "",
+    "geonames": "",
+    "emt_id": "emt_place_id__881",
+    "place_type": null,
+    "lat": null,
+    "long": null,
+    "comments intern": "",
+    "gnd": "",
+    "alternative_name": "",
+    "wikidata_url": "",
+    "unidentifiziert": false
+  },
+  "882": {
+    "id": 882,
+    "order": "461.00000000000000000000",
+    "name": "Port Mahón",
+    "geonames": "https://www.geonames.org/6533953/mahon.html",
+    "emt_id": "emt_place_id__882",
+    "place_type": null,
+    "lat": "39.88811",
+    "long": "4.263300",
+    "comments intern": "",
+    "gnd": "",
+    "alternative_name": "",
+    "wikidata_url": "",
+    "unidentifiziert": false
+  },
+  "883": {
+    "id": 883,
+    "order": "462.00000000000000000000",
+    "name": "",
+    "geonames": "",
+    "emt_id": "emt_place_id__883",
+    "place_type": null,
+    "lat": null,
+    "long": null,
+    "comments intern": "",
+    "gnd": "",
+    "alternative_name": "",
+    "wikidata_url": "",
+    "unidentifiziert": false
   }
 }
