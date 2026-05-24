@@ -2819,6 +2819,13 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                <place xml:id="emt_place_id__883">
                   <placeName/>
                </place>
+               <place xml:id="emt_place_id__884">
+                  <placeName>Hannover, Stadt</placeName>
+                  <location type="coords">
+                     <geo>52.37052 9.733220</geo>
+                  </location>
+                  <idno type="GEONAMES">https://sws.geonames.org/2910831/</idno>
+               </place>
             </listPlace>
          </div>
       </body>

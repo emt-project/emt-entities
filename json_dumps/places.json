@@ -6838,5 +6838,20 @@
     "alternative_name": "",
     "wikidata_url": "",
     "unidentifiziert": false
+  },
+  "884": {
+    "id": 884,
+    "order": "463.00000000000000000000",
+    "name": "Hannover, Stadt",
+    "geonames": "https://www.geonames.org/2910831/hannover.html",
+    "emt_id": "emt_place_id__884",
+    "place_type": null,
+    "lat": "52.37052",
+    "long": "9.733220",
+    "comments intern": "",
+    "gnd": "",
+    "alternative_name": "",
+    "wikidata_url": "",
+    "unidentifiziert": false
   }
 }

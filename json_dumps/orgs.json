@@ -470,5 +470,13 @@
     "gnd": "",
     "emt_id": "emt_institution_id__219",
     "intern": "https://kaiserin.hypotheses.org/2625"
+  },
+  "220": {
+    "id": 220,
+    "order": "60.00000000000000000000",
+    "name": "Domkapitel zu Trier",
+    "gnd": "",
+    "emt_id": "emt_institution_id__220",
+    "intern": ""
   }
 }

@@ -15918,6 +15918,100 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                <person xml:id="emt_person_id__1932">
                   <persName type="name">NN ("Bühl brüderchen, 1710)</persName>
                </person>
+               <person xml:id="emt_person_id__1933">
+                  <persName type="name">Bayern, Karl Albrecht von</persName>
+                  <persName type="title">
+                     <roleName>Prinz</roleName>
+                  </persName>
+                  <birth>
+                     <date notBefore="1697-01-01" notAfter="1697-12-31">1697</date>
+                  </birth>
+                  <death>
+                     <date notBefore="1745-01-01" notAfter="1745-12-31">1745</date>
+                  </death>
+                  <idno type="GND">https://d-nb.info/gnd/118560115</idno>
+                  <idno type="NDB">https://www.deutsche-biographie.de/pnd118560115.html#indexcontent</idno>
+                  <idno type="WIKIDATA">http://www.wikidata.org/entity/Q76736</idno>
+                  <figure>
+                     <graphic url="emt_person_id__1933.jpg"/>
+                     <caption>Carl Albrecht VII by workshop of George Desmarees, Münchner Residenz.jpg</caption>
+                  </figure>
+               </person>
+               <person xml:id="emt_person_id__1934">
+                  <persName type="name">Bayern, Philipp Moritz Maria von</persName>
+                  <persName type="title">
+                     <roleName>Prinz</roleName>
+                  </persName>
+                  <birth>
+                     <date notBefore="1698-01-01" notAfter="1698-12-31">1698</date>
+                  </birth>
+                  <death>
+                     <date notBefore="1719-01-01" notAfter="1719-12-31">1719</date>
+                  </death>
+                  <idno type="GND">https://d-nb.info/gnd/172307333</idno>
+               </person>
+               <person xml:id="emt_person_id__1935">
+                  <persName type="name">Bayern, Maria Anna Karoline von</persName>
+                  <persName type="title">
+                     <roleName>Prinzessin</roleName>
+                  </persName>
+                  <birth>
+                     <date notBefore="1696-01-01" notAfter="1696-12-31">1696</date>
+                  </birth>
+                  <death>
+                     <date notBefore="1750-01-01" notAfter="1750-12-31">1750</date>
+                  </death>
+                  <idno type="GND">https://d-nb.info/gnd/106786007X</idno>
+                  <idno type="NDB">https://www.deutsche-biographie.de/pnd106786007X.html#indexcontent</idno>
+               </person>
+               <person xml:id="emt_person_id__1936">
+                  <persName type="name">Bayern, Ferdinand Maria Innozenz von</persName>
+                  <persName type="title">
+                     <roleName>Prinz</roleName>
+                  </persName>
+                  <birth>
+                     <date notBefore="1699-01-01" notAfter="1699-12-31">1699</date>
+                  </birth>
+                  <death>
+                     <date notBefore="1738-01-01" notAfter="1738-12-31">1738</date>
+                  </death>
+                  <idno type="GND">https://d-nb.info/gnd/136926738</idno>
+                  <idno type="NDB">https://www.deutsche-biographie.de/pnd136926738.html#indexcontent</idno>
+               </person>
+               <person xml:id="emt_person_id__1937">
+                  <persName type="name">Bayern, Clemens August von</persName>
+                  <persName type="title">
+                     <roleName>Prinz</roleName>
+                  </persName>
+                  <birth>
+                     <date notBefore="1700-01-01" notAfter="1700-12-31">1700</date>
+                  </birth>
+                  <death>
+                     <date notBefore="1761-01-01" notAfter="1761-12-31">1761</date>
+                  </death>
+                  <idno type="GND">https://d-nb.info/gnd/118634224</idno>
+                  <idno type="NDB">https://www.deutsche-biographie.de/pnd118634224.html#indexcontent</idno>
+               </person>
+               <person xml:id="emt_person_id__1938">
+                  <persName type="name">Bayern, Johann Theodor von</persName>
+                  <persName type="title">
+                     <roleName>Prinz</roleName>
+                  </persName>
+                  <birth>
+                     <date notBefore="1703-01-01" notAfter="1703-12-31">1703</date>
+                  </birth>
+                  <death>
+                     <date notBefore="1763-01-01" notAfter="1763-12-31">1763</date>
+                  </death>
+                  <idno type="GND">https://d-nb.info/gnd/119504979</idno>
+                  <idno type="NDB">https://www.deutsche-biographie.de/pnd119504979.html#indexcontent</idno>
+               </person>
+               <person xml:id="emt_person_id__1939">
+                  <persName type="name">Löwenstein (1710, Zusammenhang mit Kurmainz?)</persName>
+               </person>
+               <person xml:id="emt_person_id__1940">
+                  <persName type="name">Clarstein (soll 1710 nicht entlassen werden)</persName>
+               </person>
             </listPerson>
          </div>
       </body>
