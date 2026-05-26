@@ -7034,12 +7034,9 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                   </figure>
                </person>
                <person xml:id="emt_person_id__619">
-                  <persName type="name">Aya der kaiserlichen Kinder 1693</persName>
-                  <persName type="function">
-                     <roleName>Aya der kaiserlichen Kinder</roleName>
-                  </persName>
+                  <persName type="name">NN (Aya, 1710 gestorben)</persName>
                   <death>
-                     <date notBefore="1693-01-01" notAfter="1693-12-31">1693</date>
+                     <date notBefore="1710-01-01" notAfter="1710-12-31">1710</date>
                   </death>
                </person>
                <person xml:id="emt_person_id__620">
@@ -8512,7 +8509,7 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                      <roleName>Fürst</roleName>
                   </persName>
                   <persName type="function">
-                     <roleName>Obersthofmeister Kaiser Leopolds I., kaiserlicher Botschafter beim Heiligen Stuhl</roleName>
+                     <roleName>Ajo und Obersthofmeister Kaiser Karls VI., kaiserlicher Botschafter beim Heiligen Stuhl</roleName>
                   </persName>
                   <birth>
                      <date notBefore="1656-01-01" notAfter="1656-12-31">1656</date>
@@ -14498,9 +14495,6 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                <person xml:id="emt_person_id__1698">
                   <persName type="name">Provinzial der Karmeliten (Österreichische Provinz)</persName>
                </person>
-               <person xml:id="emt_person_id__1699">
-                  <persName type="name">"die Fürst Antonin" (1706 in Wien)</persName>
-               </person>
                <person xml:id="emt_person_id__1700">
                   <persName type="name">Karl XII. von Schweden</persName>
                   <persName type="title">
@@ -15913,7 +15907,7 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                   <persName type="name">NN (Maler, 1710 empfohlen)</persName>
                </person>
                <person xml:id="emt_person_id__1931">
-                  <persName type="name">NN (kaiserlicher Kommissar, 1710 in Oberpfalz verhaftet)</persName>
+                  <persName type="name">NN (kaiserlicher Kommissar, 1710 in der Oberpfalz verhaftet)</persName>
                </person>
                <person xml:id="emt_person_id__1932">
                   <persName type="name">NN ("Bühl brüderchen, 1710)</persName>
@@ -16011,6 +16005,87 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                </person>
                <person xml:id="emt_person_id__1940">
                   <persName type="name">Clarstein (soll 1710 nicht entlassen werden)</persName>
+               </person>
+               <person xml:id="emt_person_id__1941">
+                  <persName type="name">Borromeo, Carlo IV. von</persName>
+                  <persName type="title">
+                     <roleName>Graf</roleName>
+                  </persName>
+                  <persName type="function">
+                     <roleName>Vizekönig von Neapel 1710</roleName>
+                  </persName>
+                  <birth>
+                     <date notBefore="1657-01-01" notAfter="1657-12-31">1657</date>
+                  </birth>
+                  <death>
+                     <date notBefore="1734-01-01" notAfter="1734-12-31">1734</date>
+                  </death>
+                  <idno type="GND">https://d-nb.info/gnd/136572006</idno>
+               </person>
+               <person xml:id="emt_person_id__1942">
+                  <persName type="name">NN (hat sich gegen Kaiser Leopold I. und das Haus Österreich schlecht betragen)</persName>
+               </person>
+               <person xml:id="emt_person_id__1943">
+                  <persName type="name">Niz, Graf von (1710, vormaliger kurbayerischer Assessor in Wetzlar)</persName>
+               </person>
+               <person xml:id="emt_person_id__1944">
+                  <persName type="name">Baldini, Giovanni Antonio</persName>
+                  <persName type="title">
+                     <roleName>Conte</roleName>
+                  </persName>
+                  <persName type="title">
+                     <roleName>Abbate</roleName>
+                  </persName>
+                  <persName type="function">
+                     <roleName>Resident des Herzogtums Parma in Spanien bis 1710</roleName>
+                  </persName>
+                  <birth>
+                     <date notBefore="1654-01-01" notAfter="1654-12-31">1654</date>
+                  </birth>
+                  <death>
+                     <date notBefore="1725-01-01" notAfter="1725-12-31">1725</date>
+                  </death>
+               </person>
+               <person xml:id="emt_person_id__1945">
+                  <persName type="name">NN (1711 Obersthofmeister der verwitweten Königin von Spanien)</persName>
+               </person>
+               <person xml:id="emt_person_id__1946">
+                  <persName type="name">Torsi (1710 Erwähnung seiner Tochter)</persName>
+               </person>
+               <person xml:id="emt_person_id__1947">
+                  <persName type="name">Tochter des Torsi (1710 erwähnt)</persName>
+               </person>
+               <person xml:id="emt_person_id__1948">
+                  <persName type="name">NN (1710 empfohlen, Kammertrabant)</persName>
+               </person>
+               <person xml:id="emt_person_id__1949">
+                  <persName type="name">Hatzfeld (reist 1711 von Wien nach Düsseldorf)</persName>
+               </person>
+               <person xml:id="emt_person_id__1950">
+                  <persName type="name">Peterbrouk (1710 in Wien, macht Projekte)</persName>
+               </person>
+               <person xml:id="emt_person_id__1951">
+                  <persName type="name">Bussi, Giovanni Battista</persName>
+                  <persName type="function">
+                     <roleName>Bischof von Ancona</roleName>
+                  </persName>
+                  <birth>
+                     <date notBefore="1656-01-01" notAfter="1656-12-31">1656</date>
+                  </birth>
+                  <death>
+                     <date notBefore="1726-01-01" notAfter="1726-12-31">1726</date>
+                  </death>
+                  <idno type="GND">https://d-nb.info/gnd/1017995370</idno>
+                  <idno type="NDB">https://www.deutsche-biographie.de/pnd1017995370.html</idno>
+               </person>
+               <person xml:id="emt_person_id__1952">
+                  <persName type="name"/>
+               </person>
+               <person xml:id="emt_person_id__1953">
+                  <persName type="name">Lebensdaten</persName>
+               </person>
+               <person xml:id="emt_person_id__1954">
+                  <persName type="name">1656 – 1726-12-23</persName>
                </person>
             </listPerson>
          </div>

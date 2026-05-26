@@ -2826,6 +2826,23 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                   </location>
                   <idno type="GEONAMES">https://sws.geonames.org/2910831/</idno>
                </place>
+               <place xml:id="emt_place_id__885">
+                  <placeName>Kastilien</placeName>
+               </place>
+               <place xml:id="emt_place_id__886">
+                  <placeName>Burgos</placeName>
+                  <location type="coords">
+                     <geo>42.34106 -3.701840</geo>
+                  </location>
+                  <idno type="GEONAMES">https://sws.geonames.org/3127461/</idno>
+               </place>
+               <place xml:id="emt_place_id__887">
+                  <placeName>Wetzlar</placeName>
+                  <location type="coords">
+                     <geo>50.56109 8.504950</geo>
+                  </location>
+                  <idno type="GEONAMES">https://sws.geonames.org/2809889/</idno>
+               </place>
             </listPlace>
          </div>
       </body>

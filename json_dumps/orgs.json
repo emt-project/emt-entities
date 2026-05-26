@@ -478,5 +478,13 @@
     "gnd": "",
     "emt_id": "emt_institution_id__220",
     "intern": ""
+  },
+  "221": {
+    "id": 221,
+    "order": "61.00000000000000000000",
+    "name": "Landstände, bayerische",
+    "gnd": "",
+    "emt_id": "emt_institution_id__221",
+    "intern": ""
   }
 }

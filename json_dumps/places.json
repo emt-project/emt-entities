@@ -6853,5 +6853,50 @@
     "alternative_name": "",
     "wikidata_url": "",
     "unidentifiziert": false
+  },
+  "885": {
+    "id": 885,
+    "order": "464.00000000000000000000",
+    "name": "Kastilien",
+    "geonames": "",
+    "emt_id": "emt_place_id__885",
+    "place_type": null,
+    "lat": null,
+    "long": null,
+    "comments intern": "",
+    "gnd": "",
+    "alternative_name": "",
+    "wikidata_url": "",
+    "unidentifiziert": false
+  },
+  "886": {
+    "id": 886,
+    "order": "465.00000000000000000000",
+    "name": "Burgos",
+    "geonames": "https://www.geonames.org/3127461/burgos.html",
+    "emt_id": "emt_place_id__886",
+    "place_type": null,
+    "lat": "42.34106",
+    "long": "-3.701840",
+    "comments intern": "",
+    "gnd": "",
+    "alternative_name": "",
+    "wikidata_url": "",
+    "unidentifiziert": false
+  },
+  "887": {
+    "id": 887,
+    "order": "466.00000000000000000000",
+    "name": "Wetzlar",
+    "geonames": "https://www.geonames.org/2809889/wetzlar.html",
+    "emt_id": "emt_place_id__887",
+    "place_type": null,
+    "lat": "50.56109",
+    "long": "8.504950",
+    "comments intern": "",
+    "gnd": "",
+    "alternative_name": "",
+    "wikidata_url": "",
+    "unidentifiziert": false
   }
 }
