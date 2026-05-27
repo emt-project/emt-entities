@@ -12073,7 +12073,7 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                      <roleName>Graf</roleName>
                   </persName>
                   <persName type="function">
-                     <roleName>Reichshofrat, kaiserlicher Diplomat und Kämmerer</roleName>
+                     <roleName>Reichshofrat, kaiserlicher Diplomat und Kämmerer, Administrator des Herzogtums Bayern</roleName>
                   </persName>
                   <birth>
                      <date notBefore="1656-01-01" notAfter="1656-12-31">1656</date>
@@ -12081,6 +12081,13 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                   <death>
                      <date notBefore="1718-01-01" notAfter="1718-12-31">1718</date>
                   </death>
+                  <idno type="GND">https://d-nb.info/gnd/120532611</idno>
+                  <idno type="NDB">https://www.deutsche-biographie.de/pnd120532611.html#indexcontent</idno>
+                  <idno type="WIKIDATA">http://www.wikidata.org/entity/Q1913999</idno>
+                  <figure>
+                     <graphic url="emt_person_id__1257.jpg"/>
+                     <caption>Löwenstein Maximilian 2a.jpg</caption>
+                  </figure>
                </person>
                <person xml:id="emt_person_id__1258">
                   <persName type="name">Kett/Rett (empfohlen 1700)</persName>
@@ -16000,9 +16007,6 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                   <idno type="GND">https://d-nb.info/gnd/119504979</idno>
                   <idno type="NDB">https://www.deutsche-biographie.de/pnd119504979.html#indexcontent</idno>
                </person>
-               <person xml:id="emt_person_id__1939">
-                  <persName type="name">Löwenstein (1710, Zusammenhang mit Kurmainz?)</persName>
-               </person>
                <person xml:id="emt_person_id__1940">
                   <persName type="name">Clarstein (soll 1710 nicht entlassen werden)</persName>
                </person>
@@ -16079,13 +16083,37 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                   <idno type="NDB">https://www.deutsche-biographie.de/pnd1017995370.html</idno>
                </person>
                <person xml:id="emt_person_id__1952">
-                  <persName type="name"/>
+                  <persName type="name">Heinsius, Anthonie</persName>
+                  <persName type="function">
+                     <roleName>Ratspensionär der Republik Holland</roleName>
+                  </persName>
+                  <birth>
+                     <date notBefore="1641-01-01" notAfter="1641-12-31">1641</date>
+                  </birth>
+                  <death>
+                     <date notBefore="1720-01-01" notAfter="1720-12-31">1720</date>
+                  </death>
+                  <idno type="GND">https://d-nb.info/gnd/119018071</idno>
                </person>
                <person xml:id="emt_person_id__1953">
-                  <persName type="name">Lebensdaten</persName>
+                  <persName type="name"/>
                </person>
                <person xml:id="emt_person_id__1954">
                   <persName type="name">1656 – 1726-12-23</persName>
+               </person>
+               <person xml:id="emt_person_id__1955">
+                  <persName type="name">Hamel Bruynincx, Jakob Jan</persName>
+                  <persName type="function">
+                     <roleName>Gesandter der Generalstaaten in Wien</roleName>
+                  </persName>
+                  <birth>
+                     <date notBefore="1661-01-01" notAfter="1661-12-31">1661</date>
+                  </birth>
+                  <death>
+                     <date notBefore="1738-01-01" notAfter="1738-12-31">1738</date>
+                  </death>
+                  <idno type="GND">https://explore.gnd.network/gnd/1056093277</idno>
+                  <idno type="URL">http://www.biografischportaal.nl/persoon/44447240</idno>
                </person>
             </listPerson>
          </div>
