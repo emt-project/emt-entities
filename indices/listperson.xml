@@ -15950,6 +15950,11 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                      <date notBefore="1719-01-01" notAfter="1719-12-31">1719</date>
                   </death>
                   <idno type="GND">https://d-nb.info/gnd/172307333</idno>
+                  <idno type="WIKIDATA">http://www.wikidata.org/entity/Q1533315</idno>
+                  <figure>
+                     <graphic url="emt_person_id__1934.jpg"/>
+                     <caption>Prinz+Philipp+Moritz.jpg</caption>
+                  </figure>
                </person>
                <person xml:id="emt_person_id__1935">
                   <persName type="name">Bayern, Maria Anna Karoline von</persName>
