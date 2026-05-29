@@ -1329,7 +1329,7 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                   </figure>
                </person>
                <person xml:id="emt_person_id__83">
-                  <persName type="name">Goess, Johann von</persName>
+                  <persName type="name">Goëss, Johann von</persName>
                   <persName type="function">
                      <roleName>Bischof von Gurk, Kardinal</roleName>
                   </persName>
@@ -9281,7 +9281,7 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                   <idno type="URL">https://www.treccani.it/enciclopedia/ranuccio-ii-farnese-duca-di-parma-e-piacenza_%28Dizionario-Biografico%29/</idno>
                </person>
                <person xml:id="emt_person_id__822">
-                  <persName type="name">Goess, Johann Peter von</persName>
+                  <persName type="name">Goëss, Johann Peter von</persName>
                   <persName type="function">
                      <roleName>Reichshofrat</roleName>
                   </persName>
@@ -13713,7 +13713,7 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                      <roleName>Graf</roleName>
                   </persName>
                   <persName type="function">
-                     <roleName>Reichshofrat, Diplomat</roleName>
+                     <roleName>Reichshofrat, Diplomat, auch Obersthofmarschall des Fürstbistums Osnabrück, bevollmächtigter Minister im Fürstbistum Lüttich</roleName>
                   </persName>
                   <birth>
                      <date notBefore="1654-01-01" notAfter="1654-12-31">1654</date>
@@ -15827,7 +15827,7 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                   </persName>
                </person>
                <person xml:id="emt_person_id__1887">
-                  <persName type="name">Schönborn,</persName>
+                  <persName type="name">Schönborn</persName>
                </person>
                <person xml:id="emt_person_id__1888">
                   <persName type="name">Löwenstein-Wertheim-Rochefort, Maximilian Karl zu</persName>
@@ -15969,6 +15969,11 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                   </death>
                   <idno type="GND">https://d-nb.info/gnd/106786007X</idno>
                   <idno type="NDB">https://www.deutsche-biographie.de/pnd106786007X.html#indexcontent</idno>
+                  <idno type="WIKIDATA">http://www.wikidata.org/entity/Q1895648</idno>
+                  <figure>
+                     <graphic url="emt_person_id__1935.jpg"/>
+                     <caption>Joseph Vivien - Portrait Marianna-Carolina von Bayern.jpg</caption>
+                  </figure>
                </person>
                <person xml:id="emt_person_id__1936">
                   <persName type="name">Bayern, Ferdinand Maria Innozenz von</persName>
@@ -16101,7 +16106,18 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                   <idno type="GND">https://d-nb.info/gnd/119018071</idno>
                </person>
                <person xml:id="emt_person_id__1953">
-                  <persName type="name"/>
+                  <persName type="name">van Weede Dijkvelt, Everhard</persName>
+                  <persName type="function">
+                     <roleName>Diplomat</roleName>
+                  </persName>
+                  <birth>
+                     <date notBefore="1626-01-01" notAfter="1626-12-31">1626</date>
+                  </birth>
+                  <death>
+                     <date notBefore="1702-01-01" notAfter="1702-12-31">1702</date>
+                  </death>
+                  <idno type="GND">https://d-nb.info/gnd/119178427</idno>
+                  <idno type="NDB">https://www.deutsche-biographie.de/119178427.html?language=en</idno>
                </person>
                <person xml:id="emt_person_id__1954">
                   <persName type="name">1656 – 1726-12-23</persName>
@@ -16119,6 +16135,121 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                   </death>
                   <idno type="GND">https://explore.gnd.network/gnd/1056093277</idno>
                   <idno type="URL">http://www.biografischportaal.nl/persoon/44447240</idno>
+               </person>
+               <person xml:id="emt_person_id__1988">
+                  <persName type="name">von der Leyen zu Saffig</persName>
+                  <persName type="function">
+                     <roleName>kurtrierischer Obermarschall</roleName>
+                  </persName>
+                  <idno type="NDB">https://www.deutsche-biographie.de/gnd1073135977.html?language=de#ndbcontent</idno>
+               </person>
+               <person xml:id="emt_person_id__1989">
+                  <persName type="name">Dickfeldt</persName>
+               </person>
+               <person xml:id="emt_person_id__2022">
+                  <persName type="name">Callières, François de, sieur de Rochelay et de Gigny</persName>
+                  <persName type="function">
+                     <roleName>Diplomat</roleName>
+                  </persName>
+                  <birth>
+                     <date notBefore="1645-01-01" notAfter="1645-12-31">1645</date>
+                  </birth>
+                  <death>
+                     <date notBefore="1717-01-01" notAfter="1717-12-31">1717</date>
+                  </death>
+                  <idno type="GND">https://d-nb.info/gnd/119419424</idno>
+               </person>
+               <person xml:id="emt_person_id__2023">
+                  <persName type="name">Stainville, Charles-François, comte de Couvonges</persName>
+                  <persName type="title">
+                     <roleName>Comte</roleName>
+                  </persName>
+                  <persName type="function">
+                     <roleName>Diplomat</roleName>
+                  </persName>
+                  <birth>
+                     <date notBefore="1637-01-01" notAfter="1637-12-31">1637</date>
+                  </birth>
+                  <death>
+                     <date notBefore="1706-01-01" notAfter="1706-12-31">1706</date>
+                  </death>
+                  <idno type="GND">https://d-nb.info/gnd/1287320988</idno>
+               </person>
+               <person xml:id="emt_person_id__2024">
+                  <persName type="name">Harrach, Alois Thomas Raimund von</persName>
+                  <persName type="title">
+                     <roleName>Graf</roleName>
+                  </persName>
+                  <persName type="function">
+                     <roleName>Diplomat</roleName>
+                  </persName>
+                  <birth>
+                     <date notBefore="1669-01-01" notAfter="1669-12-31">1669</date>
+                  </birth>
+                  <death>
+                     <date notBefore="1742-01-01" notAfter="1742-12-31">1742</date>
+                  </death>
+                  <idno type="GND">https://d-nb.info/gnd/132626748</idno>
+                  <idno type="NDB">https://www.deutsche-biographie.de/pnd132626748.html#indexcontent</idno>
+               </person>
+               <person xml:id="emt_person_id__2025">
+                  <persName type="name">Whitworth, Charles</persName>
+                  <persName type="title">
+                     <roleName>Baron</roleName>
+                  </persName>
+                  <persName type="function">
+                     <roleName>Diplomat</roleName>
+                  </persName>
+                  <birth>
+                     <date notBefore="1675-01-01" notAfter="1675-12-31">1675</date>
+                  </birth>
+                  <death>
+                     <date notBefore="1725-01-01" notAfter="1725-12-31">1725</date>
+                  </death>
+                  <idno type="GND">https://d-nb.info/gnd/121887103</idno>
+                  <idno type="NDB">https://www.deutsche-biographie.de/121887103.html</idno>
+               </person>
+               <person xml:id="emt_person_id__2026">
+                  <persName type="name">Peter I. von Russland</persName>
+                  <persName type="title">
+                     <roleName>Zar</roleName>
+                  </persName>
+                  <birth>
+                     <date notBefore="1672-01-01" notAfter="1672-12-31">1672</date>
+                  </birth>
+                  <death>
+                     <date notBefore="1725-01-01" notAfter="1725-12-31">1725</date>
+                  </death>
+                  <idno type="GND">https://d-nb.info/gnd/118592955</idno>
+                  <idno type="NDB">https://www.deutsche-biographie.de/pnd118592955.html#indexcontent</idno>
+               </person>
+               <person xml:id="emt_person_id__2027">
+                  <persName type="name">Corradi (bringt 1711 einen Brief nach Wien)</persName>
+               </person>
+               <person xml:id="emt_person_id__2028">
+                  <persName type="name">Mean, Emile-Laurant</persName>
+                  <persName type="function">
+                     <roleName>Domherr in Lüttich</roleName>
+                  </persName>
+                  <death>
+                     <date notBefore="1715-01-01" notAfter="1715-12-31">1715</date>
+                  </death>
+               </person>
+               <person xml:id="emt_person_id__2029">
+                  <persName type="name">Mean, Familie</persName>
+               </person>
+               <person xml:id="emt_person_id__2030">
+                  <persName type="name">Schmied / Scheiz / Schmitsens, Lodovico / Ludwig / Louis von</persName>
+                  <persName type="function">
+                     <roleName>Hofzwerg</roleName>
+                  </persName>
+                  <death>
+                     <date notBefore="1726-01-01" notAfter="1726-12-31">1726</date>
+                  </death>
+                  <idno type="URL">https://viecpro.acdh.oeaw.ac.at/persons/68491</idno>
+               </person>
+               <person xml:id="emt_person_id__2031">
+                  <persName type="name">Cünsbrukh (1711 in Vorbereitungen zur Kaiserwahl involviert)</persName>
                </person>
             </listPerson>
          </div>

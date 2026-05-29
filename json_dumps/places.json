@@ -6898,5 +6898,20 @@
     "alternative_name": "",
     "wikidata_url": "",
     "unidentifiziert": false
+  },
+  "920": {
+    "id": 920,
+    "order": "467.00000000000000000000",
+    "name": "(Groß-)Glogau / Głogów",
+    "geonames": "https://www.geonames.org/3099213/glogow.html",
+    "emt_id": "emt_place_id__920",
+    "place_type": null,
+    "lat": "51.66361",
+    "long": "16.084500",
+    "comments intern": "",
+    "gnd": "",
+    "alternative_name": "",
+    "wikidata_url": "",
+    "unidentifiziert": false
   }
 }
