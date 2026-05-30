@@ -15988,6 +15988,11 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                   </death>
                   <idno type="GND">https://d-nb.info/gnd/136926738</idno>
                   <idno type="NDB">https://www.deutsche-biographie.de/pnd136926738.html#indexcontent</idno>
+                  <idno type="WIKIDATA">http://www.wikidata.org/entity/Q95815</idno>
+                  <figure>
+                     <graphic url="emt_person_id__1936.jpg"/>
+                     <caption>Ferdinand Maria Innozenz von Bayern (1699-1738) by Joseph Vivien, Munich, 1723-1724 AD, oil on canvas - Hessisches Landesmuseum Darmstadt - Darmstadt, Germany - DSC00629.jpg</caption>
+                  </figure>
                </person>
                <person xml:id="emt_person_id__1937">
                   <persName type="name">Bayern, Clemens August von</persName>
@@ -16250,6 +16255,12 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                </person>
                <person xml:id="emt_person_id__2031">
                   <persName type="name">Cünsbrukh (1711 in Vorbereitungen zur Kaiserwahl involviert)</persName>
+               </person>
+               <person xml:id="emt_person_id__2032">
+                  <persName type="name">Monsignore Ronfrano (überbringt 1711 Schreiben)</persName>
+               </person>
+               <person xml:id="emt_person_id__2033">
+                  <persName type="name">NN (Maler, hat sich 1711 im Rückblick nicht bewährt)</persName>
                </person>
             </listPerson>
          </div>

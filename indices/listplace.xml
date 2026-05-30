@@ -2850,6 +2850,17 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                   </location>
                   <idno type="GEONAMES">https://sws.geonames.org/3099213/</idno>
                </place>
+               <place xml:id="emt_place_id__921">
+                  <placeName>Triesch / Třešť</placeName>
+                  <location type="coords">
+                     <geo>49.29092 15.482110</geo>
+                  </location>
+                  <idno type="GEONAMES">https://sws.geonames.org/3064029/</idno>
+               </place>
+               <place xml:id="emt_place_id__922">
+                  <placeName>Pommern</placeName>
+                  <idno type="GEONAMES">https://sws.geonames.org/3088388/</idno>
+               </place>
             </listPlace>
          </div>
       </body>

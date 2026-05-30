@@ -6913,5 +6913,35 @@
     "alternative_name": "",
     "wikidata_url": "",
     "unidentifiziert": false
+  },
+  "921": {
+    "id": 921,
+    "order": "468.00000000000000000000",
+    "name": "Triesch / Třešť",
+    "geonames": "https://www.geonames.org/3064029/trest.html",
+    "emt_id": "emt_place_id__921",
+    "place_type": null,
+    "lat": "49.29092",
+    "long": "15.482110",
+    "comments intern": "",
+    "gnd": "",
+    "alternative_name": "",
+    "wikidata_url": "",
+    "unidentifiziert": false
+  },
+  "922": {
+    "id": 922,
+    "order": "469.00000000000000000000",
+    "name": "Pommern",
+    "geonames": "https://www.geonames.org/3088388/pomerania.html",
+    "emt_id": "emt_place_id__922",
+    "place_type": null,
+    "lat": null,
+    "long": null,
+    "comments intern": "",
+    "gnd": "",
+    "alternative_name": "",
+    "wikidata_url": "",
+    "unidentifiziert": false
   }
 }
