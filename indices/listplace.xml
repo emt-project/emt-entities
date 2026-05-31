@@ -2861,6 +2861,20 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                   <placeName>Pommern</placeName>
                   <idno type="GEONAMES">https://sws.geonames.org/3088388/</idno>
                </place>
+               <place xml:id="emt_place_id__923">
+                  <placeName>Forte Filippo</placeName>
+                  <location type="coords">
+                     <geo>42.39798 11.206000</geo>
+                  </location>
+                  <idno type="GEONAMES">https://sws.geonames.org/10376799/</idno>
+               </place>
+               <place xml:id="emt_place_id__924">
+                  <placeName>Porto Ercole</placeName>
+                  <location type="coords">
+                     <geo>42.40171 11.205230</geo>
+                  </location>
+                  <idno type="GEONAMES">https://sws.geonames.org/3170119/</idno>
+               </place>
             </listPlace>
          </div>
       </body>

@@ -6943,5 +6943,35 @@
     "alternative_name": "",
     "wikidata_url": "",
     "unidentifiziert": false
+  },
+  "923": {
+    "id": 923,
+    "order": "470.00000000000000000000",
+    "name": "Forte Filippo",
+    "geonames": "https://www.geonames.org/10376799/forte-filippo.html",
+    "emt_id": "emt_place_id__923",
+    "place_type": null,
+    "lat": "42.39798",
+    "long": "11.206000",
+    "comments intern": "zur Erklärung im Brief siehe Porto Ercole",
+    "gnd": "",
+    "alternative_name": "",
+    "wikidata_url": "",
+    "unidentifiziert": false
+  },
+  "924": {
+    "id": 924,
+    "order": "471.00000000000000000000",
+    "name": "Porto Ercole",
+    "geonames": "https://www.geonames.org/3170119/porto-ercole.html",
+    "emt_id": "emt_place_id__924",
+    "place_type": null,
+    "lat": "42.40171",
+    "long": "11.205230",
+    "comments intern": "zur Eroberung 1712: https://de.wikipedia.org/wiki/Porto_Ercole",
+    "gnd": "",
+    "alternative_name": "",
+    "wikidata_url": "",
+    "unidentifiziert": false
   }
 }

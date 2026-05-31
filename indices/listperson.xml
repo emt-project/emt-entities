@@ -15023,6 +15023,9 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                </person>
                <person xml:id="emt_person_id__1739">
                   <persName type="name">Antinori, NN (florentinischer Gesandter in Wien ab 1707)</persName>
+                  <persName type="function">
+                     <roleName>Gesandter des Großherzogtums Toskana in Wien 1707-1712</roleName>
+                  </persName>
                </person>
                <person xml:id="emt_person_id__1740">
                   <persName type="name">Thürheim, Franz Leopold von</persName>
@@ -16261,6 +16264,12 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                </person>
                <person xml:id="emt_person_id__2033">
                   <persName type="name">NN (Maler, hat sich 1711 im Rückblick nicht bewährt)</persName>
+               </person>
+               <person xml:id="emt_person_id__2034">
+                  <persName type="name">Pico della Mirandola, Haus</persName>
+               </person>
+               <person xml:id="emt_person_id__2035">
+                  <persName type="name"/>
                </person>
             </listPerson>
          </div>
