@@ -15590,6 +15590,9 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                </person>
                <person xml:id="emt_person_id__1826">
                   <persName type="name">Kirchner, Michael Achatius</persName>
+                  <persName type="function">
+                     <roleName>Reichshofrat</roleName>
+                  </persName>
                   <birth>
                      <date notBefore="1663-01-01" notAfter="1663-12-31">1663</date>
                   </birth>
@@ -16274,7 +16277,26 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                   <persName type="name">Pico della Mirandola, Haus</persName>
                </person>
                <person xml:id="emt_person_id__2035">
-                  <persName type="name"/>
+                  <persName type="name">geflohener französischer Offizier, übergibt 1712 in London ein Schreiben</persName>
+               </person>
+               <person xml:id="emt_person_id__2036">
+                  <persName type="name">Dr. Hueber (1712 beim Bischof von Augsburg)</persName>
+               </person>
+               <person xml:id="emt_person_id__2037">
+                  <persName type="name">Mochi (1712 bereits verstorben, Stiftung für Angehörige des Hauses Pfalz Neuburg in Italien)</persName>
+               </person>
+               <person xml:id="emt_person_id__2038">
+                  <persName type="name">Saint Julien, Adam Maximilian</persName>
+                  <persName type="title">
+                     <roleName>Graf</roleName>
+                  </persName>
+                  <persName type="function">
+                     <roleName>Oberstfalkenmeister</roleName>
+                  </persName>
+                  <idno type="URL">https://viecpro.acdh.oeaw.ac.at/persons/318989</idno>
+               </person>
+               <person xml:id="emt_person_id__2039">
+                  <persName type="name">Saint Julien (Bruder des Adam Maximilian Saint Julien, 1712 empfohlen</persName>
                </person>
             </listPerson>
          </div>

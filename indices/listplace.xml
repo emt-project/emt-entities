@@ -2499,7 +2499,9 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                </place>
                <place xml:id="emt_place_id__696">
                   <placeName>Würzburg, Bistum</placeName>
-                  <idno type="GEONAMES">https://www.geonames.org/maps/google_49.7833_9.9333.html</idno>
+                  <location type="coords">
+                     <geo>49.78333 9.933333</geo>
+                  </location>
                   <idno type="GND">https://d-nb.info/gnd/4128539-6</idno>
                </place>
                <place xml:id="emt_place_id__697">
