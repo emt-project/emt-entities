@@ -15636,6 +15636,7 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                   <death>
                      <date notBefore="1730-01-01" notAfter="1730-12-31">1730</date>
                   </death>
+                  <idno type="NDB">https://www.deutsche-biographie.de/gnd142759228.html</idno>
                   <idno type="WIKIDATA">http://www.wikidata.org/entity/Q55912236</idno>
                   <figure>
                      <graphic url="emt_person_id__1829.jpg"/>
@@ -16032,6 +16033,11 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                   </death>
                   <idno type="GND">https://d-nb.info/gnd/119504979</idno>
                   <idno type="NDB">https://www.deutsche-biographie.de/pnd119504979.html#indexcontent</idno>
+                  <idno type="WIKIDATA">http://www.wikidata.org/entity/Q76724</idno>
+                  <figure>
+                     <graphic url="emt_person_id__1938.jpg"/>
+                     <caption>Paul-Joseph Delcloche (attributed), Portrait of the Liège Prince-Bishop John Theodore of Bavaria.jpg</caption>
+                  </figure>
                </person>
                <person xml:id="emt_person_id__1940">
                   <persName type="name">Clarstein (soll 1710 nicht entlassen werden)</persName>
@@ -16297,6 +16303,28 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                </person>
                <person xml:id="emt_person_id__2039">
                   <persName type="name">Saint Julien (Bruder des Adam Maximilian Saint Julien, 1712 empfohlen</persName>
+               </person>
+               <person xml:id="emt_person_id__2040">
+                  <persName type="name">NN (1712 Domherr in Augsburg oder Eichstätt)</persName>
+               </person>
+               <person xml:id="emt_person_id__2041">
+                  <persName type="name">Sachsen, Haus</persName>
+               </person>
+               <person xml:id="emt_person_id__2042">
+                  <persName type="name">Löwenstein, Familie</persName>
+               </person>
+               <person xml:id="emt_person_id__2043">
+                  <persName type="name">Baden-Baden, Maria Johanna von Baden-Baden</persName>
+                  <persName type="title">
+                     <roleName>Prinzessin</roleName>
+                  </persName>
+                  <birth>
+                     <date notBefore="1704-01-01" notAfter="1704-12-31">1704</date>
+                  </birth>
+                  <death>
+                     <date notBefore="1726-01-01" notAfter="1726-12-31">1726</date>
+                  </death>
+                  <idno type="GND">https://d-nb.info/gnd/1017916969</idno>
                </person>
             </listPerson>
          </div>
