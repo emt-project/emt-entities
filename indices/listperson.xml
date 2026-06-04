@@ -16057,6 +16057,11 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                      <date notBefore="1734-01-01" notAfter="1734-12-31">1734</date>
                   </death>
                   <idno type="GND">https://d-nb.info/gnd/136572006</idno>
+                  <idno type="WIKIDATA">http://www.wikidata.org/entity/Q1042210</idno>
+                  <figure>
+                     <graphic url="emt_person_id__1941.jpg"/>
+                     <caption>S.E. Carlo IV Borromeo Arese.png</caption>
+                  </figure>
                </person>
                <person xml:id="emt_person_id__1942">
                   <persName type="name">NN (hat sich gegen Kaiser Leopold I. und das Haus Österreich schlecht betragen)</persName>
