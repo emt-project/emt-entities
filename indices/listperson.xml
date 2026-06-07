@@ -16136,6 +16136,11 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                      <date notBefore="1720-01-01" notAfter="1720-12-31">1720</date>
                   </death>
                   <idno type="GND">https://d-nb.info/gnd/119018071</idno>
+                  <idno type="WIKIDATA">http://www.wikidata.org/entity/Q572597</idno>
+                  <figure>
+                     <graphic url="emt_person_id__1952.jpg"/>
+                     <caption>Anthonie Heinsius.JPG</caption>
+                  </figure>
                </person>
                <person xml:id="emt_person_id__1953">
                   <persName type="name">van Weede Dijkvelt, Everhard</persName>
