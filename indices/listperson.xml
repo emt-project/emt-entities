@@ -6038,7 +6038,7 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                   <persName type="name">Contarini, Gemahlin des venezianischen Botschafters 1685</persName>
                </person>
                <person xml:id="emt_person_id__517">
-                  <persName type="name">Althann, NN von, 1685 für Hofamt empfohlen</persName>
+                  <persName type="name">Althann, NN von, 1685 (1691) für Hofamt empfohlen</persName>
                   <persName type="title">
                      <roleName>Graf</roleName>
                   </persName>
@@ -16345,6 +16345,12 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                      <date notBefore="1726-01-01" notAfter="1726-12-31">1726</date>
                   </death>
                   <idno type="GND">https://d-nb.info/gnd/1017916969</idno>
+               </person>
+               <person xml:id="emt_person_id__2076">
+                  <persName type="name">Jörger von Tollet (Familie)</persName>
+               </person>
+               <person xml:id="emt_person_id__2077">
+                  <persName type="name">Salm-Neuburg, Franz von</persName>
                </person>
             </listPerson>
          </div>
