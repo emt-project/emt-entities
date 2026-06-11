@@ -14156,7 +14156,7 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                   <death>
                      <date notBefore="1737-01-01" notAfter="1737-12-31">1737</date>
                   </death>
-                  <idno type="GND">https://d-nb.info/gnd/opac.htm?method=simpleSearch&amp;cqlMode=true&amp;query=idn%3D136660037</idno>
+                  <idno type="GND">https://d-nb.info/gnd/136660037</idno>
                   <idno type="NDB">https://www.deutsche-biographie.de/sfz50601.html#index</idno>
                </person>
                <person xml:id="emt_person_id__1675">
@@ -16351,6 +16351,9 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                </person>
                <person xml:id="emt_person_id__2077">
                   <persName type="name">Salm-Neuburg, Franz von</persName>
+               </person>
+               <person xml:id="emt_person_id__2078">
+                  <persName type="name">Castellan (1702, ein Schreiben an ihn)</persName>
                </person>
             </listPerson>
          </div>
