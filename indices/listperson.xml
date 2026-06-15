@@ -7656,7 +7656,7 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                   <persName type="name">Maler, der bald (Januar 1687) von Wien nach Venedig reisen wird</persName>
                </person>
                <person xml:id="emt_person_id__683">
-                  <persName type="name">Schefferin/Schäfferin, Madlen/Magdalena (1687, 1695, 1709, wohl Kammerdienerin von Kaiserin Eleonore Magdalena) )</persName>
+                  <persName type="name">Schefferin/Schäfferin, Madlen/Magdalena (1687, wohl Kammerdienerin von Kaiserin Eleonore Magdalena)</persName>
                   <persName type="function">
                      <roleName>Kammerdienerin</roleName>
                   </persName>
@@ -9229,7 +9229,7 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                   </figure>
                </person>
                <person xml:id="emt_person_id__818">
-                  <persName type="name">Dürnitzel, Alexandrine</persName>
+                  <persName type="name">Dürnitzel, Alexandrine Ernestine, vereh. Hessen-Rheinfels</persName>
                   <birth>
                      <date notBefore="1673-01-01" notAfter="1673-12-31">1673</date>
                   </birth>
@@ -13098,7 +13098,7 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                   </figure>
                </person>
                <person xml:id="emt_person_id__1515">
-                  <persName type="name"/>
+                  <persName type="name">Mamer, die 1694 in der Angelegenheit mit Dr. Schweizer helfen soll</persName>
                </person>
                <person xml:id="emt_person_id__1516">
                   <persName type="name">Caetano, Manuel Domenico alias "Conte di Ruggiero"</persName>
@@ -13217,10 +13217,7 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                   </persName>
                </person>
                <person xml:id="emt_person_id__1527">
-                  <persName type="name">"hiesiger Resident" (Zusammenhang mit Brautsuche für Joseph I. 1694)</persName>
-               </person>
-               <person xml:id="emt_person_id__1528">
-                  <persName type="name">"gewisse Person" (Zusammenhang mit Brautsuche für Joseph I. 1694)</persName>
+                  <persName type="name">Resident Schweden (Zusammenhang mit Brautsuche für Joseph I. 1694)</persName>
                </person>
                <person xml:id="emt_person_id__1529">
                   <persName type="name">Thürheim, Christoph Wilhelm</persName>
@@ -16161,9 +16158,6 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                      <caption>Portret van Everard van Weede Mr. Everard van Weede (titel op object), RP-P-1920-936.jpg</caption>
                   </figure>
                </person>
-               <person xml:id="emt_person_id__1954">
-                  <persName type="name">1656 – 1726-12-23</persName>
-               </person>
                <person xml:id="emt_person_id__1955">
                   <persName type="name">Hamel Bruynincx, Jakob Jan</persName>
                   <persName type="function">
@@ -16354,6 +16348,12 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                </person>
                <person xml:id="emt_person_id__2078">
                   <persName type="name">Castellan (1702, ein Schreiben an ihn)</persName>
+               </person>
+               <person xml:id="emt_person_id__2079">
+                  <persName type="name">NN, von (1710 erwähnt)</persName>
+               </person>
+               <person xml:id="emt_person_id__2080">
+                  <persName type="name">NN (1710 Obersthofmeister der verwitweten Königin Maria Anna von Spanien)</persName>
                </person>
             </listPerson>
          </div>
