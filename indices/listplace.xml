@@ -2877,6 +2877,13 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                   </location>
                   <idno type="GEONAMES">https://sws.geonames.org/3170119/</idno>
                </place>
+               <place xml:id="emt_place_id__956">
+                  <placeName>Nußdorf bei Wien</placeName>
+                  <location type="coords">
+                     <geo>48.25897 16.364480</geo>
+                  </location>
+                  <idno type="GEONAMES">https://sws.geonames.org/2770400/</idno>
+               </place>
             </listPlace>
          </div>
       </body>

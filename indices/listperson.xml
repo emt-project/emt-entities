@@ -7034,7 +7034,13 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                   </figure>
                </person>
                <person xml:id="emt_person_id__619">
-                  <persName type="name">NN (Aya, 1710 gestorben)</persName>
+                  <persName type="name">Breuner, Maria Eusebia von, geb. Nothafft von Wernberg</persName>
+                  <persName type="function">
+                     <roleName>Aya und dann Obersthofmeisterin des jungen Hofs, später Fräuleinhofmeisterin der Kaiserin Eleonora Magdalena</roleName>
+                  </persName>
+                  <birth>
+                     <date notBefore="1644-01-01" notAfter="1644-12-31">1644</date>
+                  </birth>
                   <death>
                      <date notBefore="1710-01-01" notAfter="1710-12-31">1710</date>
                   </death>
@@ -9378,7 +9384,7 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                   <idno type="URL">https://leibniz-connection.adw-goe.de/src/webroot/persons/view/9350</idno>
                </person>
                <person xml:id="emt_person_id__830">
-                  <persName type="name">Elter, Johann Friedrich von</persName>
+                  <persName type="name">Elter (Autel), Johann Friedrich von</persName>
                   <persName type="title">
                      <roleName>Graf</roleName>
                   </persName>
@@ -10425,10 +10431,16 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                   <persName type="name">Wedel (1695, Zusammenhang mit Urbich)</persName>
                </person>
                <person xml:id="emt_person_id__1021">
-                  <persName type="name">Stubenvoll (1695, "zellischer" Resident - wohl Resident der Reichsstadt Zell am Hammersbach)</persName>
+                  <persName type="name">Stubenvoll, Hans Christoph von</persName>
                   <persName type="function">
                      <roleName>Diplomat</roleName>
                   </persName>
+                  <birth>
+                     <date notBefore="1660-01-01" notAfter="1660-12-31">1660</date>
+                  </birth>
+                  <death>
+                     <date notBefore="1718-01-01" notAfter="1718-12-31">1718</date>
+                  </death>
                </person>
                <person xml:id="emt_person_id__1022">
                   <persName type="name">Meistetter (1696 vom Kaiser nach Mainz geschickt worden)</persName>
@@ -15401,7 +15413,7 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                   </figure>
                </person>
                <person xml:id="emt_person_id__1769">
-                  <persName type="name"/>
+                  <persName type="name">Hohenlohe, Haus</persName>
                </person>
                <person xml:id="emt_person_id__1770">
                   <persName type="name">Otschkai (Kuruzzenoffizier, läuft 1708 zur kaiserlichen Seite über)</persName>
@@ -16354,6 +16366,22 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                </person>
                <person xml:id="emt_person_id__2080">
                   <persName type="name">NN (1710 Obersthofmeister der verwitweten Königin Maria Anna von Spanien)</persName>
+               </person>
+               <person xml:id="emt_person_id__2081">
+                  <persName type="name">Gilleis, Sabina Christina von, geb. Starhemberg</persName>
+                  <persName type="title">
+                     <roleName>Gräfin</roleName>
+                  </persName>
+                  <persName type="function">
+                     <roleName>Obersthofmeisterin</roleName>
+                  </persName>
+                  <birth>
+                     <date notBefore="1655-01-01" notAfter="1655-12-31">1655</date>
+                  </birth>
+                  <death>
+                     <date notBefore="1725-01-01" notAfter="1725-12-31">1725</date>
+                  </death>
+                  <idno type="URL">https://viecpro.acdh.oeaw.ac.at/persons/188038</idno>
                </person>
             </listPerson>
          </div>

@@ -486,5 +486,13 @@
     "gnd": "",
     "emt_id": "emt_institution_id__221",
     "intern": ""
+  },
+  "254": {
+    "id": 254,
+    "order": "62.00000000000000000000",
+    "name": "Geheimer Rat, Braunschweig-Wolfenbüttel",
+    "gnd": "",
+    "emt_id": "emt_institution_id__254",
+    "intern": ""
   }
 }

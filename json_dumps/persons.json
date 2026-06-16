@@ -16484,7 +16484,7 @@
   "619": {
     "id": 619,
     "order": "614.00000000000000000000",
-    "name": "NN (Aya, 1710 gestorben)",
+    "name": "Breuner, Maria Eusebia von, geb. Nothafft von Wernberg",
     "gnd": "",
     "other_url": "",
     "emt_id": "emt_person_id__619",
@@ -16492,7 +16492,7 @@
     "color": "",
     "lebensdaten": "",
     "ndb": "",
-    "year_of_birth": null,
+    "year_of_birth": "1644",
     "year_of_death": "1710",
     "wikidata_url": "",
     "wikidata_enriched": false,
@@ -16502,8 +16502,8 @@
     "birth_date_written": "",
     "death_date_written": "",
     "geschlecht": "",
-    "funktionsbezeichnungen": "",
-    "unidentifiziert": true,
+    "funktionsbezeichnungen": "Aya und dann Obersthofmeisterin des jungen Hofs, später Fräuleinhofmeisterin der Kaiserin Eleonora Magdalena",
+    "unidentifiziert": false,
     "titel": []
   },
   "620": {
@@ -22213,11 +22213,11 @@
   "830": {
     "id": 830,
     "order": "824.00000000000000000000",
-    "name": "Elter, Johann Friedrich von",
+    "name": "Elter (Autel), Johann Friedrich von",
     "gnd": "",
     "other_url": "https://de.wikipedia.org/wiki/Johann_Friedrich_von_Elter",
     "emt_id": "emt_person_id__830",
-    "internal_comment": "https://fr.wikisource.org/wiki/Biographie_nationale_de_Belgique/Tome_1/AUTEL,_Jean-Fr%C3%A9d%C3%A9ric_comte_D%E2%80%99",
+    "internal_comment": "https://fr.wikisource.org/wiki/Biographie_nationale_de_Belgique/Tome_1/AUTEL,_Jean-Fr%C3%A9d%C3%A9ric_comte_D%E2%80%99\nComte d'Autel",
     "color": "",
     "lebensdaten": "",
     "ndb": "",
@@ -24755,7 +24755,7 @@
     "gnd": "",
     "other_url": "",
     "emt_id": "emt_person_id__1020",
-    "internal_comment": "",
+    "internal_comment": "ist in Hamburg",
     "color": "",
     "lebensdaten": "",
     "ndb": "",
@@ -24776,16 +24776,16 @@
   "1021": {
     "id": 1021,
     "order": "921.00000000000000000000",
-    "name": "Stubenvoll (1695, \"zellischer\" Resident - wohl Resident der Reichsstadt Zell am Hammersbach)",
+    "name": "Stubenvoll, Hans Christoph von",
     "gnd": "",
     "other_url": "",
     "emt_id": "emt_person_id__1021",
-    "internal_comment": "",
+    "internal_comment": "1696 zellischer Resident (Braunschweig-Lüneburg-Celle)\nzur Person:http://selbstzeugnisse.hab.de/sz2/personen",
     "color": "",
     "lebensdaten": "",
     "ndb": "",
-    "year_of_birth": null,
-    "year_of_death": null,
+    "year_of_birth": "1660",
+    "year_of_death": "1718",
     "wikidata_url": "",
     "wikidata_enriched": false,
     "img_name": "",
@@ -24795,7 +24795,7 @@
     "death_date_written": "",
     "geschlecht": "",
     "funktionsbezeichnungen": "Diplomat",
-    "unidentifiziert": true,
+    "unidentifiziert": false,
     "titel": []
   },
   "1022": {
@@ -32932,7 +32932,7 @@
     "gnd": "",
     "other_url": "https://viecpro.acdh.oeaw.ac.at/persons/149103",
     "emt_id": "emt_person_id__1570",
-    "internal_comment": "Ferk kommt von EMT, sonst VieCPro. Dienerin von Maria Eusebia Gräfin Breuner, geb. NN und Nothafft (welche wohl auch Aya war und Ehefrau von Franz Albrecht Julius Graf Breuner), Primärquellen lt. VieCPro \nÖSTA FHKA SUS, Hofzahlamtsbuch 139 (1694)., fol. 256v Projekte FWF-Projekt „Die Wiener Hofgesellschaft unter Kaiser Leopold I. (1657–1705)“, Leitung: Prof. Dr. Leopold Auer (ÖStA), 2001–2005,",
+    "internal_comment": "Ferk kommt von EMT, sonst VieCPro. Dienerin von Maria Eusebia Gräfin Breuner, geb. Notthafft von Wernberg (1644–1710) vgl. https://de.wikipedia.org/wiki/Breuner   (welche Aya war und Ehefrau von Franz Albrecht Julius Graf Breuner), Primärquellen lt. VieCPro \nÖSTA FHKA SUS, Hofzahlamtsbuch 139 (1694)., fol. 256v Projekte FWF-Projekt „Die Wiener Hofgesellschaft unter Kaiser Leopold I. (1657–1705)“, Leitung: Prof. Dr. Leopold Auer (ÖStA), 2001–2005,",
     "color": "",
     "lebensdaten": "",
     "ndb": "",
@@ -36761,7 +36761,7 @@
   "1769": {
     "id": 1769,
     "order": "1350.00000000000000000000",
-    "name": "",
+    "name": "Hohenlohe, Haus",
     "gnd": "",
     "other_url": "",
     "emt_id": "emt_person_id__1769",
@@ -39823,5 +39823,36 @@
     "funktionsbezeichnungen": "",
     "unidentifiziert": true,
     "titel": []
+  },
+  "2081": {
+    "id": 2081,
+    "order": "1468.00000000000000000000",
+    "name": "Gilleis, Sabina Christina von, geb. Starhemberg",
+    "gnd": "",
+    "other_url": "https://viecpro.acdh.oeaw.ac.at/persons/188038",
+    "emt_id": "emt_person_id__2081",
+    "internal_comment": "https://gw.geneanet.org/cvpolier?lang=de&n=von+starhemberg&p=sabine+christine",
+    "color": "",
+    "lebensdaten": "",
+    "ndb": "",
+    "year_of_birth": "1655",
+    "year_of_death": "1725",
+    "wikidata_url": "",
+    "wikidata_enriched": false,
+    "img_name": "",
+    "img_fetched": false,
+    "img_source": "",
+    "birth_date_written": "",
+    "death_date_written": "",
+    "geschlecht": "",
+    "funktionsbezeichnungen": "Obersthofmeisterin",
+    "unidentifiziert": false,
+    "titel": [
+      {
+        "id": 19692,
+        "value": "Gräfin",
+        "color": "gray"
+      }
+    ]
   }
 }

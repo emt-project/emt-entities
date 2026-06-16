@@ -6973,5 +6973,20 @@
     "alternative_name": "",
     "wikidata_url": "",
     "unidentifiziert": false
+  },
+  "956": {
+    "id": 956,
+    "order": "472.00000000000000000000",
+    "name": "Nußdorf bei Wien",
+    "geonames": "https://www.geonames.org/2770400/nussdorf.html",
+    "emt_id": "emt_place_id__956",
+    "place_type": null,
+    "lat": "48.25897",
+    "long": "16.364480",
+    "comments intern": "",
+    "gnd": "",
+    "alternative_name": "",
+    "wikidata_url": "",
+    "unidentifiziert": false
   }
 }
