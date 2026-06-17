@@ -10394,7 +10394,7 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                   <idno type="WIKIDATA">http://www.wikidata.org/entity/Q518182</idno>
                   <figure>
                      <graphic url="emt_person_id__982.jpg"/>
-                     <caption>Portrait of Dorothea Charlotte of Brandenburg-Ansbach, oval.png</caption>
+                     <caption>George Stepney (1663-1707) british diplomat.jpg</caption>
                   </figure>
                </person>
                <person xml:id="emt_person_id__983">
@@ -10428,19 +10428,32 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                   <persName type="name">Holthausen (1695, Zusammenhang mit den Kindern des Irrmann)</persName>
                </person>
                <person xml:id="emt_person_id__1020">
-                  <persName type="name">Wedel (1695, Zusammenhang mit Urbich)</persName>
+                  <persName type="name">Wedel-Jarlsberg, Georg Ernst</persName>
+                  <persName type="title">
+                     <roleName>Graf</roleName>
+                  </persName>
+                  <birth>
+                     <date notBefore="1666-01-01" notAfter="1666-12-31">1666</date>
+                  </birth>
+                  <death>
+                     <date notBefore="1717-01-01" notAfter="1717-12-31">1717</date>
+                  </death>
+                  <idno type="GND">https://d-nb.info/gnd/1034915142</idno>
+                  <idno type="WIKIDATA">http://www.wikidata.org/entity/Q16063768</idno>
+                  <figure>
+                     <graphic url="emt_person_id__1020.jpg"/>
+                     <caption>Georg Ernst Wedel Jarlsberg.jpg</caption>
+                  </figure>
                </person>
                <person xml:id="emt_person_id__1021">
                   <persName type="name">Stubenvoll, Hans Christoph von</persName>
-                  <persName type="function">
-                     <roleName>Diplomat</roleName>
-                  </persName>
                   <birth>
                      <date notBefore="1660-01-01" notAfter="1660-12-31">1660</date>
                   </birth>
                   <death>
                      <date notBefore="1718-01-01" notAfter="1718-12-31">1718</date>
                   </death>
+                  <idno type="URL">http://selbstzeugnisse.hab.de/sz2/personen#S</idno>
                </person>
                <person xml:id="emt_person_id__1022">
                   <persName type="name">Meistetter (1696 vom Kaiser nach Mainz geschickt worden)</persName>
@@ -13243,9 +13256,6 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                   <persName type="title">
                      <roleName>Graf</roleName>
                   </persName>
-               </person>
-               <person xml:id="emt_person_id__1527">
-                  <persName type="name">Resident Schweden oder Dänemark (Urbich) (Zusammenhang mit Brautsuche für Joseph I. 1694)</persName>
                </person>
                <person xml:id="emt_person_id__1529">
                   <persName type="name">Thürheim, Christoph Wilhelm</persName>
