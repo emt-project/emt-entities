@@ -206,7 +206,7 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                   </figure>
                </person>
                <person xml:id="emt_person_id__11">
-                  <persName type="name">Priè, Ercole Turinetti de</persName>
+                  <persName type="name">Turinetti, Ercole Giuseppe di Priero (Prié)</persName>
                   <persName type="title">
                      <roleName>Marchese</roleName>
                   </persName>
@@ -3128,7 +3128,7 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                   </figure>
                </person>
                <person xml:id="emt_person_id__230">
-                  <persName type="name">Wirts, NN</persName>
+                  <persName type="name">Wirts, NN, Leibarzt 1696</persName>
                   <persName type="title">
                      <roleName>Doktor</roleName>
                   </persName>
@@ -10528,7 +10528,23 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                   <idno type="WIKIDATA">http://www.wikidata.org/entity/Q1694647</idno>
                </person>
                <person xml:id="emt_person_id__1061">
-                  <persName type="name">Schidnizki (1696, aus Polen)</persName>
+                  <persName type="name">Sedlnizky, Karl Julius von</persName>
+                  <persName type="title">
+                     <roleName>Graf</roleName>
+                  </persName>
+                  <persName type="function">
+                     <roleName>kaiserlicher Gesandter in Polen 1695 bis 1699</roleName>
+                  </persName>
+                  <birth>
+                     <date notBefore="1653-01-01" notAfter="1653-12-31">1653</date>
+                  </birth>
+                  <death>
+                     <date notBefore="1731-01-01" notAfter="1731-12-31">1731</date>
+                  </death>
+                  <idno type="GND">https://d-nb.info/gnd/1021821705</idno>
+                  <idno type="NDB">https://www.deutsche-biographie.de/gnd1021821705.html</idno>
+                  <idno type="WIKIDATA">http://www.wikidata.org/entity/Q55888501</idno>
+                  <idno type="URL">https://de.wikisource.org/wiki/BLK%C3%96:Sedlnitzky,_Karl_Julius_Graf</idno>
                </person>
                <person xml:id="emt_person_id__1062">
                   <persName type="name">Hessen-Rotenburg, Anna Johannetta</persName>
@@ -13229,7 +13245,7 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                   </persName>
                </person>
                <person xml:id="emt_person_id__1527">
-                  <persName type="name">Resident Schweden (Zusammenhang mit Brautsuche für Joseph I. 1694)</persName>
+                  <persName type="name">Resident Schweden oder Dänemark (Urbich) (Zusammenhang mit Brautsuche für Joseph I. 1694)</persName>
                </person>
                <person xml:id="emt_person_id__1529">
                   <persName type="name">Thürheim, Christoph Wilhelm</persName>
@@ -14932,28 +14948,6 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                   <idno type="NDB">https://www.deutsche-biographie.de/pnd136534171.html#indexcontent</idno>
                   <idno type="WIKIDATA">http://www.wikidata.org/entity/Q22482475</idno>
                </person>
-               <person xml:id="emt_person_id__1731">
-                  <persName type="name">Turinetti, Ercole Giuseppe di Prié</persName>
-                  <persName type="title">
-                     <roleName>Marchese</roleName>
-                  </persName>
-                  <persName type="function">
-                     <roleName>Diplomat</roleName>
-                  </persName>
-                  <birth>
-                     <date notBefore="1658-01-01" notAfter="1658-12-31">1658</date>
-                  </birth>
-                  <death>
-                     <date notBefore="1726-01-01" notAfter="1726-12-31">1726</date>
-                  </death>
-                  <idno type="GND">https://d-nb.info/gnd/1024116751</idno>
-                  <idno type="NDB">https://www.deutsche-biographie.de/pnd1024116751.html</idno>
-                  <idno type="WIKIDATA">http://www.wikidata.org/entity/Q677757</idno>
-                  <figure>
-                     <graphic url="emt_person_id__1731.jpg"/>
-                     <caption>Ercole Turinetti Marchese di Prie.png</caption>
-                  </figure>
-               </person>
                <person xml:id="emt_person_id__1732">
                   <persName type="name">Degen, NN (Sekretär, bringt 1707 eine Nachricht aus Spanien)</persName>
                </person>
@@ -16382,6 +16376,18 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                      <date notBefore="1725-01-01" notAfter="1725-12-31">1725</date>
                   </death>
                   <idno type="URL">https://viecpro.acdh.oeaw.ac.at/persons/188038</idno>
+               </person>
+               <person xml:id="emt_person_id__2115">
+                  <persName type="name">Vasto (1705 Gefangener)</persName>
+               </person>
+               <person xml:id="emt_person_id__2116">
+                  <persName type="name">Hercolani (1705 Gefangener)</persName>
+               </person>
+               <person xml:id="emt_person_id__2149">
+                  <persName type="name">Kirch, Frau 1696</persName>
+               </person>
+               <person xml:id="emt_person_id__2150">
+                  <persName type="name">Oldenburg (Haus)</persName>
                </person>
             </listPerson>
          </div>

@@ -6988,5 +6988,35 @@
     "alternative_name": "",
     "wikidata_url": "",
     "unidentifiziert": false
+  },
+  "957": {
+    "id": 957,
+    "order": "473.00000000000000000000",
+    "name": "Rocca Guglielma, Baronie im Königreich Neapel",
+    "geonames": "",
+    "emt_id": "emt_place_id__957",
+    "place_type": null,
+    "lat": null,
+    "long": null,
+    "comments intern": "gehört Pfalz-Neuburg durch Erbschaft von 1. Frau Philipp Wilhelms",
+    "gnd": "",
+    "alternative_name": "",
+    "wikidata_url": "",
+    "unidentifiziert": true
+  },
+  "958": {
+    "id": 958,
+    "order": "474.00000000000000000000",
+    "name": "Apulien",
+    "geonames": "https://www.geonames.org/3169778/puglia.html",
+    "emt_id": "emt_place_id__958",
+    "place_type": null,
+    "lat": "41.00164",
+    "long": "16.733780",
+    "comments intern": "",
+    "gnd": "",
+    "alternative_name": "",
+    "wikidata_url": "",
+    "unidentifiziert": false
   }
 }

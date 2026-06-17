@@ -2884,6 +2884,16 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                   </location>
                   <idno type="GEONAMES">https://sws.geonames.org/2770400/</idno>
                </place>
+               <place xml:id="emt_place_id__957">
+                  <placeName>Rocca Guglielma, Baronie im Königreich Neapel</placeName>
+               </place>
+               <place xml:id="emt_place_id__958">
+                  <placeName>Apulien</placeName>
+                  <location type="coords">
+                     <geo>41.00164 16.733780</geo>
+                  </location>
+                  <idno type="GEONAMES">https://sws.geonames.org/3169778/</idno>
+               </place>
             </listPlace>
          </div>
       </body>
