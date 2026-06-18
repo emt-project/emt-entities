@@ -11016,7 +11016,7 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                   </figure>
                </person>
                <person xml:id="emt_person_id__1103">
-                  <persName type="name">Limburg und Styrum, Moritz Hermann von</persName>
+                  <persName type="name">Limburg und Styrum (Stirheim), Moritz Hermann von</persName>
                   <persName type="title">
                      <roleName>Graf</roleName>
                   </persName>
@@ -11037,7 +11037,19 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                   <persName type="name">Defin, Baron (wird 1697 nach Polen geschickt)</persName>
                </person>
                <person xml:id="emt_person_id__1105">
-                  <persName type="name">Gise (soll 1697 in Polen mit dem Defin kooperieren)</persName>
+                  <persName type="name">Gise, Philipp Konstanz von</persName>
+                  <persName type="title">
+                     <roleName>Freiherr</roleName>
+                  </persName>
+                  <persName type="function">
+                     <roleName>Hofrat und Oberstkanzler Pfalz-Neuburg</roleName>
+                  </persName>
+                  <birth>
+                     <date notBefore="1644-01-01" notAfter="1644-12-31">1644</date>
+                  </birth>
+                  <death>
+                     <date notBefore="1720-01-01" notAfter="1720-12-31">1720</date>
+                  </death>
                </person>
                <person xml:id="emt_person_id__1106">
                   <persName type="name">Nassau-Weilburg, Johann Ernst</persName>
@@ -16398,6 +16410,41 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                </person>
                <person xml:id="emt_person_id__2150">
                   <persName type="name">Oldenburg (Haus)</persName>
+               </person>
+               <person xml:id="emt_person_id__2152">
+                  <persName type="name">Delci, in Rom 1697</persName>
+               </person>
+               <person xml:id="emt_person_id__2153">
+                  <persName type="name">Badestini, Abbate, 1697 in Rom</persName>
+               </person>
+               <person xml:id="emt_person_id__2154">
+                  <persName type="name">Trevirani, Abbate, 1697 in Rom</persName>
+               </person>
+               <person xml:id="emt_person_id__2155">
+                  <persName type="name">Württemberg-Mömpelgard, Georg von</persName>
+                  <persName type="title">
+                     <roleName>Herzog</roleName>
+                  </persName>
+                  <birth>
+                     <date notBefore="1626-01-01" notAfter="1626-12-31">1626</date>
+                  </birth>
+                  <death>
+                     <date notBefore="1699-01-01" notAfter="1699-12-31">1699</date>
+                  </death>
+                  <idno type="GND">https://d-nb.info/gnd/136697992</idno>
+               </person>
+               <person xml:id="emt_person_id__2156">
+                  <persName type="name">Württemberg-Mömpelgard, Leopold Eberhard von</persName>
+                  <persName type="title">
+                     <roleName>Herzog</roleName>
+                  </persName>
+                  <birth>
+                     <date notBefore="1670-01-01" notAfter="1670-12-31">1670</date>
+                  </birth>
+                  <death>
+                     <date notBefore="1723-01-01" notAfter="1723-12-31">1723</date>
+                  </death>
+                  <idno type="GND">https://d-nb.info/gnd/128876166</idno>
                </person>
             </listPerson>
          </div>
