@@ -2894,6 +2894,13 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                   </location>
                   <idno type="GEONAMES">https://sws.geonames.org/3169778/</idno>
                </place>
+               <place xml:id="emt_place_id__959">
+                  <placeName>Westerwald</placeName>
+                  <location type="coords">
+                     <geo>50.62368 7.715620</geo>
+                  </location>
+                  <idno type="GEONAMES">https://sws.geonames.org/2810172/</idno>
+               </place>
             </listPlace>
          </div>
       </body>

@@ -7018,5 +7018,20 @@
     "alternative_name": "",
     "wikidata_url": "",
     "unidentifiziert": false
+  },
+  "959": {
+    "id": 959,
+    "order": "475.00000000000000000000",
+    "name": "Westerwald",
+    "geonames": "https://www.geonames.org/2810172/westerwald.html",
+    "emt_id": "emt_place_id__959",
+    "place_type": null,
+    "lat": "50.62368",
+    "long": "7.715620",
+    "comments intern": "",
+    "gnd": "",
+    "alternative_name": "",
+    "wikidata_url": "",
+    "unidentifiziert": false
   }
 }

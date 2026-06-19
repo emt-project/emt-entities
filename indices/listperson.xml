@@ -16446,6 +16446,12 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                   </death>
                   <idno type="GND">https://d-nb.info/gnd/128876166</idno>
                </person>
+               <person xml:id="emt_person_id__2157">
+                  <persName type="name">Fugger, früheres Kammerfräulein der Herzogin von Lothringen 1698</persName>
+               </person>
+               <person xml:id="emt_person_id__2158">
+                  <persName type="name"/>
+               </person>
             </listPerson>
          </div>
       </body>
