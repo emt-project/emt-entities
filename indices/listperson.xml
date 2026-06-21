@@ -12195,6 +12195,9 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                </person>
                <person xml:id="emt_person_id__1268">
                   <persName type="name">"die bewuste" (soll 1700 weg aus Düsseldorf)</persName>
+                  <persName type="function">
+                     <roleName>https://emt-project.github.io/emt-static/kasten_blau_44_8_0219.html - könnte das die ehedem in Gunst stehende Priorin in Düsseldorf sein?</roleName>
+                  </persName>
                </person>
                <person xml:id="emt_person_id__1269">
                   <persName type="name">Plettenberg, Friedrich Mauritz von</persName>

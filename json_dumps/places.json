@@ -7033,5 +7033,20 @@
     "alternative_name": "",
     "wikidata_url": "",
     "unidentifiziert": false
+  },
+  "960": {
+    "id": 960,
+    "order": "476.00000000000000000000",
+    "name": "Kyrburg, Grafschaft",
+    "geonames": "",
+    "emt_id": "emt_place_id__960",
+    "place_type": null,
+    "lat": null,
+    "long": null,
+    "comments intern": "",
+    "gnd": "https://d-nb.info/gnd/125128695X",
+    "alternative_name": "",
+    "wikidata_url": "",
+    "unidentifiziert": false
   }
 }
