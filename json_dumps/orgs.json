@@ -494,5 +494,13 @@
     "gnd": "",
     "emt_id": "emt_institution_id__254",
     "intern": ""
+  },
+  "255": {
+    "id": 255,
+    "order": "63.00000000000000000000",
+    "name": "Reichskreise",
+    "gnd": "",
+    "emt_id": "emt_institution_id__255",
+    "intern": ""
   }
 }
