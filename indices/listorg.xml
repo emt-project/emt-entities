@@ -167,7 +167,7 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                   <orgName>Deutscher Orden</orgName>
                </org>
                <org xml:id="emt_institution_id__35">
-                  <orgName>Eichstätt (Domkapitel)</orgName>
+                  <orgName>Domkapitel zu Eichstädt</orgName>
                </org>
                <org xml:id="emt_institution_id__36">
                   <orgName>Kaiserlicher Hofkriegsrat</orgName>
@@ -253,6 +253,9 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                </org>
                <org xml:id="emt_institution_id__255">
                   <orgName>Reichskreise</orgName>
+               </org>
+               <org xml:id="emt_institution_id__256">
+                  <orgName>Domkapitel zu Passau</orgName>
                </org>
             </listOrg>
          </div>

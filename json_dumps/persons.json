@@ -40153,5 +40153,30 @@
     "funktionsbezeichnungen": "",
     "unidentifiziert": true,
     "titel": []
+  },
+  "2161": {
+    "id": 2161,
+    "order": "1482.00000000000000000000",
+    "name": "Vetter des Grafen Wenzel Norbert von Kinsky",
+    "gnd": "",
+    "other_url": "",
+    "emt_id": "emt_person_id__2161",
+    "internal_comment": "",
+    "color": "",
+    "lebensdaten": "",
+    "ndb": "",
+    "year_of_birth": null,
+    "year_of_death": null,
+    "wikidata_url": "",
+    "wikidata_enriched": false,
+    "img_name": "",
+    "img_fetched": false,
+    "img_source": "",
+    "birth_date_written": "",
+    "death_date_written": "",
+    "geschlecht": "",
+    "funktionsbezeichnungen": "",
+    "unidentifiziert": true,
+    "titel": []
   }
 }
