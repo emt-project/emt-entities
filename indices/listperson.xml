@@ -255,6 +255,9 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                   <persName type="title">
                      <roleName>Fürst</roleName>
                   </persName>
+                  <persName type="function">
+                     <roleName>Oberstjägermeister 1702-1705, 1705-1707</roleName>
+                  </persName>
                   <birth>
                      <date notBefore="1667-01-01" notAfter="1667-12-31">1667</date>
                   </birth>
@@ -2572,7 +2575,7 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                      <roleName>Graf</roleName>
                   </persName>
                   <persName type="function">
-                     <roleName>Oberstkuchelmeister</roleName>
+                     <roleName>Oberstkuchelmeister 1669-1684, Oberstjägermeister 1684-1701</roleName>
                   </persName>
                   <birth>
                      <date notBefore="1633-01-01" notAfter="1633-12-31">1633</date>
@@ -13191,9 +13194,6 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                <person xml:id="emt_person_id__1519">
                   <persName type="name">Winkelhausen, Sohn der Frau von 1704</persName>
                </person>
-               <person xml:id="emt_person_id__1520">
-                  <persName type="name">Madamma (soll 1704 in Wien einen Brief übermitteln)</persName>
-               </person>
                <person xml:id="emt_person_id__1521">
                   <persName type="name">Piazza, Giulio</persName>
                   <persName type="title">
@@ -16463,6 +16463,15 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                </person>
                <person xml:id="emt_person_id__2161">
                   <persName type="name">Vetter des Grafen Wenzel Norbert von Kinsky</persName>
+               </person>
+               <person xml:id="emt_person_id__2162">
+                  <persName type="name">Sara, alte Bedienstete von EMTs Mutter 1701</persName>
+               </person>
+               <person xml:id="emt_person_id__2163">
+                  <persName type="name">Vogt, Generalleutnant 1702</persName>
+               </person>
+               <person xml:id="emt_person_id__1520">
+                  <persName type="name">Sekretär des Emmerich Thököly (1683 gefangen genommen)</persName>
                </person>
             </listPerson>
          </div>

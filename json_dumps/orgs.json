@@ -510,5 +510,21 @@
     "gnd": "",
     "emt_id": "emt_institution_id__256",
     "intern": ""
+  },
+  "257": {
+    "id": 257,
+    "order": "65.00000000000000000000",
+    "name": "Bayerischer Kreis",
+    "gnd": "",
+    "emt_id": "emt_institution_id__257",
+    "intern": ""
+  },
+  "258": {
+    "id": 258,
+    "order": "66.00000000000000000000",
+    "name": "Niederrheinischer Kreis",
+    "gnd": "",
+    "emt_id": "emt_institution_id__258",
+    "intern": ""
   }
 }

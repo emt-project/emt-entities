@@ -448,7 +448,7 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                   <idno type="GEONAMES">https://sws.geonames.org/7872827/</idno>
                </place>
                <place xml:id="emt_place_id__58">
-                  <placeName>Zvoleněves</placeName>
+                  <placeName>Zvoleněves / Losdorf</placeName>
                   <location type="coords">
                      <geo>50.23115 14.182210</geo>
                   </location>
@@ -1172,7 +1172,7 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                   <idno type="GEONAMES">https://sws.geonames.org/2853907/</idno>
                </place>
                <place xml:id="emt_place_id__174">
-                  <placeName>Osmanisches Reich</placeName>
+                  <placeName>Osmanisches Reich / Osmanen</placeName>
                   <idno type="GND">https://d-nb.info/gnd/4075720-1</idno>
                </place>
                <place xml:id="emt_place_id__175">
@@ -1228,9 +1228,6 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                      <geo>48.20000 15.633330</geo>
                   </location>
                   <idno type="GEONAMES">https://sws.geonames.org/2766429/</idno>
-               </place>
-               <place xml:id="emt_place_id__184">
-                  <placeName>Osmanen</placeName>
                </place>
                <place xml:id="emt_place_id__185">
                   <placeName>Wien, Leopoldstadt</placeName>
@@ -2904,6 +2901,13 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                <place xml:id="emt_place_id__960">
                   <placeName>Kyrburg, Grafschaft</placeName>
                   <idno type="GND">https://d-nb.info/gnd/125128695X</idno>
+               </place>
+               <place xml:id="emt_place_id__961">
+                  <placeName>Sauerland</placeName>
+                  <location type="coords">
+                     <geo>51.33333 7.833330</geo>
+                  </location>
+                  <idno type="GEONAMES">https://sws.geonames.org/2841177/</idno>
                </place>
             </listPlace>
          </div>
