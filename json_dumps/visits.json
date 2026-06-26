@@ -3,8 +3,19 @@
     "id": 1,
     "order": "1.00000000000000000000",
     "emt_id": "emt_visit_id__1",
-    "description": "PW und EA in Wien und Wiener Neustadt",
-    "location": [],
+    "description": "Philipp Wilhelm und Elisabeth Amalie von Pfalz-Neuburg in Wien und Wiener Neustadt",
+    "location": [
+      {
+        "id": 63,
+        "value": "Wien, Stadt",
+        "order": "63.00000000000000000000"
+      },
+      {
+        "id": 66,
+        "value": "Wiener Neustadt",
+        "order": "66.00000000000000000000"
+      }
+    ],
     "persons": [
       {
         "id": 10,
@@ -26,12 +37,351 @@
     "id": 2,
     "order": "2.00000000000000000000",
     "emt_id": "emt_visit_id__2",
-    "description": "",
-    "location": [],
-    "persons": [],
-    "from": null,
-    "to": null,
+    "description": "Johann Wilhelm von Pfalz-Neuburg in Wien und Wiener Neustadt (Eheschließung)",
+    "location": [
+      {
+        "id": 63,
+        "value": "Wien, Stadt",
+        "order": "63.00000000000000000000"
+      },
+      {
+        "id": 66,
+        "value": "Wiener Neustadt",
+        "order": "66.00000000000000000000"
+      }
+    ],
+    "persons": [
+      {
+        "id": 18,
+        "value": "Pfalz-Neuburg, Johann Wilhelm von",
+        "order": "18.00000000000000000000"
+      }
+    ],
+    "from": "1678-10-25",
+    "to": "1678-11-03",
     "uncertainty": [],
     "date_text": null
+  },
+  "3": {
+    "id": 3,
+    "order": "3.00000000000000000000",
+    "emt_id": "emt_visit_id__3",
+    "description": "Philipp Wilhelm und Elisabeth Amalie von Pfalz-Neuburg in Linz",
+    "location": [
+      {
+        "id": 32,
+        "value": "Linz",
+        "order": "32.00000000000000000000"
+      }
+    ],
+    "persons": [
+      {
+        "id": 10,
+        "value": "Pfalz-Neuburg, Elisabeth Amalie von, geb. Hessen-Darmstadt",
+        "order": "10.00000000000000000000"
+      },
+      {
+        "id": 18,
+        "value": "Pfalz-Neuburg, Johann Wilhelm von",
+        "order": "18.00000000000000000000"
+      }
+    ],
+    "from": "1680-12-02",
+    "to": "1681-02-25",
+    "uncertainty": [],
+    "date_text": ""
+  },
+  "5": {
+    "id": 5,
+    "order": "4.00000000000000000000",
+    "emt_id": "emt_visit_id__5",
+    "description": "Philipp Wilhelm und Elisabeth Amalie von Pfalz-Neuburg in Wien",
+    "location": [
+      {
+        "id": 63,
+        "value": "Wien, Stadt",
+        "order": "63.00000000000000000000"
+      }
+    ],
+    "persons": [
+      {
+        "id": 10,
+        "value": "Pfalz-Neuburg, Elisabeth Amalie von, geb. Hessen-Darmstadt",
+        "order": "10.00000000000000000000"
+      },
+      {
+        "id": 50,
+        "value": "Pfalz-Neuburg, Philipp Wilhelm von",
+        "order": "50.00000000000000000000"
+      }
+    ],
+    "from": "1682-04-15",
+    "to": "1682-09-05",
+    "uncertainty": [
+      {
+        "id": 23189,
+        "value": "both",
+        "color": "deep-dark-green"
+      }
+    ],
+    "date_text": "von etwa Mitte April bis Anfang September"
+  },
+  "6": {
+    "id": 6,
+    "order": "5.00000000000000000000",
+    "emt_id": "emt_visit_id__6",
+    "description": "Leopold I., Eleonora Magdalena von Pfalz-Neuburg und Erzherzog Joseph in Neuburg",
+    "location": [
+      {
+        "id": 39,
+        "value": "Neuburg an der Donau",
+        "order": "39.00000000000000000000"
+      }
+    ],
+    "persons": [
+      {
+        "id": 9,
+        "value": "Eleonora Magdalena Theresia, geb. Pfalz-Neuburg",
+        "order": "9.00000000000000000000"
+      },
+      {
+        "id": 25,
+        "value": "Joseph I.",
+        "order": "25.00000000000000000000"
+      },
+      {
+        "id": 35,
+        "value": "Leopold I.",
+        "order": "35.00000000000000000000"
+      }
+    ],
+    "from": "1689-08-11",
+    "to": "1689-08-30",
+    "uncertainty": [],
+    "date_text": ""
+  },
+  "7": {
+    "id": 7,
+    "order": "6.00000000000000000000",
+    "emt_id": "emt_visit_id__7",
+    "description": "Leopold I., Eleonora Magdalena von Pfalz-Neuburg und Erzherzog Joseph in Neuburg",
+    "location": [
+      {
+        "id": 39,
+        "value": "Neuburg an der Donau",
+        "order": "39.00000000000000000000"
+      }
+    ],
+    "persons": [
+      {
+        "id": 9,
+        "value": "Eleonora Magdalena Theresia, geb. Pfalz-Neuburg",
+        "order": "9.00000000000000000000"
+      },
+      {
+        "id": 25,
+        "value": "Joseph I.",
+        "order": "25.00000000000000000000"
+      },
+      {
+        "id": 35,
+        "value": "Leopold I.",
+        "order": "35.00000000000000000000"
+      }
+    ],
+    "from": "1689-09-19",
+    "to": "1689-09-27",
+    "uncertainty": [],
+    "date_text": ""
+  },
+  "8": {
+    "id": 8,
+    "order": "7.00000000000000000000",
+    "emt_id": "emt_visit_id__8",
+    "description": "Aufenthalt von Philipp Wilhelm und Elisabeth Amalie von Pfalz-Neuburg in Augsburg, gemeinsam mit Leopold I. und Eleonora Magdalena von Pfalz-Neuburg",
+    "location": [
+      {
+        "id": 5,
+        "value": "Augsburg",
+        "order": "5.00000000000000000000"
+      }
+    ],
+    "persons": [
+      {
+        "id": 9,
+        "value": "Eleonora Magdalena Theresia, geb. Pfalz-Neuburg",
+        "order": "9.00000000000000000000"
+      },
+      {
+        "id": 10,
+        "value": "Pfalz-Neuburg, Elisabeth Amalie von, geb. Hessen-Darmstadt",
+        "order": "10.00000000000000000000"
+      },
+      {
+        "id": 35,
+        "value": "Leopold I.",
+        "order": "35.00000000000000000000"
+      },
+      {
+        "id": 50,
+        "value": "Pfalz-Neuburg, Philipp Wilhelm von",
+        "order": "50.00000000000000000000"
+      }
+    ],
+    "from": "1689-10-18",
+    "to": "1690-02-03",
+    "uncertainty": [],
+    "date_text": ""
+  },
+  "9": {
+    "id": 9,
+    "order": "8.00000000000000000000",
+    "emt_id": "emt_visit_id__9",
+    "description": "Philipp Wilhelm von Pfalz-Neuburg in Wien (Tod am 2. September 1690)",
+    "location": [
+      {
+        "id": 63,
+        "value": "Wien, Stadt",
+        "order": "63.00000000000000000000"
+      }
+    ],
+    "persons": [
+      {
+        "id": 50,
+        "value": "Pfalz-Neuburg, Philipp Wilhelm von",
+        "order": "50.00000000000000000000"
+      }
+    ],
+    "from": "1690-07-10",
+    "to": "1690-09-02",
+    "uncertainty": [],
+    "date_text": ""
+  },
+  "10": {
+    "id": 10,
+    "order": "9.00000000000000000000",
+    "emt_id": "emt_visit_id__10",
+    "description": "Elisabeth Amalie von Pfalz Neuburg in Wien, wird dann von Johann Wilhelm von Pfalz-Neuburg nach Neuburg begleitet",
+    "location": [
+      {
+        "id": 63,
+        "value": "Wien, Stadt",
+        "order": "63.00000000000000000000"
+      }
+    ],
+    "persons": [
+      {
+        "id": 10,
+        "value": "Pfalz-Neuburg, Elisabeth Amalie von, geb. Hessen-Darmstadt",
+        "order": "10.00000000000000000000"
+      },
+      {
+        "id": 18,
+        "value": "Pfalz-Neuburg, Johann Wilhelm von",
+        "order": "18.00000000000000000000"
+      }
+    ],
+    "from": "1690-07-10",
+    "to": "1690-10-14",
+    "uncertainty": [],
+    "date_text": ""
+  },
+  "11": {
+    "id": 11,
+    "order": "10.00000000000000000000",
+    "emt_id": "emt_visit_id__11",
+    "description": "Johann Wilhelm von Pfalz-Neuburg per posta in Wien",
+    "location": [
+      {
+        "id": 63,
+        "value": "Wien, Stadt",
+        "order": "63.00000000000000000000"
+      }
+    ],
+    "persons": [
+      {
+        "id": 18,
+        "value": "Pfalz-Neuburg, Johann Wilhelm von",
+        "order": "18.00000000000000000000"
+      }
+    ],
+    "from": "1698-11-17",
+    "to": "1698-12-18",
+    "uncertainty": [],
+    "date_text": ""
+  },
+  "12": {
+    "id": 12,
+    "order": "11.00000000000000000000",
+    "emt_id": "emt_visit_id__12",
+    "description": "Johann Wilhelm und Anna Maria Luisa von Pfalz-Neuburg in Wiener Neustadt und Wien",
+    "location": [
+      {
+        "id": 63,
+        "value": "Wien, Stadt",
+        "order": "63.00000000000000000000"
+      },
+      {
+        "id": 66,
+        "value": "Wiener Neustadt",
+        "order": "66.00000000000000000000"
+      }
+    ],
+    "persons": [
+      {
+        "id": 18,
+        "value": "Pfalz-Neuburg, Johann Wilhelm von",
+        "order": "18.00000000000000000000"
+      },
+      {
+        "id": 123,
+        "value": "Pfalz-Neuburg, Anna Maria Luisa von, geb. Medici",
+        "order": "123.00000000000000000000"
+      }
+    ],
+    "from": "1700-08-24",
+    "to": "1700-09-12",
+    "uncertainty": [
+      {
+        "id": 23188,
+        "value": "to",
+        "color": "darker-blue"
+      }
+    ],
+    "date_text": "bis kurz nach dem 12. September"
+  },
+  "13": {
+    "id": 13,
+    "order": "12.00000000000000000000",
+    "emt_id": "emt_visit_id__13",
+    "description": "Johann Wilhelm von Pfalz-Neuburg in Wien, anwesend auch Karl Philipp und Alexander Sigmund von Pfalz-Neuburg",
+    "location": [
+      {
+        "id": 63,
+        "value": "Wien, Stadt",
+        "order": "63.00000000000000000000"
+      }
+    ],
+    "persons": [
+      {
+        "id": 18,
+        "value": "Pfalz-Neuburg, Johann Wilhelm von",
+        "order": "18.00000000000000000000"
+      },
+      {
+        "id": 29,
+        "value": "Pfalz-Neuburg, Karl Philipp von",
+        "order": "29.00000000000000000000"
+      },
+      {
+        "id": 127,
+        "value": "Pfalz-Neuburg, Alexander Sigmund von",
+        "order": "127.00000000000000000000"
+      }
+    ],
+    "from": "1704-01-26",
+    "to": "1704-08-02",
+    "uncertainty": [],
+    "date_text": ""
   }
 }

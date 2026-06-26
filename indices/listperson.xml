@@ -5542,10 +5542,22 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                   <persName type="name">bayrischer Resident in Wien 1684</persName>
                </person>
                <person xml:id="emt_person_id__461">
-                  <persName type="name">Thurn-Valsassina, NN von, soll Hofmeister werden 1684</persName>
+                  <persName type="name">Thurn-Valsassina, Karl Maximilian von</persName>
                   <persName type="title">
                      <roleName>Graf</roleName>
                   </persName>
+                  <persName type="function">
+                     <roleName>Vizekanzler des Königreichs Böhmen 1686-1693, Obersthofmeister der Kaiserin Eleonore Magdalena 1715-1716</roleName>
+                  </persName>
+                  <birth>
+                     <date notBefore="1643-01-01" notAfter="1643-12-31">1643</date>
+                  </birth>
+                  <death>
+                     <date notBefore="1716-01-01" notAfter="1716-12-31">1716</date>
+                  </death>
+                  <idno type="GND">https://d-nb.info/gnd/1164337777</idno>
+                  <idno type="NDB">https://www.deutsche-biographie.de/pnd1164337777.html#indexcontent</idno>
+                  <idno type="URL">https://viecpro.acdh.oeaw.ac.at/persons/187778</idno>
                </person>
                <person xml:id="emt_person_id__462">
                   <persName type="name">Medinaceli, Juan Francisco II. Tomás Lorenzo de la Cerda Enriquez de Ribera y Portocarrero, duque de</persName>
@@ -13496,7 +13508,7 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                   <persName type="name">Hohenzollern, Haus</persName>
                </person>
                <person xml:id="emt_person_id__1551">
-                  <persName type="name">Almirante (1705, Zusammenhang mit Spanien, Karl III./VI.)</persName>
+                  <persName type="name">Almirante de Castiglia (1705)</persName>
                </person>
                <person xml:id="emt_person_id__1552">
                   <persName type="name">Seraw (1705, Zusammenhang mit Tirol unf Pfalzgraf Karl)</persName>
@@ -16472,6 +16484,15 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                </person>
                <person xml:id="emt_person_id__1520">
                   <persName type="name">Sekretär des Emmerich Thököly (1683 gefangen genommen)</persName>
+               </person>
+               <person xml:id="emt_person_id__2164">
+                  <persName type="name">NN (1684 als Sprachmeister empfohlen)</persName>
+               </person>
+               <person xml:id="emt_person_id__2165">
+                  <persName type="name">Kokorzovec / Kokorschewetz / Cocorschowiz, Vater des für ein Amt in Aussicht GEnommenen 1705</persName>
+               </person>
+               <person xml:id="emt_person_id__2166">
+                  <persName type="name">das "bucklige Brüderchen" als Konkurrent um die Prinzessin von Ansbach 1705</persName>
                </person>
             </listPerson>
          </div>
