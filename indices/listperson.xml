@@ -7449,9 +7449,9 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                      <date notBefore="1602-01-01" notAfter="1602-12-31">1602</date>
                   </birth>
                   <death>
-                     <date notBefore="1676-01-01" notAfter="1676-12-31">1676</date>
+                     <date notBefore="1679-01-01" notAfter="1679-12-31">1679</date>
                   </death>
-                  <idno type="URL">https://kaiserhof.geschichte.lmu.de/10490</idno>
+                  <idno type="URL">https://viecpro.acdh.oeaw.ac.at/persons/250661</idno>
                </person>
                <person xml:id="emt_person_id__659">
                   <persName type="name">Eleonora, geb. Gonzaga</persName>
@@ -13592,7 +13592,7 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                   <persName type="name">Desvieux (französischer Offizier, 1705 Gefangenenaustausch)</persName>
                </person>
                <person xml:id="emt_person_id__1561">
-                  <persName type="name">Plöckner; Wolfgang SJ</persName>
+                  <persName type="name">Plöckner, Wolfgang SJ</persName>
                   <persName type="function">
                      <roleName>Beichtvater von Elisabeth Christine von Braunschweig-Wolfenbüttel</roleName>
                   </persName>
@@ -13858,7 +13858,7 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                   </death>
                </person>
                <person xml:id="emt_person_id__1614">
-                  <persName type="name">Vendôme, Louis Joseph de Borubon, de</persName>
+                  <persName type="name">Vendôme, Louis Joseph de Bourbon, de</persName>
                   <persName type="title">
                      <roleName>Duc</roleName>
                   </persName>
@@ -14158,10 +14158,10 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                   </figure>
                </person>
                <person xml:id="emt_person_id__1632">
-                  <persName type="name">Zem (1706 beim Bischof von Osnabrück, hinderlich für dessen Wahl in Münster)</persName>
+                  <persName type="name">Zem / Zeno / Ireno (1706 bis 1709 beim Bischof von Osnabrück, hinderlich für dessen Wahl in Münster)</persName>
                </person>
                <person xml:id="emt_person_id__1633">
-                  <persName type="name">Götzen, Maria Elisabeth von</persName>
+                  <persName type="name">Götzen, Maria Elisabeth von, vereh. Hohenfeld</persName>
                   <persName type="title">
                      <roleName>Gräfin</roleName>
                   </persName>
@@ -14315,9 +14315,6 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                </person>
                <person xml:id="emt_person_id__1680">
                   <persName type="name">Piling, NN (schreibt 1706 aus Lissabon)</persName>
-               </person>
-               <person xml:id="emt_person_id__1681">
-                  <persName type="name">Zeno (1706 im Umfeld von Herzog Karl Joseph von Lothringen)</persName>
                </person>
                <person xml:id="emt_person_id__1682">
                   <persName type="name">Taston (überbringt 1706 Nachricht aus Sulzbach)</persName>
@@ -15802,9 +15799,6 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                <person xml:id="emt_person_id__1877">
                   <persName type="name">Steirstorf (reist 1709 nach Wien)</persName>
                </person>
-               <person xml:id="emt_person_id__1878">
-                  <persName type="name">Ireno (1709 nicht mehr bei Karl Joseph von Lothringen)</persName>
-               </person>
                <person xml:id="emt_person_id__1879">
                   <persName type="name">Vota, Carlo Maurizio SJ</persName>
                   <persName type="title">
@@ -16493,6 +16487,55 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                </person>
                <person xml:id="emt_person_id__2166">
                   <persName type="name">das "bucklige Brüderchen" als Konkurrent um die Prinzessin von Ansbach 1705</persName>
+               </person>
+               <person xml:id="emt_person_id__2167">
+                  <persName type="name">Salm, Ludwig Otto zu</persName>
+                  <persName type="title">
+                     <roleName>Fürst</roleName>
+                  </persName>
+                  <persName type="title">
+                     <roleName>Rheingraf</roleName>
+                  </persName>
+                  <birth>
+                     <date notBefore="1674-01-01" notAfter="1674-12-31">1674</date>
+                  </birth>
+                  <death>
+                     <date notBefore="1738-01-01" notAfter="1738-12-31">1738</date>
+                  </death>
+                  <idno type="GND">https://d-nb.info/gnd/139630465</idno>
+                  <idno type="NDB">https://www.deutsche-biographie.de/sfz109738.html#indexcontent</idno>
+               </person>
+               <person xml:id="emt_person_id__2168">
+                  <persName type="name">Bergeyck, Jean de Brouchoven de</persName>
+                  <persName type="function">
+                     <roleName>Surintendant Général des Finances</roleName>
+                  </persName>
+                  <birth>
+                     <date notBefore="1644-01-01" notAfter="1644-12-31">1644</date>
+                  </birth>
+                  <death>
+                     <date notBefore="1714-01-01" notAfter="1714-12-31">1714</date>
+                  </death>
+                  <idno type="URL">https://gw.geneanet.org/tessaone?lang=fr&amp;n=de+brouchoven+de+bergeyck&amp;p=jean</idno>
+               </person>
+               <person xml:id="emt_person_id__2169">
+                  <persName type="name">Goëss, Johann Peter von</persName>
+                  <persName type="title">
+                     <roleName>Graf</roleName>
+                  </persName>
+                  <persName type="function">
+                     <roleName>kaiserlicher Gesandter in den Niederlanden 1698 bis 1707</roleName>
+                  </persName>
+                  <birth>
+                     <date notBefore="1667-01-01" notAfter="1667-12-31">1667</date>
+                  </birth>
+                  <death>
+                     <date notBefore="1716-01-01" notAfter="1716-12-31">1716</date>
+                  </death>
+                  <idno type="GND">https://d-nb.info/gnd/136096018</idno>
+               </person>
+               <person xml:id="emt_person_id__1681">
+                  <persName type="name">NN (wird 1686 als Falkenmeister empfohlen)</persName>
                </person>
             </listPerson>
          </div>
