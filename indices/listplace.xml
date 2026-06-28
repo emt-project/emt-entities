@@ -2710,7 +2710,7 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                   <idno type="GEONAMES">https://sws.geonames.org/3177112/</idno>
                </place>
                <place xml:id="emt_place_id__801">
-                  <placeName>Piombino</placeName>
+                  <placeName>Piombino, Fürstentum</placeName>
                   <location type="coords">
                      <geo>42.92554 10.525850</geo>
                   </location>
@@ -2915,6 +2915,13 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                      <geo>45.55000 18.916670</geo>
                   </location>
                   <idno type="GEONAMES">https://sws.geonames.org/3183477/</idno>
+               </place>
+               <place xml:id="emt_place_id__963">
+                  <placeName>Villaviciosa</placeName>
+                  <location type="coords">
+                     <geo>43.48126 -5.435740</geo>
+                  </location>
+                  <idno type="GEONAMES">https://sws.geonames.org/3104707/</idno>
                </place>
             </listPlace>
          </div>

@@ -5821,6 +5821,9 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                   <persName type="title">
                      <roleName>Großherzog</roleName>
                   </persName>
+                  <persName type="function">
+                     <roleName>Großherzog von Toskana</roleName>
+                  </persName>
                   <birth>
                      <date notBefore="1642-01-01" notAfter="1642-12-31">1642</date>
                   </birth>
@@ -11702,6 +11705,12 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                   <persName type="function">
                      <roleName>Diplomat, Geheimsekretär der spanischen Königin Maria Anna, geb. von Pfalz-Neuburg</roleName>
                   </persName>
+                  <birth>
+                     <date notBefore="1664-01-01" notAfter="1664-12-31">1664</date>
+                  </birth>
+                  <death>
+                     <date notBefore="1749-01-01" notAfter="1749-12-31">1749</date>
+                  </death>
                   <idno type="URL">https://es.wikipedia.org/wiki/Enrique_Wiser</idno>
                </person>
                <person xml:id="emt_person_id__1223">
@@ -11916,6 +11925,9 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                   <persName type="title">
                      <roleName>Großherzog</roleName>
                   </persName>
+                  <persName type="function">
+                     <roleName>Großherzog von Toskana</roleName>
+                  </persName>
                   <birth>
                      <date notBefore="1610-01-01" notAfter="1610-12-31">1610</date>
                   </birth>
@@ -12067,7 +12079,7 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                   </figure>
                </person>
                <person xml:id="emt_person_id__1249">
-                  <persName type="name">Medici, Matthias von</persName>
+                  <persName type="name">Medici, Matthias de'</persName>
                   <persName type="title">
                      <roleName>Prinz</roleName>
                   </persName>
@@ -12085,7 +12097,7 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                   </figure>
                </person>
                <person xml:id="emt_person_id__1250">
-                  <persName type="name">Medici, Anna von</persName>
+                  <persName type="name">Medici, Anna de', vereh. Österreich (Tirol)</persName>
                   <persName type="title">
                      <roleName>Erzherzogin</roleName>
                   </persName>
@@ -12103,13 +12115,22 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                   </figure>
                </person>
                <person xml:id="emt_person_id__1251">
-                  <persName type="name">Medici, Giancarlo von</persName>
+                  <persName type="name">Medici, Giancarlo de'</persName>
+                  <persName type="title">
+                     <roleName>Kardinal</roleName>
+                  </persName>
                   <birth>
                      <date notBefore="1611-01-01" notAfter="1611-12-31">1611</date>
                   </birth>
                   <death>
                      <date notBefore="1663-01-01" notAfter="1663-12-31">1663</date>
                   </death>
+                  <idno type="GND">https://d-nb.info/gnd/129593370</idno>
+                  <idno type="WIKIDATA">http://www.wikidata.org/entity/Q1316745</idno>
+                  <figure>
+                     <graphic url="emt_person_id__1251.jpg"/>
+                     <caption>Giovan Carlo de' Medici, il volterrano (palatine gallery).jpg</caption>
+                  </figure>
                </person>
                <person xml:id="emt_person_id__1252">
                   <persName type="name">Schwester der Vogtin (Voit?) (1699)</persName>
@@ -15564,13 +15585,16 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                   <persName type="name">Lonfrano, NN Marchese (1709 aus Spanien nach Wien gekommen)</persName>
                </person>
                <person xml:id="emt_person_id__1820">
-                  <persName type="name">Hartmann von Klarstein, Franz Maximilian von</persName>
+                  <persName type="name">Hartmann von Klarstein (Clarstein), Franz Maximilian von</persName>
                   <persName type="title">
                      <roleName>Graf</roleName>
                   </persName>
                   <persName type="function">
                      <roleName>Appellations-Vizepräsident in Böhmen, kaiserlicher Geheimrat</roleName>
                   </persName>
+                  <birth>
+                     <date notBefore="1662-01-01" notAfter="1662-12-31">1662</date>
+                  </birth>
                   <death>
                      <date notBefore="1725-01-01" notAfter="1725-12-31">1725</date>
                   </death>
@@ -15868,7 +15892,7 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                   </persName>
                </person>
                <person xml:id="emt_person_id__1887">
-                  <persName type="name">Schönborn</persName>
+                  <persName type="name">Schönborn, "Vetter" des Kurfürsten von Mainz 1709</persName>
                </person>
                <person xml:id="emt_person_id__1888">
                   <persName type="name">Löwenstein-Wertheim-Rochefort, Maximilian Karl zu</persName>
@@ -16074,7 +16098,7 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                   </figure>
                </person>
                <person xml:id="emt_person_id__1940">
-                  <persName type="name">Clarstein (soll 1710 nicht entlassen werden)</persName>
+                  <persName type="name">Clarstein (Klarstein?) (soll 1710 nicht entlassen werden)</persName>
                </person>
                <person xml:id="emt_person_id__1941">
                   <persName type="name">Borromeo, Carlo IV. von</persName>
@@ -16387,7 +16411,7 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                   <persName type="name">Castellan (1702, ein Schreiben an ihn)</persName>
                </person>
                <person xml:id="emt_person_id__2079">
-                  <persName type="name">NN, von (1710 erwähnt)</persName>
+                  <persName type="name">Baroness von NN (1710 erwähnt)</persName>
                </person>
                <person xml:id="emt_person_id__2080">
                   <persName type="name">NN (1710 Obersthofmeister der verwitweten Königin Maria Anna von Spanien)</persName>
@@ -16536,6 +16560,22 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                </person>
                <person xml:id="emt_person_id__1681">
                   <persName type="name">NN (wird 1686 als Falkenmeister empfohlen)</persName>
+               </person>
+               <person xml:id="emt_person_id__2170">
+                  <persName type="name">Rehbinder, Bernhard Otto von</persName>
+                  <persName type="function">
+                     <roleName>pfälzischer General</roleName>
+                  </persName>
+                  <birth>
+                     <date notBefore="1662-01-01" notAfter="1662-12-31">1662</date>
+                  </birth>
+                  <death>
+                     <date notBefore="1743-01-01" notAfter="1743-12-31">1743</date>
+                  </death>
+                  <idno type="URL">https://www.oesta.gv.at/dam/jcr:29b98584-9598-456f-9e7d-61650d3f30df/Kaiserliche%20bzw_%20k_%20k_%20Generale%201618-1815%20_Liste_.pdf</idno>
+               </person>
+               <person xml:id="emt_person_id__2171">
+                  <persName type="name">Ecchelense, Kanoniker in Rom 1712</persName>
                </person>
             </listPerson>
          </div>
