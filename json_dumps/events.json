@@ -6297,37 +6297,6 @@
                         "color": "darker-red"
                     }
                 ]
-            },
-            {
-                "id": 138,
-                "order": "138.00000000000000000000",
-                "name": "Claudia Felicitas, geb. Tirol",
-                "gnd": "http://d-nb.info/101072872",
-                "other_url": "",
-                "emt_id": "emt_person_id__138",
-                "internal_comment": "",
-                "color": "",
-                "lebensdaten": "",
-                "ndb": "https://www.deutsche-biographie.de/sfz48936.html#indexcontent",
-                "year_of_birth": "1653",
-                "year_of_death": "1676",
-                "wikidata_url": "",
-                "wikidata_enriched": false,
-                "img_name": "",
-                "img_fetched": false,
-                "img_source": "",
-                "birth_date_written": "",
-                "death_date_written": "",
-                "geschlecht": null,
-                "funktionsbezeichnungen": null,
-                "unidentifiziert": false,
-                "titel": [
-                    {
-                        "id": 19702,
-                        "value": "Kaiserin",
-                        "color": "deep-dark-orange"
-                    }
-                ]
             }
         ],
         "description": "",

@@ -526,5 +526,13 @@
     "gnd": "",
     "emt_id": "emt_institution_id__258",
     "intern": ""
+  },
+  "259": {
+    "id": 259,
+    "order": "67.00000000000000000000",
+    "name": "",
+    "gnd": "",
+    "emt_id": "emt_institution_id__259",
+    "intern": ""
   }
 }
