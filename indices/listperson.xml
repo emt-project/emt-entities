@@ -7629,6 +7629,7 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                   <persName type="function">
                      <roleName>Kammerdienerin</roleName>
                   </persName>
+                  <idno type="URL">https://viecpro.acdh.oeaw.ac.at/persons/170964</idno>
                </person>
                <person xml:id="emt_person_id__684">
                   <persName type="name">Nikerlin, Frau, 1687 im Hofstaat EMT</persName>
@@ -8004,7 +8005,7 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                      <roleName>Marquis</roleName>
                   </persName>
                   <persName type="function">
-                     <roleName>General, Marschall von Frankreich</roleName>
+                     <roleName>General, Marschall von Frankreich, Diplomat</roleName>
                   </persName>
                   <birth>
                      <date notBefore="1653-01-01" notAfter="1653-12-31">1653</date>
