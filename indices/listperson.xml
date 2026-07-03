@@ -6979,6 +6979,9 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                   <persName type="title">
                      <roleName>Herzog</roleName>
                   </persName>
+                  <persName type="title">
+                     <roleName>Kurfürst</roleName>
+                  </persName>
                   <persName type="function">
                      <roleName>Bischof / Erzbischof und Kurfürst von Trier</roleName>
                   </persName>
@@ -7125,7 +7128,7 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                   </death>
                </person>
                <person xml:id="emt_person_id__632">
-                  <persName type="name">Herberstein, Frau von 1687</persName>
+                  <persName type="name">Herberstein, Frau von, heiratet 1687</persName>
                </person>
                <person xml:id="emt_person_id__633">
                   <persName type="name">Giulia 1687</persName>
@@ -16567,6 +16570,12 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                </person>
                <person xml:id="emt_person_id__2175">
                   <persName type="name">NN (heiratet 1686, vermutlich Hoffräulein)</persName>
+               </person>
+               <person xml:id="emt_person_id__2176">
+                  <persName type="name">Nutz, Herr von, Reichkammergerichtsassessor 1711</persName>
+               </person>
+               <person xml:id="emt_person_id__2177">
+                  <persName type="name">pfälzischer Subdelegierter am Reichskammergericht 17111</persName>
                </person>
             </listPerson>
          </div>

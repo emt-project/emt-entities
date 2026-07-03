@@ -534,5 +534,13 @@
     "gnd": "",
     "emt_id": "emt_institution_id__259",
     "intern": ""
+  },
+  "260": {
+    "id": 260,
+    "order": "68.00000000000000000000",
+    "name": "Reichskammergericht",
+    "gnd": "",
+    "emt_id": "emt_institution_id__260",
+    "intern": ""
   }
 }
