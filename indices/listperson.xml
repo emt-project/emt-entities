@@ -4644,7 +4644,7 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                   <persName type="name">Schmidt, NN, ist 1683 in Bayern in Ungnade gefallen</persName>
                </person>
                <person xml:id="emt_person_id__375">
-                  <persName type="name">Justi, Diplomat 1683</persName>
+                  <persName type="name">Justi / Giusti, Diplomat 1683</persName>
                </person>
                <person xml:id="emt_person_id__376">
                   <persName type="name">Orsini-Rosenberg, Wolfgang Andreas von</persName>
@@ -5123,9 +5123,6 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                   <idno type="GND">https://d-nb.info/gnd/117466638</idno>
                   <idno type="NDB">https://www.deutsche-biographie.de/117466638.html</idno>
                </person>
-               <person xml:id="emt_person_id__419">
-                  <persName type="name">Giusti, NN, in Eheverhandlungen in Portugal involviert 1684</persName>
-               </person>
                <person xml:id="emt_person_id__420">
                   <persName type="name">Starhemberg, Bruder von Ernst Rüdiger 1684</persName>
                </person>
@@ -5255,7 +5252,7 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                      <roleName>Abbate</roleName>
                   </persName>
                   <persName type="function">
-                     <roleName>pfalz-neuburgischer Resident in Rom 1657-1697. Repertorium 403, 409. Todesjahr: Noack, Deutschtum 163 sowie https://www.degruyterbrill.com/document/doi/10.1515/9783110616200-005/html   Näheres zu seiner Person (allerdings kein Geburtsdatum) bei Jaitner, Reichskirchenpolitik bes. 99f., wo im ganzen Aufsatz auch viele seiner Schreiben und Aktivitäten  im Dienst PWs zitiert werden.</roleName>
+                     <roleName>pfalz-neuburgischer Resident in Rom 1657-1697</roleName>
                   </persName>
                   <death>
                      <date notBefore="1697-01-01" notAfter="1697-12-31">1697</date>
@@ -7128,7 +7125,7 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                   </death>
                </person>
                <person xml:id="emt_person_id__632">
-                  <persName type="name">Herberstein, Frau von, heiratet 1687</persName>
+                  <persName type="name">Herberstein, Frau von 1687</persName>
                </person>
                <person xml:id="emt_person_id__633">
                   <persName type="name">Giulia 1687</persName>
@@ -11165,18 +11162,6 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                   <idno type="GND">https://d-nb.info/gnd/1089498950</idno>
                   <idno type="NDB">https://www.deutsche-biographie.de/pnd1089498950.html#index</idno>
                   <idno type="WIKIDATA">http://www.wikidata.org/entity/Q1599554</idno>
-               </person>
-               <person xml:id="emt_person_id__1116">
-                  <persName type="name">Pierucci, Pietro</persName>
-                  <persName type="title">
-                     <roleName>Abbate</roleName>
-                  </persName>
-                  <persName type="function">
-                     <roleName>pfälzischer Resident in Rom</roleName>
-                  </persName>
-                  <death>
-                     <date notBefore="1697-01-01" notAfter="1697-12-31">1697</date>
-                  </death>
                </person>
                <person xml:id="emt_person_id__1117">
                   <persName type="name">Fede, Antonio Maria / Macio</persName>
@@ -16576,6 +16561,33 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                </person>
                <person xml:id="emt_person_id__2177">
                   <persName type="name">pfälzischer Subdelegierter am Reichskammergericht 17111</persName>
+               </person>
+               <person xml:id="emt_person_id__2178">
+                  <persName type="name">NN (Hoffräulein, soll 1688 bald heiraten)</persName>
+               </person>
+               <person xml:id="emt_person_id__2179">
+                  <persName type="name">Zum Jungen, Johann Hieronymus</persName>
+                  <persName type="title">
+                     <roleName>Baron</roleName>
+                  </persName>
+                  <persName type="function">
+                     <roleName>Generalfelmarschall</roleName>
+                  </persName>
+                  <birth>
+                     <date notBefore="1660-01-01" notAfter="1660-12-31">1660</date>
+                  </birth>
+                  <death>
+                     <date notBefore="1732-01-01" notAfter="1732-12-31">1732</date>
+                  </death>
+                  <idno type="GND">https://d-nb.info/gnd/137671296</idno>
+                  <idno type="NDB">https://www.deutsche-biographie.de/sfz38072.html#indexcontent</idno>
+                  <idno type="URL">https://de.wikipedia.org/wiki/Johann_Hieronymus_von_und_zum_Jungen</idno>
+               </person>
+               <person xml:id="emt_person_id__2180">
+                  <persName type="name">Gamba, Finanzier in Turin 1711</persName>
+               </person>
+               <person xml:id="emt_person_id__2181">
+                  <persName type="name">Sekretär des Fürsten Hieronim Augustyn Lubomirski 1688</persName>
                </person>
             </listPerson>
          </div>
