@@ -4449,7 +4449,7 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                      <roleName>Fürst</roleName>
                   </persName>
                   <persName type="function">
-                     <roleName>1683-1704 Großprior von Deutschland des Johanniterordens und in dieser Eigenschaft Reichsfürst von Heitersheim; zuvor Erzieher von Johann Wilhelm von Pfalz-Neuburg; 1690-98 Statthalter im Herzogtum Jülich-Berg</roleName>
+                     <roleName>1683-1704 Großprior des deutschen Johanniterordens und in dieser Eigenschaft Reichsfürst von Heitersheim</roleName>
                   </persName>
                   <death>
                      <date notBefore="1704-01-01" notAfter="1704-12-31">1704</date>
@@ -16588,6 +16588,9 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                </person>
                <person xml:id="emt_person_id__2181">
                   <persName type="name">Sekretär des Fürsten Hieronim Augustyn Lubomirski 1688</persName>
+               </person>
+               <person xml:id="emt_person_id__2182">
+                  <persName type="name">Batl / Vatl ?, Herr von (1691)</persName>
                </person>
             </listPerson>
          </div>
