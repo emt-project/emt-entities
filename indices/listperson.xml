@@ -16351,6 +16351,11 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                      <date notBefore="1726-01-01" notAfter="1726-12-31">1726</date>
                   </death>
                   <idno type="GND">https://d-nb.info/gnd/1017916969</idno>
+                  <idno type="WIKIDATA">http://www.wikidata.org/entity/Q292123</idno>
+                  <figure>
+                     <graphic url="emt_person_id__2043.jpg"/>
+                     <caption>Portrait d'Augusta Marie Jeanne de Baden-Baden, duchesse d'Orléans, détail (jlpw16 0333).jpg</caption>
+                  </figure>
                </person>
                <person xml:id="emt_person_id__2076">
                   <persName type="name">Jörger von Tollet (Familie)</persName>
@@ -16416,6 +16421,11 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                      <date notBefore="1699-01-01" notAfter="1699-12-31">1699</date>
                   </death>
                   <idno type="GND">https://d-nb.info/gnd/136697992</idno>
+                  <idno type="WIKIDATA">http://www.wikidata.org/entity/Q477583</idno>
+                  <figure>
+                     <graphic url="emt_person_id__2155.jpg"/>
+                     <caption>Georg II. Württemberg-Mömpelgard.jpg</caption>
+                  </figure>
                </person>
                <person xml:id="emt_person_id__2156">
                   <persName type="name">Württemberg-Mömpelgard, Leopold Eberhard von</persName>
@@ -16429,6 +16439,7 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                      <date notBefore="1723-01-01" notAfter="1723-12-31">1723</date>
                   </death>
                   <idno type="GND">https://d-nb.info/gnd/128876166</idno>
+                  <idno type="WIKIDATA">http://www.wikidata.org/entity/Q959764</idno>
                </person>
                <person xml:id="emt_person_id__2157">
                   <persName type="name">Fugger, früheres Kammerfräulein der Herzogin von Lothringen 1698</persName>
@@ -16479,6 +16490,7 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                   </death>
                   <idno type="GND">https://d-nb.info/gnd/139630465</idno>
                   <idno type="NDB">https://www.deutsche-biographie.de/sfz109738.html#indexcontent</idno>
+                  <idno type="WIKIDATA">http://www.wikidata.org/entity/Q252493</idno>
                </person>
                <person xml:id="emt_person_id__2168">
                   <persName type="name">Bergeyck, Jean de Brouchoven de</persName>
@@ -16508,6 +16520,11 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                      <date notBefore="1716-01-01" notAfter="1716-12-31">1716</date>
                   </death>
                   <idno type="GND">https://d-nb.info/gnd/136096018</idno>
+                  <idno type="WIKIDATA">http://www.wikidata.org/entity/Q55850550</idno>
+                  <figure>
+                     <graphic url="emt_person_id__2169.jpg"/>
+                     <caption>Wappen der Grafen von Goess nach Tyroff.png</caption>
+                  </figure>
                </person>
                <person xml:id="emt_person_id__1681">
                   <persName type="name">NN (wird 1686 als Falkenmeister empfohlen)</persName>
@@ -16581,7 +16598,12 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                   </death>
                   <idno type="GND">https://d-nb.info/gnd/137671296</idno>
                   <idno type="NDB">https://www.deutsche-biographie.de/sfz38072.html#indexcontent</idno>
+                  <idno type="WIKIDATA">http://www.wikidata.org/entity/Q3808867</idno>
                   <idno type="URL">https://de.wikipedia.org/wiki/Johann_Hieronymus_von_und_zum_Jungen</idno>
+                  <figure>
+                     <graphic url="emt_person_id__2179.jpg"/>
+                     <caption>Johann Hieronymus von und zum Jungen.jpg</caption>
+                  </figure>
                </person>
                <person xml:id="emt_person_id__2180">
                   <persName type="name">Gamba, Finanzier in Turin 1711</persName>
