@@ -19044,7 +19044,7 @@
     "gnd": "",
     "other_url": "",
     "emt_id": "emt_person_id__719",
-    "internal_comment": "könnte Herrmann Friedrich von H-Hechingen sein, der erst Domherr in Köln, dann kaiserlicher General war: https://de.wikipedia.org/wiki/Hermann_Friedrich_von_Hohenzollern-Hechingen",
+    "internal_comment": "könnte Herrmann Friedrich von H-Hechingen sein, der erst Domherr in Köln, dann kaiserlicher General war: https://de.wikipedia.org/wiki/Hermann_Friedrich_von_Hohenzollern-Hechingen\nist der einzige passende: Empfohlene Zitierweise: „Hermann Friedrich von Hohenzollern-Hechingen“ (GSN: 042-00975-001), in: Germania Sacra, https://personendatenbank.germania-sacra.de/index/gsn/042-00975-001 (Abgerufen: 08.07.2026).",
     "color": "",
     "lebensdaten": "",
     "ndb": "",
@@ -39351,7 +39351,7 @@
     "death_date_written": "",
     "geschlecht": "",
     "funktionsbezeichnungen": "",
-    "unidentifiziert": false,
+    "unidentifiziert": true,
     "titel": []
   },
   "2041": {
