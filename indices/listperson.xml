@@ -2242,9 +2242,6 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                      <caption>Ferdinand Schwarzenberg.jpg</caption>
                   </figure>
                </person>
-               <person xml:id="emt_person_id__150">
-                  <persName type="name">Jägermeister Kaiser Leopolds I. 1677, 1679 (in Prag) und 1681</persName>
-               </person>
                <person xml:id="emt_person_id__151">
                   <persName type="name">Bevilacqua, Luigi</persName>
                   <persName type="function">
@@ -3545,7 +3542,7 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                   <persName type="name">Drezelin, NN</persName>
                </person>
                <person xml:id="emt_person_id__268">
-                  <persName type="name">Crescentius</persName>
+                  <persName type="name">Crescentius, Pater</persName>
                   <persName type="title">
                      <roleName>Pater</roleName>
                   </persName>
@@ -5472,10 +5469,20 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                   <persName type="name">Schedlitz, Herr von, 1684</persName>
                </person>
                <person xml:id="emt_person_id__458">
-                  <persName type="name">Khevenhüller, NN., Oberstjägermeister</persName>
+                  <persName type="name">Khevenhüller, Franz Christoph d. J.</persName>
+                  <persName type="title">
+                     <roleName>Graf</roleName>
+                  </persName>
+                  <persName type="function">
+                     <roleName>Oberstjägermeister</roleName>
+                  </persName>
+                  <birth>
+                     <date notBefore="1634-01-01" notAfter="1634-12-31">1634</date>
+                  </birth>
                   <death>
                      <date notBefore="1684-01-01" notAfter="1684-12-31">1684</date>
                   </death>
+                  <idno type="URL">https://genealogy.euweb.cz/austria/kheven2.html</idno>
                </person>
                <person xml:id="emt_person_id__459">
                   <persName type="name">Avila, wohl spanischer oder portugiesischer Amtsträger 1684</persName>
@@ -5694,7 +5701,7 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                   <idno type="GND">https://d-nb.info/gnd/115880534</idno>
                </person>
                <person xml:id="emt_person_id__488">
-                  <persName type="name">Sporck; Johann von</persName>
+                  <persName type="name">Sporck, Johann von</persName>
                   <persName type="title">
                      <roleName>Graf</roleName>
                   </persName>
@@ -6319,14 +6326,20 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                <person xml:id="emt_person_id__551">
                   <persName type="name">Maria Magdalena vom Heiligen Sacrament</persName>
                   <persName type="function">
-                     <roleName>Priorin</roleName>
+                     <roleName>Priorin der Karmelitinnen in Aachen</roleName>
                   </persName>
                </person>
                <person xml:id="emt_person_id__552">
                   <persName type="name">Maria Agnes vom Heiligen Geist</persName>
+                  <persName type="function">
+                     <roleName>Karmelitin in Aachen</roleName>
+                  </persName>
                </person>
                <person xml:id="emt_person_id__553">
                   <persName type="name">Catharina Teresia von Jesus</persName>
+                  <persName type="function">
+                     <roleName>Karmelitin in Aachen</roleName>
+                  </persName>
                </person>
                <person xml:id="emt_person_id__554">
                   <persName type="name">Brederode, Johann Adolph von</persName>
@@ -6874,7 +6887,7 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                   <idno type="URL">https://kalliope-verbund.info/de/eac?eac.id=138777497</idno>
                </person>
                <person xml:id="emt_person_id__610">
-                  <persName type="name">Schleswig-Holstein-Wiesenburg, Charlotte von, geb. Liegnitz-Brieg-Wohlau</persName>
+                  <persName type="name">Holstein-Sonderburg-Wiesenburg, Charlotte von, geb. Liegnitz-Brieg-Wohlau</persName>
                   <persName type="title">
                      <roleName>Herzogin</roleName>
                   </persName>
@@ -10595,9 +10608,6 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                <person xml:id="emt_person_id__1070">
                   <persName type="name">Liechtenstein, NN von, 1696 für oberösterreichische Geheimratsstelle empfohlen</persName>
                </person>
-               <person xml:id="emt_person_id__1071">
-                  <persName type="name">Conuonge, NN (1696 in französischem Auftrag nach Innsbruck geschickt)</persName>
-               </person>
                <person xml:id="emt_person_id__1072">
                   <persName type="name">Frankh, NN (1696 im Dienst Dänemarks in Wien)</persName>
                </person>
@@ -10621,7 +10631,7 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                      <roleName>Marques</roleName>
                   </persName>
                   <persName type="function">
-                     <roleName>portugiesischer Botschafter in Wien</roleName>
+                     <roleName>portugiesischer Botschafter in Wien 1696</roleName>
                   </persName>
                   <birth>
                      <date notBefore="1661-01-01" notAfter="1661-12-31">1661</date>
@@ -10629,7 +10639,12 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                   <death>
                      <date notBefore="1713-01-01" notAfter="1713-12-31">1713</date>
                   </death>
+                  <idno type="WIKIDATA">http://www.wikidata.org/entity/Q9697154</idno>
                   <idno type="URL">https://kaiserin.hypotheses.org/2278#_ftnref1</idno>
+                  <figure>
+                     <graphic url="emt_person_id__1074.jpg"/>
+                     <caption>Charles Joseph Procope de Ligne.png</caption>
+                  </figure>
                </person>
                <person xml:id="emt_person_id__1075">
                   <persName type="name">Schoonjans, Antonius</persName>
@@ -10765,6 +10780,9 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                   <persName type="function">
                      <roleName>kaiserlicher General</roleName>
                   </persName>
+                  <birth>
+                     <date notBefore="1646-01-01" notAfter="1646-12-31">1646</date>
+                  </birth>
                   <death>
                      <date notBefore="1708-01-01" notAfter="1708-12-31">1708</date>
                   </death>
@@ -10800,28 +10818,6 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                </person>
                <person xml:id="emt_person_id__1089">
                   <persName type="name">portugiesischer Gesandter (wohl nicht Ligne, 1696)</persName>
-               </person>
-               <person xml:id="emt_person_id__1090">
-                  <persName type="name">Bayern, Joseph Ferdinand Leopold von</persName>
-                  <persName type="title">
-                     <roleName>Herzog</roleName>
-                  </persName>
-                  <persName type="function">
-                     <roleName>Kurprinz von Bayern</roleName>
-                  </persName>
-                  <birth>
-                     <date notBefore="1692-01-01" notAfter="1692-12-31">1692</date>
-                  </birth>
-                  <death>
-                     <date notBefore="1699-01-01" notAfter="1699-12-31">1699</date>
-                  </death>
-                  <idno type="GND">https://d-nb.info/gnd/11877641X</idno>
-                  <idno type="NDB">https://www.deutsche-biographie.de/pnd11877641X.html#indexcontent</idno>
-                  <idno type="WIKIDATA">http://www.wikidata.org/entity/Q57909</idno>
-                  <figure>
-                     <graphic url="emt_person_id__1090.jpg"/>
-                     <caption>Retrato del príncipe electoral José Fernando de Baviera, obra de Joseph Vivien (1698). Königliches Schloss Berchtesgaden.png</caption>
-                  </figure>
                </person>
                <person xml:id="emt_person_id__1091">
                   <persName type="name">Geismar, Johann Friedrich von</persName>
@@ -11428,7 +11424,7 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                   <persName type="name">Pfalz-Sulzbach, Haus</persName>
                </person>
                <person xml:id="emt_person_id__1172">
-                  <persName type="name">Pfalz-Zweibrücken-Birkenfeld, Christian II.</persName>
+                  <persName type="name">Pfalz-Zweibrücken-Birkenfeld, Christian II. von</persName>
                   <persName type="title">
                      <roleName>Pfalzgraf</roleName>
                   </persName>
@@ -12160,9 +12156,6 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                      <roleName>Pater</roleName>
                   </persName>
                </person>
-               <person xml:id="emt_person_id__1267">
-                  <persName type="name">Wiener Karmelitinnen</persName>
-               </person>
                <person xml:id="emt_person_id__1268">
                   <persName type="name">"die bewuste" (soll 1700 weg aus Düsseldorf)</persName>
                   <persName type="function">
@@ -12339,7 +12332,7 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                   <persName type="name">Offizial des Hochstifts Augsburg 1701</persName>
                </person>
                <person xml:id="emt_person_id__1319">
-                  <persName type="name">Oberin der Wiener Karmelitinnen 1701</persName>
+                  <persName type="name">Montoimer, Oberin der Wiener Karmelitinnen 1701</persName>
                </person>
                <person xml:id="emt_person_id__1320">
                   <persName type="name">Davia, Gianantonio</persName>
@@ -12627,7 +12620,7 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                   <persName type="name">Wilich (Wylich?) wird 1701 empfohlen</persName>
                </person>
                <person xml:id="emt_person_id__1411">
-                  <persName type="name">NN (Tochter des Antonio Ansalone, wird 1701 empfohlen)</persName>
+                  <persName type="name">Ansalone (Tochter des Antonio Ansalone, wird 1701 empfohlen)</persName>
                </person>
                <person xml:id="emt_person_id__1412">
                   <persName type="name">Ansalone, Bartolomeo Antonio</persName>
@@ -12636,7 +12629,7 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                   </persName>
                </person>
                <person xml:id="emt_person_id__1445">
-                  <persName type="name">Starhemberg, Maria Esther Theresia</persName>
+                  <persName type="name">Starhemberg, Maria Esther Theresia von</persName>
                   <persName type="title">
                      <roleName>Gräfin</roleName>
                   </persName>
@@ -13240,7 +13233,7 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                   </persName>
                </person>
                <person xml:id="emt_person_id__1529">
-                  <persName type="name">Thürheim, Christoph Wilhelm</persName>
+                  <persName type="name">Thürheim, Christoph Wilhelm von</persName>
                   <persName type="title">
                      <roleName>Graf</roleName>
                   </persName>
@@ -13429,7 +13422,7 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                   <idno type="URL">https://de.wikisource.org/wiki/BLK%C3%96:Strattmann,_die_Grafen_und_Strattmann-Batthyany,_die_F%C3%BCrsten</idno>
                </person>
                <person xml:id="emt_person_id__1548">
-                  <persName type="name">Brunner, Johann Konrad (auch Brunn von Hammerstein)</persName>
+                  <persName type="name">Brunner (Brunn von Hammerstein), Johann Konrad</persName>
                   <persName type="title">
                      <roleName>Doktor</roleName>
                   </persName>
@@ -13587,7 +13580,7 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                   </death>
                </person>
                <person xml:id="emt_person_id__1564">
-                  <persName type="name">Gonzaga, Eleonora Luisa von</persName>
+                  <persName type="name">Gonzaga, Eleonora Luisa</persName>
                   <persName type="title">
                      <roleName>Herzogin</roleName>
                   </persName>
@@ -13711,7 +13704,7 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                   </figure>
                </person>
                <person xml:id="emt_person_id__1607">
-                  <persName type="name">Sachsen-Weißenfels, Johanna Wilhelmine</persName>
+                  <persName type="name">Sachsen-Weißenfels, Johanna Wilhelmine von</persName>
                   <persName type="title">
                      <roleName>Prinzessin</roleName>
                   </persName>
@@ -13855,7 +13848,7 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                   </figure>
                </person>
                <person xml:id="emt_person_id__1616">
-                  <persName type="name">Braunschweig-Lüneburg (Hannover), Sophie Dorothea</persName>
+                  <persName type="name">Braunschweig-Lüneburg (Hannover), Sophie Dorothea von</persName>
                   <persName type="title">
                      <roleName>Prinzessin</roleName>
                   </persName>
@@ -13877,7 +13870,7 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                   </figure>
                </person>
                <person xml:id="emt_person_id__1617">
-                  <persName type="name">Sachsen-Weißenfels, Anna Maria</persName>
+                  <persName type="name">Sachsen-Weißenfels, Anna Maria von</persName>
                   <persName type="title">
                      <roleName>Prinzessin</roleName>
                   </persName>
@@ -13957,7 +13950,7 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                   <idno type="URL">https://viecpro.acdh.oeaw.ac.at/persons/247354</idno>
                </person>
                <person xml:id="emt_person_id__1623">
-                  <persName type="name">Braunschweig-Wolfenbüttel, Ludwig Rudolf</persName>
+                  <persName type="name">Braunschweig-Wolfenbüttel, Ludwig Rudolf von</persName>
                   <persName type="title">
                      <roleName>Herzog</roleName>
                   </persName>
@@ -14070,7 +14063,7 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                   </figure>
                </person>
                <person xml:id="emt_person_id__1629">
-                  <persName type="name">NN (1705)</persName>
+                  <persName type="name">General des Theatinerordens (1705)</persName>
                   <persName type="function">
                      <roleName>General des Theatinerordens</roleName>
                   </persName>
