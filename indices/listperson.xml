@@ -9158,7 +9158,7 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                   <idno type="URL">https://de.wikipedia.org/wiki/Melchiori_(Adelsgeschlecht)</idno>
                </person>
                <person xml:id="emt_person_id__814">
-                  <persName type="name">Abbate Firmiani 1694</persName>
+                  <persName type="name">Firmiani, Abbate 1694</persName>
                </person>
                <person xml:id="emt_person_id__815">
                   <persName type="name">Hessen-Darmstadt, Marie Therese von, geb. Prinzessin von Croy</persName>
@@ -14721,9 +14721,6 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                <person xml:id="emt_person_id__1715">
                   <persName type="name">Este, Haus</persName>
                </person>
-               <person xml:id="emt_person_id__1716">
-                  <persName type="name"/>
-               </person>
                <person xml:id="emt_person_id__1717">
                   <persName type="name">Farnese, Haus</persName>
                </person>
@@ -15684,7 +15681,10 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                   <persName type="name">Ralshausen /Rolshausen, Herr (1713)</persName>
                </person>
                <person xml:id="emt_person_id__1837">
-                  <persName type="name">Hofmarschall des Bischofs von Konstanz 1713</persName>
+                  <persName type="name">Reichenstein, Nikolaus Paul Reich von</persName>
+                  <persName type="function">
+                     <roleName>Hofmarschall des Bischofs von Konstanz 1713</roleName>
+                  </persName>
                </person>
                <person xml:id="emt_person_id__1870">
                   <persName type="name">Kuefstein, Johann Ferdinand von</persName>
@@ -15792,16 +15792,19 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                   <persName type="name">Eisenfels, von (stellt 1709 Anspruch auf Erbschaft des Violett)</persName>
                </person>
                <person xml:id="emt_person_id__1883">
-                  <persName type="name">Cossambrato, Vittorio Tarino di</persName>
+                  <persName type="name">Cossombrato, Ignazio Vittorio Tarino Imperiale di</persName>
                   <persName type="title">
                      <roleName>Conte</roleName>
                   </persName>
                   <persName type="function">
                      <roleName>savoyischer Gesandter in Wien 1703-1709</roleName>
                   </persName>
+                  <death>
+                     <date notBefore="1719-01-01" notAfter="1719-12-31">1719</date>
+                  </death>
                </person>
                <person xml:id="emt_person_id__1884">
-                  <persName type="name">Freyberg, Christoph Benedikt</persName>
+                  <persName type="name">Freyberg, Christoph Benedikt von</persName>
                   <persName type="function">
                      <roleName>Agent des Augsburger Domkapitels in Wien um 1709, Domherr in Augsburg</roleName>
                   </persName>
@@ -15907,9 +15910,6 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                </person>
                <person xml:id="emt_person_id__1931">
                   <persName type="name">NN (kaiserlicher Kommissar, 1710 in der Oberpfalz verhaftet)</persName>
-               </person>
-               <person xml:id="emt_person_id__1932">
-                  <persName type="name">NN ("Bühl brüderchen, 1710)</persName>
                </person>
                <person xml:id="emt_person_id__1933">
                   <persName type="name">Bayern, Karl Albrecht von</persName>
@@ -16184,9 +16184,6 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                   </persName>
                   <idno type="NDB">https://www.deutsche-biographie.de/gnd1073135977.html?language=de#ndbcontent</idno>
                </person>
-               <person xml:id="emt_person_id__1989">
-                  <persName type="name">Dickfeldt</persName>
-               </person>
                <person xml:id="emt_person_id__2022">
                   <persName type="name">Callières, François de, sieur de Rochelay et de Gigny</persName>
                   <persName type="function">
@@ -16290,7 +16287,7 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                   <idno type="URL">https://viecpro.acdh.oeaw.ac.at/persons/68491</idno>
                </person>
                <person xml:id="emt_person_id__2031">
-                  <persName type="name">Cünsbrukh (1711 in Vorbereitungen zur Kaiserwahl involviert)</persName>
+                  <persName type="name">Consbrukh (1711 in Vorbereitungen zur Kaiserwahl involviert)</persName>
                </person>
                <person xml:id="emt_person_id__2032">
                   <persName type="name">Monsignore Ronfrano (überbringt 1711 Schreiben)</persName>
