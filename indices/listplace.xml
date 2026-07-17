@@ -2923,6 +2923,13 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                   </location>
                   <idno type="GEONAMES">https://sws.geonames.org/3104707/</idno>
                </place>
+               <place xml:id="emt_place_id__964">
+                  <placeName>Komorn/Komárno/Komárom</placeName>
+                  <location type="coords">
+                     <geo>47.76356 18.122630</geo>
+                  </location>
+                  <idno type="GEONAMES">https://sws.geonames.org/3059436/</idno>
+               </place>
             </listPlace>
          </div>
       </body>

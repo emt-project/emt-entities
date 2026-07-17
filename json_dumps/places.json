@@ -7078,5 +7078,20 @@
     "alternative_name": "",
     "wikidata_url": "",
     "unidentifiziert": false
+  },
+  "964": {
+    "id": 964,
+    "order": "480.00000000000000000000",
+    "name": "Komorn/Komárno/Komárom",
+    "geonames": "https://www.geonames.org/3059436/komarno.html",
+    "emt_id": "emt_place_id__964",
+    "place_type": null,
+    "lat": "47.76356",
+    "long": "18.122630",
+    "comments intern": "",
+    "gnd": "",
+    "alternative_name": "",
+    "wikidata_url": "",
+    "unidentifiziert": false
   }
 }

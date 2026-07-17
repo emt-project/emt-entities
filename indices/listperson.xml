@@ -2696,6 +2696,9 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                   <persName type="title">
                      <roleName>Gräfin</roleName>
                   </persName>
+                  <persName type="function">
+                     <roleName>Hoffräulein</roleName>
+                  </persName>
                </person>
                <person xml:id="emt_person_id__193">
                   <persName type="name">Rappach, Gräfin, 1679</persName>
@@ -3691,9 +3694,6 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                      <date notBefore="1694-01-01" notAfter="1694-12-31">1694</date>
                   </death>
                   <idno type="URL">https://de.wikipedia.org/wiki/Stadl_(Adelsgeschlecht)#Familienmitglieder</idno>
-               </person>
-               <person xml:id="emt_person_id__283">
-                  <persName type="name">Burg, NN, Obrist</persName>
                </person>
                <person xml:id="emt_person_id__285">
                   <persName type="name">Mollard, Ferdinand Ernst von</persName>
@@ -5064,10 +5064,16 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                   <idno type="URL">http://w.genealogy.euweb.cz/oett/oett3.html</idno>
                </person>
                <person xml:id="emt_person_id__413">
-                  <persName type="name">Breuner, NN, Kandidat als Obersthofmeister EMT 1683</persName>
+                  <persName type="name">Breuner, Franz Albrecht</persName>
                   <persName type="title">
                      <roleName>Graf</roleName>
                   </persName>
+                  <birth>
+                     <date notBefore="1628-01-01" notAfter="1628-12-31">1628</date>
+                  </birth>
+                  <death>
+                     <date notBefore="1684-01-01" notAfter="1684-12-31">1684</date>
+                  </death>
                </person>
                <person xml:id="emt_person_id__414">
                   <persName type="name">Ungnad von Weißenwolff, Helmhard Christoph</persName>
@@ -5951,9 +5957,6 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                </person>
                <person xml:id="emt_person_id__509">
                   <persName type="name">Pfluech, Herr 1685</persName>
-               </person>
-               <person xml:id="emt_person_id__510">
-                  <persName type="name">Borstorf, NN. 1685, Kommandant zu Düsseldorf</persName>
                </person>
                <person xml:id="emt_person_id__511">
                   <persName type="name">spanischer Feuerwerker, 1685 in Wien</persName>
@@ -7723,24 +7726,6 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                      <roleName>Kammerdienerin EMT</roleName>
                   </persName>
                   <idno type="URL">https://viecpro.oeaw.ac.at/persons/263622</idno>
-               </person>
-               <person xml:id="emt_person_id__697">
-                  <persName type="name">Brandenburg, Ludwig von</persName>
-                  <persName type="title">
-                     <roleName>Markgraf</roleName>
-                  </persName>
-                  <birth>
-                     <date notBefore="1666-01-01" notAfter="1666-12-31">1666</date>
-                  </birth>
-                  <death>
-                     <date notBefore="1687-01-01" notAfter="1687-12-31">1687</date>
-                  </death>
-                  <idno type="GND">https://d-nb.info/gnd/104183152</idno>
-                  <idno type="WIKIDATA">http://www.wikidata.org/entity/Q824990</idno>
-                  <figure>
-                     <graphic url="emt_person_id__697.jpg"/>
-                     <caption>LudwigvonBrandenburg.JPG</caption>
-                  </figure>
                </person>
                <person xml:id="emt_person_id__698">
                   <persName type="name">Hamel Bruynincx, Gerard</persName>
@@ -11175,7 +11160,7 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                   </death>
                </person>
                <person xml:id="emt_person_id__1118">
-                  <persName type="name">Brandenburg-Ansbach, Wilhelmine Karoline</persName>
+                  <persName type="name">Brandenburg-Ansbach, Wilhelmine Karoline von</persName>
                   <persName type="title">
                      <roleName>Markgräfin</roleName>
                   </persName>
@@ -11571,7 +11556,7 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                   <persName type="name">"französischer Engel" 1698</persName>
                </person>
                <person xml:id="emt_person_id__1218">
-                  <persName type="name">Brandenburg-Ansbach, Dorothea Friederike</persName>
+                  <persName type="name">Brandenburg-Ansbach, Dorothea Friederike von</persName>
                   <persName type="title">
                      <roleName>Markgräfin</roleName>
                   </persName>
@@ -11590,7 +11575,7 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                   </figure>
                </person>
                <person xml:id="emt_person_id__1219">
-                  <persName type="name">Brandenburg-Ansbach, Georg Friedrich</persName>
+                  <persName type="name">Brandenburg-Ansbach, Georg Friedrich von</persName>
                   <persName type="title">
                      <roleName>Markgraf</roleName>
                   </persName>
@@ -11609,7 +11594,7 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                   </figure>
                </person>
                <person xml:id="emt_person_id__1220">
-                  <persName type="name">Brandenburg-Ansbach, Wilhelm Friedrich</persName>
+                  <persName type="name">Brandenburg-Ansbach, Wilhelm Friedrich von</persName>
                   <persName type="title">
                      <roleName>Markgraf</roleName>
                   </persName>
@@ -12848,7 +12833,7 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                   <idno type="WIKIDATA">http://www.wikidata.org/entity/Q1405669</idno>
                </person>
                <person xml:id="emt_person_id__1496">
-                  <persName type="name">Brandenburg-Bayreuth, Christian Ernst</persName>
+                  <persName type="name">Brandenburg-Bayreuth, Christian Ernst von</persName>
                   <persName type="title">
                      <roleName>Markgraf</roleName>
                   </persName>
@@ -13468,7 +13453,7 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                   </persName>
                </person>
                <person xml:id="emt_person_id__1554">
-                  <persName type="name">Breuner, Johann Joseph von</persName>
+                  <persName type="name">Breuner, Johann Joseph</persName>
                   <persName type="title">
                      <roleName>Graf</roleName>
                   </persName>
@@ -15086,7 +15071,7 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                      <roleName>Marques</roleName>
                   </persName>
                   <persName type="function">
-                     <roleName>portugiesischer Botschafter in Wien</roleName>
+                     <roleName>portugiesischer Botschafter in Heidelberg 1686/1687, in Wien 1707/1708</roleName>
                   </persName>
                   <birth>
                      <date notBefore="1641-01-01" notAfter="1641-12-31">1641</date>
@@ -15644,12 +15629,6 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                      <caption>Mme Dangeau, fransk markisinna - Nationalmuseum - 176968.png</caption>
                   </figure>
                </person>
-               <person xml:id="emt_person_id__1831">
-                  <persName type="name">Antinori, Cavaliere</persName>
-                  <persName type="function">
-                     <roleName>1708 bis 1712 Resident (?) für Florenz in Wien</roleName>
-                  </persName>
-               </person>
                <person xml:id="emt_person_id__1832">
                   <persName type="name">Gadela, Marzio</persName>
                </person>
@@ -16028,7 +16007,7 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                   <persName type="name">Clarstein (Klarstein?) (soll 1710 nicht entlassen werden)</persName>
                </person>
                <person xml:id="emt_person_id__1941">
-                  <persName type="name">Borromeo, Carlo IV. von</persName>
+                  <persName type="name">Borromeo, Carlo IV.</persName>
                   <persName type="title">
                      <roleName>Graf</roleName>
                   </persName>
@@ -16603,6 +16582,21 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                </person>
                <person xml:id="emt_person_id__2182">
                   <persName type="name">Batl / Vatl ?, Herr von (1691)</persName>
+               </person>
+               <person xml:id="emt_person_id__2184">
+                  <persName type="name">Verein/Werein, Frau (1686)</persName>
+               </person>
+               <person xml:id="emt_person_id__2185">
+                  <persName type="name">Windischgrätz, Maria Katharina von</persName>
+                  <persName type="function">
+                     <roleName>Karmeliterin in Graz</roleName>
+                  </persName>
+                  <birth>
+                     <date notBefore="1678-01-01" notAfter="1678-12-31">1678</date>
+                  </birth>
+                  <death>
+                     <date notBefore="1706-01-01" notAfter="1706-12-31">1706</date>
+                  </death>
                </person>
             </listPerson>
          </div>
