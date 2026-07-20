@@ -2843,7 +2843,7 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                   </figure>
                </person>
                <person xml:id="emt_person_id__207">
-                  <persName type="name">Bruder des Grafen von Oettingen 1679</persName>
+                  <persName type="name">Oettingen, Bruder des Grafen von Oettingen 1679</persName>
                </person>
                <person xml:id="emt_person_id__208">
                   <persName type="name">Wangen, Franz Christoph von</persName>
@@ -3627,7 +3627,7 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                   <idno type="NDB">https://www.deutsche-biographie.de/sfz22668.html#indexcontent</idno>
                </person>
                <person xml:id="emt_person_id__276">
-                  <persName type="name">Cosmo / Cosmas</persName>
+                  <persName type="name">Cosmo / Cosmas, Geistlicher</persName>
                   <persName type="title">
                      <roleName>Pater</roleName>
                   </persName>
@@ -6123,7 +6123,7 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                   </figure>
                </person>
                <person xml:id="emt_person_id__524">
-                  <persName type="name">Bruder Florian 1685</persName>
+                  <persName type="name">Florian, Geistlicher 1685</persName>
                </person>
                <person xml:id="emt_person_id__525">
                   <persName type="name">Obristleutnant des Fürsten Salm, verteidigt 1685 Gran</persName>
@@ -8993,7 +8993,7 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                   <idno type="URL">https://personendatenbank.germania-sacra.de/index/gnd/116293934</idno>
                </person>
                <person xml:id="emt_person_id__803">
-                  <persName type="name">Daun, Wirich Philipp Lorenz</persName>
+                  <persName type="name">Daun, Wirich Philipp Lorenz von</persName>
                   <persName type="title">
                      <roleName>Graf</roleName>
                   </persName>
@@ -10206,13 +10206,13 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                <person xml:id="emt_person_id__970">
                   <persName type="name">D'Arezzo, Bernardino</persName>
                   <persName type="function">
-                     <roleName>General des Kapuzinerordens</roleName>
+                     <roleName>General des Kapuzinerordens 1693 bis 1698</roleName>
                   </persName>
                   <birth>
-                     <date notBefore="1691-01-01" notAfter="1691-12-31">1691</date>
+                     <date notBefore="1636-01-01" notAfter="1636-12-31">1636</date>
                   </birth>
                   <death>
-                     <date notBefore="1698-01-01" notAfter="1698-12-31">1698</date>
+                     <date notBefore="1718-01-01" notAfter="1718-12-31">1718</date>
                   </death>
                   <idno type="GND">https://d-nb.info/gnd/11887070X</idno>
                   <idno type="NDB">https://www.deutsche-biographie.de/pnd11887070X.html#index</idno>
@@ -11278,7 +11278,7 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                   </figure>
                </person>
                <person xml:id="emt_person_id__1156">
-                  <persName type="name">Dietrichstein, Franz von</persName>
+                  <persName type="name">Dietrichstein, Franz Anton von</persName>
                   <persName type="title">
                      <roleName>Graf</roleName>
                   </persName>
@@ -11293,6 +11293,7 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                   </death>
                   <idno type="GND">https://d-nb.info/gnd/121735963X</idno>
                   <idno type="NDB">https://www.deutsche-biographie.de/pnd121735963X.html#index</idno>
+                  <idno type="URL">https://books.google.at/books?id=tD0TAAAAYAAJ</idno>
                </person>
                <person xml:id="emt_person_id__1159">
                   <persName type="name">Hessen-Darmstadt, Friedrich von</persName>
@@ -12677,10 +12678,14 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                   <persName type="name">Sölner/Solner (übergibt 1702 ein Memorial)</persName>
                </person>
                <person xml:id="emt_person_id__1450">
-                  <persName type="name">Dietrichstein (1702, Ehefrau von Graf Franz von Dietrichstein)</persName>
+                  <persName type="name">Dietrichstein, Dorothea Josepha von, geb. Wlaschim</persName>
                   <persName type="title">
                      <roleName>Gräfin</roleName>
                   </persName>
+                  <death>
+                     <date notBefore="1742-01-01" notAfter="1742-12-31">1742</date>
+                  </death>
+                  <idno type="URL">https://books.google.at/books?id=tD0TAAAAYAAJ</idno>
                </person>
                <person xml:id="emt_person_id__1451">
                   <persName type="name">Salisch, Ernst Wilhelm von</persName>
@@ -14452,9 +14457,9 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                   <idno type="WIKIDATA">http://www.wikidata.org/entity/Q2665883</idno>
                </person>
                <person xml:id="emt_person_id__1695">
-                  <persName type="name">Churchill, John, Duke of Marlborough, Fürst von Mindelheim</persName>
+                  <persName type="name">Marlborough, John Churchill of</persName>
                   <persName type="title">
-                     <roleName>Fürst</roleName>
+                     <roleName>Herzog</roleName>
                   </persName>
                   <persName type="function">
                      <roleName>englischer General</roleName>
@@ -15454,7 +15459,7 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                   <persName type="name">Rogati, NN (wird 1708 nach Spanien empfohlen)</persName>
                </person>
                <person xml:id="emt_person_id__1813">
-                  <persName type="name">Callenberg, Johann Joseph (Priester, die Nonnen von Münstereifel bitten für ihn 1708)</persName>
+                  <persName type="name">Callenberg, Johann Joseph (Priester, 1708)</persName>
                </person>
                <person xml:id="emt_person_id__1814">
                   <persName type="name">Bodman, Rupert von</persName>
@@ -15750,7 +15755,7 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                   <persName type="name">Blumendal (Blumenthal?) (Trompeter, 1709 empfohlen)</persName>
                </person>
                <person xml:id="emt_person_id__1881">
-                  <persName type="name">Dänemark, Anna Sophie von, verh. Kurfürstin von Sachsen</persName>
+                  <persName type="name">Sachsen, Anna Sophie von, geb. Dänemark</persName>
                   <persName type="title">
                      <roleName>Kurfürstin</roleName>
                   </persName>
@@ -15887,9 +15892,6 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                <person xml:id="emt_person_id__1930">
                   <persName type="name">NN (Maler, 1710 empfohlen)</persName>
                </person>
-               <person xml:id="emt_person_id__1931">
-                  <persName type="name">NN (kaiserlicher Kommissar, 1710 in der Oberpfalz verhaftet)</persName>
-               </person>
                <person xml:id="emt_person_id__1933">
                   <persName type="name">Bayern, Karl Albrecht von</persName>
                   <persName type="title">
@@ -16002,9 +16004,6 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                      <graphic url="emt_person_id__1938.jpg"/>
                      <caption>Paul-Joseph Delcloche (attributed), Portrait of the Liège Prince-Bishop John Theodore of Bavaria.jpg</caption>
                   </figure>
-               </person>
-               <person xml:id="emt_person_id__1940">
-                  <persName type="name">Clarstein (Klarstein?) (soll 1710 nicht entlassen werden)</persName>
                </person>
                <person xml:id="emt_person_id__1941">
                   <persName type="name">Borromeo, Carlo IV.</persName>
@@ -16265,9 +16264,6 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                   </death>
                   <idno type="URL">https://viecpro.acdh.oeaw.ac.at/persons/68491</idno>
                </person>
-               <person xml:id="emt_person_id__2031">
-                  <persName type="name">Consbrukh (1711 in Vorbereitungen zur Kaiserwahl involviert)</persName>
-               </person>
                <person xml:id="emt_person_id__2032">
                   <persName type="name">Monsignore Ronfrano (überbringt 1711 Schreiben)</persName>
                </person>
@@ -16370,7 +16366,7 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                   <persName type="name">Oldenburg (Haus)</persName>
                </person>
                <person xml:id="emt_person_id__2152">
-                  <persName type="name">Delci, in Rom 1697</persName>
+                  <persName type="name">D'Elci, in Rom 1697</persName>
                </person>
                <person xml:id="emt_person_id__2153">
                   <persName type="name">Badestini, Abbate, 1697 in Rom</persName>
@@ -16520,7 +16516,7 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                      <roleName>Reichshofrat</roleName>
                   </persName>
                   <death>
-                     <date notBefore="1714-01-01" notAfter="1714-12-31">1714</date>
+                     <date notBefore="1712-01-01" notAfter="1712-12-31">1712</date>
                   </death>
                   <idno type="URL">https://reichshofratsakten.de/wp-content/uploads/2016/11/Reichshofr%C3%A4tePdf_%C3%9Cberschriften.pdf</idno>
                </person>
