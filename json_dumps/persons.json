@@ -94,7 +94,7 @@
   "6": {
     "id": 6,
     "order": "6.00000000000000000000",
-    "name": "Juwelier Olivier (1705, hat Information zu Prinzessin Wilhelmine Karoline von Brandenburg-Ansbach)",
+    "name": "Olivier, Juwelier (1705, hat Information zu Prinzessin Wilhelmine Karoline von Brandenburg-Ansbach)",
     "gnd": "",
     "other_url": "",
     "emt_id": "emt_person_id__6",
@@ -980,7 +980,7 @@
     "gnd": "",
     "other_url": "",
     "emt_id": "emt_person_id__34",
-    "internal_comment": "",
+    "internal_comment": "Litický z Šonova",
     "color": null,
     "lebensdaten": null,
     "ndb": "",
@@ -996,7 +996,13 @@
     "geschlecht": null,
     "funktionsbezeichnungen": null,
     "unidentifiziert": true,
-    "titel": []
+    "titel": [
+      {
+        "id": 19689,
+        "value": "Graf",
+        "color": "purple"
+      }
+    ]
   },
   "35": {
     "id": 35,
@@ -3893,7 +3899,7 @@
   "137": {
     "id": 137,
     "order": "137.00000000000000000000",
-    "name": "Margarita Teresa, geb. Spanien",
+    "name": "Margarita Maria Teresa, geb. Spanien",
     "gnd": "http://d-nb.info/118730991",
     "other_url": "",
     "emt_id": "emt_person_id__137",
@@ -4808,7 +4814,7 @@
   "172": {
     "id": 172,
     "order": "172.00000000000000000000",
-    "name": "Hoffmann von Grünbühel, Maria Elisabeth, vereh. Dietrichstein",
+    "name": "Hofmann von Grünbühel, Maria Elisabeth, vereh. Dietrichstein",
     "gnd": "",
     "other_url": "https://kaiserhof.geschichte.lmu.de/31262",
     "emt_id": "emt_person_id__172",
@@ -5266,7 +5272,7 @@
   "189": {
     "id": 189,
     "order": "189.00000000000000000000",
-    "name": "Fugger von Kirchheim und Weißenhorn, Franz Ernst",
+    "name": "Fugger von Kirchberg, Franz Ernst",
     "gnd": "http://d-nb.info/136021026",
     "other_url": "",
     "emt_id": "emt_person_id__189",
@@ -6603,7 +6609,7 @@
   "240": {
     "id": 240,
     "order": "240.00000000000000000000",
-    "name": "Frankreich, Maria Anna von, geb. Bayern",
+    "name": "Maria Anna von Frankreich, geb. Bayern",
     "gnd": "http://d-nb.info/120251922",
     "other_url": "",
     "emt_id": "emt_person_id__240",
@@ -7135,7 +7141,7 @@
   "259": {
     "id": 259,
     "order": "259.00000000000000000000",
-    "name": "Farnese, Alessandro",
+    "name": "Parma, Alessandro Farnese von",
     "gnd": "https://d-nb.info/gnd/12031942X",
     "other_url": "https://www.treccani.it/enciclopedia/alessandro-farnese_res-e9ad90ea-87ec-11dc-8e9d-0016357eee51_(Dizionario-Biografico)/",
     "emt_id": "emt_person_id__259",
@@ -7585,7 +7591,7 @@
   "277": {
     "id": 277,
     "order": "277.00000000000000000000",
-    "name": "Jochem (Joachim)",
+    "name": "Jochem (Joachim), Geistlicher",
     "gnd": "",
     "other_url": "",
     "emt_id": "emt_person_id__277",
@@ -7962,7 +7968,7 @@
     "gnd": "",
     "other_url": "",
     "emt_id": "emt_person_id__293",
-    "internal_comment": "Marquard Ignaz von Egloff war mit JW auf Kavalierstour, siehe https://hvneuburg.wordpress.com/wp-content/uploads/2019/12/hofrat.pdf\nsiehe auch Schmidt, Erziehung pfälzische Wittelsbacher, S. CXXXIII",
+    "internal_comment": "Marquard Ignaz von Egloff war mit JW auf Kavalierstour, siehe https://hvneuburg.wordpress.com/wp-content/uploads/2019/12/hofrat.pdf\nsiehe auch Schmidt, Erziehung pfälzische Wittelsbacher, S. CXXXIII\n\nGeschite des Hauses von Egloffstein bietet wenig Hilfreiches, siehe https://www.digitale-sammlungen.de/de/view/bsb11747252?page=50&q=Egloffstein",
     "color": "",
     "lebensdaten": "",
     "ndb": "",
@@ -10675,16 +10681,16 @@
   "395": {
     "id": 395,
     "order": "395.00000000000000000000",
-    "name": "Golstein, Herr von 1683, 1687, 1694",
+    "name": "Golstein, Johann Friedrich von",
     "gnd": "",
-    "other_url": "",
+    "other_url": "https://de.wikipedia.org/wiki/Goltstein_(Adelsgeschlecht)",
     "emt_id": "emt_person_id__395",
-    "internal_comment": "überbringt Schreiben PWs an EMT im September 1683 nach Linz; wird auch 1687 erwähnt mit Mitteilung der Ankunft Ludwig Antons in Ofen. Im Dez. schickt EMT einen Brief statt mit Kurier mit ihm zu JW. Lehner, LA von Pf-N. S. 208: ein Goldstein rät JW um 1694 zum Versetzen seiner Juwelen zweck Kosten Lüttich für FL. Nicht bei Lau gefunden. Kneschke, Adelslexikon Bd. 3 (u.anderswo, auch Kaiser und Höfe): gibt eine Familie Goltstein ua. in kurpfälz. und jülisch-berg. Dienst, die E. 17.Jh. teils den Grafenstand erreicht https://books.google.de/books?id=usgEAAAAIAAJ&pg=PA592#v=onepage&q&f=false",
+    "internal_comment": "siehe https://www.archive.nrw.de/nl/archivsuche?link=VERZEICHUNGSEINHEIT-Vz_a4277f44-2724-4fbd-a41f-f1ea1d440454",
     "color": "",
     "lebensdaten": "",
     "ndb": "",
     "year_of_birth": null,
-    "year_of_death": null,
+    "year_of_death": "1687",
     "wikidata_url": "",
     "wikidata_enriched": false,
     "img_name": "",
@@ -10693,8 +10699,8 @@
     "birth_date_written": "",
     "death_date_written": "",
     "geschlecht": "",
-    "funktionsbezeichnungen": null,
-    "unidentifiziert": true,
+    "funktionsbezeichnungen": "Kanzler Jülich-Berg",
+    "unidentifiziert": false,
     "titel": []
   },
   "396": {
@@ -11459,7 +11465,7 @@
   "424": {
     "id": 424,
     "order": "424.00000000000000000000",
-    "name": "Liechtenstein, Gräfin/Fürstin von",
+    "name": "Liechtenstein, Gräfin von",
     "gnd": "",
     "other_url": "",
     "emt_id": "emt_person_id__424",
@@ -12765,7 +12771,7 @@
     "gnd": "",
     "other_url": "",
     "emt_id": "emt_person_id__475",
-    "internal_comment": "ist einer der Kandidaten als Obersthofmeister für Franz Ludwig; wird von Kinsky vorgeschlagen",
+    "internal_comment": "ist einer der Kandidaten als Obersthofmeister für Franz Ludwig; wird von Kinsky vorgeschlagen - unklar, welcher der beiden hier Genannten: https://de.wikipedia.org/wiki/Gaschin_(Adelsgeschlecht)#Stammreihe_der_Linie_in_Schlesien_und_M%C3%A4hren",
     "color": "",
     "lebensdaten": "",
     "ndb": "",
@@ -13598,7 +13604,7 @@
   "512": {
     "id": 512,
     "order": "508.00000000000000000000",
-    "name": "Fastenprediger bei Kaiserin Eleonora 1685",
+    "name": "Fastenprediger bei Kaiserinwitwe Eleonora 1685",
     "gnd": "",
     "other_url": "",
     "emt_id": "emt_person_id__512",
@@ -14244,7 +14250,7 @@
   "535": {
     "id": 535,
     "order": "531.00000000000000000000",
-    "name": "Fugger, Klara Dorothea, geb. Welsperg",
+    "name": "Fugger von Kirchberg, Klara Dorothea, geb. Welsperg",
     "gnd": "",
     "other_url": "",
     "emt_id": "emt_person_id__535",
@@ -14325,11 +14331,11 @@
   "538": {
     "id": 538,
     "order": "534.00000000000000000000",
-    "name": "Güttich, Geheimrat (1691)",
+    "name": "Güttich, Geheimrat (1686, 1691)",
     "gnd": "",
     "other_url": "",
     "emt_id": "emt_person_id__538",
-    "internal_comment": "erwähnt 20.2.1691, nicht in Lau, Regierungskollegien gefunden",
+    "internal_comment": "EMT will wissen, wie es dem Gültich mit seinen Hasenohren ergangen ist - wird mit JW in Wien gewesen sein 1686\nerwähnt 20.2.1691, nicht in Lau, Regierungskollegien gefunden",
     "color": "",
     "lebensdaten": "",
     "ndb": "",
@@ -14406,7 +14412,7 @@
   "544": {
     "id": 544,
     "order": "540.00000000000000000000",
-    "name": "Lüdinghausen genannt Wolf SJ, Friedrich von",
+    "name": "Lüdinghausen genannt Wolf, Friedrich von SJ",
     "gnd": "https://d-nb.info/gnd/132798549",
     "other_url": "",
     "emt_id": "emt_person_id__544",
@@ -14830,7 +14836,7 @@
   "566": {
     "id": 566,
     "order": "561.00000000000000000000",
-    "name": "Merveldt, Friedrich Wilhelm von (1692)",
+    "name": "Merveldt, Friedrich Wilhelm von",
     "gnd": "https://d-nb.info/gnd/129643912",
     "other_url": "https://de.wikipedia.org/wiki/Merveldt_(Adelsgeschlecht)#Linie_zu_Merfeld",
     "emt_id": "emt_person_id__566",
@@ -14849,7 +14855,7 @@
     "death_date_written": "",
     "geschlecht": "",
     "funktionsbezeichnungen": "",
-    "unidentifiziert": true,
+    "unidentifiziert": false,
     "titel": [
       {
         "id": 19689,
@@ -15785,7 +15791,7 @@
     "gnd": "http://d-nb.info/1051948495",
     "other_url": "",
     "emt_id": "emt_person_id__601",
-    "internal_comment": "Bittner/Groß 148: 1688 bis 1694 in Lüttich für den Kaiser",
+    "internal_comment": "Bittner/Groß 148: 1688 bis 1694 in Lüttich für den Kaiser\nWissgrill, S. 330",
     "color": "",
     "lebensdaten": "",
     "ndb": "https://www.deutsche-biographie.de/1051948495.html",
@@ -15801,31 +15807,6 @@
     "geschlecht": "",
     "funktionsbezeichnungen": "Reichshofrat, Diplomat, kaiserlicher und pfalz-neuburgischer Kämmerer",
     "unidentifiziert": false,
-    "titel": []
-  },
-  "602": {
-    "id": 602,
-    "order": "597.00000000000000000000",
-    "name": "Gültich, NN 1686",
-    "gnd": "",
-    "other_url": "",
-    "emt_id": "emt_person_id__602",
-    "internal_comment": "EMT will wissen, wie es dem Gültich mit seinen Hasenohren ergangen ist - wird mit JW in Wien gewesen sein 1686",
-    "color": "",
-    "lebensdaten": "",
-    "ndb": "",
-    "year_of_birth": null,
-    "year_of_death": null,
-    "wikidata_url": "",
-    "wikidata_enriched": false,
-    "img_name": "",
-    "img_fetched": false,
-    "img_source": "",
-    "birth_date_written": "",
-    "death_date_written": "",
-    "geschlecht": "",
-    "funktionsbezeichnungen": "",
-    "unidentifiziert": true,
     "titel": []
   },
   "603": {
@@ -16408,7 +16389,7 @@
   "624": {
     "id": 624,
     "order": "619.00000000000000000000",
-    "name": "Ehefrau des Dr. Schweizer (1693 bereits verstorben)",
+    "name": "Schweizer, Ehefrau des Dr. Schweizer (1693 bereits verstorben)",
     "gnd": "",
     "other_url": "",
     "emt_id": "emt_person_id__624",
@@ -16624,7 +16605,7 @@
     "gnd": "",
     "other_url": "",
     "emt_id": "emt_person_id__632",
-    "internal_comment": "für sie sollte EMT Fürsprache einlegen, aber ihr Memorial kam zu spät an \nim September 1687 wird ihre bevorstehende Hochzeit erwähnt in Wien",
+    "internal_comment": "für sie sollte EMT Fürsprache einlegen, aber ihr Memorial kam zu spät an \nim September 1687 wird ihre bevorstehende Hochzeit erwähnt in Wien\nlaut Wissgrill, 290, heiratete 1687 ein Hoffräulein der Kaiserin Eleonora, Johanna Theresia von Herberstein, Franz Anton von Sonau und stirbt 1692",
     "color": "",
     "lebensdaten": "",
     "ndb": "",
@@ -16695,26 +16676,26 @@
   "635": {
     "id": 635,
     "order": "630.00000000000000000000",
-    "name": "Galen, Herr von 1688",
-    "gnd": "",
-    "other_url": "",
+    "name": "Galen, Christoph Heinrich von",
+    "gnd": "https://d-nb.info/gnd/136350135",
+    "other_url": "https://de.wikipedia.org/wiki/Christoph_Heinrich_von_Galen_zu_Assen",
     "emt_id": "emt_person_id__635",
     "internal_comment": "überbringt im Juni 1688 ein Schreiben JWs an EMT",
     "color": "",
     "lebensdaten": "",
-    "ndb": "",
-    "year_of_birth": null,
-    "year_of_death": null,
-    "wikidata_url": "",
-    "wikidata_enriched": false,
+    "ndb": "https://www.deutsche-biographie.de/sfz19799.html#indexcontent",
+    "year_of_birth": "1662",
+    "year_of_death": "1731",
+    "wikidata_url": "http://www.wikidata.org/entity/Q56676104",
+    "wikidata_enriched": true,
     "img_name": "",
-    "img_fetched": false,
+    "img_fetched": true,
     "img_source": "",
     "birth_date_written": "",
     "death_date_written": "",
     "geschlecht": "",
-    "funktionsbezeichnungen": "",
-    "unidentifiziert": true,
+    "funktionsbezeichnungen": "Reichshofrat",
+    "unidentifiziert": false,
     "titel": []
   },
   "636": {
@@ -17612,31 +17593,6 @@
         "color": "purple"
       }
     ]
-  },
-  "669": {
-    "id": 669,
-    "order": "664.00000000000000000000",
-    "name": "Hofmeisterin der Kurfürstin Elisabeth Amalia 1694",
-    "gnd": "",
-    "other_url": "",
-    "emt_id": "emt_person_id__669",
-    "internal_comment": "womöglich Ehefrau des Oels/Eltz?",
-    "color": "",
-    "lebensdaten": "",
-    "ndb": "",
-    "year_of_birth": null,
-    "year_of_death": null,
-    "wikidata_url": "",
-    "wikidata_enriched": false,
-    "img_name": "",
-    "img_fetched": false,
-    "img_source": "",
-    "birth_date_written": "",
-    "death_date_written": "",
-    "geschlecht": "",
-    "funktionsbezeichnungen": "",
-    "unidentifiziert": true,
-    "titel": []
   },
   "671": {
     "id": 671,
@@ -18586,7 +18542,7 @@
   "707": {
     "id": 707,
     "order": "702.00000000000000000000",
-    "name": "Fugger, Magdalena Theresia, vereh. Mollard",
+    "name": "Fugger von Kirchberg, Magdalena Theresia, vereh. Mollard",
     "gnd": "",
     "other_url": "https://viecpro.oeaw.ac.at/persons/252422",
     "emt_id": "emt_person_id__707",
@@ -18735,7 +18691,7 @@
   "712": {
     "id": 712,
     "order": "707.00000000000000000000",
-    "name": "Kurland, Friedrich II. Kasimir Kettler von",
+    "name": "Friedrich II. Kasimir Kettler von Kurland",
     "gnd": "https://d-nb.info/gnd/124762123",
     "other_url": "",
     "emt_id": "emt_person_id__712",
@@ -18766,7 +18722,7 @@
   "713": {
     "id": 713,
     "order": "708.00000000000000000000",
-    "name": "Kurland, Luise Charlotte von, geb. Brandenburg",
+    "name": "Luise Charlotte Kettler von Kurland, geb. Brandenburg",
     "gnd": "https://d-nb.info/gnd/135569893",
     "other_url": "",
     "emt_id": "emt_person_id__713",
@@ -18940,16 +18896,16 @@
   "719": {
     "id": 719,
     "order": "714.00000000000000000000",
-    "name": "Hohenzollern, Graf von, Domherr in Köln 1687",
+    "name": "Hohenzollern-Hechingen, Hermann Friedrich von",
     "gnd": "",
-    "other_url": "",
+    "other_url": "https://personendatenbank.germania-sacra.de/index/gsn/042-00975-001",
     "emt_id": "emt_person_id__719",
-    "internal_comment": "könnte Herrmann Friedrich von H-Hechingen sein, der erst Domherr in Köln, dann kaiserlicher General war: https://de.wikipedia.org/wiki/Hermann_Friedrich_von_Hohenzollern-Hechingen\nist der einzige passende: Empfohlene Zitierweise: „Hermann Friedrich von Hohenzollern-Hechingen“ (GSN: 042-00975-001), in: Germania Sacra, https://personendatenbank.germania-sacra.de/index/gsn/042-00975-001 (Abgerufen: 08.07.2026).",
+    "internal_comment": "„Hermann Friedrich von Hohenzollern-Hechingen“ (GSN: 042-00975-001), in: Germania Sacra, https://personendatenbank.germania-sacra.de/index/gsn/042-00975-001 (Abgerufen: 08.07.2026).",
     "color": "",
     "lebensdaten": "",
     "ndb": "",
-    "year_of_birth": null,
-    "year_of_death": null,
+    "year_of_birth": "1665",
+    "year_of_death": "1733",
     "wikidata_url": "",
     "wikidata_enriched": false,
     "img_name": "",
@@ -18959,7 +18915,7 @@
     "death_date_written": "",
     "geschlecht": "",
     "funktionsbezeichnungen": "Domherr in Köln",
-    "unidentifiziert": true,
+    "unidentifiziert": false,
     "titel": [
       {
         "id": 19689,
@@ -20409,7 +20365,7 @@
   "775": {
     "id": 775,
     "order": "769.00000000000000000000",
-    "name": "Medici, Ferdinando de'",
+    "name": "Medici, Ferdinando III. de'",
     "gnd": "https://d-nb.info/gnd/118896628",
     "other_url": "",
     "emt_id": "emt_person_id__775",
@@ -20882,7 +20838,7 @@
   "792": {
     "id": 792,
     "order": "786.00000000000000000000",
-    "name": "Louvois, Michel Courtenvau le Tellier de",
+    "name": "Louvois, Michel Courtenvau Le Tellier de",
     "gnd": "",
     "other_url": "https://de.wikipedia.org/wiki/Le_Tellier_de_Louvois",
     "emt_id": "emt_person_id__792",
@@ -21005,15 +20961,15 @@
   "796": {
     "id": 796,
     "order": "790.00000000000000000000",
-    "name": "Herberstein, Fräulein von 1694",
+    "name": "Herberstein, Maria Barbara von, vereh. Daun",
     "gnd": "",
     "other_url": "https://de.wikisource.org/wiki/BLK%C3%96:Herberstein,_das_Haus,_Genealogie",
     "emt_id": "emt_person_id__796",
-    "internal_comment": "JW will für sie nach Köln und Mainz schreiben. Es geht wohl um Kapitelfähigkeit möglicher zukünftiger Söhne aus einer Ehe mit einem Grafen Daun. JW schreibt Thaun. Die Domherren sind wohl Philipp Ernst von Hohenlohe (Hersche, Domkapitel 239) und Hugo Franz von Königsegg (ebd. 245). vgl. https://wiag-vocab.adw-goe.de/domherr/listenelement ; https://de.wikipedia.org/wiki/Liste_der_K%C3%B6lner_Domherren ; https://de.wikipedia.org/wiki/Hugo_Franz_von_K%C3%B6nigsegg-Rothenfels ; https://www.deutsche-biographie.de/sfz130770.html Es geht um zukünftige Söhne aus einer geplanten Ehe und ihre Kapitelfähigkeit.\nEMT schreibt in 44-6: 298 von einer Gräfin Hermenstein; es gibt offenbar auch den Namen Hermanstein, aber da kommt nichts bei VieCpro, während die hier gut passen würde: Gräfin Maria Barbara von Herberstein, Tochter von Johann Ferdinand Graf Herberstein (er steht bei Wurzbach nur mit seinen Söhnen im Text, in den Stammbaumtafeln ist wohl auch Maria Barbara), welche 1696 den Grafen Wirich Philipp Lorenz von Daun, Fürst von Thiano (seit 1710), heiratete, zu ihm und der Eheschließung vgl. NDB https://www.deutsche-biographie.de/gnd137373260.html#ndbcontent   Auf die Spur der Ehe gekommen bin ich durch https://gw.geneanet.org/cvpolier?lang=en&n=von+herberstein&oc=0&p=maria+barbara      Dass sie Hofdame EMTs sei, schreibt JW am 14.10.1694. VieCPro hat tatsächlich Maria Barbara von Herberstein von 1689 bis mind. 1694 als Hoffräulein (nicht Hofdame) EMTs ( keine Lebensdaten). Todesjahr bestätigt bei Wurzbach",
+    "internal_comment": "sie ist nachgewiesen bei Wissgrill, 302 (Linie Herberstein-Herberstein) mit Lebensdaten\nJW will für sie nach Köln und Mainz schreiben. Es geht wohl um Kapitelfähigkeit möglicher zukünftiger Söhne aus einer Ehe mit einem Grafen Daun. JW schreibt Thaun. Die Domherren sind wohl Philipp Ernst von Hohenlohe (Hersche, Domkapitel 239) und Hugo Franz von Königsegg (ebd. 245). vgl. https://wiag-vocab.adw-goe.de/domherr/listenelement ; https://de.wikipedia.org/wiki/Liste_der_K%C3%B6lner_Domherren ; https://de.wikipedia.org/wiki/Hugo_Franz_von_K%C3%B6nigsegg-Rothenfels ; https://www.deutsche-biographie.de/sfz130770.html Es geht um zukünftige Söhne aus einer geplanten Ehe und ihre Kapitelfähigkeit.\nEMT schreibt in 44-6: 298 von einer Gräfin Hermenstein; es gibt offenbar auch den Namen Hermanstein, aber da kommt nichts bei VieCpro, während die hier gut passen würde: Gräfin Maria Barbara von Herberstein, Tochter von Johann Ferdinand Graf Herberstein (er steht bei Wurzbach nur mit seinen Söhnen im Text, in den Stammbaumtafeln ist wohl auch Maria Barbara), welche 1696 den Grafen Wirich Philipp Lorenz von Daun, Fürst von Thiano (seit 1710), heiratete, zu ihm und der Eheschließung vgl. NDB https://www.deutsche-biographie.de/gnd137373260.html#ndbcontent   Auf die Spur der Ehe gekommen bin ich durch https://gw.geneanet.org/cvpolier?lang=en&n=von+herberstein&oc=0&p=maria+barbara      Dass sie Hofdame EMTs sei, schreibt JW am 14.10.1694. VieCPro hat tatsächlich Maria Barbara von Herberstein von 1689 bis mind. 1694 als Hoffräulein (nicht Hofdame) EMTs ( keine Lebensdaten). Todesjahr bestätigt bei Wurzbach",
     "color": "",
     "lebensdaten": "",
     "ndb": "",
-    "year_of_birth": "1675",
+    "year_of_birth": "1669",
     "year_of_death": "1735",
     "wikidata_url": "",
     "wikidata_enriched": false,
@@ -21024,7 +20980,7 @@
     "death_date_written": "",
     "geschlecht": "",
     "funktionsbezeichnungen": "Hoffräulein der Kaiserin Eleonora Magdalena",
-    "unidentifiziert": true,
+    "unidentifiziert": false,
     "titel": [
       {
         "id": 19692,
@@ -21375,31 +21331,6 @@
     "unidentifiziert": true,
     "titel": []
   },
-  "809": {
-    "id": 809,
-    "order": "803.00000000000000000000",
-    "name": "Loh 1694",
-    "gnd": "",
-    "other_url": "",
-    "emt_id": "emt_person_id__809",
-    "internal_comment": "EMT meint, es werde schwer sein ihn zu überreden, dem Sachsen-Zeitz seine Präbende in Münster zu resignieren 31.12.1694",
-    "color": "",
-    "lebensdaten": "",
-    "ndb": "",
-    "year_of_birth": null,
-    "year_of_death": null,
-    "wikidata_url": "",
-    "wikidata_enriched": false,
-    "img_name": "",
-    "img_fetched": false,
-    "img_source": "",
-    "birth_date_written": "",
-    "death_date_written": "",
-    "geschlecht": "",
-    "funktionsbezeichnungen": "Domherr in Münster",
-    "unidentifiziert": true,
-    "titel": []
-  },
   "810": {
     "id": 810,
     "order": "804.00000000000000000000",
@@ -21658,7 +21589,7 @@
   "819": {
     "id": 819,
     "order": "813.00000000000000000000",
-    "name": "Farnese, Margherita Maria Farnese, vereh. Herzogin von Modena",
+    "name": "Parma, Margherita Maria Farnese von, vereh. Herzogin von Modena",
     "gnd": "",
     "other_url": "https://www.treccani.it/enciclopedia/ranuccio-ii-farnese-duca-di-parma-e-piacenza_%28Dizionario-Biografico%29/",
     "emt_id": "emt_person_id__819",
@@ -21689,7 +21620,7 @@
   "820": {
     "id": 820,
     "order": "814.00000000000000000000",
-    "name": "Farnese, Theresa",
+    "name": "Parma, Teresa Farnese von",
     "gnd": "",
     "other_url": "https://www.treccani.it/enciclopedia/ranuccio-ii-farnese-duca-di-parma-e-piacenza_%28Dizionario-Biografico%29/",
     "emt_id": "emt_person_id__820",
@@ -21720,7 +21651,7 @@
   "821": {
     "id": 821,
     "order": "815.00000000000000000000",
-    "name": "Farnese, Isabella",
+    "name": "Parma, Isabella Farnese von",
     "gnd": "",
     "other_url": "https://www.treccani.it/enciclopedia/ranuccio-ii-farnese-duca-di-parma-e-piacenza_%28Dizionario-Biografico%29/",
     "emt_id": "emt_person_id__821",
@@ -21769,7 +21700,7 @@
     "birth_date_written": "",
     "death_date_written": "",
     "geschlecht": "",
-    "funktionsbezeichnungen": "Reichshofrat",
+    "funktionsbezeichnungen": "Reichshofrat, kaiserlicher Gesandter in den Niederlanden 1698 bis 1707",
     "unidentifiziert": false,
     "titel": []
   },
@@ -23594,31 +23525,6 @@
     "unidentifiziert": true,
     "titel": []
   },
-  "888": {
-    "id": 888,
-    "order": "882.00000000000000000000",
-    "name": "Flasching, Dorothea Josepha von",
-    "gnd": "",
-    "other_url": "",
-    "emt_id": "emt_person_id__888",
-    "internal_comment": "Hof- und später Kammerfräulein EMT, siehe https://viecpro.oeaw.ac.at/persons/251842\nwahrscheinlich handelt es sich um Dorothea Josepha Jankovská z Vlašimi, vereh. Dietrichstein (siehe Dietrichstein-Web-Genealogie in unserer Sammlung und https://diglib.hab.de/content.php?dir=drucke/gl-4556&distype=optional&xml=tei-transcript.xml&xsl=http://diglib.hab.de/rules/styles/tei-transcript.xsl&metsID=drucke_gl-4556_transcript_sm",
-    "color": "",
-    "lebensdaten": "",
-    "ndb": "",
-    "year_of_birth": null,
-    "year_of_death": null,
-    "wikidata_url": "",
-    "wikidata_enriched": false,
-    "img_name": "",
-    "img_fetched": false,
-    "img_source": "",
-    "birth_date_written": "",
-    "death_date_written": "",
-    "geschlecht": "",
-    "funktionsbezeichnungen": "Hoffräulein der Kaiserin",
-    "unidentifiziert": true,
-    "titel": []
-  },
   "889": {
     "id": 889,
     "order": "883.00000000000000000000",
@@ -24108,7 +24014,7 @@
   "972": {
     "id": 972,
     "order": "904.00000000000000000000",
-    "name": "Hohenlohe, Anna Augusta von",
+    "name": "Hohenlohe-Waldenburg-Schillingsfürst, Anna Augusta von, vereh. Thurn und Taxis",
     "gnd": "https://d-nb.info/gnd/1207243477",
     "other_url": "",
     "emt_id": "emt_person_id__972",
@@ -24139,7 +24045,7 @@
   "973": {
     "id": 973,
     "order": "905.00000000000000000000",
-    "name": "Hohenlohe, Ludwig Gustav von",
+    "name": "Hohenlohe-Waldenburg-Schillingsfürst, Ludwig Gustav von",
     "gnd": "https://d-nb.info/gnd/119523159",
     "other_url": "",
     "emt_id": "emt_person_id__973",
@@ -24170,7 +24076,7 @@
   "974": {
     "id": 974,
     "order": "906.00000000000000000000",
-    "name": "Hohenlohe, Anna Barbara von, geb. von Schönborn",
+    "name": "Hohenlohe-Schillingsfürst, Anna Barbara von, geb. von Schönborn",
     "gnd": "",
     "other_url": "https://kaiserhof.geschichte.lmu.de/16037",
     "emt_id": "emt_person_id__974",
@@ -24423,7 +24329,7 @@
     "gnd": "",
     "other_url": "",
     "emt_id": "emt_person_id__984",
-    "internal_comment": "es gibt mehrere Geists in VieCPro, aber keine Verbindung ersichtlich",
+    "internal_comment": "",
     "color": "",
     "lebensdaten": "",
     "ndb": "",
@@ -24793,7 +24699,7 @@
   "1062": {
     "id": 1062,
     "order": "930.00000000000000000000",
-    "name": "Hessen-Rotenburg, Anna Johannetta",
+    "name": "Hessen-Rotenburg, Anna Johannetta von",
     "gnd": "",
     "other_url": "",
     "emt_id": "emt_person_id__1062",
@@ -24824,7 +24730,7 @@
   "1063": {
     "id": 1063,
     "order": "931.00000000000000000000",
-    "name": "Hessen-Wanfried, Sophie Leopoldine",
+    "name": "Hessen-Wanfried, Sophie Leopoldine von",
     "gnd": "",
     "other_url": "",
     "emt_id": "emt_person_id__1063",
@@ -24860,7 +24766,7 @@
   "1064": {
     "id": 1064,
     "order": "932.00000000000000000000",
-    "name": "Hessen-Wanfried, Maria Anna Johanna Ludovica",
+    "name": "Hessen-Wanfried, Maria Anna Johanna Ludovica von",
     "gnd": "",
     "other_url": "",
     "emt_id": "emt_person_id__1064",
@@ -24891,7 +24797,7 @@
   "1065": {
     "id": 1065,
     "order": "933.00000000000000000000",
-    "name": "Hessen-Rotenburg, Ernestina",
+    "name": "Hessen-Rotenburg, Ernestina von",
     "gnd": "",
     "other_url": "",
     "emt_id": "emt_person_id__1065",
@@ -25289,14 +25195,14 @@
     "birth_date_written": "",
     "death_date_written": "",
     "geschlecht": "",
-    "funktionsbezeichnungen": "",
+    "funktionsbezeichnungen": "Diplomat, kurpfälzischer Hofkammervizepräsident und Geheimrat",
     "unidentifiziert": false,
     "titel": []
   },
   "1081": {
     "id": 1081,
     "order": "949.00000000000000000000",
-    "name": "Hessen-Wanfried, Charlotte Amalie, verh. Rákóczi",
+    "name": "Hessen-Wanfried, Charlotte Amalie von, verh. Rákóczi",
     "gnd": "",
     "other_url": "",
     "emt_id": "emt_person_id__1081",
@@ -25327,7 +25233,7 @@
   "1082": {
     "id": 1082,
     "order": "950.00000000000000000000",
-    "name": "Hessen-Wanfried, Alexandrine Juliane, geb. Gräfin von Leiningen-Dagsberg, verw. Landgräfin von Hessen-Darmstadt-Itten",
+    "name": "Hessen-Wanfried, Alexandrine Juliane von, geb. Leiningen-Dagsberg, verw. Hessen-Darmstadt-Itten",
     "gnd": "",
     "other_url": "",
     "emt_id": "emt_person_id__1082",
@@ -25358,7 +25264,7 @@
   "1083": {
     "id": 1083,
     "order": "951.00000000000000000000",
-    "name": "Hessen-Wanfried, Sophie Magdalene, geb. Gräfin von Salm-Reifferscheidt",
+    "name": "Hessen-Wanfried, Sophie Magdalene von, geb. Salm-Reifferscheidt",
     "gnd": "",
     "other_url": "",
     "emt_id": "emt_person_id__1083",
@@ -25595,7 +25501,7 @@
   "1093": {
     "id": 1093,
     "order": "961.00000000000000000000",
-    "name": "Emerix, Jakob de Mathiis",
+    "name": "Emerix de Mathiis, Jakob de",
     "gnd": "",
     "other_url": "",
     "emt_id": "emt_person_id__1093",
@@ -26093,7 +25999,7 @@
   "1111": {
     "id": 1111,
     "order": "979.00000000000000000000",
-    "name": "Manderscheid, Karl Ferdinand",
+    "name": "Manderscheid, Karl Ferdinand von",
     "gnd": "https://d-nb.info/gnd/140446834",
     "other_url": "https://kaiserhof.geschichte.lmu.de/16355",
     "emt_id": "emt_person_id__1111",
@@ -26663,7 +26569,7 @@
   "1163": {
     "id": 1163,
     "order": "1000.00000000000000000000",
-    "name": "Ehemann der Althann, NN 1697",
+    "name": "Althann, Ehemann der A., NN 1697",
     "gnd": "",
     "other_url": "",
     "emt_id": "emt_person_id__1163",
@@ -27460,7 +27366,7 @@
   "1224": {
     "id": 1224,
     "order": "1029.00000000000000000000",
-    "name": "Fugger, Marquard Eustach von",
+    "name": "Fugger von Kirchberg, Marquard Eustach",
     "gnd": "https://d-nb.info/gnd/1359841903",
     "other_url": "https://oberdeutsche-personendatenbank.digitale-sammlungen.de/Datenbank/Fugger,_Marquard_Eustach_Graf_von",
     "emt_id": "emt_person_id__1224",
@@ -29032,16 +28938,16 @@
   "1313": {
     "id": 1313,
     "order": "1086.00000000000000000000",
-    "name": "französischer Gesandter 1701",
+    "name": "Puchot, Pierre, Marquis des Alleurs",
     "gnd": "",
-    "other_url": "",
+    "other_url": "https://besenval.anton.ch/actors/76",
     "emt_id": "emt_person_id__1313",
-    "internal_comment": "Bittner/Groß 229: Gesandter an Kurpfalz April 1701: Pierre Puchot, Marquis des Alleurs",
+    "internal_comment": "Bittner/Groß 229",
     "color": "",
     "lebensdaten": "",
     "ndb": "",
-    "year_of_birth": null,
-    "year_of_death": null,
+    "year_of_birth": "1643",
+    "year_of_death": "1725",
     "wikidata_url": "",
     "wikidata_enriched": false,
     "img_name": "",
@@ -29050,9 +28956,15 @@
     "birth_date_written": "",
     "death_date_written": "",
     "geschlecht": "",
-    "funktionsbezeichnungen": "",
-    "unidentifiziert": true,
-    "titel": []
+    "funktionsbezeichnungen": "Gesandter Frankreich in der Pfalz 1701",
+    "unidentifiziert": false,
+    "titel": [
+      {
+        "id": 19704,
+        "value": "Marquis",
+        "color": "dark-purple"
+      }
+    ]
   },
   "1314": {
     "id": 1314,
@@ -29173,31 +29085,6 @@
     "gnd": "",
     "other_url": "",
     "emt_id": "emt_person_id__1318",
-    "internal_comment": "",
-    "color": "",
-    "lebensdaten": "",
-    "ndb": "",
-    "year_of_birth": null,
-    "year_of_death": null,
-    "wikidata_url": "",
-    "wikidata_enriched": false,
-    "img_name": "",
-    "img_fetched": false,
-    "img_source": "",
-    "birth_date_written": "",
-    "death_date_written": "",
-    "geschlecht": "",
-    "funktionsbezeichnungen": "",
-    "unidentifiziert": true,
-    "titel": []
-  },
-  "1319": {
-    "id": 1319,
-    "order": "1092.00000000000000000000",
-    "name": "Montoimer, Oberin der Wiener Karmelitinnen 1701",
-    "gnd": "",
-    "other_url": "",
-    "emt_id": "emt_person_id__1319",
     "internal_comment": "",
     "color": "",
     "lebensdaten": "",
@@ -29543,7 +29430,7 @@
     "death_date_written": "",
     "geschlecht": "",
     "funktionsbezeichnungen": "",
-    "unidentifiziert": true,
+    "unidentifiziert": false,
     "titel": [
       {
         "id": 19694,
@@ -30126,7 +30013,7 @@
   "1448": {
     "id": 1448,
     "order": "1125.00000000000000000000",
-    "name": "François de Neufville, duc de Villeroy",
+    "name": "Villeroy, François de Neufville, duc de",
     "gnd": "https://d-nb.info/gnd/117427624",
     "other_url": "",
     "emt_id": "emt_person_id__1448",
@@ -30186,7 +30073,7 @@
     "gnd": "",
     "other_url": "https://books.google.at/books?id=tD0TAAAAYAAJ",
     "emt_id": "emt_person_id__1450",
-    "internal_comment": "in zweiter Ehe mit Philipp SIgismund von Dietrichstein verehelicht, siehe Wissgrill 227",
+    "internal_comment": "Hof- und später Kammerfräulein EMT, siehe https://viecpro.oeaw.ac.at/persons/251842\nwahrscheinlich handelt es sich um Dorothea Josepha Jankovská z Vlašimi, vereh. Dietrichstein (siehe Dietrichstein-Web-Genealogie in unserer Sammlung und https://diglib.hab.de/content.php?dir=drucke/gl-4556&distype=optional&xml=tei-transcript.xml&xsl=http://diglib.hab.de/rules/styles/tei-transcript.xsl&metsID=drucke_gl-4556_transcript_sm\nin zweiter Ehe mit Philipp SIgismund von Dietrichstein verehelicht, siehe Wissgrill 227",
     "color": "",
     "lebensdaten": "",
     "ndb": "",
@@ -30200,7 +30087,7 @@
     "birth_date_written": "",
     "death_date_written": "",
     "geschlecht": "",
-    "funktionsbezeichnungen": "",
+    "funktionsbezeichnungen": "Hoffräulein der Kaiserin",
     "unidentifiziert": false,
     "titel": [
       {
@@ -30345,31 +30232,6 @@
     "geschlecht": "",
     "funktionsbezeichnungen": "",
     "unidentifiziert": false,
-    "titel": []
-  },
-  "1488": {
-    "id": 1488,
-    "order": "1133.00000000000000000000",
-    "name": "englischer General 1702",
-    "gnd": "",
-    "other_url": "",
-    "emt_id": "emt_person_id__1488",
-    "internal_comment": "",
-    "color": "",
-    "lebensdaten": "",
-    "ndb": "",
-    "year_of_birth": null,
-    "year_of_death": null,
-    "wikidata_url": "",
-    "wikidata_enriched": false,
-    "img_name": "",
-    "img_fetched": false,
-    "img_source": "",
-    "birth_date_written": "",
-    "death_date_written": "",
-    "geschlecht": "",
-    "funktionsbezeichnungen": "",
-    "unidentifiziert": true,
     "titel": []
   },
   "1489": {
@@ -31171,7 +31033,7 @@
   "1517": {
     "id": 1517,
     "order": "1162.00000000000000000000",
-    "name": "Fugger, Maria Katharina / Aloysia von, vereh. Lazansky von Bukowa",
+    "name": "Fugger von Kirchberg, Maria Katharina / Aloysia von, vereh. Lazansky von Bukowa",
     "gnd": "",
     "other_url": "",
     "emt_id": "emt_person_id__1517",
@@ -31706,7 +31568,7 @@
   "1539": {
     "id": 1539,
     "order": "1184.00000000000000000000",
-    "name": "Farnese, Elisabetta, vereh. Spanien",
+    "name": "Parma, Elisabetta Farnese von, vereh. Spanien",
     "gnd": "https://d-nb.info/gnd/119151804",
     "other_url": "",
     "emt_id": "emt_person_id__1539",
@@ -31727,11 +31589,6 @@
     "funktionsbezeichnungen": "",
     "unidentifiziert": false,
     "titel": [
-      {
-        "id": 19691,
-        "value": "Herzogin",
-        "color": "light-brown"
-      },
       {
         "id": 19698,
         "value": "Königin",
@@ -32265,7 +32122,7 @@
   "1559": {
     "id": 1559,
     "order": "1204.00000000000000000000",
-    "name": "Frau des Beauvernoir (1705, wegen Prinzessin Wilhelmine Karoline von Brandenburg-Ansbach)",
+    "name": "Beauvernoir, Frau des (1705, wegen Prinzessin Wilhelmine Karoline von Brandenburg-Ansbach)",
     "gnd": "",
     "other_url": "",
     "emt_id": "emt_person_id__1559",
@@ -32455,31 +32312,6 @@
     "unidentifiziert": false,
     "titel": []
   },
-  "1566": {
-    "id": 1566,
-    "order": "1211.00000000000000000000",
-    "name": "Eschenbrender, Andreas",
-    "gnd": "https://d-nb.info/gnd/1050962508",
-    "other_url": "",
-    "emt_id": "emt_person_id__1566",
-    "internal_comment": "Hersche I S.223, https://de.wikipedia.org/wiki/Andreas_Eschenbrender",
-    "color": "",
-    "lebensdaten": "",
-    "ndb": "",
-    "year_of_birth": "1649",
-    "year_of_death": "1717",
-    "wikidata_url": "http://www.wikidata.org/entity/Q497064",
-    "wikidata_enriched": true,
-    "img_name": "",
-    "img_fetched": true,
-    "img_source": "",
-    "birth_date_written": "",
-    "death_date_written": "",
-    "geschlecht": "",
-    "funktionsbezeichnungen": "Domherr und Offizial in Köln",
-    "unidentifiziert": false,
-    "titel": []
-  },
   "1567": {
     "id": 1567,
     "order": "1212.00000000000000000000",
@@ -32533,7 +32365,7 @@
   "1569": {
     "id": 1569,
     "order": "1214.00000000000000000000",
-    "name": "Hannover, Haus",
+    "name": "Braunschweig-Lüneburg-Hannover, Haus",
     "gnd": "",
     "other_url": "",
     "emt_id": "emt_person_id__1569",
@@ -32681,7 +32513,7 @@
   "1606": {
     "id": 1606,
     "order": "1219.00000000000000000000",
-    "name": "Mecklenburg-Schwerin, Sophie Luise zu",
+    "name": "Mecklenburg-Schwerin, Sophie Luise von",
     "gnd": "https://d-nb.info/gnd/141996285",
     "other_url": "",
     "emt_id": "emt_person_id__1606",
@@ -34371,7 +34203,7 @@
   "1696": {
     "id": 1696,
     "order": "1277.00000000000000000000",
-    "name": "Marquis de Trichâteau",
+    "name": "Trichâteau, Marquis de",
     "gnd": "",
     "other_url": "",
     "emt_id": "emt_person_id__1696",
@@ -35714,7 +35546,7 @@
   "1748": {
     "id": 1748,
     "order": "1329.00000000000000000000",
-    "name": "Ehefrau des Fabrizio Vezzi (1708)",
+    "name": "Vezzi, Ehefrau des Fabrizio Vezzi (1708)",
     "gnd": "",
     "other_url": "",
     "emt_id": "emt_person_id__1748",
@@ -36223,7 +36055,7 @@
   "1766": {
     "id": 1766,
     "order": "1347.00000000000000000000",
-    "name": "Heister, Sigbert",
+    "name": "Heister, Sigbert von",
     "gnd": "https://d-nb.info/gnd/101102240",
     "other_url": "",
     "emt_id": "emt_person_id__1766",
@@ -36243,7 +36075,13 @@
     "geschlecht": "",
     "funktionsbezeichnungen": "kaiserlicher General",
     "unidentifiziert": false,
-    "titel": []
+    "titel": [
+      {
+        "id": 19689,
+        "value": "Graf",
+        "color": "purple"
+      }
+    ]
   },
   "1767": {
     "id": 1767,
@@ -37274,28 +37112,28 @@
     "gnd": "",
     "other_url": "https://www.deutsche-digitale-bibliothek.de/item/XU5VO436NVCMF5LZGBPDTSKFLI6DBLP4",
     "emt_id": "emt_person_id__1871",
-    "internal_comment": "Bittner, Repertorium 402: a.o. kurpfälz Gesandter in Den Haag 1703-1711 (es gab auch einen Residenten, aber da JW envoyé schreibt, habe ich ihn genommen). Googlebooksuche zeigt, dass er auch Baden Baden und Würtemberg vertrat. Todesdatum von hier http://www.adelskartei.de/148.htm (mit Fragezeichen, weil keine Normdaten gefunden)",
+    "internal_comment": "Bittner, Repertorium 402; https://adelsquellen.de/adelsforschung1/dbar03.htm\n\nGooglebooksuche zeigt, dass er auch Baden Baden und Würtemberg vertrat. Todesdatum von hier http://www.adelskartei.de/148.htm (mit Fragezeichen, weil keine Normdaten gefunden)",
     "color": "",
     "lebensdaten": "",
     "ndb": "",
     "year_of_birth": null,
-    "year_of_death": null,
+    "year_of_death": "1721",
     "wikidata_url": "",
     "wikidata_enriched": false,
     "img_name": "",
     "img_fetched": false,
     "img_source": "",
     "birth_date_written": "",
-    "death_date_written": "1721?",
+    "death_date_written": "",
     "geschlecht": "",
     "funktionsbezeichnungen": "kurpfälzischer Gesandter in Den Haag 1703-1711",
-    "unidentifiziert": true,
+    "unidentifiziert": false,
     "titel": []
   },
   "1872": {
     "id": 1872,
     "order": "1389.00000000000000000000",
-    "name": "Jörger von Tollet, Johann Franz Anton von",
+    "name": "Jörger von Tollet, Johann Franz Anton",
     "gnd": "https://d-nb.info/gnd/136169155",
     "other_url": "",
     "emt_id": "emt_person_id__1872",
@@ -38695,7 +38533,7 @@
   "2028": {
     "id": 2028,
     "order": "1447.00000000000000000000",
-    "name": "Mean, Emile-Laurant",
+    "name": "Mean, Emile-Laurent von",
     "gnd": "",
     "other_url": "",
     "emt_id": "emt_person_id__2028",
@@ -38895,26 +38733,26 @@
   "2037": {
     "id": 2037,
     "order": "1456.00000000000000000000",
-    "name": "Mochi (1712 bereits verstorben, Stiftung für Angehörige des Hauses Pfalz Neuburg in Italien)",
-    "gnd": "",
+    "name": "Mocchi, Giovanni Battista",
+    "gnd": "https://d-nb.info/gnd/124712320",
     "other_url": "",
     "emt_id": "emt_person_id__2037",
-    "internal_comment": "Gian Battista Mocchi war Komponist, wol seit etwa 1640 in pfälzer Dienst, siehe Schmid, Alexander Sigismund, 337f., kehrt 1679 nach Italiien zurück, stirbt 1688",
+    "internal_comment": "Gian Battista Mocchi war Komponist, wol seit etwa 1640 in pfälzer Dienst, siehe Schmid, Alexander Sigismund, 337f., kehrt 1679 nach Italien zurück, stirbt 1688",
     "color": "",
     "lebensdaten": "",
     "ndb": "",
-    "year_of_birth": null,
-    "year_of_death": null,
-    "wikidata_url": "",
-    "wikidata_enriched": false,
+    "year_of_birth": "1620",
+    "year_of_death": "1688",
+    "wikidata_url": "http://www.wikidata.org/entity/Q55874596",
+    "wikidata_enriched": true,
     "img_name": "",
-    "img_fetched": false,
+    "img_fetched": true,
     "img_source": "",
     "birth_date_written": "",
     "death_date_written": "",
     "geschlecht": "",
     "funktionsbezeichnungen": "",
-    "unidentifiziert": true,
+    "unidentifiziert": false,
     "titel": []
   },
   "2038": {
@@ -39525,11 +39363,11 @@
   "2159": {
     "id": 2159,
     "order": "1480.00000000000000000000",
-    "name": "Eck, Frau von, Empfehlung von JW an EMT 1698",
+    "name": "Eck von Hungersbach, Eva Christina, geb. Speidl",
     "gnd": "",
     "other_url": "",
     "emt_id": "emt_person_id__2159",
-    "internal_comment": "Empfehlung von JW an die Kaiserin, die sie in Brief vom 31.05.1698 bestätigt - könnte Frau des Eck von Ungersbach sein, der pfalzneuburischer Kämmerer ist",
+    "internal_comment": "Empfehlung von JW an die Kaiserin, die sie in Brief vom 31.05.1698 bestätigt - könnte Frau des Eck von Ungersbach sein, der pfalzneuburischer Kämmerer ist\nWissgrill, S. 330",
     "color": "",
     "lebensdaten": "",
     "ndb": "",
@@ -39544,7 +39382,7 @@
     "death_date_written": "",
     "geschlecht": "",
     "funktionsbezeichnungen": "",
-    "unidentifiziert": true,
+    "unidentifiziert": false,
     "titel": []
   },
   "2160": {
@@ -39808,37 +39646,6 @@
     "unidentifiziert": false,
     "titel": []
   },
-  "2169": {
-    "id": 2169,
-    "order": "1491.00000000000000000000",
-    "name": "Goëss, Johann Peter von",
-    "gnd": "https://d-nb.info/gnd/136096018",
-    "other_url": "",
-    "emt_id": "emt_person_id__2169",
-    "internal_comment": "",
-    "color": "",
-    "lebensdaten": "",
-    "ndb": "",
-    "year_of_birth": "1667",
-    "year_of_death": "1716",
-    "wikidata_url": "http://www.wikidata.org/entity/Q55850550",
-    "wikidata_enriched": true,
-    "img_name": "Wappen der Grafen von Goess nach Tyroff.png",
-    "img_fetched": true,
-    "img_source": "commonsMedia",
-    "birth_date_written": "",
-    "death_date_written": "",
-    "geschlecht": "",
-    "funktionsbezeichnungen": "kaiserlicher Gesandter in den Niederlanden 1698 bis 1707",
-    "unidentifiziert": false,
-    "titel": [
-      {
-        "id": 19689,
-        "value": "Graf",
-        "color": "purple"
-      }
-    ]
-  },
   "1681": {
     "id": 1681,
     "order": "1492.00000000000000000000",
@@ -39892,11 +39699,11 @@
   "2171": {
     "id": 2171,
     "order": "1494.00000000000000000000",
-    "name": "Ecchelense, Kanoniker in Rom 1712",
+    "name": "Ecchelense, Michele, Kanoniker in Rom 1712",
     "gnd": "",
     "other_url": "",
     "emt_id": "emt_person_id__2171",
-    "internal_comment": "",
+    "internal_comment": "könnte der hier erwähnte Michele Ecchelense sein:\nhttp://archividigitali.provincia.pu.it/gsdl/cgi-bin/library?e=d-01000-00---0albani--00-1--0-10-0---0---0prompt-10---4-------0-1l--11-vi-50---20-about---00-3-1-00-0011-1-0gbk-00&a=d&c=albani&cl=CL2.5.1&d=HASH55589b64abb1cfc76badcf",
     "color": "",
     "lebensdaten": "",
     "ndb": "",
@@ -40250,5 +40057,36 @@
     "funktionsbezeichnungen": "Karmeliterin in Graz",
     "unidentifiziert": false,
     "titel": []
+  },
+  "2186": {
+    "id": 2186,
+    "order": "1508.00000000000000000000",
+    "name": "Goltstein, Friedrich Gerhard von",
+    "gnd": "",
+    "other_url": "https://de.wikipedia.org/wiki/Goltstein_(Adelsgeschlecht)",
+    "emt_id": "emt_person_id__2186",
+    "internal_comment": "https://www.archive.nrw.de/nl/archivsuche?link=VERZEICHUNGSEINHEIT-Vz_a4277f44-2724-4fbd-a41f-f1ea1d440454",
+    "color": "",
+    "lebensdaten": "",
+    "ndb": "",
+    "year_of_birth": "1647",
+    "year_of_death": "1713",
+    "wikidata_url": "",
+    "wikidata_enriched": false,
+    "img_name": "",
+    "img_fetched": false,
+    "img_source": "",
+    "birth_date_written": "",
+    "death_date_written": "",
+    "geschlecht": "",
+    "funktionsbezeichnungen": "Kämmerer und Geheimer Rat Kurpfalz",
+    "unidentifiziert": false,
+    "titel": [
+      {
+        "id": 19689,
+        "value": "Graf",
+        "color": "purple"
+      }
+    ]
   }
 }

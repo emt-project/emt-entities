@@ -68,29 +68,6 @@
       }
     ]
   },
-  "5": {
-    "id": 5,
-    "order": "5.00000000000000000000",
-    "emt_id": "emt_letter_id__5",
-    "when": "1699-05-20",
-    "text_written": "20ten passato",
-    "not_before": null,
-    "not_after": null,
-    "sender": [
-      {
-        "id": 18,
-        "value": "Pfalz-Neuburg, Johann Wilhelm von",
-        "order": "18.00000000000000000000"
-      }
-    ],
-    "recipient": [
-      {
-        "id": 9,
-        "value": "Eleonora Magdalena Theresia, geb. Pfalz-Neuburg",
-        "order": "9.00000000000000000000"
-      }
-    ]
-  },
   "6": {
     "id": 6,
     "order": "6.00000000000000000000",
