@@ -15983,5 +15983,28 @@
         "order": "9.00000000000000000000"
       }
     ]
+  },
+  "1074": {
+    "id": 1074,
+    "order": "720.00000000000000000000",
+    "emt_id": "emt_letter_id__1074",
+    "when": "1686-08-23",
+    "text_written": "23ten passato",
+    "not_before": null,
+    "not_after": null,
+    "sender": [
+      {
+        "id": 50,
+        "value": "Pfalz-Neuburg, Philipp Wilhelm von",
+        "order": "50.00000000000000000000"
+      }
+    ],
+    "recipient": [
+      {
+        "id": 9,
+        "value": "Eleonora Magdalena Theresia, geb. Pfalz-Neuburg",
+        "order": "9.00000000000000000000"
+      }
+    ]
   }
 }

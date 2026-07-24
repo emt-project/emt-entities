@@ -840,7 +840,7 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                      <date notBefore="1626-01-01" notAfter="1626-12-31">1626</date>
                   </birth>
                   <death>
-                     <date notBefore="1676-01-01" notAfter="1676-12-31">1676</date>
+                     <date notBefore="1679-01-01" notAfter="1679-12-31">1679</date>
                   </death>
                   <idno type="GND">https://d-nb.info/gnd/121164721</idno>
                   <idno type="NDB">https://www.deutsche-biographie.de/sfz65507.html#indexcontent</idno>
@@ -11012,7 +11012,7 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                   </death>
                </person>
                <person xml:id="emt_person_id__1106">
-                  <persName type="name">Nassau-Weilburg, Johann Ernst</persName>
+                  <persName type="name">Nassau-Weilburg, Johann Ernst von</persName>
                   <persName type="title">
                      <roleName>Fürst</roleName>
                   </persName>
@@ -11333,10 +11333,22 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                   </figure>
                </person>
                <person xml:id="emt_person_id__1160">
-                  <persName type="name">Nassau, NN von, soll 1697 "die Hohenlohe" heiraten</persName>
+                  <persName type="name">Nassau-Siegen, Wilhelm Hyacinth von</persName>
                   <persName type="title">
                      <roleName>Fürst</roleName>
                   </persName>
+                  <birth>
+                     <date notBefore="1666-01-01" notAfter="1666-12-31">1666</date>
+                  </birth>
+                  <death>
+                     <date notBefore="1743-01-01" notAfter="1743-12-31">1743</date>
+                  </death>
+                  <idno type="GND">https://d-nb.info/gnd/136702740</idno>
+                  <idno type="WIKIDATA">http://www.wikidata.org/entity/Q878338</idno>
+                  <figure>
+                     <graphic url="emt_person_id__1160.jpg"/>
+                     <caption>Willem Hyacinth, by Nicolas de Largillière.jpg</caption>
+                  </figure>
                </person>
                <person xml:id="emt_person_id__1161">
                   <persName type="name">Gräz / Graz, NN, berichtet 1697 der Kaiserin über das Befinden Kurfüst Johann Wilhelms</persName>
