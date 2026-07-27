@@ -2614,7 +2614,14 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                   <persName type="name">Kollonitsch, Herr von 1678</persName>
                </person>
                <person xml:id="emt_person_id__182">
-                  <persName type="name">Spiring, Baron von, Kämmerer PWs 1678</persName>
+                  <persName type="name">Spiring, Franz Wilhelm von</persName>
+                  <persName type="function">
+                     <roleName>Kämmerer Pfalz-Neuburg</roleName>
+                  </persName>
+                  <death>
+                     <date notBefore="1720-01-01" notAfter="1720-12-31">1720</date>
+                  </death>
+                  <idno type="URL">https://neuburgarchiv.wordpress.com/wp-content/uploads/2013/02/sillmann-bis-syrgenstein-s-256-01-bis-298-03.pdf</idno>
                </person>
                <person xml:id="emt_person_id__183">
                   <persName type="name">Serin / Serni, Freiherr von, Kämmerer PWs 1678</persName>
@@ -4927,6 +4934,9 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                   <persName type="title">
                      <roleName>Graf</roleName>
                   </persName>
+                  <persName type="function">
+                     <roleName>Obersthofmarschall Bayern</roleName>
+                  </persName>
                   <birth>
                      <date notBefore="1632-01-01" notAfter="1632-12-31">1632</date>
                   </birth>
@@ -5342,12 +5352,6 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                </person>
                <person xml:id="emt_person_id__438">
                   <persName type="name">Schmißing, NN, Inhaber einer Präbende</persName>
-               </person>
-               <person xml:id="emt_person_id__439">
-                  <persName type="name">Schlick von Passaun, NN 1684</persName>
-                  <persName type="title">
-                     <roleName>Graf</roleName>
-                  </persName>
                </person>
                <person xml:id="emt_person_id__440">
                   <persName type="name">Kinsky, Franz Ulrich</persName>
@@ -6463,10 +6467,13 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                   <idno type="URL">https://de.wikipedia.org/wiki/Merveldt_(Adelsgeschlecht)#Linie_zu_Merfeld</idno>
                </person>
                <person xml:id="emt_person_id__567">
-                  <persName type="name">Schwester des Grafen Friedrich Wilhelm von Merveldt 1692</persName>
+                  <persName type="name">Merveldt, Margreth Sybille von, vereh. von Recke zu Horst</persName>
+                  <death>
+                     <date notBefore="1702-01-01" notAfter="1702-12-31">1702</date>
+                  </death>
                   <idno type="GND">https://d-nb.info/gnd/129643912</idno>
                   <idno type="WIKIDATA">http://www.wikidata.org/entity/Q1922168</idno>
-                  <idno type="URL">https://de.wikipedia.org/wiki/Merveldt_(Adelsgeschlecht)#Linie_zu_Merfeld</idno>
+                  <idno type="URL">https://de.wikipedia.org/wiki/Jakob_von_Hamilton</idno>
                </person>
                <person xml:id="emt_person_id__568">
                   <persName type="name">Plettenberg, Friedrich Christian von</persName>
@@ -6510,7 +6517,7 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                   <idno type="WIKIDATA">http://www.wikidata.org/entity/Q27968966</idno>
                </person>
                <person xml:id="emt_person_id__574">
-                  <persName type="name">Dr. Schweizer, ehemaliger Leibarzt von Kurfürst Philipp Wilhelm von Pfalz-Neuburg (1692)</persName>
+                  <persName type="name">Schweizer, ehemaliger Leibarzt von Kurfürst Philipp Wilhelm von Pfalz-Neuburg (1692)</persName>
                   <persName type="title">
                      <roleName>Doktor</roleName>
                   </persName>
@@ -6640,6 +6647,7 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                   </death>
                   <idno type="GND">https://d-nb.info/gnd/1140027247</idno>
                   <idno type="WIKIDATA">http://www.wikidata.org/entity/Q2618092</idno>
+                  <idno type="URL">https://de.wikipedia.org/wiki/Sophia_Hedwig_von_D%C3%A4nemark</idno>
                   <figure>
                      <graphic url="emt_person_id__584.jpg"/>
                      <caption>Prinsesse Sophie Hedvig.jpg</caption>
@@ -8381,7 +8389,17 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                   </figure>
                </person>
                <person xml:id="emt_person_id__752">
-                  <persName type="name">Sickingen, NN von (1688)</persName>
+                  <persName type="name">Sickingen, Franz von</persName>
+                  <birth>
+                     <date notBefore="1629-01-01" notAfter="1629-12-31">1629</date>
+                  </birth>
+                  <death>
+                     <date notBefore="1715-01-01" notAfter="1715-12-31">1715</date>
+                  </death>
+                  <idno type="GND">https://d-nb.info/gnd/1046170902</idno>
+                  <idno type="NDB">https://www.deutsche-biographie.de/pnd1046170902.html#indexcontent</idno>
+                  <idno type="WIKIDATA">http://www.wikidata.org/entity/Q94887852</idno>
+                  <idno type="URL">https://kaiserhof.geschichte.lmu.de/15473</idno>
                </person>
                <person xml:id="emt_person_id__753">
                   <persName type="name">Rossoni, Giulio</persName>
@@ -9618,7 +9636,14 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                   <idno type="URL">hbl.lzmk.hr/clanak/5360</idno>
                </person>
                <person xml:id="emt_person_id__848">
-                  <persName type="name">Sickingen, Frau von (1689)</persName>
+                  <persName type="name">Sickingen, Anna Margaretha von, geb. Metternich-Winneburg</persName>
+                  <persName type="function">
+                     <roleName>Obersthofmeisterin</roleName>
+                  </persName>
+                  <death>
+                     <date notBefore="1700-01-01" notAfter="1700-12-31">1700</date>
+                  </death>
+                  <idno type="URL">lagis.hessen.de/de/personen/hessische-biografie/alle-eintraege/8612</idno>
                </person>
                <person xml:id="emt_person_id__849">
                   <persName type="name">Mutter der Frau von Sickingen (1689)</persName>
@@ -10125,7 +10150,7 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                   </death>
                </person>
                <person xml:id="emt_person_id__892">
-                  <persName type="name">Steinchens, Herr, 1689 in Augsburg</persName>
+                  <persName type="name">Steingens, Herr, 1689 in Augsburg</persName>
                </person>
                <person xml:id="emt_person_id__893">
                   <persName type="name">Lothringen, Joseph Innozenz von</persName>
@@ -10690,7 +10715,7 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                   </figure>
                </person>
                <person xml:id="emt_person_id__1076">
-                  <persName type="name">Steinchen/Steingen, Sohn (1696, hat sich etwas zu Schulden kommen lassen)</persName>
+                  <persName type="name">Steingen, Sohn (1696, hat sich etwas zu Schulden kommen lassen)</persName>
                </person>
                <person xml:id="emt_person_id__1077">
                   <persName type="name">Hessen-Rheinfels, Haus</persName>
@@ -11553,8 +11578,12 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                <person xml:id="emt_person_id__1210">
                   <persName type="name">Sousa Pacheco, Francisco de</persName>
                   <persName type="function">
-                     <roleName>portugiesischer Botschafter in Wien April/Mai 1698</roleName>
+                     <roleName>portugiesischer Botschafter in Wien April bis Juni 1698</roleName>
                   </persName>
+                  <death>
+                     <date notBefore="1709-01-01" notAfter="1709-12-31">1709</date>
+                  </death>
+                  <idno type="URL">https://portaldiplomatico.mne.gov.pt/relacoesbilaterais/historia-diplomatica?view=article&amp;id=551:austria-titulares&amp;catid=120</idno>
                </person>
                <person xml:id="emt_person_id__1211">
                   <persName type="name">Pecori (1698 empfohlen)</persName>
@@ -11870,7 +11899,7 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                   </figure>
                </person>
                <person xml:id="emt_person_id__1235">
-                  <persName type="name">Toskana, Maria Magdalena von, geb. Österreich</persName>
+                  <persName type="name">Medici, Maria Magdalena de', geb. Österreich</persName>
                   <persName type="title">
                      <roleName>Erzherzogin</roleName>
                   </persName>
@@ -12275,7 +12304,7 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                   </death>
                </person>
                <person xml:id="emt_person_id__1309">
-                  <persName type="name">Schlik zu Bassano und Weißkirchen, Leopold Anton Joseph von (auch Schlick oder Šlik)</persName>
+                  <persName type="name">Schlick zu Passaun, Leopold Anton Joseph</persName>
                   <persName type="title">
                      <roleName>Graf</roleName>
                   </persName>
@@ -12300,9 +12329,26 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                </person>
                <person xml:id="emt_person_id__1311">
                   <persName type="name">Löwenburg, Johann Jakob von</persName>
+                  <persName type="function">
+                     <roleName>Hofkammerrat</roleName>
+                  </persName>
+                  <birth>
+                     <date notBefore="1670-01-01" notAfter="1670-12-31">1670</date>
+                  </birth>
+                  <death>
+                     <date notBefore="1732-01-01" notAfter="1732-12-31">1732</date>
+                  </death>
+                  <idno type="URL">https://www.geschichtewiki.wien.gv.at/L%C3%B6wenburgkonvikt</idno>
                </person>
                <person xml:id="emt_person_id__1312">
-                  <persName type="name">Thököly, Katalin</persName>
+                  <persName type="name">Thököly, Katalin, vereh. Esterházy, Jörger, Löwenburg</persName>
+                  <birth>
+                     <date notBefore="1655-01-01" notAfter="1655-12-31">1655</date>
+                  </birth>
+                  <death>
+                     <date notBefore="1701-01-01" notAfter="1701-12-31">1701</date>
+                  </death>
+                  <idno type="URL">https://de.wikipedia.org/wiki/Stephan_II._Th%C3%B6k%C3%B6ly#Nachkommen</idno>
                </person>
                <person xml:id="emt_person_id__1313">
                   <persName type="name">Puchot des Alleurs, Pierre</persName>
@@ -12594,7 +12640,7 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                   <persName type="name">Pater Provinzial, Schreiben 1701</persName>
                </person>
                <person xml:id="emt_person_id__1405">
-                  <persName type="name">Van Mehse, Leandro / Leander 1701, zur Einrichtung der Münze in Wien</persName>
+                  <persName type="name">van Mehse, Leandro / Leander 1701, zur Einrichtung der Münze in Wien</persName>
                </person>
                <person xml:id="emt_person_id__1406">
                   <persName type="name">Schwarzenberg, Adam Franz Karl</persName>
@@ -13348,10 +13394,21 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                   <persName type="name">Kommissar (wird 1705 bald in Wien sein)</persName>
                </person>
                <person xml:id="emt_person_id__1536">
-                  <persName type="name">Stadion (kommt 1705 als Reichsvizekanzler in Frage)</persName>
+                  <persName type="name">Stadion, Johann Philipp von</persName>
                   <persName type="title">
                      <roleName>Graf</roleName>
                   </persName>
+                  <persName type="function">
+                     <roleName>Großhofmeister Mainz</roleName>
+                  </persName>
+                  <birth>
+                     <date notBefore="1652-01-01" notAfter="1652-12-31">1652</date>
+                  </birth>
+                  <death>
+                     <date notBefore="1741-01-01" notAfter="1741-12-31">1741</date>
+                  </death>
+                  <idno type="GND">https://katalog.dnb.de/DE/resource.html?id=130475475</idno>
+                  <idno type="URL">https://de.wikipedia.org/wiki/Stadion_(Adelsgeschlecht)</idno>
                </person>
                <person xml:id="emt_person_id__1537">
                   <persName type="name">Leyen, Heinrich Ferdinand von der</persName>
@@ -13503,7 +13560,7 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                   <persName type="name">Almirante de Castiglia (1705)</persName>
                </person>
                <person xml:id="emt_person_id__1552">
-                  <persName type="name">Seraw (1705, Zusammenhang mit Tirol unf Pfalzgraf Karl)</persName>
+                  <persName type="name">Seraw (1705, Zusammenhang mit Tirol unf Pfalzgraf Karl, evtl. Saurau?)</persName>
                </person>
                <person xml:id="emt_person_id__1553">
                   <persName type="name">Norbis, Pampalunga (1705, wegen Stadtbanco)</persName>
@@ -13954,7 +14011,7 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                   </figure>
                </person>
                <person xml:id="emt_person_id__1620">
-                  <persName type="name">Sohn des Clermont / Clairmont, NN</persName>
+                  <persName type="name">Clermont / Clairmont, NN, Sohn des C.</persName>
                </person>
                <person xml:id="emt_person_id__1621">
                   <persName type="name">Vogl, Antonio</persName>
@@ -15142,7 +15199,7 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                   <persName type="name">Vezzi, Ehefrau des Fabrizio Vezzi (1708)</persName>
                </person>
                <person xml:id="emt_person_id__1749">
-                  <persName type="name">unehelich bei Fabrizio Vezzi lebende Frau (1708)</persName>
+                  <persName type="name">Vezzi, unehelich bei Fabrizio Vezzi lebende Frau (1708)</persName>
                </person>
                <person xml:id="emt_person_id__1750">
                   <persName type="name">Redig / Reding / Rätting, NN (in Neuburg, soll 1708 einen Titel erhalten)</persName>
@@ -15447,9 +15504,6 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                </person>
                <person xml:id="emt_person_id__1772">
                   <persName type="name">Wettin, Haus (Kursachsen)</persName>
-               </person>
-               <person xml:id="emt_person_id__1773">
-                  <persName type="name">Vertreter Kurpfalz bei Koadjutorwahlen 1714 in Augsburg</persName>
                </person>
                <person xml:id="emt_person_id__1774">
                   <persName type="name">Santini, Marc'Antonio ("Internuntio" 1708)</persName>
@@ -16125,7 +16179,7 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                   <persName type="name">Torsi (1710 Erwähnung seiner Tochter)</persName>
                </person>
                <person xml:id="emt_person_id__1947">
-                  <persName type="name">Tochter des Torsi (1710 erwähnt)</persName>
+                  <persName type="name">Torsi, Tochter des (1710 erwähnt)</persName>
                </person>
                <person xml:id="emt_person_id__1948">
                   <persName type="name">NN, Kammertrabant, 1710 empfohlen</persName>
@@ -16224,7 +16278,7 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                   <idno type="URL">http://www.biografischportaal.nl/persoon/44447240</idno>
                </person>
                <person xml:id="emt_person_id__1988">
-                  <persName type="name">von der Leyen zu Saffig</persName>
+                  <persName type="name">von der Leyen zu Saffig, NN</persName>
                   <persName type="function">
                      <roleName>kurtrierischer Obermarschall</roleName>
                   </persName>
