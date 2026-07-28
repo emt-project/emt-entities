@@ -2565,9 +2565,6 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                      <caption>Michał Kazimierz Radziwiłł.JPG</caption>
                   </figure>
                </person>
-               <person xml:id="emt_person_id__176">
-                  <persName type="name">Offizial, für den EMT eine Empfehlung abgeben soll 1678</persName>
-               </person>
                <person xml:id="emt_person_id__178">
                   <persName type="name">Schwerin, NN 1678</persName>
                </person>
@@ -3143,7 +3140,7 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                   </figure>
                </person>
                <person xml:id="emt_person_id__230">
-                  <persName type="name">Wirts, NN, Leibarzt 1696</persName>
+                  <persName type="name">Wirts/Wirtz, NN, Leibarzt ?</persName>
                   <persName type="title">
                      <roleName>Doktor</roleName>
                   </persName>
@@ -6325,6 +6322,13 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                </person>
                <person xml:id="emt_person_id__542">
                   <persName type="name">Cerrini, Fabrizio</persName>
+                  <persName type="function">
+                     <roleName>Sänger</roleName>
+                  </persName>
+                  <death>
+                     <date notBefore="1704-01-01" notAfter="1704-12-31">1704</date>
+                  </death>
+                  <idno type="URL">https://viecpro.acdh.oeaw.ac.at/persons/297816</idno>
                </person>
                <person xml:id="emt_person_id__544">
                   <persName type="name">Lüdinghausen genannt Wolf, Friedrich von SJ</persName>
@@ -6506,15 +6510,17 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                   </persName>
                </person>
                <person xml:id="emt_person_id__571">
-                  <persName type="name">Rios, NN (Vetter der alten Kammerfrau Kaiserin Eleonore Magdalenas, 1692)</persName>
+                  <persName type="name">Rios, Johann Anton</persName>
+                  <persName type="function">
+                     <roleName>Kammerdiener</roleName>
+                  </persName>
+                  <idno type="URL">https://viecpro.acdh.oeaw.ac.at/persons/312821</idno>
                </person>
                <person xml:id="emt_person_id__572">
                   <persName type="name">Heister, Johann Rudolf von (1692)</persName>
-                  <idno type="WIKIDATA">http://www.wikidata.org/entity/Q27968966</idno>
                </person>
                <person xml:id="emt_person_id__573">
                   <persName type="name">Heister, Johann von (1692)</persName>
-                  <idno type="WIKIDATA">http://www.wikidata.org/entity/Q27968966</idno>
                </person>
                <person xml:id="emt_person_id__574">
                   <persName type="name">Schweizer, ehemaliger Leibarzt von Kurfürst Philipp Wilhelm von Pfalz-Neuburg (1692)</persName>
@@ -6610,10 +6616,10 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                   <idno type="NDB">https://www.deutsche-biographie.de/sfz57040.html#index</idno>
                </person>
                <person xml:id="emt_person_id__581">
-                  <persName type="name">Zwiefel, Frau von (1693, hat dem Kaiserpaar Dienste in Polen geleistet)</persName>
+                  <persName type="name">Zweiffel, Frau von (1693, hat dem Kaiserpaar Dienste in Polen geleistet)</persName>
                </person>
                <person xml:id="emt_person_id__582">
-                  <persName type="name">Zwiefel, Herr von (1693, verstorbener Sohn der Frau von Zwiefel)</persName>
+                  <persName type="name">Zweiffel, Herr von (1693, verstorbener Sohn der Frau von Zwiefel)</persName>
                </person>
                <person xml:id="emt_person_id__583">
                   <persName type="name">Hessen-Darmstadt, Elisabeth Dorothea von, verh. Hessen-Homburg</persName>
@@ -7115,13 +7121,17 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                   <persName type="name">Schweizer, Ehefrau des Dr. Schweizer (1693 bereits verstorben)</persName>
                </person>
                <person xml:id="emt_person_id__625">
-                  <persName type="name">Hofmeister von Oels / Eltz (der Kurfürstin Elisabeth Amalia, 1693)</persName>
+                  <persName type="name">Eltz, Johann Adolf von</persName>
                   <persName type="function">
-                     <roleName>Hofmeister</roleName>
+                     <roleName>Hofmeister der Kurfürstin-Witwe Elisabeth Amalie</roleName>
                   </persName>
+                  <birth>
+                     <date notBefore="1639-01-01" notAfter="1639-12-31">1639</date>
+                  </birth>
+                  <idno type="URL">https://genealogy.euweb.cz/eltz/eltz6.html</idno>
                </person>
                <person xml:id="emt_person_id__626">
-                  <persName type="name">Fugger, Maria Agnes Magdalena 1694</persName>
+                  <persName type="name">Fugger, Maria Agnes Magdalena</persName>
                   <persName type="title">
                      <roleName>Gräfin</roleName>
                   </persName>
@@ -7711,9 +7721,6 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                <person xml:id="emt_person_id__685">
                   <persName type="name">Sicola, Amedeo</persName>
                </person>
-               <person xml:id="emt_person_id__686">
-                  <persName type="name">Wirz, wahrscheinlich Leibarzt 1687</persName>
-               </person>
                <person xml:id="emt_person_id__687">
                   <persName type="name">Tänzer aus Frankreich 1687</persName>
                </person>
@@ -7814,7 +7821,10 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                   </figure>
                </person>
                <person xml:id="emt_person_id__700">
-                  <persName type="name">Agricola, hat 1687 mit Oper in Düsseldorf zu tun</persName>
+                  <persName type="name">Agricola, Johann Paul</persName>
+                  <birth>
+                     <date notBefore="1638-01-01" notAfter="1638-12-31">1638</date>
+                  </birth>
                </person>
                <person xml:id="emt_person_id__701">
                   <persName type="name">Caprara, Enea Silvio</persName>
@@ -8080,9 +8090,6 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                      <caption>0 'Le maréchal de Villars' - Rigaud - Vaux-le-Vicomte.jpg</caption>
                   </figure>
                </person>
-               <person xml:id="emt_person_id__721">
-                  <persName type="name">Markgraf (von Baden?), Domherr in Köln 1687</persName>
-               </person>
                <person xml:id="emt_person_id__722">
                   <persName type="name">Ranuzzi, Angelo Maria</persName>
                   <persName type="function">
@@ -8169,7 +8176,7 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                   <idno type="URL">https://kaiserhof.geschichte.lmu.de/13280</idno>
                </person>
                <person xml:id="emt_person_id__729">
-                  <persName type="name">Vehlen / Velen, Frau von</persName>
+                  <persName type="name">Velen / Vehlen, Frau von</persName>
                </person>
                <person xml:id="emt_person_id__730">
                   <persName type="name">Lezay de Lusignan, Claude Hugues de</persName>
@@ -8183,12 +8190,6 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                      <date notBefore="1707-01-01" notAfter="1707-12-31">1707</date>
                   </death>
                   <idno type="URL">https://austria-forum.org/af/AustriaWiki/Liste_der_franz%C3%B6sischen_Botschafter_in_%C3%96sterreich</idno>
-               </person>
-               <person xml:id="emt_person_id__731">
-                  <persName type="name">Wels/Welz, Frau von, 1687</persName>
-                  <persName type="function">
-                     <roleName>Obersthofmeisterin der Kurfürstin von Bayern</roleName>
-                  </persName>
                </person>
                <person xml:id="emt_person_id__732">
                   <persName type="name">Holas /Holos, Herr, 1687</persName>
@@ -10526,12 +10527,6 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                   <idno type="GND">ttps://d-nb.info/gnd/11645718X</idno>
                   <idno type="NDB">https://www.deutsche-biographie.de/pnd11645718X.html#indexcontent</idno>
                </person>
-               <person xml:id="emt_person_id__1057">
-                  <persName type="name">Dr. Francke (1696, Zusammenhang mit dem dänischen Heiratsprojekt)</persName>
-                  <persName type="function">
-                     <roleName>Arzt</roleName>
-                  </persName>
-               </person>
                <person xml:id="emt_person_id__1058">
                   <persName type="name">Moratelli, Sebastiano</persName>
                   <persName type="function">
@@ -10675,7 +10670,7 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                      <date notBefore="1735-01-01" notAfter="1735-12-31">1735</date>
                   </death>
                   <idno type="WIKIDATA">https://pt.wikipedia.org/wiki/Ant%C3%B3nio_de_Noronha_de_Albuquerque</idno>
-                  <idno type="URL">https://kaiserin.hypotheses.org/2278#_ftnref1</idno>
+                  <idno type="URL">https://pt.wikipedia.org/wiki/Ant%C3%B3nio_de_Noronha_de_Albuquerque</idno>
                </person>
                <person xml:id="emt_person_id__1074">
                   <persName type="name">Ligne de Arronches, Charles-Joseph de</persName>
@@ -11326,7 +11321,7 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                   </figure>
                </person>
                <person xml:id="emt_person_id__1158">
-                  <persName type="name">Wolfenbüttel, Anton Ulrich von</persName>
+                  <persName type="name">Braunschweig-Wolfenbüttel, Anton Ulrich von</persName>
                   <persName type="title">
                      <roleName>Herzog</roleName>
                   </persName>
@@ -11761,10 +11756,10 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                   </figure>
                </person>
                <person xml:id="emt_person_id__1226">
-                  <persName type="name">Würdige Mutter der Karmelitinnen in Aachen 1701</persName>
+                  <persName type="name">Mutter (Priorin) der Karmelitinnen in Aachen 1701</persName>
                </person>
                <person xml:id="emt_person_id__1227">
-                  <persName type="name">Margo, ehemalige Kammerdienerin, Karmelitin in Münstereifel (1698</persName>
+                  <persName type="name">Margo, ehemalige Kammerdienerin, Karmelitin in Münstereifel (1698)</persName>
                </person>
                <person xml:id="emt_person_id__1228">
                   <persName type="name">Nesselrode-Ehreshoven, Philipp Wilhelm von</persName>
@@ -12139,10 +12134,13 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                   <persName type="name">De Hoppe (Niederländer, verhandelt 1699 mit Villars)</persName>
                </person>
                <person xml:id="emt_person_id__1254">
-                  <persName type="name">Anna Liesel (hat Erzherzogin Anna Josepha lang gedient, 1696 und 1699 empfohlen)</persName>
+                  <persName type="name">Anna Liesel (hat Erzherzogin Maria Josepha lang gedient, 1696 und 1699 empfohlen)</persName>
                </person>
                <person xml:id="emt_person_id__1255">
                   <persName type="name">Winkelhausen, Anna Maria von, geb. von Hompesch</persName>
+                  <persName type="function">
+                     <roleName>Hofmeisterin</roleName>
+                  </persName>
                   <idno type="GND">https://d-nb.info/gnd/142362360</idno>
                   <idno type="WIKIDATA">http://www.wikidata.org/entity/Q1315132</idno>
                   <idno type="URL">https://de.wikipedia.org/wiki/Winkelhausen_(Adelsgeschlecht)</idno>
@@ -12182,7 +12180,7 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                   <persName type="name">Kett/Rett (empfohlen 1700)</persName>
                </person>
                <person xml:id="emt_person_id__1259">
-                  <persName type="name">Schwester Anna Magdalena von St. Joseph OCarm</persName>
+                  <persName type="name">Anna Magdalena von St. Joseph OCarm</persName>
                   <persName type="function">
                      <roleName>designierte Priorin des geplanten Karmelitinnenklosters in Höchstädt</roleName>
                   </persName>
@@ -13245,7 +13243,11 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                   </death>
                </person>
                <person xml:id="emt_person_id__1519">
-                  <persName type="name">Winkelhausen, Sohn der Frau von 1704</persName>
+                  <persName type="name">Winkelhausen, Franz Karl von</persName>
+                  <death>
+                     <date notBefore="1734-01-01" notAfter="1734-12-31">1734</date>
+                  </death>
+                  <idno type="URL">https://de.wikipedia.org/wiki/Winkelhausen_(Adelsgeschlecht)</idno>
                </person>
                <person xml:id="emt_person_id__1521">
                   <persName type="name">Piazza, Giulio</persName>
@@ -13320,10 +13322,16 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                   <idno type="NDB">https://www.deutsche-biographie.de/pnd121357643.html#indexcontent</idno>
                </person>
                <person xml:id="emt_person_id__1526">
-                  <persName type="name">Kokorzovec / Kokorschewetz / Cocorschowiz (1704 empfohlen)</persName>
+                  <persName type="name">Kokorzovecz von Kokorschowa, Peter Franz (1704 empfohlen)</persName>
                   <persName type="title">
                      <roleName>Graf</roleName>
                   </persName>
+                  <birth>
+                     <date notBefore="1673-01-01" notAfter="1673-12-31">1673</date>
+                  </birth>
+                  <death>
+                     <date notBefore="1720-01-01" notAfter="1720-12-31">1720</date>
+                  </death>
                </person>
                <person xml:id="emt_person_id__1529">
                   <persName type="name">Thürheim, Christoph Wilhelm von</persName>
@@ -13557,7 +13565,22 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                   <persName type="name">Hohenzollern, Haus</persName>
                </person>
                <person xml:id="emt_person_id__1551">
-                  <persName type="name">Almirante de Castiglia (1705)</persName>
+                  <persName type="name">Enriquez de Cabrera, Juan Tomás</persName>
+                  <persName type="function">
+                     <roleName>Almirante de Castilla 1691 bis 1705</roleName>
+                  </persName>
+                  <birth>
+                     <date notBefore="1646-01-01" notAfter="1646-12-31">1646</date>
+                  </birth>
+                  <death>
+                     <date notBefore="1705-01-01" notAfter="1705-12-31">1705</date>
+                  </death>
+                  <idno type="WIKIDATA">http://www.wikidata.org/entity/Q2762034</idno>
+                  <idno type="URL">https:https://es.wikipedia.org/wiki/Juan_Tom%C3%A1s_Enr%C3%ADquez_de_Cabrera_y_%C3%81lvarez_de_Toledo</idno>
+                  <figure>
+                     <graphic url="emt_person_id__1551.jpg"/>
+                     <caption>Georges tasniere-Retrato de Juan Tomás Enríquez de Cabrera.jpg</caption>
+                  </figure>
                </person>
                <person xml:id="emt_person_id__1552">
                   <persName type="name">Seraw (1705, Zusammenhang mit Tirol unf Pfalzgraf Karl, evtl. Saurau?)</persName>
@@ -13711,7 +13734,7 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                   </figure>
                </person>
                <person xml:id="emt_person_id__1567">
-                  <persName type="name">Gutenberg, eine gewisse von (1705 empfohlen)</persName>
+                  <persName type="name">Guttenberg, eine gewisse von (1705 empfohlen)</persName>
                </person>
                <person xml:id="emt_person_id__1568">
                   <persName type="name">Braunschweig-Wolfenbüttel, Haus</persName>
@@ -13824,10 +13847,10 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                   <idno type="URL">https://viecpro.acdh.oeaw.ac.at/persons/324022</idno>
                </person>
                <person xml:id="emt_person_id__1609">
-                  <persName type="name">Westerloh (1705 Expedition seinetwegen)</persName>
+                  <persName type="name">Westerloh (1705 kaiserlicher Erlass/Schreiben seinetwegen)</persName>
                </person>
                <person xml:id="emt_person_id__1610">
-                  <persName type="name">Ferara, Alphonso</persName>
+                  <persName type="name">Ferara, Alfonso</persName>
                   <persName type="title">
                      <roleName>Graf</roleName>
                   </persName>
@@ -14240,7 +14263,7 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                   <persName type="name">Pater Rektor (der Karmeliten? 1706)</persName>
                </person>
                <person xml:id="emt_person_id__1673">
-                  <persName type="name">Würdige Mutter der Karmelitinnen in Wien 1706</persName>
+                  <persName type="name">Mutter (Priorin) der Karmelitinnen in Wien 1706</persName>
                </person>
                <person xml:id="emt_person_id__1674">
                   <persName type="name">Leslie, Jakob Ernst von</persName>
@@ -15329,7 +15352,7 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                   <idno type="WIKIDATA">http://www.wikidata.org/entity/Q1237842</idno>
                </person>
                <person xml:id="emt_person_id__1760">
-                  <persName type="name">Liechtenstein, Herr von</persName>
+                  <persName type="name">Liechtenstein, Herr (Fürst?) von</persName>
                </person>
                <person xml:id="emt_person_id__1761">
                   <persName type="name">Savoyen, Vittorio Amedeo von</persName>
@@ -15606,7 +15629,7 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                   <persName type="name">Maciotti (1708 in Innsbruck)</persName>
                </person>
                <person xml:id="emt_person_id__1819">
-                  <persName type="name">Lonfrano, NN Marchese (1709 aus Spanien nach Wien gekommen)</persName>
+                  <persName type="name">Lonfrano / Ronfrano, NN Marchese (1709 aus Spanien nach Wien gekommen)</persName>
                </person>
                <person xml:id="emt_person_id__1820">
                   <persName type="name">Hartmann von Klarstein (Clarstein), Franz Maximilian von</persName>
@@ -15913,7 +15936,7 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                   <persName type="name">Neukirchen (wird 1709 empfohlen)</persName>
                </person>
                <person xml:id="emt_person_id__1886">
-                  <persName type="name">Wendt von Hardenberg/Hartenburg</persName>
+                  <persName type="name">Wendt von Hardenberg, NN</persName>
                   <persName type="function">
                      <roleName>Drost in Cronenburg</roleName>
                   </persName>
@@ -16387,7 +16410,7 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                   <idno type="URL">https://viecpro.acdh.oeaw.ac.at/persons/68491</idno>
                </person>
                <person xml:id="emt_person_id__2032">
-                  <persName type="name">Monsignore Ronfrano (überbringt 1711 Schreiben)</persName>
+                  <persName type="name">Monsignore Ronfrano / Lonfrano (überbringt 1711 Schreiben)</persName>
                </person>
                <person xml:id="emt_person_id__2033">
                   <persName type="name">Maler, hat sich 1711 im Rückblick nicht bewährt</persName>
@@ -16568,7 +16591,7 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                   <persName type="name">Abgesandter des Kurfürsten von Bayern beim Kaiser 1701</persName>
                </person>
                <person xml:id="emt_person_id__2161">
-                  <persName type="name">Vetter des Grafen Wenzel Norbert von Kinsky</persName>
+                  <persName type="name">Kinsky, Vetter des Grafen Wenzel Norbert von Kinsky</persName>
                </person>
                <person xml:id="emt_person_id__2162">
                   <persName type="name">Sara, alte Bedienstete von EMTs Mutter 1701</persName>
@@ -16699,7 +16722,7 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                   <persName type="name">Sekretär des Fürsten Hieronim Augustyn Lubomirski 1688</persName>
                </person>
                <person xml:id="emt_person_id__2182">
-                  <persName type="name">Batl / Vatl ?, Herr von (1691)</persName>
+                  <persName type="name">Vatl ?, Herr von (1691)</persName>
                </person>
                <person xml:id="emt_person_id__2184">
                   <persName type="name">Verein/Werein, Frau (1686)</persName>
