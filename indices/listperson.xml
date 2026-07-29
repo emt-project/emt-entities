@@ -206,7 +206,7 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                   </figure>
                </person>
                <person xml:id="emt_person_id__11">
-                  <persName type="name">Turinetti, Ercole Giuseppe di Priero (Prié)</persName>
+                  <persName type="name">Prié (Priero), Ercole Giuseppe Turinetti di</persName>
                   <persName type="title">
                      <roleName>Marchese</roleName>
                   </persName>
@@ -4355,9 +4355,6 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                      <date notBefore="1695-01-01" notAfter="1695-12-31">1695</date>
                   </death>
                   <idno type="URL">https://it.wikipedia.org/wiki/Carlo_Emanuele_d%27Este</idno>
-               </person>
-               <person xml:id="emt_person_id__345">
-                  <persName type="name">Burg, Oberst (oder Oberstburggraf) 1682</persName>
                </person>
                <person xml:id="emt_person_id__346">
                   <persName type="name">Viniancour, Herr 1683</persName>
@@ -10271,20 +10268,6 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                      <caption>ElisaDoroSaGoHeDa.JPG</caption>
                   </figure>
                </person>
-               <person xml:id="emt_person_id__970">
-                  <persName type="name">D'Arezzo, Bernardino</persName>
-                  <persName type="function">
-                     <roleName>General des Kapuzinerordens 1693 bis 1698</roleName>
-                  </persName>
-                  <birth>
-                     <date notBefore="1636-01-01" notAfter="1636-12-31">1636</date>
-                  </birth>
-                  <death>
-                     <date notBefore="1718-01-01" notAfter="1718-12-31">1718</date>
-                  </death>
-                  <idno type="GND">https://d-nb.info/gnd/11887070X</idno>
-                  <idno type="NDB">https://www.deutsche-biographie.de/pnd11887070X.html#index</idno>
-               </person>
                <person xml:id="emt_person_id__971">
                   <persName type="name">Stigler, Dr. (reist 1695/96 mit Pater Wiser nach Dänemark)</persName>
                </person>
@@ -10450,9 +10433,6 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                </person>
                <person xml:id="emt_person_id__1016">
                   <persName type="name">Hois (1695, schickt eine Relation nach Wien)</persName>
-               </person>
-               <person xml:id="emt_person_id__1017">
-                  <persName type="name">Irrmann (1695, Memorial wegen seiner Kinder)</persName>
                </person>
                <person xml:id="emt_person_id__1019">
                   <persName type="name">Holthausen (1695, Zusammenhang mit den Kindern des Irrmann)</persName>
