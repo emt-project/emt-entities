@@ -12013,9 +12013,6 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                      <caption>Maria Josepha von Sachsen-Litauen-Polen-Österreich.jpg</caption>
                   </figure>
                </person>
-               <person xml:id="emt_person_id__1246">
-                  <persName type="name">Begleiter des Pater Pottier in Wien 1699</persName>
-               </person>
                <person xml:id="emt_person_id__1247">
                   <persName type="name">Rietberg und Ostfriesland, Maria Ernestine Franziska von</persName>
                   <persName type="title">
@@ -15891,18 +15888,6 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                <person xml:id="emt_person_id__1882">
                   <persName type="name">Eisenfels, von (stellt 1709 Anspruch auf Erbschaft des Violett)</persName>
                </person>
-               <person xml:id="emt_person_id__1883">
-                  <persName type="name">Cossombrato, Ignazio Vittorio Tarino Imperiale di</persName>
-                  <persName type="title">
-                     <roleName>Conte</roleName>
-                  </persName>
-                  <persName type="function">
-                     <roleName>savoyischer Gesandter in Wien 1703-1709</roleName>
-                  </persName>
-                  <death>
-                     <date notBefore="1719-01-01" notAfter="1719-12-31">1719</date>
-                  </death>
-               </person>
                <person xml:id="emt_person_id__1884">
                   <persName type="name">Freyberg, Christoph Benedikt von</persName>
                   <persName type="function">
@@ -15992,9 +15977,6 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                      <graphic url="emt_person_id__1893.jpg"/>
                      <caption>Infante Francisco, Duque de Beja.JPG</caption>
                   </figure>
-               </person>
-               <person xml:id="emt_person_id__1894">
-                  <persName type="name">NN, 1709 für die verwitwete spanische Königin Maria Anna von Pfalz-Neuburg in Wien?</persName>
                </person>
                <person xml:id="emt_person_id__1895">
                   <persName type="name">Gonzaga-Nevers, Haus</persName>
@@ -16432,13 +16414,16 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                   <idno type="URL">https://de.wikisource.org/wiki/BLK%C3%96:Saint_Julien-Wallsee,_das_Grafenhaus</idno>
                </person>
                <person xml:id="emt_person_id__2039">
-                  <persName type="name">Saint Julien, Johann Nikolaus von (?)</persName>
+                  <persName type="name">Saint Julien, Johann Leopold von</persName>
                   <persName type="title">
                      <roleName>Graf</roleName>
                   </persName>
                   <birth>
-                     <date notBefore="1676-01-01" notAfter="1676-12-31">1676</date>
+                     <date notBefore="1683-01-01" notAfter="1683-12-31">1683</date>
                   </birth>
+                  <death>
+                     <date notBefore="1719-01-01" notAfter="1719-12-31">1719</date>
+                  </death>
                </person>
                <person xml:id="emt_person_id__2040">
                   <persName type="name">NN, 1712 Domherr in Augsburg oder Eichstätt (vielleicht von der Au)</persName>
@@ -16621,9 +16606,6 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                      <date notBefore="1714-01-01" notAfter="1714-12-31">1714</date>
                   </death>
                   <idno type="URL">https://gw.geneanet.org/tessaone?lang=fr&amp;n=de+brouchoven+de+bergeyck&amp;p=jean</idno>
-               </person>
-               <person xml:id="emt_person_id__1681">
-                  <persName type="name">NN, wird 1686 als Falkenmeister empfohlen</persName>
                </person>
                <person xml:id="emt_person_id__2170">
                   <persName type="name">Rehbinder, Bernhard Otto von</persName>
