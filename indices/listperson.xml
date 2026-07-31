@@ -12119,7 +12119,7 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                      <roleName>Hofmeisterin</roleName>
                   </persName>
                   <idno type="GND">https://d-nb.info/gnd/142362360</idno>
-                  <idno type="WIKIDATA">http://www.wikidata.org/entity/Q1315132</idno>
+                  <idno type="WIKIDATA">http://www.wikidata.org/entity/Q110415761</idno>
                   <idno type="URL">https://de.wikipedia.org/wiki/Winkelhausen_(Adelsgeschlecht)</idno>
                </person>
                <person xml:id="emt_person_id__1256">
@@ -16716,6 +16716,9 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                      <date notBefore="1713-01-01" notAfter="1713-12-31">1713</date>
                   </death>
                   <idno type="URL">https://de.wikipedia.org/wiki/Goltstein_(Adelsgeschlecht)</idno>
+               </person>
+               <person xml:id="emt_person_id__2187">
+                  <persName type="name"/>
                </person>
             </listPerson>
          </div>

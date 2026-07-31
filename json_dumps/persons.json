@@ -7545,7 +7545,7 @@
     "gnd": "",
     "other_url": "",
     "emt_id": "emt_person_id__276",
-    "internal_comment": "ist 1681 gemeinsam mit Marco d'Aviano in Frankreich unterwegs",
+    "internal_comment": "ist 1681 gemeinsam mit Marco d'Aviano in Frankreich unterwegs - bei Klopp gibt es Pater Cosmo da Castelfranco, an den EMT auch einen brief schreibt",
     "color": "",
     "lebensdaten": "",
     "ndb": "",
@@ -17835,7 +17835,7 @@
     "gnd": "",
     "other_url": "https://viecpro.acdh.oeaw.ac.at/persons/170964",
     "emt_id": "emt_person_id__683",
-    "internal_comment": "Madlen sollte für die Aya die richtige Anrede in einem Brief an PW schreiben, wusste sie aber auch nicht - gehört zum Hofstaat in Wien. In VieCPro ist eine Johanna Helena Schaffer? Vgl. den Brief an lieb Madlen in der ÖNB.",
+    "internal_comment": "Madlen sollte für die Aya die richtige Anrede in einem Brief an PW schreiben, wusste sie aber auch nicht - gehört zum Hofstaat in Wien. In VieCPro ist eine Johanna Helena Schaffer? Vgl. den Brief an lieb Madlen in der ÖNB.\nJohanna Helena wird 1693 im HZAB 253 als Kammerdienerin genannt",
     "color": "",
     "lebensdaten": "",
     "ndb": "",
@@ -27956,7 +27956,7 @@
     "ndb": "",
     "year_of_birth": null,
     "year_of_death": null,
-    "wikidata_url": "http://www.wikidata.org/entity/Q1315132",
+    "wikidata_url": "https://www.wikidata.org/wiki/Q110415761",
     "wikidata_enriched": true,
     "img_name": "",
     "img_fetched": true,
@@ -39575,5 +39575,30 @@
         "color": "purple"
       }
     ]
+  },
+  "2187": {
+    "id": 2187,
+    "order": "1509.00000000000000000000",
+    "name": "",
+    "gnd": "",
+    "other_url": "",
+    "emt_id": "emt_person_id__2187",
+    "internal_comment": "",
+    "color": "",
+    "lebensdaten": "",
+    "ndb": "",
+    "year_of_birth": null,
+    "year_of_death": null,
+    "wikidata_url": "",
+    "wikidata_enriched": false,
+    "img_name": "",
+    "img_fetched": false,
+    "img_source": "",
+    "birth_date_written": "",
+    "death_date_written": "",
+    "geschlecht": "",
+    "funktionsbezeichnungen": "",
+    "unidentifiziert": false,
+    "titel": []
   }
 }
