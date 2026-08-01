@@ -2930,6 +2930,15 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                   </location>
                   <idno type="GEONAMES">https://sws.geonames.org/3059436/</idno>
                </place>
+               <place xml:id="emt_place_id__965">
+                  <placeName>Cölln an der Spree (heute Stadtteil Alt-Kölln in Berlin Mitte)</placeName>
+               </place>
+               <place xml:id="emt_place_id__966">
+                  <placeName>Oranienburg</placeName>
+               </place>
+               <place xml:id="emt_place_id__967">
+                  <placeName>Schönhausen</placeName>
+               </place>
             </listPlace>
          </div>
       </body>

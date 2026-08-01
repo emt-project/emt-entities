@@ -542,5 +542,13 @@
     "gnd": "",
     "emt_id": "emt_institution_id__260",
     "intern": ""
+  },
+  "261": {
+    "id": 261,
+    "order": "69.00000000000000000000",
+    "name": "Oberpfälzische Regierung",
+    "gnd": "",
+    "emt_id": "emt_institution_id__261",
+    "intern": ""
   }
 }
