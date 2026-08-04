@@ -383,5 +383,40 @@
     "to": "1704-08-02",
     "uncertainty": [],
     "date_text": ""
+  },
+  "14": {
+    "id": 14,
+    "order": "13.00000000000000000000",
+    "emt_id": "emt_visit_id__14",
+    "description": "Johann Wilhelm und Maria Anna von Pfalz-Neuburg  in Wien",
+    "location": [
+      {
+        "id": 63,
+        "value": "Wien, Stadt",
+        "order": "63.00000000000000000000"
+      }
+    ],
+    "persons": [
+      {
+        "id": 18,
+        "value": "Pfalz-Neuburg, Johann Wilhelm von",
+        "order": "18.00000000000000000000"
+      },
+      {
+        "id": 60,
+        "value": "Österreich, Maria Anna von, vereh. Pfalz-Neuburg",
+        "order": "60.00000000000000000000"
+      }
+    ],
+    "from": "1685-10-01",
+    "to": "1686-03-05",
+    "uncertainty": [
+      {
+        "id": 23189,
+        "value": "both",
+        "color": "deep-dark-green"
+      }
+    ],
+    "date_text": "Oktober 1685 bis Anfang März 1686"
   }
 }
