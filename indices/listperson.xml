@@ -5211,7 +5211,10 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                   <idno type="URL">https://dokutar.omikk.bme.hu/archivum/angol/htm/zrinyi_m.htm</idno>
                </person>
                <person xml:id="emt_person_id__424">
-                  <persName type="name">Liechtenstein, Gräfin von</persName>
+                  <persName type="name">Liechtenstein, Maria Franziska von, vereh. Götzen</persName>
+                  <persName type="title">
+                     <roleName>Gräfin</roleName>
+                  </persName>
                   <persName type="function">
                      <roleName>Hoffräulein bis 1684</roleName>
                   </persName>
@@ -5941,10 +5944,20 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                   <persName type="name">Bayern, Haus</persName>
                </person>
                <person xml:id="emt_person_id__501">
-                  <persName type="name">Emerich, NN Pater 1685</persName>
+                  <persName type="name">Pater Emerich OFMCap, bürgerlich Bernhard Becker</persName>
                   <persName type="title">
                      <roleName>Pater</roleName>
                   </persName>
+                  <persName type="function">
+                     <roleName>Leibarzt Kurfürst Philipp Wilhelms, Beichtvater Kurfürstin Elisabeth Amalias 1690-1692 und Königin Maria Annas von Spanien 1692-1701</roleName>
+                  </persName>
+                  <birth>
+                     <date notBefore="1629-01-01" notAfter="1629-12-31">1629</date>
+                  </birth>
+                  <death>
+                     <date notBefore="1690-01-01" notAfter="1690-12-31">1690</date>
+                  </death>
+                  <idno type="URL">https://oberdeutsche-personendatenbank.digitale-sammlungen.de/Datenbank/Becker,_Bernhard_Emerich</idno>
                </person>
                <person xml:id="emt_person_id__502">
                   <persName type="name">Hofmeister Karl Philipps 1685</persName>
@@ -9644,7 +9657,7 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                   <idno type="URL">lagis.hessen.de/de/personen/hessische-biografie/alle-eintraege/8612</idno>
                </person>
                <person xml:id="emt_person_id__849">
-                  <persName type="name">Mutter der Frau von Sickingen (1689)</persName>
+                  <persName type="name">Tochter der Anna Margaretha von Sickingen (1689)</persName>
                </person>
                <person xml:id="emt_person_id__850">
                   <persName type="name">Martinitz, Georg Adam von</persName>
@@ -9900,9 +9913,6 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                <person xml:id="emt_person_id__868">
                   <persName type="name">Wangen, Herr von 1690</persName>
                </person>
-               <person xml:id="emt_person_id__869">
-                  <persName type="name">Küsel/Küßel, Herr, geleitet 1690 Königin Maria Anna nach Spanien</persName>
-               </person>
                <person xml:id="emt_person_id__870">
                   <persName type="name">Mansfeld, Franz Maximilian von</persName>
                   <persName type="title">
@@ -9929,7 +9939,7 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                   <persName type="name">Obersthofmeister der regierenden Königin von Spanien 1690</persName>
                </person>
                <person xml:id="emt_person_id__872">
-                  <persName type="name">Russel, Herr, begleitet 1690 Maria Anna nach Spanien</persName>
+                  <persName type="name">Russel/Küßel, Herr, begleitet 1690 Maria Anna nach Spanien</persName>
                </person>
                <person xml:id="emt_person_id__873">
                   <persName type="name">Balde, Johann Jacob SJ</persName>
@@ -12433,10 +12443,22 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                   <persName type="name">NN, Dekan in Düsseldorf? 1701</persName>
                </person>
                <person xml:id="emt_person_id__1355">
-                  <persName type="name">Pater Remm 1701</persName>
+                  <persName type="name">Franz Rhem SJ</persName>
                   <persName type="title">
                      <roleName>Pater</roleName>
                   </persName>
+                  <persName type="function">
+                     <roleName>Beichtvater der Königin Maria Anna von Spanien 1692</roleName>
+                  </persName>
+                  <birth>
+                     <date notBefore="1634-01-01" notAfter="1634-12-31">1634</date>
+                  </birth>
+                  <death>
+                     <date notBefore="1703-01-01" notAfter="1703-12-31">1703</date>
+                  </death>
+                  <idno type="GND">https://d-nb.info/gnd/130590819</idno>
+                  <idno type="NDB">https://www.deutsche-biographie.de/130590819.html?language=de</idno>
+                  <idno type="WIKIDATA">http://www.wikidata.org/entity/Q94765756</idno>
                </person>
                <person xml:id="emt_person_id__1356">
                   <persName type="name">Endigkt (kommt 1701 nach Wien)</persName>
@@ -12702,20 +12724,21 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                   <idno type="URL">https://viecpro.acdh.oeaw.ac.at/persons/319636</idno>
                </person>
                <person xml:id="emt_person_id__1446">
-                  <persName type="name">Pontifeser, Gabriel OFMCap</persName>
+                  <persName type="name">Pontifeser, Gabriel OFMCap (auch Gabriel de Chiusa)</persName>
                   <persName type="title">
                      <roleName>Pater</roleName>
                   </persName>
                   <persName type="function">
-                     <roleName>Beichtvater der Königin Maria Anna von Spanien 1692-1702</roleName>
+                     <roleName>Beichtvater der Königin Maria Anna von Spanien 1692-1701</roleName>
                   </persName>
                   <birth>
                      <date notBefore="1653-01-01" notAfter="1653-12-31">1653</date>
                   </birth>
                   <death>
-                     <date notBefore="1707-01-01" notAfter="1707-12-31">1707</date>
+                     <date notBefore="1706-01-01" notAfter="1706-12-31">1706</date>
                   </death>
                   <idno type="WIKIDATA">http://www.wikidata.org/entity/Q108799828</idno>
+                  <idno type="URL">https://historia-hispanica.rah.es/biografias/36438-cristiano-pontifeser-worelin</idno>
                   <figure>
                      <graphic url="emt_person_id__1446.jpg"/>
                      <caption>Gabriel de Chiusa.jpg</caption>
