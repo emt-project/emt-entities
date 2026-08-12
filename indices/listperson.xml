@@ -16743,6 +16743,11 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                <person xml:id="emt_person_id__2187">
                   <persName type="name"/>
                </person>
+               <person xml:id="emt_person_id__2188">
+                  <persName type="name">Cavriani, Familie</persName>
+                  <idno type="GND">https://d-nb.info/gnd/143920677</idno>
+                  <idno type="WIKIDATA">http://www.wikidata.org/entity/Q1051904</idno>
+               </person>
             </listPerson>
          </div>
       </body>
