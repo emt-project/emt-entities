@@ -533,7 +533,7 @@
     "name": "",
     "gnd": "",
     "emt_id": "emt_institution_id__259",
-    "intern": ""
+    "intern": "scheint nicht in xml vorzukommen"
   },
   "260": {
     "id": 260,
@@ -549,6 +549,30 @@
     "name": "Oberpfälzische Regierung",
     "gnd": "",
     "emt_id": "emt_institution_id__261",
+    "intern": ""
+  },
+  "262": {
+    "id": 262,
+    "order": "70.00000000000000000000",
+    "name": "Magistrat von Frankfurt",
+    "gnd": "",
+    "emt_id": "emt_institution_id__262",
+    "intern": ""
+  },
+  "263": {
+    "id": 263,
+    "order": "71.00000000000000000000",
+    "name": "Niedersächsischer Kreis",
+    "gnd": "",
+    "emt_id": "emt_institution_id__263",
+    "intern": ""
+  },
+  "264": {
+    "id": 264,
+    "order": "72.00000000000000000000",
+    "name": "kaiserliches Kriegskommissariat",
+    "gnd": "",
+    "emt_id": "emt_institution_id__264",
     "intern": ""
   }
 }

@@ -3539,7 +3539,7 @@
                 "img_source": "commonsMedia",
                 "birth_date_written": null,
                 "death_date_written": null,
-                "geschlecht": null,
+                "geschlecht": "m.",
                 "funktionsbezeichnungen": "Weihbischof von Köln, gewählter Fürstbischof von Breslau",
                 "unidentifiziert": false,
                 "titel": [
@@ -3549,9 +3549,9 @@
                         "color": "darker-blue"
                     }
                 ],
-                "geistlich": null,
+                "geistlich": "geistlich",
                 "Hofstaat": null,
-                "Konfession": null
+                "Konfession": "katholisch"
             }
         ],
         "description": "",
@@ -3610,7 +3610,7 @@
                 "img_source": "commonsMedia",
                 "birth_date_written": null,
                 "death_date_written": null,
-                "geschlecht": null,
+                "geschlecht": "m.",
                 "funktionsbezeichnungen": "Weihbischof von Köln, gewählter Fürstbischof von Breslau",
                 "unidentifiziert": false,
                 "titel": [
@@ -3620,9 +3620,9 @@
                         "color": "darker-blue"
                     }
                 ],
-                "geistlich": null,
+                "geistlich": "geistlich",
                 "Hofstaat": null,
-                "Konfession": null
+                "Konfession": "katholisch"
             }
         ],
         "description": "",
@@ -3681,7 +3681,7 @@
                 "img_source": "",
                 "birth_date_written": "",
                 "death_date_written": "",
-                "geschlecht": null,
+                "geschlecht": "m.",
                 "funktionsbezeichnungen": "Deutschmeister, Bischof von Worms",
                 "unidentifiziert": false,
                 "titel": [
@@ -3691,9 +3691,9 @@
                         "color": "darker-blue"
                     }
                 ],
-                "geistlich": null,
+                "geistlich": "geistlich",
                 "Hofstaat": null,
-                "Konfession": null
+                "Konfession": "katholisch"
             }
         ],
         "description": "",
@@ -3752,7 +3752,7 @@
                 "img_source": "",
                 "birth_date_written": "",
                 "death_date_written": "",
-                "geschlecht": null,
+                "geschlecht": "m.",
                 "funktionsbezeichnungen": "Deutschmeister, Bischof von Worms",
                 "unidentifiziert": false,
                 "titel": [
@@ -3762,9 +3762,9 @@
                         "color": "darker-blue"
                     }
                 ],
-                "geistlich": null,
+                "geistlich": "geistlich",
                 "Hofstaat": null,
-                "Konfession": null
+                "Konfession": "katholisch"
             }
         ],
         "description": "",
@@ -3918,7 +3918,7 @@
                 "internal_comment": "",
                 "color": "",
                 "lebensdaten": "",
-                "ndb": "",
+                "ndb": "https://www.deutsche-biographie.de/sfz104200.html#indexcontent",
                 "year_of_birth": "1667",
                 "year_of_death": "1695",
                 "wikidata_url": "http://www.wikidata.org/entity/Q274353",
@@ -4104,7 +4104,7 @@
                 "img_source": "",
                 "birth_date_written": "",
                 "death_date_written": "",
-                "geschlecht": null,
+                "geschlecht": "m.",
                 "funktionsbezeichnungen": "Bischof von Augsburg",
                 "unidentifiziert": false,
                 "titel": [
@@ -4114,9 +4114,9 @@
                         "color": "darker-blue"
                     }
                 ],
-                "geistlich": null,
+                "geistlich": "geistlich",
                 "Hofstaat": null,
-                "Konfession": null
+                "Konfession": "katholisch"
             }
         ],
         "description": "",
@@ -4175,7 +4175,7 @@
                 "img_source": "",
                 "birth_date_written": "",
                 "death_date_written": "",
-                "geschlecht": null,
+                "geschlecht": "m.",
                 "funktionsbezeichnungen": "Deutschmeister, Bischof von Worms",
                 "unidentifiziert": false,
                 "titel": [
@@ -4185,9 +4185,9 @@
                         "color": "darker-blue"
                     }
                 ],
-                "geistlich": null,
+                "geistlich": "geistlich",
                 "Hofstaat": null,
-                "Konfession": null
+                "Konfession": "katholisch"
             }
         ],
         "description": "",
@@ -4246,7 +4246,7 @@
                 "img_source": "",
                 "birth_date_written": "",
                 "death_date_written": "",
-                "geschlecht": null,
+                "geschlecht": "m.",
                 "funktionsbezeichnungen": "Bischof von Augsburg",
                 "unidentifiziert": false,
                 "titel": [
@@ -4256,9 +4256,9 @@
                         "color": "darker-blue"
                     }
                 ],
-                "geistlich": null,
+                "geistlich": "geistlich",
                 "Hofstaat": null,
-                "Konfession": null
+                "Konfession": "katholisch"
             }
         ],
         "description": "",
@@ -4301,7 +4301,7 @@
                 "img_source": "",
                 "birth_date_written": "",
                 "death_date_written": "",
-                "geschlecht": null,
+                "geschlecht": "m.",
                 "funktionsbezeichnungen": "Deutschmeister, Bischof von Worms",
                 "unidentifiziert": false,
                 "titel": [
@@ -4311,9 +4311,9 @@
                         "color": "darker-blue"
                     }
                 ],
-                "geistlich": null,
+                "geistlich": "geistlich",
                 "Hofstaat": null,
-                "Konfession": null
+                "Konfession": "katholisch"
             }
         ],
         "description": "",
@@ -4372,7 +4372,7 @@
                 "img_source": "",
                 "birth_date_written": "",
                 "death_date_written": "",
-                "geschlecht": null,
+                "geschlecht": "m.",
                 "funktionsbezeichnungen": "Bischof von Breslau, Deutschmeister, Kurfürst und Erzbischof von Trier",
                 "unidentifiziert": false,
                 "titel": [
@@ -4387,9 +4387,9 @@
                         "color": "light-pink"
                     }
                 ],
-                "geistlich": null,
+                "geistlich": "geistlich",
                 "Hofstaat": null,
-                "Konfession": null
+                "Konfession": "katholisch"
             }
         ],
         "description": "",
@@ -4448,7 +4448,7 @@
                 "img_source": "",
                 "birth_date_written": "",
                 "death_date_written": "",
-                "geschlecht": null,
+                "geschlecht": "m.",
                 "funktionsbezeichnungen": "Bischof von Breslau, Deutschmeister, Kurfürst und Erzbischof von Trier",
                 "unidentifiziert": false,
                 "titel": [
@@ -4463,9 +4463,9 @@
                         "color": "light-pink"
                     }
                 ],
-                "geistlich": null,
+                "geistlich": "geistlich",
                 "Hofstaat": null,
-                "Konfession": null
+                "Konfession": "katholisch"
             }
         ],
         "description": "",
@@ -4508,7 +4508,7 @@
                 "img_source": "",
                 "birth_date_written": "",
                 "death_date_written": "",
-                "geschlecht": null,
+                "geschlecht": "m.",
                 "funktionsbezeichnungen": "Bischof von Breslau, Deutschmeister, Kurfürst und Erzbischof von Trier",
                 "unidentifiziert": false,
                 "titel": [
@@ -4523,9 +4523,9 @@
                         "color": "light-pink"
                     }
                 ],
-                "geistlich": null,
+                "geistlich": "geistlich",
                 "Hofstaat": null,
-                "Konfession": null
+                "Konfession": "katholisch"
             }
         ],
         "description": "",
@@ -4584,7 +4584,7 @@
                 "img_source": "",
                 "birth_date_written": "",
                 "death_date_written": "",
-                "geschlecht": null,
+                "geschlecht": "m.",
                 "funktionsbezeichnungen": "Bischof von Breslau, Deutschmeister, Kurfürst und Erzbischof von Trier",
                 "unidentifiziert": false,
                 "titel": [
@@ -4599,9 +4599,9 @@
                         "color": "light-pink"
                     }
                 ],
-                "geistlich": null,
+                "geistlich": "geistlich",
                 "Hofstaat": null,
-                "Konfession": null
+                "Konfession": "katholisch"
             }
         ],
         "description": "",
@@ -4731,7 +4731,7 @@
                 "img_source": "",
                 "birth_date_written": "",
                 "death_date_written": "",
-                "geschlecht": null,
+                "geschlecht": "m.",
                 "funktionsbezeichnungen": "Bischof von Breslau, Deutschmeister, Kurfürst und Erzbischof von Trier",
                 "unidentifiziert": false,
                 "titel": [
@@ -4746,9 +4746,9 @@
                         "color": "light-pink"
                     }
                 ],
-                "geistlich": null,
+                "geistlich": "geistlich",
                 "Hofstaat": null,
-                "Konfession": null
+                "Konfession": "katholisch"
             }
         ],
         "description": "",

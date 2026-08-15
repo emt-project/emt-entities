@@ -92,13 +92,13 @@
     "img_source": null,
     "birth_date_written": null,
     "death_date_written": null,
-    "geschlecht": null,
+    "geschlecht": "m.",
     "funktionsbezeichnungen": "Pater, Beichtvater Kaiserin Eleonora Magdalena 1684 bis 1705 (?)",
     "unidentifiziert": false,
     "titel": [],
-    "geistlich": null,
-    "Hofstaat": null,
-    "Konfession": null
+    "geistlich": "geistlich",
+    "Hofstaat": "Kaiserhof",
+    "Konfession": "katholisch"
   },
   "6": {
     "id": 6,
@@ -469,7 +469,7 @@
     "img_source": "commonsMedia",
     "birth_date_written": null,
     "death_date_written": null,
-    "geschlecht": null,
+    "geschlecht": "m.",
     "funktionsbezeichnungen": "Reichsvizekanzler, Domherr in Würzburg und Bamberg",
     "unidentifiziert": false,
     "titel": [
@@ -479,9 +479,9 @@
         "color": "purple"
       }
     ],
-    "geistlich": null,
+    "geistlich": "geistlich",
     "Hofstaat": null,
-    "Konfession": null
+    "Konfession": "katholisch"
   },
   "17": {
     "id": 17,
@@ -868,13 +868,13 @@
     "img_source": "commonsMedia",
     "birth_date_written": null,
     "death_date_written": null,
-    "geschlecht": null,
+    "geschlecht": "m.",
     "funktionsbezeichnungen": "Kardinal, Vizekönig von Neapel (1708-1710)",
     "unidentifiziert": false,
     "titel": [],
-    "geistlich": null,
+    "geistlich": "geistlich",
     "Hofstaat": null,
-    "Konfession": null
+    "Konfession": "katholisch"
   },
   "29": {
     "id": 29,
@@ -1256,13 +1256,13 @@
     "img_source": null,
     "birth_date_written": null,
     "death_date_written": null,
-    "geschlecht": null,
+    "geschlecht": "m.",
     "funktionsbezeichnungen": "Kardinal",
     "unidentifiziert": false,
     "titel": [],
-    "geistlich": null,
+    "geistlich": "geistlich",
     "Hofstaat": null,
-    "Konfession": null
+    "Konfession": "katholisch"
   },
   "40": {
     "id": 40,
@@ -1374,13 +1374,13 @@
     "img_source": null,
     "birth_date_written": "um 1649",
     "death_date_written": "nach 1695",
-    "geschlecht": null,
-    "funktionsbezeichnungen": null,
+    "geschlecht": "m.",
+    "funktionsbezeichnungen": "Komtur des Deutschen Ordens",
     "unidentifiziert": false,
     "titel": [],
-    "geistlich": null,
+    "geistlich": "geistlich",
     "Hofstaat": null,
-    "Konfession": null
+    "Konfession": "katholisch"
   },
   "45": {
     "id": 45,
@@ -1576,7 +1576,7 @@
     "img_source": "commonsMedia",
     "birth_date_written": null,
     "death_date_written": null,
-    "geschlecht": null,
+    "geschlecht": "m.",
     "funktionsbezeichnungen": "Papst",
     "unidentifiziert": false,
     "titel": [
@@ -1586,9 +1586,9 @@
         "color": "darker-yellow"
       }
     ],
-    "geistlich": null,
+    "geistlich": "geistlich",
     "Hofstaat": null,
-    "Konfession": null
+    "Konfession": "katholisch"
   },
   "52": {
     "id": 52,
@@ -1610,7 +1610,7 @@
     "img_source": null,
     "birth_date_written": null,
     "death_date_written": null,
-    "geschlecht": null,
+    "geschlecht": "m.",
     "funktionsbezeichnungen": "Beichtvater von Johann Wihelm von Pfalz-Neuburg 1697-1702",
     "unidentifiziert": false,
     "titel": [
@@ -1620,15 +1620,15 @@
         "color": "yellow"
       }
     ],
-    "geistlich": null,
-    "Hofstaat": null,
-    "Konfession": null
+    "geistlich": "geistlich",
+    "Hofstaat": "Pfalz-Neuburg",
+    "Konfession": "katholisch"
   },
   "53": {
     "id": 53,
     "order": "53.00000000000000000000",
     "name": "Wiser, Johann SJ",
-    "gnd": "",
+    "gnd": "https://d-nb.info/gnd/1139205900",
     "other_url": "https://books.google.de/books?id=bqNAAAAAcAAJ&pg=PA680&dq=Franz+Melchior+von+Wiser&hl=de&ei=NzpyTv-uBYGDOuyNma0J&sa=X&oi=book_result&ct=result&resnum=5&ved=0CD4Q6AEwBA#v=onepage&q=Wiser&f=false",
     "emt_id": "emt_person_id__53",
     "internal_comment": "Duhr, Jesuiten, Band 3, 894f. (reist nach Schweden und Wien, JW demnach bald unzufrieden mit Wiser SJ, EMT setzt sich für ihn ein. siehe auch bei seinem Bruder Franz Melchior",
@@ -1637,14 +1637,14 @@
     "ndb": "",
     "year_of_birth": "1656",
     "year_of_death": "1725",
-    "wikidata_url": "",
-    "wikidata_enriched": false,
+    "wikidata_url": "http://www.wikidata.org/entity/Q55685609",
+    "wikidata_enriched": true,
     "img_name": null,
-    "img_fetched": false,
+    "img_fetched": true,
     "img_source": null,
     "birth_date_written": null,
     "death_date_written": null,
-    "geschlecht": null,
+    "geschlecht": "m.",
     "funktionsbezeichnungen": "",
     "unidentifiziert": false,
     "titel": [
@@ -1654,9 +1654,9 @@
         "color": "yellow"
       }
     ],
-    "geistlich": null,
-    "Hofstaat": null,
-    "Konfession": null
+    "geistlich": "geistlich",
+    "Hofstaat": "Pfalz-Neuburg",
+    "Konfession": "katholisch"
   },
   "54": {
     "id": 54,
@@ -1819,14 +1819,14 @@
     "id": 59,
     "order": "59.00000000000000000000",
     "name": "Tanner, Johann Evangelist SJ",
-    "gnd": "",
+    "gnd": "http://d-nb.info/gnd/117299367",
     "other_url": "",
     "emt_id": "emt_person_id__59",
     "internal_comment": "Beichtvater EMT; Duhr, Jesuiten, Band 3,S. 795, 868",
     "color": "",
     "lebensdaten": null,
-    "ndb": "",
-    "year_of_birth": null,
+    "ndb": "https://www.deutsche-biographie.de/sfzT0920.html#indexcontent",
+    "year_of_birth": "1618",
     "year_of_death": "1680",
     "wikidata_url": "",
     "wikidata_enriched": false,
@@ -1835,7 +1835,7 @@
     "img_source": null,
     "birth_date_written": null,
     "death_date_written": null,
-    "geschlecht": null,
+    "geschlecht": "m.",
     "funktionsbezeichnungen": "Beichtvater",
     "unidentifiziert": false,
     "titel": [
@@ -1845,9 +1845,9 @@
         "color": "yellow"
       }
     ],
-    "geistlich": null,
-    "Hofstaat": null,
-    "Konfession": null
+    "geistlich": "geistlich",
+    "Hofstaat": "Kaiserhof",
+    "Konfession": "katholisch"
   },
   "60": {
     "id": 60,
@@ -1964,7 +1964,7 @@
     "img_source": "commonsMedia",
     "birth_date_written": null,
     "death_date_written": null,
-    "geschlecht": null,
+    "geschlecht": "m.",
     "funktionsbezeichnungen": "Erzbischof von Salzburg 1668-1687, Kardinal",
     "unidentifiziert": false,
     "titel": [
@@ -1974,9 +1974,9 @@
         "color": "purple"
       }
     ],
-    "geistlich": null,
+    "geistlich": "geistlich",
     "Hofstaat": null,
-    "Konfession": null
+    "Konfession": "katholisch"
   },
   "64": {
     "id": 64,
@@ -1998,13 +1998,13 @@
     "img_source": "commonsMedia",
     "birth_date_written": null,
     "death_date_written": null,
-    "geschlecht": null,
+    "geschlecht": "m.",
     "funktionsbezeichnungen": "Bischof von Eichstätt",
     "unidentifiziert": false,
     "titel": [],
-    "geistlich": null,
+    "geistlich": "geistlich",
     "Hofstaat": null,
-    "Konfession": null
+    "Konfession": "katholisch"
   },
   "65": {
     "id": 65,
@@ -2026,13 +2026,13 @@
     "img_source": "commonsMedia",
     "birth_date_written": null,
     "death_date_written": null,
-    "geschlecht": null,
+    "geschlecht": "m.",
     "funktionsbezeichnungen": "Bischof von Bamberg",
     "unidentifiziert": false,
     "titel": [],
-    "geistlich": null,
+    "geistlich": "geistlich",
     "Hofstaat": null,
-    "Konfession": null
+    "Konfession": "katholisch"
   },
   "66": {
     "id": 66,
@@ -2166,7 +2166,7 @@
     "img_source": "commonsMedia",
     "birth_date_written": null,
     "death_date_written": null,
-    "geschlecht": null,
+    "geschlecht": "m.",
     "funktionsbezeichnungen": "Fürstbischof von Freising",
     "unidentifiziert": false,
     "titel": [
@@ -2176,9 +2176,9 @@
         "color": "darker-blue"
       }
     ],
-    "geistlich": null,
+    "geistlich": "geistlich",
     "Hofstaat": null,
-    "Konfession": null
+    "Konfession": "katholisch"
   },
   "71": {
     "id": 71,
@@ -2200,13 +2200,13 @@
     "img_source": null,
     "birth_date_written": null,
     "death_date_written": null,
-    "geschlecht": null,
+    "geschlecht": "m.",
     "funktionsbezeichnungen": "Domherr in Münster, Paderborn und Lüttich, Domküster in Münster, Diplomat, Bischof in Fünfkirchen",
     "unidentifiziert": false,
     "titel": [],
-    "geistlich": null,
+    "geistlich": "geistlich",
     "Hofstaat": null,
-    "Konfession": null
+    "Konfession": "katholisch"
   },
   "72": {
     "id": 72,
@@ -2262,7 +2262,7 @@
     "img_source": "commonsMedia",
     "birth_date_written": null,
     "death_date_written": null,
-    "geschlecht": null,
+    "geschlecht": "m.",
     "funktionsbezeichnungen": "Kardinal, Fürstabt von Fulda und Kempten",
     "unidentifiziert": false,
     "titel": [
@@ -2272,9 +2272,9 @@
         "color": "dark-cyan"
       }
     ],
-    "geistlich": null,
+    "geistlich": "geistlich",
     "Hofstaat": null,
-    "Konfession": null
+    "Konfession": "katholisch"
   },
   "74": {
     "id": 74,
@@ -2324,7 +2324,7 @@
     "img_source": "commonsMedia",
     "birth_date_written": null,
     "death_date_written": null,
-    "geschlecht": null,
+    "geschlecht": "m.",
     "funktionsbezeichnungen": "Kardinal, Fürstbischof von Breslau",
     "unidentifiziert": false,
     "titel": [
@@ -2334,9 +2334,9 @@
         "color": "dark-cyan"
       }
     ],
-    "geistlich": null,
+    "geistlich": "geistlich",
     "Hofstaat": null,
-    "Konfession": null
+    "Konfession": "katholisch"
   },
   "76": {
     "id": 76,
@@ -2442,13 +2442,13 @@
     "img_source": null,
     "birth_date_written": null,
     "death_date_written": null,
-    "geschlecht": null,
+    "geschlecht": "m.",
     "funktionsbezeichnungen": "Domherr in Köln, Kämmerer",
     "unidentifiziert": false,
     "titel": [],
-    "geistlich": null,
+    "geistlich": "geistlich",
     "Hofstaat": null,
-    "Konfession": null
+    "Konfession": "katholisch"
   },
   "80": {
     "id": 80,
@@ -2538,7 +2538,7 @@
     "img_source": "commonsMedia",
     "birth_date_written": null,
     "death_date_written": null,
-    "geschlecht": null,
+    "geschlecht": "m.",
     "funktionsbezeichnungen": "Weihbischof von Köln, gewählter Fürstbischof von Breslau",
     "unidentifiziert": false,
     "titel": [
@@ -2548,9 +2548,9 @@
         "color": "darker-blue"
       }
     ],
-    "geistlich": null,
+    "geistlich": "geistlich",
     "Hofstaat": null,
-    "Konfession": null
+    "Konfession": "katholisch"
   },
   "83": {
     "id": 83,
@@ -2572,13 +2572,13 @@
     "img_source": "commonsMedia",
     "birth_date_written": null,
     "death_date_written": null,
-    "geschlecht": null,
+    "geschlecht": "m.",
     "funktionsbezeichnungen": "Bischof von Gurk, Kardinal",
     "unidentifiziert": false,
     "titel": [],
-    "geistlich": null,
+    "geistlich": "geistlich",
     "Hofstaat": null,
-    "Konfession": null
+    "Konfession": "katholisch"
   },
   "84": {
     "id": 84,
@@ -2668,7 +2668,7 @@
     "img_source": "commonsMedia",
     "birth_date_written": null,
     "death_date_written": null,
-    "geschlecht": null,
+    "geschlecht": "m.",
     "funktionsbezeichnungen": "Bischof von Straßburg",
     "unidentifiziert": false,
     "titel": [
@@ -2678,9 +2678,9 @@
         "color": "green"
       }
     ],
-    "geistlich": null,
+    "geistlich": "geistlich",
     "Hofstaat": null,
-    "Konfession": null
+    "Konfession": "katholisch"
   },
   "87": {
     "id": 87,
@@ -2736,7 +2736,7 @@
     "img_source": "commonsMedia",
     "birth_date_written": null,
     "death_date_written": null,
-    "geschlecht": null,
+    "geschlecht": "m.",
     "funktionsbezeichnungen": "Bischof von Münster",
     "unidentifiziert": false,
     "titel": [
@@ -2746,9 +2746,9 @@
         "color": "purple"
       }
     ],
-    "geistlich": null,
+    "geistlich": "geistlich",
     "Hofstaat": null,
-    "Konfession": null
+    "Konfession": "katholisch"
   },
   "89": {
     "id": 89,
@@ -2804,7 +2804,7 @@
     "img_source": null,
     "birth_date_written": null,
     "death_date_written": null,
-    "geschlecht": null,
+    "geschlecht": "m.",
     "funktionsbezeichnungen": null,
     "unidentifiziert": false,
     "titel": [
@@ -2814,9 +2814,9 @@
         "color": "green"
       }
     ],
-    "geistlich": null,
+    "geistlich": "geistlich",
     "Hofstaat": null,
-    "Konfession": null
+    "Konfession": "katholisch"
   },
   "91": {
     "id": 91,
@@ -2838,7 +2838,7 @@
     "img_source": "commonsMedia",
     "birth_date_written": null,
     "death_date_written": null,
-    "geschlecht": null,
+    "geschlecht": "m.",
     "funktionsbezeichnungen": "Bischof von Straßburg, Kardinal",
     "unidentifiziert": false,
     "titel": [
@@ -2853,9 +2853,9 @@
         "color": "darker-purple"
       }
     ],
-    "geistlich": null,
+    "geistlich": "geistlich",
     "Hofstaat": null,
-    "Konfession": null
+    "Konfession": "katholisch"
   },
   "92": {
     "id": 92,
@@ -3143,7 +3143,7 @@
     "img_source": "commonsMedia",
     "birth_date_written": null,
     "death_date_written": null,
-    "geschlecht": null,
+    "geschlecht": "m.",
     "funktionsbezeichnungen": "Kurfürst und Erzbischof von Mainz",
     "unidentifiziert": false,
     "titel": [
@@ -3153,9 +3153,9 @@
         "color": "light-pink"
       }
     ],
-    "geistlich": null,
+    "geistlich": "geistlich",
     "Hofstaat": null,
-    "Konfession": null
+    "Konfession": "katholisch"
   },
   "101": {
     "id": 101,
@@ -3177,7 +3177,7 @@
     "img_source": "commonsMedia",
     "birth_date_written": null,
     "death_date_written": null,
-    "geschlecht": null,
+    "geschlecht": "m.",
     "funktionsbezeichnungen": "Kurfürst und Erzbischof von Trier 1676-1711",
     "unidentifiziert": false,
     "titel": [
@@ -3187,9 +3187,9 @@
         "color": "light-pink"
       }
     ],
-    "geistlich": null,
+    "geistlich": "geistlich",
     "Hofstaat": null,
-    "Konfession": null
+    "Konfession": "katholisch"
   },
   "102": {
     "id": 102,
@@ -3351,13 +3351,13 @@
     "img_source": "commonsMedia",
     "birth_date_written": null,
     "death_date_written": null,
-    "geschlecht": null,
+    "geschlecht": "m.",
     "funktionsbezeichnungen": "Nuntius in Wien (1675-1689), Kardinal",
     "unidentifiziert": false,
     "titel": [],
-    "geistlich": null,
+    "geistlich": "geistlich",
     "Hofstaat": null,
-    "Konfession": null
+    "Konfession": "katholisch"
   },
   "109": {
     "id": 109,
@@ -3791,7 +3791,7 @@
     "img_source": "",
     "birth_date_written": "",
     "death_date_written": "",
-    "geschlecht": null,
+    "geschlecht": "m.",
     "funktionsbezeichnungen": "Bischof von Wien",
     "unidentifiziert": false,
     "titel": [
@@ -3801,9 +3801,9 @@
         "color": "yellow"
       }
     ],
-    "geistlich": null,
+    "geistlich": "geistlich",
     "Hofstaat": null,
-    "Konfession": null
+    "Konfession": "katholisch"
   },
   "123": {
     "id": 123,
@@ -3859,7 +3859,7 @@
     "img_source": "",
     "birth_date_written": "",
     "death_date_written": "",
-    "geschlecht": null,
+    "geschlecht": "m.",
     "funktionsbezeichnungen": "Deutschmeister, Bischof von Worms",
     "unidentifiziert": false,
     "titel": [
@@ -3869,9 +3869,9 @@
         "color": "darker-blue"
       }
     ],
-    "geistlich": null,
+    "geistlich": "geistlich",
     "Hofstaat": null,
-    "Konfession": null
+    "Konfession": "katholisch"
   },
   "125": {
     "id": 125,
@@ -3883,7 +3883,7 @@
     "internal_comment": "",
     "color": "",
     "lebensdaten": "",
-    "ndb": "",
+    "ndb": "https://www.deutsche-biographie.de/sfz104200.html#indexcontent",
     "year_of_birth": "1667",
     "year_of_death": "1695",
     "wikidata_url": "http://www.wikidata.org/entity/Q274353",
@@ -3961,7 +3961,7 @@
     "img_source": "",
     "birth_date_written": "",
     "death_date_written": "",
-    "geschlecht": null,
+    "geschlecht": "m.",
     "funktionsbezeichnungen": "Bischof von Augsburg",
     "unidentifiziert": false,
     "titel": [
@@ -3971,9 +3971,9 @@
         "color": "darker-blue"
       }
     ],
-    "geistlich": null,
+    "geistlich": "geistlich",
     "Hofstaat": null,
-    "Konfession": null
+    "Konfession": "katholisch"
   },
   "128": {
     "id": 128,
@@ -3995,7 +3995,7 @@
     "img_source": "",
     "birth_date_written": "",
     "death_date_written": "",
-    "geschlecht": null,
+    "geschlecht": "m.",
     "funktionsbezeichnungen": "Bischof von Breslau, Deutschmeister, Kurfürst und Erzbischof von Trier",
     "unidentifiziert": false,
     "titel": [
@@ -4010,9 +4010,9 @@
         "color": "light-pink"
       }
     ],
-    "geistlich": null,
+    "geistlich": "geistlich",
     "Hofstaat": null,
-    "Konfession": null
+    "Konfession": "katholisch"
   },
   "129": {
     "id": 129,
@@ -4684,19 +4684,19 @@
     "img_source": "commonsMedia",
     "birth_date_written": "",
     "death_date_written": "",
-    "geschlecht": null,
+    "geschlecht": "m.",
     "funktionsbezeichnungen": "Nuntius bei Friedensverhandlungen in Nijmegen",
     "unidentifiziert": false,
     "titel": [],
-    "geistlich": null,
+    "geistlich": "geistlich",
     "Hofstaat": null,
-    "Konfession": null
+    "Konfession": "katholisch"
   },
   "152": {
     "id": 152,
     "order": "152.00000000000000000000",
     "name": "Favoriti, Agostino",
-    "gnd": "",
+    "gnd": "https://d-nb.info/gnd/137967640",
     "other_url": "https://www.treccani.it/enciclopedia/agostino-favoriti_(Dizionario-Biografico)/",
     "emt_id": "emt_person_id__152",
     "internal_comment": "Vertrauter Papst Innozenz XI. 1677",
@@ -4705,20 +4705,20 @@
     "ndb": "",
     "year_of_birth": "1624",
     "year_of_death": "1682",
-    "wikidata_url": "https://www.wikidata.org/wiki/Q55227437",
-    "wikidata_enriched": false,
+    "wikidata_url": "http://www.wikidata.org/entity/Q55227437",
+    "wikidata_enriched": true,
     "img_name": "Augustino Favorito Sarzanensi (Cardinal Agostino Favoriti), by Filippo Carcani, 1685 - Santa Maria Maggiore - Rome, Italy - DSC05737.jpg",
     "img_fetched": true,
     "img_source": "commonsMedia",
     "birth_date_written": "",
     "death_date_written": "",
-    "geschlecht": null,
+    "geschlecht": "m.",
     "funktionsbezeichnungen": "Kardinal",
     "unidentifiziert": false,
     "titel": [],
-    "geistlich": null,
+    "geistlich": "geistlich",
     "Hofstaat": null,
-    "Konfession": null
+    "Konfession": "katholisch"
   },
   "153": {
     "id": 153,
@@ -4768,13 +4768,13 @@
     "img_source": "",
     "birth_date_written": "",
     "death_date_written": "",
-    "geschlecht": null,
+    "geschlecht": "m.",
     "funktionsbezeichnungen": null,
     "unidentifiziert": false,
     "titel": [],
-    "geistlich": null,
+    "geistlich": "geistlich",
     "Hofstaat": null,
-    "Konfession": null
+    "Konfession": "katholisch"
   },
   "155": {
     "id": 155,
@@ -4796,7 +4796,7 @@
     "img_source": "",
     "birth_date_written": "",
     "death_date_written": "",
-    "geschlecht": null,
+    "geschlecht": "m.",
     "funktionsbezeichnungen": "Domherr in Köln und Straßburg",
     "unidentifiziert": false,
     "titel": [
@@ -4806,9 +4806,9 @@
         "color": "purple"
       }
     ],
-    "geistlich": null,
+    "geistlich": "geistlich",
     "Hofstaat": null,
-    "Konfession": null
+    "Konfession": "katholisch"
   },
   "156": {
     "id": 156,
@@ -4830,7 +4830,7 @@
     "img_source": "",
     "birth_date_written": "",
     "death_date_written": "",
-    "geschlecht": null,
+    "geschlecht": "m.",
     "funktionsbezeichnungen": "Domherr zu Köln",
     "unidentifiziert": false,
     "titel": [
@@ -4840,9 +4840,9 @@
         "color": "green"
       }
     ],
-    "geistlich": null,
+    "geistlich": "geistlich",
     "Hofstaat": null,
-    "Konfession": null
+    "Konfession": "katholisch"
   },
   "157": {
     "id": 157,
@@ -4892,13 +4892,13 @@
     "img_source": "",
     "birth_date_written": "",
     "death_date_written": "",
-    "geschlecht": null,
+    "geschlecht": "m.",
     "funktionsbezeichnungen": null,
     "unidentifiziert": true,
     "titel": [],
-    "geistlich": null,
+    "geistlich": "geistlich",
     "Hofstaat": null,
-    "Konfession": null
+    "Konfession": "katholisch"
   },
   "159": {
     "id": 159,
@@ -5158,7 +5158,7 @@
     "id": 167,
     "order": "167.00000000000000000000",
     "name": "Packenius, Johann SJ",
-    "gnd": "",
+    "gnd": "https://d-nb.info/gnd/172300177",
     "other_url": "",
     "emt_id": "emt_person_id__167",
     "internal_comment": "Duhr, Jesuiten, Band 3, 878-880",
@@ -5167,20 +5167,20 @@
     "ndb": "",
     "year_of_birth": "1626",
     "year_of_death": "1681",
-    "wikidata_url": "",
-    "wikidata_enriched": false,
+    "wikidata_url": "http://www.wikidata.org/entity/Q112262669",
+    "wikidata_enriched": true,
     "img_name": "",
-    "img_fetched": false,
+    "img_fetched": true,
     "img_source": "",
     "birth_date_written": "",
     "death_date_written": "",
-    "geschlecht": null,
+    "geschlecht": "m.",
     "funktionsbezeichnungen": null,
     "unidentifiziert": false,
     "titel": [],
-    "geistlich": null,
+    "geistlich": "geistlich",
     "Hofstaat": null,
-    "Konfession": null
+    "Konfession": "katholisch"
   },
   "168": {
     "id": 168,
@@ -5270,13 +5270,13 @@
     "img_source": "",
     "birth_date_written": "",
     "death_date_written": "",
-    "geschlecht": null,
+    "geschlecht": "m.",
     "funktionsbezeichnungen": "Deutschmeister",
     "unidentifiziert": false,
     "titel": [],
-    "geistlich": null,
+    "geistlich": "geistlich",
     "Hofstaat": null,
-    "Konfession": null
+    "Konfession": "katholisch"
   },
   "171": {
     "id": 171,
@@ -6024,13 +6024,13 @@
     "img_source": "commonsMedia",
     "birth_date_written": "",
     "death_date_written": "",
-    "geschlecht": null,
+    "geschlecht": "m.",
     "funktionsbezeichnungen": "Fürstbischof von Brixen",
     "unidentifiziert": false,
     "titel": [],
-    "geistlich": null,
+    "geistlich": "geistlich",
     "Hofstaat": null,
-    "Konfession": null
+    "Konfession": "katholisch"
   },
   "197": {
     "id": 197,
@@ -6324,7 +6324,7 @@
     "internal_comment": "",
     "color": "",
     "lebensdaten": "",
-    "ndb": "",
+    "ndb": "https://www.deutsche-biographie.de/sfzV0822-4.html#indexcontent",
     "year_of_birth": "1666",
     "year_of_death": "1732",
     "wikidata_url": "http://www.wikidata.org/entity/Q209579",
@@ -6396,13 +6396,13 @@
     "img_source": "",
     "birth_date_written": "",
     "death_date_written": "",
-    "geschlecht": null,
+    "geschlecht": "m.",
     "funktionsbezeichnungen": "Deutschordensritter",
     "unidentifiziert": false,
     "titel": [],
-    "geistlich": null,
+    "geistlich": "geistlich",
     "Hofstaat": null,
-    "Konfession": null
+    "Konfession": "katholisch"
   },
   "209": {
     "id": 209,
@@ -6411,12 +6411,12 @@
     "gnd": "",
     "other_url": "",
     "emt_id": "emt_person_id__209",
-    "internal_comment": "Pater der PW wohlbekannt sein muss\n1687 im Karmeliterkloster in Wien, liegt dort krank zu Bett",
+    "internal_comment": "Pater der PW wohlbekannt sein muss\n1687 im Karmeliterkloster in Wien, liegt dort krank zu Bett\nstirbt Anfang 1695 in Wien im Kloster in der Leopoldstadt: HZAB 255, S.26; EMT zahlt 30 Requiem für ihn",
     "color": "",
     "lebensdaten": "",
     "ndb": "",
     "year_of_birth": null,
-    "year_of_death": null,
+    "year_of_death": "1695",
     "wikidata_url": "",
     "wikidata_enriched": false,
     "img_name": "",
@@ -6424,7 +6424,7 @@
     "img_source": "",
     "birth_date_written": "",
     "death_date_written": "",
-    "geschlecht": null,
+    "geschlecht": "m.",
     "funktionsbezeichnungen": null,
     "unidentifiziert": true,
     "titel": [
@@ -6434,25 +6434,25 @@
         "color": "yellow"
       }
     ],
-    "geistlich": null,
+    "geistlich": "geistlich",
     "Hofstaat": null,
-    "Konfession": null
+    "Konfession": "katholisch"
   },
   "210": {
     "id": 210,
     "order": "210.00000000000000000000",
     "name": "Spinola de los Balbases, Paolo",
-    "gnd": "",
+    "gnd": "https://d-nb.info/gnd/117491594",
     "other_url": "https://www.wikidata.org/wiki/Q3894495",
     "emt_id": "emt_person_id__210",
     "internal_comment": "Bittner/Groß 517",
     "color": "",
     "lebensdaten": "",
-    "ndb": "",
+    "ndb": "https://www.deutsche-biographie.de/pnd117491594.html#indexcontent",
     "year_of_birth": "1628",
     "year_of_death": "1699",
-    "wikidata_url": "https://www.wikidata.org/wiki/Q3894495",
-    "wikidata_enriched": false,
+    "wikidata_url": "http://www.wikidata.org/entity/Q3894495",
+    "wikidata_enriched": true,
     "img_name": "Cornelis meyssens-pablo spinola.historia di leopoldo cesare.jpg",
     "img_fetched": true,
     "img_source": "commonsMedia",
@@ -6628,13 +6628,13 @@
     "img_source": "",
     "birth_date_written": "",
     "death_date_written": "",
-    "geschlecht": null,
+    "geschlecht": "m.",
     "funktionsbezeichnungen": null,
     "unidentifiziert": true,
     "titel": [],
-    "geistlich": null,
+    "geistlich": "geistlich",
     "Hofstaat": null,
-    "Konfession": null
+    "Konfession": "katholisch"
   },
   "217": {
     "id": 217,
@@ -6684,7 +6684,7 @@
     "img_source": "commonsMedia",
     "birth_date_written": "",
     "death_date_written": "",
-    "geschlecht": null,
+    "geschlecht": "m.",
     "funktionsbezeichnungen": "Papst",
     "unidentifiziert": false,
     "titel": [
@@ -6694,9 +6694,9 @@
         "color": "darker-yellow"
       }
     ],
-    "geistlich": null,
+    "geistlich": "geistlich",
     "Hofstaat": null,
-    "Konfession": null
+    "Konfession": "katholisch"
   },
   "220": {
     "id": 220,
@@ -6718,11 +6718,11 @@
     "img_source": "",
     "birth_date_written": "",
     "death_date_written": "",
-    "geschlecht": null,
+    "geschlecht": "f.",
     "funktionsbezeichnungen": null,
     "unidentifiziert": true,
     "titel": [],
-    "geistlich": null,
+    "geistlich": "geistlich",
     "Hofstaat": null,
     "Konfession": null
   },
@@ -6842,13 +6842,13 @@
     "img_source": "",
     "birth_date_written": "",
     "death_date_written": "",
-    "geschlecht": null,
+    "geschlecht": "f.",
     "funktionsbezeichnungen": "Oberin",
     "unidentifiziert": false,
     "titel": [],
-    "geistlich": null,
+    "geistlich": "geistlich",
     "Hofstaat": null,
-    "Konfession": null
+    "Konfession": "katholisch"
   },
   "225": {
     "id": 225,
@@ -6926,13 +6926,13 @@
     "img_source": "commonsMedia",
     "birth_date_written": "",
     "death_date_written": "",
-    "geschlecht": null,
+    "geschlecht": "m.",
     "funktionsbezeichnungen": "Großmeister des Johanniterordens",
     "unidentifiziert": false,
     "titel": [],
-    "geistlich": null,
+    "geistlich": "geistlich",
     "Hofstaat": null,
-    "Konfession": null
+    "Konfession": "katholisch"
   },
   "228": {
     "id": 228,
@@ -7074,7 +7074,7 @@
     "id": 233,
     "order": "233.00000000000000000000",
     "name": "Jörger von Tollet, Johann Peter",
-    "gnd": "",
+    "gnd": "https://d-nb.info/gnd/136292895",
     "other_url": "",
     "emt_id": "emt_person_id__233",
     "internal_comment": "",
@@ -7083,10 +7083,10 @@
     "ndb": "https://www.deutsche-biographie.de/sfz35263.html",
     "year_of_birth": "1656",
     "year_of_death": "1680",
-    "wikidata_url": "",
-    "wikidata_enriched": false,
+    "wikidata_url": "http://www.wikidata.org/entity/Q94841137",
+    "wikidata_enriched": true,
     "img_name": "",
-    "img_fetched": false,
+    "img_fetched": true,
     "img_source": "",
     "birth_date_written": "",
     "death_date_written": "",
@@ -7316,7 +7316,7 @@
     "img_source": "",
     "birth_date_written": "",
     "death_date_written": "",
-    "geschlecht": null,
+    "geschlecht": "m.",
     "funktionsbezeichnungen": null,
     "unidentifiziert": true,
     "titel": [
@@ -7326,9 +7326,9 @@
         "color": "yellow"
       }
     ],
-    "geistlich": null,
+    "geistlich": "geistlich",
     "Hofstaat": null,
-    "Konfession": null
+    "Konfession": "katholisch"
   },
   "242": {
     "id": 242,
@@ -7513,13 +7513,13 @@
     "img_source": "",
     "birth_date_written": "",
     "death_date_written": "",
-    "geschlecht": null,
+    "geschlecht": "m.",
     "funktionsbezeichnungen": null,
     "unidentifiziert": true,
     "titel": [],
-    "geistlich": null,
+    "geistlich": "geistlich",
     "Hofstaat": null,
-    "Konfession": null
+    "Konfession": "katholisch"
   },
   "248": {
     "id": 248,
@@ -7648,7 +7648,7 @@
     "img_source": "",
     "birth_date_written": "",
     "death_date_written": "",
-    "geschlecht": null,
+    "geschlecht": "m.",
     "funktionsbezeichnungen": "Beichtvater EMT 1680-1684",
     "unidentifiziert": false,
     "titel": [
@@ -7658,9 +7658,9 @@
         "color": "yellow"
       }
     ],
-    "geistlich": null,
+    "geistlich": "geistlich",
     "Hofstaat": null,
-    "Konfession": null
+    "Konfession": "katholisch"
   },
   "252": {
     "id": 252,
@@ -7716,7 +7716,7 @@
     "img_source": "commonsMedia",
     "birth_date_written": "",
     "death_date_written": "",
-    "geschlecht": null,
+    "geschlecht": "m.",
     "funktionsbezeichnungen": null,
     "unidentifiziert": false,
     "titel": [
@@ -7726,9 +7726,9 @@
         "color": "yellow"
       }
     ],
-    "geistlich": null,
+    "geistlich": "geistlich",
     "Hofstaat": null,
-    "Konfession": null
+    "Konfession": "katholisch"
   },
   "254": {
     "id": 254,
@@ -7750,13 +7750,13 @@
     "img_source": "",
     "birth_date_written": "",
     "death_date_written": "",
-    "geschlecht": null,
+    "geschlecht": "m.",
     "funktionsbezeichnungen": "Bischof von Augsburg",
     "unidentifiziert": false,
     "titel": [],
-    "geistlich": null,
+    "geistlich": "geistlich",
     "Hofstaat": null,
-    "Konfession": null
+    "Konfession": "katholisch"
   },
   "255": {
     "id": 255,
@@ -7858,7 +7858,7 @@
     "internal_comment": "",
     "color": "",
     "lebensdaten": "",
-    "ndb": "",
+    "ndb": "https://www.deutsche-biographie.de/pnd12031942X.html#indexcontent",
     "year_of_birth": "1635",
     "year_of_death": "1689",
     "wikidata_url": "http://www.wikidata.org/entity/Q554961",
@@ -8329,7 +8329,7 @@
     "img_source": "",
     "birth_date_written": "",
     "death_date_written": "",
-    "geschlecht": null,
+    "geschlecht": "m.",
     "funktionsbezeichnungen": null,
     "unidentifiziert": true,
     "titel": [
@@ -8339,9 +8339,9 @@
         "color": "yellow"
       }
     ],
-    "geistlich": null,
+    "geistlich": "geistlich",
     "Hofstaat": null,
-    "Konfession": null
+    "Konfession": "katholisch"
   },
   "277": {
     "id": 277,
@@ -8363,7 +8363,7 @@
     "img_source": "",
     "birth_date_written": "",
     "death_date_written": "",
-    "geschlecht": null,
+    "geschlecht": "m.",
     "funktionsbezeichnungen": null,
     "unidentifiziert": true,
     "titel": [
@@ -8373,9 +8373,9 @@
         "color": "yellow"
       }
     ],
-    "geistlich": null,
+    "geistlich": "geistlich",
     "Hofstaat": null,
-    "Konfession": null
+    "Konfession": "katholisch"
   },
   "278": {
     "id": 278,
@@ -8465,31 +8465,31 @@
     "img_source": "",
     "birth_date_written": "",
     "death_date_written": "",
-    "geschlecht": null,
+    "geschlecht": "m.",
     "funktionsbezeichnungen": null,
     "unidentifiziert": true,
     "titel": [],
-    "geistlich": null,
+    "geistlich": "geistlich?",
     "Hofstaat": null,
-    "Konfession": null
+    "Konfession": "katholisch"
   },
   "282": {
     "id": 282,
     "order": "282.00000000000000000000",
     "name": "Stadl, Ferdinand von",
-    "gnd": "",
+    "gnd": "https://d-nb.info/gnd/121822732X",
     "other_url": "https://de.wikipedia.org/wiki/Stadl_(Adelsgeschlecht)#Familienmitglieder",
     "emt_id": "emt_person_id__282",
     "internal_comment": "für ihn übersendet PW ein Kanzleischreiben zur Abwehr irgendwelcher Verluste von Chargen, was EMT unterstützen soll",
     "color": "",
     "lebensdaten": "",
-    "ndb": "",
+    "ndb": "https://www.deutsche-biographie.de/pnd121822732X.html#indexcontent",
     "year_of_birth": "1643",
     "year_of_death": "1694",
-    "wikidata_url": "",
-    "wikidata_enriched": false,
+    "wikidata_url": "http://www.wikidata.org/entity/Q139209785",
+    "wikidata_enriched": true,
     "img_name": "",
-    "img_fetched": false,
+    "img_fetched": true,
     "img_source": "",
     "birth_date_written": "",
     "death_date_written": "",
@@ -8713,7 +8713,7 @@
     "img_source": "commonsMedia",
     "birth_date_written": "",
     "death_date_written": "",
-    "geschlecht": null,
+    "geschlecht": "m.",
     "funktionsbezeichnungen": "Kardinal",
     "unidentifiziert": false,
     "titel": [
@@ -8723,9 +8723,9 @@
         "color": "darker-purple"
       }
     ],
-    "geistlich": null,
+    "geistlich": "geistlich",
     "Hofstaat": null,
-    "Konfession": null
+    "Konfession": "katholisch"
   },
   "292": {
     "id": 292,
@@ -8887,13 +8887,13 @@
     "img_source": "",
     "birth_date_written": "",
     "death_date_written": "",
-    "geschlecht": null,
+    "geschlecht": "m.",
     "funktionsbezeichnungen": "Probst des Zipser Kapitels",
     "unidentifiziert": false,
     "titel": [],
-    "geistlich": null,
+    "geistlich": "geistlich",
     "Hofstaat": null,
-    "Konfession": null
+    "Konfession": "katholisch"
   },
   "299": {
     "id": 299,
@@ -8977,7 +8977,7 @@
     "img_source": "",
     "birth_date_written": "",
     "death_date_written": "",
-    "geschlecht": null,
+    "geschlecht": "m.",
     "funktionsbezeichnungen": "Erzbischof und Kurfürst von Mainz",
     "unidentifiziert": false,
     "titel": [
@@ -8987,9 +8987,9 @@
         "color": "light-pink"
       }
     ],
-    "geistlich": null,
+    "geistlich": "geistlich",
     "Hofstaat": null,
-    "Konfession": null
+    "Konfession": "katholisch"
   },
   "302": {
     "id": 302,
@@ -9221,19 +9221,19 @@
     "id": 309,
     "order": "309.00000000000000000000",
     "name": "Ansalone, Ferdinand Maria",
-    "gnd": "",
+    "gnd": "https://d-nb.info/gnd/1033819220",
     "other_url": "https://www.musiklexikon.ac.at/ml/musik_A/Ansoloni_Familie.xml",
     "emt_id": "emt_person_id__309",
     "internal_comment": "Sänger",
     "color": "",
     "lebensdaten": "",
-    "ndb": "",
+    "ndb": "https://www.deutsche-biographie.de/pnd1033819220.html#indexcontent",
     "year_of_birth": "1658",
     "year_of_death": "1709",
-    "wikidata_url": "",
-    "wikidata_enriched": false,
+    "wikidata_url": "http://www.wikidata.org/entity/Q99730900",
+    "wikidata_enriched": true,
     "img_name": "",
-    "img_fetched": false,
+    "img_fetched": true,
     "img_source": "",
     "birth_date_written": "1658 oder 1659",
     "death_date_written": "",
@@ -9423,7 +9423,7 @@
     "img_source": "",
     "birth_date_written": "",
     "death_date_written": "",
-    "geschlecht": "",
+    "geschlecht": "m.",
     "funktionsbezeichnungen": "General der Karmeliten",
     "unidentifiziert": false,
     "titel": [
@@ -9433,9 +9433,9 @@
         "color": "yellow"
       }
     ],
-    "geistlich": null,
+    "geistlich": "geistlich",
     "Hofstaat": null,
-    "Konfession": null
+    "Konfession": "katholisch"
   },
   "316": {
     "id": 316,
@@ -9575,7 +9575,7 @@
     "img_source": "commonsMedia",
     "birth_date_written": "",
     "death_date_written": "",
-    "geschlecht": "",
+    "geschlecht": "m.",
     "funktionsbezeichnungen": "Bischof von Olmütz",
     "unidentifiziert": false,
     "titel": [
@@ -9585,9 +9585,9 @@
         "color": "purple"
       }
     ],
-    "geistlich": null,
+    "geistlich": "geistlich",
     "Hofstaat": null,
-    "Konfession": null
+    "Konfession": "katholisch"
   },
   "323": {
     "id": 323,
@@ -9627,7 +9627,7 @@
     "id": 324,
     "order": "324.00000000000000000000",
     "name": "Preysing, Johann Maximilian Felix von",
-    "gnd": "",
+    "gnd": "https://d-nb.info/gnd/1342763513",
     "other_url": "https://www.historisches-lexikon-bayerns.de/Lexikon/Preysing,_Adelsfamilie#Johann_Max_IV._von_Preysing_(1689-1764)",
     "emt_id": "emt_person_id__324",
     "internal_comment": "ist 1682 in Wien und gibt einen Besuch bei Erzherzog Joseph vor, um \"sie\" zu sehen - evtl. Maria Antonia? wenn das der Fall ist, dann muss ihr Name in 45_9_0033 noch als Identifizierung ergänzt werden",
@@ -9903,7 +9903,7 @@
     "img_source": "",
     "birth_date_written": "",
     "death_date_written": "",
-    "geschlecht": "",
+    "geschlecht": "m.",
     "funktionsbezeichnungen": null,
     "unidentifiziert": true,
     "titel": [
@@ -9913,9 +9913,9 @@
         "color": "dark-blue"
       }
     ],
-    "geistlich": null,
+    "geistlich": "geistlich",
     "Hofstaat": null,
-    "Konfession": null
+    "Konfession": "katholisch"
   },
   "333": {
     "id": 333,
@@ -10057,7 +10057,7 @@
     "id": 337,
     "order": "337.00000000000000000000",
     "name": "Langstöger, Simon Peter",
-    "gnd": "",
+    "gnd": "https://d-nb.info/gnd/1049921569",
     "other_url": "http://www.kultur-klosterneuburg.at/Bereiche/Dokumentation/ONLINE/BEDEUTENDE_KLBGer/LANGSTOEGER/Index.html",
     "emt_id": "emt_person_id__337",
     "internal_comment": "",
@@ -10389,7 +10389,7 @@
     "img_source": "commonsMedia",
     "birth_date_written": "",
     "death_date_written": "",
-    "geschlecht": "",
+    "geschlecht": "m.",
     "funktionsbezeichnungen": "Domdechant zu Breslau",
     "unidentifiziert": false,
     "titel": [
@@ -10399,9 +10399,9 @@
         "color": "darker-blue"
       }
     ],
-    "geistlich": null,
+    "geistlich": "geistlich",
     "Hofstaat": null,
-    "Konfession": null
+    "Konfession": "katholisch"
   },
   "351": {
     "id": 351,
@@ -10423,7 +10423,7 @@
     "img_source": "",
     "birth_date_written": "",
     "death_date_written": "",
-    "geschlecht": "",
+    "geschlecht": "m.",
     "funktionsbezeichnungen": "Domherr zu Breslau",
     "unidentifiziert": false,
     "titel": [
@@ -10433,9 +10433,9 @@
         "color": "darker-blue"
       }
     ],
-    "geistlich": null,
+    "geistlich": "geistlich",
     "Hofstaat": null,
-    "Konfession": null
+    "Konfession": "katholisch"
   },
   "352": {
     "id": 352,
@@ -10469,7 +10469,7 @@
     ],
     "geistlich": null,
     "Hofstaat": null,
-    "Konfession": null
+    "Konfession": ""
   },
   "354": {
     "id": 354,
@@ -10491,7 +10491,7 @@
     "img_source": "",
     "birth_date_written": "",
     "death_date_written": "",
-    "geschlecht": "",
+    "geschlecht": "m.",
     "funktionsbezeichnungen": "Erzbischof von Prag",
     "unidentifiziert": false,
     "titel": [
@@ -10501,9 +10501,9 @@
         "color": "purple"
       }
     ],
-    "geistlich": null,
+    "geistlich": "geistlich",
     "Hofstaat": null,
-    "Konfession": null
+    "Konfession": "katholisch"
   },
   "355": {
     "id": 355,
@@ -10525,8 +10525,8 @@
     "img_source": "",
     "birth_date_written": "",
     "death_date_written": "",
-    "geschlecht": "",
-    "funktionsbezeichnungen": null,
+    "geschlecht": "m.",
+    "funktionsbezeichnungen": "Malteserritter",
     "unidentifiziert": false,
     "titel": [
       {
@@ -10535,9 +10535,9 @@
         "color": "purple"
       }
     ],
-    "geistlich": null,
+    "geistlich": "geistlich",
     "Hofstaat": null,
-    "Konfession": null
+    "Konfession": "katholisch"
   },
   "356": {
     "id": 356,
@@ -10559,7 +10559,7 @@
     "img_source": "",
     "birth_date_written": "",
     "death_date_written": "",
-    "geschlecht": "",
+    "geschlecht": "m.",
     "funktionsbezeichnungen": "1683-1704 Großprior des deutschen Johanniterordens und in dieser Eigenschaft Reichsfürst von Heitersheim",
     "unidentifiziert": false,
     "titel": [
@@ -10569,9 +10569,9 @@
         "color": "green"
       }
     ],
-    "geistlich": null,
+    "geistlich": "geistlich",
     "Hofstaat": null,
-    "Konfession": null
+    "Konfession": "katholisch"
   },
   "357": {
     "id": 357,
@@ -10773,41 +10773,41 @@
     "img_source": "",
     "birth_date_written": "",
     "death_date_written": "",
-    "geschlecht": "",
+    "geschlecht": "m.",
     "funktionsbezeichnungen": null,
     "unidentifiziert": true,
     "titel": [],
-    "geistlich": null,
+    "geistlich": "geistlich",
     "Hofstaat": null,
-    "Konfession": null
+    "Konfession": "katholisch"
   },
   "364": {
     "id": 364,
     "order": "364.00000000000000000000",
     "name": "Durazzo, Marcello",
-    "gnd": "",
+    "gnd": "https://d-nb.info/gnd/1188494112",
     "other_url": "https://cardinals.fiu.edu/bios1686.htm#Durazzo",
     "emt_id": "emt_person_id__364",
     "internal_comment": "",
     "color": "",
     "lebensdaten": "",
-    "ndb": "",
+    "ndb": "https://www.deutsche-biographie.de/pnd1188494112.html#indexcontent",
     "year_of_birth": "1633",
     "year_of_death": "1710",
-    "wikidata_url": "https://www.wikidata.org/wiki/Q3289631",
-    "wikidata_enriched": false,
+    "wikidata_url": "http://www.wikidata.org/entity/Q94891285",
+    "wikidata_enriched": true,
     "img_name": "Giovanni Maria Morandi portrait du cardinal Marcello Durazzo, 1686 Musée Calvet.jpg",
     "img_fetched": true,
     "img_source": "commonsMedia",
     "birth_date_written": "",
     "death_date_written": "",
-    "geschlecht": "",
+    "geschlecht": "m.",
     "funktionsbezeichnungen": "Kardinal, Nuntius in Portugal",
     "unidentifiziert": false,
     "titel": [],
-    "geistlich": null,
+    "geistlich": "geistlich",
     "Hofstaat": null,
-    "Konfession": null
+    "Konfession": "katholisch"
   },
   "365": {
     "id": 365,
@@ -11241,7 +11241,7 @@
     "img_source": "commonsMedia",
     "birth_date_written": "",
     "death_date_written": "",
-    "geschlecht": "",
+    "geschlecht": "m.",
     "funktionsbezeichnungen": "Domprobst von Bamberg und Würzburg",
     "unidentifiziert": false,
     "titel": [
@@ -11251,9 +11251,9 @@
         "color": "purple"
       }
     ],
-    "geistlich": null,
+    "geistlich": "geistlich",
     "Hofstaat": null,
-    "Konfession": null
+    "Konfession": "katholisch"
   },
   "379": {
     "id": 379,
@@ -11309,13 +11309,13 @@
     "img_source": "",
     "birth_date_written": "",
     "death_date_written": "",
-    "geschlecht": "",
+    "geschlecht": "m.",
     "funktionsbezeichnungen": "Kanoniker in Breslau",
     "unidentifiziert": true,
     "titel": [],
-    "geistlich": null,
+    "geistlich": "geistlich",
     "Hofstaat": null,
-    "Konfession": null
+    "Konfession": "katholisch"
   },
   "381": {
     "id": 381,
@@ -11901,13 +11901,13 @@
     "img_source": "",
     "birth_date_written": "",
     "death_date_written": "",
-    "geschlecht": "",
+    "geschlecht": "m.",
     "funktionsbezeichnungen": "Weihbischof, Generalvikar und Offizial im Bistum Breslau",
     "unidentifiziert": false,
     "titel": [],
-    "geistlich": null,
+    "geistlich": "geistlich",
     "Hofstaat": null,
-    "Konfession": null
+    "Konfession": "katholisch"
   },
   "401": {
     "id": 401,
@@ -11919,7 +11919,7 @@
     "internal_comment": "",
     "color": "",
     "lebensdaten": "",
-    "ndb": "",
+    "ndb": "https://www.deutsche-biographie.de/pnd118560042.html#indexcontent",
     "year_of_birth": "1630",
     "year_of_death": "1685",
     "wikidata_url": "http://www.wikidata.org/entity/Q122553",
@@ -11963,13 +11963,13 @@
     "img_source": "",
     "birth_date_written": "",
     "death_date_written": "",
-    "geschlecht": "",
+    "geschlecht": "m.",
     "funktionsbezeichnungen": null,
     "unidentifiziert": true,
     "titel": [],
-    "geistlich": null,
-    "Hofstaat": null,
-    "Konfession": null
+    "geistlich": "geistlich",
+    "Hofstaat": "Spanien",
+    "Konfession": "katholisch"
   },
   "403": {
     "id": 403,
@@ -11981,7 +11981,7 @@
     "internal_comment": "",
     "color": "",
     "lebensdaten": "",
-    "ndb": "",
+    "ndb": "https://www.deutsche-biographie.de/pnd119559889.html#indexcontent",
     "year_of_birth": "1643",
     "year_of_death": "1683",
     "wikidata_url": "http://www.wikidata.org/entity/Q691168",
@@ -12115,13 +12115,13 @@
     "img_source": "",
     "birth_date_written": "",
     "death_date_written": "",
-    "geschlecht": "",
+    "geschlecht": "m.",
     "funktionsbezeichnungen": null,
     "unidentifiziert": true,
     "titel": [],
-    "geistlich": null,
+    "geistlich": "geistlich",
     "Hofstaat": null,
-    "Konfession": null
+    "Konfession": "katholisch"
   },
   "408": {
     "id": 408,
@@ -12201,7 +12201,7 @@
     "internal_comment": "ist offenbar auch der \"Graf Sigmund\" - hab da jetzt das cert low rausgenommen, weil in EMT04.08.1705 Graf Sigmundt als Obersthofmeister der \"Königin\" (von Polen, =Frau des Hzgs von Lothringen, Schwester Leopolds I.) bezeichnet wird, und das ist der Dietrichstein, vgl. books.google.de/books?id=tD0TAAAAYAAJ&pg=PA227&hl=de#v=onepage&q&f=true",
     "color": "",
     "lebensdaten": "",
-    "ndb": "",
+    "ndb": "https://www.deutsche-biographie.de/pnd115531106X.html#indexcontent",
     "year_of_birth": "1635",
     "year_of_death": "1698",
     "wikidata_url": "http://www.wikidata.org/entity/Q2284971",
@@ -12285,19 +12285,19 @@
     "id": 413,
     "order": "413.00000000000000000000",
     "name": "Breuner, Franz Albrecht",
-    "gnd": "",
+    "gnd": "https://d-nb.info/gnd/1055609687",
     "other_url": "",
     "emt_id": "emt_person_id__413",
     "internal_comment": "ist 1683 als Obersthofmeister EMT im Gespräch, aber schwach im Geiste\nIdentifizierung wahrscheinlich, nach Lanjus, Breuner, Tafel XI, war Obersthofmeister von Erzherzogin Maria Antonia",
     "color": "",
     "lebensdaten": "",
-    "ndb": "",
+    "ndb": "https://www.deutsche-biographie.de/pnd1055609687.html#indexcontent",
     "year_of_birth": "1628",
     "year_of_death": "1684",
-    "wikidata_url": "",
-    "wikidata_enriched": false,
+    "wikidata_url": "http://www.wikidata.org/entity/Q136636218",
+    "wikidata_enriched": true,
     "img_name": "",
-    "img_fetched": false,
+    "img_fetched": true,
     "img_source": "",
     "birth_date_written": "",
     "death_date_written": "",
@@ -12325,7 +12325,7 @@
     "internal_comment": "",
     "color": "",
     "lebensdaten": "",
-    "ndb": "",
+    "ndb": "https://www.deutsche-biographie.de/pnd105614789X.html#indexcontent",
     "year_of_birth": "1635",
     "year_of_death": "1702",
     "wikidata_url": "http://www.wikidata.org/entity/Q55228853",
@@ -12669,7 +12669,7 @@
     "internal_comment": "",
     "color": "",
     "lebensdaten": "",
-    "ndb": "",
+    "ndb": "https://www.deutsche-biographie.de/pnd119386445.html#indexcontent",
     "year_of_birth": "1660",
     "year_of_death": "1694",
     "wikidata_url": "http://www.wikidata.org/entity/Q715243",
@@ -12769,7 +12769,7 @@
     "img_source": "commonsMedia",
     "birth_date_written": "",
     "death_date_written": "",
-    "geschlecht": "",
+    "geschlecht": "m.",
     "funktionsbezeichnungen": "Präzeptor Josephs I.",
     "unidentifiziert": false,
     "titel": [
@@ -12779,9 +12779,9 @@
         "color": "yellow"
       }
     ],
-    "geistlich": null,
+    "geistlich": "geistlich",
     "Hofstaat": null,
-    "Konfession": null
+    "Konfession": "katholisch"
   },
   "430": {
     "id": 430,
@@ -12865,7 +12865,7 @@
     "img_source": "",
     "birth_date_written": "",
     "death_date_written": "",
-    "geschlecht": "",
+    "geschlecht": "m.",
     "funktionsbezeichnungen": "",
     "unidentifiziert": false,
     "titel": [
@@ -12875,9 +12875,9 @@
         "color": "yellow"
       }
     ],
-    "geistlich": null,
+    "geistlich": "geistlich",
     "Hofstaat": null,
-    "Konfession": null
+    "Konfession": "katholisch"
   },
   "434": {
     "id": 434,
@@ -12927,7 +12927,7 @@
     "img_source": "",
     "birth_date_written": "",
     "death_date_written": "",
-    "geschlecht": "",
+    "geschlecht": "f.",
     "funktionsbezeichnungen": "",
     "unidentifiziert": false,
     "titel": [
@@ -12937,37 +12937,37 @@
         "color": "dark-red"
       }
     ],
-    "geistlich": null,
+    "geistlich": "geistlich",
     "Hofstaat": null,
-    "Konfession": null
+    "Konfession": "katholisch"
   },
   "436": {
     "id": 436,
     "order": "435.00000000000000000000",
     "name": "Fuhrmann, David",
-    "gnd": "",
+    "gnd": "https://d-nb.info/gnd/133554848",
     "other_url": "https://hdbg.eu/kloster/index.php/chorherren/detail?id=29",
     "emt_id": "emt_person_id__436",
     "internal_comment": "",
     "color": "",
     "lebensdaten": "",
-    "ndb": "",
+    "ndb": "https://www.deutsche-biographie.de/pnd133554848.html#indexcontent",
     "year_of_birth": "1621",
     "year_of_death": "1689",
-    "wikidata_url": "",
-    "wikidata_enriched": false,
+    "wikidata_url": "http://www.wikidata.org/entity/Q94933105",
+    "wikidata_enriched": true,
     "img_name": "",
-    "img_fetched": false,
+    "img_fetched": true,
     "img_source": "",
     "birth_date_written": "",
     "death_date_written": "",
-    "geschlecht": "",
+    "geschlecht": "m.",
     "funktionsbezeichnungen": "Propst von Sankt Florian 1667-1689",
     "unidentifiziert": false,
     "titel": [],
-    "geistlich": null,
+    "geistlich": "geistlich",
     "Hofstaat": null,
-    "Konfession": null
+    "Konfession": "katholisch"
   },
   "437": {
     "id": 437,
@@ -13017,13 +13017,13 @@
     "img_source": "",
     "birth_date_written": "",
     "death_date_written": "vor Mitte 1684",
-    "geschlecht": "",
+    "geschlecht": "m.",
     "funktionsbezeichnungen": "",
     "unidentifiziert": true,
     "titel": [],
-    "geistlich": null,
+    "geistlich": "geistlich",
     "Hofstaat": null,
-    "Konfession": null
+    "Konfession": "katholisch"
   },
   "440": {
     "id": 440,
@@ -13046,7 +13046,7 @@
     "birth_date_written": "",
     "death_date_written": "",
     "geschlecht": "",
-    "funktionsbezeichnungen": "Oberstkanzer in Böhmen 1683-1699",
+    "funktionsbezeichnungen": "Oberstkanzler in Böhmen 1683-1699",
     "unidentifiziert": false,
     "titel": [
       {
@@ -13355,13 +13355,13 @@
     "img_source": "",
     "birth_date_written": "",
     "death_date_written": "",
-    "geschlecht": "",
+    "geschlecht": "m.",
     "funktionsbezeichnungen": "",
     "unidentifiziert": true,
     "titel": [],
-    "geistlich": null,
+    "geistlich": "geistlich",
     "Hofstaat": null,
-    "Konfession": null
+    "Konfession": "katholisch"
   },
   "452": {
     "id": 452,
@@ -13394,30 +13394,30 @@
   "453": {
     "id": 453,
     "order": "452.00000000000000000000",
-    "name": "Rektor des Jesuitenkollegs Graz bis 1684",
-    "gnd": "",
+    "name": "Balthasar Miller",
+    "gnd": "https://d-nb.info/gnd/138385211",
     "other_url": "",
     "emt_id": "emt_person_id__453",
     "internal_comment": "soll neuer Beichtvater von EMT werden August 1684",
     "color": "",
     "lebensdaten": "",
-    "ndb": "",
-    "year_of_birth": null,
-    "year_of_death": null,
-    "wikidata_url": "",
-    "wikidata_enriched": false,
+    "ndb": "https://www.deutsche-biographie.de/sfz63383.html#indexcontent",
+    "year_of_birth": "1635",
+    "year_of_death": "1718",
+    "wikidata_url": "http://www.wikidata.org/entity/Q55856674",
+    "wikidata_enriched": true,
     "img_name": "",
-    "img_fetched": false,
+    "img_fetched": true,
     "img_source": "",
     "birth_date_written": "",
     "death_date_written": "",
-    "geschlecht": "",
-    "funktionsbezeichnungen": "",
-    "unidentifiziert": true,
+    "geschlecht": "m.",
+    "funktionsbezeichnungen": "Rektor des Jesuitenkollegs Graz bis 1684, kaiserlicher Beichtvater",
+    "unidentifiziert": false,
     "titel": [],
-    "geistlich": null,
-    "Hofstaat": null,
-    "Konfession": null
+    "geistlich": "geistlich",
+    "Hofstaat": "Kaiserhof",
+    "Konfession": "katholisch"
   },
   "454": {
     "id": 454,
@@ -13513,19 +13513,19 @@
     "id": 458,
     "order": "456.00000000000000000000",
     "name": "Khevenhüller, Franz Christoph d. J.",
-    "gnd": "",
+    "gnd": "https://d-nb.info/gnd/138682135",
     "other_url": "https://genealogy.euweb.cz/austria/kheven2.html",
     "emt_id": "emt_person_id__458",
     "internal_comment": "Europäische Stammtafeln 28",
     "color": "",
     "lebensdaten": "",
-    "ndb": "",
+    "ndb": "https://www.deutsche-biographie.de/sfz68570.html#indexcontent",
     "year_of_birth": "1634",
     "year_of_death": "1684",
-    "wikidata_url": "",
-    "wikidata_enriched": false,
+    "wikidata_url": "http://www.wikidata.org/entity/Q55853383",
+    "wikidata_enriched": true,
     "img_name": "",
-    "img_fetched": false,
+    "img_fetched": true,
     "img_source": "",
     "birth_date_written": "",
     "death_date_written": "",
@@ -14526,13 +14526,13 @@
     "img_source": "commonsMedia",
     "birth_date_written": "",
     "death_date_written": "",
-    "geschlecht": "",
+    "geschlecht": "m.",
     "funktionsbezeichnungen": "Bischof von Posen (Poznań)",
     "unidentifiziert": false,
     "titel": [],
-    "geistlich": null,
+    "geistlich": "geistlich",
     "Hofstaat": null,
-    "Konfession": null
+    "Konfession": "katholisch"
   },
   "497": {
     "id": 497,
@@ -14554,7 +14554,7 @@
     "img_source": "commonsMedia",
     "birth_date_written": "",
     "death_date_written": "",
-    "geschlecht": "",
+    "geschlecht": "m.",
     "funktionsbezeichnungen": "Papst",
     "unidentifiziert": false,
     "titel": [
@@ -14564,9 +14564,9 @@
         "color": "darker-yellow"
       }
     ],
-    "geistlich": null,
+    "geistlich": "geistlich",
     "Hofstaat": null,
-    "Konfession": null
+    "Konfession": "katholisch"
   },
   "498": {
     "id": 498,
@@ -14797,7 +14797,7 @@
     "internal_comment": "Stuart",
     "color": "",
     "lebensdaten": "",
-    "ndb": "",
+    "ndb": "https://www.deutsche-biographie.de/pnd118711539.html#indexcontent",
     "year_of_birth": "1633",
     "year_of_death": "1701",
     "wikidata_url": "http://www.wikidata.org/entity/Q126188",
@@ -14931,13 +14931,13 @@
     "img_source": "",
     "birth_date_written": "",
     "death_date_written": "",
-    "geschlecht": "",
+    "geschlecht": "m.",
     "funktionsbezeichnungen": "",
     "unidentifiziert": false,
     "titel": [],
-    "geistlich": null,
+    "geistlich": "geistlich",
     "Hofstaat": null,
-    "Konfession": null
+    "Konfession": "katholisch"
   },
   "513": {
     "id": 513,
@@ -15005,7 +15005,7 @@
     "internal_comment": "",
     "color": "",
     "lebensdaten": "",
-    "ndb": "",
+    "ndb": "https://www.deutsche-biographie.de/pnd137411618.html#indexcontent",
     "year_of_birth": "1629",
     "year_of_death": "1685",
     "wikidata_url": "http://www.wikidata.org/entity/Q270520",
@@ -15174,7 +15174,7 @@
     "internal_comment": "",
     "color": "",
     "lebensdaten": "",
-    "ndb": "",
+    "ndb": "https://www.deutsche-biographie.de/pnd119206080.html#indexcontent",
     "year_of_birth": "1658",
     "year_of_death": "1718",
     "wikidata_url": "http://www.wikidata.org/entity/Q232475",
@@ -15314,13 +15314,13 @@
     "img_source": "",
     "birth_date_written": "",
     "death_date_written": "",
-    "geschlecht": "",
+    "geschlecht": "m.",
     "funktionsbezeichnungen": "",
     "unidentifiziert": true,
     "titel": [],
-    "geistlich": null,
+    "geistlich": "geistlich",
     "Hofstaat": null,
-    "Konfession": null
+    "Konfession": "katholisch"
   },
   "525": {
     "id": 525,
@@ -15764,7 +15764,7 @@
     "img_source": "",
     "birth_date_written": "",
     "death_date_written": "",
-    "geschlecht": "",
+    "geschlecht": "m.",
     "funktionsbezeichnungen": "Abt, Gesandter",
     "unidentifiziert": false,
     "titel": [
@@ -15774,9 +15774,9 @@
         "color": "darker-orange"
       }
     ],
-    "geistlich": null,
+    "geistlich": "geistlich",
     "Hofstaat": null,
-    "Konfession": null
+    "Konfession": "katholisch"
   },
   "542": {
     "id": 542,
@@ -15816,7 +15816,7 @@
     "internal_comment": "Jesuit, Diplomat, wichtig für Universität Breslau     https://de.wikipedia.org/wiki/Friedrich_von_L%C3%BCdinghausen_Wolff . Duhr Bd. 3 S.216",
     "color": "",
     "lebensdaten": "",
-    "ndb": "",
+    "ndb": "https://www.deutsche-biographie.de/sfz54923.html#ndbcontent",
     "year_of_birth": "1643",
     "year_of_death": "1708",
     "wikidata_url": "http://www.wikidata.org/entity/Q1463876",
@@ -15826,7 +15826,7 @@
     "img_source": "",
     "birth_date_written": "",
     "death_date_written": "",
-    "geschlecht": "",
+    "geschlecht": "m.",
     "funktionsbezeichnungen": "Jesuit",
     "unidentifiziert": false,
     "titel": [
@@ -15836,9 +15836,9 @@
         "color": "yellow"
       }
     ],
-    "geistlich": null,
+    "geistlich": "geistlich",
     "Hofstaat": null,
-    "Konfession": null
+    "Konfession": "katholisch"
   },
   "545": {
     "id": 545,
@@ -15888,7 +15888,7 @@
     "img_source": "",
     "birth_date_written": "",
     "death_date_written": "",
-    "geschlecht": "",
+    "geschlecht": "m.",
     "funktionsbezeichnungen": "Beichtvater Philipp Wilhelms und Elisabeth Amalias von Pfalz-Neuburg",
     "unidentifiziert": false,
     "titel": [
@@ -15898,9 +15898,9 @@
         "color": "yellow"
       }
     ],
-    "geistlich": null,
+    "geistlich": "geistlich",
     "Hofstaat": null,
-    "Konfession": null
+    "Konfession": "katholisch"
   },
   "547": {
     "id": 547,
@@ -15950,13 +15950,13 @@
     "img_source": "",
     "birth_date_written": "",
     "death_date_written": "",
-    "geschlecht": "",
+    "geschlecht": "f.",
     "funktionsbezeichnungen": "Priorin der Karmelitinnen in Aachen",
     "unidentifiziert": false,
     "titel": [],
-    "geistlich": null,
+    "geistlich": "geistlich",
     "Hofstaat": null,
-    "Konfession": null
+    "Konfession": "katholisch"
   },
   "552": {
     "id": 552,
@@ -15978,13 +15978,13 @@
     "img_source": "",
     "birth_date_written": "",
     "death_date_written": "",
-    "geschlecht": "",
+    "geschlecht": "f.",
     "funktionsbezeichnungen": "Karmelitin in Aachen",
     "unidentifiziert": true,
     "titel": [],
-    "geistlich": null,
+    "geistlich": "geistlich",
     "Hofstaat": null,
-    "Konfession": null
+    "Konfession": "katholisch"
   },
   "553": {
     "id": 553,
@@ -16006,13 +16006,13 @@
     "img_source": "",
     "birth_date_written": "",
     "death_date_written": "",
-    "geschlecht": "",
+    "geschlecht": "f.",
     "funktionsbezeichnungen": "Karmelitin in Aachen",
     "unidentifiziert": true,
     "titel": [],
-    "geistlich": null,
+    "geistlich": "geistlich",
     "Hofstaat": null,
-    "Konfession": null
+    "Konfession": "katholisch"
   },
   "554": {
     "id": 554,
@@ -16038,9 +16038,9 @@
     "funktionsbezeichnungen": "Probst zu Sankt Servatius in Maastricht",
     "unidentifiziert": false,
     "titel": [],
-    "geistlich": null,
+    "geistlich": "geistlich",
     "Hofstaat": null,
-    "Konfession": null
+    "Konfession": "katholisch"
   },
   "556": {
     "id": 556,
@@ -16080,7 +16080,7 @@
     "internal_comment": "",
     "color": "",
     "lebensdaten": "",
-    "ndb": "",
+    "ndb": "https://www.deutsche-biographie.de/sfz54722.html#indexcontent",
     "year_of_birth": "1666",
     "year_of_death": "1687",
     "wikidata_url": "http://www.wikidata.org/entity/Q824990",
@@ -16180,7 +16180,7 @@
     "img_source": "",
     "birth_date_written": "",
     "death_date_written": "",
-    "geschlecht": "",
+    "geschlecht": "m.",
     "funktionsbezeichnungen": "",
     "unidentifiziert": true,
     "titel": [
@@ -16190,9 +16190,9 @@
         "color": "yellow"
       }
     ],
-    "geistlich": null,
+    "geistlich": "geistlich",
     "Hofstaat": null,
-    "Konfession": null
+    "Konfession": "katholisch"
   },
   "563": {
     "id": 563,
@@ -16360,13 +16360,13 @@
     "img_source": "",
     "birth_date_written": "",
     "death_date_written": "",
-    "geschlecht": "",
+    "geschlecht": "m.",
     "funktionsbezeichnungen": "Bischof von Münster",
     "unidentifiziert": false,
     "titel": [],
-    "geistlich": null,
+    "geistlich": "geistlich",
     "Hofstaat": null,
-    "Konfession": null
+    "Konfession": "katholisch"
   },
   "569": {
     "id": 569,
@@ -16709,7 +16709,7 @@
     "id": 580,
     "order": "575.00000000000000000000",
     "name": "Medici, Gian Gastone de'",
-    "gnd": "",
+    "gnd": "https://d-nb.info/gnd/119381842",
     "other_url": "",
     "emt_id": "emt_person_id__580",
     "internal_comment": "",
@@ -16718,11 +16718,11 @@
     "ndb": "https://www.deutsche-biographie.de/sfz57040.html#index",
     "year_of_birth": "1671",
     "year_of_death": "1737",
-    "wikidata_url": "",
-    "wikidata_enriched": false,
-    "img_name": "",
-    "img_fetched": false,
-    "img_source": "",
+    "wikidata_url": "http://www.wikidata.org/entity/Q256580",
+    "wikidata_enriched": true,
+    "img_name": "Richter, Franz Ferdinand - Official portrait of Gian Gastone de' Medici in grand ducal robes.jpg",
+    "img_fetched": true,
+    "img_source": "commonsMedia",
     "birth_date_written": "",
     "death_date_written": "",
     "geschlecht": "",
@@ -17171,7 +17171,7 @@
     "img_source": "",
     "birth_date_written": "",
     "death_date_written": "",
-    "geschlecht": "",
+    "geschlecht": "m.",
     "funktionsbezeichnungen": "Jesuit, Beichtvater Johann Wilhlems von Pfalz-Neuburg bis 1695",
     "unidentifiziert": false,
     "titel": [
@@ -17181,9 +17181,9 @@
         "color": "yellow"
       }
     ],
-    "geistlich": null,
+    "geistlich": "geistlich",
     "Hofstaat": null,
-    "Konfession": null
+    "Konfession": "katholisch"
   },
   "596": {
     "id": 596,
@@ -17205,13 +17205,13 @@
     "img_source": "",
     "birth_date_written": "",
     "death_date_written": "",
-    "geschlecht": "",
+    "geschlecht": "m.",
     "funktionsbezeichnungen": "",
     "unidentifiziert": true,
     "titel": [],
-    "geistlich": null,
+    "geistlich": "geistlich",
     "Hofstaat": null,
-    "Konfession": null
+    "Konfession": "katholisch"
   },
   "597": {
     "id": 597,
@@ -17560,7 +17560,7 @@
     "internal_comment": "",
     "color": "",
     "lebensdaten": "",
-    "ndb": "",
+    "ndb": "https://www.deutsche-biographie.de/sfz68841.html#indexcontent",
     "year_of_birth": "1620",
     "year_of_death": "1689",
     "wikidata_url": "",
@@ -17594,7 +17594,7 @@
     "internal_comment": "",
     "color": "",
     "lebensdaten": "",
-    "ndb": "",
+    "ndb": "https://www.deutsche-biographie.de/pnd129884219.html#indexcontent",
     "year_of_birth": "1652",
     "year_of_death": "1707",
     "wikidata_url": "http://www.wikidata.org/entity/Q71256",
@@ -17684,29 +17684,29 @@
     "id": 613,
     "order": "608.00000000000000000000",
     "name": "Quentel, Thomas von",
-    "gnd": "",
+    "gnd": "https://d-nb.info/gnd/136811795",
     "other_url": "https://de.wikipedia.org/wiki/Thomas_von_Quentel",
     "emt_id": "emt_person_id__613",
     "internal_comment": "Zu Quentel auch: Max Braubach, Das Kölner Domkapitel und die Wahl von 1688, in: Annalen des Historischen Vereins für Niederrhein 122 (1933).",
     "color": "",
     "lebensdaten": "",
-    "ndb": "",
+    "ndb": "https://www.deutsche-biographie.de/sfz60380.html#indexcontent",
     "year_of_birth": null,
     "year_of_death": "1690",
-    "wikidata_url": "",
-    "wikidata_enriched": false,
+    "wikidata_url": "http://www.wikidata.org/entity/Q94782015",
+    "wikidata_enriched": true,
     "img_name": "",
-    "img_fetched": false,
+    "img_fetched": true,
     "img_source": "",
     "birth_date_written": "um 1629",
     "death_date_written": "",
-    "geschlecht": "",
+    "geschlecht": "m.",
     "funktionsbezeichnungen": "Offizial zu Köln 1667-1690",
     "unidentifiziert": false,
     "titel": [],
-    "geistlich": null,
+    "geistlich": "geistlich",
     "Hofstaat": null,
-    "Konfession": null
+    "Konfession": "katholisch"
   },
   "614": {
     "id": 614,
@@ -17756,13 +17756,13 @@
     "img_source": "",
     "birth_date_written": "",
     "death_date_written": "",
-    "geschlecht": "",
+    "geschlecht": "m.",
     "funktionsbezeichnungen": "Domherr",
     "unidentifiziert": false,
     "titel": [],
-    "geistlich": null,
+    "geistlich": "geistlich",
     "Hofstaat": null,
-    "Konfession": null
+    "Konfession": "katholisch"
   },
   "616": {
     "id": 616,
@@ -17784,13 +17784,13 @@
     "img_source": "",
     "birth_date_written": "",
     "death_date_written": "",
-    "geschlecht": "",
+    "geschlecht": "m.",
     "funktionsbezeichnungen": "",
     "unidentifiziert": true,
     "titel": [],
-    "geistlich": null,
+    "geistlich": "geistlich?",
     "Hofstaat": null,
-    "Konfession": null
+    "Konfession": "katholisch"
   },
   "617": {
     "id": 617,
@@ -17812,13 +17812,13 @@
     "img_source": "commonsMedia",
     "birth_date_written": "",
     "death_date_written": "",
-    "geschlecht": "",
+    "geschlecht": "m.",
     "funktionsbezeichnungen": "Koadjutor in Olmütz",
     "unidentifiziert": false,
     "titel": [],
-    "geistlich": null,
+    "geistlich": "geistlich",
     "Hofstaat": null,
-    "Konfession": null
+    "Konfession": "katholisch"
   },
   "618": {
     "id": 618,
@@ -17840,7 +17840,7 @@
     "img_source": "commonsMedia",
     "birth_date_written": "",
     "death_date_written": "",
-    "geschlecht": "",
+    "geschlecht": "m.",
     "funktionsbezeichnungen": "Bischof / Erzbischof und Kurfürst von Trier",
     "unidentifiziert": false,
     "titel": [
@@ -17855,9 +17855,9 @@
         "color": "light-pink"
       }
     ],
-    "geistlich": null,
+    "geistlich": "geistlich",
     "Hofstaat": null,
-    "Konfession": null
+    "Konfession": "katholisch"
   },
   "619": {
     "id": 619,
@@ -17907,13 +17907,13 @@
     "img_source": "",
     "birth_date_written": "",
     "death_date_written": "",
-    "geschlecht": "",
+    "geschlecht": "m.",
     "funktionsbezeichnungen": "Domdechant in Lüttich",
     "unidentifiziert": false,
     "titel": [],
-    "geistlich": null,
+    "geistlich": "geistlich",
     "Hofstaat": null,
-    "Konfession": null
+    "Konfession": "katholisch"
   },
   "621": {
     "id": 621,
@@ -17935,13 +17935,13 @@
     "img_source": "commonsMedia",
     "birth_date_written": "",
     "death_date_written": "",
-    "geschlecht": "",
+    "geschlecht": "m.",
     "funktionsbezeichnungen": "Bischof von Lüttich",
     "unidentifiziert": false,
     "titel": [],
-    "geistlich": null,
+    "geistlich": "geistlich",
     "Hofstaat": null,
-    "Konfession": null
+    "Konfession": "katholisch"
   },
   "622": {
     "id": 622,
@@ -18031,7 +18031,7 @@
     "id": 625,
     "order": "620.00000000000000000000",
     "name": "Eltz, Johann Adolf von",
-    "gnd": "",
+    "gnd": "https://d-nb.info/gnd/1032895179",
     "other_url": "https://genealogy.euweb.cz/eltz/eltz6.html",
     "emt_id": "emt_person_id__625",
     "internal_comment": "siehe Kasten blau 50_3, Fasz. 2: 1693 statt Fugger ernannt",
@@ -18039,7 +18039,7 @@
     "lebensdaten": "",
     "ndb": "",
     "year_of_birth": "1639",
-    "year_of_death": null,
+    "year_of_death": "1709",
     "wikidata_url": "",
     "wikidata_enriched": false,
     "img_name": "",
@@ -18062,7 +18062,7 @@
     "gnd": "",
     "other_url": "https://gw.geneanet.org/cvpolier?lang=de&n=fugger&p=maria+katharina",
     "emt_id": "emt_person_id__626",
-    "internal_comment": "als Tochter von Franz Ernst Graf Fugger greifbar bisher nur auf https://gw.geneanet.org/cvpolier?lang=de&n=fugger&oc=0&p=franz+ernst  getaggt (nach Überlegung ohne cert low), weil sie vom Alter und der Angabe, ihr Vater sei kaiserlicher Geheimrat, her passt. Lau, Regierungskollegien 287 erwähnt auch eine Gräfin Maria Katharina, Tochter von Graf Paul von Fugger als Hofdame von Kurfürstin Anna Maria Luisa 1696-1704. Sie ist aber schon 1675 geboren und somit nicht mehr klein, und ihr Vater ist Reichshofrat, sodass EMT vermutlich nicht Geheimrat sonder Rhr geschrieben hätte. Zu ihm https://de.wikipedia.org/wiki/Paul_Fugger   und zu seiner Tochter https://gw.geneanet.org/cvpolier?lang=de&n=fugger&p=maria+katharina",
+    "internal_comment": "als Tochter von Franz Ernst Graf Fugger greifbar bisher nur auf https://gw.geneanet.org/cvpolier?lang=de&n=fugger&oc=0&p=franz+ernst  getaggt (nach Überlegung ohne cert low), weil sie vom Alter und der Angabe, ihr Vater sei kaiserlicher Geheimrat, her passt. Lau, Regierungskollegien 287 erwähnt auch eine Gräfin Maria Katharina, Tochter von Graf Paul von Fugger als Hofdame von Kurfürstin Anna Maria Luisa 1696-1704. Sie ist aber schon 1675 geboren und somit nicht mehr klein, und ihr Vater ist Reichshofrat, sodass EMT vermutlich nicht Geheimrat sondern Rhr geschrieben hätte. Zu ihm https://de.wikipedia.org/wiki/Paul_Fugger   und zu seiner Tochter https://gw.geneanet.org/cvpolier?lang=de&n=fugger&p=maria+katharina",
     "color": "",
     "lebensdaten": "",
     "ndb": "",
@@ -18137,13 +18137,13 @@
     "img_source": "",
     "birth_date_written": "",
     "death_date_written": "",
-    "geschlecht": "",
+    "geschlecht": "m.",
     "funktionsbezeichnungen": "Domprobst in Konstanz, Domherr zu Augsburg",
     "unidentifiziert": false,
     "titel": [],
-    "geistlich": null,
+    "geistlich": "geistlich",
     "Hofstaat": null,
-    "Konfession": null
+    "Konfession": "katholisch"
   },
   "629": {
     "id": 629,
@@ -18441,20 +18441,20 @@
     "id": 639,
     "order": "634.00000000000000000000",
     "name": "Sormani, Pier Marino OFM",
-    "gnd": "",
+    "gnd": "https://d-nb.info/gnd/1182366910",
     "other_url": "https://viaf.org/viaf/4535155466473102160005",
     "emt_id": "emt_person_id__639",
     "internal_comment": "https://it.wikipedia.org/wiki/Pier_Marino_Sormani",
     "color": "",
     "lebensdaten": "",
     "ndb": "",
-    "year_of_birth": null,
+    "year_of_birth": "1632",
     "year_of_death": "1702",
-    "wikidata_url": "",
-    "wikidata_enriched": false,
-    "img_name": "",
-    "img_fetched": false,
-    "img_source": "",
+    "wikidata_url": "http://www.wikidata.org/entity/Q3902927",
+    "wikidata_enriched": true,
+    "img_name": "Pier Marino Sormani.jpg",
+    "img_fetched": true,
+    "img_source": "commonsMedia",
     "birth_date_written": "",
     "death_date_written": "",
     "geschlecht": "",
@@ -18486,7 +18486,7 @@
     "birth_date_written": "",
     "death_date_written": "",
     "geschlecht": "",
-    "funktionsbezeichnungen": "kaiselricher Botschafter in Venedig 1676-1693",
+    "funktionsbezeichnungen": "kaiserlicher Botschafter in Venedig 1676-1693",
     "unidentifiziert": false,
     "titel": [
       {
@@ -18503,17 +18503,17 @@
     "id": 641,
     "order": "636.00000000000000000000",
     "name": "Ligne, Henri Louis Ernest de",
-    "gnd": "",
+    "gnd": "https://d-nb.info/gnd/136710123",
     "other_url": "",
     "emt_id": "emt_person_id__641",
     "internal_comment": "",
     "color": "",
     "lebensdaten": "",
-    "ndb": "",
+    "ndb": "https://www.deutsche-biographie.de/sfz51388.html#indexcontent",
     "year_of_birth": "1644",
     "year_of_death": "1702",
-    "wikidata_url": "https://www.wikidata.org/wiki/Q4995309",
-    "wikidata_enriched": false,
+    "wikidata_url": "http://www.wikidata.org/entity/Q4995309",
+    "wikidata_enriched": true,
     "img_name": "Henri Louis Ernest de Ligne.jpg",
     "img_fetched": true,
     "img_source": "commonsMedia",
@@ -19291,7 +19291,7 @@
     "img_source": "commonsMedia",
     "birth_date_written": "",
     "death_date_written": "",
-    "geschlecht": "",
+    "geschlecht": "m.",
     "funktionsbezeichnungen": "",
     "unidentifiziert": false,
     "titel": [
@@ -19301,9 +19301,9 @@
         "color": "darker-yellow"
       }
     ],
-    "geistlich": null,
+    "geistlich": "geistlich",
     "Hofstaat": null,
-    "Konfession": null
+    "Konfession": "katholisch"
   },
   "668": {
     "id": 668,
@@ -19393,13 +19393,13 @@
     "img_source": "",
     "birth_date_written": "",
     "death_date_written": "",
-    "geschlecht": "",
+    "geschlecht": "m.",
     "funktionsbezeichnungen": "",
     "unidentifiziert": true,
     "titel": [],
-    "geistlich": null,
-    "Hofstaat": null,
-    "Konfession": null
+    "geistlich": "geistlich",
+    "Hofstaat": "Kaiserhof",
+    "Konfession": "katholisch"
   },
   "673": {
     "id": 673,
@@ -19561,13 +19561,13 @@
     "img_source": "",
     "birth_date_written": "",
     "death_date_written": "",
-    "geschlecht": "",
+    "geschlecht": "m.",
     "funktionsbezeichnungen": "",
     "unidentifiziert": false,
     "titel": [],
-    "geistlich": null,
+    "geistlich": "geistlich",
     "Hofstaat": null,
-    "Konfession": null
+    "Konfession": "katholisch"
   },
   "678": {
     "id": 678,
@@ -19617,13 +19617,13 @@
     "img_source": "",
     "birth_date_written": "",
     "death_date_written": "",
-    "geschlecht": "",
+    "geschlecht": "m.",
     "funktionsbezeichnungen": "",
     "unidentifiziert": true,
     "titel": [],
-    "geistlich": null,
+    "geistlich": "geistlich",
     "Hofstaat": null,
-    "Konfession": null
+    "Konfession": "katholisch"
   },
   "680": {
     "id": 680,
@@ -19645,13 +19645,13 @@
     "img_source": "",
     "birth_date_written": "",
     "death_date_written": "",
-    "geschlecht": "",
+    "geschlecht": "m.",
     "funktionsbezeichnungen": "",
     "unidentifiziert": true,
     "titel": [],
-    "geistlich": null,
+    "geistlich": "geistlich",
     "Hofstaat": null,
-    "Konfession": null
+    "Konfession": "katholisch"
   },
   "681": {
     "id": 681,
@@ -19716,7 +19716,7 @@
     "gnd": "",
     "other_url": "https://viecpro.acdh.oeaw.ac.at/persons/170964",
     "emt_id": "emt_person_id__683",
-    "internal_comment": "Madlen sollte für die Aya die richtige Anrede in einem Brief an PW schreiben, wusste sie aber auch nicht - gehört zum Hofstaat in Wien. In VieCPro ist eine Johanna Helena Schaffer? Vgl. den Brief an lieb Madlen in der ÖNB.\nJohanna Helena wird 1693 im HZAB 253 als Kammerdienerin genannt - für das Kostgeld 1692 quittiert dort (fol. 39v) aber Magdalena Henrietta Schefferin, Kammerfrau",
+    "internal_comment": "Madlen sollte für die Aya die richtige Anrede in einem Brief an PW schreiben, wusste sie aber auch nicht - gehört zum Hofstaat in Wien. In VieCPro ist eine Johanna Helena Schaffer? Vgl. den Brief an lieb Madlen in der ÖNB.\nJohanna Helena wird 1693 im HZAB 253 als Kammerdienerin (1695: ist bei Erzherzog Karl) genannt - für das Kostgeld 1692 quittiert dort (fol. 39v) aber Magdalena Henrietta Schefferin, Kammerfrau",
     "color": "",
     "lebensdaten": "",
     "ndb": "",
@@ -19925,13 +19925,13 @@
     "img_source": "",
     "birth_date_written": "",
     "death_date_written": "",
-    "geschlecht": "",
+    "geschlecht": "m.",
     "funktionsbezeichnungen": "",
     "unidentifiziert": true,
     "titel": [],
-    "geistlich": null,
+    "geistlich": "geistlich?",
     "Hofstaat": null,
-    "Konfession": null
+    "Konfession": "katholisch"
   },
   "692": {
     "id": 692,
@@ -20325,13 +20325,13 @@
     "img_source": "",
     "birth_date_written": "",
     "death_date_written": "",
-    "geschlecht": "",
+    "geschlecht": "m.",
     "funktionsbezeichnungen": "",
     "unidentifiziert": true,
     "titel": [],
-    "geistlich": null,
+    "geistlich": "geistlich",
     "Hofstaat": null,
-    "Konfession": null
+    "Konfession": "katholisch"
   },
   "706": {
     "id": 706,
@@ -20353,13 +20353,13 @@
     "img_source": "",
     "birth_date_written": "",
     "death_date_written": "",
-    "geschlecht": "",
+    "geschlecht": "m.",
     "funktionsbezeichnungen": "",
     "unidentifiziert": true,
     "titel": [],
-    "geistlich": null,
+    "geistlich": "geistlich",
     "Hofstaat": null,
-    "Konfession": null
+    "Konfession": "katholisch"
   },
   "707": {
     "id": 707,
@@ -20641,7 +20641,7 @@
     "img_source": "",
     "birth_date_written": "",
     "death_date_written": "",
-    "geschlecht": "",
+    "geschlecht": "f.",
     "funktionsbezeichnungen": "Priorin der Karmelitinnen in Wiener Neustadt",
     "unidentifiziert": true,
     "titel": [
@@ -20651,9 +20651,9 @@
         "color": "green"
       }
     ],
-    "geistlich": null,
+    "geistlich": "geistlich",
     "Hofstaat": null,
-    "Konfession": null
+    "Konfession": "katholisch"
   },
   "717": {
     "id": 717,
@@ -20675,7 +20675,7 @@
     "img_source": "",
     "birth_date_written": "",
     "death_date_written": "",
-    "geschlecht": "",
+    "geschlecht": "m.",
     "funktionsbezeichnungen": "Domherr in Köln und Paderborn",
     "unidentifiziert": false,
     "titel": [
@@ -20685,9 +20685,9 @@
         "color": "purple"
       }
     ],
-    "geistlich": null,
+    "geistlich": "geistlich",
     "Hofstaat": null,
-    "Konfession": null
+    "Konfession": "katholisch"
   },
   "718": {
     "id": 718,
@@ -20743,7 +20743,7 @@
     "img_source": "",
     "birth_date_written": "",
     "death_date_written": "",
-    "geschlecht": "",
+    "geschlecht": "m.",
     "funktionsbezeichnungen": "Domherr in Köln",
     "unidentifiziert": false,
     "titel": [
@@ -20753,9 +20753,9 @@
         "color": "purple"
       }
     ],
-    "geistlich": null,
+    "geistlich": "geistlich",
     "Hofstaat": null,
-    "Konfession": null
+    "Konfession": "katholisch"
   },
   "720": {
     "id": 720,
@@ -20811,13 +20811,13 @@
     "img_source": "",
     "birth_date_written": "",
     "death_date_written": "",
-    "geschlecht": "",
+    "geschlecht": "m.",
     "funktionsbezeichnungen": "Kardinal; Nuntius in Frankreich 1683 - 1689",
     "unidentifiziert": false,
     "titel": [],
-    "geistlich": null,
+    "geistlich": "geistlich",
     "Hofstaat": null,
-    "Konfession": null
+    "Konfession": "katholisch"
   },
   "723": {
     "id": 723,
@@ -20867,7 +20867,7 @@
     "img_source": "",
     "birth_date_written": "",
     "death_date_written": "",
-    "geschlecht": "",
+    "geschlecht": "m.",
     "funktionsbezeichnungen": "Chorbischof in Köln",
     "unidentifiziert": false,
     "titel": [
@@ -20877,9 +20877,9 @@
         "color": "purple"
       }
     ],
-    "geistlich": null,
+    "geistlich": "geistlich",
     "Hofstaat": null,
-    "Konfession": null
+    "Konfession": "katholisch"
   },
   "725": {
     "id": 725,
@@ -21115,7 +21115,7 @@
     "img_source": "commonsMedia",
     "birth_date_written": "",
     "death_date_written": "",
-    "geschlecht": "",
+    "geschlecht": "m.",
     "funktionsbezeichnungen": "Dechant der Frauenkirche in München\n1698 Oberstkanzler im Kurfürstentum Köln",
     "unidentifiziert": false,
     "titel": [
@@ -21125,9 +21125,9 @@
         "color": "light-yellow"
       }
     ],
-    "geistlich": null,
+    "geistlich": "geistlich",
     "Hofstaat": null,
-    "Konfession": null
+    "Konfession": "katholisch"
   },
   "734": {
     "id": 734,
@@ -21307,13 +21307,13 @@
     "img_source": "",
     "birth_date_written": "",
     "death_date_written": "",
-    "geschlecht": "",
+    "geschlecht": "m.",
     "funktionsbezeichnungen": "",
     "unidentifiziert": true,
     "titel": [],
-    "geistlich": null,
+    "geistlich": "geistlich",
     "Hofstaat": null,
-    "Konfession": null
+    "Konfession": "katholisch"
   },
   "741": {
     "id": 741,
@@ -21369,13 +21369,13 @@
     "img_source": "",
     "birth_date_written": "",
     "death_date_written": "",
-    "geschlecht": "",
+    "geschlecht": "m.",
     "funktionsbezeichnungen": "Erzbischof von Avila; spanischer Botschafter in Portugal 1684 - 1690",
     "unidentifiziert": true,
     "titel": [],
-    "geistlich": null,
+    "geistlich": "geistlich",
     "Hofstaat": null,
-    "Konfession": null
+    "Konfession": "katholisch"
   },
   "743": {
     "id": 743,
@@ -21397,13 +21397,13 @@
     "img_source": "",
     "birth_date_written": "",
     "death_date_written": "",
-    "geschlecht": "",
+    "geschlecht": "f.",
     "funktionsbezeichnungen": "Nonne in Wiener Neustadt",
     "unidentifiziert": false,
     "titel": [],
-    "geistlich": null,
+    "geistlich": "geistlich",
     "Hofstaat": null,
-    "Konfession": null
+    "Konfession": "katholisch"
   },
   "744": {
     "id": 744,
@@ -21515,13 +21515,13 @@
     "img_source": "",
     "birth_date_written": "",
     "death_date_written": "",
-    "geschlecht": "",
+    "geschlecht": "m.",
     "funktionsbezeichnungen": "",
     "unidentifiziert": true,
     "titel": [],
-    "geistlich": null,
+    "geistlich": "geistlich",
     "Hofstaat": null,
-    "Konfession": null
+    "Konfession": "katholisch"
   },
   "749": {
     "id": 749,
@@ -21841,7 +21841,7 @@
     "img_source": "",
     "birth_date_written": "",
     "death_date_written": "",
-    "geschlecht": "",
+    "geschlecht": "m.",
     "funktionsbezeichnungen": "Jesuit, Volksmissionar",
     "unidentifiziert": false,
     "titel": [
@@ -21851,9 +21851,9 @@
         "color": "yellow"
       }
     ],
-    "geistlich": null,
+    "geistlich": "geistlich",
     "Hofstaat": null,
-    "Konfession": null
+    "Konfession": "katholisch"
   },
   "761": {
     "id": 761,
@@ -21875,13 +21875,13 @@
     "img_source": "commonsMedia",
     "birth_date_written": "",
     "death_date_written": "",
-    "geschlecht": "",
+    "geschlecht": "m.",
     "funktionsbezeichnungen": "Bischof von Bamberg, Erzbischof / Kurfürst von Mainz",
     "unidentifiziert": false,
     "titel": [],
-    "geistlich": null,
+    "geistlich": "geistlich",
     "Hofstaat": null,
-    "Konfession": null
+    "Konfession": "katholisch"
   },
   "762": {
     "id": 762,
@@ -21937,7 +21937,7 @@
     "img_source": "commonsMedia",
     "birth_date_written": "",
     "death_date_written": "",
-    "geschlecht": "",
+    "geschlecht": "m.",
     "funktionsbezeichnungen": "Kardinal",
     "unidentifiziert": false,
     "titel": [
@@ -21947,9 +21947,9 @@
         "color": "darker-blue"
       }
     ],
-    "geistlich": null,
+    "geistlich": "geistlich",
     "Hofstaat": null,
-    "Konfession": null
+    "Konfession": "katholisch"
   },
   "764": {
     "id": 764,
@@ -22231,13 +22231,13 @@
     "img_source": "",
     "birth_date_written": "",
     "death_date_written": "",
-    "geschlecht": "",
+    "geschlecht": "m.",
     "funktionsbezeichnungen": "",
     "unidentifiziert": true,
     "titel": [],
-    "geistlich": null,
+    "geistlich": "geistlich",
     "Hofstaat": null,
-    "Konfession": null
+    "Konfession": "katholisch"
   },
   "773": {
     "id": 773,
@@ -22383,7 +22383,7 @@
     "img_source": "commonsMedia",
     "birth_date_written": "",
     "death_date_written": "",
-    "geschlecht": "",
+    "geschlecht": "m.",
     "funktionsbezeichnungen": "",
     "unidentifiziert": false,
     "titel": [
@@ -22393,9 +22393,9 @@
         "color": "yellow"
       }
     ],
-    "geistlich": null,
+    "geistlich": "geistlich",
     "Hofstaat": null,
-    "Konfession": null
+    "Konfession": "katholisch"
   },
   "778": {
     "id": 778,
@@ -22451,13 +22451,13 @@
     "img_source": "commonsMedia",
     "birth_date_written": "",
     "death_date_written": "",
-    "geschlecht": "",
+    "geschlecht": "m.",
     "funktionsbezeichnungen": "Kardinal, Bischof von Ephesos, Nunius in Polen 1680 - 1688",
     "unidentifiziert": false,
     "titel": [],
-    "geistlich": null,
+    "geistlich": "geistlich",
     "Hofstaat": null,
-    "Konfession": null
+    "Konfession": "katholisch"
   },
   "780": {
     "id": 780,
@@ -22513,13 +22513,13 @@
     "img_source": "commonsMedia",
     "birth_date_written": "",
     "death_date_written": "",
-    "geschlecht": "",
+    "geschlecht": "m.",
     "funktionsbezeichnungen": "Erzbischof von Gnesen, Primas von Polen, Kardinal",
     "unidentifiziert": false,
     "titel": [],
-    "geistlich": null,
+    "geistlich": "geistlich",
     "Hofstaat": null,
-    "Konfession": null
+    "Konfession": "katholisch"
   },
   "782": {
     "id": 782,
@@ -22603,13 +22603,13 @@
     "img_source": "",
     "birth_date_written": "",
     "death_date_written": "",
-    "geschlecht": "",
+    "geschlecht": "m.",
     "funktionsbezeichnungen": "Beichtvater der Königin von Portugal",
     "unidentifiziert": false,
     "titel": [],
-    "geistlich": null,
+    "geistlich": "geistlich",
     "Hofstaat": null,
-    "Konfession": null
+    "Konfession": "katholisch"
   },
   "785": {
     "id": 785,
@@ -22631,13 +22631,13 @@
     "img_source": "commonsMedia",
     "birth_date_written": "",
     "death_date_written": "",
-    "geschlecht": "",
+    "geschlecht": "m.",
     "funktionsbezeichnungen": "Bischof von Konstanz",
     "unidentifiziert": false,
     "titel": [],
-    "geistlich": null,
+    "geistlich": "geistlich",
     "Hofstaat": null,
-    "Konfession": null
+    "Konfession": "katholisch"
   },
   "786": {
     "id": 786,
@@ -23132,7 +23132,7 @@
     "img_source": "",
     "birth_date_written": "",
     "death_date_written": "",
-    "geschlecht": "",
+    "geschlecht": "m.",
     "funktionsbezeichnungen": "Domherr in Mainz (Resignation 1701)",
     "unidentifiziert": false,
     "titel": [
@@ -23142,9 +23142,9 @@
         "color": "purple"
       }
     ],
-    "geistlich": null,
+    "geistlich": "geistlich",
     "Hofstaat": null,
-    "Konfession": null
+    "Konfession": "katholisch"
   },
   "802": {
     "id": 802,
@@ -23166,7 +23166,7 @@
     "img_source": "",
     "birth_date_written": "",
     "death_date_written": "",
-    "geschlecht": "",
+    "geschlecht": "m.",
     "funktionsbezeichnungen": "Domherr in Köln (bis 1694)",
     "unidentifiziert": false,
     "titel": [
@@ -23176,9 +23176,9 @@
         "color": "purple"
       }
     ],
-    "geistlich": null,
+    "geistlich": "geistlich",
     "Hofstaat": null,
-    "Konfession": null
+    "Konfession": "katholisch"
   },
   "803": {
     "id": 803,
@@ -23262,7 +23262,7 @@
     "img_source": "commonsMedia",
     "birth_date_written": "",
     "death_date_written": "",
-    "geschlecht": "",
+    "geschlecht": "m.",
     "funktionsbezeichnungen": "Kardinal (bis 1694); Herzog von Modena",
     "unidentifiziert": false,
     "titel": [
@@ -23272,9 +23272,9 @@
         "color": "darker-blue"
       }
     ],
-    "geistlich": null,
+    "geistlich": "geistlich",
     "Hofstaat": null,
-    "Konfession": null
+    "Konfession": "katholisch"
   },
   "806": {
     "id": 806,
@@ -23386,13 +23386,13 @@
     "img_source": "commonsMedia",
     "birth_date_written": "",
     "death_date_written": "",
-    "geschlecht": "",
+    "geschlecht": "m.",
     "funktionsbezeichnungen": "Bischof von Eichstätt",
     "unidentifiziert": false,
     "titel": [],
-    "geistlich": null,
+    "geistlich": "geistlich",
     "Hofstaat": null,
-    "Konfession": null
+    "Konfession": "katholisch"
   },
   "811": {
     "id": 811,
@@ -23798,13 +23798,13 @@
     "img_source": "",
     "birth_date_written": "",
     "death_date_written": "",
-    "geschlecht": "",
+    "geschlecht": "m.",
     "funktionsbezeichnungen": "Domherr in Lüttich (bis 1698)",
     "unidentifiziert": true,
     "titel": [],
-    "geistlich": null,
+    "geistlich": "geistlich",
     "Hofstaat": null,
-    "Konfession": null
+    "Konfession": "katholisch"
   },
   "824": {
     "id": 824,
@@ -23826,13 +23826,13 @@
     "img_source": "",
     "birth_date_written": "",
     "death_date_written": "",
-    "geschlecht": "",
+    "geschlecht": "m.",
     "funktionsbezeichnungen": "Domherr in Münster",
     "unidentifiziert": true,
     "titel": [],
-    "geistlich": null,
+    "geistlich": "geistlich",
     "Hofstaat": null,
-    "Konfession": null
+    "Konfession": "katholisch"
   },
   "825": {
     "id": 825,
@@ -23990,7 +23990,7 @@
     "img_source": "",
     "birth_date_written": "",
     "death_date_written": "",
-    "geschlecht": "",
+    "geschlecht": "m.",
     "funktionsbezeichnungen": "Jesuit",
     "unidentifiziert": false,
     "titel": [
@@ -24000,9 +24000,9 @@
         "color": "yellow"
       }
     ],
-    "geistlich": null,
+    "geistlich": "geistlich",
     "Hofstaat": null,
-    "Konfession": null
+    "Konfession": "katholisch"
   },
   "830": {
     "id": 830,
@@ -24222,13 +24222,13 @@
     "img_source": "commonsMedia",
     "birth_date_written": "",
     "death_date_written": "",
-    "geschlecht": "",
+    "geschlecht": "m.",
     "funktionsbezeichnungen": "Bischof von Konstanz 1689 bis 1704",
     "unidentifiziert": false,
     "titel": [],
-    "geistlich": null,
+    "geistlich": "geistlich",
     "Hofstaat": null,
-    "Konfession": null
+    "Konfession": "katholisch"
   },
   "837": {
     "id": 837,
@@ -25124,7 +25124,7 @@
     "img_source": "",
     "birth_date_written": "",
     "death_date_written": "",
-    "geschlecht": "",
+    "geschlecht": "m.",
     "funktionsbezeichnungen": "",
     "unidentifiziert": true,
     "titel": [
@@ -25134,9 +25134,9 @@
         "color": "yellow"
       }
     ],
-    "geistlich": null,
+    "geistlich": "geistlich",
     "Hofstaat": null,
-    "Konfession": null
+    "Konfession": "katholisch"
   },
   "867": {
     "id": 867,
@@ -25248,13 +25248,13 @@
     "img_source": "",
     "birth_date_written": "",
     "death_date_written": "",
-    "geschlecht": "",
+    "geschlecht": "m.",
     "funktionsbezeichnungen": "",
     "unidentifiziert": true,
     "titel": [],
     "geistlich": null,
-    "Hofstaat": null,
-    "Konfession": null
+    "Hofstaat": "MA Spanien",
+    "Konfession": "katholisch"
   },
   "872": {
     "id": 872,
@@ -25282,7 +25282,7 @@
     "titel": [],
     "geistlich": null,
     "Hofstaat": "MA Spanien",
-    "Konfession": null
+    "Konfession": "katholisch"
   },
   "873": {
     "id": 873,
@@ -25304,7 +25304,7 @@
     "img_source": "commonsMedia",
     "birth_date_written": "",
     "death_date_written": "",
-    "geschlecht": "",
+    "geschlecht": "m.",
     "funktionsbezeichnungen": "Beichtvater Philipp Wilhelms",
     "unidentifiziert": false,
     "titel": [
@@ -25314,9 +25314,9 @@
         "color": "yellow"
       }
     ],
-    "geistlich": null,
-    "Hofstaat": null,
-    "Konfession": null
+    "geistlich": "geistlich",
+    "Hofstaat": "Pfalz-Neuburg",
+    "Konfession": "katholisch"
   },
   "874": {
     "id": 874,
@@ -25603,7 +25603,7 @@
     "img_source": "",
     "birth_date_written": "",
     "death_date_written": "",
-    "geschlecht": "",
+    "geschlecht": "m.",
     "funktionsbezeichnungen": "",
     "unidentifiziert": true,
     "titel": [
@@ -25613,9 +25613,9 @@
         "color": "yellow"
       }
     ],
-    "geistlich": null,
+    "geistlich": "geistlich",
     "Hofstaat": null,
-    "Konfession": null
+    "Konfession": "katholisch"
   },
   "883": {
     "id": 883,
@@ -25727,13 +25727,13 @@
     "img_source": "",
     "birth_date_written": "",
     "death_date_written": "",
-    "geschlecht": "",
+    "geschlecht": "m.",
     "funktionsbezeichnungen": "",
     "unidentifiziert": true,
     "titel": [],
-    "geistlich": null,
+    "geistlich": "geistlich",
     "Hofstaat": null,
-    "Konfession": null
+    "Konfession": "katholisch"
   },
   "887": {
     "id": 887,
@@ -26025,7 +26025,7 @@
     "img_source": "",
     "birth_date_written": "",
     "death_date_written": "",
-    "geschlecht": "",
+    "geschlecht": "f.",
     "funktionsbezeichnungen": "",
     "unidentifiziert": false,
     "titel": [
@@ -26035,9 +26035,9 @@
         "color": "orange"
       }
     ],
-    "geistlich": null,
+    "geistlich": "geistlich",
     "Hofstaat": null,
-    "Konfession": null
+    "Konfession": "katholisch"
   },
   "899": {
     "id": 899,
@@ -26199,7 +26199,7 @@
     "img_source": "commonsMedia",
     "birth_date_written": "",
     "death_date_written": "",
-    "geschlecht": "",
+    "geschlecht": "m.",
     "funktionsbezeichnungen": "Kardinal",
     "unidentifiziert": false,
     "titel": [
@@ -26209,9 +26209,9 @@
         "color": "purple"
       }
     ],
-    "geistlich": null,
+    "geistlich": "geistlich",
     "Hofstaat": null,
-    "Konfession": null
+    "Konfession": "katholisch"
   },
   "969": {
     "id": 969,
@@ -27224,7 +27224,7 @@
     "img_source": "",
     "birth_date_written": "",
     "death_date_written": "",
-    "geschlecht": "",
+    "geschlecht": "m.",
     "funktionsbezeichnungen": "",
     "unidentifiziert": false,
     "titel": [
@@ -27234,9 +27234,9 @@
         "color": "purple"
       }
     ],
-    "geistlich": null,
+    "geistlich": "geistlich",
     "Hofstaat": null,
-    "Konfession": null
+    "Konfession": "katholisch"
   },
   "1070": {
     "id": 1070,
@@ -27860,13 +27860,13 @@
     "img_source": "",
     "birth_date_written": "",
     "death_date_written": "",
-    "geschlecht": "",
+    "geschlecht": "m.",
     "funktionsbezeichnungen": "",
     "unidentifiziert": false,
     "titel": [],
-    "geistlich": null,
+    "geistlich": "geistlich",
     "Hofstaat": null,
-    "Konfession": null
+    "Konfession": "katholisch"
   },
   "1094": {
     "id": 1094,
@@ -27984,7 +27984,7 @@
     "img_source": "commonsMedia",
     "birth_date_written": "",
     "death_date_written": "",
-    "geschlecht": "",
+    "geschlecht": "m.",
     "funktionsbezeichnungen": "Nuntius in Wien (1696-1700)",
     "unidentifiziert": false,
     "titel": [
@@ -27994,9 +27994,9 @@
         "color": "darker-purple"
       }
     ],
-    "geistlich": null,
+    "geistlich": "geistlich",
     "Hofstaat": null,
-    "Konfession": null
+    "Konfession": "katholisch"
   },
   "1098": {
     "id": 1098,
@@ -28074,13 +28074,13 @@
     "img_source": "",
     "birth_date_written": "",
     "death_date_written": "",
-    "geschlecht": "",
+    "geschlecht": "m.",
     "funktionsbezeichnungen": "Domherr, Offizial in Köln",
     "unidentifiziert": false,
     "titel": [],
-    "geistlich": null,
+    "geistlich": "geistlich",
     "Hofstaat": null,
-    "Konfession": null
+    "Konfession": "katholisch"
   },
   "1101": {
     "id": 1101,
@@ -28474,7 +28474,7 @@
     "img_source": "commonsMedia",
     "birth_date_written": "",
     "death_date_written": "",
-    "geschlecht": "",
+    "geschlecht": "m.",
     "funktionsbezeichnungen": "dänischer Hofprediger",
     "unidentifiziert": false,
     "titel": [
@@ -28484,9 +28484,9 @@
         "color": "light-yellow"
       }
     ],
-    "geistlich": null,
+    "geistlich": "geistlich",
     "Hofstaat": null,
-    "Konfession": null
+    "Konfession": "evangelisch A.B."
   },
   "1114": {
     "id": 1114,
@@ -29067,13 +29067,13 @@
     "img_source": "",
     "birth_date_written": "",
     "death_date_written": "",
-    "geschlecht": "",
+    "geschlecht": "m.",
     "funktionsbezeichnungen": "Domherr in Osnabrück",
     "unidentifiziert": false,
     "titel": [],
-    "geistlich": null,
+    "geistlich": "geistlich",
     "Hofstaat": null,
-    "Konfession": null
+    "Konfession": "katholisch"
   },
   "1165": {
     "id": 1165,
@@ -29095,13 +29095,13 @@
     "img_source": "",
     "birth_date_written": "",
     "death_date_written": "",
-    "geschlecht": "",
+    "geschlecht": "m.",
     "funktionsbezeichnungen": "Domherr in Osnabrück",
     "unidentifiziert": false,
     "titel": [],
-    "geistlich": null,
+    "geistlich": "geistlich",
     "Hofstaat": null,
-    "Konfession": null
+    "Konfession": "katholisch"
   },
   "1166": {
     "id": 1166,
@@ -29123,7 +29123,7 @@
     "img_source": "",
     "birth_date_written": "",
     "death_date_written": "",
-    "geschlecht": "",
+    "geschlecht": "m.",
     "funktionsbezeichnungen": "Abt von Stablo und Malmédy",
     "unidentifiziert": false,
     "titel": [
@@ -29133,9 +29133,9 @@
         "color": "darker-blue"
       }
     ],
-    "geistlich": null,
+    "geistlich": "geistlich",
     "Hofstaat": null,
-    "Konfession": null
+    "Konfession": "katholisch"
   },
   "1167": {
     "id": 1167,
@@ -29337,7 +29337,7 @@
     "img_source": "",
     "birth_date_written": "",
     "death_date_written": "",
-    "geschlecht": "",
+    "geschlecht": "m.",
     "funktionsbezeichnungen": "",
     "unidentifiziert": true,
     "titel": [
@@ -29347,9 +29347,9 @@
         "color": "yellow"
       }
     ],
-    "geistlich": null,
+    "geistlich": "geistlich",
     "Hofstaat": null,
-    "Konfession": null
+    "Konfession": "katholisch"
   },
   "1174": {
     "id": 1174,
@@ -29371,13 +29371,13 @@
     "img_source": "",
     "birth_date_written": "",
     "death_date_written": "",
-    "geschlecht": "",
+    "geschlecht": "m.",
     "funktionsbezeichnungen": "Deutschordensritter, Landkomtur der Ballei Franken 1702–1716",
     "unidentifiziert": false,
     "titel": [],
-    "geistlich": null,
+    "geistlich": "geistlich",
     "Hofstaat": null,
-    "Konfession": null
+    "Konfession": "katholisch"
   },
   "1207": {
     "id": 1207,
@@ -29433,13 +29433,13 @@
     "img_source": "",
     "birth_date_written": "",
     "death_date_written": "",
-    "geschlecht": "",
+    "geschlecht": "m.",
     "funktionsbezeichnungen": "Domherr in Hildesheim und Lüttich",
     "unidentifiziert": false,
     "titel": [],
-    "geistlich": null,
+    "geistlich": "geistlich",
     "Hofstaat": null,
-    "Konfession": null
+    "Konfession": "katholisch"
   },
   "1209": {
     "id": 1209,
@@ -29461,13 +29461,13 @@
     "img_source": "commonsMedia",
     "birth_date_written": "",
     "death_date_written": "",
-    "geschlecht": "",
+    "geschlecht": "m.",
     "funktionsbezeichnungen": "Domprobst von Osnabrück, Bischof von Paderborn 1704-1718, Bischof von Münster 1706-1718",
     "unidentifiziert": false,
     "titel": [],
-    "geistlich": null,
+    "geistlich": "geistlich",
     "Hofstaat": null,
-    "Konfession": null
+    "Konfession": "katholisch"
   },
   "1210": {
     "id": 1210,
@@ -29579,7 +29579,7 @@
     "img_source": "",
     "birth_date_written": "",
     "death_date_written": "",
-    "geschlecht": "",
+    "geschlecht": "m.",
     "funktionsbezeichnungen": "",
     "unidentifiziert": true,
     "titel": [
@@ -29589,9 +29589,9 @@
         "color": "yellow"
       }
     ],
-    "geistlich": null,
+    "geistlich": "geistlich",
     "Hofstaat": null,
-    "Konfession": null
+    "Konfession": "katholisch"
   },
   "1214": {
     "id": 1214,
@@ -29613,7 +29613,7 @@
     "img_source": "",
     "birth_date_written": "",
     "death_date_written": "",
-    "geschlecht": "",
+    "geschlecht": "m.",
     "funktionsbezeichnungen": "",
     "unidentifiziert": true,
     "titel": [
@@ -29623,9 +29623,9 @@
         "color": "yellow"
       }
     ],
-    "geistlich": null,
+    "geistlich": "geistlich",
     "Hofstaat": null,
-    "Konfession": null
+    "Konfession": "katholisch"
   },
   "1215": {
     "id": 1215,
@@ -29957,7 +29957,7 @@
     "img_source": "commonsMedia",
     "birth_date_written": "",
     "death_date_written": "",
-    "geschlecht": "",
+    "geschlecht": "m.",
     "funktionsbezeichnungen": "Nuntius in Wien",
     "unidentifiziert": false,
     "titel": [
@@ -29967,9 +29967,9 @@
         "color": "darker-purple"
       }
     ],
-    "geistlich": null,
+    "geistlich": "geistlich",
     "Hofstaat": null,
-    "Konfession": null
+    "Konfession": "katholisch"
   },
   "1226": {
     "id": 1226,
@@ -29991,13 +29991,13 @@
     "img_source": "",
     "birth_date_written": "",
     "death_date_written": "",
-    "geschlecht": "",
+    "geschlecht": "f.",
     "funktionsbezeichnungen": "",
     "unidentifiziert": true,
     "titel": [],
-    "geistlich": null,
+    "geistlich": "geistlich",
     "Hofstaat": null,
-    "Konfession": null
+    "Konfession": "katholisch"
   },
   "1227": {
     "id": 1227,
@@ -30019,13 +30019,13 @@
     "img_source": "",
     "birth_date_written": "",
     "death_date_written": "",
-    "geschlecht": "",
+    "geschlecht": "f.",
     "funktionsbezeichnungen": "",
     "unidentifiziert": true,
     "titel": [],
-    "geistlich": null,
+    "geistlich": "geistlich",
     "Hofstaat": null,
-    "Konfession": null
+    "Konfession": "katholisch"
   },
   "1228": {
     "id": 1228,
@@ -30075,7 +30075,7 @@
     "img_source": "commonsMedia",
     "birth_date_written": "",
     "death_date_written": "",
-    "geschlecht": "",
+    "geschlecht": "m.",
     "funktionsbezeichnungen": "",
     "unidentifiziert": false,
     "titel": [
@@ -30085,9 +30085,9 @@
         "color": "darker-purple"
       }
     ],
-    "geistlich": null,
+    "geistlich": "geistlich",
     "Hofstaat": null,
-    "Konfession": null
+    "Konfession": "katholisch"
   },
   "1230": {
     "id": 1230,
@@ -30177,7 +30177,7 @@
     "img_source": "commonsMedia",
     "birth_date_written": "",
     "death_date_written": "",
-    "geschlecht": "",
+    "geschlecht": "m.",
     "funktionsbezeichnungen": "Domherr, Bischof, Auditor Rotae",
     "unidentifiziert": false,
     "titel": [
@@ -30187,9 +30187,9 @@
         "color": "purple"
       }
     ],
-    "geistlich": null,
+    "geistlich": "geistlich",
     "Hofstaat": null,
-    "Konfession": null
+    "Konfession": "katholisch"
   },
   "1233": {
     "id": 1233,
@@ -30453,7 +30453,7 @@
     "img_source": "",
     "birth_date_written": "",
     "death_date_written": "",
-    "geschlecht": "",
+    "geschlecht": "f.",
     "funktionsbezeichnungen": "",
     "unidentifiziert": true,
     "titel": [
@@ -30463,9 +30463,9 @@
         "color": "gray"
       }
     ],
-    "geistlich": null,
+    "geistlich": "geistlich?",
     "Hofstaat": null,
-    "Konfession": null
+    "Konfession": "katholisch"
   },
   "1241": {
     "id": 1241,
@@ -30775,7 +30775,7 @@
     "img_source": "commonsMedia",
     "birth_date_written": "",
     "death_date_written": "",
-    "geschlecht": "",
+    "geschlecht": "m.",
     "funktionsbezeichnungen": "",
     "unidentifiziert": false,
     "titel": [
@@ -30785,9 +30785,9 @@
         "color": "darker-purple"
       }
     ],
-    "geistlich": null,
+    "geistlich": "geistlich",
     "Hofstaat": null,
-    "Konfession": null
+    "Konfession": "katholisch"
   },
   "1252": {
     "id": 1252,
@@ -31017,13 +31017,13 @@
     "img_source": "",
     "birth_date_written": "",
     "death_date_written": "",
-    "geschlecht": "",
+    "geschlecht": "f.",
     "funktionsbezeichnungen": "designierte Priorin des geplanten Karmelitinnenklosters in Höchstädt",
     "unidentifiziert": false,
     "titel": [],
-    "geistlich": null,
+    "geistlich": "geistlich",
     "Hofstaat": null,
-    "Konfession": null
+    "Konfession": "katholisch"
   },
   "1260": {
     "id": 1260,
@@ -31045,13 +31045,13 @@
     "img_source": "",
     "birth_date_written": "",
     "death_date_written": "",
-    "geschlecht": "",
+    "geschlecht": "f.",
     "funktionsbezeichnungen": "",
     "unidentifiziert": false,
     "titel": [],
-    "geistlich": null,
+    "geistlich": "geistlich",
     "Hofstaat": null,
-    "Konfession": null
+    "Konfession": "katholisch"
   },
   "1261": {
     "id": 1261,
@@ -31073,13 +31073,13 @@
     "img_source": "",
     "birth_date_written": "",
     "death_date_written": "",
-    "geschlecht": "",
+    "geschlecht": "f.",
     "funktionsbezeichnungen": "",
     "unidentifiziert": true,
     "titel": [],
-    "geistlich": null,
+    "geistlich": "geistlich",
     "Hofstaat": null,
-    "Konfession": null
+    "Konfession": "katholisch"
   },
   "1262": {
     "id": 1262,
@@ -31163,13 +31163,13 @@
     "img_source": "",
     "birth_date_written": "",
     "death_date_written": "",
-    "geschlecht": "",
+    "geschlecht": "f.",
     "funktionsbezeichnungen": "Priorin der Neuburger Karmelitinnen",
     "unidentifiziert": true,
     "titel": [],
-    "geistlich": null,
+    "geistlich": "geistlich",
     "Hofstaat": null,
-    "Konfession": null
+    "Konfession": "katholisch"
   },
   "1265": {
     "id": 1265,
@@ -31191,13 +31191,13 @@
     "img_source": "",
     "birth_date_written": "",
     "death_date_written": "",
-    "geschlecht": "",
+    "geschlecht": "m.",
     "funktionsbezeichnungen": "",
     "unidentifiziert": true,
     "titel": [],
-    "geistlich": null,
+    "geistlich": "geistlich",
     "Hofstaat": null,
-    "Konfession": null
+    "Konfession": "katholisch"
   },
   "1266": {
     "id": 1266,
@@ -31219,7 +31219,7 @@
     "img_source": "",
     "birth_date_written": "",
     "death_date_written": "",
-    "geschlecht": "",
+    "geschlecht": "m.",
     "funktionsbezeichnungen": "",
     "unidentifiziert": true,
     "titel": [
@@ -31229,9 +31229,9 @@
         "color": "yellow"
       }
     ],
-    "geistlich": null,
+    "geistlich": "geistlich",
     "Hofstaat": null,
-    "Konfession": null
+    "Konfession": "katholisch"
   },
   "1268": {
     "id": 1268,
@@ -31257,9 +31257,9 @@
     "funktionsbezeichnungen": "https://emt-project.github.io/emt-static/kasten_blau_44_8_0219.html - könnte das die ehedem in Gunst stehende Priorin in Düsseldorf sein?",
     "unidentifiziert": true,
     "titel": [],
-    "geistlich": null,
+    "geistlich": "",
     "Hofstaat": null,
-    "Konfession": null
+    "Konfession": "katholisch"
   },
   "1269": {
     "id": 1269,
@@ -31281,13 +31281,13 @@
     "img_source": "",
     "birth_date_written": "",
     "death_date_written": "",
-    "geschlecht": "",
+    "geschlecht": "m.",
     "funktionsbezeichnungen": "Domherr in Hildesheim und Münster",
     "unidentifiziert": false,
     "titel": [],
-    "geistlich": null,
+    "geistlich": "geistlich",
     "Hofstaat": null,
-    "Konfession": null
+    "Konfession": "katholisch"
   },
   "1302": {
     "id": 1302,
@@ -31455,13 +31455,13 @@
     "img_source": "commonsMedia",
     "birth_date_written": "",
     "death_date_written": "",
-    "geschlecht": "",
+    "geschlecht": "m.",
     "funktionsbezeichnungen": "Nuntius in Köln (1698-1702)",
     "unidentifiziert": false,
     "titel": [],
-    "geistlich": null,
+    "geistlich": "geistlich",
     "Hofstaat": null,
-    "Konfession": null
+    "Konfession": "katholisch"
   },
   "1308": {
     "id": 1308,
@@ -31765,13 +31765,13 @@
     "img_source": "commonsMedia",
     "birth_date_written": "",
     "death_date_written": "",
-    "geschlecht": "",
+    "geschlecht": "m.",
     "funktionsbezeichnungen": "Bischof von Würzburg",
     "unidentifiziert": false,
     "titel": [],
-    "geistlich": null,
+    "geistlich": "geistlich",
     "Hofstaat": null,
-    "Konfession": null
+    "Konfession": "katholisch"
   },
   "1318": {
     "id": 1318,
@@ -31793,13 +31793,13 @@
     "img_source": "",
     "birth_date_written": "",
     "death_date_written": "",
-    "geschlecht": "",
+    "geschlecht": "m.",
     "funktionsbezeichnungen": "",
     "unidentifiziert": true,
     "titel": [],
-    "geistlich": null,
+    "geistlich": "geistlich?",
     "Hofstaat": null,
-    "Konfession": null
+    "Konfession": "katholisch"
   },
   "1320": {
     "id": 1320,
@@ -31821,13 +31821,13 @@
     "img_source": "commonsMedia",
     "birth_date_written": "",
     "death_date_written": "",
-    "geschlecht": "",
+    "geschlecht": "m.",
     "funktionsbezeichnungen": "Nuntius in Wien (1700-1706)",
     "unidentifiziert": false,
     "titel": [],
-    "geistlich": null,
+    "geistlich": "geistlich",
     "Hofstaat": null,
-    "Konfession": null
+    "Konfession": "katholisch"
   },
   "1321": {
     "id": 1321,
@@ -31849,13 +31849,13 @@
     "img_source": "",
     "birth_date_written": "",
     "death_date_written": "",
-    "geschlecht": "",
+    "geschlecht": "m.",
     "funktionsbezeichnungen": "",
     "unidentifiziert": false,
     "titel": [],
-    "geistlich": null,
+    "geistlich": "geistlich",
     "Hofstaat": null,
-    "Konfession": null
+    "Konfession": "katholisch"
   },
   "1354": {
     "id": 1354,
@@ -31967,7 +31967,7 @@
     "img_source": "",
     "birth_date_written": "",
     "death_date_written": "",
-    "geschlecht": "",
+    "geschlecht": "m.",
     "funktionsbezeichnungen": "",
     "unidentifiziert": true,
     "titel": [
@@ -31977,9 +31977,9 @@
         "color": "yellow"
       }
     ],
-    "geistlich": null,
+    "geistlich": "geistlich",
     "Hofstaat": null,
-    "Konfession": null
+    "Konfession": "katholisch"
   },
   "1358": {
     "id": 1358,
@@ -32069,13 +32069,13 @@
     "img_source": "",
     "birth_date_written": "",
     "death_date_written": "",
-    "geschlecht": "",
+    "geschlecht": "f.",
     "funktionsbezeichnungen": "",
     "unidentifiziert": true,
     "titel": [],
-    "geistlich": null,
+    "geistlich": "geistlich",
     "Hofstaat": null,
-    "Konfession": null
+    "Konfession": "katholisch"
   },
   "1393": {
     "id": 1393,
@@ -32159,7 +32159,7 @@
     "img_source": "",
     "birth_date_written": "",
     "death_date_written": "",
-    "geschlecht": "",
+    "geschlecht": "m.",
     "funktionsbezeichnungen": "",
     "unidentifiziert": false,
     "titel": [
@@ -32169,9 +32169,9 @@
         "color": "yellow"
       }
     ],
-    "geistlich": null,
+    "geistlich": "geistlich",
     "Hofstaat": null,
-    "Konfession": null
+    "Konfession": "katholisch"
   },
   "1396": {
     "id": 1396,
@@ -32424,13 +32424,13 @@
     "img_source": "",
     "birth_date_written": "",
     "death_date_written": "",
-    "geschlecht": "",
+    "geschlecht": "m.",
     "funktionsbezeichnungen": "",
     "unidentifiziert": true,
     "titel": [],
-    "geistlich": null,
+    "geistlich": "geistlich",
     "Hofstaat": null,
-    "Konfession": null
+    "Konfession": "katholisch"
   },
   "1405": {
     "id": 1405,
@@ -32914,13 +32914,13 @@
     "img_source": "",
     "birth_date_written": "",
     "death_date_written": "",
-    "geschlecht": "",
+    "geschlecht": "m.",
     "funktionsbezeichnungen": "Malteserritter, Diplomat",
     "unidentifiziert": false,
     "titel": [],
-    "geistlich": null,
+    "geistlich": "geistlich",
     "Hofstaat": null,
-    "Konfession": null
+    "Konfession": "katholisch"
   },
   "1453": {
     "id": 1453,
@@ -33196,13 +33196,13 @@
     "img_source": "",
     "birth_date_written": "",
     "death_date_written": "",
-    "geschlecht": "",
+    "geschlecht": "m.",
     "funktionsbezeichnungen": "",
     "unidentifiziert": true,
     "titel": [],
-    "geistlich": null,
+    "geistlich": "geistlich",
     "Hofstaat": null,
-    "Konfession": null
+    "Konfession": "katholisch"
   },
   "1495": {
     "id": 1495,
@@ -33224,7 +33224,7 @@
     "img_source": "",
     "birth_date_written": "",
     "death_date_written": "",
-    "geschlecht": "",
+    "geschlecht": "m.",
     "funktionsbezeichnungen": "Beichtvater von Johann Wihelm von Pfalz-Neuburg ab 1702",
     "unidentifiziert": false,
     "titel": [
@@ -33234,9 +33234,9 @@
         "color": "yellow"
       }
     ],
-    "geistlich": null,
+    "geistlich": "geistlich",
     "Hofstaat": null,
-    "Konfession": null
+    "Konfession": "katholisch"
   },
   "1496": {
     "id": 1496,
@@ -33862,13 +33862,13 @@
     "img_source": "",
     "birth_date_written": "",
     "death_date_written": "",
-    "geschlecht": "",
+    "geschlecht": "f.",
     "funktionsbezeichnungen": "",
     "unidentifiziert": true,
     "titel": [],
-    "geistlich": null,
+    "geistlich": "geistlich",
     "Hofstaat": null,
-    "Konfession": null
+    "Konfession": "katholisch"
   },
   "1516": {
     "id": 1516,
@@ -34014,7 +34014,7 @@
     "img_source": "commonsMedia",
     "birth_date_written": "",
     "death_date_written": "",
-    "geschlecht": "",
+    "geschlecht": "m.",
     "funktionsbezeichnungen": "Nuntius in Köln (1703-1706), Nuntius in Wien (1709-1713)",
     "unidentifiziert": false,
     "titel": [
@@ -34024,9 +34024,9 @@
         "color": "darker-purple"
       }
     ],
-    "geistlich": null,
+    "geistlich": "geistlich",
     "Hofstaat": null,
-    "Konfession": null
+    "Konfession": "katholisch"
   },
   "1522": {
     "id": 1522,
@@ -34274,13 +34274,13 @@
     "img_source": "",
     "birth_date_written": "",
     "death_date_written": "",
-    "geschlecht": "",
+    "geschlecht": "m.",
     "funktionsbezeichnungen": "Fürsterzbischof von Salzburg 1687-1709",
     "unidentifiziert": false,
     "titel": [],
-    "geistlich": null,
+    "geistlich": "geistlich",
     "Hofstaat": null,
-    "Konfession": null
+    "Konfession": "katholisch"
   },
   "1532": {
     "id": 1532,
@@ -34454,13 +34454,13 @@
     "img_source": "",
     "birth_date_written": "",
     "death_date_written": "",
-    "geschlecht": "",
+    "geschlecht": "m.",
     "funktionsbezeichnungen": "Domherr in Eichstätt, Dompropst in Mainz",
     "unidentifiziert": false,
     "titel": [],
-    "geistlich": null,
+    "geistlich": "geistlich",
     "Hofstaat": null,
-    "Konfession": null
+    "Konfession": "katholisch"
   },
   "1538": {
     "id": 1538,
@@ -34482,13 +34482,13 @@
     "img_source": "",
     "birth_date_written": "",
     "death_date_written": "",
-    "geschlecht": "",
+    "geschlecht": "m.",
     "funktionsbezeichnungen": "",
     "unidentifiziert": true,
     "titel": [],
-    "geistlich": null,
+    "geistlich": "geistlich?",
     "Hofstaat": null,
-    "Konfession": null
+    "Konfession": "katholisch"
   },
   "1539": {
     "id": 1539,
@@ -34668,13 +34668,13 @@
     "img_source": "",
     "birth_date_written": "",
     "death_date_written": "",
-    "geschlecht": "",
+    "geschlecht": "m.",
     "funktionsbezeichnungen": "Titularbischof von Syrmien",
     "unidentifiziert": false,
     "titel": [],
-    "geistlich": null,
+    "geistlich": "geistlich",
     "Hofstaat": null,
-    "Konfession": null
+    "Konfession": "katholisch"
   },
   "1545": {
     "id": 1545,
@@ -34972,7 +34972,7 @@
     "img_source": "commonsMedia",
     "birth_date_written": "",
     "death_date_written": "",
-    "geschlecht": "",
+    "geschlecht": "m.",
     "funktionsbezeichnungen": "Erzbischof von Prag",
     "unidentifiziert": false,
     "titel": [
@@ -34982,9 +34982,9 @@
         "color": "purple"
       }
     ],
-    "geistlich": null,
+    "geistlich": "geistlich",
     "Hofstaat": null,
-    "Konfession": null
+    "Konfession": "katholisch"
   },
   "1555": {
     "id": 1555,
@@ -35006,7 +35006,7 @@
     "img_source": "commonsMedia",
     "birth_date_written": "",
     "death_date_written": "",
-    "geschlecht": "",
+    "geschlecht": "m.",
     "funktionsbezeichnungen": "Diplomat, Titularbischof von Spiga",
     "unidentifiziert": false,
     "titel": [
@@ -35016,9 +35016,9 @@
         "color": "dark-cyan"
       }
     ],
-    "geistlich": null,
+    "geistlich": "geistlich",
     "Hofstaat": null,
-    "Konfession": null
+    "Konfession": "katholisch"
   },
   "1556": {
     "id": 1556,
@@ -35068,13 +35068,13 @@
     "img_source": "commonsMedia",
     "birth_date_written": "",
     "death_date_written": "",
-    "geschlecht": "",
+    "geschlecht": "m.",
     "funktionsbezeichnungen": "",
     "unidentifiziert": false,
     "titel": [],
-    "geistlich": null,
+    "geistlich": "geistlich",
     "Hofstaat": null,
-    "Konfession": null
+    "Konfession": "katholisch"
   },
   "1558": {
     "id": 1558,
@@ -35180,13 +35180,13 @@
     "img_source": "",
     "birth_date_written": "",
     "death_date_written": "",
-    "geschlecht": "",
+    "geschlecht": "m.",
     "funktionsbezeichnungen": "Beichtvater von Elisabeth Christine von Braunschweig-Wolfenbüttel",
     "unidentifiziert": false,
     "titel": [],
-    "geistlich": null,
+    "geistlich": "geistlich",
     "Hofstaat": null,
-    "Konfession": null
+    "Konfession": "katholisch"
   },
   "1562": {
     "id": 1562,
@@ -35721,7 +35721,7 @@
     "img_source": "commonsMedia",
     "birth_date_written": "",
     "death_date_written": "",
-    "geschlecht": "",
+    "geschlecht": "m.",
     "funktionsbezeichnungen": "Fürstbischof von Wien 1702-1705, Fürsterzbischof von Salzburg 1709-1727",
     "unidentifiziert": false,
     "titel": [
@@ -35731,9 +35731,9 @@
         "color": "purple"
       }
     ],
-    "geistlich": null,
+    "geistlich": "geistlich",
     "Hofstaat": null,
-    "Konfession": null
+    "Konfession": "katholisch"
   },
   "1612": {
     "id": 1612,
@@ -35856,7 +35856,7 @@
     "img_source": "commonsMedia",
     "birth_date_written": "",
     "death_date_written": "",
-    "geschlecht": "",
+    "geschlecht": "m.",
     "funktionsbezeichnungen": "Großprior des Malteserordens in Frankreich, französischer Offizier",
     "unidentifiziert": false,
     "titel": [
@@ -35866,9 +35866,9 @@
         "color": "green"
       }
     ],
-    "geistlich": null,
+    "geistlich": "geistlich",
     "Hofstaat": null,
-    "Konfession": null
+    "Konfession": "katholisch"
   },
   "1616": {
     "id": 1616,
@@ -36069,7 +36069,7 @@
     "img_source": "",
     "birth_date_written": "",
     "death_date_written": "",
-    "geschlecht": "",
+    "geschlecht": "m.",
     "funktionsbezeichnungen": "Hofkaplan 1698-1705",
     "unidentifiziert": false,
     "titel": [
@@ -36079,9 +36079,9 @@
         "color": "yellow"
       }
     ],
-    "geistlich": null,
+    "geistlich": "geistlich",
     "Hofstaat": null,
-    "Konfession": null
+    "Konfession": "katholisch"
   },
   "1622": {
     "id": 1622,
@@ -36267,7 +36267,7 @@
     "img_source": "commonsMedia",
     "birth_date_written": "",
     "death_date_written": "",
-    "geschlecht": "",
+    "geschlecht": "f.",
     "funktionsbezeichnungen": "Äbtissin von Gandersheim",
     "unidentifiziert": false,
     "titel": [
@@ -36277,9 +36277,9 @@
         "color": "orange"
       }
     ],
-    "geistlich": null,
+    "geistlich": "geistlich",
     "Hofstaat": null,
-    "Konfession": null
+    "Konfession": "konvertiert (evangelisch A.B. zu katholisch)"
   },
   "1628": {
     "id": 1628,
@@ -36335,13 +36335,13 @@
     "img_source": "",
     "birth_date_written": "",
     "death_date_written": "",
-    "geschlecht": "",
+    "geschlecht": "m.",
     "funktionsbezeichnungen": "General des Theatinerordens",
     "unidentifiziert": true,
     "titel": [],
-    "geistlich": null,
+    "geistlich": "geistlich",
     "Hofstaat": null,
-    "Konfession": null
+    "Konfession": "katholisch"
   },
   "1630": {
     "id": 1630,
@@ -36431,13 +36431,13 @@
     "img_source": "",
     "birth_date_written": "",
     "death_date_written": "",
-    "geschlecht": "",
+    "geschlecht": "m.",
     "funktionsbezeichnungen": "",
     "unidentifiziert": true,
     "titel": [],
-    "geistlich": null,
+    "geistlich": "geistlich?",
     "Hofstaat": null,
-    "Konfession": null
+    "Konfession": "katholisch"
   },
   "1633": {
     "id": 1633,
@@ -36667,13 +36667,13 @@
     "img_source": "",
     "birth_date_written": "",
     "death_date_written": "",
-    "geschlecht": "",
+    "geschlecht": "m.",
     "funktionsbezeichnungen": "",
     "unidentifiziert": true,
     "titel": [],
-    "geistlich": null,
+    "geistlich": "geistlich",
     "Hofstaat": null,
-    "Konfession": null
+    "Konfession": "katholisch"
   },
   "1673": {
     "id": 1673,
@@ -36695,13 +36695,13 @@
     "img_source": "",
     "birth_date_written": "",
     "death_date_written": "",
-    "geschlecht": "",
+    "geschlecht": "f.",
     "funktionsbezeichnungen": "",
     "unidentifiziert": true,
     "titel": [],
-    "geistlich": null,
+    "geistlich": "geistlich",
     "Hofstaat": null,
-    "Konfession": null
+    "Konfession": "katholisch"
   },
   "1674": {
     "id": 1674,
@@ -37090,7 +37090,7 @@
     "img_source": "commonsMedia",
     "birth_date_written": "",
     "death_date_written": "",
-    "geschlecht": "",
+    "geschlecht": "f.",
     "funktionsbezeichnungen": "Fürstäbtissin von Essen und Thorn",
     "unidentifiziert": false,
     "titel": [
@@ -37100,9 +37100,9 @@
         "color": "light-green"
       }
     ],
-    "geistlich": null,
+    "geistlich": "geistlich",
     "Hofstaat": null,
-    "Konfession": null
+    "Konfession": "evangelisch A.B."
   },
   "1687": {
     "id": 1687,
@@ -37356,13 +37356,13 @@
     "img_source": "",
     "birth_date_written": "",
     "death_date_written": "",
-    "geschlecht": "",
+    "geschlecht": "m.",
     "funktionsbezeichnungen": "Deutschordensritter",
     "unidentifiziert": false,
     "titel": [],
-    "geistlich": null,
+    "geistlich": "geistlich",
     "Hofstaat": null,
-    "Konfession": null
+    "Konfession": "katholisch"
   },
   "1695": {
     "id": 1695,
@@ -37474,13 +37474,13 @@
     "img_source": "",
     "birth_date_written": "",
     "death_date_written": "",
-    "geschlecht": "",
+    "geschlecht": "m.",
     "funktionsbezeichnungen": "",
     "unidentifiziert": true,
     "titel": [],
-    "geistlich": null,
+    "geistlich": "geistlich",
     "Hofstaat": null,
-    "Konfession": null
+    "Konfession": "katholisch"
   },
   "1700": {
     "id": 1700,
@@ -37536,13 +37536,13 @@
     "img_source": "",
     "birth_date_written": "",
     "death_date_written": "",
-    "geschlecht": "",
+    "geschlecht": "m.",
     "funktionsbezeichnungen": "",
     "unidentifiziert": false,
     "titel": [],
-    "geistlich": null,
+    "geistlich": "geistlich",
     "Hofstaat": null,
-    "Konfession": null
+    "Konfession": "katholisch"
   },
   "1702": {
     "id": 1702,
@@ -38314,13 +38314,13 @@
     "img_source": "commonsMedia",
     "birth_date_written": "",
     "death_date_written": "",
-    "geschlecht": "",
+    "geschlecht": "m.",
     "funktionsbezeichnungen": "Bischof von Konstanz, Koadjutor des Bistums Augsburg",
     "unidentifiziert": false,
     "titel": [],
-    "geistlich": null,
+    "geistlich": "geistlich",
     "Hofstaat": null,
-    "Konfession": null
+    "Konfession": "katholisch"
   },
   "1728": {
     "id": 1728,
@@ -39017,13 +39017,13 @@
     "img_source": "commonsMedia",
     "birth_date_written": "",
     "death_date_written": "",
-    "geschlecht": "",
+    "geschlecht": "f.",
     "funktionsbezeichnungen": "Äbtissin des Klosters in Ágreda",
     "unidentifiziert": false,
     "titel": [],
-    "geistlich": null,
+    "geistlich": "geistlich",
     "Hofstaat": null,
-    "Konfession": null
+    "Konfession": "katholisch"
   },
   "1753": {
     "id": 1753,
@@ -39113,13 +39113,13 @@
     "img_source": "",
     "birth_date_written": "",
     "death_date_written": "",
-    "geschlecht": "",
+    "geschlecht": "m.",
     "funktionsbezeichnungen": "",
     "unidentifiziert": true,
     "titel": [],
-    "geistlich": null,
+    "geistlich": "geistlich",
     "Hofstaat": null,
-    "Konfession": null
+    "Konfession": "katholisch"
   },
   "1756": {
     "id": 1756,
@@ -39208,7 +39208,7 @@
     "img_source": "commonsMedia",
     "birth_date_written": "",
     "death_date_written": "",
-    "geschlecht": "",
+    "geschlecht": "m.",
     "funktionsbezeichnungen": "Erzbischof von Larissa",
     "unidentifiziert": false,
     "titel": [
@@ -39218,9 +39218,9 @@
         "color": "darker-purple"
       }
     ],
-    "geistlich": null,
+    "geistlich": "geistlich",
     "Hofstaat": null,
-    "Konfession": null
+    "Konfession": "katholisch"
   },
   "1759": {
     "id": 1759,
@@ -39688,13 +39688,13 @@
     "img_source": "",
     "birth_date_written": "",
     "death_date_written": "",
-    "geschlecht": "",
+    "geschlecht": "m.",
     "funktionsbezeichnungen": "",
     "unidentifiziert": true,
     "titel": [],
-    "geistlich": null,
+    "geistlich": "geistlich",
     "Hofstaat": null,
-    "Konfession": null
+    "Konfession": "katholisch"
   },
   "1775": {
     "id": 1775,
@@ -39778,13 +39778,13 @@
     "img_source": "commonsMedia",
     "birth_date_written": "",
     "death_date_written": "",
-    "geschlecht": "",
+    "geschlecht": "m.",
     "funktionsbezeichnungen": "Bischof von Laibach, Erzbischof von Prag",
     "unidentifiziert": false,
     "titel": [],
-    "geistlich": null,
+    "geistlich": "geistlich",
     "Hofstaat": null,
-    "Konfession": null
+    "Konfession": "katholisch"
   },
   "1778": {
     "id": 1778,
@@ -39924,13 +39924,13 @@
     "img_source": "commonsMedia",
     "birth_date_written": "",
     "death_date_written": "",
-    "geschlecht": "",
+    "geschlecht": "m.",
     "funktionsbezeichnungen": "Fürstabt von Kempten, Reichshofrat",
     "unidentifiziert": false,
     "titel": [],
-    "geistlich": null,
+    "geistlich": "geistlich",
     "Hofstaat": null,
-    "Konfession": null
+    "Konfession": "katholisch"
   },
   "1815": {
     "id": 1815,
@@ -40104,13 +40104,13 @@
     "img_source": "",
     "birth_date_written": "",
     "death_date_written": "",
-    "geschlecht": "",
+    "geschlecht": "m.",
     "funktionsbezeichnungen": "",
     "unidentifiziert": true,
     "titel": [],
-    "geistlich": null,
+    "geistlich": "geistlich",
     "Hofstaat": null,
-    "Konfession": null
+    "Konfession": "katholisch"
   },
   "1822": {
     "id": 1822,
@@ -40768,7 +40768,7 @@
     "img_source": "",
     "birth_date_written": "",
     "death_date_written": "",
-    "geschlecht": "",
+    "geschlecht": "m.",
     "funktionsbezeichnungen": "Beichtvater",
     "unidentifiziert": false,
     "titel": [
@@ -40778,9 +40778,9 @@
         "color": "yellow"
       }
     ],
-    "geistlich": null,
+    "geistlich": "geistlich",
     "Hofstaat": null,
-    "Konfession": null
+    "Konfession": "katholisch"
   },
   "1880": {
     "id": 1880,
@@ -41809,13 +41809,13 @@
     "img_source": "commonsMedia",
     "birth_date_written": "",
     "death_date_written": "",
-    "geschlecht": "",
+    "geschlecht": "m.",
     "funktionsbezeichnungen": "Bischof von Ancona",
     "unidentifiziert": false,
     "titel": [],
-    "geistlich": null,
+    "geistlich": "geistlich",
     "Hofstaat": null,
-    "Konfession": null
+    "Konfession": "katholisch"
   },
   "1952": {
     "id": 1952,
@@ -42871,13 +42871,13 @@
     "img_source": "",
     "birth_date_written": "",
     "death_date_written": "",
-    "geschlecht": "",
+    "geschlecht": "m.",
     "funktionsbezeichnungen": "",
     "unidentifiziert": true,
     "titel": [],
-    "geistlich": null,
+    "geistlich": "geistlich",
     "Hofstaat": null,
-    "Konfession": null
+    "Konfession": "katholisch"
   },
   "2154": {
     "id": 2154,
@@ -42899,13 +42899,13 @@
     "img_source": "",
     "birth_date_written": "",
     "death_date_written": "",
-    "geschlecht": "",
+    "geschlecht": "m.",
     "funktionsbezeichnungen": "",
     "unidentifiziert": true,
     "titel": [],
-    "geistlich": null,
+    "geistlich": "geistlich",
     "Hofstaat": null,
-    "Konfession": null
+    "Konfession": "katholisch"
   },
   "2155": {
     "id": 2155,
@@ -43398,13 +43398,13 @@
     "img_source": "",
     "birth_date_written": "",
     "death_date_written": "",
-    "geschlecht": "",
+    "geschlecht": "m.",
     "funktionsbezeichnungen": "",
     "unidentifiziert": true,
     "titel": [],
-    "geistlich": null,
+    "geistlich": "geistlich",
     "Hofstaat": null,
-    "Konfession": null
+    "Konfession": "katholisch"
   },
   "2172": {
     "id": 2172,
@@ -43811,6 +43811,264 @@
     "geschlecht": "",
     "funktionsbezeichnungen": "",
     "unidentifiziert": false,
+    "titel": [],
+    "geistlich": "",
+    "Hofstaat": "",
+    "Konfession": ""
+  },
+  "2189": {
+    "id": 2189,
+    "order": "1511.00000000000000000000",
+    "name": "",
+    "gnd": "",
+    "other_url": "",
+    "emt_id": "emt_person_id__2189",
+    "internal_comment": "",
+    "color": "",
+    "lebensdaten": "",
+    "ndb": "",
+    "year_of_birth": null,
+    "year_of_death": null,
+    "wikidata_url": "",
+    "wikidata_enriched": false,
+    "img_name": "",
+    "img_fetched": false,
+    "img_source": "",
+    "birth_date_written": "",
+    "death_date_written": "",
+    "geschlecht": "",
+    "funktionsbezeichnungen": "",
+    "unidentifiziert": false,
+    "titel": [],
+    "geistlich": "",
+    "Hofstaat": "",
+    "Konfession": ""
+  },
+  "2190": {
+    "id": 2190,
+    "order": "1512.00000000000000000000",
+    "name": "Lersner, Heinrich Ludwig",
+    "gnd": "https://d-nb.info/gnd/120752093",
+    "other_url": "",
+    "emt_id": "emt_person_id__2190",
+    "internal_comment": "",
+    "color": "",
+    "lebensdaten": "",
+    "ndb": "",
+    "year_of_birth": "1629",
+    "year_of_death": "1696",
+    "wikidata_url": "http://www.wikidata.org/entity/Q139163456",
+    "wikidata_enriched": true,
+    "img_name": "",
+    "img_fetched": true,
+    "img_source": "",
+    "birth_date_written": "",
+    "death_date_written": "",
+    "geschlecht": "",
+    "funktionsbezeichnungen": "Bürgermeister von Frankfurt",
+    "unidentifiziert": false,
+    "titel": [],
+    "geistlich": "",
+    "Hofstaat": "",
+    "Konfession": ""
+  },
+  "2191": {
+    "id": 2191,
+    "order": "1513.00000000000000000000",
+    "name": "Tastungen, Johann Conrad Philipp Ignatius von",
+    "gnd": "https://d-nb.info/gnd/1067332790",
+    "other_url": "",
+    "emt_id": "emt_person_id__2191",
+    "internal_comment": "Lebensdaten nach https://de.wikipedia.org/wiki/Tastungen_(Adelsgeschlecht) ; Gschließer S. 338 bestätigt Ämter. JW nennt ihn allerdings Großhofmeister des Bischofs von Würzburg",
+    "color": "",
+    "lebensdaten": "",
+    "ndb": "",
+    "year_of_birth": null,
+    "year_of_death": "1718",
+    "wikidata_url": "http://www.wikidata.org/entity/Q31842657",
+    "wikidata_enriched": true,
+    "img_name": "",
+    "img_fetched": true,
+    "img_source": "",
+    "birth_date_written": "",
+    "death_date_written": "",
+    "geschlecht": "m.",
+    "funktionsbezeichnungen": "Reichshofrat, Obersthofmarschall des Bischofs von Würzburg",
+    "unidentifiziert": false,
+    "titel": [],
+    "geistlich": "",
+    "Hofstaat": "",
+    "Konfession": "katholisch"
+  },
+  "2192": {
+    "id": 2192,
+    "order": "1514.00000000000000000000",
+    "name": "Friedrich V. von Dänemark",
+    "gnd": "https://d-nb.info/gnd/119546256",
+    "other_url": "",
+    "emt_id": "emt_person_id__2192",
+    "internal_comment": "",
+    "color": "",
+    "lebensdaten": "",
+    "ndb": "https://www.deutsche-biographie.de/pnd119546256.html#indexcontent",
+    "year_of_birth": "1671",
+    "year_of_death": "1730",
+    "wikidata_url": "http://www.wikidata.org/entity/Q161059",
+    "wikidata_enriched": true,
+    "img_name": "Balthasar Denner - Portrait of King Frederik IV of Denmark-Norway - NG.M.00176 - National Museum of Art, Architecture and Design.jpg",
+    "img_fetched": true,
+    "img_source": "commonsMedia",
+    "birth_date_written": "",
+    "death_date_written": "",
+    "geschlecht": "",
+    "funktionsbezeichnungen": "",
+    "unidentifiziert": false,
+    "titel": [],
+    "geistlich": "",
+    "Hofstaat": "",
+    "Konfession": ""
+  },
+  "2193": {
+    "id": 2193,
+    "order": "1515.00000000000000000000",
+    "name": "Guadagni",
+    "gnd": "",
+    "other_url": "",
+    "emt_id": "emt_person_id__2193",
+    "internal_comment": "marchese . Wikipedia zur Familie: Nel XVIII secolo Ascanio Guadagni fu generale per l'imperatore d'Austria, Maresciallo, governatore della Bassa Ungheria e comandante militare del Tirolo. Ascanio (1685-1757) war später kaiserlicher Feldmarschall (ist in Schmidt-Brentano, kaiserl. Generale), scheint aber zu jung. Giovambattista Guadagni dell’Opera (1668-1726) war laut einer Familienseite https://guadagnifamily.com/archives/images/sections145-148.pdf ab 1712 (Brief ist aber 1711) im Dienst von Cosimo III. von Toscana (\"had been elected senator and superintendant of the Taxes of the Grand Duchy of Tuscany in 1712\") - der Guadagni im Brief wird aber sowieso als kaiserlicher Minister bezeichnet.  Schmöker zur Familie: https://babel.hathitrust.org/cgi/pt?id=nnc1.0040091996&view=1up&seq=15",
+    "color": "",
+    "lebensdaten": "",
+    "ndb": "",
+    "year_of_birth": null,
+    "year_of_death": null,
+    "wikidata_url": "",
+    "wikidata_enriched": false,
+    "img_name": "",
+    "img_fetched": false,
+    "img_source": "",
+    "birth_date_written": "",
+    "death_date_written": "",
+    "geschlecht": "",
+    "funktionsbezeichnungen": "",
+    "unidentifiziert": true,
+    "titel": [
+      {
+        "id": 19709,
+        "value": "Marchese",
+        "color": "darker-orange"
+      }
+    ],
+    "geistlich": "",
+    "Hofstaat": "",
+    "Konfession": ""
+  },
+  "2194": {
+    "id": 2194,
+    "order": "1516.00000000000000000000",
+    "name": "Sekretär (des kaiserlichen Kriegskommissariats?) Landini",
+    "gnd": "",
+    "other_url": "",
+    "emt_id": "emt_person_id__2194",
+    "internal_comment": "",
+    "color": "",
+    "lebensdaten": "",
+    "ndb": "",
+    "year_of_birth": null,
+    "year_of_death": null,
+    "wikidata_url": "",
+    "wikidata_enriched": false,
+    "img_name": "",
+    "img_fetched": false,
+    "img_source": "",
+    "birth_date_written": "",
+    "death_date_written": "",
+    "geschlecht": "",
+    "funktionsbezeichnungen": "",
+    "unidentifiziert": true,
+    "titel": [],
+    "geistlich": "",
+    "Hofstaat": "",
+    "Konfession": ""
+  },
+  "2195": {
+    "id": 2195,
+    "order": "1517.00000000000000000000",
+    "name": "Oultremont, Jean-Edmond",
+    "gnd": "",
+    "other_url": "",
+    "emt_id": "emt_person_id__2195",
+    "internal_comment": "Todesjahr, Vorname und Namensschreibung nach Hersche, Domkapitel S. 260 (wo er der einzige zeitlich Passende Domherr des Namens ist).",
+    "color": "",
+    "lebensdaten": "",
+    "ndb": "",
+    "year_of_birth": null,
+    "year_of_death": "1719",
+    "wikidata_url": "https://www.wikidata.org/wiki/Q3065649",
+    "wikidata_enriched": false,
+    "img_name": "",
+    "img_fetched": true,
+    "img_source": "",
+    "birth_date_written": "",
+    "death_date_written": "",
+    "geschlecht": "m.",
+    "funktionsbezeichnungen": "Domherr in Lüttich",
+    "unidentifiziert": false,
+    "titel": [],
+    "geistlich": "geistlich",
+    "Hofstaat": "",
+    "Konfession": "katholisch"
+  },
+  "2196": {
+    "id": 2196,
+    "order": "1518.00000000000000000000",
+    "name": "Sanseverino d'Aragona, Ottavio",
+    "gnd": "https://d-nb.info/gnd/121160181",
+    "other_url": "",
+    "emt_id": "emt_person_id__2196",
+    "internal_comment": "",
+    "color": "",
+    "lebensdaten": "",
+    "ndb": "",
+    "year_of_birth": null,
+    "year_of_death": null,
+    "wikidata_url": "http://www.wikidata.org/entity/Q751988",
+    "wikidata_enriched": true,
+    "img_name": "",
+    "img_fetched": true,
+    "img_source": "",
+    "birth_date_written": "",
+    "death_date_written": "",
+    "geschlecht": "",
+    "funktionsbezeichnungen": "Diplomat",
+    "unidentifiziert": true,
+    "titel": [],
+    "geistlich": "",
+    "Hofstaat": "",
+    "Konfession": ""
+  },
+  "2197": {
+    "id": 2197,
+    "order": "1519.00000000000000000000",
+    "name": "Völckern, Georg Ludwig von",
+    "gnd": "",
+    "other_url": "",
+    "emt_id": "emt_person_id__2197",
+    "internal_comment": "Bittner, Repertorium 123",
+    "color": "",
+    "lebensdaten": "",
+    "ndb": "",
+    "year_of_birth": null,
+    "year_of_death": null,
+    "wikidata_url": "",
+    "wikidata_enriched": false,
+    "img_name": "",
+    "img_fetched": false,
+    "img_source": "",
+    "birth_date_written": "",
+    "death_date_written": "",
+    "geschlecht": "",
+    "funktionsbezeichnungen": "kaiserlicher Resident in Frankfurt 1711",
+    "unidentifiziert": true,
     "titel": [],
     "geistlich": "",
     "Hofstaat": "",

@@ -272,6 +272,15 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                <org xml:id="emt_institution_id__261">
                   <orgName>Oberpfälzische Regierung</orgName>
                </org>
+               <org xml:id="emt_institution_id__262">
+                  <orgName>Magistrat von Frankfurt</orgName>
+               </org>
+               <org xml:id="emt_institution_id__263">
+                  <orgName>Niedersächsischer Kreis</orgName>
+               </org>
+               <org xml:id="emt_institution_id__264">
+                  <orgName>kaiserliches Kriegskommissariat</orgName>
+               </org>
             </listOrg>
          </div>
       </body>

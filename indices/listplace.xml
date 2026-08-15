@@ -2939,6 +2939,40 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                <place xml:id="emt_place_id__967">
                   <placeName>Schönhausen</placeName>
                </place>
+               <place xml:id="emt_place_id__968">
+                  <placeName>La Petite-Pierre / Lützelstein / Lìtzelstän</placeName>
+                  <location type="coords">
+                     <geo>48.85875 7.321390</geo>
+                  </location>
+                  <idno type="GEONAMES">https://sws.geonames.org/3007352/</idno>
+               </place>
+               <place xml:id="emt_place_id__969">
+                  <placeName>Guttenberg, Burg</placeName>
+                  <idno type="GND">https://d-nb.info/gnd/4673163-5</idno>
+               </place>
+               <place xml:id="emt_place_id__970">
+                  <placeName>Fulda, Reichsabtei</placeName>
+                  <idno type="GND">https://d-nb.info/gnd/4074038-9</idno>
+               </place>
+               <place xml:id="emt_place_id__971">
+                  <placeName>Livland</placeName>
+               </place>
+               <place xml:id="emt_place_id__972">
+                  <placeName>Holstein</placeName>
+               </place>
+               <place xml:id="emt_place_id__973">
+                  <placeName>Lausitz</placeName>
+               </place>
+               <place xml:id="emt_place_id__974">
+                  <placeName>Capestrano</placeName>
+                  <location type="coords">
+                     <geo>42.26844 13.765800</geo>
+                  </location>
+                  <idno type="GEONAMES">https://sws.geonames.org/6538842/</idno>
+               </place>
+               <place xml:id="emt_place_id__975">
+                  <placeName>Amberg</placeName>
+               </place>
             </listPlace>
          </div>
       </body>
