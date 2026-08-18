@@ -2417,7 +2417,7 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                      <roleName>Graf</roleName>
                   </persName>
                   <persName type="function">
-                     <roleName>Diplomat, u.a. kaiserlicher Gesandter in Spanien</roleName>
+                     <roleName>Diplomat, kaiserlicher Gesandter in Spanien 1697-98</roleName>
                   </persName>
                   <birth>
                      <date notBefore="1637-01-01" notAfter="1637-12-31">1637</date>
@@ -2900,7 +2900,7 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                   <idno type="URL">https://de.wikisource.org/wiki/BLK%C3%96:Wangen_die_Freiherren_von,_Genealogie</idno>
                </person>
                <person xml:id="emt_person_id__209">
-                  <persName type="name">Isidorus OFM Carm</persName>
+                  <persName type="name">Isidorus</persName>
                   <persName type="title">
                      <roleName>Pater</roleName>
                   </persName>
@@ -7297,7 +7297,7 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                   <persName type="name">Giulia 1687</persName>
                </person>
                <person xml:id="emt_person_id__634">
-                  <persName type="name">Keisgen, NN., Amme Eleonora Magdalenas</persName>
+                  <persName type="name">Keisgens, NN., Amme Eleonora Magdalenas</persName>
                </person>
                <person xml:id="emt_person_id__635">
                   <persName type="name">Galen, Christoph Heinrich von</persName>
@@ -7414,6 +7414,11 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                   <persName type="function">
                      <roleName>Reichshofrat, Diplomat</roleName>
                   </persName>
+                  <birth>
+                     <date notBefore="1619-01-01" notAfter="1619-12-31">1619</date>
+                  </birth>
+                  <idno type="GND">https://d-nb.info/gnd/129836893</idno>
+                  <idno type="WIKIDATA">http://www.wikidata.org/entity/Q131693248</idno>
                   <idno type="URL">https://reichshofratsakten.de/wp-content/uploads/2016/11/Reichshofr%C3%A4tePdf_%C3%9Cberschriften.pdf</idno>
                </person>
                <person xml:id="emt_person_id__644">
@@ -7488,9 +7493,21 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                </person>
                <person xml:id="emt_person_id__649">
                   <persName type="name">Beer, Aaron</persName>
+                  <persName type="function">
+                     <roleName>kurpfälzischer Hofresident in Frankfurt am Main, Finanzmann, Rabbiner</roleName>
+                  </persName>
+                  <death>
+                     <date notBefore="1740-01-01" notAfter="1740-12-31">1740</date>
+                  </death>
+                  <idno type="GND">https://d-nb.info/gnd/1034668706</idno>
+                  <idno type="NDB">https://www.deutsche-biographie.de/pnd1034668706.html#indexcontent</idno>
+                  <idno type="WIKIDATA">http://www.wikidata.org/entity/Q45036184</idno>
                </person>
                <person xml:id="emt_person_id__650">
                   <persName type="name">Mercy, Peter Ernst von</persName>
+                  <persName type="title">
+                     <roleName>Graf</roleName>
+                  </persName>
                   <persName type="function">
                      <roleName>Feldmarschallleutnant</roleName>
                   </persName>
@@ -7500,6 +7517,9 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                   <death>
                      <date notBefore="1686-01-01" notAfter="1686-12-31">1686</date>
                   </death>
+                  <idno type="GND">https://d-nb.info/gnd/137090498</idno>
+                  <idno type="NDB">https://www.deutsche-biographie.de/sfz61894.html#indexcontent</idno>
+                  <idno type="WIKIDATA">http://www.wikidata.org/entity/Q94989527</idno>
                   <idno type="URL">https://de.wikipedia.org/wiki/Liste_der_kaiserlichen_Generale_der_Fr%C3%BChen_Neuzeit/M</idno>
                </person>
                <person xml:id="emt_person_id__651">
@@ -7735,6 +7755,7 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                      <date notBefore="1746-01-01" notAfter="1746-12-31">1746</date>
                   </death>
                   <idno type="GND">https://d-nb.info/gnd/119186640</idno>
+                  <idno type="NDB">https://www.deutsche-biographie.de/pnd119186640.html#indexcontent</idno>
                   <idno type="WIKIDATA">http://www.wikidata.org/entity/Q170467</idno>
                   <figure>
                      <graphic url="emt_person_id__674.jpg"/>
@@ -7796,7 +7817,7 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                <person xml:id="emt_person_id__681">
                   <persName type="name">Draghi, Antonio</persName>
                   <persName type="function">
-                     <roleName>Komponist</roleName>
+                     <roleName>Hofkapellmeister, Komponist</roleName>
                   </persName>
                   <birth>
                      <date notBefore="1634-01-01" notAfter="1634-12-31">1634</date>
@@ -7805,6 +7826,7 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                      <date notBefore="1700-01-01" notAfter="1700-12-31">1700</date>
                   </death>
                   <idno type="GND">https://d-nb.info/gnd/118527169</idno>
+                  <idno type="NDB">https://www.deutsche-biographie.de/sfz11784.html#ndbcontent</idno>
                   <idno type="WIKIDATA">http://www.wikidata.org/entity/Q601855</idno>
                   <idno type="URL">https://dx.doi.org/10.1553/0x0001cbf9</idno>
                </person>
@@ -7833,6 +7855,7 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                      <roleName>Sänger</roleName>
                   </persName>
                   <idno type="GND">https://d-nb.info/gnd/1044058781</idno>
+                  <idno type="NDB">https://www.deutsche-biographie.de/pnd1044058781.html#indexcontent</idno>
                   <idno type="URL">https://www.musiklexikon.ac.at/ml/musik_S/Speroni_Giovanni.xml</idno>
                </person>
                <person xml:id="emt_person_id__689">
@@ -7900,9 +7923,13 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                   <persName type="function">
                      <roleName>Gesandter der Generalstaaten (Niederlande) in Wien</roleName>
                   </persName>
+                  <birth>
+                     <date notBefore="1616-01-01" notAfter="1616-12-31">1616</date>
+                  </birth>
                   <death>
                      <date notBefore="1692-01-01" notAfter="1692-12-31">1692</date>
                   </death>
+                  <idno type="GND">https://d-nb.info/gnd/143512870</idno>
                   <idno type="URL">http://www.biografischportaal.nl/persoon/33019680</idno>
                </person>
                <person xml:id="emt_person_id__699">
@@ -10318,7 +10345,7 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                   <persName type="name">Castilla, Frau</persName>
                </person>
                <person xml:id="emt_person_id__901">
-                  <persName type="name">Keisgen, Katharina Eva, vereh. Groß</persName>
+                  <persName type="name">Keisgens, Katharina Eva, vereh. Groß</persName>
                </person>
                <person xml:id="emt_person_id__902">
                   <persName type="name">Groß, Johann</persName>

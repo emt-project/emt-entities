@@ -1084,16 +1084,6 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                         <idno type="EMT">emt_person_id__126</idno>
                      </person>
                  </listPerson>
-                 <listPlace type="took_place">
-                     <place>
-                        <placeName>Krakau / Kraków</placeName>
-                        <location type="coords">
-                           <geo>50.06143 19.936580</geo>
-                        </location>
-                        <idno type="GEONAMES">https://sws.geonames.org/3094802/</idno>
-                        <idno type="EMT">emt_place_id__99</idno>
-                     </place>
-                 </listPlace>
                </event>
                <event xml:id="emt_event_id__43" notBefore="1663-04-16" notAfter="1663-04-16">
                   <desc>

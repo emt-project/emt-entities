@@ -494,21 +494,6 @@
     "wikidata_url": "",
     "unidentifiziert": false
   },
-  "35": {
-    "id": 35,
-    "order": "35.00000000000000000000",
-    "name": "Maastricht",
-    "geonames": "https://www.geonames.org/2751283/maastricht.html",
-    "emt_id": "emt_place_id__35",
-    "place_type": null,
-    "lat": "50.84833",
-    "long": "5.688890",
-    "comments intern": null,
-    "gnd": "",
-    "alternative_name": null,
-    "wikidata_url": "",
-    "unidentifiziert": false
-  },
   "36": {
     "id": 36,
     "order": "36.00000000000000000000",
@@ -644,21 +629,6 @@
     "wikidata_url": "",
     "unidentifiziert": false
   },
-  "45": {
-    "id": 45,
-    "order": "45.00000000000000000000",
-    "name": "Pisa",
-    "geonames": "https://www.geonames.org/3170647/pisa.html",
-    "emt_id": "emt_place_id__45",
-    "place_type": null,
-    "lat": "43.70853",
-    "long": "10.403600",
-    "comments intern": null,
-    "gnd": "",
-    "alternative_name": null,
-    "wikidata_url": "",
-    "unidentifiziert": false
-  },
   "46": {
     "id": 46,
     "order": "46.00000000000000000000",
@@ -714,21 +684,6 @@
     "lat": "50.92500",
     "long": "12.235000",
     "comments intern": "prüfen - wirklich Ort in Thüringen? oder böhmisches Reichstadt gemeint?",
-    "gnd": "",
-    "alternative_name": null,
-    "wikidata_url": "",
-    "unidentifiziert": false
-  },
-  "51": {
-    "id": 51,
-    "order": "51.00000000000000000000",
-    "name": "Sagan / Żagań",
-    "geonames": "https://www.geonames.org/3080944/zagan.html",
-    "emt_id": "emt_place_id__51",
-    "place_type": null,
-    "lat": "51.61759",
-    "long": "15.314860",
-    "comments intern": null,
     "gnd": "",
     "alternative_name": null,
     "wikidata_url": "",
@@ -869,21 +824,6 @@
     "wikidata_url": "",
     "unidentifiziert": false
   },
-  "61": {
-    "id": 61,
-    "order": "61.00000000000000000000",
-    "name": "Welz",
-    "geonames": "https://www.geonames.org/2811359/welz.html",
-    "emt_id": "emt_place_id__61",
-    "place_type": null,
-    "lat": "50.96005",
-    "long": "6.258600",
-    "comments intern": null,
-    "gnd": "",
-    "alternative_name": null,
-    "wikidata_url": "",
-    "unidentifiziert": false
-  },
   "63": {
     "id": 63,
     "order": "63.00000000000000000000",
@@ -959,36 +899,6 @@
     "wikidata_url": "",
     "unidentifiziert": false
   },
-  "70": {
-    "id": 70,
-    "order": "70.00000000000000000000",
-    "name": "Traunsee",
-    "geonames": "https://www.geonames.org/2763413/traunsee.html",
-    "emt_id": "emt_place_id__70",
-    "place_type": null,
-    "lat": "47.85000",
-    "long": "13.800000",
-    "comments intern": null,
-    "gnd": "",
-    "alternative_name": null,
-    "wikidata_url": "",
-    "unidentifiziert": false
-  },
-  "71": {
-    "id": 71,
-    "order": "71.00000000000000000000",
-    "name": "o.O.",
-    "geonames": "",
-    "emt_id": "emt_place_id__71",
-    "place_type": null,
-    "lat": null,
-    "long": null,
-    "comments intern": null,
-    "gnd": "",
-    "alternative_name": null,
-    "wikidata_url": "",
-    "unidentifiziert": false
-  },
   "72": {
     "id": 72,
     "order": "72.00000000000000000000",
@@ -1037,7 +947,7 @@
   "75": {
     "id": 75,
     "order": "75.00000000000000000000",
-    "name": "Sizilien, Königreich",
+    "name": "Sizilien",
     "geonames": "https://www.geonames.org/2523118/sicily.html",
     "emt_id": "emt_place_id__75",
     "place_type": null,
@@ -1127,7 +1037,7 @@
   "81": {
     "id": 81,
     "order": "81.00000000000000000000",
-    "name": "Polen, Königreich",
+    "name": "Polen",
     "geonames": "",
     "emt_id": "emt_place_id__81",
     "place_type": null,
@@ -1349,21 +1259,6 @@
     "wikidata_url": "",
     "unidentifiziert": false
   },
-  "99": {
-    "id": 99,
-    "order": "97.00000000000000000000",
-    "name": "Krakau / Kraków",
-    "geonames": "https://www.geonames.org/3094802/krakow.html",
-    "emt_id": "emt_place_id__99",
-    "place_type": null,
-    "lat": "50.06143",
-    "long": "19.936580",
-    "comments intern": "",
-    "gnd": "",
-    "alternative_name": null,
-    "wikidata_url": "",
-    "unidentifiziert": false
-  },
   "100": {
     "id": 100,
     "order": "98.00000000000000000000",
@@ -1433,7 +1328,7 @@
     "place_type": null,
     "lat": "40.62862",
     "long": "-3.161850",
-    "comments intern": "",
+    "comments intern": "keine Eintrag gefunden ??",
     "gnd": "",
     "alternative_name": null,
     "wikidata_url": "",
@@ -1448,7 +1343,7 @@
     "place_type": null,
     "lat": "50.42528",
     "long": "14.261750",
-    "comments intern": "",
+    "comments intern": "kein Eintrag gefunden ??",
     "gnd": "",
     "alternative_name": null,
     "wikidata_url": "",
@@ -1868,7 +1763,7 @@
     "place_type": null,
     "lat": "45.12554",
     "long": "20.239140",
-    "comments intern": "",
+    "comments intern": "kein Eintrag gefunden ??",
     "gnd": "",
     "alternative_name": null,
     "wikidata_url": "",
@@ -1913,7 +1808,7 @@
     "place_type": null,
     "lat": "45.20285",
     "long": "19.933730",
-    "comments intern": "",
+    "comments intern": "kein Eintrag gefunden??",
     "gnd": "",
     "alternative_name": null,
     "wikidata_url": "",
@@ -2042,7 +1937,7 @@
   "145": {
     "id": 145,
     "order": "143.00000000000000000000",
-    "name": "Niederösterreich",
+    "name": "Niederösterreich / Land unter der Enns",
     "geonames": "https://www.geonames.org/2770542/niederoesterreich.html",
     "emt_id": "emt_place_id__145",
     "place_type": null,
@@ -2504,21 +2399,6 @@
     "wikidata_url": "",
     "unidentifiziert": false
   },
-  "176": {
-    "id": 176,
-    "order": "174.00000000000000000000",
-    "name": "Persien",
-    "geonames": "",
-    "emt_id": "emt_place_id__176",
-    "place_type": null,
-    "lat": null,
-    "long": null,
-    "comments intern": "",
-    "gnd": "https://d-nb.info/gnd/4027653-3",
-    "alternative_name": "",
-    "wikidata_url": "",
-    "unidentifiziert": false
-  },
   "177": {
     "id": 177,
     "order": "175.00000000000000000000",
@@ -2927,7 +2807,7 @@
   "205": {
     "id": 205,
     "order": "203.00000000000000000000",
-    "name": "Venedig (Republik)",
+    "name": "Venedig, Republik",
     "geonames": "",
     "emt_id": "emt_place_id__205",
     "place_type": null,
@@ -3347,7 +3227,7 @@
   "236": {
     "id": 236,
     "order": "231.00000000000000000000",
-    "name": "Heimbach im Herzogtum Jülich",
+    "name": "Heimbach",
     "geonames": "https://www.geonames.org/2907459/heimbach.html",
     "emt_id": "emt_place_id__236",
     "place_type": null,
@@ -3377,7 +3257,7 @@
   "238": {
     "id": 238,
     "order": "233.00000000000000000000",
-    "name": "Rom (Stadt)",
+    "name": "Rom, Stadt",
     "geonames": "https://www.geonames.org/3169070/rome.html",
     "emt_id": "emt_place_id__238",
     "place_type": null,
@@ -3392,7 +3272,7 @@
   "239": {
     "id": 239,
     "order": "234.00000000000000000000",
-    "name": "Olmütz (Olomouc), Bistum",
+    "name": "Olmütz, Bistum",
     "geonames": "",
     "emt_id": "emt_place_id__239",
     "place_type": null,
@@ -3452,7 +3332,7 @@
   "243": {
     "id": 243,
     "order": "238.00000000000000000000",
-    "name": "Vereinigte Niederlande / Generalstaaten, Republik",
+    "name": "Vereinigte Niederlande / Generalstaaten",
     "geonames": "",
     "emt_id": "emt_place_id__243",
     "place_type": null,
@@ -3572,7 +3452,7 @@
   "251": {
     "id": 251,
     "order": "246.00000000000000000000",
-    "name": "Venedig (Stadt)",
+    "name": "Venedig, Stadt",
     "geonames": "https://www.geonames.org/3164603/venice.html",
     "emt_id": "emt_place_id__251",
     "place_type": null,
@@ -4982,7 +4862,7 @@
   "377": {
     "id": 377,
     "order": "340.00000000000000000000",
-    "name": "Raab / Győr, Bistum",
+    "name": "Raab, Bistum",
     "geonames": "",
     "emt_id": "emt_place_id__377",
     "place_type": null,
@@ -5177,7 +5057,7 @@
   "485": {
     "id": 485,
     "order": "353.00000000000000000000",
-    "name": "(Bad) Münstereifel: Karmelitinnenkloster",
+    "name": "Münstereifel (Bad), Karmelitinnenkloster",
     "geonames": "https://www.geonames.org/2953398/bad-muenstereifel.html",
     "emt_id": "emt_place_id__485",
     "place_type": null,
@@ -5222,7 +5102,7 @@
   "488": {
     "id": 488,
     "order": "356.00000000000000000000",
-    "name": "Teplice (deutsch Teplitz)",
+    "name": "Teplice / Teplitz",
     "geonames": "https://www.geonames.org/3064288/teplice.html",
     "emt_id": "emt_place_id__488",
     "place_type": null,
@@ -5297,7 +5177,7 @@
   "493": {
     "id": 493,
     "order": "361.00000000000000000000",
-    "name": "Löwen (niederl. Leuven, frz. Louvain)",
+    "name": "Löwen / Leuven / Louvain",
     "geonames": "https://www.geonames.org/2792482/leuven.html",
     "emt_id": "emt_place_id__493",
     "place_type": null,
@@ -5312,7 +5192,7 @@
   "494": {
     "id": 494,
     "order": "362.00000000000000000000",
-    "name": "geplantes Karmelitinnenkloster in Höchstädt",
+    "name": "Höchstädt an der Donau, Karmelitinnenkloster",
     "geonames": "",
     "emt_id": "emt_place_id__494",
     "place_type": null,
@@ -5342,7 +5222,7 @@
   "496": {
     "id": 496,
     "order": "364.00000000000000000000",
-    "name": "Kremnica (deutsch Kremnitz, ungarisch Körmöcbánya)",
+    "name": "Kremnica / Kremnitz / Körmöcbánya",
     "geonames": "https://www.geonames.org/3059282/kremnica.html",
     "emt_id": "emt_place_id__496",
     "place_type": null,
@@ -5372,7 +5252,7 @@
   "530": {
     "id": 530,
     "order": "366.00000000000000000000",
-    "name": "Sternberg, Herrschaft (tschech. Šternberk)",
+    "name": "Sternberg, Herrschaft",
     "geonames": "https://www.geonames.org/3065166/sternberk.html",
     "emt_id": "emt_place_id__530",
     "place_type": null,
@@ -5537,7 +5417,7 @@
   "605": {
     "id": 605,
     "order": "377.00000000000000000000",
-    "name": "Broich, Schloss (heute Stadtteil von Mühlheim an der Ruhr)",
+    "name": "Broich, Schloss (Mühlheim an der Ruhr)",
     "geonames": "",
     "emt_id": "emt_place_id__605",
     "place_type": null,
@@ -5552,7 +5432,7 @@
   "606": {
     "id": 606,
     "order": "378.00000000000000000000",
-    "name": "Westfalen, Herzogtum (Kurköln)",
+    "name": "Westfalen, Herzogtum",
     "geonames": "",
     "emt_id": "emt_place_id__606",
     "place_type": null,
@@ -5657,7 +5537,7 @@
   "645": {
     "id": 645,
     "order": "385.00000000000000000000",
-    "name": "Vils (Tirol)",
+    "name": "Vils",
     "geonames": "https://www.geonames.org/2762358/vils.html",
     "emt_id": "emt_place_id__645",
     "place_type": null,
@@ -5717,7 +5597,7 @@
   "649": {
     "id": 649,
     "order": "389.00000000000000000000",
-    "name": "Ortenburg, Reichsgrafschaft (in Niederbayern)",
+    "name": "Ortenburg, Grafschaft",
     "geonames": "",
     "emt_id": "emt_place_id__649",
     "place_type": null,
@@ -5939,21 +5819,6 @@
     "wikidata_url": "",
     "unidentifiziert": false
   },
-  "696": {
-    "id": 696,
-    "order": "404.00000000000000000000",
-    "name": "Würzburg, Bistum",
-    "geonames": "",
-    "emt_id": "emt_place_id__696",
-    "place_type": null,
-    "lat": "49.78333",
-    "long": "9.933333",
-    "comments intern": "",
-    "gnd": "https://d-nb.info/gnd/4128539-6",
-    "alternative_name": "",
-    "wikidata_url": "http://www.wikidata.org/entity/Q13427044",
-    "unidentifiziert": false
-  },
   "697": {
     "id": 697,
     "order": "405.00000000000000000000",
@@ -5972,7 +5837,7 @@
   "698": {
     "id": 698,
     "order": "406.00000000000000000000",
-    "name": "Preußen, Königreich",
+    "name": "Preußen",
     "geonames": "",
     "emt_id": "emt_place_id__698",
     "place_type": null,
@@ -6197,7 +6062,7 @@
   "745": {
     "id": 745,
     "order": "421.00000000000000000000",
-    "name": "Bergstein (heute Ortsteil von Hürtgenwald)",
+    "name": "Bergstein (Hürtgenwald)",
     "geonames": "https://www.geonames.org/2950264/bergstein.html",
     "emt_id": "emt_place_id__745",
     "place_type": null,
@@ -6359,21 +6224,6 @@
     "wikidata_url": "",
     "unidentifiziert": false
   },
-  "756": {
-    "id": 756,
-    "order": "432.00000000000000000000",
-    "name": "",
-    "geonames": "",
-    "emt_id": "emt_place_id__756",
-    "place_type": null,
-    "lat": null,
-    "long": null,
-    "comments intern": "",
-    "gnd": "",
-    "alternative_name": "",
-    "wikidata_url": "",
-    "unidentifiziert": false
-  },
   "757": {
     "id": 757,
     "order": "433.00000000000000000000",
@@ -6467,7 +6317,7 @@
   "763": {
     "id": 763,
     "order": "439.00000000000000000000",
-    "name": "Neutra / Nitra /Niytra",
+    "name": "Neutra / Nitra / Niytra",
     "geonames": "https://www.geonames.org/3058531/nitra.html",
     "emt_id": "emt_place_id__763",
     "place_type": null,
@@ -6590,21 +6440,6 @@
     "name": "Piemont, Fürstentum",
     "geonames": "",
     "emt_id": "emt_place_id__804",
-    "place_type": null,
-    "lat": null,
-    "long": null,
-    "comments intern": "",
-    "gnd": "",
-    "alternative_name": "",
-    "wikidata_url": "",
-    "unidentifiziert": false
-  },
-  "805": {
-    "id": 805,
-    "order": "448.00000000000000000000",
-    "name": "Kempten, Reichsstift",
-    "geonames": "",
-    "emt_id": "emt_place_id__805",
     "place_type": null,
     "lat": null,
     "long": null,
@@ -6779,21 +6614,6 @@
     "wikidata_url": "",
     "unidentifiziert": false
   },
-  "881": {
-    "id": 881,
-    "order": "460.00000000000000000000",
-    "name": "",
-    "geonames": "",
-    "emt_id": "emt_place_id__881",
-    "place_type": null,
-    "lat": null,
-    "long": null,
-    "comments intern": "",
-    "gnd": "",
-    "alternative_name": "",
-    "wikidata_url": "",
-    "unidentifiziert": false
-  },
   "882": {
     "id": 882,
     "order": "461.00000000000000000000",
@@ -6803,21 +6623,6 @@
     "place_type": null,
     "lat": "39.88811",
     "long": "4.263300",
-    "comments intern": "",
-    "gnd": "",
-    "alternative_name": "",
-    "wikidata_url": "",
-    "unidentifiziert": false
-  },
-  "883": {
-    "id": 883,
-    "order": "462.00000000000000000000",
-    "name": "",
-    "geonames": "",
-    "emt_id": "emt_place_id__883",
-    "place_type": null,
-    "lat": null,
-    "long": null,
     "comments intern": "",
     "gnd": "",
     "alternative_name": "",
@@ -7097,7 +6902,7 @@
   "965": {
     "id": 965,
     "order": "481.00000000000000000000",
-    "name": "Cölln an der Spree (heute Stadtteil Alt-Kölln in Berlin Mitte)",
+    "name": "Cölln an der Spree (Berlin)",
     "geonames": "",
     "emt_id": "emt_place_id__965",
     "place_type": null,
