@@ -7930,6 +7930,7 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                      <date notBefore="1692-01-01" notAfter="1692-12-31">1692</date>
                   </death>
                   <idno type="GND">https://d-nb.info/gnd/143512870</idno>
+                  <idno type="WIKIDATA">http://www.wikidata.org/entity/Q55901218</idno>
                   <idno type="URL">http://www.biografischportaal.nl/persoon/33019680</idno>
                </person>
                <person xml:id="emt_person_id__699">
@@ -8197,6 +8198,9 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                   <death>
                      <date notBefore="1733-01-01" notAfter="1733-12-31">1733</date>
                   </death>
+                  <idno type="GND">https://d-nb.info/gnd/140011919</idno>
+                  <idno type="NDB">https://www.deutsche-biographie.de/sfz49333.html#indexcontent</idno>
+                  <idno type="WIKIDATA">http://www.wikidata.org/entity/Q698959</idno>
                   <idno type="URL">https://personendatenbank.germania-sacra.de/index/gsn/042-00975-001</idno>
                </person>
                <person xml:id="emt_person_id__720">
@@ -8214,6 +8218,7 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                      <date notBefore="1734-01-01" notAfter="1734-12-31">1734</date>
                   </death>
                   <idno type="GND">https://d-nb.info/gnd/118804618</idno>
+                  <idno type="NDB">https://www.deutsche-biographie.de/pnd118804618.html#indexcontent</idno>
                   <idno type="WIKIDATA">http://www.wikidata.org/entity/Q158654</idno>
                   <figure>
                      <graphic url="emt_person_id__720.jpg"/>
@@ -8232,6 +8237,7 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                      <date notBefore="1689-01-01" notAfter="1689-12-31">1689</date>
                   </death>
                   <idno type="GND">https://d-nb.info/gnd/119303981</idno>
+                  <idno type="NDB">https://www.deutsche-biographie.de/pnd119303981.html#indexcontent</idno>
                   <idno type="URL">https://cardinals.fiu.edu/bios1686.htm#Ranuzzi</idno>
                </person>
                <person xml:id="emt_person_id__723">
@@ -8323,6 +8329,9 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                </person>
                <person xml:id="emt_person_id__732">
                   <persName type="name">Holas /Holos, Herr, 1687</persName>
+                  <idno type="GND">https://d-nb.info/gnd/1224552695</idno>
+                  <idno type="NDB">https://www.deutsche-biographie.de/pnd1224552695.html#indexcontent</idno>
+                  <idno type="WIKIDATA">http://www.wikidata.org/entity/Q139210690</idno>
                </person>
                <person xml:id="emt_person_id__733">
                   <persName type="name">Karg von Bebenburg, Johann Friedrich</persName>
@@ -8477,6 +8486,9 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                   <death>
                      <date notBefore="1692-01-01" notAfter="1692-12-31">1692</date>
                   </death>
+                  <idno type="GND">https://d-nb.info/gnd/1020173246</idno>
+                  <idno type="NDB">https://www.deutsche-biographie.de/pnd1020173246.html#indexcontent</idno>
+                  <idno type="WIKIDATA">http://www.wikidata.org/entity/Q134959266</idno>
                   <idno type="URL">https://www.jewiki.net/wiki/Frydag_(Adelsgeschlecht)</idno>
                </person>
                <person xml:id="emt_person_id__750">
@@ -8490,7 +8502,6 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                   <death>
                      <date notBefore="1700-01-01" notAfter="1700-12-31">1700</date>
                   </death>
-                  <idno type="GND">https://d-nb.info/gnd/121009351</idno>
                   <idno type="WIKIDATA">http://www.wikidata.org/entity/Q61718</idno>
                   <figure>
                      <graphic url="emt_person_id__750.jpg"/>
@@ -8757,10 +8768,14 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                   <persName type="title">
                      <roleName>Fürst</roleName>
                   </persName>
+                  <birth>
+                     <date notBefore="1644-01-01" notAfter="1644-12-31">1644</date>
+                  </birth>
                   <death>
                      <date notBefore="1706-01-01" notAfter="1706-12-31">1706</date>
                   </death>
                   <idno type="GND">https://d-nb.info/gnd/136666728</idno>
+                  <idno type="NDB">https://www.deutsche-biographie.de/pnd136666728.html#indexcontent</idno>
                   <idno type="WIKIDATA">http://www.wikidata.org/entity/Q1617521</idno>
                   <figure>
                      <graphic url="emt_person_id__769.jpg"/>
@@ -8812,6 +8827,7 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                      <date notBefore="1713-01-01" notAfter="1713-12-31">1713</date>
                   </death>
                   <idno type="GND">https://d-nb.info/gnd/118896628</idno>
+                  <idno type="NDB">https://www.deutsche-biographie.de/sfz56909.html#indexcontent</idno>
                   <idno type="WIKIDATA">http://www.wikidata.org/entity/Q465178</idno>
                   <figure>
                      <graphic url="emt_person_id__775.jpg"/>
@@ -8843,6 +8859,7 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                      <date notBefore="1649-01-01" notAfter="1649-12-31">1649</date>
                   </death>
                   <idno type="GND">https://d-nb.info/gnd/119549174</idno>
+                  <idno type="NDB">https://www.deutsche-biographie.de/sfzS21307.html#indexcontent</idno>
                   <idno type="WIKIDATA">http://www.wikidata.org/entity/Q467789</idno>
                   <figure>
                      <graphic url="emt_person_id__777.jpg"/>
@@ -8880,6 +8897,7 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                      <date notBefore="1700-01-01" notAfter="1700-12-31">1700</date>
                   </death>
                   <idno type="GND">https://d-nb.info/gnd/120212897</idno>
+                  <idno type="NDB">https://www.deutsche-biographie.de/pnd120212897.html#indexcontent</idno>
                   <idno type="WIKIDATA">http://www.wikidata.org/entity/Q749200</idno>
                   <idno type="URL">https://www.treccani.it/enciclopedia/opizio-pallavicino_(Dizionario-Biografico)/</idno>
                   <figure>
@@ -8902,6 +8920,7 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                      <date notBefore="1702-01-01" notAfter="1702-12-31">1702</date>
                   </death>
                   <idno type="GND">https://d-nb.info/gnd/100194478</idno>
+                  <idno type="NDB">https://www.deutsche-biographie.de/pnd100194478.html#indexcontent</idno>
                   <idno type="URL">https://pl.wikipedia.org/wiki/Stanis%C5%82aw_Herakliusz_Lubomirski</idno>
                </person>
                <person xml:id="emt_person_id__781">
@@ -8916,6 +8935,7 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                      <date notBefore="1705-01-01" notAfter="1705-12-31">1705</date>
                   </death>
                   <idno type="GND">https://d-nb.info/gnd/104221224</idno>
+                  <idno type="NDB">https://www.deutsche-biographie.de/pnd104221224.html#indexcontent</idno>
                   <idno type="WIKIDATA">http://www.wikidata.org/entity/Q1929502</idno>
                   <idno type="URL">https://cardinals.fiu.edu/bios1686.htm#Radziejowski</idno>
                   <figure>
@@ -9045,6 +9065,8 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                   <death>
                      <date notBefore="1721-01-01" notAfter="1721-12-31">1721</date>
                   </death>
+                  <idno type="GND">https://d-nb.info/gnd/11770119X</idno>
+                  <idno type="NDB">https://www.deutsche-biographie.de/pnd11770119X.html#indexcontent</idno>
                   <idno type="WIKIDATA">http://www.wikidata.org/entity/Q60835846</idno>
                   <idno type="URL">https://de.wikipedia.org/wiki/Le_Tellier_de_Louvois</idno>
                </person>
@@ -9367,6 +9389,7 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                      <date notBefore="1725-01-01" notAfter="1725-12-31">1725</date>
                   </death>
                   <idno type="GND">https://d-nb.info/gnd/1109099231</idno>
+                  <idno type="NDB">https://www.deutsche-biographie.de/pnd1109099231.html#indexcontent</idno>
                   <idno type="WIKIDATA">http://www.wikidata.org/entity/Q68212</idno>
                   <idno type="URL">https://www.lagis-hessen.de/pnd/1109099231</idno>
                   <figure>
@@ -9680,6 +9703,7 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                   <death>
                      <date notBefore="1668-01-01" notAfter="1668-12-31">1668</date>
                   </death>
+                  <idno type="GND">https://d-nb.info/gnd/121302946</idno>
                   <idno type="URL">https://de.wikipedia.org/wiki/Julius_Heinrich_(Sachsen-Lauenburg)</idno>
                </person>
                <person xml:id="emt_person_id__840">
@@ -9699,8 +9723,14 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                   <death>
                      <date notBefore="1701-01-01" notAfter="1701-12-31">1701</date>
                   </death>
+                  <idno type="GND">https://d-nb.info/gnd/131793578</idno>
                   <idno type="NDB">https://www.deutsche-biographie.de/131793578.html?language=en</idno>
+                  <idno type="WIKIDATA">http://www.wikidata.org/entity/Q55676954</idno>
                   <idno type="URL">https://en.wikipedia.org/wiki/Henri-Charles_de_Beaumanoir_of_Lavardin</idno>
+                  <figure>
+                     <graphic url="emt_person_id__841.jpg"/>
+                     <caption>Henri Charles de Beaumanoir, marquis de Lavardin.jpg</caption>
+                  </figure>
                </person>
                <person xml:id="emt_person_id__842">
                   <persName type="name">Bayern, Leopold Ferdinand von</persName>
@@ -9902,6 +9932,9 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                   <death>
                      <date notBefore="1702-01-01" notAfter="1702-12-31">1702</date>
                   </death>
+                  <idno type="GND">https://d-nb.info/gnd/1013373960</idno>
+                  <idno type="NDB">https://www.deutsche-biographie.de/pnd1013373960.html#indexcontent</idno>
+                  <idno type="WIKIDATA">http://www.wikidata.org/entity/Q55907175</idno>
                   <idno type="URL">https://de.wikipedia.org/wiki/Nikolaus_Bartholom%C3%A4us_von_Danckelmann</idno>
                </person>
                <person xml:id="emt_person_id__859">
@@ -9938,7 +9971,13 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                   <death>
                      <date notBefore="1691-01-01" notAfter="1691-12-31">1691</date>
                   </death>
+                  <idno type="GND">https://d-nb.info/gnd/1055708405</idno>
+                  <idno type="WIKIDATA">http://www.wikidata.org/entity/Q2066763</idno>
                   <idno type="URL">https://de.wikipedia.org/wiki/Pedro_Ronquillo_Brice%C3%B1o</idno>
+                  <figure>
+                     <graphic url="emt_person_id__861.jpg"/>
+                     <caption>Quiter-pedro ronquillo.jpg</caption>
+                  </figure>
                </person>
                <person xml:id="emt_person_id__862">
                   <persName type="name">Constantin Brâncoveanu, Fürst der Walachei</persName>
@@ -10094,6 +10133,7 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                   <death>
                      <date notBefore="1713-01-01" notAfter="1713-12-31">1713</date>
                   </death>
+                  <idno type="GND">https://d-nb.info/gnd/1075481236</idno>
                   <idno type="WIKIDATA">http://www.wikidata.org/entity/Q8016533</idno>
                   <idno type="URL">https://en.wikipedia.org/wiki/William_Paget,_6th_Baron_Paget</idno>
                   <figure>
@@ -10579,6 +10619,7 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                      <date notBefore="1717-01-01" notAfter="1717-12-31">1717</date>
                   </death>
                   <idno type="GND">https://d-nb.info/gnd/1034915142</idno>
+                  <idno type="NDB">https://www.deutsche-biographie.de/pnd1034915142.html#indexcontent</idno>
                   <idno type="WIKIDATA">http://www.wikidata.org/entity/Q16063768</idno>
                   <figure>
                      <graphic url="emt_person_id__1020.jpg"/>
@@ -10704,6 +10745,8 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                   <death>
                      <date notBefore="1766-01-01" notAfter="1766-12-31">1766</date>
                   </death>
+                  <idno type="GND">https://d-nb.info/gnd/1403293953</idno>
+                  <idno type="WIKIDATA">http://www.wikidata.org/entity/Q108575380</idno>
                </person>
                <person xml:id="emt_person_id__1063">
                   <persName type="name">Hessen-Wanfried, Sophie Leopoldine von</persName>
@@ -10719,6 +10762,9 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                   <death>
                      <date notBefore="1724-01-01" notAfter="1724-12-31">1724</date>
                   </death>
+                  <idno type="GND">https://d-nb.info/gnd/121134431</idno>
+                  <idno type="NDB">https://www.deutsche-biographie.de/pnd121134431.html#indexcontent</idno>
+                  <idno type="WIKIDATA">http://www.wikidata.org/entity/Q110422600</idno>
                </person>
                <person xml:id="emt_person_id__1064">
                   <persName type="name">Hessen-Wanfried, Maria Anna Johanna Ludovica von</persName>
@@ -10731,6 +10777,8 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                   <death>
                      <date notBefore="1764-01-01" notAfter="1764-12-31">1764</date>
                   </death>
+                  <idno type="GND">https://d-nb.info/gnd/1403308349</idno>
+                  <idno type="WIKIDATA">http://www.wikidata.org/entity/Q110490662</idno>
                </person>
                <person xml:id="emt_person_id__1065">
                   <persName type="name">Hessen-Rotenburg, Ernestina von</persName>
@@ -10743,6 +10791,8 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                   <death>
                      <date notBefore="1732-01-01" notAfter="1732-12-31">1732</date>
                   </death>
+                  <idno type="GND">https://d-nb.info/gnd/1337016632</idno>
+                  <idno type="WIKIDATA">http://www.wikidata.org/entity/Q108599491</idno>
                </person>
                <person xml:id="emt_person_id__1066">
                   <persName type="name">Ruffini, Doktor (wird 1696 nach Spanien geschickt)</persName>
@@ -10840,6 +10890,7 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                      <date notBefore="1735-01-01" notAfter="1735-12-31">1735</date>
                   </death>
                   <idno type="GND">https://d-nb.info/gnd/118812513</idno>
+                  <idno type="NDB">https://www.deutsche-biographie.de/pnd118812513.html#indexcontent</idno>
                   <idno type="WIKIDATA">http://www.wikidata.org/entity/Q181333</idno>
                   <figure>
                      <graphic url="emt_person_id__1078.jpg"/>
@@ -10890,6 +10941,7 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                   <death>
                      <date notBefore="1722-01-01" notAfter="1722-12-31">1722</date>
                   </death>
+                  <idno type="GND">https://d-nb.info/gnd/1403299757</idno>
                   <idno type="WIKIDATA">http://www.wikidata.org/entity/Q53100</idno>
                   <figure>
                      <graphic url="emt_person_id__1081.jpg"/>
@@ -11013,6 +11065,8 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                   <death>
                      <date notBefore="1696-01-01" notAfter="1696-12-31">1696</date>
                   </death>
+                  <idno type="GND">https://d-nb.info/gnd/121579166</idno>
+                  <idno type="WIKIDATA">http://www.wikidata.org/entity/Q94538035</idno>
                </person>
                <person xml:id="emt_person_id__1094">
                   <persName type="name">Gehlen, Christian</persName>
@@ -11192,12 +11246,21 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                </person>
                <person xml:id="emt_person_id__1107">
                   <persName type="name">Bentheim, Moritz Wilhelm von</persName>
+                  <persName type="title">
+                     <roleName>Graf</roleName>
+                  </persName>
                   <persName type="function">
                      <roleName>Obristkämmer Johann Wilhelms von Pfalz-Neuburg</roleName>
                   </persName>
+                  <birth>
+                     <date notBefore="1663-01-01" notAfter="1663-12-31">1663</date>
+                  </birth>
                   <death>
                      <date notBefore="1701-01-01" notAfter="1701-12-31">1701</date>
                   </death>
+                  <idno type="GND">https://d-nb.info/gnd/120208970</idno>
+                  <idno type="NDB">https://www.deutsche-biographie.de/pnd120208970.html#indexcontent</idno>
+                  <idno type="WIKIDATA">http://www.wikidata.org/entity/Q55904939</idno>
                </person>
                <person xml:id="emt_person_id__1108">
                   <persName type="name">Heüsner, NN (Kurier 1697)</persName>
@@ -11330,6 +11393,7 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                   <death>
                      <date notBefore="1718-01-01" notAfter="1718-12-31">1718</date>
                   </death>
+                  <idno type="URL">https://www.treccani.it/enciclopedia/antonio-maria-fede_(Dizionario-Biografico)/</idno>
                </person>
                <person xml:id="emt_person_id__1118">
                   <persName type="name">Brandenburg-Ansbach, Wilhelmine Karoline von</persName>
@@ -11365,6 +11429,7 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                      <date notBefore="1766-01-01" notAfter="1766-12-31">1766</date>
                   </death>
                   <idno type="GND">https://d-nb.info/gnd/102181780</idno>
+                  <idno type="NDB">https://www.deutsche-biographie.de/pnd102181780.html#indexcontent</idno>
                   <idno type="WIKIDATA">http://www.wikidata.org/entity/Q99931</idno>
                   <figure>
                      <graphic url="emt_person_id__1119.jpg"/>
@@ -11393,6 +11458,7 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                      <date notBefore="1755-01-01" notAfter="1755-12-31">1755</date>
                   </death>
                   <idno type="GND">https://d-nb.info/gnd/14131852X</idno>
+                  <idno type="NDB">https://www.deutsche-biographie.de/pnd14131852X.html#indexcontent</idno>
                   <idno type="WIKIDATA">http://www.wikidata.org/entity/Q70984</idno>
                   <figure>
                      <graphic url="emt_person_id__1121.jpg"/>
@@ -11573,6 +11639,7 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                      <date notBefore="1732-01-01" notAfter="1732-12-31">1732</date>
                   </death>
                   <idno type="GND">https://d-nb.info/gnd/1055728007</idno>
+                  <idno type="NDB">https://www.deutsche-biographie.de/pnd1055728007.html#indexcontent</idno>
                   <idno type="WIKIDATA">http://www.wikidata.org/entity/Q67200161</idno>
                </person>
                <person xml:id="emt_person_id__1168">
@@ -11583,9 +11650,13 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                </person>
                <person xml:id="emt_person_id__1169">
                   <persName type="name">Bergomi, Giovanni Francesco</persName>
+                  <birth>
+                     <date notBefore="1650-01-01" notAfter="1650-12-31">1650</date>
+                  </birth>
                   <death>
                      <date notBefore="1718-01-01" notAfter="1718-12-31">1718</date>
                   </death>
+                  <idno type="GND">https://d-nb.info/gnd/1391501209</idno>
                   <idno type="URL">https://www.treccani.it/enciclopedia/giovan-francesco-bergomi_(Dizionario-Biografico)/</idno>
                </person>
                <person xml:id="emt_person_id__1170">
@@ -11816,6 +11887,9 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                   <death>
                      <date notBefore="1749-01-01" notAfter="1749-12-31">1749</date>
                   </death>
+                  <idno type="GND">https://d-nb.info/gnd/139476938</idno>
+                  <idno type="NDB">https://www.deutsche-biographie.de/pnd139476938.html#indexcontent</idno>
+                  <idno type="WIKIDATA">http://www.wikidata.org/entity/Q55916039</idno>
                   <idno type="URL">https://es.wikipedia.org/wiki/Enrique_Wiser</idno>
                </person>
                <person xml:id="emt_person_id__1223">
@@ -16944,6 +17018,9 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                   <persName type="function">
                      <roleName>kaiserlicher Resident in Frankfurt 1711</roleName>
                   </persName>
+               </person>
+               <person xml:id="emt_person_id__2198">
+                  <persName type="name"/>
                </person>
             </listPerson>
          </div>
