@@ -11069,13 +11069,16 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                   <idno type="WIKIDATA">http://www.wikidata.org/entity/Q94538035</idno>
                </person>
                <person xml:id="emt_person_id__1094">
-                  <persName type="name">Gehlen, Christian</persName>
+                  <persName type="name">Geleen/Geelen/Gehlen, Christian</persName>
                   <persName type="title">
                      <roleName>Doktor</roleName>
                   </persName>
                   <persName type="function">
                      <roleName>Arzt</roleName>
                   </persName>
+                  <death>
+                     <date notBefore="1710-01-01" notAfter="1710-12-31">1710</date>
+                  </death>
                </person>
                <person xml:id="emt_person_id__1095">
                   <persName type="name">Sinzendorf, Philipp Ludwig Wenzel von</persName>
