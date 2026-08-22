@@ -8532,6 +8532,9 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                </person>
                <person xml:id="emt_person_id__752">
                   <persName type="name">Sickingen, Franz von</persName>
+                  <persName type="function">
+                     <roleName>kaiserlicher Kämmerer</roleName>
+                  </persName>
                   <birth>
                      <date notBefore="1629-01-01" notAfter="1629-12-31">1629</date>
                   </birth>
@@ -9797,9 +9800,9 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                   <idno type="URL">hbl.lzmk.hr/clanak/5360</idno>
                </person>
                <person xml:id="emt_person_id__848">
-                  <persName type="name">Sickingen, Anna Margaretha von, geb. Metternich-Winneburg</persName>
+                  <persName type="name">Sickingen, Anna Margaretha von, geb. Gräfin von Metternich-Winneburg</persName>
                   <persName type="function">
-                     <roleName>Obersthofmeisterin</roleName>
+                     <roleName>Hoffräulein der Kaiserin Eleonora Magdalena, Obersthofmeisterin von kurpfälzischen Prinzessinnen</roleName>
                   </persName>
                   <death>
                      <date notBefore="1700-01-01" notAfter="1700-12-31">1700</date>
@@ -9807,7 +9810,11 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                   <idno type="URL">lagis.hessen.de/de/personen/hessische-biografie/alle-eintraege/8612</idno>
                </person>
                <person xml:id="emt_person_id__849">
-                  <persName type="name">Tochter der Anna Margaretha von Sickingen (1689)</persName>
+                  <persName type="name">Tochter der Anna Margaretha von Sickingen (1689 im Gespräch als mögliche Obersthofmeisterin für Königin Maria Anna von Spanien, geb. Pfalz-Neuburg))</persName>
+                  <persName type="function">
+                     <roleName>ist 1689 im Gespräch, Maria Anna als ihre Obersthofmeisterin nach Spanien zu begleiten. Daraus wurde wohl nichts, denn der Name Sickingen taucht dann nirgendwo in der Literatur zu MA auf und lt. Bayern, Adalbert von. Das Ende der Habsburger in Spanien. 2, Maria Anna von Neuburg, Königin von Spanien. München: Bruckmann, 1929, Bd. 2, s. 20 war sie 1690 nicht im abreisenden Gefolge</roleName>
+                  </persName>
+                  <idno type="GND">https://d-nb.info/gnd/129339954</idno>
                </person>
                <person xml:id="emt_person_id__850">
                   <persName type="name">Martinitz, Georg Adam von</persName>
@@ -10095,10 +10102,45 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                   </figure>
                </person>
                <person xml:id="emt_person_id__871">
-                  <persName type="name">Obersthofmeister der regierenden Königin von Spanien 1690</persName>
+                  <persName type="name">Cerda y Aragón, don Tomás Antonio Manuel Lorenzo de la, 3. Marquis von La Laguna de Camero Viejo</persName>
+                  <persName type="title">
+                     <roleName>Marquis</roleName>
+                  </persName>
+                  <persName type="function">
+                     <roleName>Obersthofmeister der Königin Maria Anna von Spanien, geb. Pfalz-Neuburg</roleName>
+                  </persName>
+                  <birth>
+                     <date notBefore="1638-01-01" notAfter="1638-12-31">1638</date>
+                  </birth>
+                  <death>
+                     <date notBefore="1692-01-01" notAfter="1692-12-31">1692</date>
+                  </death>
+                  <idno type="GND">https://d-nb.info/gnd/1053081987</idno>
+                  <idno type="WIKIDATA">http://www.wikidata.org/entity/Q596046</idno>
+                  <idno type="URL">https://historia-hispanica.rah.es/biografias/11399-tomas-antonio-de-la-cerda-y-aragon</idno>
+                  <figure>
+                     <graphic url="emt_person_id__871.jpg"/>
+                     <caption>CondeDeParedes.jpg</caption>
+                  </figure>
                </person>
                <person xml:id="emt_person_id__872">
-                  <persName type="name">Russel/Küßel, Herr, begleitet 1690 Maria Anna nach Spanien</persName>
+                  <persName type="name">Russel, Edward, 1. Earl of Oxford</persName>
+                  <persName type="function">
+                     <roleName>englischer Admiral</roleName>
+                  </persName>
+                  <birth>
+                     <date notBefore="1653-01-01" notAfter="1653-12-31">1653</date>
+                  </birth>
+                  <death>
+                     <date notBefore="1727-01-01" notAfter="1727-12-31">1727</date>
+                  </death>
+                  <idno type="GND">https://d-nb.info/gnd/128877510</idno>
+                  <idno type="NDB">https://www.deutsche-biographie.de/pnd128877510.html#indexcontent</idno>
+                  <idno type="WIKIDATA">http://www.wikidata.org/entity/Q333596</idno>
+                  <figure>
+                     <graphic url="emt_person_id__872.jpg"/>
+                     <caption>Admiral Edward Russell (1652–1727), 1st Earl of Orford by Godfrey Kneller.jpg</caption>
+                  </figure>
                </person>
                <person xml:id="emt_person_id__873">
                   <persName type="name">Balde, Johann Jacob SJ</persName>
@@ -11069,16 +11111,21 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                   <idno type="WIKIDATA">http://www.wikidata.org/entity/Q94538035</idno>
                </person>
                <person xml:id="emt_person_id__1094">
-                  <persName type="name">Geleen/Geelen/Gehlen, Christian</persName>
+                  <persName type="name">Geleen, Christiaan van (auch Gehlen genannt)</persName>
                   <persName type="title">
                      <roleName>Doktor</roleName>
                   </persName>
                   <persName type="function">
-                     <roleName>Arzt</roleName>
+                     <roleName>Leibarzt von Königin Maria Anna in Spanien, geb. Pfalz-Neuburg</roleName>
                   </persName>
+                  <birth>
+                     <date notBefore="1638-01-01" notAfter="1638-12-31">1638</date>
+                  </birth>
                   <death>
                      <date notBefore="1710-01-01" notAfter="1710-12-31">1710</date>
                   </death>
+                  <idno type="WIKIDATA">http://www.wikidata.org/entity/Q108861383</idno>
+                  <idno type="URL">https://www.dbnl.org/tekst/molh003nieu08_01/molh003nieu08_01_1063.php</idno>
                </person>
                <person xml:id="emt_person_id__1095">
                   <persName type="name">Sinzendorf, Philipp Ludwig Wenzel von</persName>
@@ -11880,7 +11927,7 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                   <persName type="name">Violett, schickt 1698 einen Kurier, 1709 Erbschaft</persName>
                </person>
                <person xml:id="emt_person_id__1222">
-                  <persName type="name">Wiser, Heinrich Franz Xaver von</persName>
+                  <persName type="name">Wiser, Heinrich Franz Xaver von SJ</persName>
                   <persName type="function">
                      <roleName>Diplomat, Geheimsekretär der spanischen Königin Maria Anna, geb. von Pfalz-Neuburg</roleName>
                   </persName>
@@ -12451,10 +12498,33 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                   </death>
                </person>
                <person xml:id="emt_person_id__1305">
-                  <persName type="name">Obersthofmeister der Königin Maria Anna von Spanien 1701</persName>
+                  <persName type="name">Benavides, Dávila y Corella, Francisco de, Conde de Santisteban del Puerto</persName>
+                  <persName type="function">
+                     <roleName>Obersthofmeister der Königin Maria Anna von Spanien</roleName>
+                  </persName>
+                  <birth>
+                     <date notBefore="1645-01-01" notAfter="1645-12-31">1645</date>
+                  </birth>
+                  <death>
+                     <date notBefore="1716-01-01" notAfter="1716-12-31">1716</date>
+                  </death>
+                  <idno type="URL">https://historia-hispanica.rah.es/biografias/5836-francisco-de-benavides-davila-y-corella</idno>
                </person>
                <person xml:id="emt_person_id__1306">
-                  <persName type="name">Obersthofmeisterin der Königin Maria Anna von Spanien 1701</persName>
+                  <persName type="name">Oñate, Louise Claire von, geb. Ligne</persName>
+                  <persName type="title">
+                     <roleName>Gräfin</roleName>
+                  </persName>
+                  <persName type="function">
+                     <roleName>Obersthofmeisterin von Königin Maria Anna in Spanien, geb. Pfalz-Neuburg</roleName>
+                  </persName>
+                  <birth>
+                     <date notBefore="1645-01-01" notAfter="1645-12-31">1645</date>
+                  </birth>
+                  <death>
+                     <date notBefore="1707-01-01" notAfter="1707-12-31">1707</date>
+                  </death>
+                  <idno type="URL">https://historia-hispanica.rah.es/biografias/44701-inigo-manuel-velez-de-guevara-y-tassis</idno>
                </person>
                <person xml:id="emt_person_id__1307">
                   <persName type="name">Spada, Orazio Filippo</persName>
@@ -16719,6 +16789,7 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                </person>
                <person xml:id="emt_person_id__2034">
                   <persName type="name">Pico della Mirandola, Haus</persName>
+                  <idno type="GND">https://d-nb.info/gnd/122727487</idno>
                </person>
                <person xml:id="emt_person_id__2035">
                   <persName type="name">geflohener französischer Offizier, übergibt 1712 in London ein Schreiben</persName>
@@ -16735,6 +16806,7 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                      <date notBefore="1688-01-01" notAfter="1688-12-31">1688</date>
                   </death>
                   <idno type="GND">https://d-nb.info/gnd/124712320</idno>
+                  <idno type="NDB">https://www.deutsche-biographie.de/pnd124712320.html#indexcontent</idno>
                   <idno type="WIKIDATA">http://www.wikidata.org/entity/Q55874596</idno>
                </person>
                <person xml:id="emt_person_id__2038">
@@ -16751,6 +16823,9 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                   <death>
                      <date notBefore="1766-01-01" notAfter="1766-12-31">1766</date>
                   </death>
+                  <idno type="GND">https://d-nb.info/gnd/104224250X</idno>
+                  <idno type="NDB">https://www.deutsche-biographie.de/pnd104224250X.html#indexcontent</idno>
+                  <idno type="WIKIDATA">http://www.wikidata.org/entity/Q112623529</idno>
                   <idno type="URL">https://de.wikisource.org/wiki/BLK%C3%96:Saint_Julien-Wallsee,_das_Grafenhaus</idno>
                </person>
                <person xml:id="emt_person_id__2039">
@@ -16786,6 +16861,7 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                      <date notBefore="1726-01-01" notAfter="1726-12-31">1726</date>
                   </death>
                   <idno type="GND">https://d-nb.info/gnd/1017916969</idno>
+                  <idno type="NDB">https://www.deutsche-biographie.de/pnd1017916969.html#indexcontent</idno>
                   <idno type="WIKIDATA">http://www.wikidata.org/entity/Q292123</idno>
                   <figure>
                      <graphic url="emt_person_id__2043.jpg"/>
@@ -16794,6 +16870,9 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                </person>
                <person xml:id="emt_person_id__2076">
                   <persName type="name">Jörger von Tollet (Familie)</persName>
+                  <idno type="GND">https://d-nb.info/gnd/120488507</idno>
+                  <idno type="NDB">https://www.deutsche-biographie.de/sfz37358.html#ndbcontent</idno>
+                  <idno type="WIKIDATA">http://www.wikidata.org/entity/Q1715615</idno>
                </person>
                <person xml:id="emt_person_id__2077">
                   <persName type="name">Salm-Neuburg, Franz Leopold von</persName>
@@ -16803,9 +16882,15 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                   <persName type="function">
                      <roleName>Kämmerer Josephs I.</roleName>
                   </persName>
+                  <birth>
+                     <date notBefore="1648-01-01" notAfter="1648-12-31">1648</date>
+                  </birth>
                   <death>
                      <date notBefore="1702-01-01" notAfter="1702-12-31">1702</date>
                   </death>
+                  <idno type="GND">https://d-nb.info/gnd/1211931250</idno>
+                  <idno type="NDB">https://www.deutsche-biographie.de/pnd1211931250.html#indexcontent</idno>
+                  <idno type="WIKIDATA">http://www.wikidata.org/entity/Q55025261</idno>
                   <idno type="URL">https://viecpro.acdh.oeaw.ac.at/persons/169892</idno>
                </person>
                <person xml:id="emt_person_id__2078">
@@ -16943,9 +17028,15 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                      <date notBefore="1644-01-01" notAfter="1644-12-31">1644</date>
                   </birth>
                   <death>
-                     <date notBefore="1714-01-01" notAfter="1714-12-31">1714</date>
+                     <date notBefore="1725-01-01" notAfter="1725-12-31">1725</date>
                   </death>
+                  <idno type="GND">https://d-nb.info/gnd/118638025</idno>
+                  <idno type="WIKIDATA">http://www.wikidata.org/entity/Q1814651</idno>
                   <idno type="URL">https://gw.geneanet.org/tessaone?lang=fr&amp;n=de+brouchoven+de+bergeyck&amp;p=jean</idno>
+                  <figure>
+                     <graphic url="emt_person_id__2168.jpg"/>
+                     <caption>Jean de Brouchoven.jpg</caption>
+                  </figure>
                </person>
                <person xml:id="emt_person_id__2170">
                   <persName type="name">Rehbinder, Bernhard Otto von</persName>
@@ -16958,7 +17049,14 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                   <death>
                      <date notBefore="1743-01-01" notAfter="1743-12-31">1743</date>
                   </death>
+                  <idno type="GND">https://d-nb.info/gnd/119553339X</idno>
+                  <idno type="NDB">https://www.deutsche-biographie.de/pnd119553339X.html#indexcontent</idno>
+                  <idno type="WIKIDATA">http://www.wikidata.org/entity/Q55105439</idno>
                   <idno type="URL">https://www.oesta.gv.at/dam/jcr:29b98584-9598-456f-9e7d-61650d3f30df/Kaiserliche%20bzw_%20k_%20k_%20Generale%201618-1815%20_Liste_.pdf</idno>
+                  <figure>
+                     <graphic url="emt_person_id__2170.jpg"/>
+                     <caption>Meytens Rehbinder Santena.jpg</caption>
+                  </figure>
                </person>
                <person xml:id="emt_person_id__2171">
                   <persName type="name">Ecchelense, Michele, Kanoniker in Rom 1712</persName>
@@ -16968,9 +17066,15 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                   <persName type="function">
                      <roleName>Reichshofrat</roleName>
                   </persName>
+                  <birth>
+                     <date notBefore="1655-01-01" notAfter="1655-12-31">1655</date>
+                  </birth>
                   <death>
                      <date notBefore="1712-01-01" notAfter="1712-12-31">1712</date>
                   </death>
+                  <idno type="GND">https://d-nb.info/gnd/140588566</idno>
+                  <idno type="NDB">https://www.deutsche-biographie.de/pnd140588566.html#indexcontent</idno>
+                  <idno type="WIKIDATA">http://www.wikidata.org/entity/Q94918194</idno>
                   <idno type="URL">https://reichshofratsakten.de/wp-content/uploads/2016/11/Reichshofr%C3%A4tePdf_%C3%9Cberschriften.pdf</idno>
                </person>
                <person xml:id="emt_person_id__2173">
@@ -16987,6 +17091,7 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                   <death>
                      <date notBefore="1714-01-01" notAfter="1714-12-31">1714</date>
                   </death>
+                  <idno type="URL">https://www.genealogieonline.nl/de/families-klein-ree-ea/I41398.php</idno>
                </person>
                <person xml:id="emt_person_id__2177">
                   <persName type="name">pfälzischer Subdelegierter am Reichskammergericht 1711</persName>
@@ -17055,6 +17160,9 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                   <death>
                      <date notBefore="1713-01-01" notAfter="1713-12-31">1713</date>
                   </death>
+                  <idno type="GND">https://d-nb.info/gnd/1269815350</idno>
+                  <idno type="NDB">https://www.deutsche-biographie.de/pnd1269815350.html#indexcontent</idno>
+                  <idno type="WIKIDATA">http://www.wikidata.org/entity/Q136636260</idno>
                   <idno type="URL">https://de.wikipedia.org/wiki/Goltstein_(Adelsgeschlecht)</idno>
                </person>
                <person xml:id="emt_person_id__2187">
@@ -17080,6 +17188,7 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                      <date notBefore="1696-01-01" notAfter="1696-12-31">1696</date>
                   </death>
                   <idno type="GND">https://d-nb.info/gnd/120752093</idno>
+                  <idno type="NDB">https://www.deutsche-biographie.de/pnd120752093.html#indexcontent</idno>
                   <idno type="WIKIDATA">http://www.wikidata.org/entity/Q139163456</idno>
                </person>
                <person xml:id="emt_person_id__2191">
@@ -17144,6 +17253,18 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                </person>
                <person xml:id="emt_person_id__2198">
                   <persName type="name"/>
+               </person>
+               <person xml:id="emt_person_id__2199">
+                  <persName type="name">Ariberti, Bartolomeo, 3. Marchese di Malgrate Lunigiana</persName>
+                  <persName type="title">
+                     <roleName>Marchese</roleName>
+                  </persName>
+                  <birth>
+                     <date notBefore="1665-01-01" notAfter="1665-12-31">1665</date>
+                  </birth>
+                  <death>
+                     <date notBefore="1724-01-01" notAfter="1724-12-31">1724</date>
+                  </death>
                </person>
             </listPerson>
          </div>
