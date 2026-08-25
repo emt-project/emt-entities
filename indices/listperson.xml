@@ -11111,7 +11111,7 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                   <idno type="WIKIDATA">http://www.wikidata.org/entity/Q94538035</idno>
                </person>
                <person xml:id="emt_person_id__1094">
-                  <persName type="name">Geleen, Christiaan van (auch Gehlen genannt)</persName>
+                  <persName type="name">Geleen, Christiaan van (auch Gehlen)</persName>
                   <persName type="title">
                      <roleName>Doktor</roleName>
                   </persName>
@@ -12508,6 +12508,8 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                   <death>
                      <date notBefore="1716-01-01" notAfter="1716-12-31">1716</date>
                   </death>
+                  <idno type="GND">https://d-nb.info/gnd/133116786</idno>
+                  <idno type="WIKIDATA">http://www.wikidata.org/entity/Q133678223</idno>
                   <idno type="URL">https://historia-hispanica.rah.es/biografias/5836-francisco-de-benavides-davila-y-corella</idno>
                </person>
                <person xml:id="emt_person_id__1306">
