@@ -660,7 +660,7 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                   <location type="coords">
                      <geo>49.75565 6.639350</geo>
                   </location>
-                  <idno type="GND">https://d-nb.info/gnd/4060882-7</idno>
+                  <idno type="GEONAMES">https://sws.geonames.org/2821164/</idno>
                </place>
                <place xml:id="emt_place_id__103">
                   <placeName>Mannheim</placeName>
@@ -1548,6 +1548,7 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                      <geo>49.75565 6.639350</geo>
                   </location>
                   <idno type="GEONAMES">https://sws.geonames.org/2821164/</idno>
+                  <idno type="GND">https://d-nb.info/gnd/4060882-7</idno>
                </place>
                <place xml:id="emt_place_id__249">
                   <placeName>Brandenburg, Kurfürstentum</placeName>
@@ -2147,7 +2148,7 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                   <location type="coords">
                      <geo>50.87913 6.693930</geo>
                   </location>
-                  <idno type="GEONAMES">https://sws.geonames.org/6557537/</idno>
+                  <idno type="GEONAMES">https://sws.geonames.org/2757345/</idno>
                </place>
                <place xml:id="emt_place_id__446">
                   <placeName>Amsterdam</placeName>
