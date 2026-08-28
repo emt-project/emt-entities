@@ -1128,10 +1128,21 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                   <idno type="WIKIDATA">http://www.wikidata.org/entity/Q18596545</idno>
                </person>
                <person xml:id="emt_person_id__68">
-                  <persName type="name">Hackh, Herr</persName>
+                  <persName type="name">Hacke, Friedrich Sittich von</persName>
+                  <persName type="function">
+                     <roleName>Geheimer Rat und Oberstjägermeister Pfalz-Neuburg</roleName>
+                  </persName>
+                  <death>
+                     <date notBefore="1693-01-01" notAfter="1693-12-31">1693</date>
+                  </death>
+                  <idno type="URL">https://neuburgarchiv.wordpress.com/wp-content/uploads/2013/02/haban-bis-hc3a4gele-h-414-01-bis-461.pdf</idno>
                </person>
                <person xml:id="emt_person_id__69">
-                  <persName type="name">Hackh, Frau</persName>
+                  <persName type="name">Hacke, Anna Maria Sabina von, geb. Ruland</persName>
+                  <death>
+                     <date notBefore="1690-01-01" notAfter="1690-12-31">1690</date>
+                  </death>
+                  <idno type="URL">https://neuburgarchiv.wordpress.com/wp-content/uploads/2013/02/haban-bis-hc3a4gele-h-414-01-bis-461.pdf</idno>
                </person>
                <person xml:id="emt_person_id__70">
                   <persName type="name">Bayern, Albrecht Sigismund von</persName>
@@ -2165,7 +2176,7 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                   <persName type="name">Bongartz, für ihn soll EMT Fürsprache einlegen 1677</persName>
                </person>
                <person xml:id="emt_person_id__141">
-                  <persName type="name">Elst (Elz ?), Herr von, ist derzeit in Wien (August 1677)</persName>
+                  <persName type="name">Eltz, von und zu (Familie)</persName>
                </person>
                <person xml:id="emt_person_id__142">
                   <persName type="name">Rietberg und Ostfriesland (Cirksena), Haus</persName>
@@ -3105,7 +3116,14 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                   <idno type="URL">https://wwtn.history.qmul.ac.uk/search/csearch.php?uid=AC013</idno>
                </person>
                <person xml:id="emt_person_id__225">
-                  <persName type="name">Jägermeister, der PW oder JW gut gedient hat</persName>
+                  <persName type="name">Hompesch-Bollheim, Wilhelm Degenhard von</persName>
+                  <persName type="function">
+                     <roleName>Erboberjägermeister Jülich</roleName>
+                  </persName>
+                  <death>
+                     <date notBefore="1680-01-01" notAfter="1680-12-31">1680</date>
+                  </death>
+                  <idno type="URL">https://gw.geneanet.org/cvpolier?lang=en&amp;n=von+hompesch+bollheim&amp;p=wilhelm+degenhard</idno>
                </person>
                <person xml:id="emt_person_id__226">
                   <persName type="name">Meyr, NN 1680</persName>
@@ -3868,13 +3886,20 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                   <idno type="URL">https://digi.ub.uni-heidelberg.de/diglit/kindlervonknobloch1898bd1/0288/image</idno>
                </person>
                <person xml:id="emt_person_id__295">
-                  <persName type="name">Lemmel, Herr, wird 1678 nicht mit PW nach Wien reisen</persName>
+                  <persName type="name">Lämle, Ernst Friedrich von</persName>
+                  <persName type="function">
+                     <roleName>Truchseß und Rat Pfalz-Neuburg</roleName>
+                  </persName>
+                  <death>
+                     <date notBefore="1678-01-01" notAfter="1678-12-31">1678</date>
+                  </death>
+                  <idno type="URL">https://neuburgarchiv.wordpress.com/wp-content/uploads/2013/02/lambl-bis-lichau-l-176-01-bis-200-07.pdf</idno>
                </person>
                <person xml:id="emt_person_id__296">
                   <persName type="name">Obersthofmeisterin 1678, wahrscheinlich der Herzogin von Pfalz-Neuburg</persName>
                </person>
                <person xml:id="emt_person_id__297">
-                  <persName type="name">Herberstein, Herr, reist 1681 nach Neuburg</persName>
+                  <persName type="name">Herberstein, Herr von, reist 1687 nach Düsseldorf</persName>
                </person>
                <person xml:id="emt_person_id__298">
                   <persName type="name">Sebestyéni, András</persName>
@@ -4271,10 +4296,11 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                   <idno type="URL">https://de.rodovid.org/wk/Person:203404</idno>
                </person>
                <person xml:id="emt_person_id__331">
-                  <persName type="name">Huber, Gemahlin des Doktors</persName>
+                  <persName type="name">Huber, Anna Ursula</persName>
                   <death>
                      <date notBefore="1682-01-01" notAfter="1682-12-31">1682</date>
                   </death>
+                  <idno type="URL">https://neuburgarchiv.wordpress.com/wp-content/uploads/2013/02/hofmeister-bis-hc3bctting-h-552-01-bis-585-14.pdf</idno>
                </person>
                <person xml:id="emt_person_id__332">
                   <persName type="name">Massimi, NN</persName>
@@ -4348,10 +4374,11 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                   </persName>
                </person>
                <person xml:id="emt_person_id__339">
-                  <persName type="name">Herst / Horst, NN 1682</persName>
+                  <persName type="name">Horst, Matthias Wilhelm</persName>
                   <persName type="title">
                      <roleName>Doktor</roleName>
                   </persName>
+                  <idno type="URL">https://neuburgarchiv.wordpress.com/wp-content/uploads/2013/02/hofmeister-bis-hc3bctting-h-552-01-bis-585-14.pdf</idno>
                </person>
                <person xml:id="emt_person_id__340">
                   <persName type="name">Caprara, Alberto</persName>
@@ -4973,7 +5000,7 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                   </death>
                </person>
                <person xml:id="emt_person_id__397">
-                  <persName type="name">Mattenclot, Herr, geht 1683 für Pfalz-Neuburg nach Breslau</persName>
+                  <persName type="name">Mattenkloth, Bartholomäus Gottfried</persName>
                </person>
                <person xml:id="emt_person_id__398">
                   <persName type="name">Törring-Seefeld, Maximilian Ferdinand von</persName>
@@ -5726,12 +5753,6 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                <person xml:id="emt_person_id__476">
                   <persName type="name">Paulovski (Pavlofsqui), Herr von, war Hofmeister in Breslau</persName>
                </person>
-               <person xml:id="emt_person_id__477">
-                  <persName type="name">Hohenlohe (Hollach), von</persName>
-                  <persName type="title">
-                     <roleName>Graf</roleName>
-                  </persName>
-               </person>
                <person xml:id="emt_person_id__479">
                   <persName type="name">Dünewald, Johann Heinrich von</persName>
                   <persName type="title">
@@ -6451,7 +6472,13 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                   <idno type="WIKIDATA">http://www.wikidata.org/entity/Q55904203</idno>
                </person>
                <person xml:id="emt_person_id__547">
-                  <persName type="name">Jägermeister, möglicherweise Wilhelm Degenhard von Hompesch, 1691</persName>
+                  <persName type="name">Hompesch-Bollheim, Wilhelm Degenhard von</persName>
+                  <persName type="function">
+                     <roleName>Erboberjägermeister Jülich</roleName>
+                  </persName>
+                  <death>
+                     <date notBefore="1720-01-01" notAfter="1720-12-31">1720</date>
+                  </death>
                   <idno type="URL">https://de.wikipedia.org/wiki/Hompesch_(Adelsgeschlecht)#Zweig_Hompesch-Bollheim</idno>
                </person>
                <person xml:id="emt_person_id__551">
@@ -7220,6 +7247,9 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                </person>
                <person xml:id="emt_person_id__622">
                   <persName type="name">Imbsen (Imsen), Johann Wilhelm von</persName>
+                  <death>
+                     <date notBefore="1731-01-01" notAfter="1731-12-31">1731</date>
+                  </death>
                   <idno type="URL">https://de.wikipedia.org/wiki/Imbsen_(Adelsgeschlecht)#Pers%C3%B6nlichkeiten</idno>
                </person>
                <person xml:id="emt_person_id__623">
@@ -7313,10 +7343,22 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                   </death>
                </person>
                <person xml:id="emt_person_id__632">
-                  <persName type="name">Herberstein, Frau von 1687</persName>
+                  <persName type="name">Herberstein, Johanna Theresia von, vereh. Sorau</persName>
+                  <persName type="title">
+                     <roleName>Gräfin</roleName>
+                  </persName>
+                  <persName type="function">
+                     <roleName>Hoffräulein</roleName>
+                  </persName>
+                  <death>
+                     <date notBefore="1692-01-01" notAfter="1692-12-31">1692</date>
+                  </death>
                </person>
                <person xml:id="emt_person_id__633">
-                  <persName type="name">Giulia 1687</persName>
+                  <persName type="name">Giulia</persName>
+                  <persName type="function">
+                     <roleName>1687 erwähnt</roleName>
+                  </persName>
                </person>
                <person xml:id="emt_person_id__634">
                   <persName type="name">Keisgens, NN., Amme Eleonora Magdalenas</persName>
@@ -9141,6 +9183,9 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                   <persName type="function">
                      <roleName>kurpfälzischer Hofkammerrat, Rechenmeister</roleName>
                   </persName>
+                  <death>
+                     <date notBefore="1716-01-01" notAfter="1716-12-31">1716</date>
+                  </death>
                </person>
                <person xml:id="emt_person_id__796">
                   <persName type="name">Herberstein, Maria Barbara von, vereh. Daun</persName>
@@ -9792,7 +9837,11 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                   <persName type="name">Spanien, Haus</persName>
                </person>
                <person xml:id="emt_person_id__846">
-                  <persName type="name">Marci (Marzi), Hofmeister Philipp Wilhelms von Pfalz-Neuburg 1689</persName>
+                  <persName type="name">Marci (Marzi) de Medices, Cosmas</persName>
+                  <persName type="function">
+                     <roleName>Hofmeister Philipp Wilhelms (d.J.) von Pfalz-Neuburg</roleName>
+                  </persName>
+                  <idno type="URL">https://neuburgarchiv.wordpress.com/wp-content/uploads/2013/02/waberer-bis-wellenstein-w-596-01-bis-637-03.pdf</idno>
                </person>
                <person xml:id="emt_person_id__847">
                   <persName type="name">Draskovich, Johann</persName>
@@ -10442,9 +10491,6 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                      <date notBefore="1721-01-01" notAfter="1721-12-31">1721</date>
                   </death>
                   <idno type="URL">https://de.wikipedia.org/wiki/Amalia_Maria_Therese_von_Pfalz-Sulzbach</idno>
-               </person>
-               <person xml:id="emt_person_id__899">
-                  <persName type="name">Heimberg, Frau</persName>
                </person>
                <person xml:id="emt_person_id__900">
                   <persName type="name">Castilla, Frau</persName>
@@ -12852,13 +12898,19 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                   </persName>
                </person>
                <person xml:id="emt_person_id__1396">
-                  <persName type="name">Fürstenberg, Maria Theresia von</persName>
+                  <persName type="name">Fürstenberg-Meßkirch, Maria Theresia von</persName>
                   <persName type="title">
                      <roleName>Gräfin</roleName>
                   </persName>
                   <persName type="function">
-                     <roleName>früheres Kammerfräulein EMTs.</roleName>
+                     <roleName>Kammerfräulein bei Kaiserin Eleonora Magdalena</roleName>
                   </persName>
+                  <birth>
+                     <date notBefore="1667-01-01" notAfter="1667-12-31">1667</date>
+                  </birth>
+                  <death>
+                     <date notBefore="1721-01-01" notAfter="1721-12-31">1721</date>
+                  </death>
                   <idno type="URL">https://viecpro.acdh.oeaw.ac.at/persons/252540</idno>
                </person>
                <person xml:id="emt_person_id__1398">
@@ -14081,7 +14133,7 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                   </figure>
                </person>
                <person xml:id="emt_person_id__1567">
-                  <persName type="name">Guttenberg, eine gewisse von (1705 empfohlen)</persName>
+                  <persName type="name">Guttenberg, Maria Josepha von</persName>
                </person>
                <person xml:id="emt_person_id__1568">
                   <persName type="name">Braunschweig-Wolfenbüttel, Haus</persName>
@@ -16976,7 +17028,20 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                   <idno type="WIKIDATA">http://www.wikidata.org/entity/Q959764</idno>
                </person>
                <person xml:id="emt_person_id__2157">
-                  <persName type="name">Fugger, früheres Kammerfräulein der Herzogin von Lothringen 1698</persName>
+                  <persName type="name">Fugger, Maria Theresia, vereh.Gumppenberg</persName>
+                  <persName type="title">
+                     <roleName>Gräfin</roleName>
+                  </persName>
+                  <persName type="function">
+                     <roleName>Kammerfräulein der Herzogin von Lothringen, Hoffräulein von Kaiserin Eleonora Magdalena</roleName>
+                  </persName>
+                  <birth>
+                     <date notBefore="1676-01-01" notAfter="1676-12-31">1676</date>
+                  </birth>
+                  <death>
+                     <date notBefore="1741-01-01" notAfter="1741-12-31">1741</date>
+                  </death>
+                  <idno type="URL">https://viecpro.acdh.oeaw.ac.at/persons/252432</idno>
                </person>
                <person xml:id="emt_person_id__2158">
                   <persName type="name">Wollendorf (1706 im Zusammenhang mit einem Vertrag erwähnt)</persName>
