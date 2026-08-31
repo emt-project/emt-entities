@@ -419,7 +419,8 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                   <idno type="WIKIDATA">http://www.wikidata.org/entity/Q55126316</idno>
                </person>
                <person xml:id="emt_person_id__22">
-                  <persName type="name">Miller, Johanna Franziska von, geb. Tänzl von Trazberg</persName>
+                  <persName type="name">Müller, Johanna Franziska Elisabeth von, geb. Tänzl von Trazberg</persName>
+                  <idno type="URL">https://neuburgarchiv.wordpress.com/wp-content/uploads/2013/02/tanberg-bis-thiereck-t-493-01-bis-522-06.pdf</idno>
                </person>
                <person xml:id="emt_person_id__23">
                   <persName type="name">Hamilton, Johann Jakob von (John James)</persName>
@@ -7214,7 +7215,7 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                   </death>
                </person>
                <person xml:id="emt_person_id__620">
-                  <persName type="name">Mean, Johann Ferdinand von</persName>
+                  <persName type="name">Méan-Beaurieux, Jean Ferdinand de</persName>
                   <persName type="function">
                      <roleName>Domdechant in Lüttich</roleName>
                   </persName>
@@ -16043,11 +16044,8 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                      <caption>Kempten Zumsteinhaus Kempten-Museum Rupert von Bodman 170.jpg</caption>
                   </figure>
                </person>
-               <person xml:id="emt_person_id__1815">
-                  <persName type="name">Müllerin, NN, geb. Denzlin (1708 empfohlen)</persName>
-               </person>
                <person xml:id="emt_person_id__1816">
-                  <persName type="name">Melzi, Antonio Maria von</persName>
+                  <persName type="name">Melzi, Antonio Maria</persName>
                   <persName type="title">
                      <roleName>Marchese</roleName>
                   </persName>
@@ -16822,7 +16820,7 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                   <persName type="name">Corradi (bringt 1711 einen Brief nach Wien)</persName>
                </person>
                <person xml:id="emt_person_id__2028">
-                  <persName type="name">Mean, Emile-Laurent von</persName>
+                  <persName type="name">Méan-Beaurieux, Emile-Laurent de</persName>
                   <persName type="function">
                      <roleName>Domherr in Lüttich</roleName>
                   </persName>
@@ -16831,7 +16829,7 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                   </death>
                </person>
                <person xml:id="emt_person_id__2029">
-                  <persName type="name">Mean, Familie</persName>
+                  <persName type="name">Méan-Beaurieux, Familie</persName>
                </person>
                <person xml:id="emt_person_id__2030">
                   <persName type="name">Schmied / Scheiz / Schmitsens, Lodovico / Ludwig / Louis von</persName>
