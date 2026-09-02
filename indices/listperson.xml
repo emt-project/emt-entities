@@ -2924,7 +2924,7 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                   <idno type="URL">https://de.wikisource.org/wiki/BLK%C3%96:Wangen_die_Freiherren_von,_Genealogie</idno>
                </person>
                <person xml:id="emt_person_id__209">
-                  <persName type="name">Isidorus</persName>
+                  <persName type="name">Isidorus OCarm</persName>
                   <persName type="title">
                      <roleName>Pater</roleName>
                   </persName>
@@ -4105,6 +4105,9 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                </person>
                <person xml:id="emt_person_id__314">
                   <persName type="name">Spee, Friedrich Christian von</persName>
+                  <persName type="function">
+                     <roleName>Landmarschall in Jülich und Berg</roleName>
+                  </persName>
                   <birth>
                      <date notBefore="1626-01-01" notAfter="1626-12-31">1626</date>
                   </birth>
@@ -12305,7 +12308,7 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                   </persName>
                </person>
                <person xml:id="emt_person_id__1243">
-                  <persName type="name">Hamilton, Maria Eleonora, verh. Kokorzovec (Kokorschowetz)</persName>
+                  <persName type="name">Hamilton, Maria Eleonora, verh. Kokořovec (Kokorschowetz)</persName>
                   <persName type="title">
                      <roleName>Gräfin</roleName>
                   </persName>
@@ -13711,7 +13714,7 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                   </figure>
                </person>
                <person xml:id="emt_person_id__1526">
-                  <persName type="name">Kokorzovecz von Kokorschowa, Peter Franz (1704 empfohlen)</persName>
+                  <persName type="name">Kokořovec, Peter Franz (1704 empfohlen)</persName>
                   <persName type="title">
                      <roleName>Graf</roleName>
                   </persName>
@@ -15721,6 +15724,7 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                   <idno type="GND">https://d-nb.info/gnd/14140440X</idno>
                   <idno type="NDB">https://www.deutsche-biographie.de/sfz107203.html#indexcontent</idno>
                   <idno type="WIKIDATA">http://www.wikidata.org/entity/Q55847116</idno>
+                  <idno type="URL">https://regionalia.blb-karlsruhe.de/frontdoor/deliver/index/docId/22210/file/BLB_MA_Geschichtsblaetter_1924_25.pdf</idno>
                </person>
                <person xml:id="emt_person_id__1755">
                   <persName type="name">Beichtvater Pfalzgraf Karl Philipps 1715</persName>
@@ -17089,7 +17093,13 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                   <persName type="name">NN, 1684 als Sprachmeister empfohlen</persName>
                </person>
                <person xml:id="emt_person_id__2165">
-                  <persName type="name">Kokorzovec / Kokorschewetz / Cocorschowiz, Vater des für ein Amt in Aussicht GEnommenen 1705</persName>
+                  <persName type="name">Kokořovec (Cocorschowiz), Ferdinand Hroznata</persName>
+                  <persName type="title">
+                     <roleName>Graf</roleName>
+                  </persName>
+                  <death>
+                     <date notBefore="1708-01-01" notAfter="1708-12-31">1708</date>
+                  </death>
                </person>
                <person xml:id="emt_person_id__2166">
                   <persName type="name">das "bucklige Brüderchen" als Konkurrent um die Prinzessin von Ansbach 1705</persName>
@@ -17306,7 +17316,7 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                   </figure>
                </person>
                <person xml:id="emt_person_id__2193">
-                  <persName type="name">Guadagni</persName>
+                  <persName type="name">Guadagni, Marchese</persName>
                   <persName type="title">
                      <roleName>Marchese</roleName>
                   </persName>
