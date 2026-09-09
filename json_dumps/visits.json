@@ -306,8 +306,14 @@
       }
     ],
     "from": "1698-11-17",
-    "to": "1698-12-18",
-    "uncertainty": [],
+    "to": "1698-12-13",
+    "uncertainty": [
+      {
+        "id": 23188,
+        "value": "to",
+        "color": "darker-blue"
+      }
+    ],
     "date_text": ""
   },
   "12": {
