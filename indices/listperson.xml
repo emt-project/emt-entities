@@ -105,6 +105,9 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                </person>
                <person xml:id="emt_person_id__4">
                   <persName type="name">Miller, Balthasar SJ</persName>
+                  <persName type="title">
+                     <roleName>Pater</roleName>
+                  </persName>
                   <persName type="function">
                      <roleName>Rektor des Jesuitenkollegs in Graz bis 1684, Beichtvater Kaiserin Eleonora Magdalena 1684 bis 1705 (?)</roleName>
                   </persName>
@@ -787,7 +790,7 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                   </figure>
                </person>
                <person xml:id="emt_person_id__43">
-                  <persName type="name">Heüßlein von Eußenheim, Marsilius</persName>
+                  <persName type="name">Heußlein von Eußenheim, Marsilius</persName>
                   <persName type="function">
                      <roleName>Komtur des Deutschen Ordens</roleName>
                   </persName>
@@ -2319,6 +2322,7 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                   <death>
                      <date notBefore="1691-01-01" notAfter="1691-12-31">1691</date>
                   </death>
+                  <idno type="URL">https://viecpro.acdh.oeaw.ac.at/persons/320314</idno>
                </person>
                <person xml:id="emt_person_id__155">
                   <persName type="name">Königsegg-Rothenfels, Ignaz Eusebius von</persName>
@@ -2913,7 +2917,7 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                <person xml:id="emt_person_id__208">
                   <persName type="name">Wangen, Franz Christoph von</persName>
                   <persName type="function">
-                     <roleName>Deutschordensritter</roleName>
+                     <roleName>Deutschordensritter, Reichshofrat</roleName>
                   </persName>
                   <birth>
                      <date notBefore="1629-01-01" notAfter="1629-12-31">1629</date>
