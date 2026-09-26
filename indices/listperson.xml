@@ -6069,7 +6069,7 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                      <roleName>Pater</roleName>
                   </persName>
                   <persName type="function">
-                     <roleName>Leibarzt Kurfürst Philipp Wilhelms, Beichtvater Kurfürstin Elisabeth Amalias 1690-1692 und Königin Maria Annas von Spanien 1692-1701</roleName>
+                     <roleName>Leibarzt Kurfürst Philipp Wilhelms, Beichtvater Kurfürstin Elisabeth Amalias</roleName>
                   </persName>
                   <birth>
                      <date notBefore="1629-01-01" notAfter="1629-12-31">1629</date>
@@ -8254,7 +8254,7 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                   </persName>
                </person>
                <person xml:id="emt_person_id__716">
-                  <persName type="name">Maria Columba von Santa Teresa</persName>
+                  <persName type="name">Maria Columba von Santa Teresa OCarm (bürgerlicher Name Zriny?)</persName>
                   <persName type="title">
                      <roleName>Priorin</roleName>
                   </persName>
@@ -15068,7 +15068,13 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                   </death>
                </person>
                <person xml:id="emt_person_id__1698">
-                  <persName type="name">Provinzial der Karmeliten (Österreichische Provinz)</persName>
+                  <persName type="name">Theodoricus a Sancto Josepho</persName>
+                  <persName type="title">
+                     <roleName>Pater</roleName>
+                  </persName>
+                  <persName type="function">
+                     <roleName>Provinzial der Karmeliten (Österreichische Provinz)</roleName>
+                  </persName>
                </person>
                <person xml:id="emt_person_id__1700">
                   <persName type="name">Karl XII. von Schweden</persName>
@@ -15750,9 +15756,6 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                   <idno type="WIKIDATA">http://www.wikidata.org/entity/Q55847116</idno>
                   <idno type="URL">https://regionalia.blb-karlsruhe.de/frontdoor/deliver/index/docId/22210/file/BLB_MA_Geschichtsblaetter_1924_25.pdf</idno>
                </person>
-               <person xml:id="emt_person_id__1755">
-                  <persName type="name">Beichtvater Pfalzgraf Karl Philipps 1715</persName>
-               </person>
                <person xml:id="emt_person_id__1756">
                   <persName type="name">Sachsen, Friedrich August II. von</persName>
                   <persName type="title">
@@ -16117,7 +16120,15 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                   <idno type="URL">https://de.wikisource.org/wiki/BLK%C3%96:Hartmann-Klarstein,_das_Grafengeschlecht</idno>
                </person>
                <person xml:id="emt_person_id__1821">
-                  <persName type="name">Hoßlunder / Hoßfurter, NN SJ (1709 in Wien)</persName>
+                  <persName type="name">Hassfurter, Philipp SJ</persName>
+                  <birth>
+                     <date notBefore="1659-01-01" notAfter="1659-12-31">1659</date>
+                  </birth>
+                  <death>
+                     <date notBefore="1722-01-01" notAfter="1722-12-31">1722</date>
+                  </death>
+                  <idno type="GND">https://d-nb.info/gnd/1015755984</idno>
+                  <idno type="URL">https://oberdeutsche-personendatenbank.digitale-sammlungen.de/Datenbank/Hassfurter,_Philipp</idno>
                </person>
                <person xml:id="emt_person_id__1822">
                   <persName type="name">Casali, Giuseppe</persName>
@@ -17383,6 +17394,9 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                   <death>
                      <date notBefore="1724-01-01" notAfter="1724-12-31">1724</date>
                   </death>
+               </person>
+               <person xml:id="emt_person_id__2232">
+                  <persName type="name"/>
                </person>
             </listPerson>
          </div>
