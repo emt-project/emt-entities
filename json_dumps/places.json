@@ -7048,5 +7048,20 @@
     "alternative_name": "",
     "wikidata_url": "",
     "unidentifiziert": false
+  },
+  "1008": {
+    "id": 1008,
+    "order": "492.00000000000000000000",
+    "name": "Diesdorf, Amt",
+    "geonames": "https://www.geonames.org/2937238/diesdorf.html",
+    "emt_id": "emt_place_id__1008",
+    "place_type": null,
+    "lat": "52.75110",
+    "long": "10.875890",
+    "comments intern": "",
+    "gnd": "",
+    "alternative_name": "",
+    "wikidata_url": "",
+    "unidentifiziert": false
   }
 }
