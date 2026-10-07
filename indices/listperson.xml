@@ -3390,7 +3390,7 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                   </persName>
                </person>
                <person xml:id="emt_person_id__247">
-                  <persName type="name">Pater Guardian (1680</persName>
+                  <persName type="name">Pater Guardian (1680 in Wien)</persName>
                </person>
                <person xml:id="emt_person_id__248">
                   <persName type="name">Österreich, Albrecht von</persName>
@@ -3467,7 +3467,7 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                      <roleName>Pater</roleName>
                   </persName>
                   <persName type="function">
-                     <roleName>Beichtvater EMT 1680-1684</roleName>
+                     <roleName>Beichtvater der Kaiserin Eleonora Magdalena 1680-1684</roleName>
                   </persName>
                   <birth>
                      <date notBefore="1618-01-01" notAfter="1618-12-31">1618</date>
@@ -3734,10 +3734,19 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                   <idno type="NDB">https://www.deutsche-biographie.de/sfz22668.html#indexcontent</idno>
                </person>
                <person xml:id="emt_person_id__276">
-                  <persName type="name">Cosmo / Cosmas, Geistlicher</persName>
+                  <persName type="name">Cosmo da Castelfranco OFMCap (bürgerlich Cosmo Pettenari)</persName>
                   <persName type="title">
                      <roleName>Pater</roleName>
                   </persName>
+                  <persName type="function">
+                     <roleName>Sekretär von Marco d'Aviano</roleName>
+                  </persName>
+                  <birth>
+                     <date notBefore="1647-01-01" notAfter="1647-12-31">1647</date>
+                  </birth>
+                  <death>
+                     <date notBefore="1715-01-01" notAfter="1715-12-31">1715</date>
+                  </death>
                </person>
                <person xml:id="emt_person_id__277">
                   <persName type="name">Jochem (Joachim), Geistlicher</persName>
@@ -4659,9 +4668,6 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                      <date notBefore="1690-01-01" notAfter="1690-12-31">1690</date>
                   </death>
                   <idno type="URL">https://run.unl.pt/handle/10362/75618</idno>
-               </person>
-               <person xml:id="emt_person_id__363">
-                  <persName type="name">Auditor (di Rota ?) 1683</persName>
                </person>
                <person xml:id="emt_person_id__364">
                   <persName type="name">Durazzo, Marcello</persName>
@@ -9650,7 +9656,7 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                   <idno type="URL">https://www.genealogieonline.nl/en/genealogie-richard-remme/I12128.php</idno>
                </person>
                <person xml:id="emt_person_id__829">
-                  <persName type="name">Hedera, Pater 1695 (wohl vormals Beichtvater von Herzog Karl V. von Lothringen)</persName>
+                  <persName type="name">Pater Hedera</persName>
                   <persName type="title">
                      <roleName>Pater</roleName>
                   </persName>
@@ -15100,6 +15106,9 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                </person>
                <person xml:id="emt_person_id__1701">
                   <persName type="name">Bischoff, Engelbert SJ</persName>
+                  <persName type="function">
+                     <roleName>Beichtvater Kaiser Josephs I. und Kaiserin Amalia Wilhelminas</roleName>
+                  </persName>
                   <birth>
                      <date notBefore="1654-01-01" notAfter="1654-12-31">1654</date>
                   </birth>
