@@ -5161,9 +5161,6 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                   </persName>
                   <idno type="URL">https://de.m.wikisource.org/wiki/Zedler:Haymann_oder_Heymann_von_Rosenthal</idno>
                </person>
-               <person xml:id="emt_person_id__407">
-                  <persName type="name">Bischof und Weihbischof eines Bistums 1683</persName>
-               </person>
                <person xml:id="emt_person_id__408">
                   <persName type="name">Slavata, Johann Joachim</persName>
                   <persName type="title">
@@ -5482,7 +5479,16 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                   <persName type="name">Obrist des Dietrichsteinschen Regiments 1684</persName>
                </person>
                <person xml:id="emt_person_id__438">
-                  <persName type="name">Schmißing, NN, Inhaber einer Präbende</persName>
+                  <persName type="name">Schmising, Korff genannt Schmising zu Tatenhausen</persName>
+                  <persName type="function">
+                     <roleName>Domherr in Münster</roleName>
+                  </persName>
+                  <death>
+                     <date notBefore="1684-01-01" notAfter="1684-12-31">1684</date>
+                  </death>
+                  <idno type="GND">https://d-nb.info/gnd/18952071X</idno>
+                  <idno type="NDB">https://www.deutsche-biographie.de/pnd18952071X.html</idno>
+                  <idno type="WIKIDATA">http://www.wikidata.org/entity/Q329069</idno>
                </person>
                <person xml:id="emt_person_id__440">
                   <persName type="name">Kinsky, Franz Ulrich</persName>
@@ -5617,9 +5623,6 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                </person>
                <person xml:id="emt_person_id__449">
                   <persName type="name">Minckwitz, Herr von aus Schlesien 1684</persName>
-               </person>
-               <person xml:id="emt_person_id__451">
-                  <persName type="name">Großprior der Johanniter in Spanien 1684</persName>
                </person>
                <person xml:id="emt_person_id__452">
                   <persName type="name">Nostitz, Herr von 1684, wird von PW empfohlen</persName>
@@ -6305,7 +6308,13 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                   </figure>
                </person>
                <person xml:id="emt_person_id__524">
-                  <persName type="name">Florian, Geistlicher 1685</persName>
+                  <persName type="name">Florian CRSP</persName>
+                  <persName type="title">
+                     <roleName>Frater</roleName>
+                  </persName>
+                  <persName type="function">
+                     <roleName>Sakristan der Barnabiten in Wien</roleName>
+                  </persName>
                </person>
                <person xml:id="emt_person_id__525">
                   <persName type="name">Obristleutnant des Fürsten Salm, verteidigt 1685 Gran</persName>
@@ -6979,6 +6988,9 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                </person>
                <person xml:id="emt_person_id__596">
                   <persName type="name">Pater Pinell</persName>
+                  <persName type="title">
+                     <roleName>Pater</roleName>
+                  </persName>
                </person>
                <person xml:id="emt_person_id__597">
                   <persName type="name">Schellart von Oberndorf, Franz Kaspar Adrian von</persName>
@@ -7930,7 +7942,18 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                   <idno type="URL">https://de.wikipedia.org/wiki/Gottlieb_von_Windisch-Graetz#Familie</idno>
                </person>
                <person xml:id="emt_person_id__679">
-                  <persName type="name">Beichtvater des Deutschmeister Ludwig Anton 1686</persName>
+                  <persName type="name">Dorm, Ernst SJ</persName>
+                  <persName type="function">
+                     <roleName>Beichtvater von Pfalzgraf Ludwig Anton</roleName>
+                  </persName>
+                  <birth>
+                     <date notBefore="1643-01-01" notAfter="1643-12-31">1643</date>
+                  </birth>
+                  <death>
+                     <date notBefore="1711-01-01" notAfter="1711-12-31">1711</date>
+                  </death>
+                  <idno type="GND">https://d-nb.info/gnd/124807771</idno>
+                  <idno type="WIKIDATA">http://www.wikidata.org/entity/Q133515126</idno>
                </person>
                <person xml:id="emt_person_id__680">
                   <persName type="name">Geistlicher, der Kaplan bei Maria Sophia in Portugal werden könnte</persName>
@@ -8138,7 +8161,11 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                   <idno type="URL">https://viecpro.oeaw.ac.at/persons/293866</idno>
                </person>
                <person xml:id="emt_person_id__705">
-                  <persName type="name">Herwart, Pater (1687)</persName>
+                  <persName type="name">Herwartz, Peter SJ</persName>
+                  <death>
+                     <date notBefore="1696-01-01" notAfter="1696-12-31">1696</date>
+                  </death>
+                  <idno type="GND">https://d-nb.info/gnd/173366643</idno>
                </person>
                <person xml:id="emt_person_id__706">
                   <persName type="name">Jesuit, Prokurator der böhmischen Provinz 1687</persName>
@@ -8556,10 +8583,17 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                   </figure>
                </person>
                <person xml:id="emt_person_id__742">
-                  <persName type="name">Peyegra, Manuel</persName>
+                  <persName type="name">Angulo y Sandoval, Diego Ventura Fernández de OFM</persName>
                   <persName type="function">
-                     <roleName>Erzbischof von Avila; spanischer Botschafter in Portugal 1684 - 1690</roleName>
+                     <roleName>Bischof von Avila, spanischer Botschafter in Portugal 1684-1690</roleName>
                   </persName>
+                  <birth>
+                     <date notBefore="1632-01-01" notAfter="1632-12-31">1632</date>
+                  </birth>
+                  <death>
+                     <date notBefore="1700-01-01" notAfter="1700-12-31">1700</date>
+                  </death>
+                  <idno type="URL">https://historia-hispanica.rah.es/biografias/44879-diego-ventura-fernandez-de-angulo-y-sandoval</idno>
                </person>
                <person xml:id="emt_person_id__743">
                   <persName type="name">Windischgrätz, Eberhardina Eleonora Sophie von</persName>
@@ -8931,7 +8965,18 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                   </figure>
                </person>
                <person xml:id="emt_person_id__772">
-                  <persName type="name">Suffraganbischof für Köln 1688</persName>
+                  <persName type="name">Anethan, Johann Heinrich von</persName>
+                  <persName type="function">
+                     <roleName>Weihbischof von Köln</roleName>
+                  </persName>
+                  <birth>
+                     <date notBefore="1628-01-01" notAfter="1628-12-31">1628</date>
+                  </birth>
+                  <death>
+                     <date notBefore="1693-01-01" notAfter="1693-12-31">1693</date>
+                  </death>
+                  <idno type="GND">https://d-nb.info/gnd/1051150787</idno>
+                  <idno type="WIKIDATA">http://www.wikidata.org/entity/Q1531957</idno>
                </person>
                <person xml:id="emt_person_id__773">
                   <persName type="name">Her, Sekretär am brandenburgischen Hof 1688</persName>
