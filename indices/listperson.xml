@@ -9631,6 +9631,13 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                   <persName type="function">
                      <roleName>Domherr in Lüttich (bis 1698)</roleName>
                   </persName>
+                  <birth>
+                     <date notBefore="1646-01-01" notAfter="1646-12-31">1646</date>
+                  </birth>
+                  <death>
+                     <date notBefore="1711-01-01" notAfter="1711-12-31">1711</date>
+                  </death>
+                  <idno type="URL">https://gw.geneanet.org/heijnw?lang=de&amp;n=von+bocholtz&amp;p=johann+arnold</idno>
                </person>
                <person xml:id="emt_person_id__824">
                   <persName type="name">Loe (Domherr in Münster 1694)</persName>
@@ -11979,13 +11986,7 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                   </death>
                </person>
                <person xml:id="emt_person_id__1213">
-                  <persName type="name">Pater Hilair (1698)</persName>
-                  <persName type="title">
-                     <roleName>Pater</roleName>
-                  </persName>
-               </person>
-               <person xml:id="emt_person_id__1214">
-                  <persName type="name">Pater Jakob (1698)</persName>
+                  <persName type="name">Andree, Hilarius OFM</persName>
                   <persName type="title">
                      <roleName>Pater</roleName>
                   </persName>
@@ -12138,11 +12139,8 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                      <caption>Fabrizio Paolucci.jpg</caption>
                   </figure>
                </person>
-               <person xml:id="emt_person_id__1226">
-                  <persName type="name">Mutter (Priorin) der Karmelitinnen in Aachen 1701</persName>
-               </person>
                <person xml:id="emt_person_id__1227">
-                  <persName type="name">Margo, ehemalige Kammerdienerin, Karmelitin in Münstereifel (1698)</persName>
+                  <persName type="name">Ansalone, Margaretha ("Margo") OCarm</persName>
                </person>
                <person xml:id="emt_person_id__1228">
                   <persName type="name">Nesselrode-Ehreshoven, Philipp Wilhelm von</persName>
@@ -12604,13 +12602,7 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                   </persName>
                </person>
                <person xml:id="emt_person_id__1265">
-                  <persName type="name">Prior der Wiener Karmeliten OCarm (1700)</persName>
-               </person>
-               <person xml:id="emt_person_id__1266">
-                  <persName type="name">Pater Wolf 1701</persName>
-                  <persName type="title">
-                     <roleName>Pater</roleName>
-                  </persName>
+                  <persName type="name">Theodor a Sancto Joseph OCarm</persName>
                </person>
                <person xml:id="emt_person_id__1269">
                   <persName type="name">Plettenberg, Friedrich Mauritz von</persName>
@@ -12981,19 +12973,22 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                   </persName>
                </person>
                <person xml:id="emt_person_id__1396">
-                  <persName type="name">Fürstenberg-Meßkirch, Maria Theresia von</persName>
+                  <persName type="name">Fürstenberg-Meßkirch, Maria Theresia von, geb. Ligne Fürstin von Arenberg</persName>
                   <persName type="title">
                      <roleName>Gräfin</roleName>
                   </persName>
                   <persName type="function">
-                     <roleName>Kammerfräulein bei Kaiserin Eleonora Magdalena</roleName>
+                     <roleName>Kammerfräulein bei Kaiserin Eleonora Magdalena (ab 1690 geistlich)</roleName>
                   </persName>
                   <birth>
-                     <date notBefore="1667-01-01" notAfter="1667-12-31">1667</date>
+                     <date notBefore="1639-01-01" notAfter="1639-12-31">1639</date>
                   </birth>
                   <death>
-                     <date notBefore="1721-01-01" notAfter="1721-12-31">1721</date>
+                     <date notBefore="1705-01-01" notAfter="1705-12-31">1705</date>
                   </death>
+                  <idno type="GND">https://d-nb.info/gnd/1018396713</idno>
+                  <idno type="NDB">https://www.deutsche-biographie.de/pnd1018396713.html?language=de</idno>
+                  <idno type="WIKIDATA">http://www.wikidata.org/entity/Q55679735</idno>
                   <idno type="URL">https://viecpro.acdh.oeaw.ac.at/persons/252540</idno>
                </person>
                <person xml:id="emt_person_id__1398">
@@ -13077,9 +13072,6 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                      <graphic url="emt_person_id__1403.jpg"/>
                      <caption>Merian - Markgräfin Maria Franziska von Baden-Baden - Staatliche Kunsthalle Karlsruhe.jpg</caption>
                   </figure>
-               </person>
-               <person xml:id="emt_person_id__1404">
-                  <persName type="name">Pater Provinzial, Schreiben 1701</persName>
                </person>
                <person xml:id="emt_person_id__1405">
                   <persName type="name">van Mehse, Leandro / Leander 1701, zur Einrichtung der Münze in Wien</persName>
@@ -13668,7 +13660,7 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                   </figure>
                </person>
                <person xml:id="emt_person_id__1515">
-                  <persName type="name">Mamer, die 1694 in der Angelegenheit mit Dr. Schweizer helfen soll</persName>
+                  <persName type="name">Ordenspriorin, die 1694 in der Angelegenheit mit Dr. Schweizer helfen soll</persName>
                </person>
                <person xml:id="emt_person_id__1516">
                   <persName type="name">Caetano, Manuel Domenico alias "Conte di Ruggiero"</persName>
@@ -14668,9 +14660,6 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                </person>
                <person xml:id="emt_person_id__1629">
                   <persName type="name">General des Theatinerordens (1705)</persName>
-                  <persName type="function">
-                     <roleName>General des Theatinerordens</roleName>
-                  </persName>
                </person>
                <person xml:id="emt_person_id__1630">
                   <persName type="name">Pfalz-Sulzbach, Christian August von</persName>
@@ -14711,7 +14700,7 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                   </figure>
                </person>
                <person xml:id="emt_person_id__1632">
-                  <persName type="name">Zem / Zeno / Ireno (1706 bis 1709 beim Bischof von Osnabrück, hinderlich für dessen Wahl in Münster)</persName>
+                  <persName type="name">Zeno / Ireno (1706, 1709 bei Karl Joseph von Lothringen)</persName>
                </person>
                <person xml:id="emt_person_id__1633">
                   <persName type="name">Götzen, Maria Elisabeth von, vereh. Hohenfeld</persName>
@@ -14755,7 +14744,7 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                   <persName type="name">Berg, Graf (1706 empfohlen)</persName>
                </person>
                <person xml:id="emt_person_id__1672">
-                  <persName type="name">Pater Rektor (der Karmeliten? 1706)</persName>
+                  <persName type="name">Pater Rektor (1706)</persName>
                </person>
                <person xml:id="emt_person_id__1673">
                   <persName type="name">Mutter (Priorin) der Karmelitinnen in Wien 1706</persName>
