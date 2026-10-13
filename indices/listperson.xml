@@ -109,7 +109,7 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                      <roleName>Pater</roleName>
                   </persName>
                   <persName type="function">
-                     <roleName>Rektor des Jesuitenkollegs in Graz bis 1684, Beichtvater Kaiserin Eleonora Magdalena 1684 bis 1705 (?)</roleName>
+                     <roleName>Rektor des Jesuitenkollegs in Graz bis 1684, Beichtvater von Kaiserin Eleonora Magdalena 1684 bis 1705 (?)</roleName>
                   </persName>
                   <birth>
                      <date notBefore="1635-01-01" notAfter="1635-12-31">1635</date>
@@ -9964,9 +9964,6 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                </person>
                <person xml:id="emt_person_id__849">
                   <persName type="name">Tochter der Anna Margaretha von Sickingen (1689 im Gespräch als mögliche Obersthofmeisterin für Königin Maria Anna von Spanien, geb. Pfalz-Neuburg))</persName>
-                  <persName type="function">
-                     <roleName>ist 1689 im Gespräch, Maria Anna als ihre Obersthofmeisterin nach Spanien zu begleiten. Daraus wurde wohl nichts, denn der Name Sickingen taucht dann nirgendwo in der Literatur zu MA auf und lt. Bayern, Adalbert von. Das Ende der Habsburger in Spanien. 2, Maria Anna von Neuburg, Königin von Spanien. München: Bruckmann, 1929, Bd. 2, s. 20 war sie 1690 nicht im abreisenden Gefolge</roleName>
-                  </persName>
                   <idno type="GND">https://d-nb.info/gnd/129339954</idno>
                </person>
                <person xml:id="emt_person_id__850">
