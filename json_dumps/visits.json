@@ -237,7 +237,7 @@
     "id": 9,
     "order": "8.00000000000000000000",
     "emt_id": "emt_visit_id__9",
-    "description": "Philipp Wilhelm von Pfalz-Neuburg in Wien (Tod am 2. September 1690)",
+    "description": "Philipp Wilhelm von Pfalz-Neuburg in Wien (Tod am 12. September 1690)",
     "location": [
       {
         "id": 63,
@@ -253,7 +253,7 @@
       }
     ],
     "from": "1690-07-10",
-    "to": "1690-09-02",
+    "to": "1690-09-12",
     "uncertainty": [],
     "date_text": ""
   },
