@@ -36,16 +36,16 @@ wheels = [
 
 [[package]]
 name = "acdh-geonames-utils"
-version = "1.0.0"
+version = "1.0.1"
 source = { registry = "https://pypi.org/simple" }
 dependencies = [
     { name = "lxml" },
     { name = "pandas" },
     { name = "requests" },
 ]
-sdist = { url = "https://files.pythonhosted.org/packages/e2/3f/dfc4c0bcf195032723729cce53001b3a56b341dcca90f399c4da252ed23b/acdh_geonames_utils-1.0.0.tar.gz", hash = "sha256:5c655f59b1fba22b1ccfdaf89fa0b2535e1e17188efec552f2894cd187cc6bad", size = 3924, upload-time = "2026-10-20T12:23:20.614Z" }
+sdist = { url = "https://files.pythonhosted.org/packages/9a/c6/562b809a61cb1a3893b343902de40eaa23cef00827d310c128b37388ed46/acdh_geonames_utils-1.0.1.tar.gz", hash = "sha256:e051018648e3951e14addf9f9f6d5eb3c25ae52dad7a54e0f9723f32b9f96244", size = 3914, upload-time = "2026-10-21T10:15:18.756Z" }
 wheels = [
-    { url = "https://files.pythonhosted.org/packages/76/61/e1b092dd448aa9ab0e951e998c43a77efddd14752daf658731dd2ddca3cc/acdh_geonames_utils-1.0.0-py3-none-any.whl", hash = "sha256:637db2ed624070037053590cd14cbcf86f8f1c07cbfc155a3309ee20a033de69", size = 5323, upload-time = "2026-10-20T12:23:19.809Z" },
+    { url = "https://files.pythonhosted.org/packages/9b/e8/d69c85bd0ac1a933fc3c01d322631c97baac2c71815591e81f87f36c595f/acdh_geonames_utils-1.0.1-py3-none-any.whl", hash = "sha256:09ca4c4cff24d683cbc3c7881cc41a43e9abdb9e853abd1a7b1a40d53f92dbd0", size = 5332, upload-time = "2026-10-21T10:15:17.945Z" },
 ]
 
 [[package]]
