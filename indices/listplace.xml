@@ -420,7 +420,7 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                   <idno type="GEONAMES">https://sws.geonames.org/7872827/</idno>
                </place>
                <place xml:id="emt_place_id__58">
-                  <placeName>Zvoleněves / Losdorf</placeName>
+                  <placeName>Losdorf / Zvoleněves</placeName>
                   <location type="coords">
                      <geo>50.23115 14.182210</geo>
                   </location>
@@ -2100,7 +2100,7 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                   <idno type="GND">https://d-nb.info/gnd/4399241-9</idno>
                </place>
                <place xml:id="emt_place_id__375">
-                  <placeName>Freudenthal (tschech. Bruntál)</placeName>
+                  <placeName>Freudenthal / Bruntál</placeName>
                   <location type="coords">
                      <geo>49.98844 17.464700</geo>
                   </location>
@@ -2195,7 +2195,7 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                   <placeName>Münster, Karmeliterkloster</placeName>
                </place>
                <place xml:id="emt_place_id__488">
-                  <placeName>Teplice / Teplitz</placeName>
+                  <placeName>Teplitz / Teplice</placeName>
                   <location type="coords">
                      <geo>50.64040 13.824510</geo>
                   </location>
@@ -2240,7 +2240,7 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                   <idno type="GND">https://d-nb.info/gnd/4669636-2</idno>
                </place>
                <place xml:id="emt_place_id__496">
-                  <placeName>Kremnica / Kremnitz / Körmöcbánya</placeName>
+                  <placeName>Kremnitz / Kremnica / Körmöcbánya</placeName>
                   <location type="coords">
                      <geo>48.70519 18.918340</geo>
                   </location>
@@ -2614,7 +2614,7 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                   <idno type="GEONAMES">https://sws.geonames.org/2789529/</idno>
                </place>
                <place xml:id="emt_place_id__763">
-                  <placeName>Neutra / Nitra / Niytra</placeName>
+                  <placeName>Neutra / Nitra / Nyitra</placeName>
                   <location type="coords">
                      <geo>48.30763 18.084530</geo>
                   </location>
@@ -2866,7 +2866,7 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                   <placeName>Schönhausen</placeName>
                </place>
                <place xml:id="emt_place_id__968">
-                  <placeName>La Petite-Pierre / Lützelstein / Lìtzelstän</placeName>
+                  <placeName>Lützelstein / La Petite-Pierre / Lìtzelstän</placeName>
                   <location type="coords">
                      <geo>48.85875 7.321390</geo>
                   </location>

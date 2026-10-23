@@ -767,7 +767,7 @@
   "58": {
     "id": 58,
     "order": "58.00000000000000000000",
-    "name": "Zvoleněves / Losdorf",
+    "name": "Losdorf / Zvoleněves",
     "geonames": "https://www.geonames.org/3061291/zvoleneves.html",
     "emt_id": "emt_place_id__58",
     "place_type": null,
@@ -4817,7 +4817,7 @@
   "375": {
     "id": 375,
     "order": "338.00000000000000000000",
-    "name": "Freudenthal (tschech. Bruntál)",
+    "name": "Freudenthal / Bruntál",
     "geonames": "https://www.geonames.org/3078545/bruntal.html",
     "emt_id": "emt_place_id__375",
     "place_type": null,
@@ -5087,7 +5087,7 @@
   "488": {
     "id": 488,
     "order": "356.00000000000000000000",
-    "name": "Teplice / Teplitz",
+    "name": "Teplitz / Teplice",
     "geonames": "https://www.geonames.org/3064288/teplice.html",
     "emt_id": "emt_place_id__488",
     "place_type": null,
@@ -5207,7 +5207,7 @@
   "496": {
     "id": 496,
     "order": "364.00000000000000000000",
-    "name": "Kremnica / Kremnitz / Körmöcbánya",
+    "name": "Kremnitz / Kremnica / Körmöcbánya",
     "geonames": "https://www.geonames.org/3059282/kremnica.html",
     "emt_id": "emt_place_id__496",
     "place_type": null,
@@ -6302,7 +6302,7 @@
   "763": {
     "id": 763,
     "order": "439.00000000000000000000",
-    "name": "Neutra / Nitra / Niytra",
+    "name": "Neutra / Nitra / Nyitra",
     "geonames": "https://www.geonames.org/3058531/nitra.html",
     "emt_id": "emt_place_id__763",
     "place_type": null,
@@ -6932,7 +6932,7 @@
   "968": {
     "id": 968,
     "order": "484.00000000000000000000",
-    "name": "La Petite-Pierre / Lützelstein / Lìtzelstän",
+    "name": "Lützelstein / La Petite-Pierre / Lìtzelstän",
     "geonames": "https://www.geonames.org/3007352/la-petite-pierre.html",
     "emt_id": "emt_place_id__968",
     "place_type": null,
