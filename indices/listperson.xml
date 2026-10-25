@@ -12510,7 +12510,17 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                   <persName type="name">Schwester der Vogtin (Voit?) (1699)</persName>
                </person>
                <person xml:id="emt_person_id__1253">
-                  <persName type="name">De Hoppe (Niederländer, verhandelt 1699 mit Villars)</persName>
+                  <persName type="name">Hop, Jacob</persName>
+                  <persName type="function">
+                     <roleName>Diplomat, Amtsträger der Generalstaaten</roleName>
+                  </persName>
+                  <birth>
+                     <date notBefore="1654-01-01" notAfter="1654-12-31">1654</date>
+                  </birth>
+                  <death>
+                     <date notBefore="1725-01-01" notAfter="1725-12-31">1725</date>
+                  </death>
+                  <idno type="URL">https://nl.wikipedia.org/wiki/Jacob_Hop</idno>
                </person>
                <person xml:id="emt_person_id__1254">
                   <persName type="name">Geizkofler, Anna Elisabeth</persName>
@@ -13189,7 +13199,26 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                   </figure>
                </person>
                <person xml:id="emt_person_id__1447">
-                  <persName type="name">Fourtin (verbreitet 1702 Gerüchte)</persName>
+                  <persName type="name">Fourbin de Janson, Toussaint</persName>
+                  <persName type="title">
+                     <roleName>Kardinal</roleName>
+                  </persName>
+                  <persName type="function">
+                     <roleName>Bischof von Beauvais, Diplomat</roleName>
+                  </persName>
+                  <birth>
+                     <date notBefore="1631-01-01" notAfter="1631-12-31">1631</date>
+                  </birth>
+                  <death>
+                     <date notBefore="1713-01-01" notAfter="1713-12-31">1713</date>
+                  </death>
+                  <idno type="GND">https://d-nb.info/gnd/104249560</idno>
+                  <idno type="WIKIDATA">http://www.wikidata.org/entity/Q606217</idno>
+                  <idno type="URL">https://de.wikipedia.org/wiki/Toussaint_de_Forbin_de_Janson</idno>
+                  <figure>
+                     <graphic url="emt_person_id__1447.jpg"/>
+                     <caption>Masson Antoine - Toussaint de Forbin de Janson, 1672.jpg</caption>
+                  </figure>
                </person>
                <person xml:id="emt_person_id__1448">
                   <persName type="name">Villeroy, François de Neufville, duc de</persName>
@@ -13778,7 +13807,7 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                   </figure>
                </person>
                <person xml:id="emt_person_id__1526">
-                  <persName type="name">Kokořovec, Peter Franz (1704 empfohlen)</persName>
+                  <persName type="name">Kokořovec (Kokorschowetz), Peter Franz</persName>
                   <persName type="title">
                      <roleName>Graf</roleName>
                   </persName>
@@ -14101,7 +14130,13 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                   </figure>
                </person>
                <person xml:id="emt_person_id__1556">
-                  <persName type="name">Faber (1705, Kanzleidirektor in Worms)</persName>
+                  <persName type="name">Faber, Johann Georg</persName>
+                  <persName type="function">
+                     <roleName>Schöffe in Worma</roleName>
+                  </persName>
+                  <death>
+                     <date notBefore="1729-01-01" notAfter="1729-12-31">1729</date>
+                  </death>
                </person>
                <person xml:id="emt_person_id__1557">
                   <persName type="name">Tönnemann, Vitus Georg SJ</persName>
@@ -15723,17 +15758,17 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                   </figure>
                </person>
                <person xml:id="emt_person_id__1747">
-                  <persName type="name">Vezzi, Fabrizio (1708)</persName>
+                  <persName type="name">Vezzi, Fabrizio</persName>
                   <persName type="function">
-                     <roleName>Läufer am Kaiserhof (1704)</roleName>
+                     <roleName>Läufer am Kaiserhof</roleName>
                   </persName>
                   <idno type="URL">https://viecpro.acdh.oeaw.ac.at/persons/183755</idno>
                </person>
                <person xml:id="emt_person_id__1748">
-                  <persName type="name">Vezzi, Ehefrau des Fabrizio Vezzi (1708)</persName>
+                  <persName type="name">Vezzi, Maria Theresia</persName>
                </person>
                <person xml:id="emt_person_id__1749">
-                  <persName type="name">Vezzi, unehelich bei Fabrizio Vezzi lebende Frau (1708)</persName>
+                  <persName type="name">Grandjean, Anna Regina</persName>
                </person>
                <person xml:id="emt_person_id__1750">
                   <persName type="name">Redig / Reding / Rätting, NN (in Neuburg, soll 1708 einen Titel erhalten)</persName>
@@ -17168,7 +17203,7 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                   <persName type="name">NN, 1684 als Sprachmeister empfohlen</persName>
                </person>
                <person xml:id="emt_person_id__2165">
-                  <persName type="name">Kokořovec (Cocorschowiz), Ferdinand Hroznata</persName>
+                  <persName type="name">Kokořovec (Kokorschowetz), Ferdinand Hroznata</persName>
                   <persName type="title">
                      <roleName>Graf</roleName>
                   </persName>
@@ -17437,6 +17472,28 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                </person>
                <person xml:id="emt_person_id__2232">
                   <persName type="name"/>
+               </person>
+               <person xml:id="emt_person_id__2233">
+                  <persName type="name">Lorraine-Vaudémont, Charles Henri de</persName>
+                  <persName type="title">
+                     <roleName>Herzog</roleName>
+                  </persName>
+                  <persName type="function">
+                     <roleName>1698 bis 1706 Gouverneur von Mailand</roleName>
+                  </persName>
+                  <birth>
+                     <date notBefore="1649-01-01" notAfter="1649-12-31">1649</date>
+                  </birth>
+                  <death>
+                     <date notBefore="1723-01-01" notAfter="1723-12-31">1723</date>
+                  </death>
+                  <idno type="GND">https://d-nb.info/gnd/1019765992</idno>
+                  <idno type="WIKIDATA">http://www.wikidata.org/entity/Q2351059</idno>
+                  <idno type="URL">https://de.wikipedia.org/wiki/Charles_Henri_de_Lorraine-Vaud%C3%A9mont</idno>
+                  <figure>
+                     <graphic url="emt_person_id__2233.jpg"/>
+                     <caption>French School - Charles-Henri de Lorraine, prince de Vaudémont.png</caption>
+                  </figure>
                </person>
             </listPerson>
          </div>
