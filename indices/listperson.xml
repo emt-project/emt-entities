@@ -7306,7 +7306,10 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                   <idno type="URL">https://de.wikipedia.org/wiki/Imbsen_(Adelsgeschlecht)#Pers%C3%B6nlichkeiten</idno>
                </person>
                <person xml:id="emt_person_id__623">
-                  <persName type="name">Novelli (überbringt 1693 ein Schreiben von Kurfürst Johann Wilhelm)</persName>
+                  <persName type="name">Novelli, Scipione</persName>
+                  <persName type="function">
+                     <roleName>Kammerdiener Johann Wilhelms bzw. Anna Maria Luisas</roleName>
+                  </persName>
                </person>
                <person xml:id="emt_person_id__624">
                   <persName type="name">Schweizer, Ehefrau des Dr. Schweizer (1693 bereits verstorben)</persName>
@@ -9930,10 +9933,13 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                   <persName type="name">Spanien, Haus</persName>
                </person>
                <person xml:id="emt_person_id__846">
-                  <persName type="name">Marci (Marzi) de Medices, Cosmas</persName>
+                  <persName type="name">Marci (Marzi) de Medici, Cosimo</persName>
                   <persName type="function">
                      <roleName>Hofmeister Philipp Wilhelms (d.J.) von Pfalz-Neuburg</roleName>
                   </persName>
+                  <death>
+                     <date notBefore="1698-01-01" notAfter="1698-12-31">1698</date>
+                  </death>
                   <idno type="URL">https://neuburgarchiv.wordpress.com/wp-content/uploads/2013/02/waberer-bis-wellenstein-w-596-01-bis-637-03.pdf</idno>
                </person>
                <person xml:id="emt_person_id__847">
