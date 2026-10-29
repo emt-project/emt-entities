@@ -423,6 +423,12 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                </person>
                <person xml:id="emt_person_id__22">
                   <persName type="name">Müller, Johanna Franziska Elisabeth von, geb. Tänzl von Trazberg</persName>
+                  <birth>
+                     <date notBefore="1652-01-01" notAfter="1652-12-31">1652</date>
+                  </birth>
+                  <death>
+                     <date notBefore="1714-01-01" notAfter="1714-12-31">1714</date>
+                  </death>
                   <idno type="URL">https://neuburgarchiv.wordpress.com/wp-content/uploads/2013/02/tanberg-bis-thiereck-t-493-01-bis-522-06.pdf</idno>
                </person>
                <person xml:id="emt_person_id__23">
@@ -2646,7 +2652,7 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                   <persName type="name">Kollonitsch, Herr von 1678</persName>
                </person>
                <person xml:id="emt_person_id__182">
-                  <persName type="name">Spiring, Franz Wilhelm von</persName>
+                  <persName type="name">Spiering, Wilhelm Franz von</persName>
                   <persName type="function">
                      <roleName>Kämmerer Pfalz-Neuburg</roleName>
                   </persName>
@@ -2656,7 +2662,19 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                   <idno type="URL">https://neuburgarchiv.wordpress.com/wp-content/uploads/2013/02/sillmann-bis-syrgenstein-s-256-01-bis-298-03.pdf</idno>
                </person>
                <person xml:id="emt_person_id__183">
-                  <persName type="name">Serin / Serni, Freiherr von, Kämmerer PWs 1678</persName>
+                  <persName type="name">Servi, Johann Dominikus</persName>
+                  <persName type="title">
+                     <roleName>Graf</roleName>
+                  </persName>
+                  <persName type="function">
+                     <roleName>Kämmerer, Obersthofmeister von Kurfürstin Elisabeth Amalie</roleName>
+                  </persName>
+                  <birth>
+                     <date notBefore="1593-01-01" notAfter="1593-12-31">1593</date>
+                  </birth>
+                  <death>
+                     <date notBefore="1679-01-01" notAfter="1679-12-31">1679</date>
+                  </death>
                </person>
                <person xml:id="emt_person_id__184">
                   <persName type="name">Kollonitsch, Fräulein, soll 1678 Hoffräulein werden</persName>
@@ -3323,6 +3341,9 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                   <birth>
                      <date notBefore="1667-01-01" notAfter="1667-12-31">1667</date>
                   </birth>
+                  <death>
+                     <date notBefore="1701-01-01" notAfter="1701-12-31">1701</date>
+                  </death>
                   <idno type="GND">https://d-nb.info/gnd/1011571021</idno>
                   <idno type="NDB">https://www.deutsche-biographie.de/pnd1011571021.html#indexcontent</idno>
                </person>
@@ -6500,9 +6521,6 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                   <idno type="NDB">https://www.deutsche-biographie.de/sfz54923.html#ndbcontent</idno>
                   <idno type="WIKIDATA">http://www.wikidata.org/entity/Q1463876</idno>
                </person>
-               <person xml:id="emt_person_id__545">
-                  <persName type="name">Rummel, NN (1691, Bruder von Franz Ferdinand von Rummel)</persName>
-               </person>
                <person xml:id="emt_person_id__546">
                   <persName type="name">Bodler, Johann SJ</persName>
                   <persName type="title">
@@ -7013,10 +7031,10 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                   <persName type="name">Velbrück, Herr von 1686</persName>
                </person>
                <person xml:id="emt_person_id__599">
-                  <persName type="name">Irmans, NN 1686</persName>
+                  <persName type="name">Ehrmans, Joachim Wilhelm</persName>
                </person>
                <person xml:id="emt_person_id__600">
-                  <persName type="name">Irmans, Maria Susanna 1686</persName>
+                  <persName type="name">Ehrmans, Maria Susanna, geb. NN</persName>
                </person>
                <person xml:id="emt_person_id__601">
                   <persName type="name">Eck von Hungersbach, Christian</persName>
@@ -8103,6 +8121,9 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                   <birth>
                      <date notBefore="1638-01-01" notAfter="1638-12-31">1638</date>
                   </birth>
+                  <death>
+                     <date notBefore="1697-01-01" notAfter="1697-12-31">1697</date>
+                  </death>
                </person>
                <person xml:id="emt_person_id__701">
                   <persName type="name">Caprara, Enea Silvio</persName>
@@ -11420,7 +11441,7 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                   <persName type="name">Defin, Baron (wird 1697 nach Polen geschickt)</persName>
                </person>
                <person xml:id="emt_person_id__1105">
-                  <persName type="name">Gise, Philipp Konstanz von</persName>
+                  <persName type="name">Gise, Philipp Constanz von</persName>
                   <persName type="title">
                      <roleName>Freiherr</roleName>
                   </persName>
@@ -11799,7 +11820,7 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                   <persName type="name">Althann, Ehemann der A., NN 1697</persName>
                </person>
                <person xml:id="emt_person_id__1164">
-                  <persName type="name">Wachtendonck, Edmund Dietrich von</persName>
+                  <persName type="name">Wachtendonk, Edmund Dietrich von</persName>
                   <persName type="function">
                      <roleName>Domherr in Osnabrück</roleName>
                   </persName>
@@ -11809,7 +11830,7 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                   <idno type="URL">https://www.google.at/books/edition/J%C3%A4hrliches_genealogisches_Hand_Buch/PqRAAAAAcAAJ?hl=de&amp;gbpv=1&amp;dq=Wachtendonck+Edmund+Dietrich&amp;pg=PA186&amp;printsec=frontcover</idno>
                </person>
                <person xml:id="emt_person_id__1165">
-                  <persName type="name">Wachtendonck, Karl Franz von</persName>
+                  <persName type="name">Wachtendonk, Karl Franz von</persName>
                   <persName type="function">
                      <roleName>Domherr in Osnabrück</roleName>
                   </persName>
@@ -13718,7 +13739,7 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                   </death>
                </person>
                <person xml:id="emt_person_id__1518">
-                  <persName type="name">Lazansky, Adam Veit von</persName>
+                  <persName type="name">Lazansky, Adam Veit</persName>
                   <persName type="title">
                      <roleName>Graf</roleName>
                   </persName>
@@ -13992,9 +14013,18 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                </person>
                <person xml:id="emt_person_id__1545">
                   <persName type="name">Martelli, Marco</persName>
+                  <persName type="title">
+                     <roleName>Marchese</roleName>
+                  </persName>
                   <persName type="function">
                      <roleName>florentinischer Gesandter in Wien 1699-1708</roleName>
                   </persName>
+                  <birth>
+                     <date notBefore="1670-01-01" notAfter="1670-12-31">1670</date>
+                  </birth>
+                  <death>
+                     <date notBefore="1734-01-01" notAfter="1734-12-31">1734</date>
+                  </death>
                </person>
                <person xml:id="emt_person_id__1546">
                   <persName type="name">Diest, Friedrich Wilhelm von</persName>
@@ -16126,7 +16156,14 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                   </figure>
                </person>
                <person xml:id="emt_person_id__1778">
-                  <persName type="name">Wachtendonck, der 1714 einen Brief von EMT an JW überbringt</persName>
+                  <persName type="name">Wachtendonk, Bertram Anton von</persName>
+                  <persName type="function">
+                     <roleName>Deutschordensritter, kaiserlicher General</roleName>
+                  </persName>
+                  <death>
+                     <date notBefore="1720-01-01" notAfter="1720-12-31">1720</date>
+                  </death>
+                  <idno type="URL">https://austria-forum.org/af/AustriaWiki/Liste_der_kaiserlichen_Generale_der_Fr%C3%BChen_Neuzeit/W</idno>
                </person>
                <person xml:id="emt_person_id__1811">
                   <persName type="name">Panciatichi, Niccolò</persName>
@@ -16583,7 +16620,14 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                   <persName type="name">Gonzaga-Nevers, Haus</persName>
                </person>
                <person xml:id="emt_person_id__1896">
-                  <persName type="name">Mascambruno (1710 empfohlen)</persName>
+                  <persName type="name">Mascambruno, Antonio</persName>
+                  <persName type="title">
+                     <roleName>Marchese</roleName>
+                  </persName>
+                  <persName type="function">
+                     <roleName>Vertreter der Kurpfalz in Neapel 1685-1702, 1707-1709</roleName>
+                  </persName>
+                  <idno type="URL">https://www.nobili-napoletani.it/Mascambruno.htm</idno>
                </person>
                <person xml:id="emt_person_id__1929">
                   <persName type="name">Dengellen (alter Diener, 1710 empfohlen)</persName>
@@ -17432,10 +17476,19 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                   </figure>
                </person>
                <person xml:id="emt_person_id__2193">
-                  <persName type="name">Guadagni, Marchese</persName>
+                  <persName type="name">Guadagni, Neri</persName>
                   <persName type="title">
                      <roleName>Marchese</roleName>
                   </persName>
+                  <persName type="function">
+                     <roleName>toskanischer Gesandter in Wien 1705, 1708-1717</roleName>
+                  </persName>
+                  <birth>
+                     <date notBefore="1673-01-01" notAfter="1673-12-31">1673</date>
+                  </birth>
+                  <death>
+                     <date notBefore="1748-01-01" notAfter="1748-12-31">1748</date>
+                  </death>
                </person>
                <person xml:id="emt_person_id__2194">
                   <persName type="name">Sekretär (des kaiserlichen Kriegskommissariats?) Landini</persName>
@@ -17477,7 +17530,16 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                   </death>
                </person>
                <person xml:id="emt_person_id__2232">
-                  <persName type="name"/>
+                  <persName type="name">Velden, Heinrich Ludiwg von</persName>
+                  <persName type="function">
+                     <roleName>Kämmerer Pfalz-Neuburg</roleName>
+                  </persName>
+                  <birth>
+                     <date notBefore="1625-01-01" notAfter="1625-12-31">1625</date>
+                  </birth>
+                  <death>
+                     <date notBefore="1693-01-01" notAfter="1693-12-31">1693</date>
+                  </death>
                </person>
                <person xml:id="emt_person_id__2233">
                   <persName type="name">Lorraine-Vaudémont, Charles Henri de</persName>
