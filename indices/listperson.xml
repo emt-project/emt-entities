@@ -7028,7 +7028,14 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                   <idno type="URL">https://kaiserhof.geschichte.lmu.de/14083</idno>
                </person>
                <person xml:id="emt_person_id__598">
-                  <persName type="name">Velbrück, Herr von 1686</persName>
+                  <persName type="name">Velbrück, Wolfgang Philipp Franz von</persName>
+                  <persName type="function">
+                     <roleName>Obriststallmeister Johann Wilhelms</roleName>
+                  </persName>
+                  <death>
+                     <date notBefore="1702-01-01" notAfter="1702-12-31">1702</date>
+                  </death>
+                  <idno type="URL">https://de.wikipedia.org/wiki/Velbr%C3%BCck_(Adelsgeschlecht)</idno>
                </person>
                <person xml:id="emt_person_id__599">
                   <persName type="name">Ehrmans, Joachim Wilhelm</persName>
@@ -17045,7 +17052,7 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                   <persName type="name">Dr. Hueber (1712 beim Bischof von Augsburg)</persName>
                </person>
                <person xml:id="emt_person_id__2037">
-                  <persName type="name">Mocchi, Giovanni Battista</persName>
+                  <persName type="name">Mocchi, Giovanni Battista CCF</persName>
                   <birth>
                      <date notBefore="1620-01-01" notAfter="1620-12-31">1620</date>
                   </birth>
