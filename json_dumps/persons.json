@@ -9976,7 +9976,7 @@
     "gnd": "",
     "other_url": "",
     "emt_id": "emt_person_id__334",
-    "internal_comment": "1682 von PW als Nachfolger für Huber als Leibarzt EMTs vorgeschlagen; ist aber in Düsseldorf bei Erzherzogin",
+    "internal_comment": "1682 von PW als Nachfolger für Huber als Leibarzt EMTs vorgeschlagen; ist aber in Düsseldorf bei Erzherzogin\nerwähnt als Leibarzt JWs 1694, der Ludwig Anton in Lüttich beisteht: Lehner, Ludwig Anton, 220",
     "color": "",
     "lebensdaten": "",
     "ndb": "",
@@ -13632,11 +13632,11 @@
   "466": {
     "id": 466,
     "order": "464.00000000000000000000",
-    "name": "Oberstleutnant im Regiment Karl Philipps 1684",
+    "name": "Zierotin, Oberstleutnant im Regiment Karl Philipps 1684",
     "gnd": "",
     "other_url": "",
     "emt_id": "emt_person_id__466",
-    "internal_comment": "ist das ehemalige Dietrichsteinische Regiment, das Karl Philipp 1684 übernommen hat",
+    "internal_comment": "ist das ehemalige Dietrichsteinische Regiment, das Karl Philipp 1684 übernommen hat\nName nach Kaps, Franz Ludwig",
     "color": "",
     "lebensdaten": "",
     "ndb": "",
@@ -17176,7 +17176,13 @@
     "geschlecht": "",
     "funktionsbezeichnungen": "Reichshofrat, Diplomat, kaiserlicher und pfalz-neuburgischer Kämmerer",
     "unidentifiziert": false,
-    "titel": [],
+    "titel": [
+      {
+        "id": 19689,
+        "value": "Graf",
+        "color": "purple"
+      }
+    ],
     "geistlich": null,
     "Hofstaat": null,
     "Konfession": null
@@ -24939,7 +24945,7 @@
     "gnd": "",
     "other_url": "",
     "emt_id": "emt_person_id__868",
-    "internal_comment": "EMT vermutet, dass ihn JW deshalb nach Düsseldorf berufen haben wird, damit er wegen der Hochzeitspläne (für Franz Ludwig oder Ludiwg Anton) nach Protugal gehe, weil Mansfeld krank ist",
+    "internal_comment": "EMT vermutet, dass ihn JW deshalb nach Düsseldorf berufen haben wird, damit er wegen der Hochzeitspläne (für Franz Ludwig oder Ludwig Anton) nach Portugal gehe, weil Mansfeld krank ist",
     "color": "",
     "lebensdaten": "",
     "ndb": "",

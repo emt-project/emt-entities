@@ -5771,7 +5771,7 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                   <idno type="URL">http://w.genealogy.euweb.cz/oett/oett3.html</idno>
                </person>
                <person xml:id="emt_person_id__466">
-                  <persName type="name">Oberstleutnant im Regiment Karl Philipps 1684</persName>
+                  <persName type="name">Zierotin, Oberstleutnant im Regiment Karl Philipps 1684</persName>
                </person>
                <person xml:id="emt_person_id__467">
                   <persName type="name">Cavriani, Franz Karl</persName>
@@ -7045,6 +7045,9 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                </person>
                <person xml:id="emt_person_id__601">
                   <persName type="name">Eck von Hungersbach, Christian</persName>
+                  <persName type="title">
+                     <roleName>Graf</roleName>
+                  </persName>
                   <persName type="function">
                      <roleName>Reichshofrat, Diplomat, kaiserlicher und pfalz-neuburgischer Kämmerer</roleName>
                   </persName>
