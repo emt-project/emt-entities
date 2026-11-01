@@ -2736,7 +2736,7 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                      <roleName>Graf</roleName>
                   </persName>
                   <persName type="function">
-                     <roleName>Großhofmeister der Pfalz, kaiserlicher Kämmerer</roleName>
+                     <roleName>pfalz-neuburgischer Obersthofmeister 1685-90, kaiserlicher Kämmerer, Statthalter in Neuburg 1691</roleName>
                   </persName>
                   <birth>
                      <date notBefore="1648-01-01" notAfter="1648-12-31">1648</date>
@@ -17571,6 +17571,43 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                   <figure>
                      <graphic url="emt_person_id__2233.jpg"/>
                      <caption>French School - Charles-Henri de Lorraine, prince de Vaudémont.png</caption>
+                  </figure>
+               </person>
+               <person xml:id="emt_person_id__2266">
+                  <persName type="name">Fugger von Kirchberg, Paul</persName>
+                  <persName type="title">
+                     <roleName>Graf</roleName>
+                  </persName>
+                  <persName type="function">
+                     <roleName>pfalz-neuburgischer Obersthofmiester 1679-1685, ab 1685 Oberstkämmerer Bayern</roleName>
+                  </persName>
+                  <birth>
+                     <date notBefore="1637-01-01" notAfter="1637-12-31">1637</date>
+                  </birth>
+                  <death>
+                     <date notBefore="1701-01-01" notAfter="1701-12-31">1701</date>
+                  </death>
+                  <idno type="GND">https://d-nb.info/gnd/136021271</idno>
+                  <idno type="WIKIDATA">http://www.wikidata.org/entity/Q126884</idno>
+                  <idno type="URL">https://www.deutsche-biographie.de/sfz18029.html#indexcontent</idno>
+               </person>
+               <person xml:id="emt_person_id__2267">
+                  <persName type="name">Fugger von Kirchberg, Johann Otto</persName>
+                  <persName type="title">
+                     <roleName>Graf</roleName>
+                  </persName>
+                  <persName type="function">
+                     <roleName>pfalz-neuburgischer Obersthofmeister 1684-1687</roleName>
+                  </persName>
+                  <death>
+                     <date notBefore="1687-01-01" notAfter="1687-12-31">1687</date>
+                  </death>
+                  <idno type="GND">https://d-nb.info/gnd/122856325</idno>
+                  <idno type="NDB">https://www.deutsche-biographie.de/sfz18013.html#indexcontent</idno>
+                  <idno type="WIKIDATA">http://www.wikidata.org/entity/Q55850149</idno>
+                  <figure>
+                     <graphic url="emt_person_id__2267.jpg"/>
+                     <caption>Hans Otto Fugger.jpg</caption>
                   </figure>
                </person>
             </listPerson>

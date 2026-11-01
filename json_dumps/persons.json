@@ -5817,7 +5817,7 @@
     "birth_date_written": "",
     "death_date_written": "",
     "geschlecht": null,
-    "funktionsbezeichnungen": "Großhofmeister der Pfalz, kaiserlicher Kämmerer",
+    "funktionsbezeichnungen": "pfalz-neuburgischer Obersthofmeister 1685-90, kaiserlicher Kämmerer, Statthalter in Neuburg 1691",
     "unidentifiziert": false,
     "titel": [
       {
@@ -43570,6 +43570,74 @@
         "id": 19690,
         "value": "Herzog",
         "color": "darker-blue"
+      }
+    ],
+    "geistlich": "",
+    "Hofstaat": "",
+    "Konfession": ""
+  },
+  "2266": {
+    "id": 2266,
+    "order": "1524.00000000000000000000",
+    "name": "Fugger von Kirchberg, Paul",
+    "gnd": "https://d-nb.info/gnd/136021271",
+    "other_url": "https://www.deutsche-biographie.de/sfz18029.html#indexcontent",
+    "emt_id": "emt_person_id__2266",
+    "internal_comment": "Henker, Prosopografie, 143f.",
+    "color": "",
+    "lebensdaten": "",
+    "ndb": "",
+    "year_of_birth": "1637",
+    "year_of_death": "1701",
+    "wikidata_url": "http://www.wikidata.org/entity/Q126884",
+    "wikidata_enriched": true,
+    "img_name": "",
+    "img_fetched": true,
+    "img_source": "",
+    "birth_date_written": "",
+    "death_date_written": "",
+    "geschlecht": "",
+    "funktionsbezeichnungen": "pfalz-neuburgischer Obersthofmiester 1679-1685, ab 1685 Oberstkämmerer Bayern",
+    "unidentifiziert": false,
+    "titel": [
+      {
+        "id": 19689,
+        "value": "Graf",
+        "color": "purple"
+      }
+    ],
+    "geistlich": "",
+    "Hofstaat": "",
+    "Konfession": ""
+  },
+  "2267": {
+    "id": 2267,
+    "order": "1525.00000000000000000000",
+    "name": "Fugger von Kirchberg, Johann Otto",
+    "gnd": "https://d-nb.info/gnd/122856325",
+    "other_url": "",
+    "emt_id": "emt_person_id__2267",
+    "internal_comment": "Henker, Prosopografie, 144",
+    "color": "",
+    "lebensdaten": "",
+    "ndb": "https://www.deutsche-biographie.de/sfz18013.html#indexcontent",
+    "year_of_birth": null,
+    "year_of_death": "1687",
+    "wikidata_url": "http://www.wikidata.org/entity/Q55850149",
+    "wikidata_enriched": true,
+    "img_name": "Hans Otto Fugger.jpg",
+    "img_fetched": true,
+    "img_source": "commonsMedia",
+    "birth_date_written": "",
+    "death_date_written": "",
+    "geschlecht": "",
+    "funktionsbezeichnungen": "pfalz-neuburgischer Obersthofmeister 1684-1687",
+    "unidentifiziert": false,
+    "titel": [
+      {
+        "id": 19689,
+        "value": "Graf",
+        "color": "purple"
       }
     ],
     "geistlich": "",
