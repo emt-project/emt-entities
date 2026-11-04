@@ -2183,7 +2183,17 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                   <idno type="NDB">https://www.deutsche-biographie.de/sfz59368.html#indexcontent</idno>
                </person>
                <person xml:id="emt_person_id__140">
-                  <persName type="name">Bongartz, für ihn soll EMT Fürsprache einlegen 1677</persName>
+                  <persName type="name">Bongart, Philipp Wilhelm von</persName>
+                  <persName type="function">
+                     <roleName>Erbkämmerer Jülich, Diplomat</roleName>
+                  </persName>
+                  <birth>
+                     <date notBefore="1644-01-01" notAfter="1644-12-31">1644</date>
+                  </birth>
+                  <death>
+                     <date notBefore="1714-01-01" notAfter="1714-12-31">1714</date>
+                  </death>
+                  <idno type="URL">https://digital.ulb.hhu.de/ihd/content/zoom/8228442</idno>
                </person>
                <person xml:id="emt_person_id__141">
                   <persName type="name">Eltz, von und zu (Familie)</persName>
@@ -10754,9 +10764,9 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                   <idno type="WIKIDATA">http://www.wikidata.org/entity/Q94530830</idno>
                </person>
                <person xml:id="emt_person_id__978">
-                  <persName type="name">Bomgart (1695 erschossen)</persName>
+                  <persName type="name">Bongart, Erich Adolph Vonzenz von</persName>
                   <persName type="function">
-                     <roleName>Rittmeister</roleName>
+                     <roleName>Obristleutnant</roleName>
                   </persName>
                   <death>
                      <date notBefore="1695-01-01" notAfter="1695-12-31">1695</date>
@@ -15596,6 +15606,9 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                   <persName type="function">
                      <roleName>pfälzischer Hofkammerpräsident und Geheimer Rat, Statthalter in Jülich-Berg,</roleName>
                   </persName>
+                  <birth>
+                     <date notBefore="1663-01-01" notAfter="1663-12-31">1663</date>
+                  </birth>
                   <death>
                      <date notBefore="1723-01-01" notAfter="1723-12-31">1723</date>
                   </death>
