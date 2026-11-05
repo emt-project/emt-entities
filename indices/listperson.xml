@@ -7344,10 +7344,13 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                   <idno type="URL">https://de.wikipedia.org/wiki/Imbsen_(Adelsgeschlecht)#Pers%C3%B6nlichkeiten</idno>
                </person>
                <person xml:id="emt_person_id__623">
-                  <persName type="name">Novelli, Scipione</persName>
+                  <persName type="name">Novelli, Giovanni Battista</persName>
                   <persName type="function">
-                     <roleName>Kammerdiener Johann Wilhelms bzw. Anna Maria Luisas</roleName>
+                     <roleName>pfalz-neuburgischer Resident in Madrid 1689-1692</roleName>
                   </persName>
+                  <death>
+                     <date notBefore="1697-01-01" notAfter="1697-12-31">1697</date>
+                  </death>
                </person>
                <person xml:id="emt_person_id__624">
                   <persName type="name">Schweizer, Ehefrau des Dr. Schweizer (1693 bereits verstorben)</persName>
@@ -12123,7 +12126,7 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                <person xml:id="emt_person_id__1222">
                   <persName type="name">Wiser, Heinrich Franz Xaver von SJ</persName>
                   <persName type="function">
-                     <roleName>Diplomat, Geheimsekretär der spanischen Königin Maria Anna, geb. von Pfalz-Neuburg</roleName>
+                     <roleName>pfälzischer Gesandter in Madrid 1692-?, in Neapel 1708-1713, Geheimsekretär der spanischen Königin Maria Anna, geb. von Pfalz-Neuburg</roleName>
                   </persName>
                   <birth>
                      <date notBefore="1664-01-01" notAfter="1664-12-31">1664</date>
@@ -15507,10 +15510,14 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                   <idno type="URL">https://de.wikipedia.org/wiki/Jakob_Louis_Heinrich_Sobieski#Familie</idno>
                </person>
                <person xml:id="emt_person_id__1723">
-                  <persName type="name">Beckers, NN. Geheimer Rat</persName>
+                  <persName type="name">Beckers zu Westerstetten, Johann Christoph</persName>
                   <persName type="function">
-                     <roleName>Geheimer Rat</roleName>
+                     <roleName>Geheimer Rat Pfalz</roleName>
                   </persName>
+                  <birth>
+                     <date notBefore="1666-01-01" notAfter="1666-12-31">1666</date>
+                  </birth>
+                  <idno type="URL">http://www.zeno.org/Pierer-1857/A/Beckers+zu+Westerstetten</idno>
                </person>
                <person xml:id="emt_person_id__1724">
                   <persName type="name">Stuart, James Francis Edward</persName>
@@ -17541,9 +17548,12 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                   </persName>
                </person>
                <person xml:id="emt_person_id__2199">
-                  <persName type="name">Ariberti, Bartolomeo, 3. Marchese di Malgrate Lunigiana</persName>
+                  <persName type="name">Ariberti, Bartolomeo, Marchese di Malgrate Lunigiana</persName>
                   <persName type="title">
                      <roleName>Marchese</roleName>
+                  </persName>
+                  <persName type="function">
+                     <roleName>pfälzischer Gesandter in Madrid 1698-1700</roleName>
                   </persName>
                   <birth>
                      <date notBefore="1665-01-01" notAfter="1665-12-31">1665</date>

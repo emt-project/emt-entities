@@ -1532,7 +1532,7 @@
   "119": {
     "id": 119,
     "order": "117.00000000000000000000",
-    "name": "Bergstädte [in Oberungarn]",
+    "name": "Bergstädte (in Oberungarn)",
     "geonames": "",
     "emt_id": "emt_place_id__119",
     "place_type": null,
@@ -3527,7 +3527,7 @@
   "258": {
     "id": 258,
     "order": "253.00000000000000000000",
-    "name": "Karlsbad",
+    "name": "Karlsbad / Karlovy Vary",
     "geonames": "https://www.geonames.org/3073803/karlovy-vary.html",
     "emt_id": "emt_place_id__258",
     "place_type": null,
