@@ -31190,7 +31190,7 @@
     "birth_date_written": "",
     "death_date_written": "",
     "geschlecht": "",
-    "funktionsbezeichnungen": "Gesandter Frankreich in der Pfalz 1701",
+    "funktionsbezeichnungen": "französischer Diplomat",
     "unidentifiziert": false,
     "titel": [
       {
@@ -43640,6 +43640,34 @@
         "color": "purple"
       }
     ],
+    "geistlich": "",
+    "Hofstaat": "",
+    "Konfession": ""
+  },
+  "2300": {
+    "id": 2300,
+    "order": "1526.00000000000000000000",
+    "name": "Witwe des Schellerer",
+    "gnd": "",
+    "other_url": "",
+    "emt_id": "emt_person_id__2300",
+    "internal_comment": "",
+    "color": "",
+    "lebensdaten": "",
+    "ndb": "",
+    "year_of_birth": null,
+    "year_of_death": null,
+    "wikidata_url": "",
+    "wikidata_enriched": false,
+    "img_name": "",
+    "img_fetched": false,
+    "img_source": "",
+    "birth_date_written": "",
+    "death_date_written": "",
+    "geschlecht": "",
+    "funktionsbezeichnungen": "",
+    "unidentifiziert": true,
+    "titel": [],
     "geistlich": "",
     "Hofstaat": "",
     "Konfession": ""

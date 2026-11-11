@@ -2903,6 +2903,10 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                   </location>
                   <idno type="GEONAMES">https://sws.geonames.org/2937238/</idno>
                </place>
+               <place xml:id="emt_place_id__1009">
+                  <placeName>Würzburg, Bistum</placeName>
+                  <idno type="GND">https://d-nb.info/gnd/1123849374</idno>
+               </place>
             </listPlace>
          </div>
       </body>

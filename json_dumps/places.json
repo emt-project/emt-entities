@@ -7048,5 +7048,20 @@
     "alternative_name": "",
     "wikidata_url": "",
     "unidentifiziert": false
+  },
+  "1009": {
+    "id": 1009,
+    "order": "493.00000000000000000000",
+    "name": "Würzburg, Bistum",
+    "geonames": "",
+    "emt_id": "emt_place_id__1009",
+    "place_type": null,
+    "lat": null,
+    "long": null,
+    "comments intern": "",
+    "gnd": "https://d-nb.info/gnd/1123849374",
+    "alternative_name": "",
+    "wikidata_url": "",
+    "unidentifiziert": false
   }
 }

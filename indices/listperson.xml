@@ -12816,7 +12816,7 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                      <roleName>Marquis</roleName>
                   </persName>
                   <persName type="function">
-                     <roleName>Gesandter Frankreich in der Pfalz 1701</roleName>
+                     <roleName>französischer Diplomat</roleName>
                   </persName>
                   <birth>
                      <date notBefore="1643-01-01" notAfter="1643-12-31">1643</date>
@@ -17632,6 +17632,9 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                      <graphic url="emt_person_id__2267.jpg"/>
                      <caption>Hans Otto Fugger.jpg</caption>
                   </figure>
+               </person>
+               <person xml:id="emt_person_id__2300">
+                  <persName type="name">Witwe des Schellerer</persName>
                </person>
             </listPerson>
          </div>
