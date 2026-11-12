@@ -4383,10 +4383,17 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                   </persName>
                </person>
                <person xml:id="emt_person_id__333">
-                  <persName type="name">Mehlheim / Mellem, NN 1682</persName>
+                  <persName type="name">Melm (Mehlheim), Gottfried</persName>
                   <persName type="title">
                      <roleName>Doktor</roleName>
                   </persName>
+                  <persName type="function">
+                     <roleName>Leibarzt Johann Wilhelms 1679-1686</roleName>
+                  </persName>
+                  <death>
+                     <date notBefore="1686-01-01" notAfter="1686-12-31">1686</date>
+                  </death>
+                  <idno type="URL">https://www.drmelm.de/wp-content/uploads/2024/11/Chronik-Melmsche-Apotheke.pdf</idno>
                </person>
                <person xml:id="emt_person_id__334">
                   <persName type="name">Schorn, NN 1682</persName>
@@ -4439,7 +4446,7 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                   <idno type="URL">http://www.kultur-klosterneuburg.at/Bereiche/Dokumentation/ONLINE/BEDEUTENDE_KLBGer/LANGSTOEGER/Index.html</idno>
                </person>
                <person xml:id="emt_person_id__338">
-                  <persName type="name">Leibarzt Johann Wilhelms 1682</persName>
+                  <persName type="name">Melm Leibarzt Johann Wilhelms 1682</persName>
                   <persName type="title">
                      <roleName>Doktor</roleName>
                   </persName>
@@ -8094,10 +8101,13 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                   </persName>
                </person>
                <person xml:id="emt_person_id__695">
-                  <persName type="name">Fischer, NN</persName>
+                  <persName type="name">Fischer, Johann Wolfgang Christoph</persName>
                   <persName type="function">
                      <roleName>Sänger</roleName>
                   </persName>
+                  <death>
+                     <date notBefore="1716-01-01" notAfter="1716-12-31">1716</date>
+                  </death>
                </person>
                <person xml:id="emt_person_id__696">
                   <persName type="name">Massucci, Eleonora</persName>
@@ -12927,7 +12937,7 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                   <idno type="WIKIDATA">http://www.wikidata.org/entity/Q1671594</idno>
                </person>
                <person xml:id="emt_person_id__1354">
-                  <persName type="name">NN, Dekan in Düsseldorf? 1701</persName>
+                  <persName type="name">Dekan des Düsseldorfer Kollegiatsstifts 1701</persName>
                </person>
                <person xml:id="emt_person_id__1355">
                   <persName type="name">Franz Rhem SJ</persName>
@@ -17635,6 +17645,27 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                </person>
                <person xml:id="emt_person_id__2300">
                   <persName type="name">Witwe des Schellerer</persName>
+               </person>
+               <person xml:id="emt_person_id__2301">
+                  <persName type="name">Boufflers, Louis François de</persName>
+                  <persName type="title">
+                     <roleName>Duc</roleName>
+                  </persName>
+                  <persName type="function">
+                     <roleName>französischer Maréchal</roleName>
+                  </persName>
+                  <birth>
+                     <date notBefore="1644-01-01" notAfter="1644-12-31">1644</date>
+                  </birth>
+                  <death>
+                     <date notBefore="1711-01-01" notAfter="1711-12-31">1711</date>
+                  </death>
+                  <idno type="GND">https://d-nb.info/gnd/101620227X</idno>
+                  <idno type="WIKIDATA">http://www.wikidata.org/entity/Q316827</idno>
+                  <figure>
+                     <graphic url="emt_person_id__2301.jpg"/>
+                     <caption>Portrait of Louis François, Marshall Duke of Boufflers (1644-1711) (Studio of Hyacinthe Rigaud).jpg</caption>
+                  </figure>
                </person>
             </listPerson>
          </div>

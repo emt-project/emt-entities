@@ -5162,7 +5162,7 @@
   "494": {
     "id": 494,
     "order": "362.00000000000000000000",
-    "name": "Höchstädt an der Donau, Karmelitinnenkloster",
+    "name": "Höchstädt an der Donau, geplantes Karmelitinnenkloster",
     "geonames": "",
     "emt_id": "emt_place_id__494",
     "place_type": null,
@@ -7060,6 +7060,21 @@
     "long": null,
     "comments intern": "",
     "gnd": "https://d-nb.info/gnd/1123849374",
+    "alternative_name": "",
+    "wikidata_url": "",
+    "unidentifiziert": false
+  },
+  "1010": {
+    "id": 1010,
+    "order": "494.00000000000000000000",
+    "name": "Messina",
+    "geonames": "https://www.geonames.org/2524170/messina.html",
+    "emt_id": "emt_place_id__1010",
+    "place_type": null,
+    "lat": "38.19394",
+    "long": "15.552560",
+    "comments intern": "",
+    "gnd": "",
     "alternative_name": "",
     "wikidata_url": "",
     "unidentifiziert": false

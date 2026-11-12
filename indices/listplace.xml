@@ -2230,7 +2230,7 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                   <idno type="GEONAMES">https://sws.geonames.org/2792482/</idno>
                </place>
                <place xml:id="emt_place_id__494">
-                  <placeName>Höchstädt an der Donau, Karmelitinnenkloster</placeName>
+                  <placeName>Höchstädt an der Donau, geplantes Karmelitinnenkloster</placeName>
                </place>
                <place xml:id="emt_place_id__495">
                   <placeName>Mantua, Herzogtum</placeName>
@@ -2906,6 +2906,13 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                <place xml:id="emt_place_id__1009">
                   <placeName>Würzburg, Bistum</placeName>
                   <idno type="GND">https://d-nb.info/gnd/1123849374</idno>
+               </place>
+               <place xml:id="emt_place_id__1010">
+                  <placeName>Messina</placeName>
+                  <location type="coords">
+                     <geo>38.19394 15.552560</geo>
+                  </location>
+                  <idno type="GEONAMES">https://sws.geonames.org/2524170/</idno>
                </place>
             </listPlace>
          </div>
