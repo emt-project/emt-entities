@@ -4445,15 +4445,6 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                   <idno type="GND">https://d-nb.info/gnd/1049921569</idno>
                   <idno type="URL">http://www.kultur-klosterneuburg.at/Bereiche/Dokumentation/ONLINE/BEDEUTENDE_KLBGer/LANGSTOEGER/Index.html</idno>
                </person>
-               <person xml:id="emt_person_id__338">
-                  <persName type="name">Melm Leibarzt Johann Wilhelms 1682</persName>
-                  <persName type="title">
-                     <roleName>Doktor</roleName>
-                  </persName>
-                  <persName type="function">
-                     <roleName>kurpfälzischer Leibarzt</roleName>
-                  </persName>
-               </person>
                <person xml:id="emt_person_id__339">
                   <persName type="name">Horst, Matthias Wilhelm</persName>
                   <persName type="title">
@@ -7028,7 +7019,7 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                   </persName>
                </person>
                <person xml:id="emt_person_id__597">
-                  <persName type="name">Schellart von Oberndorf, Franz Kaspar Adrian von</persName>
+                  <persName type="name">Schellart von Obbendorf, Franz Kaspar Adrian von</persName>
                   <persName type="title">
                      <roleName>Graf</roleName>
                   </persName>
@@ -15553,7 +15544,17 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                   </figure>
                </person>
                <person xml:id="emt_person_id__1725">
-                  <persName type="name">Schellhart, NN</persName>
+                  <persName type="name">Schellart von Obbendorf, Johann Arnold</persName>
+                  <persName type="title">
+                     <roleName>Graf</roleName>
+                  </persName>
+                  <birth>
+                     <date notBefore="1651-01-01" notAfter="1651-12-31">1651</date>
+                  </birth>
+                  <death>
+                     <date notBefore="1717-01-01" notAfter="1717-12-31">1717</date>
+                  </death>
+                  <idno type="URL">https://geneall.net/de/name/1837721/johann-arnold-graf-schellart-von-obbendorf-freiherr-zu-guerzenich/</idno>
                </person>
                <person xml:id="emt_person_id__1726">
                   <persName type="name">Sobieski, Maria Clementina, vereh. Stuart</persName>

@@ -10099,40 +10099,6 @@
     "Hofstaat": null,
     "Konfession": null
   },
-  "338": {
-    "id": 338,
-    "order": "338.00000000000000000000",
-    "name": "Melm Leibarzt Johann Wilhelms 1682",
-    "gnd": "",
-    "other_url": "",
-    "emt_id": "emt_person_id__338",
-    "internal_comment": "JW offeriert EMT seinen Leibarzt noch dem Tod von Doktor Huber",
-    "color": "",
-    "lebensdaten": "",
-    "ndb": "",
-    "year_of_birth": null,
-    "year_of_death": null,
-    "wikidata_url": "",
-    "wikidata_enriched": false,
-    "img_name": "",
-    "img_fetched": false,
-    "img_source": "",
-    "birth_date_written": "",
-    "death_date_written": "",
-    "geschlecht": "",
-    "funktionsbezeichnungen": "kurpfälzischer Leibarzt",
-    "unidentifiziert": true,
-    "titel": [
-      {
-        "id": 19696,
-        "value": "Doktor",
-        "color": "light-yellow"
-      }
-    ],
-    "geistlich": null,
-    "Hofstaat": null,
-    "Konfession": null
-  },
   "339": {
     "id": 339,
     "order": "339.00000000000000000000",
@@ -17038,7 +17004,7 @@
   "597": {
     "id": 597,
     "order": "592.00000000000000000000",
-    "name": "Schellart von Oberndorf, Franz Kaspar Adrian von",
+    "name": "Schellart von Obbendorf, Franz Kaspar Adrian von",
     "gnd": "https://d-nb.info/gnd/1021442364",
     "other_url": "https://kaiserhof.geschichte.lmu.de/14083",
     "emt_id": "emt_person_id__597",
@@ -28494,7 +28460,7 @@
     "gnd": "",
     "other_url": "",
     "emt_id": "emt_person_id__1123",
-    "internal_comment": "es gibt einen Maler Pierre Le Tellier https://en.wikipedia.org/wiki/Pierre_Le_Tellier entweder sehr alt oder mit unbekannten Lebensdaten https://www.deutsche-biographie.de/pnd1072048183.html#index , aber es scheint dann doch kein Maler zu sein, da nichtmalerische Aufträge. Nicht in Leibnizedition, nicht bei Leitgeb, nicht VieCPro. EMT 28.12.1697: er ist halt schon ziemlich alt",
+    "internal_comment": "Kühn-Steinhausen, Korrespondenz, 52: Telliers ist kaiserlicher Kammerrat in Ungarn\nes gibt einen Maler Pierre Le Tellier https://en.wikipedia.org/wiki/Pierre_Le_Tellier entweder sehr alt oder mit unbekannten Lebensdaten https://www.deutsche-biographie.de/pnd1072048183.html#index , aber es scheint dann doch kein Maler zu sein, da nichtmalerische Aufträge. Nicht in Leibnizedition, nicht bei Leitgeb, nicht VieCPro. EMT 28.12.1697: er ist halt schon ziemlich alt",
     "color": "",
     "lebensdaten": "",
     "ndb": "",
@@ -30490,7 +30456,7 @@
     "gnd": "",
     "other_url": "https://viecpro.acdh.oeaw.ac.at/persons/147394",
     "emt_id": "emt_person_id__1254",
-    "internal_comment": "",
+    "internal_comment": "Wolf, Kabinettskassenrechungen I, 55",
     "color": "",
     "lebensdaten": "",
     "ndb": "",
@@ -37779,16 +37745,16 @@
   "1725": {
     "id": 1725,
     "order": "1306.00000000000000000000",
-    "name": "Schellhart, NN",
+    "name": "Schellart von Obbendorf, Johann Arnold",
     "gnd": "",
-    "other_url": "",
+    "other_url": "https://geneall.net/de/name/1837721/johann-arnold-graf-schellart-von-obbendorf-freiherr-zu-guerzenich/",
     "emt_id": "emt_person_id__1725",
-    "internal_comment": "ihm gibt EMT 1715 einen Brief an JW mit, vermutlich hat er ein Wiener Hofamt? - 597 Franz Caspar von Schellart von Oberndorff ist schon 1701 gestorben und VieCPro hat nur ihn, aber die Familie (Schellard, Schellhardt) wird es sein",
+    "internal_comment": "Wolf, Kabinettskassenrechnungen I, S. 55",
     "color": "",
     "lebensdaten": "",
     "ndb": "",
-    "year_of_birth": null,
-    "year_of_death": null,
+    "year_of_birth": "1651",
+    "year_of_death": "1717",
     "wikidata_url": "",
     "wikidata_enriched": false,
     "img_name": "",
@@ -37798,8 +37764,14 @@
     "death_date_written": "",
     "geschlecht": "",
     "funktionsbezeichnungen": "",
-    "unidentifiziert": true,
-    "titel": [],
+    "unidentifiziert": false,
+    "titel": [
+      {
+        "id": 19689,
+        "value": "Graf",
+        "color": "purple"
+      }
+    ],
     "geistlich": null,
     "Hofstaat": null,
     "Konfession": null
