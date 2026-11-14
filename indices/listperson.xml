@@ -9228,7 +9228,11 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                   </persName>
                </person>
                <person xml:id="emt_person_id__788">
-                  <persName type="name">Chassignet (Scassignet), Herr, kommt Anfang 1689 aus Polen zurück</persName>
+                  <persName type="name">Chassignet (Scassignet), Francesco</persName>
+                  <persName type="function">
+                     <roleName>Hofkammerrat, kaiserlicher Diplomat</roleName>
+                  </persName>
+                  <idno type="URL">https://viecpro.acdh.oeaw.ac.at/persons/297860</idno>
                </person>
                <person xml:id="emt_person_id__789">
                   <persName type="name">Mavrokordatos, Alexandros</persName>
@@ -17201,10 +17205,30 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                   <idno type="URL">https://viecpro.acdh.oeaw.ac.at/persons/188038</idno>
                </person>
                <person xml:id="emt_person_id__2115">
-                  <persName type="name">Vasto (1705 Gefangener)</persName>
+                  <persName type="name">del Vasto, Cesare Michelangelo d'Avalos d'Aquino d'Aragona marchese</persName>
+                  <persName type="title">
+                     <roleName>Marchese</roleName>
+                  </persName>
+                  <birth>
+                     <date notBefore="1667-01-01" notAfter="1667-12-31">1667</date>
+                  </birth>
+                  <death>
+                     <date notBefore="1729-01-01" notAfter="1729-12-31">1729</date>
+                  </death>
+                  <idno type="URL">https://it.wikipedia.org/wiki/Cesare_Michelangelo_d%27Avalos</idno>
                </person>
                <person xml:id="emt_person_id__2116">
-                  <persName type="name">Hercolani (1705 Gefangener)</persName>
+                  <persName type="name">Hercolani, Filippo</persName>
+                  <persName type="function">
+                     <roleName>Geheimer Rat, kaiserlicher Botschafter in Venedig</roleName>
+                  </persName>
+                  <birth>
+                     <date notBefore="1663-01-01" notAfter="1663-12-31">1663</date>
+                  </birth>
+                  <death>
+                     <date notBefore="1722-01-01" notAfter="1722-12-31">1722</date>
+                  </death>
+                  <idno type="URL">https://it.wikipedia.org/wiki/Filippo_Hercolani,_I_principe_Hercolani</idno>
                </person>
                <person xml:id="emt_person_id__2149">
                   <persName type="name">Kirch, Frau 1696</persName>
