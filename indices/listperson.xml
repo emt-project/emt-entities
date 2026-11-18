@@ -1758,6 +1758,11 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                   </death>
                   <idno type="GND">https://d-nb.info/gnd/101076983</idno>
                   <idno type="NDB">https://www.deutsche-biographie.de/sfz60662.html</idno>
+                  <idno type="WIKIDATA">http://www.wikidata.org/entity/Q235552</idno>
+                  <figure>
+                     <graphic url="emt_person_id__109.jpg"/>
+                     <caption>Carriera, Rosalba - Empress Wilhelmine Amalie, 1730.jpg</caption>
+                  </figure>
                </person>
                <person xml:id="emt_person_id__110">
                   <persName type="name">Elisabeth Christine von Braunschweig-Wolfenbüttel, vereh. Österreich</persName>
@@ -2725,6 +2730,11 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                   </death>
                   <idno type="GND">https://d-nb.info/gnd/116002034</idno>
                   <idno type="NDB">https://www.deutsche-biographie.de/sfz57.html#indexcontent</idno>
+                  <idno type="WIKIDATA">http://www.wikidata.org/entity/Q1085221</idno>
+                  <figure>
+                     <graphic url="emt_person_id__187.jpg"/>
+                     <caption>Christoph Ignaz Abele (Meyssens).jpg</caption>
+                  </figure>
                </person>
                <person xml:id="emt_person_id__188">
                   <persName type="name">Sachsen, Johann Georg III. von</persName>
@@ -6498,7 +6508,7 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                      <roleName>Marchese</roleName>
                   </persName>
                   <persName type="function">
-                     <roleName>Abt, Gesandter</roleName>
+                     <roleName>Abt, toskanischer Gesandter in Wien 1690-1699</roleName>
                   </persName>
                </person>
                <person xml:id="emt_person_id__542">
@@ -7684,7 +7694,7 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                <person xml:id="emt_person_id__651">
                   <persName type="name">Abdurrahman Abdi Pascha</persName>
                   <persName type="function">
-                     <roleName>Kommandant von Ofen 1686</roleName>
+                     <roleName>Kommandant von Ofen</roleName>
                   </persName>
                   <death>
                      <date notBefore="1686-01-01" notAfter="1686-12-31">1686</date>
@@ -8142,6 +8152,9 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                </person>
                <person xml:id="emt_person_id__700">
                   <persName type="name">Agricola, Johann Paul</persName>
+                  <persName type="function">
+                     <roleName>Kapellmeister</roleName>
+                  </persName>
                   <birth>
                      <date notBefore="1638-01-01" notAfter="1638-12-31">1638</date>
                   </birth>
@@ -14374,7 +14387,7 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                   </figure>
                </person>
                <person xml:id="emt_person_id__1606">
-                  <persName type="name">Mecklenburg-Schwerin, Sophie Luise von</persName>
+                  <persName type="name">Mecklenburg-Schwerin, Sophie Luise von, vereh. Brandenburg-Preußen</persName>
                   <persName type="title">
                      <roleName>Prinzessin</roleName>
                   </persName>
@@ -15858,9 +15871,9 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                   <persName type="name">Redig / Reding / Rätting, NN (Tochter, soll 1708 nach Portugal)</persName>
                </person>
                <person xml:id="emt_person_id__1752">
-                  <persName type="name">Ágreda, María de Jesus de (María Coronel y Arana) OConc</persName>
+                  <persName type="name">Ágreda, María de Jesús de Ágreda OConc (María Coronel y Arana)</persName>
                   <persName type="function">
-                     <roleName>Äbtissin des Klosters in Ágreda</roleName>
+                     <roleName>Äbtissin des Klosters der Konzeptionistinnen in Ágreda</roleName>
                   </persName>
                   <birth>
                      <date notBefore="1602-01-01" notAfter="1602-12-31">1602</date>
@@ -15870,6 +15883,7 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                   </death>
                   <idno type="GND">https://d-nb.info/gnd/119019515</idno>
                   <idno type="WIKIDATA">http://www.wikidata.org/entity/Q275907</idno>
+                  <idno type="URL">https://historia-hispanica.rah.es/biografias/12191-maria-coronel-y-arana</idno>
                   <figure>
                      <graphic url="emt_person_id__1752.jpg"/>
                      <caption>María de Jesús de Ágreda (cropped).png</caption>
@@ -16607,8 +16621,11 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                </person>
                <person xml:id="emt_person_id__1891">
                   <persName type="name">Albani, Annibale</persName>
+                  <persName type="title">
+                     <roleName>Kardinal</roleName>
+                  </persName>
                   <persName type="function">
-                     <roleName>außerordentlicher Nuntius in Wien 1709-1711</roleName>
+                     <roleName>außerordentlicher Nuntius in Wien</roleName>
                   </persName>
                   <birth>
                      <date notBefore="1682-01-01" notAfter="1682-12-31">1682</date>
