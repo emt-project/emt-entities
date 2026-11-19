@@ -57,7 +57,7 @@
                 "geistlich": null,
                 "Hofstaat": null,
                 "Konfession": null,
-                "Literaturhinweise": ""
+                "andere Quellen": ""
             },
             {
                 "id": 10,
@@ -97,7 +97,7 @@
                 "geistlich": null,
                 "Hofstaat": null,
                 "Konfession": null,
-                "Literaturhinweise": ""
+                "andere Quellen": ""
             },
             {
                 "id": 50,
@@ -137,7 +137,7 @@
                 "geistlich": null,
                 "Hofstaat": null,
                 "Konfession": null,
-                "Literaturhinweise": ""
+                "andere Quellen": ""
             }
         ],
         "description": null,
@@ -209,7 +209,7 @@
                 "geistlich": null,
                 "Hofstaat": null,
                 "Konfession": null,
-                "Literaturhinweise": ""
+                "andere Quellen": ""
             },
             {
                 "id": 35,
@@ -244,7 +244,7 @@
                 "geistlich": null,
                 "Hofstaat": null,
                 "Konfession": null,
-                "Literaturhinweise": ""
+                "andere Quellen": ""
             }
         ],
         "description": null,
@@ -352,7 +352,7 @@
                 "geistlich": null,
                 "Hofstaat": null,
                 "Konfession": null,
-                "Literaturhinweise": ""
+                "andere Quellen": ""
             },
             {
                 "id": 25,
@@ -392,7 +392,7 @@
                 "geistlich": null,
                 "Hofstaat": null,
                 "Konfession": null,
-                "Literaturhinweise": ""
+                "andere Quellen": ""
             }
         ],
         "description": "",
@@ -464,7 +464,7 @@
                 "geistlich": null,
                 "Hofstaat": null,
                 "Konfession": null,
-                "Literaturhinweise": ""
+                "andere Quellen": ""
             },
             {
                 "id": 35,
@@ -499,7 +499,7 @@
                 "geistlich": null,
                 "Hofstaat": null,
                 "Konfession": null,
-                "Literaturhinweise": ""
+                "andere Quellen": ""
             }
         ],
         "description": "",
@@ -571,7 +571,7 @@
                 "geistlich": null,
                 "Hofstaat": null,
                 "Konfession": null,
-                "Literaturhinweise": ""
+                "andere Quellen": ""
             },
             {
                 "id": 25,
@@ -611,7 +611,7 @@
                 "geistlich": null,
                 "Hofstaat": null,
                 "Konfession": null,
-                "Literaturhinweise": ""
+                "andere Quellen": ""
             },
             {
                 "id": 35,
@@ -646,7 +646,7 @@
                 "geistlich": null,
                 "Hofstaat": null,
                 "Konfession": null,
-                "Literaturhinweise": ""
+                "andere Quellen": ""
             },
             {
                 "id": 109,
@@ -668,7 +668,7 @@
                 "img_source": "commonsMedia",
                 "birth_date_written": "",
                 "death_date_written": "",
-                "geschlecht": null,
+                "geschlecht": "f.",
                 "funktionsbezeichnungen": null,
                 "unidentifiziert": false,
                 "titel": [
@@ -685,8 +685,8 @@
                 ],
                 "geistlich": null,
                 "Hofstaat": null,
-                "Konfession": null,
-                "Literaturhinweise": ""
+                "Konfession": "katholisch",
+                "andere Quellen": ""
             }
         ],
         "description": "",
@@ -758,7 +758,7 @@
                 "geistlich": null,
                 "Hofstaat": null,
                 "Konfession": null,
-                "Literaturhinweise": ""
+                "andere Quellen": ""
             },
             {
                 "id": 25,
@@ -798,7 +798,7 @@
                 "geistlich": null,
                 "Hofstaat": null,
                 "Konfession": null,
-                "Literaturhinweise": ""
+                "andere Quellen": ""
             },
             {
                 "id": 109,
@@ -820,7 +820,7 @@
                 "img_source": "commonsMedia",
                 "birth_date_written": "",
                 "death_date_written": "",
-                "geschlecht": null,
+                "geschlecht": "f.",
                 "funktionsbezeichnungen": null,
                 "unidentifiziert": false,
                 "titel": [
@@ -837,8 +837,8 @@
                 ],
                 "geistlich": null,
                 "Hofstaat": null,
-                "Konfession": null,
-                "Literaturhinweise": ""
+                "Konfession": "katholisch",
+                "andere Quellen": ""
             }
         ],
         "description": "",
@@ -910,7 +910,7 @@
                 "geistlich": null,
                 "Hofstaat": null,
                 "Konfession": null,
-                "Literaturhinweise": ""
+                "andere Quellen": ""
             },
             {
                 "id": 35,
@@ -945,7 +945,7 @@
                 "geistlich": null,
                 "Hofstaat": null,
                 "Konfession": null,
-                "Literaturhinweise": ""
+                "andere Quellen": ""
             }
         ],
         "description": "",
@@ -1017,7 +1017,7 @@
                 "geistlich": null,
                 "Hofstaat": null,
                 "Konfession": null,
-                "Literaturhinweise": ""
+                "andere Quellen": ""
             },
             {
                 "id": 31,
@@ -1062,7 +1062,7 @@
                 "geistlich": null,
                 "Hofstaat": null,
                 "Konfession": null,
-                "Literaturhinweise": ""
+                "andere Quellen": ""
             },
             {
                 "id": 110,
@@ -1102,7 +1102,7 @@
                 "geistlich": null,
                 "Hofstaat": null,
                 "Konfession": null,
-                "Literaturhinweise": ""
+                "andere Quellen": ""
             }
         ],
         "description": "",
@@ -1174,7 +1174,7 @@
                 "geistlich": null,
                 "Hofstaat": null,
                 "Konfession": null,
-                "Literaturhinweise": ""
+                "andere Quellen": ""
             },
             {
                 "id": 35,
@@ -1209,7 +1209,7 @@
                 "geistlich": null,
                 "Hofstaat": null,
                 "Konfession": null,
-                "Literaturhinweise": ""
+                "andere Quellen": ""
             }
         ],
         "description": "",
@@ -1281,7 +1281,7 @@
                 "geistlich": null,
                 "Hofstaat": null,
                 "Konfession": null,
-                "Literaturhinweise": ""
+                "andere Quellen": ""
             },
             {
                 "id": 35,
@@ -1316,7 +1316,7 @@
                 "geistlich": null,
                 "Hofstaat": null,
                 "Konfession": null,
-                "Literaturhinweise": ""
+                "andere Quellen": ""
             }
         ],
         "description": "",
@@ -1388,7 +1388,7 @@
                 "geistlich": null,
                 "Hofstaat": null,
                 "Konfession": null,
-                "Literaturhinweise": ""
+                "andere Quellen": ""
             },
             {
                 "id": 25,
@@ -1428,7 +1428,7 @@
                 "geistlich": null,
                 "Hofstaat": null,
                 "Konfession": null,
-                "Literaturhinweise": ""
+                "andere Quellen": ""
             },
             {
                 "id": 35,
@@ -1463,7 +1463,7 @@
                 "geistlich": null,
                 "Hofstaat": null,
                 "Konfession": null,
-                "Literaturhinweise": ""
+                "andere Quellen": ""
             }
         ],
         "description": "",
@@ -1535,7 +1535,7 @@
                 "geistlich": null,
                 "Hofstaat": null,
                 "Konfession": null,
-                "Literaturhinweise": ""
+                "andere Quellen": ""
             },
             {
                 "id": 25,
@@ -1575,7 +1575,7 @@
                 "geistlich": null,
                 "Hofstaat": null,
                 "Konfession": null,
-                "Literaturhinweise": ""
+                "andere Quellen": ""
             },
             {
                 "id": 35,
@@ -1610,7 +1610,7 @@
                 "geistlich": null,
                 "Hofstaat": null,
                 "Konfession": null,
-                "Literaturhinweise": ""
+                "andere Quellen": ""
             }
         ],
         "description": "",
@@ -1692,7 +1692,7 @@
                 "geistlich": null,
                 "Hofstaat": null,
                 "Konfession": null,
-                "Literaturhinweise": ""
+                "andere Quellen": ""
             }
         ],
         "description": "",
@@ -1774,7 +1774,7 @@
                 "geistlich": null,
                 "Hofstaat": null,
                 "Konfession": null,
-                "Literaturhinweise": ""
+                "andere Quellen": ""
             }
         ],
         "description": "",
@@ -1856,7 +1856,7 @@
                 "geistlich": null,
                 "Hofstaat": null,
                 "Konfession": null,
-                "Literaturhinweise": ""
+                "andere Quellen": ""
             },
             {
                 "id": 110,
@@ -1896,7 +1896,7 @@
                 "geistlich": null,
                 "Hofstaat": null,
                 "Konfession": null,
-                "Literaturhinweise": ""
+                "andere Quellen": ""
             }
         ],
         "description": "",
@@ -1968,7 +1968,7 @@
                 "geistlich": null,
                 "Hofstaat": null,
                 "Konfession": null,
-                "Literaturhinweise": ""
+                "andere Quellen": ""
             }
         ],
         "description": "",
@@ -2040,7 +2040,7 @@
                 "geistlich": null,
                 "Hofstaat": null,
                 "Konfession": null,
-                "Literaturhinweise": ""
+                "andere Quellen": ""
             }
         ],
         "description": "",
@@ -2096,7 +2096,7 @@
                 "geistlich": null,
                 "Hofstaat": null,
                 "Konfession": null,
-                "Literaturhinweise": ""
+                "andere Quellen": ""
             },
             {
                 "id": 112,
@@ -2131,7 +2131,7 @@
                 "geistlich": null,
                 "Hofstaat": null,
                 "Konfession": null,
-                "Literaturhinweise": ""
+                "andere Quellen": ""
             }
         ],
         "description": "",
@@ -2203,7 +2203,7 @@
                 "geistlich": null,
                 "Hofstaat": null,
                 "Konfession": null,
-                "Literaturhinweise": ""
+                "andere Quellen": ""
             }
         ],
         "description": "",
@@ -2275,7 +2275,7 @@
                 "geistlich": null,
                 "Hofstaat": null,
                 "Konfession": null,
-                "Literaturhinweise": ""
+                "andere Quellen": ""
             },
             {
                 "id": 113,
@@ -2310,7 +2310,7 @@
                 "geistlich": null,
                 "Hofstaat": null,
                 "Konfession": null,
-                "Literaturhinweise": ""
+                "andere Quellen": ""
             }
         ],
         "description": "",
@@ -2382,7 +2382,7 @@
                 "geistlich": null,
                 "Hofstaat": null,
                 "Konfession": null,
-                "Literaturhinweise": ""
+                "andere Quellen": ""
             },
             {
                 "id": 113,
@@ -2417,7 +2417,7 @@
                 "geistlich": null,
                 "Hofstaat": null,
                 "Konfession": null,
-                "Literaturhinweise": ""
+                "andere Quellen": ""
             }
         ],
         "description": "",
@@ -2489,7 +2489,7 @@
                 "geistlich": null,
                 "Hofstaat": null,
                 "Konfession": null,
-                "Literaturhinweise": ""
+                "andere Quellen": ""
             },
             {
                 "id": 115,
@@ -2524,7 +2524,7 @@
                 "geistlich": null,
                 "Hofstaat": null,
                 "Konfession": null,
-                "Literaturhinweise": ""
+                "andere Quellen": ""
             }
         ],
         "description": "",
@@ -2596,7 +2596,7 @@
                 "geistlich": null,
                 "Hofstaat": null,
                 "Konfession": null,
-                "Literaturhinweise": ""
+                "andere Quellen": ""
             }
         ],
         "description": "",
@@ -2668,7 +2668,7 @@
                 "geistlich": null,
                 "Hofstaat": null,
                 "Konfession": null,
-                "Literaturhinweise": ""
+                "andere Quellen": ""
             },
             {
                 "id": 114,
@@ -2703,7 +2703,7 @@
                 "geistlich": null,
                 "Hofstaat": null,
                 "Konfession": null,
-                "Literaturhinweise": ""
+                "andere Quellen": ""
             }
         ],
         "description": "",
@@ -2775,7 +2775,7 @@
                 "geistlich": null,
                 "Hofstaat": null,
                 "Konfession": null,
-                "Literaturhinweise": ""
+                "andere Quellen": ""
             }
         ],
         "description": "",
@@ -2847,7 +2847,7 @@
                 "geistlich": null,
                 "Hofstaat": null,
                 "Konfession": null,
-                "Literaturhinweise": ""
+                "andere Quellen": ""
             },
             {
                 "id": 116,
@@ -2882,7 +2882,7 @@
                 "geistlich": null,
                 "Hofstaat": null,
                 "Konfession": null,
-                "Literaturhinweise": ""
+                "andere Quellen": ""
             }
         ],
         "description": "",
@@ -2954,7 +2954,7 @@
                 "geistlich": null,
                 "Hofstaat": null,
                 "Konfession": null,
-                "Literaturhinweise": ""
+                "andere Quellen": ""
             },
             {
                 "id": 117,
@@ -2989,7 +2989,7 @@
                 "geistlich": null,
                 "Hofstaat": null,
                 "Konfession": null,
-                "Literaturhinweise": ""
+                "andere Quellen": ""
             }
         ],
         "description": "",
@@ -3045,7 +3045,7 @@
                 "geistlich": null,
                 "Hofstaat": null,
                 "Konfession": null,
-                "Literaturhinweise": ""
+                "andere Quellen": ""
             }
         ],
         "description": "",
@@ -3122,7 +3122,7 @@
                 "geistlich": null,
                 "Hofstaat": null,
                 "Konfession": null,
-                "Literaturhinweise": ""
+                "andere Quellen": ""
             }
         ],
         "description": "",
@@ -3199,7 +3199,7 @@
                 "geistlich": null,
                 "Hofstaat": null,
                 "Konfession": null,
-                "Literaturhinweise": ""
+                "andere Quellen": ""
             }
         ],
         "description": "",
@@ -3276,7 +3276,7 @@
                 "geistlich": null,
                 "Hofstaat": null,
                 "Konfession": null,
-                "Literaturhinweise": ""
+                "andere Quellen": ""
             },
             {
                 "id": 60,
@@ -3316,7 +3316,7 @@
                 "geistlich": null,
                 "Hofstaat": null,
                 "Konfession": null,
-                "Literaturhinweise": ""
+                "andere Quellen": ""
             }
         ],
         "description": "",
@@ -3393,7 +3393,7 @@
                 "geistlich": null,
                 "Hofstaat": null,
                 "Konfession": null,
-                "Literaturhinweise": ""
+                "andere Quellen": ""
             }
         ],
         "description": "",
@@ -3465,7 +3465,7 @@
                 "geistlich": null,
                 "Hofstaat": null,
                 "Konfession": null,
-                "Literaturhinweise": ""
+                "andere Quellen": ""
             }
         ],
         "description": "",
@@ -3542,7 +3542,7 @@
                 "geistlich": null,
                 "Hofstaat": null,
                 "Konfession": null,
-                "Literaturhinweise": ""
+                "andere Quellen": ""
             }
         ],
         "description": "",
@@ -3614,7 +3614,7 @@
                 "geistlich": "geistlich",
                 "Hofstaat": null,
                 "Konfession": "katholisch",
-                "Literaturhinweise": ""
+                "andere Quellen": ""
             }
         ],
         "description": "",
@@ -3686,7 +3686,7 @@
                 "geistlich": "geistlich",
                 "Hofstaat": null,
                 "Konfession": "katholisch",
-                "Literaturhinweise": ""
+                "andere Quellen": ""
             }
         ],
         "description": "",
@@ -3758,7 +3758,7 @@
                 "geistlich": "geistlich",
                 "Hofstaat": null,
                 "Konfession": "katholisch",
-                "Literaturhinweise": ""
+                "andere Quellen": ""
             }
         ],
         "description": "",
@@ -3830,7 +3830,7 @@
                 "geistlich": "geistlich",
                 "Hofstaat": null,
                 "Konfession": "katholisch",
-                "Literaturhinweise": ""
+                "andere Quellen": ""
             }
         ],
         "description": "",
@@ -3902,7 +3902,7 @@
                 "geistlich": null,
                 "Hofstaat": null,
                 "Konfession": null,
-                "Literaturhinweise": ""
+                "andere Quellen": ""
             }
         ],
         "description": "",
@@ -3974,7 +3974,7 @@
                 "geistlich": null,
                 "Hofstaat": null,
                 "Konfession": null,
-                "Literaturhinweise": ""
+                "andere Quellen": ""
             },
             {
                 "id": 125,
@@ -4009,7 +4009,7 @@
                 "geistlich": null,
                 "Hofstaat": null,
                 "Konfession": null,
-                "Literaturhinweise": ""
+                "andere Quellen": ""
             }
         ],
         "description": "",
@@ -4065,7 +4065,7 @@
                 "geistlich": null,
                 "Hofstaat": null,
                 "Konfession": null,
-                "Literaturhinweise": ""
+                "andere Quellen": ""
             },
             {
                 "id": 126,
@@ -4100,7 +4100,7 @@
                 "geistlich": null,
                 "Hofstaat": null,
                 "Konfession": null,
-                "Literaturhinweise": ""
+                "andere Quellen": ""
             }
         ],
         "description": "",
@@ -4172,7 +4172,7 @@
                 "geistlich": "geistlich",
                 "Hofstaat": null,
                 "Konfession": "katholisch",
-                "Literaturhinweise": ""
+                "andere Quellen": ""
             }
         ],
         "description": "",
@@ -4244,7 +4244,7 @@
                 "geistlich": "geistlich",
                 "Hofstaat": null,
                 "Konfession": "katholisch",
-                "Literaturhinweise": ""
+                "andere Quellen": ""
             }
         ],
         "description": "",
@@ -4316,7 +4316,7 @@
                 "geistlich": "geistlich",
                 "Hofstaat": null,
                 "Konfession": "katholisch",
-                "Literaturhinweise": ""
+                "andere Quellen": ""
             }
         ],
         "description": "",
@@ -4372,7 +4372,7 @@
                 "geistlich": "geistlich",
                 "Hofstaat": null,
                 "Konfession": "katholisch",
-                "Literaturhinweise": ""
+                "andere Quellen": ""
             }
         ],
         "description": "",
@@ -4449,7 +4449,7 @@
                 "geistlich": "geistlich",
                 "Hofstaat": null,
                 "Konfession": "katholisch",
-                "Literaturhinweise": ""
+                "andere Quellen": ""
             }
         ],
         "description": "",
@@ -4526,7 +4526,7 @@
                 "geistlich": "geistlich",
                 "Hofstaat": null,
                 "Konfession": "katholisch",
-                "Literaturhinweise": ""
+                "andere Quellen": ""
             }
         ],
         "description": "",
@@ -4587,7 +4587,7 @@
                 "geistlich": "geistlich",
                 "Hofstaat": null,
                 "Konfession": "katholisch",
-                "Literaturhinweise": ""
+                "andere Quellen": ""
             }
         ],
         "description": "",
@@ -4664,7 +4664,7 @@
                 "geistlich": "geistlich",
                 "Hofstaat": null,
                 "Konfession": "katholisch",
-                "Literaturhinweise": ""
+                "andere Quellen": ""
             }
         ],
         "description": "",
@@ -4736,7 +4736,7 @@
                 "geistlich": null,
                 "Hofstaat": null,
                 "Konfession": null,
-                "Literaturhinweise": ""
+                "andere Quellen": ""
             }
         ],
         "description": "",
@@ -4813,7 +4813,7 @@
                 "geistlich": "geistlich",
                 "Hofstaat": null,
                 "Konfession": "katholisch",
-                "Literaturhinweise": ""
+                "andere Quellen": ""
             }
         ],
         "description": "",
@@ -4890,7 +4890,7 @@
                 "geistlich": null,
                 "Hofstaat": null,
                 "Konfession": null,
-                "Literaturhinweise": ""
+                "andere Quellen": ""
             }
         ],
         "description": "",
@@ -4962,7 +4962,7 @@
                 "geistlich": null,
                 "Hofstaat": null,
                 "Konfession": null,
-                "Literaturhinweise": ""
+                "andere Quellen": ""
             }
         ],
         "description": "",
@@ -5034,7 +5034,7 @@
                 "geistlich": null,
                 "Hofstaat": null,
                 "Konfession": null,
-                "Literaturhinweise": ""
+                "andere Quellen": ""
             }
         ],
         "description": "",
@@ -5106,7 +5106,7 @@
                 "geistlich": null,
                 "Hofstaat": null,
                 "Konfession": null,
-                "Literaturhinweise": ""
+                "andere Quellen": ""
             }
         ],
         "description": "",
@@ -5178,7 +5178,7 @@
                 "geistlich": null,
                 "Hofstaat": null,
                 "Konfession": null,
-                "Literaturhinweise": ""
+                "andere Quellen": ""
             },
             {
                 "id": 130,
@@ -5213,7 +5213,7 @@
                 "geistlich": null,
                 "Hofstaat": null,
                 "Konfession": null,
-                "Literaturhinweise": ""
+                "andere Quellen": ""
             }
         ],
         "description": "",
@@ -5285,7 +5285,7 @@
                 "geistlich": null,
                 "Hofstaat": null,
                 "Konfession": null,
-                "Literaturhinweise": ""
+                "andere Quellen": ""
             }
         ],
         "description": "",
@@ -5357,7 +5357,7 @@
                 "geistlich": null,
                 "Hofstaat": null,
                 "Konfession": null,
-                "Literaturhinweise": ""
+                "andere Quellen": ""
             }
         ],
         "description": "",
@@ -5429,7 +5429,7 @@
                 "geistlich": null,
                 "Hofstaat": null,
                 "Konfession": null,
-                "Literaturhinweise": ""
+                "andere Quellen": ""
             },
             {
                 "id": 89,
@@ -5464,7 +5464,7 @@
                 "geistlich": null,
                 "Hofstaat": null,
                 "Konfession": null,
-                "Literaturhinweise": ""
+                "andere Quellen": ""
             }
         ],
         "description": "",
@@ -5536,7 +5536,7 @@
                 "geistlich": null,
                 "Hofstaat": null,
                 "Konfession": null,
-                "Literaturhinweise": ""
+                "andere Quellen": ""
             }
         ],
         "description": "",
@@ -5608,7 +5608,7 @@
                 "geistlich": null,
                 "Hofstaat": null,
                 "Konfession": null,
-                "Literaturhinweise": ""
+                "andere Quellen": ""
             }
         ],
         "description": "",
@@ -5685,7 +5685,7 @@
                 "geistlich": null,
                 "Hofstaat": null,
                 "Konfession": null,
-                "Literaturhinweise": ""
+                "andere Quellen": ""
             },
             {
                 "id": 131,
@@ -5720,7 +5720,7 @@
                 "geistlich": null,
                 "Hofstaat": null,
                 "Konfession": null,
-                "Literaturhinweise": ""
+                "andere Quellen": ""
             }
         ],
         "description": "",
@@ -5792,7 +5792,7 @@
                 "geistlich": null,
                 "Hofstaat": null,
                 "Konfession": null,
-                "Literaturhinweise": ""
+                "andere Quellen": ""
             }
         ],
         "description": "",
@@ -5864,7 +5864,7 @@
                 "geistlich": null,
                 "Hofstaat": null,
                 "Konfession": null,
-                "Literaturhinweise": ""
+                "andere Quellen": ""
             }
         ],
         "description": "",
@@ -5936,7 +5936,7 @@
                 "geistlich": null,
                 "Hofstaat": null,
                 "Konfession": null,
-                "Literaturhinweise": ""
+                "andere Quellen": ""
             },
             {
                 "id": 132,
@@ -5971,7 +5971,7 @@
                 "geistlich": null,
                 "Hofstaat": null,
                 "Konfession": null,
-                "Literaturhinweise": ""
+                "andere Quellen": ""
             }
         ],
         "description": "",
@@ -6043,7 +6043,7 @@
                 "geistlich": null,
                 "Hofstaat": null,
                 "Konfession": null,
-                "Literaturhinweise": ""
+                "andere Quellen": ""
             },
             {
                 "id": 133,
@@ -6078,7 +6078,7 @@
                 "geistlich": null,
                 "Hofstaat": null,
                 "Konfession": null,
-                "Literaturhinweise": ""
+                "andere Quellen": ""
             }
         ],
         "description": "",
@@ -6150,7 +6150,7 @@
                 "geistlich": null,
                 "Hofstaat": null,
                 "Konfession": null,
-                "Literaturhinweise": ""
+                "andere Quellen": ""
             }
         ],
         "description": "",
@@ -6222,7 +6222,7 @@
                 "geistlich": null,
                 "Hofstaat": null,
                 "Konfession": null,
-                "Literaturhinweise": ""
+                "andere Quellen": ""
             },
             {
                 "id": 135,
@@ -6257,7 +6257,7 @@
                 "geistlich": null,
                 "Hofstaat": null,
                 "Konfession": null,
-                "Literaturhinweise": ""
+                "andere Quellen": ""
             }
         ],
         "description": "",
@@ -6329,7 +6329,7 @@
                 "geistlich": null,
                 "Hofstaat": null,
                 "Konfession": null,
-                "Literaturhinweise": ""
+                "andere Quellen": ""
             }
         ],
         "description": "",
@@ -6401,7 +6401,7 @@
                 "geistlich": null,
                 "Hofstaat": null,
                 "Konfession": null,
-                "Literaturhinweise": ""
+                "andere Quellen": ""
             }
         ],
         "description": "",
@@ -6473,7 +6473,7 @@
                 "geistlich": null,
                 "Hofstaat": null,
                 "Konfession": null,
-                "Literaturhinweise": ""
+                "andere Quellen": ""
             }
         ],
         "description": "",
@@ -6545,7 +6545,7 @@
                 "geistlich": null,
                 "Hofstaat": null,
                 "Konfession": null,
-                "Literaturhinweise": ""
+                "andere Quellen": ""
             }
         ],
         "description": "",
@@ -6617,7 +6617,7 @@
                 "geistlich": null,
                 "Hofstaat": null,
                 "Konfession": null,
-                "Literaturhinweise": ""
+                "andere Quellen": ""
             },
             {
                 "id": 137,
@@ -6652,7 +6652,7 @@
                 "geistlich": null,
                 "Hofstaat": null,
                 "Konfession": null,
-                "Literaturhinweise": ""
+                "andere Quellen": ""
             }
         ],
         "description": "",
@@ -6724,7 +6724,7 @@
                 "geistlich": null,
                 "Hofstaat": null,
                 "Konfession": null,
-                "Literaturhinweise": ""
+                "andere Quellen": ""
             }
         ],
         "description": "",
@@ -6796,7 +6796,7 @@
                 "geistlich": null,
                 "Hofstaat": null,
                 "Konfession": null,
-                "Literaturhinweise": ""
+                "andere Quellen": ""
             }
         ],
         "description": "",
@@ -6873,7 +6873,7 @@
                 "geistlich": null,
                 "Hofstaat": null,
                 "Konfession": null,
-                "Literaturhinweise": ""
+                "andere Quellen": ""
             },
             {
                 "id": 139,
@@ -6908,7 +6908,7 @@
                 "geistlich": null,
                 "Hofstaat": null,
                 "Konfession": null,
-                "Literaturhinweise": ""
+                "andere Quellen": ""
             }
         ],
         "description": "",

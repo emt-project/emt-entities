@@ -2534,7 +2534,7 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                <person xml:id="emt_person_id__170">
                   <persName type="name">Ampringen, Johann Caspar von</persName>
                   <persName type="function">
-                     <roleName>Deutschmeister</roleName>
+                     <roleName>Hochmeister des Deutschen Ordens</roleName>
                   </persName>
                   <birth>
                      <date notBefore="1619-01-01" notAfter="1619-12-31">1619</date>
@@ -2544,6 +2544,11 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                   </death>
                   <idno type="GND">https://d-nb.info/gnd/116302380</idno>
                   <idno type="NDB">https://www.deutsche-biographie.de/sfz864.html#indexcontent</idno>
+                  <idno type="WIKIDATA">http://www.wikidata.org/entity/Q70832</idno>
+                  <figure>
+                     <graphic url="emt_person_id__170.jpg"/>
+                     <caption>Caspar von Ampringen.jpg</caption>
+                  </figure>
                </person>
                <person xml:id="emt_person_id__171">
                   <persName type="name">Krenski, überbringt Briefe 1678</persName>
@@ -2630,7 +2635,7 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                      <roleName>Graf</roleName>
                   </persName>
                   <persName type="function">
-                     <roleName>Oberstkuchelmeister 1669-1684, Oberstjägermeister 1684-1701</roleName>
+                     <roleName>Oberstkuchelmeister, Oberstjägermeister</roleName>
                   </persName>
                   <birth>
                      <date notBefore="1633-01-01" notAfter="1633-12-31">1633</date>
@@ -2640,6 +2645,7 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                   </death>
                   <idno type="GND">https://d-nb.info/gnd/1218005602</idno>
                   <idno type="NDB">https://www.deutsche-biographie.de/pnd1218005602.html#indexcontent</idno>
+                  <idno type="WIKIDATA">http://www.wikidata.org/entity/Q110262051</idno>
                </person>
                <person xml:id="emt_person_id__180">
                   <persName type="name">Mansfeld, Heinrich Franz von</persName>
@@ -3942,9 +3948,6 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                   <persName type="title">
                      <roleName>Kardinal</roleName>
                   </persName>
-                  <persName type="function">
-                     <roleName>Kardinal</roleName>
-                  </persName>
                   <birth>
                      <date notBefore="1609-01-01" notAfter="1609-12-31">1609</date>
                   </birth>
@@ -3952,6 +3955,7 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                      <date notBefore="1680-01-01" notAfter="1680-12-31">1680</date>
                   </death>
                   <idno type="GND">https://d-nb.info/gnd/1017620601</idno>
+                  <idno type="NDB">https://www.deutsche-biographie.de/pnd1017620601.html#indexcontent</idno>
                   <idno type="WIKIDATA">http://www.wikidata.org/entity/Q3293329</idno>
                   <idno type="URL">https://cardinals.fiu.edu/bios1675.htm#Alberizzi</idno>
                   <figure>
@@ -4152,7 +4156,7 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                      <roleName>Graf</roleName>
                   </persName>
                   <persName type="function">
-                     <roleName>kaiserlicher Botschafter in Schweden 1682-1683</roleName>
+                     <roleName>kaiserlicher Botschafter in Schweden</roleName>
                   </persName>
                   <birth>
                      <date notBefore="1630-01-01" notAfter="1630-12-31">1630</date>
@@ -4162,6 +4166,7 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                   </death>
                   <idno type="GND">https://d-nb.info/gnd/138117004</idno>
                   <idno type="NDB">https://www.deutsche-biographie.de/sfz716.html</idno>
+                  <idno type="WIKIDATA">http://www.wikidata.org/entity/Q1929799</idno>
                </person>
                <person xml:id="emt_person_id__313">
                   <persName type="name">Christian V. von Dänemark</persName>
@@ -4306,6 +4311,7 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                </person>
                <person xml:id="emt_person_id__325">
                   <persName type="name">Althann (Familie)</persName>
+                  <idno type="GND">https://d-nb.info/gnd/129117811</idno>
                </person>
                <person xml:id="emt_person_id__326">
                   <persName type="name">Colloredo, Ludwig</persName>
@@ -6062,6 +6068,7 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                   <idno type="GND">https://d-nb.info/gnd/11930466X</idno>
                   <idno type="NDB">https://www.deutsche-biographie.de/pnd11930466X.html#index</idno>
                   <idno type="WIKIDATA">http://www.wikidata.org/entity/Q101294</idno>
+                  <idno type="URL">https://cardinals.fiu.edu/bios1652.htm#Ottoboni</idno>
                   <figure>
                      <graphic url="emt_person_id__497.jpg"/>
                      <caption>Portrait of Pope Alexander VIII – Roman School of 17th Century – (unframed).jpg</caption>
@@ -11073,7 +11080,17 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                   <persName type="name">Gesser (1696, wohl die Frau von Johann Wilhelm Gesser)</persName>
                </person>
                <person xml:id="emt_person_id__1068">
-                  <persName type="name">Kuiros / Qivros (1696, berichtet aus Den Haag)</persName>
+                  <persName type="name">Quirós y Valdés, Francisco Bernardo de</persName>
+                  <persName type="function">
+                     <roleName>spanischer Botschafter in Den Haag ab 1696</roleName>
+                  </persName>
+                  <birth>
+                     <date notBefore="1644-01-01" notAfter="1644-12-31">1644</date>
+                  </birth>
+                  <death>
+                     <date notBefore="1709-01-01" notAfter="1709-12-31">1709</date>
+                  </death>
+                  <idno type="URL">https://historia-hispanica.rah.es/biografias/7054-francisco-bernardo-de-quiros-y-valdes</idno>
                </person>
                <person xml:id="emt_person_id__1069">
                   <persName type="name">Althann, NN von, 1696 für Propstei empfohlen</persName>
@@ -12055,6 +12072,7 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                   <persName type="title">
                      <roleName>Pater</roleName>
                   </persName>
+                  <idno type="URL">https://nampi.icar-us.eu/data/persons/92575342-eb0f-4549-b5dd-4ee8f996cd40</idno>
                </person>
                <person xml:id="emt_person_id__1215">
                   <persName type="name">Wiser, Ferdinand Andreas von</persName>
@@ -15971,6 +15989,7 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                   <idno type="GND">https://d-nb.info/gnd/143636332</idno>
                   <idno type="NDB">https://www.deutsche-biographie.de/pnd143636332.html#indexcontent</idno>
                   <idno type="WIKIDATA">http://www.wikidata.org/entity/Q1337721</idno>
+                  <idno type="URL">https://cardinals.fiu.edu/bios1706.htm#Acquaviva</idno>
                   <figure>
                      <graphic url="emt_person_id__1758.jpg"/>
                      <caption>Francesco Acquaviva (cropped).jpg</caption>
