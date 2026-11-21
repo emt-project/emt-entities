@@ -6829,10 +6829,18 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                   </figure>
                </person>
                <person xml:id="emt_person_id__581">
-                  <persName type="name">Zweiffel, Frau von (1693, hat dem Kaiserpaar Dienste in Polen geleistet)</persName>
+                  <persName type="name">Zweiffel, Maria Margaretha von, geb. Bawyr zu Frankenberg</persName>
+                  <idno type="URL">https://de.wikipedia.org/wiki/Zweiffel_(Adelsgeschlecht)</idno>
                </person>
                <person xml:id="emt_person_id__582">
-                  <persName type="name">Zweiffel, Herr von (1693, verstorbener Sohn der Frau von Zwiefel)</persName>
+                  <persName type="name">Zweiffel, Philipp Wilhelm von</persName>
+                  <persName type="function">
+                     <roleName>Hofkammerpräsident Düsseldorf 1691 bis 1693</roleName>
+                  </persName>
+                  <death>
+                     <date notBefore="1693-01-01" notAfter="1693-12-31">1693</date>
+                  </death>
+                  <idno type="URL">https://de.wikipedia.org/wiki/Zweiffel_(Adelsgeschlecht)</idno>
                </person>
                <person xml:id="emt_person_id__583">
                   <persName type="name">Hessen-Darmstadt, Elisabeth Dorothea von, verh. Hessen-Homburg</persName>
@@ -10314,7 +10322,17 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                   <idno type="URL">https://en.wikipedia.org/wiki/Micha%C5%82_Franciszek_Sapieha</idno>
                </person>
                <person xml:id="emt_person_id__868">
-                  <persName type="name">Wangen, Herr von 1690</persName>
+                  <persName type="name">Wangen, Leopold Friedrich Wilhelm von der Gracht, Baron von</persName>
+                  <persName type="function">
+                     <roleName>Geheimer Rat, 1693 Hofmarschall in Düsseldorf</roleName>
+                  </persName>
+                  <birth>
+                     <date notBefore="1658-01-01" notAfter="1658-12-31">1658</date>
+                  </birth>
+                  <death>
+                     <date notBefore="1707-01-01" notAfter="1707-12-31">1707</date>
+                  </death>
+                  <idno type="URL">http://www.ht-frings.de/Genealogie%20Philippengracht.pdf</idno>
                </person>
                <person xml:id="emt_person_id__870">
                   <persName type="name">Mansfeld, Franz Maximilian von</persName>
@@ -11872,10 +11890,16 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                   </persName>
                </person>
                <person xml:id="emt_person_id__1162">
-                  <persName type="name">Althann, NN, 1697 in Wien</persName>
+                  <persName type="name">Althann, Maria Anna von, vereh. NN</persName>
+                  <persName type="title">
+                     <roleName>Gräfin</roleName>
+                  </persName>
+                  <persName type="function">
+                     <roleName>Kammerfräulein in Düsseldorf 1691 bis 1697</roleName>
+                  </persName>
                </person>
                <person xml:id="emt_person_id__1163">
-                  <persName type="name">Althann, Ehemann der A., NN 1697</persName>
+                  <persName type="name">NN, Ehemann der Maria Anna von Althann</persName>
                </person>
                <person xml:id="emt_person_id__1164">
                   <persName type="name">Wachtendonk, Edmund Dietrich von</persName>
@@ -16474,7 +16498,7 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                   </figure>
                </person>
                <person xml:id="emt_person_id__1836">
-                  <persName type="name">Ralshausen / Rolshausen, Herr von (1713)</persName>
+                  <persName type="name">Rolshausen, Herr von (1713)</persName>
                </person>
                <person xml:id="emt_person_id__1837">
                   <persName type="name">Reich von Reichenstein, Nikolaus Paul</persName>
