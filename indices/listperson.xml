@@ -1282,10 +1282,18 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                   <persName type="name">Egelhoff (Egloff?), Fräulein von</persName>
                </person>
                <person xml:id="emt_person_id__77">
-                  <persName type="name">Bernsau, Herr von</persName>
+                  <persName type="name">Bernsaw, Wirich Dietrich von</persName>
+                  <birth>
+                     <date notBefore="1656-01-01" notAfter="1656-12-31">1656</date>
+                  </birth>
+                  <death>
+                     <date notBefore="1709-01-01" notAfter="1709-12-31">1709</date>
+                  </death>
+                  <idno type="URL">https://de.wikipedia.org/wiki/Bernsau_(Adelsgeschlecht)</idno>
                </person>
                <person xml:id="emt_person_id__78">
-                  <persName type="name">Bernsau, Frau von</persName>
+                  <persName type="name">Bernsaw, Anna Agnes von, geb. Schöller</persName>
+                  <idno type="URL">https://de.wikipedia.org/wiki/Bernsau_(Adelsgeschlecht)</idno>
                </person>
                <person xml:id="emt_person_id__79">
                   <persName type="name">Fürstenberg-Heiligenberg, Felix Egon von</persName>
@@ -6830,7 +6838,7 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                </person>
                <person xml:id="emt_person_id__581">
                   <persName type="name">Zweiffel, Maria Margaretha von, geb. Bawyr zu Frankenberg</persName>
-                  <idno type="URL">https://de.wikipedia.org/wiki/Zweiffel_(Adelsgeschlecht)</idno>
+                  <idno type="URL">https://de.wikipedia.org/wiki/Buer_(Adelsgeschlecht)</idno>
                </person>
                <person xml:id="emt_person_id__582">
                   <persName type="name">Zweiffel, Philipp Wilhelm von</persName>
@@ -7844,7 +7852,14 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                   <idno type="URL">https://kaiserhof.geschichte.lmu.de/13026</idno>
                </person>
                <person xml:id="emt_person_id__664">
-                  <persName type="name">Weichs, Herr von 1686</persName>
+                  <persName type="name">Weichs, Johann Franz Ernst von</persName>
+                  <persName type="function">
+                     <roleName>Deutshcordensritter</roleName>
+                  </persName>
+                  <death>
+                     <date notBefore="1733-01-01" notAfter="1733-12-31">1733</date>
+                  </death>
+                  <idno type="URL">https://damian-hungs.de/kommende-blumenthal/#_ftn42</idno>
                </person>
                <person xml:id="emt_person_id__665">
                   <persName type="name">Arco, Gaetana</persName>
@@ -10322,7 +10337,7 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                   <idno type="URL">https://en.wikipedia.org/wiki/Micha%C5%82_Franciszek_Sapieha</idno>
                </person>
                <person xml:id="emt_person_id__868">
-                  <persName type="name">Wangen, Leopold Friedrich Wilhelm von der Gracht, Baron von</persName>
+                  <persName type="name">Wangen, Leopold Friedrich Wilhelm von der Gracht zu</persName>
                   <persName type="function">
                      <roleName>Geheimer Rat, 1693 Hofmarschall in Düsseldorf</roleName>
                   </persName>
@@ -13257,7 +13272,8 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                   <persName type="name">Beywang, wird 1701 empfohlen</persName>
                </person>
                <person xml:id="emt_person_id__1410">
-                  <persName type="name">Wilich (Wylich?) wird 1701 empfohlen</persName>
+                  <persName type="name">Wylich, Herr von, wird 1701 empfohlen</persName>
+                  <idno type="URL">https://de.wikipedia.org/wiki/Wylich</idno>
                </person>
                <person xml:id="emt_person_id__1411">
                   <persName type="name">Ansalone (Tochter des Antonio Ansalone, wird 1701 empfohlen)</persName>
@@ -14892,7 +14908,11 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                   <persName type="name">Amerighi (wird 1706 empfohlen)</persName>
                </person>
                <person xml:id="emt_person_id__1671">
-                  <persName type="name">Berg, Graf (1706 empfohlen)</persName>
+                  <persName type="name">Berghe von Trips, Johann Franz</persName>
+                  <persName type="title">
+                     <roleName>Graf</roleName>
+                  </persName>
+                  <idno type="URL">https://de.wikipedia.org/wiki/Berghe_von_Trips_(Adelsgeschlecht)</idno>
                </person>
                <person xml:id="emt_person_id__1672">
                   <persName type="name">Pater Rektor (1706)</persName>
@@ -16498,7 +16518,8 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                   </figure>
                </person>
                <person xml:id="emt_person_id__1836">
-                  <persName type="name">Rolshausen, Herr von (1713)</persName>
+                  <persName type="name">Rolshausen (Familie)</persName>
+                  <idno type="URL">https://de.wikipedia.org/wiki/Rolshausen_(Adelsgeschlecht)</idno>
                </person>
                <person xml:id="emt_person_id__1837">
                   <persName type="name">Reich von Reichenstein, Nikolaus Paul</persName>
@@ -16624,7 +16645,8 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                   </death>
                </person>
                <person xml:id="emt_person_id__1885">
-                  <persName type="name">Neukirchen (wird 1709 empfohlen)</persName>
+                  <persName type="name">Neukirchen genannt Nievenheim, Walter Gottfried</persName>
+                  <idno type="URL">https://gw.geneanet.org/rwlankes?lang=de&amp;n=nievenheim&amp;p=walter+gottfried+van+neukirchen+genannt</idno>
                </person>
                <person xml:id="emt_person_id__1886">
                   <persName type="name">Wendt von Hardenberg, NN</persName>
@@ -17025,11 +17047,18 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                   <idno type="URL">http://www.biografischportaal.nl/persoon/44447240</idno>
                </person>
                <person xml:id="emt_person_id__1988">
-                  <persName type="name">von der Leyen zu Saffig, NN</persName>
+                  <persName type="name">von der Leyen zu Saffig, Karl Kaspar</persName>
                   <persName type="function">
                      <roleName>kurtrierischer Obermarschall</roleName>
                   </persName>
+                  <birth>
+                     <date notBefore="1652-01-01" notAfter="1652-12-31">1652</date>
+                  </birth>
+                  <death>
+                     <date notBefore="1703-01-01" notAfter="1703-12-31">1703</date>
+                  </death>
                   <idno type="NDB">https://www.deutsche-biographie.de/gnd1073135977.html?language=de#ndbcontent</idno>
+                  <idno type="URL">http://www.welt-der-wappen.de/Heraldik/aktuell/galerien3/galerie2592.htm</idno>
                </person>
                <person xml:id="emt_person_id__2022">
                   <persName type="name">Callières, François de, sieur de Rochelay et de Gigny</persName>
