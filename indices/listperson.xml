@@ -8646,8 +8646,15 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                      <roleName>Conte</roleName>
                   </persName>
                   <persName type="function">
-                     <roleName>Gesandter Spaniens in Wien 1677 - 1678</roleName>
+                     <roleName>spanischer Gesandter in Wien</roleName>
                   </persName>
+                  <birth>
+                     <date notBefore="1644-01-01" notAfter="1644-12-31">1644</date>
+                  </birth>
+                  <death>
+                     <date notBefore="1712-01-01" notAfter="1712-12-31">1712</date>
+                  </death>
+                  <idno type="URL">https://www.treccani.it/enciclopedia/filippo-archinto_res-a8f74fe3-87e6-11dc-8e9d-0016357eee51_(Dizionario-Biografico)/?search=ARCHINTO,%20Filippo</idno>
                </person>
                <person xml:id="emt_person_id__738">
                   <persName type="name">Soler, Herr 1688</persName>
@@ -8676,7 +8683,7 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                <person xml:id="emt_person_id__742">
                   <persName type="name">Angulo y Sandoval, Diego Ventura Fernández de OFM</persName>
                   <persName type="function">
-                     <roleName>Bischof von Avila, spanischer Botschafter in Portugal 1684-1690</roleName>
+                     <roleName>Bischof von Avila, spanischer Botschafter in Portugal</roleName>
                   </persName>
                   <birth>
                      <date notBefore="1632-01-01" notAfter="1632-12-31">1632</date>
@@ -12263,6 +12270,9 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                </person>
                <person xml:id="emt_person_id__1227">
                   <persName type="name">Ansalone, Margaretha ("Margo") OCarm</persName>
+                  <persName type="function">
+                     <roleName>Kammerdienerin, dann Nonne in Münstereiffel</roleName>
+                  </persName>
                </person>
                <person xml:id="emt_person_id__1228">
                   <persName type="name">Nesselrode-Ehreshoven, Philipp Wilhelm von</persName>
@@ -15815,10 +15825,12 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                   <idno type="WIKIDATA">http://www.wikidata.org/entity/Q29444993</idno>
                </person>
                <person xml:id="emt_person_id__1739">
-                  <persName type="name">Antinori, NN (florentinischer Gesandter in Wien ab 1707)</persName>
+                  <persName type="name">Antinori, NN</persName>
                   <persName type="function">
                      <roleName>Gesandter des Großherzogtums Toskana in Wien 1707-1712</roleName>
                   </persName>
+                  <idno type="GND">https://d-nb.info/gnd/189232269</idno>
+                  <idno type="WIKIDATA">http://www.wikidata.org/entity/Q37207671</idno>
                </person>
                <person xml:id="emt_person_id__1740">
                   <persName type="name">Thürheim, Franz Leopold von</persName>

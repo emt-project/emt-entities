@@ -5169,7 +5169,7 @@
     "img_source": "",
     "birth_date_written": "",
     "death_date_written": "",
-    "geschlecht": null,
+    "geschlecht": "m.",
     "funktionsbezeichnungen": null,
     "unidentifiziert": false,
     "titel": [
@@ -5181,7 +5181,7 @@
     ],
     "geistlich": null,
     "Hofstaat": null,
-    "Konfession": null,
+    "Konfession": "evangelisch A.B.",
     "andere Quellen": ""
   },
   "163": {
@@ -5204,7 +5204,7 @@
     "img_source": "",
     "birth_date_written": "",
     "death_date_written": "",
-    "geschlecht": null,
+    "geschlecht": "m.",
     "funktionsbezeichnungen": null,
     "unidentifiziert": false,
     "titel": [
@@ -5216,7 +5216,7 @@
     ],
     "geistlich": null,
     "Hofstaat": null,
-    "Konfession": null,
+    "Konfession": "evangelisch A.B.",
     "andere Quellen": ""
   },
   "164": {
@@ -15347,7 +15347,7 @@
     "img_source": "",
     "birth_date_written": "",
     "death_date_written": "",
-    "geschlecht": "",
+    "geschlecht": "m.",
     "funktionsbezeichnungen": "",
     "unidentifiziert": true,
     "titel": [
@@ -21702,14 +21702,14 @@
     "order": "732.00000000000000000000",
     "name": "Archinto, Filippo",
     "gnd": "",
-    "other_url": "",
+    "other_url": "https://www.treccani.it/enciclopedia/filippo-archinto_res-a8f74fe3-87e6-11dc-8e9d-0016357eee51_(Dizionario-Biografico)/?search=ARCHINTO,%20Filippo",
     "emt_id": "emt_person_id__737",
     "internal_comment": "Bittner/Groß 517\nentsendet zur Gratulation zur Hochzeit\nhttps://www.archivinformationssystem.at/detail.aspx?ID=1649620",
     "color": "",
     "lebensdaten": "",
     "ndb": "",
-    "year_of_birth": null,
-    "year_of_death": null,
+    "year_of_birth": "1644",
+    "year_of_death": "1712",
     "wikidata_url": "",
     "wikidata_enriched": false,
     "img_name": "",
@@ -21718,7 +21718,7 @@
     "birth_date_written": "",
     "death_date_written": "",
     "geschlecht": "",
-    "funktionsbezeichnungen": "Gesandter Spaniens in Wien 1677 - 1678",
+    "funktionsbezeichnungen": "spanischer Gesandter in Wien",
     "unidentifiziert": false,
     "titel": [
       {
@@ -21730,7 +21730,7 @@
     "geistlich": null,
     "Hofstaat": null,
     "Konfession": null,
-    "andere Quellen": ""
+    "andere Quellen": "Bittner/Groß, Repertorium I, 517"
   },
   "738": {
     "id": 738,
@@ -21846,13 +21846,13 @@
     "birth_date_written": "",
     "death_date_written": "",
     "geschlecht": "m.",
-    "funktionsbezeichnungen": "Bischof von Avila, spanischer Botschafter in Portugal 1684-1690",
+    "funktionsbezeichnungen": "Bischof von Avila, spanischer Botschafter in Portugal",
     "unidentifiziert": false,
     "titel": [],
     "geistlich": "geistlich",
     "Hofstaat": null,
     "Konfession": "katholisch",
-    "andere Quellen": ""
+    "andere Quellen": "https://catholic-hierarchy.org/bishop/bfda.html\nBittner/Groß, Repertorium I, 525."
   },
   "743": {
     "id": 743,
@@ -27797,7 +27797,7 @@
     "death_date_written": "",
     "geschlecht": "m.",
     "funktionsbezeichnungen": "",
-    "unidentifiziert": false,
+    "unidentifiziert": true,
     "titel": [
       {
         "id": 19689,
@@ -30569,15 +30569,15 @@
     "img_fetched": false,
     "img_source": "",
     "birth_date_written": "",
-    "death_date_written": "",
+    "death_date_written": "nach 1698",
     "geschlecht": "f.",
-    "funktionsbezeichnungen": "",
+    "funktionsbezeichnungen": "Kammerdienerin, dann Nonne in Münstereiffel",
     "unidentifiziert": false,
     "titel": [],
     "geistlich": "geistlich",
-    "Hofstaat": null,
+    "Hofstaat": "Pfalz-Neuburg",
     "Konfession": "katholisch",
-    "andere Quellen": ""
+    "andere Quellen": "Wagner, Franz: Leben und Tugenden Eleonorae Magdalenae Theresiae, römischen Käyserin (Wien 1721)  33f."
   },
   "1228": {
     "id": 1228,
@@ -31586,7 +31586,7 @@
     "gnd": "",
     "other_url": "",
     "emt_id": "emt_person_id__1259",
-    "internal_comment": "siehe Peper, Nonne und dort zitierte Literatur. Sie war designierte Oberin von Höchstädt, deshalb teils mamer / Mutter genannt. 1700 nach Wien mit der Alexandrina. Kein bürgerlicher Name, keine Lebensdaten",
+    "internal_comment": "Sie war designierte Oberin von Höchstädt, deshalb teils mamer / Mutter genannt. 1700 nach Wien mit der Alexandrina. Kein bürgerlicher Name, keine Lebensdaten",
     "color": "",
     "lebensdaten": "",
     "ndb": "",
@@ -31601,7 +31601,7 @@
     "death_date_written": "",
     "geschlecht": "f.",
     "funktionsbezeichnungen": "designierte Priorin des geplanten Karmelitinnenklosters in Höchstädt",
-    "unidentifiziert": false,
+    "unidentifiziert": true,
     "titel": [],
     "geistlich": "geistlich",
     "Hofstaat": null,
@@ -33157,13 +33157,13 @@
     "img_source": "",
     "birth_date_written": "",
     "death_date_written": "",
-    "geschlecht": "",
+    "geschlecht": "f.",
     "funktionsbezeichnungen": "",
-    "unidentifiziert": false,
+    "unidentifiziert": true,
     "titel": [],
     "geistlich": null,
     "Hofstaat": null,
-    "Konfession": null,
+    "Konfession": "katholisch",
     "andere Quellen": ""
   },
   "1412": {
@@ -33184,15 +33184,15 @@
     "img_name": "",
     "img_fetched": true,
     "img_source": "",
-    "birth_date_written": "",
-    "death_date_written": "",
-    "geschlecht": "",
+    "birth_date_written": "vor 1676",
+    "death_date_written": "nach 1703",
+    "geschlecht": "m.",
     "funktionsbezeichnungen": "Sänger, pfälzischer Kammermusiker und Kammerdiener",
     "unidentifiziert": false,
     "titel": [],
     "geistlich": null,
-    "Hofstaat": null,
-    "Konfession": null,
+    "Hofstaat": "Pfalz-Neuburg",
+    "Konfession": "katholisch",
     "andere Quellen": ""
   },
   "1445": {
@@ -37268,7 +37268,7 @@
     "img_source": "",
     "birth_date_written": "",
     "death_date_written": "",
-    "geschlecht": "",
+    "geschlecht": "m.",
     "funktionsbezeichnungen": "",
     "unidentifiziert": true,
     "titel": [],
@@ -39386,8 +39386,8 @@
   "1739": {
     "id": 1739,
     "order": "1320.00000000000000000000",
-    "name": "Antinori, NN (florentinischer Gesandter in Wien ab 1707)",
-    "gnd": "",
+    "name": "Antinori, NN",
+    "gnd": "http://d-nb.info/gnd/189232269",
     "other_url": "",
     "emt_id": "emt_person_id__1739",
     "internal_comment": "Familie im Dienst der Medici https://de.wikipedia.org/wiki/Antinori_(Adelsgeschlecht). Bittner, Repertorium 534: ein Antinori als Gesandter des Großhzm Toskana in Wien 1708-1712. Lau S.285 hat einen Leibpagen Andrea Melchiore Marchese di Antinori, der ebd. 117\nKühn-Steinhausen, JW, 51 spricht von einem Gesandten Neri in Wien",
@@ -39396,21 +39396,21 @@
     "ndb": "",
     "year_of_birth": null,
     "year_of_death": null,
-    "wikidata_url": "",
+    "wikidata_url": "https://www.wikidata.org/wiki/Q37207671",
     "wikidata_enriched": false,
     "img_name": "",
-    "img_fetched": false,
+    "img_fetched": true,
     "img_source": "",
     "birth_date_written": "",
     "death_date_written": "",
-    "geschlecht": "",
+    "geschlecht": "m.",
     "funktionsbezeichnungen": "Gesandter des Großherzogtums Toskana in Wien 1707-1712",
     "unidentifiziert": true,
     "titel": [],
     "geistlich": null,
     "Hofstaat": null,
-    "Konfession": null,
-    "andere Quellen": ""
+    "Konfession": "katholisch",
+    "andere Quellen": "Bittner/Groß, Repertorium I, 534."
   },
   "1740": {
     "id": 1740,
@@ -39560,7 +39560,7 @@
     "img_source": "commonsMedia",
     "birth_date_written": "",
     "death_date_written": "",
-    "geschlecht": "",
+    "geschlecht": "f.",
     "funktionsbezeichnungen": "Königin",
     "unidentifiziert": false,
     "titel": [
@@ -39572,7 +39572,7 @@
     ],
     "geistlich": null,
     "Hofstaat": null,
-    "Konfession": null,
+    "Konfession": "anglikanisch",
     "andere Quellen": ""
   },
   "1746": {
@@ -40467,13 +40467,13 @@
     "img_source": "",
     "birth_date_written": "",
     "death_date_written": "",
-    "geschlecht": "",
+    "geschlecht": "m.",
     "funktionsbezeichnungen": "",
     "unidentifiziert": true,
     "titel": [],
     "geistlich": null,
     "Hofstaat": null,
-    "Konfession": null,
+    "Konfession": "katholisch",
     "andere Quellen": ""
   },
   "1776": {
@@ -43891,7 +43891,7 @@
     "titel": [],
     "geistlich": null,
     "Hofstaat": null,
-    "Konfession": null,
+    "Konfession": "wahrschinlich katholisch",
     "andere Quellen": ""
   },
   "2161": {
