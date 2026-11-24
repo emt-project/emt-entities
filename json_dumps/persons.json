@@ -413,7 +413,7 @@
     "img_source": "commonsMedia",
     "birth_date_written": null,
     "death_date_written": null,
-    "geschlecht": null,
+    "geschlecht": "f.",
     "funktionsbezeichnungen": null,
     "unidentifiziert": false,
     "titel": [
@@ -755,7 +755,7 @@
     "img_source": "commonsMedia",
     "birth_date_written": null,
     "death_date_written": null,
-    "geschlecht": null,
+    "geschlecht": "m.",
     "funktionsbezeichnungen": "Kurfürst und Erzbischof von Köln",
     "unidentifiziert": false,
     "titel": [
@@ -770,9 +770,9 @@
         "color": "light-pink"
       }
     ],
-    "geistlich": null,
+    "geistlich": "geistlich",
     "Hofstaat": null,
-    "Konfession": null,
+    "Konfession": "katholisch",
     "andere Quellen": ""
   },
   "25": {
@@ -1193,7 +1193,7 @@
     "img_source": "commonsMedia",
     "birth_date_written": null,
     "death_date_written": null,
-    "geschlecht": null,
+    "geschlecht": "m.",
     "funktionsbezeichnungen": "General",
     "unidentifiziert": false,
     "titel": [
@@ -1205,7 +1205,7 @@
     ],
     "geistlich": null,
     "Hofstaat": null,
-    "Konfession": null,
+    "Konfession": "katholisch",
     "andere Quellen": ""
   },
   "37": {
@@ -2538,7 +2538,7 @@
     "gnd": "https://d-nb.info/gnd/118981722",
     "other_url": "",
     "emt_id": "emt_person_id__80",
-    "internal_comment": "Domherr in Köln 1651-1691: „Hermann“ (GSN: 026-00400-001), in: Germania Sacra, https://personendatenbank.germania-sacra.de/index/gsn/026-00400-001 (Abgerufen: 27.07.2026).",
+    "internal_comment": "Domherr in Köln 1651-1691: „Hermann“ (GSN: 026-00400-001), in: Germania Sacra, https://personendatenbank.germania-sacra.de/index/gsn/026-00400-001 (Abgerufen: 27.07.2026  ... bloß steht das im Nov. 26 nicht mehr da - nochmal Hersche checken). Legte laut ADB seine Domherrenstellen schon lange vorher zurück, aber das scheint zumindest für Köln nicht zu stimmen... check",
     "color": "",
     "lebensdaten": "1628-1691",
     "ndb": "https://www.deutsche-biographie.de/sfz53239.html#indexcontent",
@@ -2551,8 +2551,8 @@
     "img_source": "commonsMedia",
     "birth_date_written": null,
     "death_date_written": null,
-    "geschlecht": null,
-    "funktionsbezeichnungen": "General, Hofkriegsratspräsident (1681-1688)",
+    "geschlecht": "m.",
+    "funktionsbezeichnungen": "kaiserlicher General, Hofkriegsratspräsident, Domherr in Köln",
     "unidentifiziert": false,
     "titel": [
       {
@@ -2561,9 +2561,9 @@
         "color": "blue"
       }
     ],
-    "geistlich": null,
-    "Hofstaat": null,
-    "Konfession": null,
+    "geistlich": "geistlich",
+    "Hofstaat": "Kaiserhof",
+    "Konfession": "katholisch",
     "andere Quellen": ""
   },
   "81": {
@@ -5913,7 +5913,7 @@
   "187": {
     "id": 187,
     "order": "187.00000000000000000000",
-    "name": "Abele, Christoph Ignaz",
+    "name": "Abele, Christoph Ignaz von",
     "gnd": "http://d-nb.info/116002034",
     "other_url": "",
     "emt_id": "emt_person_id__187",
@@ -6148,28 +6148,34 @@
     "order": "194.00000000000000000000",
     "name": "Austria, Juan José de",
     "gnd": "http://d-nb.info/118713302",
-    "other_url": "",
+    "other_url": "https://historia-hispanica.rah.es/biografias/5243-juan-jose-de-austria",
     "emt_id": "emt_person_id__194",
-    "internal_comment": "",
+    "internal_comment": "Titel Don? ist an sich nur eine Anrede wie Sir, gehört aber beim ihm praktisch zum Namen, auch in Ermangelung eines anderen Titels als unehelicher Sohn.   geistlich: er war Gran Prior de la Orden de San Juan, was der Malteserorden ist, und das ist einer der geistlichen Ritterorden",
     "color": "",
     "lebensdaten": "",
     "ndb": "https://www.deutsche-biographie.de/sfz70291.html#indexcontent",
     "year_of_birth": "1629",
     "year_of_death": "1679",
-    "wikidata_url": "",
+    "wikidata_url": "https://www.wikidata.org/wiki/Q442594",
     "wikidata_enriched": false,
-    "img_name": "",
-    "img_fetched": false,
-    "img_source": "",
+    "img_name": "Juanjosedeaustria.jpg",
+    "img_fetched": true,
+    "img_source": "commonsMedia",
     "birth_date_written": "",
     "death_date_written": "",
-    "geschlecht": null,
-    "funktionsbezeichnungen": null,
+    "geschlecht": "m.",
+    "funktionsbezeichnungen": "spanischer General und Minister",
     "unidentifiziert": false,
-    "titel": [],
-    "geistlich": null,
-    "Hofstaat": null,
-    "Konfession": null,
+    "titel": [
+      {
+        "id": 24482,
+        "value": "Don",
+        "color": "darker-yellow"
+      }
+    ],
+    "geistlich": "geistlich",
+    "Hofstaat": "Spanien",
+    "Konfession": "katholisch",
     "andere Quellen": ""
   },
   "195": {
@@ -6385,7 +6391,7 @@
     "birth_date_written": "",
     "death_date_written": "",
     "geschlecht": null,
-    "funktionsbezeichnungen": null,
+    "funktionsbezeichnungen": "",
     "unidentifiziert": true,
     "titel": [],
     "geistlich": null,
@@ -7708,14 +7714,14 @@
     "order": "246.00000000000000000000",
     "name": "Auersperg, Maria Franziska von, vereh. Mansfeld",
     "gnd": "",
-    "other_url": "",
+    "other_url": "https://viecpro.acdh.oeaw.ac.at/persons/245584",
     "emt_id": "emt_person_id__246",
-    "internal_comment": "sollte ursprünglich Hofdame bei EMT werden, erkrankt 1680 in Prag an der Pest - sicher eine der drei unverheirateten Töchter von Johann Weikhard von Auersperg, siehe http://genealogy.euweb.cz/auersperg/auersperg4.html\nlaut HZAB Hoffräulein 1684 bis 1693, heiratet dann Mansfeld",
+    "internal_comment": "sollte ursprünglich Hofdame bei EMT werden, erkrankt 1680 in Prag an der Pest - sicher eine der drei unverheirateten Töchter von Johann Weikhard von Auersperg, siehe http://genealogy.euweb.cz/auersperg/auersperg4.html\nlaut HZAB Hoffräulein 1684 bis 1693, heiratet dann Mansfeld https://de.wikipedia.org/wiki/Heinrich_Franz_von_Mansfeld",
     "color": "",
     "lebensdaten": "",
     "ndb": "",
-    "year_of_birth": null,
-    "year_of_death": null,
+    "year_of_birth": "1664",
+    "year_of_death": "1739",
     "wikidata_url": "",
     "wikidata_enriched": false,
     "img_name": "",
@@ -7723,25 +7729,14 @@
     "img_source": "",
     "birth_date_written": "",
     "death_date_written": "",
-    "geschlecht": null,
-    "funktionsbezeichnungen": null,
+    "geschlecht": "f.",
+    "funktionsbezeichnungen": "Hoffräulein, Kammerfräulein",
     "unidentifiziert": false,
-    "titel": [
-      {
-        "id": 19752,
-        "value": "Hoffräulein",
-        "color": "light-pink"
-      },
-      {
-        "id": 19743,
-        "value": "Kammerfräulein",
-        "color": "red"
-      }
-    ],
+    "titel": [],
     "geistlich": null,
-    "Hofstaat": null,
-    "Konfession": null,
-    "andere Quellen": ""
+    "Hofstaat": "Kaiserhof",
+    "Konfession": "katholisch",
+    "andere Quellen": "http://genealogy.euweb.cz/auersperg/auersperg4.html"
   },
   "247": {
     "id": 247,
@@ -9541,13 +9536,13 @@
     "img_source": "",
     "birth_date_written": "1658 oder 1659",
     "death_date_written": "",
-    "geschlecht": null,
+    "geschlecht": "m.",
     "funktionsbezeichnungen": null,
     "unidentifiziert": false,
     "titel": [],
     "geistlich": null,
     "Hofstaat": null,
-    "Konfession": null,
+    "Konfession": "katholisch",
     "andere Quellen": ""
   },
   "310": {
@@ -11892,15 +11887,15 @@
     "ndb": "https://www.deutsche-biographie.de/pnd1073948730.html#index",
     "year_of_birth": "1660",
     "year_of_death": "1713",
-    "wikidata_url": "",
+    "wikidata_url": "https://www.wikidata.org/wiki/Q828157",
     "wikidata_enriched": false,
     "img_name": "",
-    "img_fetched": false,
+    "img_fetched": true,
     "img_source": "",
     "birth_date_written": "",
     "death_date_written": "",
-    "geschlecht": "",
-    "funktionsbezeichnungen": "General, Herzog von Münsterberg",
+    "geschlecht": "m.",
+    "funktionsbezeichnungen": "kaiserlicher Offizier, Herzog von Münsterberg",
     "unidentifiziert": false,
     "titel": [
       {
@@ -11911,7 +11906,7 @@
     ],
     "geistlich": null,
     "Hofstaat": null,
-    "Konfession": null,
+    "Konfession": "katholisch",
     "andere Quellen": ""
   },
   "391": {
@@ -12334,7 +12329,7 @@
     "gnd": "https://d-nb.info/gnd/104279664",
     "other_url": "",
     "emt_id": "emt_person_id__405",
-    "internal_comment": "",
+    "internal_comment": "Konfession laut wikidata. In der DB steht \"lutherisch?\", aber er und seine Kinder heiraten alle in evangelische FAmlien und er ist in einer evangelischen Kirche begraben",
     "color": "",
     "lebensdaten": "",
     "ndb": "",
@@ -12347,7 +12342,7 @@
     "img_source": "commonsMedia",
     "birth_date_written": "",
     "death_date_written": "",
-    "geschlecht": "",
+    "geschlecht": "m.",
     "funktionsbezeichnungen": null,
     "unidentifiziert": false,
     "titel": [
@@ -12359,7 +12354,7 @@
     ],
     "geistlich": null,
     "Hofstaat": null,
-    "Konfession": null,
+    "Konfession": "evangelisch A.B.",
     "andere Quellen": ""
   },
   "406": {
@@ -13709,11 +13704,11 @@
   "456": {
     "id": 456,
     "order": "454.00000000000000000000",
-    "name": "Arco, Graf von 1684",
+    "name": "Arco, NN von",
     "gnd": "",
     "other_url": "",
     "emt_id": "emt_person_id__456",
-    "internal_comment": "hat sich für das Stallmeisteramt bei Franz Ludwig gemeldet, aber EMT hat ihn abgewiesen aus Gründen, die sie nicht schreiben kann, aber PW wäre nie mit ihm einverstanden gewesen",
+    "internal_comment": "hat sich für das Stallmeisteramt bei Franz Ludwig gemeldet, aber EMT hat ihn abgewiesen aus Gründen, die sie nicht schreiben kann, aber PW wäre nie mit ihm einverstanden gewesen. Könnte theoretisch der Gaetano sein (siehe Arco, Gaetana), aber unklar    katholisch erhärtet hier https://de-academic.com/dic.nsf/dewiki/95956#Namenstr.C3.A4ger",
     "color": "",
     "lebensdaten": "",
     "ndb": "",
@@ -13726,13 +13721,19 @@
     "img_source": "",
     "birth_date_written": "",
     "death_date_written": "",
-    "geschlecht": "",
+    "geschlecht": "m.",
     "funktionsbezeichnungen": "",
     "unidentifiziert": true,
-    "titel": [],
+    "titel": [
+      {
+        "id": 19689,
+        "value": "Graf",
+        "color": "purple"
+      }
+    ],
     "geistlich": null,
     "Hofstaat": null,
-    "Konfession": null,
+    "Konfession": "katholisch",
     "andere Quellen": ""
   },
   "457": {
@@ -13819,13 +13820,13 @@
     "img_source": "",
     "birth_date_written": "",
     "death_date_written": "",
-    "geschlecht": "",
+    "geschlecht": "m.",
     "funktionsbezeichnungen": "",
     "unidentifiziert": true,
     "titel": [],
     "geistlich": null,
     "Hofstaat": null,
-    "Konfession": null,
+    "Konfession": "katholisch",
     "andere Quellen": ""
   },
   "460": {
@@ -17868,7 +17869,7 @@
     "gnd": "",
     "other_url": "https://arcinsys.hessen.de/arcinsys/detailAction?detailid=v10910288",
     "emt_id": "emt_person_id__608",
-    "internal_comment": "Baur promovierte 1664 in Gießen und starb vor 1711\nzur Familie: https://frankfurter-patriziat.de/node/26949\nLebensdaten siehe https://www.yumpu.com/de/document/view/6143373/frankfurter-patrizier-das-frankfurter-patriziat",
+    "internal_comment": "Baur promovierte 1664 in Gießen und starb vor 1711\nzur Familie: https://frankfurter-patriziat.de/node/26949\nLebensdaten siehe https://www.yumpu.com/de/document/view/6143373/frankfurter-patrizier-das-frankfurter-patriziat       er kommt mehrfach bei Bittner vor, daher stammt auch der trierische Rat und Agent, aber die spezielle Funktion als Vertreter Holstein-Wiesenburgs ist nicht bei Bittner.      Konvertiert 1707 laut https://www.yumpu.com/de/document/read/6143373/frankfurter-patrizier-das-frankfurter-patriziat/63 S.52. Seine erste Frau war schon seit 1698 kath., ebd.",
     "color": "",
     "lebensdaten": "",
     "ndb": "",
@@ -17881,14 +17882,14 @@
     "img_source": "",
     "birth_date_written": "",
     "death_date_written": "",
-    "geschlecht": "",
-    "funktionsbezeichnungen": "Vertreter der Herzöge von Holstein-Wiesenburg in Wien",
+    "geschlecht": "m.",
+    "funktionsbezeichnungen": "kurmainzischer, kurtrierischer und kaiserlicher Rat, Diplomat, u.a. Agent der Herzöge von Holstein-Wiesenburg in Wien",
     "unidentifiziert": false,
     "titel": [],
     "geistlich": null,
     "Hofstaat": null,
-    "Konfession": null,
-    "andere Quellen": ""
+    "Konfession": "konvertiert 1707 (evangelisch A.B. zu katholisch)",
+    "andere Quellen": "Hansert, Andrea/Herbert Stoyan: Frankfurter Patrizier (1220-1900). Historisch-Genealogisches Handbuch (2013) https://www.yumpu.com/de/document/read/6143373/frankfurter-patrizier-das-frankfurter-patriziat/63 , 52."
   },
   "609": {
     "id": 609,
@@ -19649,23 +19650,23 @@
     "id": 665,
     "order": "660.00000000000000000000",
     "name": "Arco, Gaetana",
-    "gnd": "",
-    "other_url": "",
+    "gnd": "http://d-nb.info/gnd/118649957",
+    "other_url": "https://viecpro.acdh.oeaw.ac.at/persons/231857",
     "emt_id": "emt_person_id__665",
-    "internal_comment": "Erwein von Aretin: Geschichte der Herren und Grafen von Arco. 1936–1945 (masch.). Eine Gaetana kommt in der online-Genealogie nicht vor: http://w.genealogy.euweb.cz/arco/arco6.html",
+    "internal_comment": "Erwein von Aretin: Geschichte der Herren und Grafen von Arco. 1936–1945 (masch.). Eine Gaetana kommt in der online-Genealogie nicht vor: http://w.genealogy.euweb.cz/arco/arco6.html , allerdings schon ein Gaetano.    Ausführlich zur Familie, aber niemand passendes https://austria-forum.org/af/AustriaWiki/Arco_(Adelsgeschlecht)    Es gibt einen Grafen Gaetano d'Arco https://viecpro.acdh.oeaw.ac.at/persons/231857  ,der mit einer Gräfin Spaur verheiratet war http://w.genealogy.euweb.cz/arco/arco5.html  (den Lebensdaten des Bruders Scipio nach könnte er früh genug geboren sein), aber es lässt sich alles nicht dingfest machen.  Kaiserhof ist down, GND und Treccani ergeben nichts, Wurzbach auch nicht",
     "color": "",
     "lebensdaten": "",
     "ndb": "",
     "year_of_birth": null,
     "year_of_death": null,
-    "wikidata_url": "",
+    "wikidata_url": "https://www.wikidata.org/wiki/Q37478220",
     "wikidata_enriched": false,
     "img_name": "",
-    "img_fetched": false,
+    "img_fetched": true,
     "img_source": "",
     "birth_date_written": "",
     "death_date_written": "",
-    "geschlecht": "",
+    "geschlecht": "f.",
     "funktionsbezeichnungen": "",
     "unidentifiziert": true,
     "titel": [
@@ -19677,7 +19678,7 @@
     ],
     "geistlich": null,
     "Hofstaat": null,
-    "Konfession": null,
+    "Konfession": "katholisch",
     "andere Quellen": ""
   },
   "667": {
@@ -21347,22 +21348,22 @@
     "order": "720.00000000000000000000",
     "name": "Baden-Baden, Maria Magdalena von, geb. Oettingen-Baldern",
     "gnd": "http://d-nb.info/1201434998",
-    "other_url": "https://de.wikipedia.org/wiki/Maria_Magdalena_von_Oettingen-Baldern",
+    "other_url": "",
     "emt_id": "emt_person_id__725",
-    "internal_comment": "",
+    "internal_comment": "katholisch, weil aus einer katholischen Linie https://de-academic.com/dic.nsf/dewiki/1042895 : Baldern ist Teil der kath. Linie Wallerstein, während OettingenOettingen evangelisch ist.",
     "color": "",
     "lebensdaten": "",
     "ndb": "https://www.deutsche-biographie.de/pnd1201434998.html#index",
     "year_of_birth": "1619",
     "year_of_death": "1688",
-    "wikidata_url": "",
+    "wikidata_url": "https://www.wikidata.org/wiki/Q74726",
     "wikidata_enriched": false,
     "img_name": "",
-    "img_fetched": false,
+    "img_fetched": true,
     "img_source": "",
     "birth_date_written": "",
     "death_date_written": "",
-    "geschlecht": "",
+    "geschlecht": "f.",
     "funktionsbezeichnungen": "",
     "unidentifiziert": false,
     "titel": [
@@ -21374,7 +21375,7 @@
     ],
     "geistlich": null,
     "Hofstaat": null,
-    "Konfession": null,
+    "Konfession": "katholisch",
     "andere Quellen": ""
   },
   "726": {
@@ -21710,14 +21711,14 @@
     "ndb": "",
     "year_of_birth": "1644",
     "year_of_death": "1712",
-    "wikidata_url": "",
+    "wikidata_url": "https://www.wikidata.org/wiki/Q106619446",
     "wikidata_enriched": false,
     "img_name": "",
-    "img_fetched": false,
+    "img_fetched": true,
     "img_source": "",
     "birth_date_written": "",
     "death_date_written": "",
-    "geschlecht": "",
+    "geschlecht": "m.",
     "funktionsbezeichnungen": "spanischer Gesandter in Wien",
     "unidentifiziert": false,
     "titel": [
@@ -21729,7 +21730,7 @@
     ],
     "geistlich": null,
     "Hofstaat": null,
-    "Konfession": null,
+    "Konfession": "katholisch",
     "andere Quellen": "Bittner/Groß, Repertorium I, 517"
   },
   "738": {
@@ -22720,9 +22721,9 @@
     "order": "766.00000000000000000000",
     "name": "Anethan, Johann Heinrich von",
     "gnd": "https://d-nb.info/gnd/1051150787",
-    "other_url": "",
+    "other_url": "https://www.catholic-hierarchy.org/bishop/banethan.html",
     "emt_id": "emt_person_id__772",
-    "internal_comment": "\"Suffragan\" der Papst übergibt Clemens von Bayern das Erzbistum Köln, aber er soll seinen Suffragan bei der Verwaltung beiziehen (Sept. 1688). Nun hat Köln mehrere Suffraganbistümer (deren Inhaber sonst in der Korrespondenz immer Bischof genannt werden), im Brief steht aber eindeutig Singular \"des suffragnij\". Laut Grimm'schem Wörterbuch https://woerterbuchnetz.de/?sigle=DWB&lemid=S56236 kann das Wort Suffragan auch für den Weihbischof genannt werden, was mehr Sinn macht. Deshalb diesen mit cert low getaggt.",
+    "internal_comment": "\"Suffragan\" der Papst übergibt Clemens von Bayern das Erzbistum Köln, aber er soll seinen Suffragan bei der Verwaltung beiziehen (Sept. 1688). Nun hat Köln mehrere Suffraganbistümer (deren Inhaber sonst in der Korrespondenz immer Bischof genannt werden), im Brief steht aber eindeutig Singular \"des suffragnij\". Laut Grimm'schem Wörterbuch https://woerterbuchnetz.de/?sigle=DWB&lemid=S56236 kann das Wort Suffragan auch für den Weihbischof genannt werden, was mehr Sinn macht. Deshalb diesen mit cert low getaggt. Hierarchia catholica: \"Auxiliary Bishop of Köln {Cologne}, Germany, Titular Bishop of Hierapolis in Isauria\"",
     "color": "",
     "lebensdaten": "",
     "ndb": "",
@@ -25131,7 +25132,7 @@
     "unidentifiziert": false,
     "titel": [],
     "geistlich": null,
-    "Hofstaat": "(vermutlich nicht: MA Spanien)",
+    "Hofstaat": "",
     "Konfession": "katholisch",
     "andere Quellen": ""
   },
@@ -25201,7 +25202,7 @@
       }
     ],
     "geistlich": null,
-    "Hofstaat": "MA Spanien",
+    "Hofstaat": "Spanien",
     "Konfession": "katholisch",
     "andere Quellen": ""
   },
@@ -25789,7 +25790,7 @@
       }
     ],
     "geistlich": null,
-    "Hofstaat": "MA Spanien",
+    "Hofstaat": "Spanien",
     "Konfession": "katholisch",
     "andere Quellen": ""
   },
@@ -28051,13 +28052,13 @@
     "img_source": "",
     "birth_date_written": "",
     "death_date_written": "",
-    "geschlecht": "",
-    "funktionsbezeichnungen": "Sänger, Kammermusiker u.a. in Wien und Düsseldorf",
+    "geschlecht": "m.",
+    "funktionsbezeichnungen": "Sänger, Kammermusiker",
     "unidentifiziert": false,
     "titel": [],
     "geistlich": null,
-    "Hofstaat": null,
-    "Konfession": null,
+    "Hofstaat": "Florenz, Kaiserhof, Pfalz-Neuburg",
+    "Konfession": "katholisch",
     "andere Quellen": ""
   },
   "1080": {
@@ -28243,7 +28244,7 @@
     "img_source": "",
     "birth_date_written": "",
     "death_date_written": "",
-    "geschlecht": "",
+    "geschlecht": "m.",
     "funktionsbezeichnungen": "",
     "unidentifiziert": true,
     "titel": [],
@@ -28463,7 +28464,7 @@
       }
     ],
     "geistlich": null,
-    "Hofstaat": "MA Spanien",
+    "Hofstaat": "Spanien",
     "Konfession": "katholisch",
     "andere Quellen": ""
   },
@@ -30023,8 +30024,8 @@
     "img_source": "commonsMedia",
     "birth_date_written": "",
     "death_date_written": "",
-    "geschlecht": "",
-    "funktionsbezeichnungen": "Herzogin von Arenberg, Croy und Aarschot",
+    "geschlecht": "f.",
+    "funktionsbezeichnungen": "",
     "unidentifiziert": false,
     "titel": [
       {
@@ -30035,8 +30036,8 @@
     ],
     "geistlich": null,
     "Hofstaat": null,
-    "Konfession": null,
-    "andere Quellen": ""
+    "Konfession": "katholisch",
+    "andere Quellen": "Keller, Katrin: Hofdamen: Amtsträgerinnen im Wiener Hofstaat des 17. Jahrhunderts (Wien 2005) 72–75, 325f."
   },
   "1208": {
     "id": 1208,
@@ -30447,7 +30448,7 @@
     "unidentifiziert": false,
     "titel": [],
     "geistlich": null,
-    "Hofstaat": "MA Spanien",
+    "Hofstaat": "Spanien",
     "Konfession": "katholisch",
     "andere Quellen": ""
   },
@@ -31935,7 +31936,7 @@
     "unidentifiziert": false,
     "titel": [],
     "geistlich": null,
-    "Hofstaat": "MA Spanien",
+    "Hofstaat": "Spanien",
     "Konfession": "katholisch",
     "andere Quellen": ""
   },
@@ -31970,7 +31971,7 @@
       }
     ],
     "geistlich": null,
-    "Hofstaat": "MA Spanien",
+    "Hofstaat": "Spanien",
     "Konfession": "katholisch",
     "andere Quellen": ""
   },
@@ -32173,7 +32174,7 @@
     "gnd": "https://d-nb.info/gnd/1171067399",
     "other_url": "",
     "emt_id": "emt_person_id__1314",
-    "internal_comment": ". https://kaiserhof.geschichte.lmu.de/13582  Nicht in VieCPro (Kämmerer war er bei Ferd. III. = zu früh)",
+    "internal_comment": ". https://kaiserhof.geschichte.lmu.de/13582  Nicht in VieCPro (Kämmerer war er bei Ferd. III. = zu früh)    keinen Beleg gefunden, dass er auch Marchese gewesen wäre",
     "color": "",
     "lebensdaten": "",
     "ndb": "https://www.deutsche-biographie.de/pnd1171067399.html#indexcontent",
@@ -32191,8 +32192,8 @@
     "unidentifiziert": false,
     "titel": [],
     "geistlich": null,
-    "Hofstaat": "",
-    "Konfession": null,
+    "Hofstaat": "Kaiserhof",
+    "Konfession": "katholisch",
     "andere Quellen": ""
   },
   "1315": {
@@ -32441,7 +32442,7 @@
       }
     ],
     "geistlich": "geistlich",
-    "Hofstaat": "MA Spanien",
+    "Hofstaat": "Spanien",
     "Konfession": "katholisch",
     "andere Quellen": ""
   },
@@ -32912,7 +32913,7 @@
     "gnd": "https://d-nb.info/gnd/10418387X",
     "other_url": "",
     "emt_id": "emt_person_id__1403",
-    "internal_comment": "EMT empfiehlt JW ein Anliegen von ihr und schickt im Zusammenhang damit ein Schreiben eines Pater Provinizial. Ihr erster Mann war Wolfgang Wilhelm von Pfalz-Neuburg, der Zweite Markgraf Leopold Wilhelm von Baden, die bösen Fürstenberger sind ihre Brüder. Identifizierung eindeutig, denn EMT schreibt, sie sei alt und sterbe bald und JW bezeichnet sie als unsere Großmutter",
+    "internal_comment": "EMT empfiehlt JW ein Anliegen von ihr und schickt im Zusammenhang damit ein Schreiben eines Pater Provinizial. Ihr erster Mann war Wolfgang Wilhelm von Pfalz-Neuburg, der Zweite Markgraf Leopold Wilhelm von Baden, die bösen Fürstenberger sind ihre Brüder (der Hammer). Identifizierung eindeutig, denn EMT schreibt, sie sei alt und sterbe bald und JW bezeichnet sie als unsere Großmutter",
     "color": "",
     "lebensdaten": "",
     "ndb": "https://www.deutsche-biographie.de/sfz145342.html#index",
@@ -32925,7 +32926,7 @@
     "img_source": "commonsMedia",
     "birth_date_written": "",
     "death_date_written": "",
-    "geschlecht": "",
+    "geschlecht": "f.",
     "funktionsbezeichnungen": "",
     "unidentifiziert": false,
     "titel": [
@@ -33111,7 +33112,7 @@
   "1410": {
     "id": 1410,
     "order": "1119.00000000000000000000",
-    "name": "Wylich, Herr von, wird 1701 empfohlen",
+    "name": "Wylich, NN von",
     "gnd": "",
     "other_url": "https://de.wikipedia.org/wiki/Wylich",
     "emt_id": "emt_person_id__1410",
@@ -33128,9 +33129,9 @@
     "img_source": "",
     "birth_date_written": "",
     "death_date_written": "",
-    "geschlecht": "",
+    "geschlecht": "m.",
     "funktionsbezeichnungen": "",
-    "unidentifiziert": false,
+    "unidentifiziert": true,
     "titel": [],
     "geistlich": null,
     "Hofstaat": null,
@@ -33261,7 +33262,7 @@
       }
     ],
     "geistlich": "geistlich",
-    "Hofstaat": "MA Spanien",
+    "Hofstaat": "Spanien",
     "Konfession": "katholisch",
     "andere Quellen": ""
   },
@@ -34263,8 +34264,8 @@
     "img_source": "",
     "birth_date_written": "",
     "death_date_written": "",
-    "geschlecht": "",
-    "funktionsbezeichnungen": "Generalfeldmarschall-Lieutenant des fränkischen Reichskreises",
+    "geschlecht": "m.",
+    "funktionsbezeichnungen": "General des fränkischen Reichskreises, auch kaiserlicher Offizier",
     "unidentifiziert": false,
     "titel": [
       {
@@ -34275,8 +34276,8 @@
     ],
     "geistlich": null,
     "Hofstaat": null,
-    "Konfession": null,
-    "andere Quellen": ""
+    "Konfession": "katholisch",
+    "andere Quellen": "Schmidt-Brentano, Antonio: Kaiserliche und k.k. Generale (1618-1815). Österreichisches Staatsarchiv 2006 http://www.historie.hranet.cz/heraldika/pdf/schmidt-brentano2006.pdf"
   },
   "1511": {
     "id": 1511,
@@ -35414,14 +35415,14 @@
     "ndb": "https://www.deutsche-biographie.de/sfz1198.html#ndbcontent",
     "year_of_birth": "1690",
     "year_of_death": "1754",
-    "wikidata_url": "",
+    "wikidata_url": "https://www.wikidata.org/wiki/Q569405",
     "wikidata_enriched": true,
-    "img_name": "",
-    "img_fetched": false,
-    "img_source": "",
+    "img_name": "Leopold Filips van Arenberg - KU Leuven Kunstpatrimonium - ARS008.jpg",
+    "img_fetched": true,
+    "img_source": "commonsMedia",
     "birth_date_written": "",
     "death_date_written": "",
-    "geschlecht": "",
+    "geschlecht": "m.",
     "funktionsbezeichnungen": "",
     "unidentifiziert": false,
     "titel": [
@@ -35433,7 +35434,7 @@
     ],
     "geistlich": null,
     "Hofstaat": null,
-    "Konfession": null,
+    "Konfession": "katholisch",
     "andere Quellen": ""
   },
   "1550": {
@@ -36948,7 +36949,7 @@
     "img_source": "commonsMedia",
     "birth_date_written": "",
     "death_date_written": "",
-    "geschlecht": "",
+    "geschlecht": "m.",
     "funktionsbezeichnungen": "kaiserlicher General",
     "unidentifiziert": false,
     "titel": [
@@ -36960,7 +36961,7 @@
     ],
     "geistlich": null,
     "Hofstaat": null,
-    "Konfession": null,
+    "Konfession": "evangelisch A.B.",
     "andere Quellen": ""
   },
   "1629": {
@@ -38118,31 +38119,31 @@
   "1697": {
     "id": 1697,
     "order": "1278.00000000000000000000",
-    "name": "Bartholdi, Friedrich Heinrich von",
+    "name": "Bartholdi-Micrander, Friedrich Heinrich von",
     "gnd": "",
     "other_url": "",
     "emt_id": "emt_person_id__1697",
-    "internal_comment": "Bittner, Repertorium S.33. Sein Buder ist Christian Friedrich https://www.deutsche-biographie.de/sfz2149.html#ndbcontent der auch in Wien war, aber ab 1704 in Berlin beschäftigt gewesen zu sein scheint. Friedrich Heinrich wird in Christian Friedrichs ADB-Artikel erwähnt, sonst keine Normdaten gefunden bisher",
+    "internal_comment": "preußischer Gesandter am Kaiserhof 1706. lt.  Bittner, Repertorium S.33 war 1698-1703  sein Buder  Christian Friedrich Bartholdi https://www.deutsche-biographie.de/sfz2149.html#ndbcontent in Wien, 1704-13 aber er. Lt. ADB war Christian FRiedrich auch noch bis 1706 mit Unterbrechungen in Wien, sodass nicht ganz sicher ist, welchen der Brüder EMT meint, aber der Brucher muss auch in Berlin beschäftigt gewesen sein. Nur Friedrich Heinrich hat den Doppelnamen mit Micrander, weil adoptiert. Er wird in Christian Friedrichs ADB-Artikel erwähnt, der Adoptivvater von Friedrich Heinrich ist demnach reformiert https://www.deutsche-biographie.de/sfz63167.html#adbcontent     Ich habe ihn als reformiert ausgewiesen, weil a) seine beiden Großväter Domprediger waren, und der mütterlicherseits definitiv reformiert https://de.wikipedia.org/wiki/Christian_Friedrich_Bartholdi                  https://de.wikipedia.org/wiki/Wolfgang_Crell_der_J%C3%BCngere       und b) auch sonst alles in diese Richtung weist.  c) er 1713  Präsident des Französischen Obergerichts und Oberkonsistoriums in Berlin wurde",
     "color": "",
     "lebensdaten": "",
     "ndb": "",
     "year_of_birth": "1677",
     "year_of_death": "1730",
-    "wikidata_url": "",
+    "wikidata_url": "https://www.wikidata.org/wiki/Q9263798",
     "wikidata_enriched": false,
     "img_name": "",
-    "img_fetched": false,
+    "img_fetched": true,
     "img_source": "",
     "birth_date_written": "",
     "death_date_written": "",
-    "geschlecht": "",
-    "funktionsbezeichnungen": "preußischer Gesandter am Kaiserhof 1704-1713",
+    "geschlecht": "m.",
+    "funktionsbezeichnungen": "preußischer Gesandter am Kaiserhof",
     "unidentifiziert": false,
     "titel": [],
     "geistlich": null,
     "Hofstaat": null,
-    "Konfession": null,
-    "andere Quellen": ""
+    "Konfession": "evangelisch H.B.",
+    "andere Quellen": "Bittner/Groß, Repertorium I, 33."
   },
   "1698": {
     "id": 1698,
@@ -39405,7 +39406,7 @@
     "death_date_written": "",
     "geschlecht": "m.",
     "funktionsbezeichnungen": "Gesandter des Großherzogtums Toskana in Wien 1707-1712",
-    "unidentifiziert": true,
+    "unidentifiziert": false,
     "titel": [],
     "geistlich": null,
     "Hofstaat": null,
@@ -40231,7 +40232,7 @@
     "order": "1348.00000000000000000000",
     "name": "Astalli, Fulvio",
     "gnd": "https://d-nb.info/gnd/1024721329",
-    "other_url": "",
+    "other_url": "https://cardinals.fiu.edu/bios1686.htm#Astalli",
     "emt_id": "emt_person_id__1767",
     "internal_comment": "",
     "color": "",
@@ -40246,7 +40247,7 @@
     "img_source": "commonsMedia",
     "birth_date_written": "",
     "death_date_written": "",
-    "geschlecht": "",
+    "geschlecht": "m.",
     "funktionsbezeichnungen": "",
     "unidentifiziert": false,
     "titel": [
@@ -40256,9 +40257,9 @@
         "color": "darker-purple"
       }
     ],
-    "geistlich": null,
+    "geistlich": "geistlich",
     "Hofstaat": null,
-    "Konfession": null,
+    "Konfession": "katholisch",
     "andere Quellen": ""
   },
   "1768": {
@@ -41014,14 +41015,14 @@
   "1827": {
     "id": 1827,
     "order": "1376.00000000000000000000",
-    "name": "Baden-Baden, Augusta Maria Johanna von",
+    "name": "Baden-Baden, Augusta Maria Johanna von, vereh. Orleans",
     "gnd": "https://d-nb.info/gnd/1017916969",
     "other_url": "",
     "emt_id": "emt_person_id__1827",
-    "internal_comment": "erwähnt als Tochter der verwitweten Markgräfin von Baden; laut Wikipedia ist die hier aufgenommene die einzige infrage kommende, obwohl sie nicht 12, sondern erst 9 Jahre ist - evtl. prüfen mit Stammtafeln?",
+    "internal_comment": "erwähnt als Tochter der verwitweten Markgräfin von Baden; laut Wikipedia ist die hier aufgenommene die einzige infrage kommende, obwohl sie nicht 12, sondern erst 9 Jahre ist",
     "color": "",
     "lebensdaten": "",
-    "ndb": "",
+    "ndb": "https://www.deutsche-biographie.de/pnd1017916969.html#indexcontent",
     "year_of_birth": "1704",
     "year_of_death": "1726",
     "wikidata_url": "http://www.wikidata.org/entity/Q292123",
@@ -41031,19 +41032,19 @@
     "img_source": "commonsMedia",
     "birth_date_written": "",
     "death_date_written": "",
-    "geschlecht": "",
+    "geschlecht": "f.",
     "funktionsbezeichnungen": "",
     "unidentifiziert": false,
     "titel": [
       {
-        "id": 19713,
-        "value": "Prinzessin",
-        "color": "orange"
+        "id": 19691,
+        "value": "Herzogin",
+        "color": "light-brown"
       }
     ],
     "geistlich": null,
     "Hofstaat": null,
-    "Konfession": null,
+    "Konfession": "katholisch",
     "andere Quellen": ""
   },
   "1828": {
@@ -41258,11 +41259,11 @@
   "1836": {
     "id": 1836,
     "order": "1385.00000000000000000000",
-    "name": "Rolshausen (Familie)",
+    "name": "Rolshausen, NN von",
     "gnd": "",
     "other_url": "https://de.wikipedia.org/wiki/Rolshausen_(Adelsgeschlecht)",
     "emt_id": "emt_person_id__1836",
-    "internal_comment": "wird von EMT an JW empfohlen, wahrscheinlich diese Familie:\nhttps://de.wikipedia.org/wiki/Rolshausen_(Adelsgeschlecht)\nevtl. Christoph Adolf von Rolshausen\nhttp://www.gak-bitburg.de/bericht/Die%20Ritter%20und%20Freiherrn%20von%20Rolshausen.pdf",
+    "internal_comment": "wird von EMT an JW empfohlen, wahrscheinlich diese Familie:\nhttps://de.wikipedia.org/wiki/Rolshausen_(Adelsgeschlecht)\nevtl. Christoph Adolf von Rolshausen - wahrsch. nicht\nhttp://www.gak-bitburg.de/bericht/Die%20Ritter%20und%20Freiherrn%20von%20Rolshausen.pdf",
     "color": "",
     "lebensdaten": "",
     "ndb": "",
@@ -41275,9 +41276,9 @@
     "img_source": "",
     "birth_date_written": "",
     "death_date_written": "",
-    "geschlecht": "",
+    "geschlecht": "m.",
     "funktionsbezeichnungen": "",
-    "unidentifiziert": false,
+    "unidentifiziert": true,
     "titel": [],
     "geistlich": null,
     "Hofstaat": null,
@@ -42060,7 +42061,7 @@
     "img_source": "commonsMedia",
     "birth_date_written": "",
     "death_date_written": "",
-    "geschlecht": "",
+    "geschlecht": "m.",
     "funktionsbezeichnungen": "",
     "unidentifiziert": false,
     "titel": [
@@ -42072,7 +42073,7 @@
     ],
     "geistlich": null,
     "Hofstaat": null,
-    "Konfession": null,
+    "Konfession": "katholisch",
     "andere Quellen": ""
   },
   "1934": {
@@ -42165,8 +42166,8 @@
     "img_source": "commonsMedia",
     "birth_date_written": "",
     "death_date_written": "",
-    "geschlecht": "",
-    "funktionsbezeichnungen": "",
+    "geschlecht": "m.",
+    "funktionsbezeichnungen": "kaiserlicher General",
     "unidentifiziert": false,
     "titel": [
       {
@@ -42177,7 +42178,7 @@
     ],
     "geistlich": null,
     "Hofstaat": null,
-    "Konfession": null,
+    "Konfession": "katholisch",
     "andere Quellen": ""
   },
   "1937": {
@@ -42200,7 +42201,7 @@
     "img_source": "commonsMedia",
     "birth_date_written": "",
     "death_date_written": "",
-    "geschlecht": "",
+    "geschlecht": "m.",
     "funktionsbezeichnungen": "",
     "unidentifiziert": false,
     "titel": [
@@ -42212,7 +42213,7 @@
     ],
     "geistlich": null,
     "Hofstaat": null,
-    "Konfession": null,
+    "Konfession": "katholisch",
     "andere Quellen": ""
   },
   "1938": {
@@ -42235,7 +42236,7 @@
     "img_source": "commonsMedia",
     "birth_date_written": "",
     "death_date_written": "",
-    "geschlecht": "",
+    "geschlecht": "m.",
     "funktionsbezeichnungen": "",
     "unidentifiziert": false,
     "titel": [
@@ -42247,7 +42248,7 @@
     ],
     "geistlich": null,
     "Hofstaat": null,
-    "Konfession": null,
+    "Konfession": "kath.",
     "andere Quellen": ""
   },
   "1941": {
@@ -42356,7 +42357,7 @@
     "gnd": "",
     "other_url": "",
     "emt_id": "emt_person_id__1944",
-    "internal_comment": "„… Conte Abate Giovanni Antonio Baldini (1654–1725), who acquired many objects from India in Amsterdam between 1710 and ... 1711.”: Khera, The Place of Many Moods, 47.  Der war scheints bis 1710 Resident für Parma in Spanien, vgl Rossi, Cento studi sul cardinale Alberoni, 87. War auch in Wien: Oettinger, Moniteur des dates, 52.: “Baldini (Giovanni Antonio, Conte), italienischer Diplomat, parmesanischer Gesandter in Madrid, Wien, London und Utrecht, geb. zu Parma (?) 8. Juli 1654, gest. zu Piacenza 23. Februar 1725.” Meyer, Das grosse Conversations-Lexicon für die gebildeten Stände, 248. : “Baldini, Giovanni Antonio, Graf von, Diplomat, geb. zu Piacenza 1654, lebte den größten Theil seines Lebens zu Rom den Wissenschaften und betrat nur ungern die diplomatische Laufbahn; 1696 ging er als französischer Gesandter zur Königswahl nach Polen, 1698 als Gesandter des herzogs Franz von Parma nach Madrid und 1710 in Diensten der Herzogin von Piacenza nach Wien. B. war ein Mäcen der Gelehrten und Besitzer von einem der bedeutendsten und umfassendsten Naturalienkabinette. † 1725.”",
+    "internal_comment": "„… Conte Abate Giovanni Antonio Baldini (1654–1725), who acquired many objects from India in Amsterdam between 1710 and ... 1711.”: Khera, The Place of Many Moods, 47.  Der war scheints bis 1710 Resident für Parma in Spanien, vgl Rossi, Cento studi sul cardinale Alberoni, 87. War auch in Wien: Oettinger, Moniteur des dates, 52.: “Baldini (Giovanni Antonio, Conte), italienischer Diplomat, parmesanischer Gesandter in Madrid, Wien, London und Utrecht, geb. zu Parma (?) 8. Juli 1654, gest. zu Piacenza 23. Februar 1725.” Meyer, Das grosse Conversations-Lexicon für die gebildeten Stände https://books.google.at/books?redir_esc=y&hl=de&id=9swUAAAAYAAJ&q=Baldini#v=snippet&q=Baldini&f=false , 248. : “Baldini, Giovanni Antonio, Graf von, Diplomat, geb. zu Piacenza 1654, lebte den größten Theil seines Lebens zu Rom den Wissenschaften und betrat nur ungern die diplomatische Laufbahn; 1696 ging er als französischer Gesandter zur Königswahl nach Polen, 1698 als Gesandter des herzogs Franz von Parma nach Madrid und 1710 in Diensten der Herzogin von Piacenza nach Wien. B. war ein Mäcen der Gelehrten und Besitzer von einem der bedeutendsten und umfassendsten Naturalienkabinette. † 1725.”",
     "color": "",
     "lebensdaten": "",
     "ndb": "",
@@ -42369,8 +42370,8 @@
     "img_source": "",
     "birth_date_written": "",
     "death_date_written": "",
-    "geschlecht": "",
-    "funktionsbezeichnungen": "Resident des Herzogtums Parma in Spanien bis 1710",
+    "geschlecht": "m.",
+    "funktionsbezeichnungen": "Resident des Herzogtums Parma in Spanien",
     "unidentifiziert": false,
     "titel": [
       {
@@ -42384,10 +42385,10 @@
         "color": "dark-cyan"
       }
     ],
-    "geistlich": null,
+    "geistlich": "geistlich",
     "Hofstaat": null,
-    "Konfession": null,
-    "andere Quellen": ""
+    "Konfession": "katholisch",
+    "andere Quellen": "Bittner/Groß, Repertorium I, 394f.\n\nMeyer, Joseph: Das grosse Conversations-Lexicon für die gebildeten Stände, Bd. 4/3 (Hildburghausen 1844) 247f."
   },
   "1945": {
     "id": 1945,
@@ -43330,41 +43331,6 @@
     "Konfession": null,
     "andere Quellen": ""
   },
-  "2043": {
-    "id": 2043,
-    "order": "1462.00000000000000000000",
-    "name": "Baden-Baden, Maria Johanna von Baden-Baden",
-    "gnd": "https://d-nb.info/gnd/1017916969",
-    "other_url": "",
-    "emt_id": "emt_person_id__2043",
-    "internal_comment": "",
-    "color": "",
-    "lebensdaten": "",
-    "ndb": "https://www.deutsche-biographie.de/pnd1017916969.html#indexcontent",
-    "year_of_birth": "1704",
-    "year_of_death": "1726",
-    "wikidata_url": "http://www.wikidata.org/entity/Q292123",
-    "wikidata_enriched": true,
-    "img_name": "Portrait d'Augusta Marie Jeanne de Baden-Baden, duchesse d'Orléans, détail (jlpw16 0333).jpg",
-    "img_fetched": true,
-    "img_source": "commonsMedia",
-    "birth_date_written": "",
-    "death_date_written": "",
-    "geschlecht": "",
-    "funktionsbezeichnungen": "",
-    "unidentifiziert": false,
-    "titel": [
-      {
-        "id": 19713,
-        "value": "Prinzessin",
-        "color": "orange"
-      }
-    ],
-    "geistlich": null,
-    "Hofstaat": null,
-    "Konfession": null,
-    "andere Quellen": ""
-  },
   "2076": {
     "id": 2076,
     "order": "1463.00000000000000000000",
@@ -43647,11 +43613,11 @@
   "2153": {
     "id": 2153,
     "order": "1474.00000000000000000000",
-    "name": "Badestini, Abbate, 1697 in Rom",
+    "name": "Badestini, NN",
     "gnd": "",
     "other_url": "",
     "emt_id": "emt_person_id__2153",
-    "internal_comment": "erwähnt als Interessent für die Nachfolge des pfälzischen Residenten Pierucci in Rom, gemeinsam mit Melchiori, Delci und Trevirani. Auch als Battistini niemand gefunden.(wirklich geworden sind es laut Bittner, Repertorium 403 zuerst Seilern und dann Fede)",
+    "internal_comment": "Badestini, Abbate, 1697 in Rom   erwähnt als Interessent für die Nachfolge des pfälzischen Residenten Pierucci in Rom, gemeinsam mit Melchiori, Delci und Trevirani. Auch als Battistini niemand gefunden.(wirklich geworden sind es laut Bittner, Repertorium 403 zuerst Seilern und dann Fede)",
     "color": "",
     "lebensdaten": "",
     "ndb": "",
@@ -43667,7 +43633,13 @@
     "geschlecht": "m.",
     "funktionsbezeichnungen": "",
     "unidentifiziert": false,
-    "titel": [],
+    "titel": [
+      {
+        "id": 19745,
+        "value": "Abbate",
+        "color": "dark-cyan"
+      }
+    ],
     "geistlich": "geistlich",
     "Hofstaat": null,
     "Konfession": "katholisch",
@@ -44866,9 +44838,9 @@
   "2199": {
     "id": 2199,
     "order": "1521.00000000000000000000",
-    "name": "Ariberti, Bartolomeo, Marchese di Malgrate Lunigiana",
+    "name": "Ariberti di Malgrate Lunigiana, Bartolomeo",
     "gnd": "",
-    "other_url": "",
+    "other_url": "https://gw.geneanet.org/fcicogna?lang=en&n=ariberti&oc=1&p=bartolomeo",
     "emt_id": "emt_person_id__2199",
     "internal_comment": "Mayr, Neapel, 122-124\n\nberichtet 1701 über Portugal und die Königin (muss Maria Anna sein). Erwähnt ohne Lebensdaten und Vornamen bei Kozák, Palace Networks; Einstein, Musiker, die aber beide nur Briefe von ihm nützen.  Bayern, Ende 170: JW schickt 1698 Bartolomeus Marchese d'Ariberti nach Spanien, wie Novelli in Mailand geboren (Bayern stützt sich dann stark auf die Korrespondenz zwischen JW und Ariberti)   Lebensdaten und Titel bisher nur bei  https://gw.geneanet.org/fcicogna?lang=en&n=ariberti&oc=1&p=bartolomeo   Titel ähnlich für eine Verwandte in DBI https://www.treccani.it/enciclopedia/freganeschi-ariberti-giovan-battista_(Dizionario-Biografico)/        Bartolomeo Arberti, marchese wird bei Bittner nur 1708ff. als Gesandter Karls III. von Spanien erwähnt; als pfälzische Gesandte in Spanien in den 1690er werden nur Johann Baptist von Novelli 1690-92 und Heinrich Wiser 1692-95 genannt.    Der Vorname Bartolomeo stimmt, er kommt in diversen musikgeschichtlichen google.books vor, aber nie mit mehr Angaben",
     "color": "",
@@ -44883,8 +44855,8 @@
     "img_source": "",
     "birth_date_written": "",
     "death_date_written": "",
-    "geschlecht": "",
-    "funktionsbezeichnungen": "pfälzischer Gesandter in Madrid 1698-1700",
+    "geschlecht": "m.",
+    "funktionsbezeichnungen": "pfälzischer Gesandter in Madrid",
     "unidentifiziert": false,
     "titel": [
       {
@@ -44895,8 +44867,8 @@
     ],
     "geistlich": "",
     "Hofstaat": "",
-    "Konfession": "",
-    "andere Quellen": ""
+    "Konfession": "katholisch",
+    "andere Quellen": "Bayern, Adalbert von: Das Ende der Habsburger in Spanien, Bd. 2: Maria Anna von Neuburg, Königin von Spanien (München 1929) 170."
   },
   "2232": {
     "id": 2232,

@@ -1315,7 +1315,7 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                      <roleName>Markgraf</roleName>
                   </persName>
                   <persName type="function">
-                     <roleName>General, Hofkriegsratspräsident (1681-1688)</roleName>
+                     <roleName>kaiserlicher General, Hofkriegsratspräsident, Domherr in Köln</roleName>
                   </persName>
                   <birth>
                      <date notBefore="1628-01-01" notAfter="1628-12-31">1628</date>
@@ -2732,7 +2732,7 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                   <idno type="NDB">https://www.deutsche-biographie.de/pnd116821523.html#indexcontent</idno>
                </person>
                <person xml:id="emt_person_id__187">
-                  <persName type="name">Abele, Christoph Ignaz</persName>
+                  <persName type="name">Abele, Christoph Ignaz von</persName>
                   <persName type="function">
                      <roleName>Hofkammerpräsident</roleName>
                   </persName>
@@ -2828,6 +2828,12 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                </person>
                <person xml:id="emt_person_id__194">
                   <persName type="name">Austria, Juan José de</persName>
+                  <persName type="title">
+                     <roleName>Don</roleName>
+                  </persName>
+                  <persName type="function">
+                     <roleName>spanischer General und Minister</roleName>
+                  </persName>
                   <birth>
                      <date notBefore="1629-01-01" notAfter="1629-12-31">1629</date>
                   </birth>
@@ -2836,6 +2842,12 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                   </death>
                   <idno type="GND">https://d-nb.info/gnd/118713302</idno>
                   <idno type="NDB">https://www.deutsche-biographie.de/sfz70291.html#indexcontent</idno>
+                  <idno type="WIKIDATA">http://www.wikidata.org/entity/Q442594</idno>
+                  <idno type="URL">https://historia-hispanica.rah.es/biografias/5243-juan-jose-de-austria</idno>
+                  <figure>
+                     <graphic url="emt_person_id__194.jpg"/>
+                     <caption>Juanjosedeaustria.jpg</caption>
+                  </figure>
                </person>
                <person xml:id="emt_person_id__195">
                   <persName type="name">Sekretär von Kaiserin-Witwe Eleonora Gonzaga-Nevers 1679</persName>
@@ -3437,12 +3449,16 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                </person>
                <person xml:id="emt_person_id__246">
                   <persName type="name">Auersperg, Maria Franziska von, vereh. Mansfeld</persName>
-                  <persName type="title">
-                     <roleName>Hoffräulein</roleName>
+                  <persName type="function">
+                     <roleName>Hoffräulein, Kammerfräulein</roleName>
                   </persName>
-                  <persName type="title">
-                     <roleName>Kammerfräulein</roleName>
-                  </persName>
+                  <birth>
+                     <date notBefore="1664-01-01" notAfter="1664-12-31">1664</date>
+                  </birth>
+                  <death>
+                     <date notBefore="1739-01-01" notAfter="1739-12-31">1739</date>
+                  </death>
+                  <idno type="URL">https://viecpro.acdh.oeaw.ac.at/persons/245584</idno>
                </person>
                <person xml:id="emt_person_id__247">
                   <persName type="name">Pater Guardian (1680 in Wien)</persName>
@@ -5016,7 +5032,7 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                      <roleName>Fürst</roleName>
                   </persName>
                   <persName type="function">
-                     <roleName>General, Herzog von Münsterberg</roleName>
+                     <roleName>kaiserlicher Offizier, Herzog von Münsterberg</roleName>
                   </persName>
                   <birth>
                      <date notBefore="1660-01-01" notAfter="1660-12-31">1660</date>
@@ -5026,6 +5042,7 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                   </death>
                   <idno type="GND">https://d-nb.info/gnd/1073948730</idno>
                   <idno type="NDB">https://www.deutsche-biographie.de/pnd1073948730.html#index</idno>
+                  <idno type="WIKIDATA">http://www.wikidata.org/entity/Q828157</idno>
                </person>
                <person xml:id="emt_person_id__391">
                   <persName type="name">Götzen, NN von, kaiserlicher General 1683</persName>
@@ -5698,7 +5715,10 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                   <idno type="NDB">https://www.deutsche-biographie.de/pnd1218228083.html#index</idno>
                </person>
                <person xml:id="emt_person_id__456">
-                  <persName type="name">Arco, Graf von 1684</persName>
+                  <persName type="name">Arco, NN von</persName>
+                  <persName type="title">
+                     <roleName>Graf</roleName>
+                  </persName>
                </person>
                <person xml:id="emt_person_id__457">
                   <persName type="name">Schedlitz, Herr von, 1684</persName>
@@ -7171,7 +7191,7 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                <person xml:id="emt_person_id__608">
                   <persName type="name">Baur von Eysseneck, Hector Wilhelm</persName>
                   <persName type="function">
-                     <roleName>Vertreter der Herzöge von Holstein-Wiesenburg in Wien</roleName>
+                     <roleName>kurmainzischer, kurtrierischer und kaiserlicher Rat, Diplomat, u.a. Agent der Herzöge von Holstein-Wiesenburg in Wien</roleName>
                   </persName>
                   <birth>
                      <date notBefore="1646-01-01" notAfter="1646-12-31">1646</date>
@@ -7866,6 +7886,9 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                   <persName type="title">
                      <roleName>Gräfin</roleName>
                   </persName>
+                  <idno type="GND">https://d-nb.info/gnd/118649957</idno>
+                  <idno type="WIKIDATA">http://www.wikidata.org/entity/Q37478220</idno>
+                  <idno type="URL">https://viecpro.acdh.oeaw.ac.at/persons/231857</idno>
                </person>
                <person xml:id="emt_person_id__667">
                   <persName type="name">Innozenz XII. (Pignatelli)</persName>
@@ -8518,7 +8541,7 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                   </death>
                   <idno type="GND">https://d-nb.info/gnd/1201434998</idno>
                   <idno type="NDB">https://www.deutsche-biographie.de/pnd1201434998.html#index</idno>
-                  <idno type="URL">https://de.wikipedia.org/wiki/Maria_Magdalena_von_Oettingen-Baldern</idno>
+                  <idno type="WIKIDATA">http://www.wikidata.org/entity/Q74726</idno>
                </person>
                <person xml:id="emt_person_id__726">
                   <persName type="name">Cloudi, Herr 1687</persName>
@@ -8654,6 +8677,7 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                   <death>
                      <date notBefore="1712-01-01" notAfter="1712-12-31">1712</date>
                   </death>
+                  <idno type="WIKIDATA">http://www.wikidata.org/entity/Q106619446</idno>
                   <idno type="URL">https://www.treccani.it/enciclopedia/filippo-archinto_res-a8f74fe3-87e6-11dc-8e9d-0016357eee51_(Dizionario-Biografico)/?search=ARCHINTO,%20Filippo</idno>
                </person>
                <person xml:id="emt_person_id__738">
@@ -9075,6 +9099,7 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                   </death>
                   <idno type="GND">https://d-nb.info/gnd/1051150787</idno>
                   <idno type="WIKIDATA">http://www.wikidata.org/entity/Q1531957</idno>
+                  <idno type="URL">https://www.catholic-hierarchy.org/bishop/banethan.html</idno>
                </person>
                <person xml:id="emt_person_id__773">
                   <persName type="name">Her, Sekretär am brandenburgischen Hof 1688</persName>
@@ -11223,7 +11248,7 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                <person xml:id="emt_person_id__1079">
                   <persName type="name">Ballerini, Francesco</persName>
                   <persName type="function">
-                     <roleName>Sänger, Kammermusiker u.a. in Wien und Düsseldorf</roleName>
+                     <roleName>Sänger, Kammermusiker</roleName>
                   </persName>
                   <birth>
                      <date notBefore="1658-01-01" notAfter="1658-12-31">1658</date>
@@ -12043,9 +12068,6 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                   <persName type="name">Arenberg, Maria Henrietta von, geb. Carretto di Grana</persName>
                   <persName type="title">
                      <roleName>Herzogin</roleName>
-                  </persName>
-                  <persName type="function">
-                     <roleName>Herzogin von Arenberg, Croy und Aarschot</roleName>
                   </persName>
                   <birth>
                      <date notBefore="1671-01-01" notAfter="1671-12-31">1671</date>
@@ -13282,7 +13304,7 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                   <persName type="name">Beywang, wird 1701 empfohlen</persName>
                </person>
                <person xml:id="emt_person_id__1410">
-                  <persName type="name">Wylich, Herr von, wird 1701 empfohlen</persName>
+                  <persName type="name">Wylich, NN von</persName>
                   <idno type="URL">https://de.wikipedia.org/wiki/Wylich</idno>
                </person>
                <person xml:id="emt_person_id__1411">
@@ -13758,7 +13780,7 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                      <roleName>Graf</roleName>
                   </persName>
                   <persName type="function">
-                     <roleName>Generalfeldmarschall-Lieutenant des fränkischen Reichskreises</roleName>
+                     <roleName>General des fränkischen Reichskreises, auch kaiserlicher Offizier</roleName>
                   </persName>
                   <birth>
                      <date notBefore="1650-01-01" notAfter="1650-12-31">1650</date>
@@ -14197,6 +14219,11 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                   </death>
                   <idno type="GND">https://d-nb.info/gnd/124020682</idno>
                   <idno type="NDB">https://www.deutsche-biographie.de/sfz1198.html#ndbcontent</idno>
+                  <idno type="WIKIDATA">http://www.wikidata.org/entity/Q569405</idno>
+                  <figure>
+                     <graphic url="emt_person_id__1549.jpg"/>
+                     <caption>Leopold Filips van Arenberg - KU Leuven Kunstpatrimonium - ARS008.jpg</caption>
+                  </figure>
                </person>
                <person xml:id="emt_person_id__1550">
                   <persName type="name">Hohenzollern, Haus</persName>
@@ -15277,9 +15304,9 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                   </persName>
                </person>
                <person xml:id="emt_person_id__1697">
-                  <persName type="name">Bartholdi, Friedrich Heinrich von</persName>
+                  <persName type="name">Bartholdi-Micrander, Friedrich Heinrich von</persName>
                   <persName type="function">
-                     <roleName>preußischer Gesandter am Kaiserhof 1704-1713</roleName>
+                     <roleName>preußischer Gesandter am Kaiserhof</roleName>
                   </persName>
                   <birth>
                      <date notBefore="1677-01-01" notAfter="1677-12-31">1677</date>
@@ -15287,6 +15314,7 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                   <death>
                      <date notBefore="1730-01-01" notAfter="1730-12-31">1730</date>
                   </death>
+                  <idno type="WIKIDATA">http://www.wikidata.org/entity/Q9263798</idno>
                </person>
                <person xml:id="emt_person_id__1698">
                   <persName type="name">Theodoricus a Sancto Josepho</persName>
@@ -16193,6 +16221,7 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                   <idno type="GND">https://d-nb.info/gnd/1024721329</idno>
                   <idno type="NDB">https://www.deutsche-biographie.de/pnd1024721329.html#indexcontent</idno>
                   <idno type="WIKIDATA">http://www.wikidata.org/entity/Q550586</idno>
+                  <idno type="URL">https://cardinals.fiu.edu/bios1686.htm#Astalli</idno>
                   <figure>
                      <graphic url="emt_person_id__1767.jpg"/>
                      <caption>Fulvio Astalli.jpg</caption>
@@ -16446,9 +16475,9 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                   <idno type="URL">https://www.e-archiv.li/personDetail.aspx?persID=30857&amp;backurl=auto</idno>
                </person>
                <person xml:id="emt_person_id__1827">
-                  <persName type="name">Baden-Baden, Augusta Maria Johanna von</persName>
+                  <persName type="name">Baden-Baden, Augusta Maria Johanna von, vereh. Orleans</persName>
                   <persName type="title">
-                     <roleName>Prinzessin</roleName>
+                     <roleName>Herzogin</roleName>
                   </persName>
                   <birth>
                      <date notBefore="1704-01-01" notAfter="1704-12-31">1704</date>
@@ -16457,6 +16486,7 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                      <date notBefore="1726-01-01" notAfter="1726-12-31">1726</date>
                   </death>
                   <idno type="GND">https://d-nb.info/gnd/1017916969</idno>
+                  <idno type="NDB">https://www.deutsche-biographie.de/pnd1017916969.html#indexcontent</idno>
                   <idno type="WIKIDATA">http://www.wikidata.org/entity/Q292123</idno>
                   <figure>
                      <graphic url="emt_person_id__1827.jpg"/>
@@ -16530,7 +16560,7 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                   </figure>
                </person>
                <person xml:id="emt_person_id__1836">
-                  <persName type="name">Rolshausen (Familie)</persName>
+                  <persName type="name">Rolshausen, NN von</persName>
                   <idno type="URL">https://de.wikipedia.org/wiki/Rolshausen_(Adelsgeschlecht)</idno>
                </person>
                <person xml:id="emt_person_id__1837">
@@ -16836,6 +16866,9 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                   <persName type="title">
                      <roleName>Prinz</roleName>
                   </persName>
+                  <persName type="function">
+                     <roleName>kaiserlicher General</roleName>
+                  </persName>
                   <birth>
                      <date notBefore="1699-01-01" notAfter="1699-12-31">1699</date>
                   </birth>
@@ -16934,7 +16967,7 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                      <roleName>Abbate</roleName>
                   </persName>
                   <persName type="function">
-                     <roleName>Resident des Herzogtums Parma in Spanien bis 1710</roleName>
+                     <roleName>Resident des Herzogtums Parma in Spanien</roleName>
                   </persName>
                   <birth>
                      <date notBefore="1654-01-01" notAfter="1654-12-31">1654</date>
@@ -17242,25 +17275,6 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                <person xml:id="emt_person_id__2042">
                   <persName type="name">Löwenstein, Familie</persName>
                </person>
-               <person xml:id="emt_person_id__2043">
-                  <persName type="name">Baden-Baden, Maria Johanna von Baden-Baden</persName>
-                  <persName type="title">
-                     <roleName>Prinzessin</roleName>
-                  </persName>
-                  <birth>
-                     <date notBefore="1704-01-01" notAfter="1704-12-31">1704</date>
-                  </birth>
-                  <death>
-                     <date notBefore="1726-01-01" notAfter="1726-12-31">1726</date>
-                  </death>
-                  <idno type="GND">https://d-nb.info/gnd/1017916969</idno>
-                  <idno type="NDB">https://www.deutsche-biographie.de/pnd1017916969.html#indexcontent</idno>
-                  <idno type="WIKIDATA">http://www.wikidata.org/entity/Q292123</idno>
-                  <figure>
-                     <graphic url="emt_person_id__2043.jpg"/>
-                     <caption>Portrait d'Augusta Marie Jeanne de Baden-Baden, duchesse d'Orléans, détail (jlpw16 0333).jpg</caption>
-                  </figure>
-               </person>
                <person xml:id="emt_person_id__2076">
                   <persName type="name">Jörger von Tollet (Familie)</persName>
                   <idno type="GND">https://d-nb.info/gnd/120488507</idno>
@@ -17341,7 +17355,10 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                   <persName type="name">D'Elci, in Rom 1697</persName>
                </person>
                <person xml:id="emt_person_id__2153">
-                  <persName type="name">Badestini, Abbate, 1697 in Rom</persName>
+                  <persName type="name">Badestini, NN</persName>
+                  <persName type="title">
+                     <roleName>Abbate</roleName>
+                  </persName>
                </person>
                <person xml:id="emt_person_id__2154">
                   <persName type="name">Trevirani, Abbate, 1697 in Rom</persName>
@@ -17684,12 +17701,12 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                   </persName>
                </person>
                <person xml:id="emt_person_id__2199">
-                  <persName type="name">Ariberti, Bartolomeo, Marchese di Malgrate Lunigiana</persName>
+                  <persName type="name">Ariberti di Malgrate Lunigiana, Bartolomeo</persName>
                   <persName type="title">
                      <roleName>Marchese</roleName>
                   </persName>
                   <persName type="function">
-                     <roleName>pfälzischer Gesandter in Madrid 1698-1700</roleName>
+                     <roleName>pfälzischer Gesandter in Madrid</roleName>
                   </persName>
                   <birth>
                      <date notBefore="1665-01-01" notAfter="1665-12-31">1665</date>
@@ -17697,6 +17714,7 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                   <death>
                      <date notBefore="1724-01-01" notAfter="1724-12-31">1724</date>
                   </death>
+                  <idno type="URL">https://gw.geneanet.org/fcicogna?lang=en&amp;n=ariberti&amp;oc=1&amp;p=bartolomeo</idno>
                </person>
                <person xml:id="emt_person_id__2232">
                   <persName type="name">Velden, Heinrich Ludiwg von</persName>
