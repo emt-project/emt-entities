@@ -6266,10 +6266,23 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                   <idno type="URL">https://www.treccani.it/enciclopedia/domenico-contarini_res-2300c6e1-87eb-11dc-8e9d-0016357eee51_(Dizionario-Biografico)/</idno>
                </person>
                <person xml:id="emt_person_id__517">
-                  <persName type="name">Althann, NN von, 1685 (1691) für Hofamt empfohlen</persName>
+                  <persName type="name">Althann, Georg Christoph von</persName>
                   <persName type="title">
                      <roleName>Graf</roleName>
                   </persName>
+                  <persName type="function">
+                     <roleName>Kämmerer, Geheimer Rat</roleName>
+                  </persName>
+                  <birth>
+                     <date notBefore="1633-01-01" notAfter="1633-12-31">1633</date>
+                  </birth>
+                  <death>
+                     <date notBefore="1706-01-01" notAfter="1706-12-31">1706</date>
+                  </death>
+                  <idno type="GND">https://d-nb.info/gnd/1218005602</idno>
+                  <idno type="NDB">https://www.deutsche-biographie.de/pnd1218005602.html#indexcontent</idno>
+                  <idno type="WIKIDATA">http://www.wikidata.org/entity/Q110262051</idno>
+                  <idno type="URL">https://genealogy.euweb.cz/althann/althann1.html</idno>
                </person>
                <person xml:id="emt_person_id__518">
                   <persName type="name">Bayern, Maximilian I. von</persName>
@@ -6411,7 +6424,14 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                   <idno type="NDB">https://www.deutsche-biographie.de/pnd1214246508.html#index</idno>
                </person>
                <person xml:id="emt_person_id__527">
-                  <persName type="name">Borkstorf/Burkstorf, NN, 1685 vor Gran gefallen</persName>
+                  <persName type="name">Burgsdorff, NN von</persName>
+                  <persName type="function">
+                     <roleName>Obrist</roleName>
+                  </persName>
+                  <death>
+                     <date notBefore="1685-01-01" notAfter="1685-12-31">1685</date>
+                  </death>
+                  <idno type="URL">https://de.wikipedia.org/wiki/Burgsdorff_(Adelsgeschlecht)</idno>
                </person>
                <person xml:id="emt_person_id__528">
                   <persName type="name">Sinzendorf, Karl Ludwig von</persName>
@@ -7528,7 +7548,7 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                   <idno type="URL">https://de.wikipedia.org/wiki/Christoph_Heinrich_von_Galen_zu_Assen</idno>
                </person>
                <person xml:id="emt_person_id__636">
-                  <persName type="name">Braut, deren Hochzeit EMT Anfang Februar 1685 am Schreiben hindert</persName>
+                  <persName type="name">Rappach, Fräulein, deren Hochzeit EMT Anfang Februar 1685 am Schreiben hindert</persName>
                </person>
                <person xml:id="emt_person_id__637">
                   <persName type="name">Berchtram, Herr 1685</persName>
@@ -11158,10 +11178,19 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                   <idno type="URL">https://historia-hispanica.rah.es/biografias/7054-francisco-bernardo-de-quiros-y-valdes</idno>
                </person>
                <person xml:id="emt_person_id__1069">
-                  <persName type="name">Althann, NN von, 1696 für Propstei empfohlen</persName>
+                  <persName type="name">Althann, Adolf August von</persName>
                   <persName type="title">
                      <roleName>Graf</roleName>
                   </persName>
+                  <persName type="function">
+                     <roleName>Domherr zu Salzburg</roleName>
+                  </persName>
+                  <birth>
+                     <date notBefore="1670-01-01" notAfter="1670-12-31">1670</date>
+                  </birth>
+                  <death>
+                     <date notBefore="1719-01-01" notAfter="1719-12-31">1719</date>
+                  </death>
                </person>
                <person xml:id="emt_person_id__1070">
                   <persName type="name">Liechtenstein, NN von, 1696 für oberösterreichische Geheimratsstelle empfohlen</persName>
@@ -12005,7 +12034,7 @@ Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiseri
                   <idno type="WIKIDATA">http://www.wikidata.org/entity/Q67200161</idno>
                </person>
                <person xml:id="emt_person_id__1168">
-                  <persName type="name">Botschet, NN, Memorial 1697</persName>
+                  <persName type="name">Botschet, NN</persName>
                   <persName type="function">
                      <roleName>Offizier</roleName>
                   </persName>
